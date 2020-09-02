@@ -1,0 +1,702 @@
+House of Representatives - 2001 Election: Victoria												
+Two Candidate Preferred Preference Flow Result												
+By Polling Place by Division												
+McEwen (89021)												
+		Candidate		                  	"MACLEOD, Andrew"		            	"BAILEY, Fran"		               	Total	
+				                           	ALP		                        	LP		                         		
+				                           	Votes	%	                     	Votes	%	                     		
+	Alexandra											
+			1st Prefs		557	37.81		916	62.19		1473	
+		"SALTER, Alan A (HAN)"	27		14	51.85		13	48.15		27	
+		"ROMAGNESI, Jim (GRN)"	31		23	74.19		8	25.81		31	
+		"LODWICK, Bill (IND)"	12		5	41.67		7	58.33		12	
+		"CARDEN, Tony (DEM)"	86		51	59.30		35	40.70		86	
+		Total	156		650	39.90		979	60.10		1629	
+
+	Arthurs Creek											
+			1st Prefs		90	28.57		225	71.43		315
+		"SALTER, Alan A (HAN)"	11		5	45.45		6	54.55		11
+		"ROMAGNESI, Jim (GRN)"	23		18	78.26		5	21.74		23
+		"LODWICK, Bill (IND)"	4		0	0.00		4	100.00		4
+		"CARDEN, Tony (DEM)"	10		5	50.00		5	50.00		10
+		Total	48		118	32.51		245	67.49		363
+
+	Avenel										
+			1st Prefs		239	43.06		316	56.94		555
+		"SALTER, Alan A (HAN)"	20		10	50.00		10	50.00		20
+		"ROMAGNESI, Jim (GRN)"	22		19	86.36		3	13.64		22
+		"LODWICK, Bill (IND)"	9		3	33.33		6	66.67		9
+		"CARDEN, Tony (DEM)"	12		8	66.67		4	33.33		12
+		Total	63		279	45.15		339	54.85		618
+
+	Badger Creek										
+			1st Prefs		467	46.28		542	53.72		1009
+		"SALTER, Alan A (HAN)"	34		20	58.82		14	41.18		34
+		"ROMAGNESI, Jim (GRN)"	109		95	87.16		14	12.84		109
+		"LODWICK, Bill (IND)"	7		7	100.00		0	0.00		7
+		"CARDEN, Tony (DEM)"	97		58	59.79		39	40.21		97
+		Total	247		647	51.51		609	48.49		1256
+
+	Beveridge										
+			1st Prefs		104	49.76		105	50.24		209
+		"SALTER, Alan A (HAN)"	7		5	71.43		2	28.57		7
+		"ROMAGNESI, Jim (GRN)"	5		4	80.00		1	20.00		5
+		"LODWICK, Bill (IND)"	3		2	66.67		1	33.33		3
+		"CARDEN, Tony (DEM)"	13		8	61.54		5	38.46		13
+		Total	28		123	51.90		114	48.10		237
+
+	Bonnie Doon										
+			1st Prefs		88	32.59		182	67.41		270
+		"SALTER, Alan A (HAN)"	13		5	38.46		8	61.54		13
+		"ROMAGNESI, Jim (GRN)"	11		10	90.91		1	9.09		11
+		"LODWICK, Bill (IND)"	3		2	66.67		1	33.33		3
+		"CARDEN, Tony (DEM)"	4		4	100.00		0	0.00		4
+		Total	31		109	36.21		192	63.79		301
+
+	Broadford										
+			1st Prefs		961	55.23		779	44.77		1740
+		"SALTER, Alan A (HAN)"	84		45	53.57		39	46.43		84
+		"ROMAGNESI, Jim (GRN)"	91		79	86.81		12	13.19		91
+		"LODWICK, Bill (IND)"	59		32	54.24		27	45.76		59
+		"CARDEN, Tony (DEM)"	70		42	60.00		28	40.00		70
+		Total	304		1159	56.70		885	43.30		2044
+
+	Buxton										
+			1st Prefs		68	30.49		155	69.51		223
+		"SALTER, Alan A (HAN)"	3		0	0.00		3	100.00		3
+		"ROMAGNESI, Jim (GRN)"	10		10	100.00		0	0.00		10
+		"LODWICK, Bill (IND)"	0		0	0.00		0	0.00		0
+		"CARDEN, Tony (DEM)"	9		6	66.67		3	33.33		9
+		Total	22		84	34.29		161	65.71		245
+
+	Christmas Hills										
+			1st Prefs		53	57.61		39	42.39		92
+		"SALTER, Alan A (HAN)"	4		4	100.00		0	0.00		4
+		"ROMAGNESI, Jim (GRN)"	18		17	94.44		1	5.56		18
+		"LODWICK, Bill (IND)"	5		3	60.00		2	40.00		5
+		"CARDEN, Tony (DEM)"	9		8	88.89		1	11.11		9
+		Total	36		85	66.41		43	33.59		128
+
+	Clonbinane										
+			1st Prefs		115	58.67		81	41.33		196
+		"SALTER, Alan A (HAN)"	6		3	50.00		3	50.00		6
+		"ROMAGNESI, Jim (GRN)"	9		7	77.78		2	22.22		9
+		"LODWICK, Bill (IND)"	9		6	66.67		3	33.33		9
+		"CARDEN, Tony (DEM)"	11		9	81.82		2	18.18		11
+		Total	35		140	60.61		91	39.39		231
+
+	Craigieburn										
+			1st Prefs		2872	66.82		1426	33.18		4298
+		"SALTER, Alan A (HAN)"	111		61	54.95		50	45.05		111
+		"ROMAGNESI, Jim (GRN)"	140		117	83.57		23	16.43		140
+		"LODWICK, Bill (IND)"	54		24	44.44		30	55.56		54
+		"CARDEN, Tony (DEM)"	164		90	54.88		74	45.12		164
+		Total	469		3164	66.37		1603	33.63		4767
+
+	Craigieburn South										
+			1st Prefs		1480	69.00		665	31.00		2145
+		"SALTER, Alan A (HAN)"	89		54	60.67		35	39.33		89
+		"ROMAGNESI, Jim (GRN)"	89		74	83.15		15	16.85		89
+		"LODWICK, Bill (IND)"	20		10	50.00		10	50.00		20
+		"CARDEN, Tony (DEM)"	97		60	61.86		37	38.14		97
+		Total	295		1678	68.77		762	31.23		2440
+
+	Diamond Creek										
+			1st Prefs		1023	45.01		1250	54.99		2273
+		"SALTER, Alan A (HAN)"	58		26	44.83		32	55.17		58
+		"ROMAGNESI, Jim (GRN)"	151		126	83.44		25	16.56		151
+		"LODWICK, Bill (IND)"	28		16	57.14		12	42.86		28
+		"CARDEN, Tony (DEM)"	218		126	57.80		92	42.20		218
+		Total	455		1317	48.28		1411	51.72		2728
+
+	Diamond Creek East										
+			1st Prefs		964	42.98		1279	57.02		2243
+		"SALTER, Alan A (HAN)"	67		27	40.30		40	59.70		67
+		"ROMAGNESI, Jim (GRN)"	130		108	83.08		22	16.92		130
+		"LODWICK, Bill (IND)"	26		13	50.00		13	50.00		26
+		"CARDEN, Tony (DEM)"	129		68	52.71		61	47.29		129
+		Total	352		1180	45.47		1415	54.53		2595
+
+	Dixons Creek										
+			1st Prefs		41	24.12		129	75.88		170
+		"SALTER, Alan A (HAN)"	7		4	57.14		3	42.86		7
+		"ROMAGNESI, Jim (GRN)"	12		7	58.33		5	41.67		12
+		"LODWICK, Bill (IND)"	3		1	33.33		2	66.67		3
+		"CARDEN, Tony (DEM)"	13		8	61.54		5	38.46		13
+		Total	35		61	29.76		144	70.24		205
+
+	Don Valley										
+			1st Prefs		74	33.64		146	66.36		220
+		"SALTER, Alan A (HAN)"	10		3	30.00		7	70.00		10
+		"ROMAGNESI, Jim (GRN)"	8		7	87.50		1	12.50		8
+		"LODWICK, Bill (IND)"	1		1	100.00		0	0.00		1
+		"CARDEN, Tony (DEM)"	11		9	81.82		2	18.18		11
+		Total	30		94	37.60		156	62.40		250
+
+	Doreen										
+			1st Prefs		93	24.60		285	75.40		378
+		"SALTER, Alan A (HAN)"	3		1	33.33		2	66.67		3
+		"ROMAGNESI, Jim (GRN)"	18		12	66.67		6	33.33		18
+		"LODWICK, Bill (IND)"	11		5	45.45		6	54.55		11
+		"CARDEN, Tony (DEM)"	19		12	63.16		7	36.84		19
+		Total	51		123	28.67		306	71.33		429
+
+	Eden Park										
+			1st Prefs		206	42.39		280	57.61		486
+		"SALTER, Alan A (HAN)"	10		5	50.00		5	50.00		10
+		"ROMAGNESI, Jim (GRN)"	16		11	68.75		5	31.25		16
+		"LODWICK, Bill (IND)"	5		3	60.00		2	40.00		5
+		"CARDEN, Tony (DEM)"	24		16	66.67		8	33.33		24
+		Total	55		241	44.55		300	55.45		541
+
+	Eildon										
+			1st Prefs		189	40.91		273	59.09		462
+		"SALTER, Alan A (HAN)"	15		6	40.00		9	60.00		15
+		"ROMAGNESI, Jim (GRN)"	9		9	100.00		0	0.00		9
+		"LODWICK, Bill (IND)"	6		3	50.00		3	50.00		6
+		"CARDEN, Tony (DEM)"	58		27	46.55		31	53.45		58
+		Total	88		234	42.55		316	57.45		550
+
+	Flowerdale										
+			1st Prefs		152	47.50		168	52.50		320
+		"SALTER, Alan A (HAN)"	7		3	42.86		4	57.14		7
+		"ROMAGNESI, Jim (GRN)"	21		21	100.00		0	0.00		21
+		"LODWICK, Bill (IND)"	5		4	80.00		1	20.00		5
+		"CARDEN, Tony (DEM)"	14		8	57.14		6	42.86		14
+		Total	47		188	51.23		179	48.77		367
+
+	Gladysdale										
+			1st Prefs		131	42.81		175	57.19		306
+		"SALTER, Alan A (HAN)"	11		6	54.55		5	45.45		11
+		"ROMAGNESI, Jim (GRN)"	23		19	82.61		4	17.39		23
+		"LODWICK, Bill (IND)"	5		1	20.00		4	80.00		5
+		"CARDEN, Tony (DEM)"	13		6	46.15		7	53.85		13
+		Total	52		163	45.53		195	54.47		358
+
+	Glenburn										
+			1st Prefs		62	32.46		129	67.54		191
+		"SALTER, Alan A (HAN)"	20		9	45.00		11	55.00		20
+		"ROMAGNESI, Jim (GRN)"	14		9	64.29		5	35.71		14
+		"LODWICK, Bill (IND)"	3		1	33.33		2	66.67		3
+		"CARDEN, Tony (DEM)"	9		8	88.89		1	11.11		9
+		Total	46		89	37.55		148	62.45		237
+
+	Healesville										
+			1st Prefs		1273	47.39		1413	52.61		2686
+		"SALTER, Alan A (HAN)"	114		50	43.86		64	56.14		114
+		"ROMAGNESI, Jim (GRN)"	330		282	85.45		48	14.55		330
+		"LODWICK, Bill (IND)"	45		21	46.67		24	53.33		45
+		"CARDEN, Tony (DEM)"	203		107	52.71		96	47.29		203
+		Total	692		1733	51.30		1645	48.70		3378
+
+	Hoddles Creek										
+			1st Prefs		77	29.50		184	70.50		261
+		"SALTER, Alan A (HAN)"	7		1	14.29		6	85.71		7
+		"ROMAGNESI, Jim (GRN)"	20		13	65.00		7	35.00		20
+		"LODWICK, Bill (IND)"	4		0	0.00		4	100.00		4
+		"CARDEN, Tony (DEM)"	22		14	63.64		8	36.36		22
+		Total	53		105	33.44		209	66.56		314
+
+	Hurstbridge										
+			1st Prefs		895	50.31		884	49.69		1779
+		"SALTER, Alan A (HAN)"	27		11	40.74		16	59.26		27
+		"ROMAGNESI, Jim (GRN)"	257		223	86.77		34	13.23		257
+		"LODWICK, Bill (IND)"	19		10	52.63		9	47.37		19
+		"CARDEN, Tony (DEM)"	109		63	57.80		46	42.20		109
+		Total	412		1202	54.86		989	45.14		2191
+
+	Jamieson										
+			1st Prefs		75	37.50		125	62.50		200
+		"SALTER, Alan A (HAN)"	16		8	50.00		8	50.00		16
+		"ROMAGNESI, Jim (GRN)"	6		5	83.33		1	16.67		6
+		"LODWICK, Bill (IND)"	1		1	100.00		0	0.00		1
+		"CARDEN, Tony (DEM)"	5		2	40.00		3	60.00		5
+		Total	28		91	39.91		137	60.09		228
+
+	Kalkallo										
+			1st Prefs		54	37.50		90	62.50		144
+		"SALTER, Alan A (HAN)"	6		5	83.33		1	16.67		6
+		"ROMAGNESI, Jim (GRN)"	3		2	66.67		1	33.33		3
+		"LODWICK, Bill (IND)"	4		3	75.00		1	25.00		4
+		"CARDEN, Tony (DEM)"	2		1	50.00		1	50.00		2
+		Total	15		65	40.88		94	59.12		159
+
+	Kangaroo Ground										
+			1st Prefs		204	31.97		434	68.03		638
+		"SALTER, Alan A (HAN)"	8		1	12.50		7	87.50		8
+		"ROMAGNESI, Jim (GRN)"	134		119	88.81		15	11.19		134
+		"LODWICK, Bill (IND)"	9		2	22.22		7	77.78		9
+		"CARDEN, Tony (DEM)"	31		18	58.06		13	41.94		31
+		Total	182		344	41.95		476	58.05		820
+
+	Kilmore										
+			1st Prefs		967	42.54		1306	57.46		2273
+		"SALTER, Alan A (HAN)"	57		24	42.11		33	57.89		57
+		"ROMAGNESI, Jim (GRN)"	111		88	79.28		23	20.72		111
+		"LODWICK, Bill (IND)"	32		16	50.00		16	50.00		32
+		"CARDEN, Tony (DEM)"	146		81	55.48		65	44.52		146
+		Total	346		1176	44.90		1443	55.10		2619
+
+	Kinglake										
+			1st Prefs		325	58.88		227	41.12		552
+		"SALTER, Alan A (HAN)"	29		14	48.28		15	51.72		29
+		"ROMAGNESI, Jim (GRN)"	95		81	85.26		14	14.74		95
+		"LODWICK, Bill (IND)"	7		5	71.43		2	28.57		7
+		"CARDEN, Tony (DEM)"	48		35	72.92		13	27.08		48
+		Total	179		460	62.93		271	37.07		731
+
+	Kinglake West										
+			1st Prefs		361	51.72		337	48.28		698
+		"SALTER, Alan A (HAN)"	16		9	56.25		7	43.75		16
+		"ROMAGNESI, Jim (GRN)"	40		28	70.00		12	30.00		40
+		"LODWICK, Bill (IND)"	9		7	77.78		2	22.22		9
+		"CARDEN, Tony (DEM)"	42		28	66.67		14	33.33		42
+		Total	107		433	53.79		372	46.21		805
+
+	Launching Place										
+			1st Prefs		413	46.88		468	53.12		881
+		"SALTER, Alan A (HAN)"	25		9	36.00		16	64.00		25
+		"ROMAGNESI, Jim (GRN)"	62		53	85.48		9	14.52		62
+		"LODWICK, Bill (IND)"	19		8	42.11		11	57.89		19
+		"CARDEN, Tony (DEM)"	49		31	63.27		18	36.73		49
+		Total	155		514	49.61		522	50.39		1036
+
+	Longwood										
+			1st Prefs		54	34.62		102	65.38		156
+		"SALTER, Alan A (HAN)"	7		2	28.57		5	71.43		7
+		"ROMAGNESI, Jim (GRN)"	6		5	83.33		1	16.67		6
+		"LODWICK, Bill (IND)"	5		3	60.00		2	40.00		5
+		"CARDEN, Tony (DEM)"	7		5	71.43		2	28.57		7
+		Total	25		69	38.12		112	61.88		181
+
+	Mansfield										
+			1st Prefs		679	32.68		1399	67.32		2078
+		"SALTER, Alan A (HAN)"	79		38	48.10		41	51.90		79
+		"ROMAGNESI, Jim (GRN)"	143		119	83.22		24	16.78		143
+		"LODWICK, Bill (IND)"	29		15	51.72		14	48.28		29
+		"CARDEN, Tony (DEM)"	109		55	50.46		54	49.54		109
+		Total	360		906	37.16		1532	62.84		2438
+
+	Marysville										
+			1st Prefs		132	40.62		193	59.38		325
+		"SALTER, Alan A (HAN)"	5		3	60.00		2	40.00		5
+		"ROMAGNESI, Jim (GRN)"	28		24	85.71		4	14.29		28
+		"LODWICK, Bill (IND)"	6		4	66.67		2	33.33		6
+		"CARDEN, Tony (DEM)"	9		7	77.78		2	22.22		9
+		Total	48		170	45.58		203	54.42		373
+
+	Melbourne (McEwen)										
+			1st Prefs		27	45.76		32	54.24		59
+		"SALTER, Alan A (HAN)"	0		0	0.00		0	0.00		0
+		"ROMAGNESI, Jim (GRN)"	8		6	75.00		2	25.00		8
+		"LODWICK, Bill (IND)"	0		0	0.00		0	0.00		0
+		"CARDEN, Tony (DEM)"	11		6	54.55		5	45.45		11
+		Total	19		39	50.00		39	50.00		78
+
+	Mernda										
+			1st Prefs		225	42.69		302	57.31		527
+		"SALTER, Alan A (HAN)"	17		6	35.29		11	64.71		17
+		"ROMAGNESI, Jim (GRN)"	14		13	92.86		1	7.14		14
+		"LODWICK, Bill (IND)"	7		3	42.86		4	57.14		7
+		"CARDEN, Tony (DEM)"	13		8	61.54		5	38.46		13
+		Total	51		255	44.12		323	55.88		578
+
+	Merrijig										
+			1st Prefs		65	34.03		126	65.97		191
+		"SALTER, Alan A (HAN)"	5		2	40.00		3	60.00		5
+		"ROMAGNESI, Jim (GRN)"	19		12	63.16		7	36.84		19
+		"LODWICK, Bill (IND)"	2		2	100.00		0	0.00		2
+		"CARDEN, Tony (DEM)"	8		6	75.00		2	25.00		8
+		Total	34		87	38.67		138	61.33		225
+
+	Merton										
+			1st Prefs		24	22.22		84	77.78		108
+		"SALTER, Alan A (HAN)"	2		2	100.00		0	0.00		2
+		"ROMAGNESI, Jim (GRN)"	1		1	100.00		0	0.00		1
+		"LODWICK, Bill (IND)"	1		0	0.00		1	100.00		1
+		"CARDEN, Tony (DEM)"	2		1	50.00		1	50.00		2
+		Total	6		28	24.56		86	75.44		114
+
+	Mickleham										
+			1st Prefs		183	37.42		306	62.58		489
+		"SALTER, Alan A (HAN)"	29		5	17.24		24	82.76		29
+		"ROMAGNESI, Jim (GRN)"	21		15	71.43		6	28.57		21
+		"LODWICK, Bill (IND)"	7		5	71.43		2	28.57		7
+		"CARDEN, Tony (DEM)"	12		6	50.00		6	50.00		12
+		Total	69		214	38.35		344	61.65		558
+
+	Millgrove										
+			1st Prefs		352	56.77		268	43.23		620
+		"SALTER, Alan A (HAN)"	17		13	76.47		4	23.53		17
+		"ROMAGNESI, Jim (GRN)"	43		39	90.70		4	9.30		43
+		"LODWICK, Bill (IND)"	10		7	70.00		3	30.00		10
+		"CARDEN, Tony (DEM)"	26		14	53.85		12	46.15		26
+		Total	96		425	59.36		291	40.64		716
+
+	Mill Park Lakes										
+			1st Prefs		208	60.12		138	39.88		346
+		"SALTER, Alan A (HAN)"	4		1	25.00		3	75.00		4
+		"ROMAGNESI, Jim (GRN)"	5		2	40.00		3	60.00		5
+		"LODWICK, Bill (IND)"	2		1	50.00		1	50.00		2
+		"CARDEN, Tony (DEM)"	12		9	75.00		3	25.00		12
+		Total	23		221	59.89		148	40.11		369
+
+	Molesworth										
+			1st Prefs		20	23.26		66	76.74		86
+		"SALTER, Alan A (HAN)"	4		1	25.00		3	75.00		4
+		"ROMAGNESI, Jim (GRN)"	5		3	60.00		2	40.00		5
+		"LODWICK, Bill (IND)"	1		0	0.00		1	100.00		1
+		"CARDEN, Tony (DEM)"	4		2	50.00		2	50.00		4
+		Total	14		26	26.00		74	74.00		100
+
+	Mount Buller										
+			1st Prefs		5	27.78		13	72.22		18
+		"SALTER, Alan A (HAN)"	0		0	0.00		0	0.00		0
+		"ROMAGNESI, Jim (GRN)"	1		1	100.00		0	0.00		1
+		"LODWICK, Bill (IND)"	0		0	0.00		0	0.00		0
+		"CARDEN, Tony (DEM)"	3		1	33.33		2	66.67		3
+		Total	4		7	31.82		15	68.18		22
+
+	Nagambie										
+			1st Prefs		487	41.80		678	58.20		1165
+		"SALTER, Alan A (HAN)"	45		27	60.00		18	40.00		45
+		"ROMAGNESI, Jim (GRN)"	30		19	63.33		11	36.67		30
+		"LODWICK, Bill (IND)"	20		11	55.00		9	45.00		20
+		"CARDEN, Tony (DEM)"	20		14	70.00		6	30.00		20
+		Total	115		558	43.59		722	56.41		1280
+
+	Narbethong										
+			1st Prefs		43	36.44		75	63.56		118
+		"SALTER, Alan A (HAN)"	5		3	60.00		2	40.00		5
+		"ROMAGNESI, Jim (GRN)"	4		4	100.00		0	0.00		4
+		"LODWICK, Bill (IND)"	1		0	0.00		1	100.00		1
+		"CARDEN, Tony (DEM)"	1		0	0.00		1	100.00		1
+		Total	11		50	38.76		79	61.24		129
+
+	Panton Hill										
+			1st Prefs		226	42.97		300	57.03		526
+		"SALTER, Alan A (HAN)"	13		7	53.85		6	46.15		13
+		"ROMAGNESI, Jim (GRN)"	128		113	88.28		15	11.72		128
+		"LODWICK, Bill (IND)"	3		2	66.67		1	33.33		3
+		"CARDEN, Tony (DEM)"	30		22	73.33		8	26.67		30
+		Total	174		370	52.86		330	47.14		700
+
+	Piries-Goughs Bay										
+			1st Prefs		31	38.27		50	61.73		81
+		"SALTER, Alan A (HAN)"	2		1	50.00		1	50.00		2
+		"ROMAGNESI, Jim (GRN)"	1		1	100.00		0	0.00		1
+		"LODWICK, Bill (IND)"	1		0	0.00		1	100.00		1
+		"CARDEN, Tony (DEM)"	4		3	75.00		1	25.00		4
+		Total	8		36	40.45		53	59.55		89
+
+	Powelltown										
+			1st Prefs		46	54.76		38	45.24		84
+		"SALTER, Alan A (HAN)"	3		2	66.67		1	33.33		3
+		"ROMAGNESI, Jim (GRN)"	5		5	100.00		0	0.00		5
+		"LODWICK, Bill (IND)"	3		1	33.33		2	66.67		3
+		"CARDEN, Tony (DEM)"	4		2	50.00		2	50.00		4
+		Total	15		56	56.57		43	43.43		99
+
+	Puckapunyal										
+			1st Prefs		111	28.68		276	71.32		387
+		"SALTER, Alan A (HAN)"	19		12	63.16		7	36.84		19
+		"ROMAGNESI, Jim (GRN)"	10		4	40.00		6	60.00		10
+		"LODWICK, Bill (IND)"	15		5	33.33		10	66.67		15
+		"CARDEN, Tony (DEM)"	11		4	36.36		7	63.64		11
+		Total	55		136	30.77		306	69.23		442
+
+	Pyalong										
+			1st Prefs		109	37.46		182	62.54		291
+		"SALTER, Alan A (HAN)"	22		12	54.55		10	45.45		22
+		"ROMAGNESI, Jim (GRN)"	11		8	72.73		3	27.27		11
+		"LODWICK, Bill (IND)"	3		1	33.33		2	66.67		3
+		"CARDEN, Tony (DEM)"	9		4	44.44		5	55.56		9
+		Total	45		134	39.88		202	60.12		336
+
+	Research (McEwen)										
+			1st Prefs		673	38.41		1079	61.59		1752
+		"SALTER, Alan A (HAN)"	13		6	46.15		7	53.85		13
+		"ROMAGNESI, Jim (GRN)"	122		105	86.07		17	13.93		122
+		"LODWICK, Bill (IND)"	22		9	40.91		13	59.09		22
+		"CARDEN, Tony (DEM)"	124		69	55.65		55	44.35		124
+		Total	281		862	42.40		1171	57.60		2033
+
+	Roxburgh Park (McEwen)										
+			1st Prefs		749	70.53		313	29.47		1062
+		"SALTER, Alan A (HAN)"	17		15	88.24		2	11.76		17
+		"ROMAGNESI, Jim (GRN)"	22		12	54.55		10	45.45		22
+		"LODWICK, Bill (IND)"	21		8	38.10		13	61.90		21
+		"CARDEN, Tony (DEM)"	49		35	71.43		14	28.57		49
+		Total	109		819	69.94		352	30.06		1171
+
+	Ruffy										
+			1st Prefs		10	14.71		58	85.29		68
+		"SALTER, Alan A (HAN)"	4		2	50.00		2	50.00		4
+		"ROMAGNESI, Jim (GRN)"	4		2	50.00		2	50.00		4
+		"LODWICK, Bill (IND)"	1		0	0.00		1	100.00		1
+		"CARDEN, Tony (DEM)"	6		4	66.67		2	33.33		6
+		Total	15		18	21.69		65	78.31		83
+
+	St Andrews										
+			1st Prefs		279	50.54		273	49.46		552
+		"SALTER, Alan A (HAN)"	15		7	46.67		8	53.33		15
+		"ROMAGNESI, Jim (GRN)"	184		174	94.57		10	5.43		184
+		"LODWICK, Bill (IND)"	5		3	60.00		2	40.00		5
+		"CARDEN, Tony (DEM)"	32		18	56.25		14	43.75		32
+		Total	236		481	61.04		307	38.96		788
+
+	Seymour										
+			1st Prefs		549	42.72		736	57.28		1285
+		"SALTER, Alan A (HAN)"	70		29	41.43		41	58.57		70
+		"ROMAGNESI, Jim (GRN)"	48		47	97.92		1	2.08		48
+		"LODWICK, Bill (IND)"	25		12	48.00		13	52.00		25
+		"CARDEN, Tony (DEM)"	45		30	66.67		15	33.33		45
+		Total	188		667	45.28		806	54.72		1473
+
+	Seymour East										
+			1st Prefs		1221	50.29		1207	49.71		2428
+		"SALTER, Alan A (HAN)"	105		57	54.29		48	45.71		105
+		"ROMAGNESI, Jim (GRN)"	91		68	74.73		23	25.27		91
+		"LODWICK, Bill (IND)"	49		25	51.02		24	48.98		49
+		"CARDEN, Tony (DEM)"	92		53	57.61		39	42.39		92
+		Total	337		1424	51.50		1341	48.50		2765
+
+	Strath Creek										
+			1st Prefs		34	48.57		36	51.43		70
+		"SALTER, Alan A (HAN)"	4		3	75.00		1	25.00		4
+		"ROMAGNESI, Jim (GRN)"	9		9	100.00		0	0.00		9
+		"LODWICK, Bill (IND)"	2		2	100.00		0	0.00		2
+		"CARDEN, Tony (DEM)"	1		1	100.00		0	0.00		1
+		Total	16		49	56.98		37	43.02		86
+
+	Taggerty										
+			1st Prefs		63	32.98		128	67.02		191
+		"SALTER, Alan A (HAN)"	7		1	14.29		6	85.71		7
+		"ROMAGNESI, Jim (GRN)"	7		6	85.71		1	14.29		7
+		"LODWICK, Bill (IND)"	4		4	100.00		0	0.00		4
+		"CARDEN, Tony (DEM)"	14		8	57.14		6	42.86		14
+		Total	32		82	36.77		141	63.23		223
+
+	Tallarook										
+			1st Prefs		155	49.36		159	50.64		314
+		"SALTER, Alan A (HAN)"	15		7	46.67		8	53.33		15
+		"ROMAGNESI, Jim (GRN)"	13		11	84.62		2	15.38		13
+		"LODWICK, Bill (IND)"	10		5	50.00		5	50.00		10
+		"CARDEN, Tony (DEM)"	9		6	66.67		3	33.33		9
+		Total	47		184	50.97		177	49.03		361
+
+	Thornton										
+			1st Prefs		92	37.40		154	62.60		246
+		"SALTER, Alan A (HAN)"	5		2	40.00		3	60.00		5
+		"ROMAGNESI, Jim (GRN)"	3		3	100.00		0	0.00		3
+		"LODWICK, Bill (IND)"	1		1	100.00		0	0.00		1
+		"CARDEN, Tony (DEM)"	18		11	61.11		7	38.89		18
+		Total	27		109	39.93		164	60.07		273
+
+	Tolmie										
+			1st Prefs		45	52.94		40	47.06		85
+		"SALTER, Alan A (HAN)"	9		5	55.56		4	44.44		9
+		"ROMAGNESI, Jim (GRN)"	8		7	87.50		1	12.50		8
+		"LODWICK, Bill (IND)"	1		0	0.00		1	100.00		1
+		"CARDEN, Tony (DEM)"	7		6	85.71		1	14.29		7
+		Total	25		63	57.27		47	42.73		110
+
+	Toolangi										
+			1st Prefs		73	33.49		145	66.51		218
+		"SALTER, Alan A (HAN)"	10		7	70.00		3	30.00		10
+		"ROMAGNESI, Jim (GRN)"	17		15	88.24		2	11.76		17
+		"LODWICK, Bill (IND)"	2		2	100.00		0	0.00		2
+		"CARDEN, Tony (DEM)"	13		8	61.54		5	38.46		13
+		Total	42		105	40.38		155	59.62		260
+
+	Wallan East										
+			1st Prefs		109	52.40		99	47.60		208
+		"SALTER, Alan A (HAN)"	12		3	25.00		9	75.00		12
+		"ROMAGNESI, Jim (GRN)"	9		8	88.89		1	11.11		9
+		"LODWICK, Bill (IND)"	3		1	33.33		2	66.67		3
+		"CARDEN, Tony (DEM)"	6		3	50.00		3	50.00		6
+		Total	30		124	52.10		114	47.90		238
+
+	Wallan Wallan										
+			1st Prefs		1046	55.43		841	44.57		1887
+		"SALTER, Alan A (HAN)"	64		34	53.13		30	46.88		64
+		"ROMAGNESI, Jim (GRN)"	89		70	78.65		19	21.35		89
+		"LODWICK, Bill (IND)"	27		17	62.96		10	37.04		27
+		"CARDEN, Tony (DEM)"	85		50	58.82		35	41.18		85
+		Total	265		1217	56.55		935	43.45		2152
+
+	Wandong										
+			1st Prefs		398	51.22		379	48.78		777
+		"SALTER, Alan A (HAN)"	37		17	45.95		20	54.05		37
+		"ROMAGNESI, Jim (GRN)"	53		46	86.79		7	13.21		53
+		"LODWICK, Bill (IND)"	9		4	44.44		5	55.56		9
+		"CARDEN, Tony (DEM)"	31		15	48.39		16	51.61		31
+		Total	130		480	52.92		427	47.08		907
+
+	Warburton										
+			1st Prefs		318	46.97		359	53.03		677
+		"SALTER, Alan A (HAN)"	23		11	47.83		12	52.17		23
+		"ROMAGNESI, Jim (GRN)"	117		99	84.62		18	15.38		117
+		"LODWICK, Bill (IND)"	6		1	16.67		5	83.33		6
+		"CARDEN, Tony (DEM)"	62		39	62.90		23	37.10		62
+		Total	208		468	52.88		417	47.12		885
+
+	Warburton East										
+			1st Prefs		223	55.06		182	44.94		405
+		"SALTER, Alan A (HAN)"	19		11	57.89		8	42.11		19
+		"ROMAGNESI, Jim (GRN)"	31		24	77.42		7	22.58		31
+		"LODWICK, Bill (IND)"	5		2	40.00		3	60.00		5
+		"CARDEN, Tony (DEM)"	12		9	75.00		3	25.00		12
+		Total	67		269	56.99		203	43.01		472
+
+	Warrandyte North										
+			1st Prefs		353	40.25		524	59.75		877
+		"SALTER, Alan A (HAN)"	10		6	60.00		4	40.00		10
+		"ROMAGNESI, Jim (GRN)"	258		219	84.88		39	15.12		258
+		"LODWICK, Bill (IND)"	14		5	35.71		9	64.29		14
+		"CARDEN, Tony (DEM)"	65		44	67.69		21	32.31		65
+		Total	347		627	51.23		597	48.77		1224
+
+	Wattle Glen										
+			1st Prefs		246	46.42		284	53.58		530
+		"SALTER, Alan A (HAN)"	11		5	45.45		6	54.55		11
+		"ROMAGNESI, Jim (GRN)"	64		56	87.50		8	12.50		64
+		"LODWICK, Bill (IND)"	10		6	60.00		4	40.00		10
+		"CARDEN, Tony (DEM)"	28		15	53.57		13	46.43		28
+		Total	113		328	51.01		315	48.99		643
+
+	Wesburn										
+			1st Prefs		214	40.45		315	59.55		529
+		"SALTER, Alan A (HAN)"	33		18	54.55		15	45.45		33
+		"ROMAGNESI, Jim (GRN)"	58		56	96.55		2	3.45		58
+		"LODWICK, Bill (IND)"	6		2	33.33		4	66.67		6
+		"CARDEN, Tony (DEM)"	34		26	76.47		8	23.53		34
+		Total	131		316	47.88		344	52.12		660
+
+	Whittlesea										
+			1st Prefs		747	39.80		1130	60.20		1877
+		"SALTER, Alan A (HAN)"	54		25	46.30		29	53.70		54
+		"ROMAGNESI, Jim (GRN)"	105		86	81.90		19	18.10		105
+		"LODWICK, Bill (IND)"	19		7	36.84		12	63.16		19
+		"CARDEN, Tony (DEM)"	137		81	59.12		56	40.88		137
+		Total	315		946	43.16		1246	56.84		2192
+
+	Wollert										
+			1st Prefs		108	42.02		149	57.98		257
+		"SALTER, Alan A (HAN)"	13		7	53.85		6	46.15		13
+		"ROMAGNESI, Jim (GRN)"	7		3	42.86		4	57.14		7
+		"LODWICK, Bill (IND)"	0		0	0.00		0	0.00		0
+		"CARDEN, Tony (DEM)"	7		1	14.29		6	85.71		7
+		Total	27		119	41.90		165	58.10		284
+
+	Woori Yallock										
+			1st Prefs		605	39.16		940	60.84		1545
+		"SALTER, Alan A (HAN)"	47		23	48.94		24	51.06		47
+		"ROMAGNESI, Jim (GRN)"	91		73	80.22		18	19.78		91
+		"LODWICK, Bill (IND)"	14		9	64.29		5	35.71		14
+		"CARDEN, Tony (DEM)"	105		49	46.67		56	53.33		105
+		Total	257		759	42.12		1043	57.88		1802
+
+	Yan Yean										
+			1st Prefs		55	32.93		112	67.07		167
+		"SALTER, Alan A (HAN)"	3		0	0.00		3	100.00		3
+		"ROMAGNESI, Jim (GRN)"	13		12	92.31		1	7.69		13
+		"LODWICK, Bill (IND)"	3		1	33.33		2	66.67		3
+		"CARDEN, Tony (DEM)"	1		1	100.00		0	0.00		1
+		Total	20		69	36.90		118	63.10		187
+
+	Yarck										
+			1st Prefs		37	26.24		104	73.76		141
+		"SALTER, Alan A (HAN)"	3		1	33.33		2	66.67		3
+		"ROMAGNESI, Jim (GRN)"	2		2	100.00		0	0.00		2
+		"LODWICK, Bill (IND)"	0		0	0.00		0	0.00		0
+		"CARDEN, Tony (DEM)"	9		6	66.67		3	33.33		9
+		Total	14		46	29.68		109	70.32		155
+
+	Yarra Glen										
+			1st Prefs		330	30.90		738	69.10		1068
+		"SALTER, Alan A (HAN)"	35		16	45.71		19	54.29		35
+		"ROMAGNESI, Jim (GRN)"	137		118	86.13		19	13.87		137
+		"LODWICK, Bill (IND)"	15		9	60.00		6	40.00		15
+		"CARDEN, Tony (DEM)"	58		42	72.41		16	27.59		58
+		Total	245		515	39.22		798	60.78		1313
+
+	Yarra Junction										
+			1st Prefs		382	43.66		493	56.34		875
+		"SALTER, Alan A (HAN)"	29		17	58.62		12	41.38		29
+		"ROMAGNESI, Jim (GRN)"	87		73	83.91		14	16.09		87
+		"LODWICK, Bill (IND)"	13		5	38.46		8	61.54		13
+		"CARDEN, Tony (DEM)"	50		26	52.00		24	48.00		50
+		Total	179		503	47.72		551	52.28		1054
+
+	Yarrambat										
+			1st Prefs		224	33.99		435	66.01		659
+		"SALTER, Alan A (HAN)"	12		8	66.67		4	33.33		12
+		"ROMAGNESI, Jim (GRN)"	35		31	88.57		4	11.43		35
+		"LODWICK, Bill (IND)"	8		2	25.00		6	75.00		8
+		"CARDEN, Tony (DEM)"	34		20	58.82		14	41.18		34
+		Total	89		285	38.10		463	61.90		748
+
+	Yea										
+			1st Prefs		338	34.85		632	65.15		970
+		"SALTER, Alan A (HAN)"	34		18	52.94		16	47.06		34
+		"ROMAGNESI, Jim (GRN)"	38		29	76.32		9	23.68		38
+		"LODWICK, Bill (IND)"	6		5	83.33		1	16.67		6
+		"CARDEN, Tony (DEM)"	45		24	53.33		21	46.67		45
+		Total	123		414	37.88		679	62.12		1093
+
+	Special Hospitals										
+			1st Prefs		43	52.44		39	47.56		82
+		"SALTER, Alan A (HAN)"	2		1	50.00		1	50.00		2
+		"ROMAGNESI, Jim (GRN)"	1		1	100.00		0	0.00		1
+		"LODWICK, Bill (IND)"	0		0	0.00		0	0.00		0
+		"CARDEN, Tony (DEM)"	1		0	0.00		1	100.00		1
+		Total	4		45	52.33		41	47.67		86
+
+	Total Ordinary										
+			1st Prefs		27419	46.36		31724	53.64		59143
+		"SALTER, Alan A (HAN)"	1915		947	49.45		968	50.55		1915
+		"ROMAGNESI, Jim (GRN)"	4224		3555	84.16		669	15.84		4224
+		"LODWICK, Bill (IND)"	844		422	50.00		422	50.00		844
+		"CARDEN, Tony (DEM)"	3222		1886	58.54		1336	41.46		3222
+		Total	10205		34229	49.36		35119	50.64		69348
+
+	ABSENT										
+			1st Prefs		1964	44.44		2455	55.56		4419
+		"SALTER, Alan A (HAN)"	214		126	58.88		88	41.12		214
+		"ROMAGNESI, Jim (GRN)"	454		348	76.65		106	23.35		454
+		"LODWICK, Bill (IND)"	151		72	47.68		79	52.32		151
+		"CARDEN, Tony (DEM)"	426		261	61.27		165	38.73		426
+		Total	1245		2771	48.92		2893	51.08		5664
+
+	POSTAL										
+			1st Prefs		1473	40.27		2185	59.73		3658
+		"SALTER, Alan A (HAN)"	191		96	50.26		95	49.74		191
+		"ROMAGNESI, Jim (GRN)"	135		105	77.78		30	22.22		135
+		"LODWICK, Bill (IND)"	66		31	46.97		35	53.03		66
+		"CARDEN, Tony (DEM)"	180		103	57.22		77	42.78		180
+		Total	572		1808	42.74		2422	57.26		4230
+
+	PRE_POLL										
+			1st Prefs		814	37.86		1336	62.14		2150
+		"SALTER, Alan A (HAN)"	97		43	44.33		54	55.67		97
+		"ROMAGNESI, Jim (GRN)"	147		113	76.87		34	23.13		147
+		"LODWICK, Bill (IND)"	56		29	51.79		27	48.21		56
+		"CARDEN, Tony (DEM)"	124		71	57.26		53	42.74		124
+		Total	424		1070	41.57		1504	58.43		2574
+
+	PROVISIONAL										
+			1st Prefs		316	54.58		263	45.42		579	
+		"SALTER, Alan A (HAN)"	31		20	64.52		11	35.48		31	
+		"ROMAGNESI, Jim (GRN)"	46		30	65.22		16	34.78		46	
+		"LODWICK, Bill (IND)"	12		5	41.67		7	58.33		12	
+		"CARDEN, Tony (DEM)"	34		20	58.82		14	41.18		34	
+		Total	123		391	55.70		311	44.30		702	
+
+	Division Summary											
+			1st Prefs		31986	45.73		37963	54.27		69949	
+		"SALTER, Alan A (HAN)"	2448		1232	50.33		1216	49.67		2448	
+		"ROMAGNESI, Jim (GRN)"	5006		4151	82.92		855	17.08		5006	
+		"LODWICK, Bill (IND)"	1129		559	49.51		570	50.49		1129	
+		"CARDEN, Tony (DEM)"	3986		2341	58.73		1645	41.27		3986	
+		Total	12569		40269	48.80		42249	51.20		82518	

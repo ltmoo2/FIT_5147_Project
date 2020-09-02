@@ -1,0 +1,863 @@
+House of Representatives - 2001 Election: New South Wales											
+Two Candidate Preferred Preference Flow Result											
+By Polling Place											
+											
+Riverina (87399)											
+					"ALBISTON, "			"HULL,"			
+		Candidate		                  	Andrew		           	Kay		Total	
+				                           	CLR		                        	NP			
+				                           	Votes	%	                     	Votes	%		
+	Adjungbilly										
+			1st Prefs		13	28.26		33	71.74	46	
+		"RICHTER, Dennis (IND)"	1		0	0.00		1	100.00	1	
+		"TURNER, Neil (HAN)"	4		0	0.00		4	100.00	4	
+		"GRAHAM, Rex (DEM)"	0		0	0.00		0	0.00	0	
+		"DANCEY, Russell Francis (CTA)"	0		0	0.00		0	0.00	0	
+		"MOORE, Catherine (GRN)"	2		2	100.00		0	0.00	2	
+		Total	7		15	28.30		38	71.70	53	
+
+	Ardlethan										
+			1st Prefs		70	21.34		258	78.66	328	
+		"RICHTER, Dennis (IND)"	13		7	53.85		6	46.15	13	
+		"TURNER, Neil (HAN)"	21		10	47.62		11	52.38	21	
+		"GRAHAM, Rex (DEM)"	3		1	33.33		2	66.67	3	
+		"DANCEY, Russell Francis (CTA)"	3		0	0.00		3	100.00	3	
+		"MOORE, Catherine (GRN)"	2		1	50.00		1	50.00	2	
+		Total	42		89	24.05		281	75.95	370	
+
+	Ariah Park										
+			1st Prefs		35	10.94		285	89.06	320	
+		"RICHTER, Dennis (IND)"	10		6	60.00		4	40.00	10	
+		"TURNER, Neil (HAN)"	20		7	35.00		13	65.00	20	
+		"GRAHAM, Rex (DEM)"	1		1	100.00		0	0.00	1	
+		"DANCEY, Russell Francis (CTA)"	13		2	15.38		11	84.62	13	
+		"MOORE, Catherine (GRN)"	4		1	25.00		3	75.00	4	
+		Total	48		52	14.13		316	85.87	368	
+
+	Ashmont										
+			1st Prefs		603	37.20		1018	62.80	1621	
+		"RICHTER, Dennis (IND)"	58		33	56.90		25	43.10	58	
+		"TURNER, Neil (HAN)"	134		52	38.81		82	61.19	134	
+		"GRAHAM, Rex (DEM)"	59		35	59.32		24	40.68	59	
+		"DANCEY, Russell Francis (CTA)"	38		8	21.05		30	78.95	38	
+		"MOORE, Catherine (GRN)"	63		30	47.62		33	52.38	63	
+		Total	352		761	38.57		1212	61.43	1973	
+
+	Barellan										
+			1st Prefs		38	11.73		286	88.27	324	
+		"RICHTER, Dennis (IND)"	5		3	60.00		2	40.00	5	
+		"TURNER, Neil (HAN)"	28		7	25.00		21	75.00	28	
+		"GRAHAM, Rex (DEM)"	1		1	100.00		0	0.00	1	
+		"DANCEY, Russell Francis (CTA)"	1		0	0.00		1	100.00	1	
+		"MOORE, Catherine (GRN)"	2		0	0.00		2	100.00	2	
+		Total	37		49	13.57		312	86.43	361	
+
+	Beckom										
+			1st Prefs		3	4.69		61	95.31	64	
+		"RICHTER, Dennis (IND)"	0		0	0.00		0	0.00	0	
+		"TURNER, Neil (HAN)"	6		0	0.00		6	100.00	6	
+		"GRAHAM, Rex (DEM)"	0		0	0.00		0	0.00	0	
+		"DANCEY, Russell Francis (CTA)"	0		0	0.00		0	0.00	0	
+		"MOORE, Catherine (GRN)"	0		0	0.00		0	0.00	0	
+		Total	6		3	4.29		67	95.71	70	
+
+	Beelbangera										
+			1st Prefs		68	22.90		229	77.10	297	
+		"RICHTER, Dennis (IND)"	8		3	37.50		5	62.50	8	
+		"TURNER, Neil (HAN)"	23		10	43.48		13	56.52	23	
+		"GRAHAM, Rex (DEM)"	6		1	16.67		5	83.33	6	
+		"DANCEY, Russell Francis (CTA)"	1		1	100.00		0	0.00	1	
+		"MOORE, Catherine (GRN)"	5		3	60.00		2	40.00	5	
+		Total	43		86	25.29		254	74.71	340	
+
+	Bethungra										
+			1st Prefs		18	18.56		79	81.44	97	
+		"RICHTER, Dennis (IND)"	2		1	50.00		1	50.00	2	
+		"TURNER, Neil (HAN)"	9		3	33.33		6	66.67	9	
+		"GRAHAM, Rex (DEM)"	8		2	25.00		6	75.00	8	
+		"DANCEY, Russell Francis (CTA)"	2		0	0.00		2	100.00	2	
+		"MOORE, Catherine (GRN)"	5		2	40.00		3	60.00	5	
+		Total	26		26	21.14		97	78.86	123	
+
+	Bilbul										
+			1st Prefs		35	21.21		130	78.79	165	
+		"RICHTER, Dennis (IND)"	5		3	60.00		2	40.00	5	
+		"TURNER, Neil (HAN)"	15		8	53.33		7	46.67	15	
+		"GRAHAM, Rex (DEM)"	3		2	66.67		1	33.33	3	
+		"DANCEY, Russell Francis (CTA)"	3		0	0.00		3	100.00	3	
+		"MOORE, Catherine (GRN)"	1		1	100.00		0	0.00	1	
+		Total	27		49	25.52		143	74.48	192	
+
+	Binya										
+			1st Prefs		5	6.25		75	93.75	80	
+		"RICHTER, Dennis (IND)"	1		0	0.00		1	100.00	1	
+		"TURNER, Neil (HAN)"	5		1	20.00		4	80.00	5	
+		"GRAHAM, Rex (DEM)"	1		1	100.00		0	0.00	1	
+		"DANCEY, Russell Francis (CTA)"	0		0	0.00		0	0.00	0	
+		"MOORE, Catherine (GRN)"	4		1	25.00		3	75.00	4	
+		Total	11		8	8.79		83	91.21	91	
+
+	Booligal										
+			1st Prefs		8	18.60		35	81.40	43	
+		"RICHTER, Dennis (IND)"	0		0	0.00		0	0.00	0	
+		"TURNER, Neil (HAN)"	6		3	50.00		3	50.00	6	
+		"GRAHAM, Rex (DEM)"	1		0	0.00		1	100.00	1	
+		"DANCEY, Russell Francis (CTA)"	0		0	0.00		0	0.00	0	
+		"MOORE, Catherine (GRN)"	0		0	0.00		0	0.00	0	
+		Total	7		11	22.00		39	78.00	50	
+
+	Carrathool										
+			1st Prefs		11	15.49		60	84.51	71	
+		"RICHTER, Dennis (IND)"	1		1	100.00		0	0.00	1	
+		"TURNER, Neil (HAN)"	9		3	33.33		6	66.67	9	
+		"GRAHAM, Rex (DEM)"	3		3	100.00		0	0.00	3	
+		"DANCEY, Russell Francis (CTA)"	0		0	0.00		0	0.00	0	
+		"MOORE, Catherine (GRN)"	0		0	0.00		0	0.00	0	
+		Total	13		18	21.43		66	78.57	84	
+
+	Charles Sturt University										
+			1st Prefs		39	31.20		86	68.80	125	
+		"RICHTER, Dennis (IND)"	5		2	40.00		3	60.00	5	
+		"TURNER, Neil (HAN)"	10		2	20.00		8	80.00	10	
+		"GRAHAM, Rex (DEM)"	10		4	40.00		6	60.00	10	
+		"DANCEY, Russell Francis (CTA)"	12		3	25.00		9	75.00	12	
+		"MOORE, Catherine (GRN)"	11		8	72.73		3	27.27	11	
+		Total	48		58	33.53		115	66.47	173	
+
+	Coleambally										
+			1st Prefs		73	13.39		472	86.61	545	
+		"RICHTER, Dennis (IND)"	2		1	50.00		1	50.00	2	
+		"TURNER, Neil (HAN)"	31		4	12.90		27	87.10	31	
+		"GRAHAM, Rex (DEM)"	9		4	44.44		5	55.56	9	
+		"DANCEY, Russell Francis (CTA)"	4		0	0.00		4	100.00	4	
+		"MOORE, Catherine (GRN)"	3		2	66.67		1	33.33	3	
+		Total	49		84	14.14		510	85.86	594	
+
+	Collingullie										
+			1st Prefs		29	16.48		147	83.52	176	
+		"RICHTER, Dennis (IND)"	2		0	0.00		2	100.00	2	
+		"TURNER, Neil (HAN)"	8		1	12.50		7	87.50	8	
+		"GRAHAM, Rex (DEM)"	4		3	75.00		1	25.00	4	
+		"DANCEY, Russell Francis (CTA)"	0		0	0.00		0	0.00	0	
+		"MOORE, Catherine (GRN)"	3		0	0.00		3	100.00	3	
+		Total	17		33	17.10		160	82.90	193	
+
+	Coolac										
+			1st Prefs		54	28.27		137	71.73	191	
+		"RICHTER, Dennis (IND)"	7		3	42.86		4	57.14	7	
+		"TURNER, Neil (HAN)"	15		1	6.67		14	93.33	15	
+		"GRAHAM, Rex (DEM)"	2		0	0.00		2	100.00	2	
+		"DANCEY, Russell Francis (CTA)"	0		0	0.00		0	0.00	0	
+		"MOORE, Catherine (GRN)"	8		5	62.50		3	37.50	8	
+		Total	32		63	28.25		160	71.75	223	
+
+	Coolamon										
+			1st Prefs		175	19.84		707	80.16	882	
+		"RICHTER, Dennis (IND)"	20		13	65.00		7	35.00	20	
+		"TURNER, Neil (HAN)"	74		21	28.38		53	71.62	74	
+		"GRAHAM, Rex (DEM)"	36		18	50.00		18	50.00	36	
+		"DANCEY, Russell Francis (CTA)"	9		4	44.44		5	55.56	9	
+		"MOORE, Catherine (GRN)"	23		12	52.17		11	47.83	23	
+		Total	162		243	23.28		801	76.72	1044	
+
+	Cootamundra										
+			1st Prefs		866	44.96		1060	55.04	1926	
+		"RICHTER, Dennis (IND)"	58		34	58.62		24	41.38	58	
+		"TURNER, Neil (HAN)"	112		49	43.75		63	56.25	112	
+		"GRAHAM, Rex (DEM)"	60		32	53.33		28	46.67	60	
+		"DANCEY, Russell Francis (CTA)"	46		10	21.74		36	78.26	46	
+		"MOORE, Catherine (GRN)"	41		23	56.10		18	43.90	41	
+		Total	317		1014	45.21		1229	54.79	2243	
+
+	Cootamundra High										
+			1st Prefs		314	39.10		489	60.90	803	
+		"RICHTER, Dennis (IND)"	18		10	55.56		8	44.44	18	
+		"TURNER, Neil (HAN)"	49		18	36.73		31	63.27	49	
+		"GRAHAM, Rex (DEM)"	26		14	53.85		12	46.15	26	
+		"DANCEY, Russell Francis (CTA)"	20		4	20.00		16	80.00	20	
+		"MOORE, Catherine (GRN)"	14		10	71.43		4	28.57	14	
+		Total	127		370	39.78		560	60.22	930	
+
+	Cootamundra South										
+			1st Prefs		311	46.84		353	53.16	664	
+		"RICHTER, Dennis (IND)"	12		8	66.67		4	33.33	12	
+		"TURNER, Neil (HAN)"	37		22	59.46		15	40.54	37	
+		"GRAHAM, Rex (DEM)"	10		7	70.00		3	30.00	10	
+		"DANCEY, Russell Francis (CTA)"	11		4	36.36		7	63.64	11	
+		"MOORE, Catherine (GRN)"	21		12	57.14		9	42.86	21	
+		Total	91		364	48.21		391	51.79	755	
+
+	Currawarna										
+			1st Prefs		17	20.99		64	79.01	81	
+		"RICHTER, Dennis (IND)"	2		0	0.00		2	100.00	2	
+		"TURNER, Neil (HAN)"	17		4	23.53		13	76.47	17	
+		"GRAHAM, Rex (DEM)"	1		0	0.00		1	100.00	1	
+		"DANCEY, Russell Francis (CTA)"	3		0	0.00		3	100.00	3	
+		"MOORE, Catherine (GRN)"	0		0	0.00		0	0.00	0	
+		Total	23		21	20.19		83	79.81	104	
+
+	Darlington Point										
+			1st Prefs		233	41.09		334	58.91	567	
+		"RICHTER, Dennis (IND)"	13		7	53.85		6	46.15	13	
+		"TURNER, Neil (HAN)"	60		15	25.00		45	75.00	60	
+		"GRAHAM, Rex (DEM)"	13		7	53.85		6	46.15	13	
+		"DANCEY, Russell Francis (CTA)"	2		1	50.00		1	50.00	2	
+		"MOORE, Catherine (GRN)"	12		7	58.33		5	41.67	12	
+		Total	100		270	40.48		397	59.52	667	
+
+	Driver										
+			1st Prefs		249	27.64		652	72.36	901	
+		"RICHTER, Dennis (IND)"	15		6	40.00		9	60.00	15	
+		"TURNER, Neil (HAN)"	72		19	26.39		53	73.61	72	
+		"GRAHAM, Rex (DEM)"	17		13	76.47		4	23.53	17	
+		"DANCEY, Russell Francis (CTA)"	6		0	0.00		6	100.00	6	
+		"MOORE, Catherine (GRN)"	8		5	62.50		3	37.50	8	
+		Total	118		292	28.66		727	71.34	1019	
+
+	Euberta										
+			1st Prefs		9	10.71		75	89.29	84	
+		"RICHTER, Dennis (IND)"	4		2	50.00		2	50.00	4	
+		"TURNER, Neil (HAN)"	4		0	0.00		4	100.00	4	
+		"GRAHAM, Rex (DEM)"	2		1	50.00		1	50.00	2	
+		"DANCEY, Russell Francis (CTA)"	1		0	0.00		1	100.00	1	
+		"MOORE, Catherine (GRN)"	2		2	100.00		0	0.00	2	
+		Total	13		14	14.43		83	85.57	97	
+
+	Forest Hill										
+			1st Prefs		174	21.72		627	78.28	801	
+		"RICHTER, Dennis (IND)"	41		21	51.22		20	48.78	41	
+		"TURNER, Neil (HAN)"	80		31	38.75		49	61.25	80	
+		"GRAHAM, Rex (DEM)"	29		12	41.38		17	58.62	29	
+		"DANCEY, Russell Francis (CTA)"	15		2	13.33		13	86.67	15	
+		"MOORE, Catherine (GRN)"	39		24	61.54		15	38.46	39	
+		Total	204		264	26.27		741	73.73	1005	
+
+	Galore										
+			1st Prefs		3	3.26		89	96.74	92	
+		"RICHTER, Dennis (IND)"	0		0	0.00		0	0.00	0	
+		"TURNER, Neil (HAN)"	10		3	30.00		7	70.00	10	
+		"GRAHAM, Rex (DEM)"	3		3	100.00		0	0.00	3	
+		"DANCEY, Russell Francis (CTA)"	2		0	0.00		2	100.00	2	
+		"MOORE, Catherine (GRN)"	2		2	100.00		0	0.00	2	
+		Total	17		11	10.09		98	89.91	109	
+
+	Ganmain										
+			1st Prefs		77	19.59		316	80.41	393	
+		"RICHTER, Dennis (IND)"	10		5	50.00		5	50.00	10	
+		"TURNER, Neil (HAN)"	30		16	53.33		14	46.67	30	
+		"GRAHAM, Rex (DEM)"	6		2	33.33		4	66.67	6	
+		"DANCEY, Russell Francis (CTA)"	4		1	25.00		3	75.00	4	
+		"MOORE, Catherine (GRN)"	10		4	40.00		6	60.00	10	
+		Total	60		105	23.18		348	76.82	453	
+
+	Glenfield Park										
+			1st Prefs		390	25.61		1133	74.39	1523	
+		"RICHTER, Dennis (IND)"	37		20	54.05		17	45.95	37	
+		"TURNER, Neil (HAN)"	69		32	46.38		37	53.62	69	
+		"GRAHAM, Rex (DEM)"	61		29	47.54		32	52.46	61	
+		"DANCEY, Russell Francis (CTA)"	25		3	12.00		22	88.00	25	
+		"MOORE, Catherine (GRN)"	32		13	40.63		19	59.38	32	
+		Total	224		487	27.88		1260	72.12	1747	
+
+	Goolgowi										
+			1st Prefs		41	15.53		223	84.47	264	
+		"RICHTER, Dennis (IND)"	4		3	75.00		1	25.00	4	
+		"TURNER, Neil (HAN)"	12		4	33.33		8	66.67	12	
+		"GRAHAM, Rex (DEM)"	2		1	50.00		1	50.00	2	
+		"DANCEY, Russell Francis (CTA)"	3		1	33.33		2	66.67	3	
+		"MOORE, Catherine (GRN)"	3		3	100.00		0	0.00	3	
+		Total	24		53	18.40		235	81.60	288	
+
+	Gralee										
+			1st Prefs		234	26.47		650	73.53	884	
+		"RICHTER, Dennis (IND)"	23		16	69.57		7	30.43	23	
+		"TURNER, Neil (HAN)"	42		12	28.57		30	71.43	42	
+		"GRAHAM, Rex (DEM)"	17		13	76.47		4	23.53	17	
+		"DANCEY, Russell Francis (CTA)"	21		1	4.76		20	95.24	21	
+		"MOORE, Catherine (GRN)"	21		12	57.14		9	42.86	21	
+		Total	124		288	28.57		720	71.43	1008	
+
+	Griffith										
+			1st Prefs		731	31.21		1611	68.79	2342	
+		"RICHTER, Dennis (IND)"	72		43	59.72		29	40.28	72	
+		"TURNER, Neil (HAN)"	151		38	25.17		113	74.83	151	
+		"GRAHAM, Rex (DEM)"	35		21	60.00		14	40.00	35	
+		"DANCEY, Russell Francis (CTA)"	26		7	26.92		19	73.08	26	
+		"MOORE, Catherine (GRN)"	38		15	39.47		23	60.53	38	
+		Total	322		855	32.09		1809	67.91	2664	
+
+	Griffith East										
+			1st Prefs		269	27.09		724	72.91	993	
+		"RICHTER, Dennis (IND)"	21		15	71.43		6	28.57	21	
+		"TURNER, Neil (HAN)"	37		7	18.92		30	81.08	37	
+		"GRAHAM, Rex (DEM)"	8		4	50.00		4	50.00	8	
+		"DANCEY, Russell Francis (CTA)"	5		2	40.00		3	60.00	5	
+		"MOORE, Catherine (GRN)"	12		7	58.33		5	41.67	12	
+		Total	83		304	28.25		772	71.75	1076	
+
+	Griffith North										
+			1st Prefs		425	26.63		1171	73.37	1596	
+		"RICHTER, Dennis (IND)"	32		20	62.50		12	37.50	32	
+		"TURNER, Neil (HAN)"	66		18	27.27		48	72.73	66	
+		"GRAHAM, Rex (DEM)"	29		14	48.28		15	51.72	29	
+		"DANCEY, Russell Francis (CTA)"	22		2	9.09		20	90.91	22	
+		"MOORE, Catherine (GRN)"	44		25	56.82		19	43.18	44	
+		Total	193		504	28.17		1285	71.83	1789	
+
+	Griffith West										
+			1st Prefs		449	38.98		703	61.02	1152	
+		"RICHTER, Dennis (IND)"	52		31	59.62		21	40.38	52	
+		"TURNER, Neil (HAN)"	88		27	30.68		61	69.32	88	
+		"GRAHAM, Rex (DEM)"	13		4	30.77		9	69.23	13	
+		"DANCEY, Russell Francis (CTA)"	7		1	14.29		6	85.71	7	
+		"MOORE, Catherine (GRN)"	13		8	61.54		5	38.46	13	
+		Total	173		520	39.25		805	60.75	1325	
+
+	Grong Grong										
+			1st Prefs		35	24.82		106	75.18	141	
+		"RICHTER, Dennis (IND)"	4		3	75.00		1	25.00	4	
+		"TURNER, Neil (HAN)"	11		3	27.27		8	72.73	11	
+		"GRAHAM, Rex (DEM)"	2		0	0.00		2	100.00	2	
+		"DANCEY, Russell Francis (CTA)"	2		0	0.00		2	100.00	2	
+		"MOORE, Catherine (GRN)"	2		1	50.00		1	50.00	2	
+		Total	21		42	25.93		120	74.07	162	
+
+	Gumly Gumly										
+			1st Prefs		77	30.43		176	69.57	253	
+		"RICHTER, Dennis (IND)"	11		4	36.36		7	63.64	11	
+		"TURNER, Neil (HAN)"	30		6	20.00		24	80.00	30	
+		"GRAHAM, Rex (DEM)"	7		3	42.86		4	57.14	7	
+		"DANCEY, Russell Francis (CTA)"	1		0	0.00		1	100.00	1	
+		"MOORE, Catherine (GRN)"	8		1	12.50		7	87.50	8	
+		Total	57		91	29.35		219	70.65	310	
+
+	Gundagai										
+			1st Prefs		454	48.04		491	51.96	945	
+		"RICHTER, Dennis (IND)"	25		18	72.00		7	28.00	25	
+		"TURNER, Neil (HAN)"	65		29	44.62		36	55.38	65	
+		"GRAHAM, Rex (DEM)"	18		9	50.00		9	50.00	18	
+		"DANCEY, Russell Francis (CTA)"	17		4	23.53		13	76.47	17	
+		"MOORE, Catherine (GRN)"	20		12	60.00		8	40.00	20	
+		Total	145		526	48.26		564	51.74	1090	
+
+	Gundagai South										
+			1st Prefs		225	56.39		174	43.61	399	
+		"RICHTER, Dennis (IND)"	17		11	64.71		6	35.29	17	
+		"TURNER, Neil (HAN)"	24		13	54.17		11	45.83	24	
+		"GRAHAM, Rex (DEM)"	2		2	100.00		0	0.00	2	
+		"DANCEY, Russell Francis (CTA)"	1		0	0.00		1	100.00	1	
+		"MOORE, Catherine (GRN)"	6		5	83.33		1	16.67	6	
+		Total	50		256	57.02		193	42.98	449	
+
+	Hanwood										
+			1st Prefs		171	21.30		632	78.70	803	
+		"RICHTER, Dennis (IND)"	20		14	70.00		6	30.00	20	
+		"TURNER, Neil (HAN)"	51		7	13.73		44	86.27	51	
+		"GRAHAM, Rex (DEM)"	17		7	41.18		10	58.82	17	
+		"DANCEY, Russell Francis (CTA)"	4		0	0.00		4	100.00	4	
+		"MOORE, Catherine (GRN)"	11		7	63.64		4	36.36	11	
+		Total	103		206	22.74		700	77.26	906	
+
+	Hay										
+			1st Prefs		374	31.61		809	68.39	1183	
+		"RICHTER, Dennis (IND)"	26		17	65.38		9	34.62	26	
+		"TURNER, Neil (HAN)"	100		28	28.00		72	72.00	100	
+		"GRAHAM, Rex (DEM)"	12		6	50.00		6	50.00	12	
+		"DANCEY, Russell Francis (CTA)"	5		0	0.00		5	100.00	5	
+		"MOORE, Catherine (GRN)"	22		11	50.00		11	50.00	22	
+		Total	165		436	32.34		912	67.66	1348	
+
+	Hay Hospital										
+			1st Prefs		137	34.16		264	65.84	401	
+		"RICHTER, Dennis (IND)"	8		8	100.00		0	0.00	8	
+		"TURNER, Neil (HAN)"	41		9	21.95		32	78.05	41	
+		"GRAHAM, Rex (DEM)"	3		1	33.33		2	66.67	3	
+		"DANCEY, Russell Francis (CTA)"	0		0	0.00		0	0.00	0	
+		"MOORE, Catherine (GRN)"	11		8	72.73		3	27.27	11	
+		Total	63		163	35.13		301	64.87	464	
+
+	Humula										
+			1st Prefs		18	25.00		54	75.00	72	
+		"RICHTER, Dennis (IND)"	1		0	0.00		1	100.00	1	
+		"TURNER, Neil (HAN)"	12		4	33.33		8	66.67	12	
+		"GRAHAM, Rex (DEM)"	1		1	100.00		0	0.00	1	
+		"DANCEY, Russell Francis (CTA)"	0		0	0.00		0	0.00	0	
+		"MOORE, Catherine (GRN)"	2		1	50.00		1	50.00	2	
+		Total	16		24	27.27		64	72.73	88	
+
+	Illabo										
+			1st Prefs		12	8.70		126	91.30	138	
+		"RICHTER, Dennis (IND)"	1		0	0.00		1	100.00	1	
+		"TURNER, Neil (HAN)"	15		4	26.67		11	73.33	15	
+		"GRAHAM, Rex (DEM)"	0		0	0.00		0	0.00	0	
+		"DANCEY, Russell Francis (CTA)"	5		0	0.00		5	100.00	5	
+		"MOORE, Catherine (GRN)"	0		0	0.00		0	0.00	0	
+		Total	21		16	10.06		143	89.94	159	
+
+	Junee										
+			1st Prefs		764	39.32		1179	60.68	1943	
+		"RICHTER, Dennis (IND)"	51		33	64.71		18	35.29	51	
+		"TURNER, Neil (HAN)"	136		61	44.85		75	55.15	136	
+		"GRAHAM, Rex (DEM)"	39		22	56.41		17	43.59	39	
+		"DANCEY, Russell Francis (CTA)"	44		5	11.36		39	88.64	44	
+		"MOORE, Catherine (GRN)"	43		20	46.51		23	53.49	43	
+		Total	313		905	40.12		1351	59.88	2256	
+
+	Kapooka										
+			1st Prefs		4	7.69		48	92.31	52	
+		"RICHTER, Dennis (IND)"	1		0	0.00		1	100.00	1	
+		"TURNER, Neil (HAN)"	6		0	0.00		6	100.00	6	
+		"GRAHAM, Rex (DEM)"	10		3	30.00		7	70.00	10	
+		"DANCEY, Russell Francis (CTA)"	0		0	0.00		0	0.00	0	
+		"MOORE, Catherine (GRN)"	0		0	0.00		0	0.00	0	
+		Total	17		7	10.14		62	89.86	69	
+
+	Kooringal										
+			1st Prefs		497	21.62		1802	78.38	2299	
+		"RICHTER, Dennis (IND)"	56		20	35.71		36	64.29	56	
+		"TURNER, Neil (HAN)"	118		45	38.14		73	61.86	118	
+		"GRAHAM, Rex (DEM)"	83		45	54.22		38	45.78	83	
+		"DANCEY, Russell Francis (CTA)"	68		10	14.71		58	85.29	68	
+		"MOORE, Catherine (GRN)"	83		45	54.22		38	45.78	83	
+		Total	408		662	24.46		2045	75.54	2707	
+
+	Ladysmith										
+			1st Prefs		31	12.50		217	87.50	248	
+		"RICHTER, Dennis (IND)"	4		2	50.00		2	50.00	4	
+		"TURNER, Neil (HAN)"	15		4	26.67		11	73.33	15	
+		"GRAHAM, Rex (DEM)"	6		4	66.67		2	33.33	6	
+		"DANCEY, Russell Francis (CTA)"	7		1	14.29		6	85.71	7	
+		"MOORE, Catherine (GRN)"	10		5	50.00		5	50.00	10	
+		Total	42		47	16.21		243	83.79	290	
+
+	Lake Albert										
+			1st Prefs		433	21.14		1615	78.86	2048	
+		"RICHTER, Dennis (IND)"	50		8	16.00		42	84.00	50	
+		"TURNER, Neil (HAN)"	86		29	33.72		57	66.28	86	
+		"GRAHAM, Rex (DEM)"	76		40	52.63		36	47.37	76	
+		"DANCEY, Russell Francis (CTA)"	50		22	44.00		28	56.00	50	
+		"MOORE, Catherine (GRN)"	49		25	51.02		24	48.98	49	
+		Total	311		557	23.61		1802	76.39	2359	
+
+	Lake Wyangan										
+			1st Prefs		102	26.22		287	73.78	389	
+		"RICHTER, Dennis (IND)"	9		4	44.44		5	55.56	9	
+		"TURNER, Neil (HAN)"	37		10	27.03		27	72.97	37	
+		"GRAHAM, Rex (DEM)"	5		3	60.00		2	40.00	5	
+		"DANCEY, Russell Francis (CTA)"	3		0	0.00		3	100.00	3	
+		"MOORE, Catherine (GRN)"	8		5	62.50		3	37.50	8	
+		Total	62		124	27.49		327	72.51	451	
+
+	Leeton										
+			1st Prefs		582	31.91		1242	68.09	1824	
+		"RICHTER, Dennis (IND)"	38		22	57.89		16	42.11	38	
+		"TURNER, Neil (HAN)"	120		42	35.00		78	65.00	120	
+		"GRAHAM, Rex (DEM)"	46		27	58.70		19	41.30	46	
+		"DANCEY, Russell Francis (CTA)"	42		7	16.67		35	83.33	42	
+		"MOORE, Catherine (GRN)"	44		23	52.27		21	47.73	44	
+		Total	290		703	33.25		1411	66.75	2114	
+
+	Leeton Hospital										
+			1st Prefs		100	27.40		265	72.60	365	
+		"RICHTER, Dennis (IND)"	8		1	12.50		7	87.50	8	
+		"TURNER, Neil (HAN)"	13		3	23.08		10	76.92	13	
+		"GRAHAM, Rex (DEM)"	9		5	55.56		4	44.44	9	
+		"DANCEY, Russell Francis (CTA)"	5		0	0.00		5	100.00	5	
+		"MOORE, Catherine (GRN)"	3		2	66.67		1	33.33	3	
+		Total	38		111	27.54		292	72.46	403	
+
+	Mangoplah										
+			1st Prefs		8	3.96		194	96.04	202	
+		"RICHTER, Dennis (IND)"	4		1	25.00		3	75.00	4	
+		"TURNER, Neil (HAN)"	11		1	9.09		10	90.91	11	
+		"GRAHAM, Rex (DEM)"	2		1	50.00		1	50.00	2	
+		"DANCEY, Russell Francis (CTA)"	4		0	0.00		4	100.00	4	
+		"MOORE, Catherine (GRN)"	2		1	50.00		1	50.00	2	
+		Total	23		12	5.33		213	94.67	225	
+
+	Marrar										
+			1st Prefs		20	9.01		202	90.99	222	
+		"RICHTER, Dennis (IND)"	6		2	33.33		4	66.67	6	
+		"TURNER, Neil (HAN)"	4		3	75.00		1	25.00	4	
+		"GRAHAM, Rex (DEM)"	3		2	66.67		1	33.33	3	
+		"DANCEY, Russell Francis (CTA)"	8		0	0.00		8	100.00	8	
+		"MOORE, Catherine (GRN)"	3		3	100.00		0	0.00	3	
+		Total	24		30	12.20		216	87.80	246	
+
+	Matong										
+			1st Prefs		25	20.49		97	79.51	122	
+		"RICHTER, Dennis (IND)"	4		3	75.00		1	25.00	4	
+		"TURNER, Neil (HAN)"	8		2	25.00		6	75.00	8	
+		"GRAHAM, Rex (DEM)"	1		1	100.00		0	0.00	1	
+		"DANCEY, Russell Francis (CTA)"	2		0	0.00		2	100.00	2	
+		"MOORE, Catherine (GRN)"	1		0	0.00		1	100.00	1	
+		Total	16		31	22.46		107	77.54	138	
+
+	Mount Austin										
+			1st Prefs		555	29.51		1326	70.49	1881	
+		"RICHTER, Dennis (IND)"	53		26	49.06		27	50.94	53	
+		"TURNER, Neil (HAN)"	140		47	33.57		93	66.43	140	
+		"GRAHAM, Rex (DEM)"	61		28	45.90		33	54.10	61	
+		"DANCEY, Russell Francis (CTA)"	43		6	13.95		37	86.05	43	
+		"MOORE, Catherine (GRN)"	73		38	52.05		35	47.95	73	
+		Total	370		700	31.10		1551	68.90	2251	
+
+	Murrami										
+			1st Prefs		20	17.39		95	82.61	115	
+		"RICHTER, Dennis (IND)"	1		1	100.00		0	0.00	1	
+		"TURNER, Neil (HAN)"	13		5	38.46		8	61.54	13	
+		"GRAHAM, Rex (DEM)"	1		0	0.00		1	100.00	1	
+		"DANCEY, Russell Francis (CTA)"	0		0	0.00		0	0.00	0	
+		"MOORE, Catherine (GRN)"	1		0	0.00		1	100.00	1	
+		Total	16		26	19.85		105	80.15	131	
+
+	Nangus										
+			1st Prefs		36	27.48		95	72.52	131	
+		"RICHTER, Dennis (IND)"	2		2	100.00		0	0.00	2	
+		"TURNER, Neil (HAN)"	4		3	75.00		1	25.00	4	
+		"GRAHAM, Rex (DEM)"	0		0	0.00		0	0.00	0	
+		"DANCEY, Russell Francis (CTA)"	1		0	0.00		1	100.00	1	
+		"MOORE, Catherine (GRN)"	2		1	50.00		1	50.00	2	
+		Total	9		42	30.00		98	70.00	140	
+
+	Narrandera										
+			1st Prefs		381	29.81		897	70.19	1278	
+		"RICHTER, Dennis (IND)"	45		24	53.33		21	46.67	45	
+		"TURNER, Neil (HAN)"	129		36	27.91		93	72.09	129	
+		"GRAHAM, Rex (DEM)"	21		10	47.62		11	52.38	21	
+		"DANCEY, Russell Francis (CTA)"	31		7	22.58		24	77.42	31	
+		"MOORE, Catherine (GRN)"	26		13	50.00		13	50.00	26	
+		Total	252		471	30.78		1059	69.22	1530	
+
+	Narrandera East										
+			1st Prefs		191	33.57		378	66.43	569	
+		"RICHTER, Dennis (IND)"	9		4	44.44		5	55.56	9	
+		"TURNER, Neil (HAN)"	24		11	45.83		13	54.17	24	
+		"GRAHAM, Rex (DEM)"	7		3	42.86		4	57.14	7	
+		"DANCEY, Russell Francis (CTA)"	12		1	8.33		11	91.67	12	
+		"MOORE, Catherine (GRN)"	9		6	66.67		3	33.33	9	
+		Total	61		216	34.29		414	65.71	630	
+
+	Narrandera West										
+			1st Prefs		146	38.02		238	61.98	384	
+		"RICHTER, Dennis (IND)"	9		8	88.89		1	11.11	9	
+		"TURNER, Neil (HAN)"	18		8	44.44		10	55.56	18	
+		"GRAHAM, Rex (DEM)"	6		2	33.33		4	66.67	6	
+		"DANCEY, Russell Francis (CTA)"	26		3	11.54		23	88.46	26	
+		"MOORE, Catherine (GRN)"	13		9	69.23		4	30.77	13	
+		Total	72		176	38.60		280	61.40	456	
+
+	Parkview										
+			1st Prefs		305	37.89		500	62.11	805	
+		"RICHTER, Dennis (IND)"	15		9	60.00		6	40.00	15	
+		"TURNER, Neil (HAN)"	48		21	43.75		27	56.25	48	
+		"GRAHAM, Rex (DEM)"	17		12	70.59		5	29.41	17	
+		"DANCEY, Russell Francis (CTA)"	16		3	18.75		13	81.25	16	
+		"MOORE, Catherine (GRN)"	11		9	81.82		2	18.18	11	
+		Total	107		359	39.36		553	60.64	912	
+
+	Rankins Springs										
+			1st Prefs		29	24.79		88	75.21	117	
+		"RICHTER, Dennis (IND)"	1		0	0.00		1	100.00	1	
+		"TURNER, Neil (HAN)"	18		5	27.78		13	72.22	18	
+		"GRAHAM, Rex (DEM)"	0		0	0.00		0	0.00	0	
+		"DANCEY, Russell Francis (CTA)"	0		0	0.00		0	0.00	0	
+		"MOORE, Catherine (GRN)"	0		0	0.00		0	0.00	0	
+		Total	19		34	25.00		102	75.00	136	
+
+	San Isidore										
+			1st Prefs		44	29.93		103	70.07	147	
+		"RICHTER, Dennis (IND)"	4		2	50.00		2	50.00	4	
+		"TURNER, Neil (HAN)"	15		4	26.67		11	73.33	15	
+		"GRAHAM, Rex (DEM)"	17		8	47.06		9	52.94	17	
+		"DANCEY, Russell Francis (CTA)"	19		4	21.05		15	78.95	19	
+		"MOORE, Catherine (GRN)"	5		2	40.00		3	60.00	5	
+		Total	60		64	30.92		143	69.08	207	
+
+	Stockinbingal										
+			1st Prefs		74	30.33		170	69.67	244	
+		"RICHTER, Dennis (IND)"	8		6	75.00		2	25.00	8	
+		"TURNER, Neil (HAN)"	31		7	22.58		24	77.42	31	
+		"GRAHAM, Rex (DEM)"	6		5	83.33		1	16.67	6	
+		"DANCEY, Russell Francis (CTA)"	0		0	0.00		0	0.00	0	
+		"MOORE, Catherine (GRN)"	2		1	50.00		1	50.00	2	
+		Total	47		93	31.96		198	68.04	291	
+
+	Sturt										
+			1st Prefs		429	22.02		1519	77.98	1948	
+		"RICHTER, Dennis (IND)"	41		19	46.34		22	53.66	41	
+		"TURNER, Neil (HAN)"	87		32	36.78		55	63.22	87	
+		"GRAHAM, Rex (DEM)"	81		43	53.09		38	46.91	81	
+		"DANCEY, Russell Francis (CTA)"	71		8	11.27		63	88.73	71	
+		"MOORE, Catherine (GRN)"	61		36	59.02		25	40.98	61	
+		Total	341		567	24.77		1722	75.23	2289	
+
+	Sydney (Riverina)										
+			1st Prefs		3	10.71		25	89.29	28	
+		"RICHTER, Dennis (IND)"	3		0	0.00		3	100.00	3	
+		"TURNER, Neil (HAN)"	0		0	0.00		0	0.00	0	
+		"GRAHAM, Rex (DEM)"	1		0	0.00		1	100.00	1	
+		"DANCEY, Russell Francis (CTA)"	0		0	0.00		0	0.00	0	
+		"MOORE, Catherine (GRN)"	4		3	75.00		1	25.00	4	
+		Total	8		6	16.67		30	83.33	36	
+
+	Tarcutta										
+			1st Prefs		45	14.29		270	85.71	315	
+		"RICHTER, Dennis (IND)"	7		1	14.29		6	85.71	7	
+		"TURNER, Neil (HAN)"	18		7	38.89		11	61.11	18	
+		"GRAHAM, Rex (DEM)"	4		2	50.00		2	50.00	4	
+		"DANCEY, Russell Francis (CTA)"	1		0	0.00		1	100.00	1	
+		"MOORE, Catherine (GRN)"	4		1	25.00		3	75.00	4	
+		Total	34		56	16.05		293	83.95	349	
+
+	Tatton										
+			1st Prefs		132	21.05		495	78.95	627	
+		"RICHTER, Dennis (IND)"	12		6	50.00		6	50.00	12	
+		"TURNER, Neil (HAN)"	12		4	33.33		8	66.67	12	
+		"GRAHAM, Rex (DEM)"	19		9	47.37		10	52.63	19	
+		"DANCEY, Russell Francis (CTA)"	22		1	4.55		21	95.45	22	
+		"MOORE, Catherine (GRN)"	9		5	55.56		4	44.44	9	
+		Total	74		157	22.40		544	77.60	701	
+
+	Temora										
+			1st Prefs		567	26.34		1586	73.66	2153	
+		"RICHTER, Dennis (IND)"	69		37	53.62		32	46.38	69	
+		"TURNER, Neil (HAN)"	141		55	39.01		86	60.99	141	
+		"GRAHAM, Rex (DEM)"	38		16	42.11		22	57.89	38	
+		"DANCEY, Russell Francis (CTA)"	71		19	26.76		52	73.24	71	
+		"MOORE, Catherine (GRN)"	47		23	48.94		24	51.06	47	
+		Total	366		717	28.46		1802	71.54	2519	
+
+	Temora West										
+			1st Prefs		135	24.15		424	75.85	559	
+		"RICHTER, Dennis (IND)"	16		4	25.00		12	75.00	16	
+		"TURNER, Neil (HAN)"	37		13	35.14		24	64.86	37	
+		"GRAHAM, Rex (DEM)"	2		1	50.00		1	50.00	2	
+		"DANCEY, Russell Francis (CTA)"	8		1	12.50		7	87.50	8	
+		"MOORE, Catherine (GRN)"	10		4	40.00		6	60.00	10	
+		Total	73		158	25.00		474	75.00	632	
+
+	Tharbogang										
+			1st Prefs		79	31.60		171	68.40	250	
+		"RICHTER, Dennis (IND)"	7		4	57.14		3	42.86	7	
+		"TURNER, Neil (HAN)"	15		5	33.33		10	66.67	15	
+		"GRAHAM, Rex (DEM)"	3		1	33.33		2	66.67	3	
+		"DANCEY, Russell Francis (CTA)"	0		0	0.00		0	0.00	0	
+		"MOORE, Catherine (GRN)"	2		1	50.00		1	50.00	2	
+		Total	27		90	32.49		187	67.51	277	
+
+	Tolland										
+			1st Prefs		386	31.51		839	68.49	1225	
+		"RICHTER, Dennis (IND)"	48		19	39.58		29	60.42	48	
+		"TURNER, Neil (HAN)"	77		35	45.45		42	54.55	77	
+		"GRAHAM, Rex (DEM)"	46		24	52.17		22	47.83	46	
+		"DANCEY, Russell Francis (CTA)"	27		2	7.41		25	92.59	27	
+		"MOORE, Catherine (GRN)"	25		12	48.00		13	52.00	25	
+		Total	223		478	33.01		970	66.99	1448	
+
+	Tumblong										
+			1st Prefs		14	12.50		98	87.50	112	
+		"RICHTER, Dennis (IND)"	3		2	66.67		1	33.33	3	
+		"TURNER, Neil (HAN)"	7		1	14.29		6	85.71	7	
+		"GRAHAM, Rex (DEM)"	0		0	0.00		0	0.00	0	
+		"DANCEY, Russell Francis (CTA)"	2		0	0.00		2	100.00	2	
+		"MOORE, Catherine (GRN)"	8		6	75.00		2	25.00	8	
+		Total	20		23	17.42		109	82.58	132	
+
+	Turvey Park										
+			1st Prefs		395	25.78		1137	74.22	1532	
+		"RICHTER, Dennis (IND)"	33		19	57.58		14	42.42	33	
+		"TURNER, Neil (HAN)"	97		23	23.71		74	76.29	97	
+		"GRAHAM, Rex (DEM)"	67		36	53.73		31	46.27	67	
+		"DANCEY, Russell Francis (CTA)"	46		6	13.04		40	86.96	46	
+		"MOORE, Catherine (GRN)"	71		43	60.56		28	39.44	71	
+		Total	314		522	28.28		1324	71.72	1846	
+
+	Uranquinty										
+			1st Prefs		84	23.66		271	76.34	355	
+		"RICHTER, Dennis (IND)"	12		8	66.67		4	33.33	12	
+		"TURNER, Neil (HAN)"	58		17	29.31		41	70.69	58	
+		"GRAHAM, Rex (DEM)"	7		4	57.14		3	42.86	7	
+		"DANCEY, Russell Francis (CTA)"	8		0	0.00		8	100.00	8	
+		"MOORE, Catherine (GRN)"	10		7	70.00		3	30.00	10	
+		Total	95		120	26.67		330	73.33	450	
+
+	Wagga Wagga										
+			1st Prefs		394	28.04		1011	71.96	1405	
+		"RICHTER, Dennis (IND)"	49		26	53.06		23	46.94	49	
+		"TURNER, Neil (HAN)"	79		25	31.65		54	68.35	79	
+		"GRAHAM, Rex (DEM)"	97		47	48.45		50	51.55	97	
+		"DANCEY, Russell Francis (CTA)"	39		7	17.95		32	82.05	39	
+		"MOORE, Catherine (GRN)"	106		62	58.49		44	41.51	106	
+		Total	370		561	31.61		1214	68.39	1775	
+
+	Wagga Wagga High										
+			1st Prefs		121	24.10		381	75.90	502	
+		"RICHTER, Dennis (IND)"	20		6	30.00		14	70.00	20	
+		"TURNER, Neil (HAN)"	18		6	33.33		12	66.67	18	
+		"GRAHAM, Rex (DEM)"	39		26	66.67		13	33.33	39	
+		"DANCEY, Russell Francis (CTA)"	18		2	11.11		16	88.89	18	
+		"MOORE, Catherine (GRN)"	34		23	67.65		11	32.35	34	
+		Total	129		184	29.16		447	70.84	631	
+
+	Wagga Wagga Hospital										
+			1st Prefs		49	27.68		128	72.32	177	
+		"RICHTER, Dennis (IND)"	10		9	90.00		1	10.00	10	
+		"TURNER, Neil (HAN)"	17		6	35.29		11	64.71	17	
+		"GRAHAM, Rex (DEM)"	12		2	16.67		10	83.33	12	
+		"DANCEY, Russell Francis (CTA)"	7		0	0.00		7	100.00	7	
+		"MOORE, Catherine (GRN)"	8		4	50.00		4	50.00	8	
+		Total	54		70	30.30		161	69.70	231	
+
+	Wagga Wagga North										
+			1st Prefs		290	22.75		985	77.25	1275	
+		"RICHTER, Dennis (IND)"	28		16	57.14		12	42.86	28	
+		"TURNER, Neil (HAN)"	106		41	38.68		65	61.32	106	
+		"GRAHAM, Rex (DEM)"	32		17	53.13		15	46.88	32	
+		"DANCEY, Russell Francis (CTA)"	38		4	10.53		34	89.47	38	
+		"MOORE, Catherine (GRN)"	55		35	63.64		20	36.36	55	
+		Total	259		403	26.27		1131	73.73	1534	
+
+	Wagga Wagga South										
+			1st Prefs		330	28.06		846	71.94	1176	
+		"RICHTER, Dennis (IND)"	32		16	50.00		16	50.00	32	
+		"TURNER, Neil (HAN)"	58		31	53.45		27	46.55	58	
+		"GRAHAM, Rex (DEM)"	106		60	56.60		46	43.40	106	
+		"DANCEY, Russell Francis (CTA)"	35		6	17.14		29	82.86	35	
+		"MOORE, Catherine (GRN)"	90		54	60.00		36	40.00	90	
+		Total	321		497	33.20		1000	66.80	1497	
+
+	Wagga Wagga West										
+			1st Prefs		478	29.06		1167	70.94	1645	
+		"RICHTER, Dennis (IND)"	42		27	64.29		15	35.71	42	
+		"TURNER, Neil (HAN)"	97		41	42.27		56	57.73	97	
+		"GRAHAM, Rex (DEM)"	56		30	53.57		26	46.43	56	
+		"DANCEY, Russell Francis (CTA)"	36		8	22.22		28	77.78	36	
+		"MOORE, Catherine (GRN)"	68		43	63.24		25	36.76	68	
+		Total	299		627	32.25		1317	67.75	1944	
+
+	Wallendbeen										
+			1st Prefs		53	37.86		87	62.14	140	
+		"RICHTER, Dennis (IND)"	1		1	100.00		0	0.00	1	
+		"TURNER, Neil (HAN)"	18		7	38.89		11	61.11	18	
+		"GRAHAM, Rex (DEM)"	2		1	50.00		1	50.00	2	
+		"DANCEY, Russell Francis (CTA)"	0		0	0.00		0	0.00	0	
+		"MOORE, Catherine (GRN)"	6		5	83.33		1	16.67	6	
+		Total	27		67	40.12		100	59.88	167	
+
+	Wamoon										
+			1st Prefs		54	26.87		147	73.13	201	
+		"RICHTER, Dennis (IND)"	6		3	50.00		3	50.00	6	
+		"TURNER, Neil (HAN)"	18		8	44.44		10	55.56	18	
+		"GRAHAM, Rex (DEM)"	3		1	33.33		2	66.67	3	
+		"DANCEY, Russell Francis (CTA)"	1		0	0.00		1	100.00	1	
+		"MOORE, Catherine (GRN)"	3		1	33.33		2	66.67	3	
+		Total	31		67	28.88		165	71.12	232	
+
+	Wantabadgery										
+			1st Prefs		11	11.58		84	88.42	95	
+		"RICHTER, Dennis (IND)"	0		0	0.00		0	0.00	0	
+		"TURNER, Neil (HAN)"	5		2	40.00		3	60.00	5	
+		"GRAHAM, Rex (DEM)"	0		0	0.00		0	0.00	0	
+		"DANCEY, Russell Francis (CTA)"	0		0	0.00		0	0.00	0	
+		"MOORE, Catherine (GRN)"	1		0	0.00		1	100.00	1	
+		Total	6		13	12.87		88	87.13	101	
+
+	Whitton										
+			1st Prefs		94	27.41		249	72.59	343	
+		"RICHTER, Dennis (IND)"	10		6	60.00		4	40.00	10	
+		"TURNER, Neil (HAN)"	33		7	21.21		26	78.79	33	
+		"GRAHAM, Rex (DEM)"	2		0	0.00		2	100.00	2	
+		"DANCEY, Russell Francis (CTA)"	2		0	0.00		2	100.00	2	
+		"MOORE, Catherine (GRN)"	5		3	60.00		2	40.00	5	
+		Total	52		110	27.85		285	72.15	395	
+
+	Yanco										
+			1st Prefs		191	35.90		341	64.10	532	
+		"RICHTER, Dennis (IND)"	17		10	58.82		7	41.18	17	
+		"TURNER, Neil (HAN)"	58		17	29.31		41	70.69	58	
+		"GRAHAM, Rex (DEM)"	8		4	50.00		4	50.00	8	
+		"DANCEY, Russell Francis (CTA)"	20		5	25.00		15	75.00	20	
+		"MOORE, Catherine (GRN)"	12		8	66.67		4	33.33	12	
+		Total	115		235	36.32		412	63.68	647	
+
+	Yenda										
+			1st Prefs		203	25.70		587	74.30	790	
+		"RICHTER, Dennis (IND)"	11		7	63.64		4	36.36	11	
+		"TURNER, Neil (HAN)"	60		26	43.33		34	56.67	60	
+		"GRAHAM, Rex (DEM)"	11		6	54.55		5	45.45	11	
+		"DANCEY, Russell Francis (CTA)"	5		3	60.00		2	40.00	5	
+		"MOORE, Catherine (GRN)"	17		7	41.18		10	58.82	17	
+		Total	104		252	28.19		642	71.81	894	
+
+	Yoogali										
+			1st Prefs		164	28.03		421	71.97	585	
+		"RICHTER, Dennis (IND)"	11		4	36.36		7	63.64	11	
+		"TURNER, Neil (HAN)"	16		4	25.00		12	75.00	16	
+		"GRAHAM, Rex (DEM)"	5		1	20.00		4	80.00	5	
+		"DANCEY, Russell Francis (CTA)"	4		0	0.00		4	100.00	4	
+		"MOORE, Catherine (GRN)"	9		5	55.56		4	44.44	9	
+		Total	45		178	28.25		452	71.75	630	
+
+	Special Hospitals										
+			1st Prefs		153	33.26		307	66.74	460	
+		"RICHTER, Dennis (IND)"	10		4	40.00		6	60.00	10	
+		"TURNER, Neil (HAN)"	2		1	50.00		1	50.00	2	
+		"GRAHAM, Rex (DEM)"	6		1	16.67		5	83.33	6	
+		"DANCEY, Russell Francis (CTA)"	8		3	37.50		5	62.50	8	
+		"MOORE, Catherine (GRN)"	2		1	50.00		1	50.00	2	
+		Total	28		163	33.40		325	66.60	488	
+
+	Total Ordinary										
+			1st Prefs		16773	28.63		41818	71.37	58591	
+		"RICHTER, Dennis (IND)"	1543		824	53.40		719	46.60	1543	
+		"TURNER, Neil (HAN)"	3831		1312	34.25		2519	65.75	3831	
+		"GRAHAM, Rex (DEM)"	1604		835	52.06		769	47.94	1604	
+		"DANCEY, Russell Francis (CTA)"	1190		205	17.23		985	82.77	1190	
+		"MOORE, Catherine (GRN)"	1585		886	55.90		699	44.10	1585	
+		Total	9753		20835	30.49		47509	69.51	68344	
+
+	ABSENT										
+			1st Prefs		753	25.59		2190	74.41	2943	
+		"RICHTER, Dennis (IND)"	125		77	61.60		48	38.40	125	
+		"TURNER, Neil (HAN)"	213		92	43.19		121	56.81	213	
+		"GRAHAM, Rex (DEM)"	169		84	49.70		85	50.30	169	
+		"DANCEY, Russell Francis (CTA)"	71		17	23.94		54	76.06	71	
+		"MOORE, Catherine (GRN)"	172		85	49.42		87	50.58	172	
+		Total	750		1108	30.00		2585	70.00	3693	
+
+	POSTAL										
+			1st Prefs		514	24.95		1546	75.05	2060	
+		"RICHTER, Dennis (IND)"	24		11	45.83		13	54.17	24	
+		"TURNER, Neil (HAN)"	124		38	30.65		86	69.35	124	
+		"GRAHAM, Rex (DEM)"	60		26	43.33		34	56.67	60	
+		"DANCEY, Russell Francis (CTA)"	29		2	6.90		27	93.10	29	
+		"MOORE, Catherine (GRN)"	35		22	62.86		13	37.14	35	
+		Total	272		613	26.29		1719	73.71	2332	
+
+	PRE_POLL										
+			1st Prefs		1049	23.22		3468	76.78	4517	
+		"RICHTER, Dennis (IND)"	125		76	60.80		49	39.20	125	
+		"TURNER, Neil (HAN)"	267		85	31.84		182	68.16	267	
+		"GRAHAM, Rex (DEM)"	172		87	50.58		85	49.42	172	
+		"DANCEY, Russell Francis (CTA)"	73		16	21.92		57	78.08	73	
+		"MOORE, Catherine (GRN)"	140		67	47.86		73	52.14	140	
+		Total	777		1380	26.07		3914	73.93	5294	
+
+	PROVISIONAL										
+			1st Prefs		196	35.96		349	64.04	545	
+		"RICHTER, Dennis (IND)"	22		17	77.27		5	22.73	22	
+		"TURNER, Neil (HAN)"	61		32	52.46		29	47.54	61	
+		"GRAHAM, Rex (DEM)"	26		16	61.54		10	38.46	26	
+		"DANCEY, Russell Francis (CTA)"	8		0	0.00		8	100.00	8	
+		"MOORE, Catherine (GRN)"	22		12	54.55		10	45.45	22	
+		Total	139		273	39.91		411	60.09	684	
+
+	Division Summary										
+			1st Prefs		19285	28.09		49371	71.91	68656	
+		"RICHTER, Dennis (IND)"	1839		1005	54.65		834	45.35	1839	
+		"TURNER, Neil (HAN)"	4496		1559	34.68		2937	65.32	4496	
+		"GRAHAM, Rex (DEM)"	2031		1048	51.60		983	48.40	2031	
+		"DANCEY, Russell Francis (CTA)"	1371		240	17.51		1131	82.49	1371	
+		"MOORE, Catherine (GRN)"	1954		1072	54.86		882	45.14	1954	
+		Total	11691		24209	30.13		56138	69.87	80347	

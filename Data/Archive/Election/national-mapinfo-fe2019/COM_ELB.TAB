@@ -1,0 +1,35 @@
+!table
+!version 300
+!charset WindowsLatin1
+!edit_version 450
+
+Definition Table
+  Type NATIVE Charset "WindowsLatin1"
+  Fields 9
+    Elect_div Char (30) Index 1 ;
+    State Char (4) Index 2 ;
+    Numccds Integer ;
+    Actual Integer Index 3 ;
+    Projected Integer ;
+    Total_Population Integer ;
+    Australians_Over_18 Integer ;
+    Area_SqKm Float Index 4 ;
+    Sortname Char (30) ;
+begin_metadata
+"\IsReadOnly" = "FALSE"
+"\MapInfo" = ""
+"\MapInfo\TableID" = "80e375a4-afad-4064-abb0-f1f250a06d98"
+"\MapInfo\ParentTableID" = "0547381d-0611-43d3-bd61-ccc06dab7d6e"
+"\SNAPTHIN" = ""
+"\SNAPTHIN\EnableSnap" = "FALSE"
+"\SNAPTHIN\Node" = "0"
+"\SNAPTHIN\Vec" = "0"
+"\SNAPTHIN\TolUnit" = "1"
+"\SNAPTHIN\EnableThin" = "TRUE"
+"\SNAPTHIN\Bend" = "0"
+"\SNAPTHIN\Dist" = "50"
+"\SNAPTHIN\ThinUnit" = "7"
+"\SNAPTHIN\EnableArea" = "FALSE"
+"\SNAPTHIN\Area" = "0"
+"\SNAPTHIN\AreaUnit" = "15"
+end_metadata

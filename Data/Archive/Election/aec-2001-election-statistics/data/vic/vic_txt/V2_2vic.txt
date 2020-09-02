@@ -1,0 +1,743 @@
+House of Representatives - 2001 Election: Victoria																																																																												
+First Preference Votes and TCP																																																																	By Candidate by Vote Type by Division 																																																																										
+																																																																												
+Aston (90211)																																																																												
+																																																																												
+			Ordinary		Absent		Provisional		Pre Poll		Postal		Total																																																															
+Candidates		Party	Votes	%	Votes	%	Votes	%	Votes	%	Votes	%	Votes	%																																																														
+	"LEVICK, Ray"	CTA	872	1.20	82	2.04	6	2.88	40	1.37	74	1.47	1074	1.27																																																														
+#	"PEARCE, Chris"	LP	36500	50.39	1932	48.02	100	48.08	1520	52.07	2921	57.99	42973	50.78																																																														
+	"KENDALL, Ruth"	DEM	5043	6.96	429	10.66	11	5.29	217	7.43	252	5.00	5952	7.03																																																														
+	"BOLAND, Kieran"	ALP	27228	37.59	1277	31.74	84	40.38	1006	34.46	1674	33.23	31269	36.95																																																														
+	"MITCHELL, Doug"	CEC	229	0.32	24	0.60	0	0.00	18	0.62	19	0.38	290	0.34																																																														
+	"KIR, Mick"	GRN	2561	3.54	279	6.94	7	3.37	118	4.04	97	1.93	3062	3.62																																																														
+		FORMAL	72433	96.66	4023	95.69	208	97.65	2919	98.48	5037	99.02	84620	96.82																																																														
+		INFORMAL	2501	3.34	181	4.31	5	2.35	45	1.52	50	0.98	2782	3.18																																																														
+		TOTAL	74934	85.73	4204	4.81	213	0.24	2964	3.39	5087	5.82	87402	96.89																																																														
+Two Candidate Preferred																																																																												
+#	"PEARCE, Chris"	LP	40360	55.72	2258	56.13	116	55.77	1677	57.45	3120	61.94	47531	56.17																																																														
+	"BOLAND, Kieran"	ALP	32073	44.28	1765	43.87	92	44.23	1242	42.55	1917	38.06	37089	43.83																																																														
+	EXHAUSTED		0		0		0		0		0		0																																																															
+																																																																												
+																																																																												
+																																																																												
+Ballarat (85877)																																																																												
+																																																																												
+			Ordinary		Absent		Provisional		Pre Poll		Postal		Total																																																															
+Candidates		Party	Votes	%	Votes	%	Votes	%	Votes	%	Votes	%	Votes	%																																																														
+#	"KING, Catherine"	ALP	29891	44.46	1599	38.49	408	48.63	1860	42.36	1800	45.70	35558	44.14																																																														
+	"KELLY, Tony"	GRN	4224	6.28	468	11.27	77	9.18	232	5.28	125	3.17	5126	6.36																																																														
+	"COLLINS, Charles"	LP	28736	42.75	1691	40.71	284	33.85	1977	45.02	1824	46.31	34512	42.85																																																														
+	"CORIC, Danii"	DEM	2675	3.98	291	7.01	50	5.96	185	4.21	99	2.51	3300	4.10																																																														
+	"BLANCHARD, John"	HAN	1700	2.53	105	2.53	20	2.38	137	3.12	91	2.31	2053	2.55																																																														
+		FORMAL	67226	97.01	4154	96.85	839	95.12	4391	98.04	3939	98.62	80549	97.12																																																														
+		INFORMAL	2070	2.99	135	3.15	43	4.88	88	1.96	55	1.38	2391	2.88																																																														
+		TOTAL	69296	83.55	4289	5.17	882	1.06	4479	5.40	3994	4.82	82940	96.58																																																														
+Two Candidate Preferred																																																																												
+#	"KING, Catherine"	ALP	35576	52.92	2183	52.55	506	60.31	2204	50.19	2002	50.83	42471	52.73																																																														
+	"COLLINS, Charles"	LP	31650	47.08	1971	47.45	333	39.69	2187	49.81	1937	49.17	38078	47.27																																																														
+	EXHAUSTED		0		0		0		0		0		0																																																															
+																																																																												
+																																																																												
+																																																																												
+Batman (89998)																																																																												
+																																																																												
+			Ordinary		Absent		Provisional		Pre Poll		Postal		Total																																																															
+Candidates		Party	Votes	%	Votes	%	Votes	%	Votes	%	Votes	%	Votes	%																																																														
+	"BHATHAL, Alexandra"	GRN	7771	11.46	817	15.59	54	11.42	381	12.50	148	5.62	9171	11.58																																																														
+#	"FERGUSON, Martin"	ALP	40594	59.85	2508	47.84	294	62.16	1591	52.22	1519	57.65	46506	58.70																																																														
+	"KNEEBONE, Scott"	DEM	3957	5.83	555	10.59	35	7.40	279	9.16	128	4.86	4954	6.25																																																														
+	"LYNCH, Jackie"		847	1.25	144	2.75	5	1.06	40	1.31	28	1.06	1064	1.34																																																														
+	"DAVIES, John"	LP	14418	21.26	1168	22.28	85	17.97	731	23.99	794	30.13	17196	21.71																																																														
+	"BARWICK, Wayne"	CEC	236	0.35	50	0.95	0	0.00	25	0.82	18	0.68	329	0.42																																																														
+		FORMAL	67823	94.21	5242	95.08	473	92.20	3047	96.61	2635	97.66	79220	94.46																																																														
+		INFORMAL	4166	5.79	271	4.92	40	7.80	107	3.39	63	2.34	4647	5.54																																																														
+		TOTAL	71989	85.84	5513	6.57	513	0.61	3154	3.76	2698	3.22	83867	93.19																																																														
+Two Candidate Preferred																																																																												
+#	"FERGUSON, Martin"	ALP	51425	75.82	3739	71.33	376	79.49	2184	71.68	1754	66.57	59478	75.08																																																														
+	"DAVIES, John"	LP	16398	24.18	1503	28.67	97	20.51	863	28.32	881	33.43	19742	24.92																																																														
+	EXHAUSTED		0		0		0		0		0		0																																																															
+																																																																												
+																																																																												
+																																																																												
+Bendigo (88150)																																																																												
+																																																																												
+			Ordinary		Absent		Provisional		Pre Poll		Postal		Total																																																															
+Candidates		Party	Votes	%	Votes	%	Votes	%	Votes	%	Votes	%	Votes	%																																																														
+#	"GIBBONS, Steve"	ALP	30662	43.81	1503	37.45	258	51.91	1392	39.92	1815	45.91	35630	43.48																																																														
+	"BARROW, Ron"		656	0.94	23	0.57	6	1.21	25	0.72	34	0.86	744	0.91																																																														
+	"ZEGERS, Karel"	IND	1207	1.72	54	1.35	10	2.01	82	2.35	34	0.86	1387	1.69																																																														
+	"PASQUARELLI, John"	IND	950	1.36	54	1.35	8	1.61	27	0.77	34	0.86	1073	1.31																																																														
+	"LILLEY, Helen"	DEM	2089	2.98	291	7.25	14	2.82	127	3.64	99	2.50	2620	3.20																																																														
+	"SHARKEY, Maurie"	LP	27403	39.15	1576	39.27	149	29.98	1503	43.10	1680	42.50	32311	39.43																																																														
+	"SMITH, Neil H"	HAN	1693	2.42	110	2.74	22	4.43	87	2.49	127	3.21	2039	2.49																																																														
+	"RIVENDELL, Bruce"	GRN	3641	5.20	329	8.20	27	5.43	193	5.53	89	2.25	4279	5.22																																																														
+	"ARNOLD, Phil"	CTA	1689	2.41	73	1.82	3	0.60	51	1.46	41	1.04	1857	2.27																																																														
+		FORMAL	69990	96.10	4013	96.14	497	93.60	3487	98.23	3953	98.43	81940	96.28																																																														
+		INFORMAL	2844	3.90	161	3.86	34	6.40	63	1.77	63	1.57	3165	3.72																																																														
+		TOTAL	72834	85.58	4174	4.90	531	0.62	3550	4.17	4016	4.72	85105	96.55																																																														
+Two Candidate Preferred																																																																												
+#	"GIBBONS, Steve"	ALP	37659	53.81	2106	52.48	318	63.98	1752	50.24	2057	52.04	43892	53.57																																																														
+	"SHARKEY, Maurie"	LP	32331	46.19	1907	47.52	179	36.02	1735	49.76	1896	47.96	38048	46.43																																																														
+	EXHAUSTED		0		0		0		0		0		0																																																															
+																																																																												
+																																																																												
+																																																																												
+Bruce (85447)																																																																												
+																																																																												
+			Ordinary		Absent		Provisional		Pre Poll		Postal		Total																																																															
+Candidates		Party	Votes	%	Votes	%	Votes	%	Votes	%	Votes	%	Votes	%																																																														
+	"COLLIS, David"	GRN	2636	3.97	409	8.50	19	5.38	158	5.41	127	3.14	3349	4.27																																																														
+	"STEEL, Reg"	LP	26847	40.46	1764	36.65	95	26.91	1243	42.60	1864	46.08	31813	40.54																																																														
+#	"GRIFFIN, Alan"	ALP	32578	49.10	2177	45.23	220	62.32	1310	44.89	1865	46.11	38150	48.61																																																														
+	"ROBYNS, Shaun"	DEM	4286	6.46	463	9.62	19	5.38	207	7.09	189	4.67	5164	6.58																																																														
+		FORMAL	66347	96.28	4813	95.27	353	94.39	2918	97.36	4045	98.47	78476	96.35																																																														
+		INFORMAL	2567	3.72	239	4.73	21	5.61	79	2.64	63	1.53	2969	3.65																																																														
+		TOTAL	68914	84.61	5052	6.20	374	0.46	2997	3.68	4108	5.04	81445	95.32																																																														
+Two Candidate Preferred																																																																												
+	"STEEL, Reg"	LP	29303	44.17	2097	43.57	102	28.90	1403	48.08	1979	48.92	34884	44.45																																																														
+#	"GRIFFIN, Alan"	ALP	37044	55.83	2716	56.43	251	71.10	1515	51.92	2066	51.08	43592	55.55																																																														
+	EXHAUSTED		0		0		0		0		0		0																																																															
+																																																																												
+																																																																												
+																																																																												
+Burke (88943)																																																																												
+																																																																												
+			Ordinary		Absent		Provisional		Pre Poll		Postal		Total																																																															
+Candidates		Party	Votes	%	Votes	%	Votes	%	Votes	%	Votes	%	Votes	%																																																														
+	"WARD, Marcus"	GRN	5155	7.34	546	10.53	37	8.92	214	6.54	110	3.85	6062	7.39																																																														
+	"LUTZ, Geoff"	DEM	4514	6.43	520	10.03	30	7.23	258	7.89	171	5.98	5493	6.70																																																														
+	"DAWE, Chris"	LP	26528	37.76	1812	34.95	144	34.70	1413	43.18	1385	48.44	31282	38.16																																																														
+#	"O'CONNOR, Brendan"	ALP	34048	48.47	2306	44.48	204	49.16	1387	42.39	1193	41.73	39138	47.74																																																														
+		FORMAL	70245	96.38	5184	95.21	415	96.96	3272	97.61	2859	98.62	81975	96.43																																																														
+		INFORMAL	2637	3.62	261	4.79	13	3.04	80	2.39	40	1.38	3031	3.57																																																														
+		TOTAL	72882	85.74	5445	6.41	428	0.50	3352	3.94	2899	3.41	85006	95.57																																																														
+Two Candidate Preferred																																																																												
+	"DAWE, Chris"	LP	30874	43.95	2285	44.08	178	42.89	1611	49.24	1523	53.27	36471	44.49																																																														
+#	"O'CONNOR, Brendan"	ALP	39371	56.05	2899	55.92	237	57.11	1661	50.76	1336	46.73	45504	55.51																																																														
+	EXHAUSTED		0		0		0		0		0		0																																																															
+																																																																												
+																																																																												
+																																																																												
+Calwell (98330)																																																																												
+																																																																												
+			Ordinary		Absent		Provisional		Pre Poll		Postal		Total																																																															
+Candidates		Party	Votes	%	Votes	%	Votes	%	Votes	%	Votes	%	Votes	%																																																														
+	"ABBOTTO, John"	NGST	2376	3.12	416	8.60	44	6.56	165	4.89	73	3.57	3074	3.53																																																														
+	"THEOPHANOUS, Andrew"	IND	7681	10.07	287	5.93	65	9.69	253	7.50	106	5.19	8392	9.63																																																														
+	"BOCHI, Mohamed Walid"		474	0.62	40	0.83	7	1.04	20	0.59	14	0.68	555	0.64																																																														
+	"LIVESAY, Robert"	DEM	2797	3.67	302	6.24	17	2.53	141	4.18	99	4.84	3356	3.85																																																														
+#	"VAMVAKINOU, Maria"	ALP	40093	52.59	2218	45.84	356	53.06	1597	47.32	939	45.94	45203	51.85																																																														
+	"YOHANNA, Sleiman"	CEC	400	0.52	29	0.60	23	3.43	5	0.15	8	0.39	465	0.53																																																														
+	"BARKER, Bee"	GRN	1759	2.31	200	4.13	25	3.73	86	2.55	35	1.71	2105	2.41																																																														
+	"DERVISH, D"	IND	1825	2.39	66	1.36	18	2.68	66	1.96	28	1.37	2003	2.30																																																														
+	"BULLER, Darren"	LP	18839	24.71	1281	26.47	116	17.29	1042	30.87	742	36.30	22020	25.26																																																														
+		FORMAL	76244	93.47	4839	91.06	671	91.92	3375	95.91	2044	98.41	87173	93.53																																																														
+		INFORMAL	5324	6.53	475	8.94	59	8.08	144	4.09	33	1.59	6035	6.47																																																														
+		TOTAL	81568	87.51	5314	5.70	730	0.78	3519	3.78	2077	2.23	93208	94.79																																																														
+Two Candidate Preferred																																																																												
+#	"VAMVAKINOU, Maria"	ALP	52097	68.33	3183	65.78	490	73.03	2083	61.72	1191	58.27	59044	67.73																																																														
+	"BULLER, Darren"	LP	24147	31.67	1656	34.22	181	26.97	1292	38.28	853	41.73	28129	32.27																																																														
+	EXHAUSTED		0		0		0		0		0		0																																																															
+																																																																												
+																																																																												
+																																																																												
+Casey (85278)																																																																												
+																																																																												
+			Ordinary		Absent		Provisional		Pre Poll		Postal		Total																																																															
+Candidates		Party	Votes	%	Votes	%	Votes	%	Votes	%	Votes	%	Votes	%																																																														
+	"JOYCE, Tom"	DEM	5593	8.38	600	11.95	44	10.89	291	8.55	210	6.68	6738	8.56																																																														
+#	"SMITH, Tony"	LP	34184	51.21	2304	45.90	199	49.26	1732	50.88	1935	61.55	40354	51.26																																																														
+	"LEACH, Lorraine"	GRN	4549	6.81	517	10.30	28	6.93	194	5.70	136	4.33	5424	6.89																																																														
+	"McKENZIE, David"	ALP	22429	33.60	1599	31.85	133	32.92	1187	34.87	863	27.45	26211	33.29																																																														
+		FORMAL	66755	96.32	5020	96.24	404	94.39	3404	97.51	3144	98.04	78727	96.42																																																														
+		INFORMAL	2552	3.68	196	3.76	24	5.61	87	2.49	63	1.96	2922	3.58																																																														
+		TOTAL	69307	84.88	5216	6.39	428	0.52	3491	4.28	3207	3.93	81649	95.74																																																														
+Two Candidate Preferred																																																																												
+#	"SMITH, Tony"	LP	37998	56.92	2769	55.16	224	55.45	1943	57.08	2070	65.84	45004	57.16																																																														
+	"McKENZIE, David"	ALP	28757	43.08	2251	44.84	180	44.55	1461	42.92	1074	34.16	33723	42.84																																																														
+	EXHAUSTED		0		0		0		0		0		0																																																															
+																																																																												
+																																																																												
+																																																																												
+Chisholm (86680)																																																																												
+																																																																												
+			Ordinary		Absent		Provisional		Pre Poll		Postal		Total																																																															
+Candidates		Party	Votes	%	Votes	%	Votes	%	Votes	%	Votes	%	Votes	%																																																														
+	"CLOWES, Ros"	LP	28770	43.34	2313	41.01	88	41.71	1363	43.23	2302	50.50	34836	43.58																																																														
+	"BENNETT, James"	DEM	4293	6.47	587	10.41	16	7.58	253	8.02	230	5.05	5379	6.73																																																														
+#	"BURKE, Anna"	ALP	28612	43.11	2085	36.97	96	45.50	1311	41.58	1825	40.04	33929	42.44																																																														
+	"MURRAY, John"	NGST	652	0.98	123	2.18	5	2.37	57	1.81	58	1.27	895	1.12																																																														
+	"TANKEY, Howard"	GRN	4048	6.10	532	9.43	6	2.84	169	5.36	143	3.14	4898	6.13																																																														
+		FORMAL	66375	96.84	5640	97.01	211	96.79	3153	97.65	4558	98.79	79937	96.99																																																														
+		INFORMAL	2168	3.16	174	2.99	7	3.21	76	2.35	56	1.21	2481	3.01																																																														
+		TOTAL	68543	83.17	5814	7.05	218	0.26	3229	3.92	4614	5.60	82418	95.08																																																														
+Two Candidate Preferred																																																																												
+	"CLOWES, Ros"	LP	30991	46.69	2712	48.09	98	46.45	1518	48.14	2439	53.51	37758	47.23																																																														
+#	"BURKE, Anna"	ALP	35384	53.31	2928	51.91	113	53.55	1635	51.86	2119	46.49	42179	52.77																																																														
+	EXHAUSTED		0		0		0		0		0		0																																																															
+																																																																												
+																																																																												
+																																																																												
+Corangamite (85955)																																																																												
+																																																																												
+			Ordinary		Absent		Provisional		Pre Poll		Postal		Total																																																															
+Candidates		Party	Votes	%	Votes	%	Votes	%	Votes	%	Votes	%	Votes	%																																																														
+	"HILLS, Graham"	HAN	1598	2.41	137	2.89	9	1.86	128	2.94	111	2.78	1983	2.48																																																														
+	"STRAUSS, Nigel"	LFF	1670	2.51	145	3.06	15	3.09	72	1.65	58	1.45	1960	2.45																																																														
+	"HODGE, Robyn"	DEM	4180	6.29	441	9.30	53	10.93	270	6.21	185	4.63	5129	6.41																																																														
+#	"McARTHUR, Stewart"	LP	31216	47.00	1972	41.60	203	41.86	2131	48.98	2407	60.22	37929	47.42																																																														
+	"LYGO, Iain"	GRN	4219	6.35	478	10.08	44	9.07	217	4.99	138	3.45	5096	6.37																																																														
+	"ARUNDELL, Simon"	IND	1075	1.62	101	2.13	7	1.44	78	1.79	65	1.63	1326	1.66																																																														
+	"BJORK-BILLINGS, Michael"	ALP	22461	33.82	1466	30.93	154	31.75	1455	33.44	1033	25.84	26569	33.21																																																														
+		FORMAL	66419	96.58	4740	95.41	485	94.73	4351	97.34	3997	98.25	79992	96.62																																																														
+		INFORMAL	2353	3.42	228	4.59	27	5.27	119	2.66	71	1.75	2798	3.38																																																														
+		TOTAL	68772	83.07	4968	6.00	512	0.62	4470	5.40	4068	4.91	82790	96.32																																																														
+Two Candidate Preferred																																																																												
+#	"McARTHUR, Stewart"	LP	36609	55.12	2567	54.16	252	51.96	2453	56.38	2648	66.25	44529	55.67																																																														
+	"BJORK-BILLINGS, Michael"	ALP	29810	44.88	2173	45.84	233	48.04	1898	43.62	1349	33.75	35463	44.33																																																														
+	EXHAUSTED		0		0		0		0		0		0																																																															
+																																																																												
+																																																																												
+																																																																												
+Corio (85836)																																																																												
+																																																																												
+			Ordinary		Absent		Provisional		Pre Poll		Postal		Total																																																															
+Candidates		Party	Votes	%	Votes	%	Votes	%	Votes	%	Votes	%	Votes	%																																																														
+	"MENHEERE-THOMPSON, Erica"	DEM	4562	6.85	356	10.57	66	10.33	250	6.60	154	4.24	5388	6.91																																																														
+#	"O'CONNOR, Gavan"	ALP	32942	49.48	1314	39.03	342	53.52	1825	48.18	1598	43.97	38021	48.75																																																														
+	"GOODEN, Tim"		613	0.92	35	1.04	10	1.56	23	0.61	17	0.47	698	0.89																																																														
+	"MALESIC, Steve"	LP	23777	35.72	1227	36.44	171	26.76	1435	37.88	1644	45.24	28254	36.22																																																														
+	"HILL, Gareth"	CEC	138	0.21	17	0.50	1	0.16	10	0.26	10	0.28	176	0.23																																																														
+	"TIRKOT, Herbert Georg"	HAN	1166	1.75	71	2.11	11	1.72	81	2.14	91	2.50	1420	1.82																																																														
+	"FAIRBROTHER, Cheryl"		564	0.85	45	1.34	7	1.10	19	0.50	18	0.50	653	0.84																																																														
+	"JOHNSON, Catherine"	GRN	2808	4.22	302	8.97	31	4.85	145	3.83	102	2.81	3388	4.34																																																														
+		FORMAL	66570	94.69	3367	94.45	639	91.42	3788	96.90	3634	97.98	77998	94.91																																																														
+		INFORMAL	3731	5.31	198	5.55	60	8.58	121	3.10	75	2.02	4185	5.09																																																														
+		TOTAL	70301	85.54	3565	4.34	699	0.85	3909	4.76	3709	4.51	82183	95.74																																																														
+Two Candidate Preferred																																																																												
+#	"O'CONNOR, Gavan"	ALP	39483	59.31	1843	54.74	435	68.08	2185	57.68	1841	50.66	45787	58.70																																																														
+	"MALESIC, Steve"	LP	27087	40.69	1524	45.26	204	31.92	1603	42.32	1793	49.34	32211	41.30																																																														
+	EXHAUSTED		0		0		0		0		0		0																																																															
+																																																																												
+																																																																												
+																																																																												
+Deakin (85208)																																																																												
+																																																																												
+			Ordinary		Absent		Provisional		Pre Poll		Postal		Total																																																															
+Candidates		Party	Votes	%	Votes	%	Votes	%	Votes	%	Votes	%	Votes	%																																																														
+	"AYLIFFE, Nahum"	DEM	5216	7.88	560	10.94	33	11.07	269	8.41	239	5.48	6317	7.98																																																														
+	"BUCKINGHAM, Helen"	ALP	25756	38.91	1802	35.22	129	43.29	1128	35.25	1582	36.29	30397	38.39																																																														
+	"EVANS, Robyn"	GRN	4094	6.18	527	10.30	19	6.38	222	6.94	183	4.20	5045	6.37																																																														
+#	"BARRESI, Phil"	LP	31136	47.03	2228	43.54	117	39.26	1581	49.41	2355	54.03	37417	47.26																																																														
+		FORMAL	66202	97.36	5117	96.89	298	96.13	3200	97.95	4359	98.93	79176	97.44																																																														
+		INFORMAL	1792	2.64	164	3.11	12	3.87	67	2.05	47	1.07	2082	2.56																																																														
+		TOTAL	67994	83.68	5281	6.50	310	0.38	3267	4.02	4406	5.42	81258	95.36																																																														
+Two Candidate Preferred																																																																												
+	"BUCKINGHAM, Helen"	ALP	32148	48.56	2556	49.95	168	56.38	1465	45.78	1877	43.06	38214	48.26																																																														
+#	"BARRESI, Phil"	LP	34054	51.44	2561	50.05	130	43.62	1735	54.22	2482	56.94	40962	51.74																																																														
+	EXHAUSTED		0		0		0		0		0		0																																																															
+																																																																												
+																																																																												
+																																																																												
+Dunkley (85129)																																																																												
+																																																																												
+			Ordinary		Absent		Provisional		Pre Poll		Postal		Total																																																															
+Candidates		Party	Votes	%	Votes	%	Votes	%	Votes	%	Votes	%	Votes	%																																																														
+#	"BILLSON, Bruce"	LP	32997	49.76	1750	45.45	269	43.39	2134	51.51	2053	56.54	39203	49.90																																																														
+	"CARTWRIGHT, Michael"	HAN	1190	1.79	94	2.44	18	2.90	72	1.74	64	1.76	1438	1.83																																																														
+	"CONROY, Mark"	ALP	23840	35.95	1273	33.06	256	41.29	1492	36.01	1227	33.79	28088	35.75																																																														
+	"DAVIS, Fletcher"	IND	771	1.16	73	1.90	8	1.29	109	2.63	34	0.94	995	1.27																																																														
+	"KELSALL, Henry"	GRN	3833	5.78	344	8.94	33	5.32	156	3.77	120	3.30	4486	5.71																																																														
+	"WOODHOUSE, Ian"	DEM	3685	5.56	316	8.21	36	5.81	180	4.34	133	3.66	4350	5.54																																																														
+		FORMAL	66316	96.43	3850	95.77	620	94.37	4143	97.80	3631	98.61	78560	96.55																																																														
+		INFORMAL	2454	3.57	170	4.23	37	5.63	93	2.20	51	1.39	2805	3.45																																																														
+		TOTAL	68770	84.52	4020	4.94	657	0.81	4236	5.21	3682	4.53	81365	95.58																																																														
+Two Candidate Preferred																																																																												
+#	"BILLSON, Bruce"	LP	36657	55.28	2056	53.40	302	48.71	2343	56.55	2179	60.01	43537	55.42																																																														
+	"CONROY, Mark"	ALP	29659	44.72	1794	46.60	318	51.29	1800	43.45	1452	39.99	35023	44.58																																																														
+	EXHAUSTED		0		0		0		0		0		0																																																															
+																																																																												
+																																																																												
+																																																																												
+Flinders (91403)																																																																												
+																																																																												
+			Ordinary		Absent		Provisional		Pre Poll		Postal		Total																																																															
+Candidates		Party	Votes	%	Votes	%	Votes	%	Votes	%	Votes	%	Votes	%																																																														
+	"WILSON, Earle"	IND	693	1.01	133	2.88	15	2.51	88	1.34	39	0.94	968	1.15																																																														
+	"DOWEY, Kevin Joseph Peter"	HAN	1493	2.18	127	2.75	14	2.35	169	2.57	108	2.60	1911	2.27																																																														
+	"BLADE, Ashley"	IND	420	0.61	78	1.69	8	1.34	41	0.62	20	0.48	567	0.67																																																														
+#	"HUNT, Greg"	LP	35313	51.65	2212	47.88	274	45.90	3395	51.66	2407	57.86	43601	51.71																																																														
+	"FINCH, Wayne"	ALP	22572	33.01	1301	28.16	187	31.32	2364	35.97	1271	30.55	27695	32.85																																																														
+	"ARMSTRONG, Richard"	DEM	3848	5.63	369	7.99	40	6.70	282	4.29	151	3.63	4690	5.56																																																														
+	"DE RANGO, David"	GRN	4030	5.89	400	8.66	59	9.88	233	3.55	164	3.94	4886	5.79																																																														
+		FORMAL	68369	96.05	4620	95.04	597	95.67	6572	97.78	4160	98.39	84318	96.23																																																														
+		INFORMAL	2815	3.95	241	4.96	27	4.33	149	2.22	68	1.61	3300	3.77																																																														
+		TOTAL	71184	81.24	4861	5.55	624	0.71	6721	7.67	4228	4.83	87618	95.86																																																														
+Two Candidate Preferred																																																																												
+#	"HUNT, Greg"	LP	39245	57.40	2693	58.29	327	54.77	3743	56.95	2577	61.95	48585	57.62																																																														
+	"FINCH, Wayne"	ALP	29124	42.60	1927	41.71	270	45.23	2829	43.05	1583	38.05	35733	42.38																																																														
+	EXHAUSTED		0		0		0		0		0		0																																																															
+																																																																												
+																																																																												
+																																																																												
+Gellibrand (86496)																																																																												
+																																																																												
+			Ordinary		Absent		Provisional		Pre Poll		Postal		Total																																																															
+Candidates		Party	Votes	%	Votes	%	Votes	%	Votes	%	Votes	%	Votes	%																																																														
+	"TANN, Christopher"	LP	16356	25.01	1151	25.73	146	22.12	820	25.45	718	27.56	19191	25.13																																																														
+#	"ROXON, Nicola"	ALP	39692	60.69	2352	52.58	442	66.97	1935	60.06	1703	65.37	46124	60.40																																																														
+	"RICHARDS, Rachel"	DEM	4427	6.77	442	9.88	34	5.15	249	7.73	104	3.99	5256	6.88																																																														
+	"FINEY, Michele"	GRN	4111	6.29	452	10.11	30	4.55	173	5.37	65	2.50	4831	6.33																																																														
+	"JORQUERA, Jorge"		819	1.25	76	1.70	8	1.21	45	1.40	15	0.58	963	1.26																																																														
+		FORMAL	65405	94.93	4473	94.99	660	93.22	3222	96.50	2605	98.30	76365	95.10																																																														
+		INFORMAL	3492	5.07	236	5.01	48	6.78	117	3.50	45	1.70	3938	4.90																																																														
+		TOTAL	68897	85.80	4709	5.86	708	0.88	3339	4.16	2650	3.30	80303	92.84																																																														
+Two Candidate Preferred																																																																												
+	"TANN, Christopher"	LP	18254	27.91	1405	31.41	166	25.15	960	29.80	766	29.40	21551	28.22																																																														
+#	"ROXON, Nicola"	ALP	47151	72.09	3068	68.59	494	74.85	2262	70.20	1839	70.60	54814	71.78																																																														
+	EXHAUSTED		0		0		0		0		0		0																																																															
+																																																																												
+																																																																												
+																																																																												
+Gippsland (83845)																																																																												
+																																																																												
+			Ordinary		Absent		Provisional		Pre Poll		Postal		Total																																																															
+Candidates		Party	Votes	%	Votes	%	Votes	%	Votes	%	Votes	%	Votes	%																																																														
+	"JAGO, John"	IND	1340	2.04	110	2.79	16	4.83	69	2.09	44	1.77	1579	2.08																																																														
+	"FRESHWATER, Michael"	HAN	3517	5.35	173	4.39	18	5.44	200	6.07	158	6.35	4066	5.37																																																														
+	"McCUBBIN, Jo"	DEM	2702	4.11	305	7.74	19	5.74	194	5.89	111	4.46	3331	4.40																																																														
+	"EVANS, Phillip J"	IND	1387	2.11	70	1.78	5	1.51	43	1.31	46	1.85	1551	2.05																																																														
+	"BUCKLEY, Ben"	IND	978	1.49	114	2.89	8	2.42	81	2.46	68	2.73	1249	1.65																																																														
+	"THORPE, Marjorie"	IND	662	1.01	50	1.27	12	3.63	36	1.09	31	1.25	791	1.04																																																														
+	"WILLIAMS, Frank"	CEC	184	0.28	15	0.38	2	0.60	16	0.49	4	0.16	221	0.29																																																														
+	"BOLITHO, Bill"	ALP	17090	26.01	965	24.50	92	27.79	724	21.97	598	24.05	19469	25.70																																																														
+	"TREASURE, Doug"	IND	3686	5.61	212	5.38	23	6.95	201	6.10	127	5.11	4249	5.61																																																														
+#	"McGAURAN, Peter"	NP	30259	46.06	1492	37.88	115	34.74	1525	46.28	1164	46.80	34555	45.62																																																														
+	"ROBINSON, Phillip"	IND	421	0.64	28	0.71	2	0.60	23	0.70	13	0.52	487	0.64																																																														
+	"AITKEN, Chris"	GRN	3475	5.29	405	10.28	19	5.74	183	5.55	123	4.95	4205	5.55																																																														
+		FORMAL	65701	94.25	3939	93.63	331	92.72	3295	96.43	2487	97.68	75753	94.41																																																														
+		INFORMAL	4009	5.75	268	6.37	26	7.28	122	3.57	59	2.32	4484	5.59																																																														
+		TOTAL	69710	86.88	4207	5.24	357	0.44	3417	4.26	2546	3.17	80237	95.70																																																														
+Two Candidate Preferred																																																																												
+	"BOLITHO, Bill"	ALP	27520	41.89	1834	46.56	157	47.43	1302	39.51	962	38.68	31775	41.95																																																														
+#	"McGAURAN, Peter"	NP	38181	58.11	2105	53.44	174	52.57	1993	60.49	1525	61.32	43978	58.05																																																														
+	EXHAUSTED		0		0		0		0		0		0																																																															
+																																																																												
+																																																																												
+																																																																												
+Goldstein (89948)																																																																												
+																																																																												
+			Ordinary		Absent		Provisional		Pre Poll		Postal		Total																																																															
+Candidates		Party	Votes	%	Votes	%	Votes	%	Votes	%	Votes	%	Votes	%																																																														
+#	"KEMP, David"	LP	36037	52.15	2483	48.21	175	51.78	2182	55.59	2658	65.45	43535	52.72																																																														
+	"POWNING, Rachel"	ALP	19286	27.91	1404	27.26	93	27.51	1038	26.45	909	22.38	22730	27.52																																																														
+	"NEWELL, Michaela Clare"	DEM	5120	7.41	545	10.58	34	10.06	278	7.08	238	5.86	6215	7.53																																																														
+	"STEGLEY, Kristin"	IND	4284	6.20	181	3.51	15	4.44	197	5.02	130	3.20	4807	5.82																																																														
+	"PUSZKA, Teresa"	GRN	4380	6.34	537	10.43	21	6.21	230	5.86	126	3.10	5294	6.41																																																														
+		FORMAL	69107	97.11	5150	96.75	338	96.02	3925	97.88	4061	99.41	82581	97.23																																																														
+		INFORMAL	2055	2.89	173	3.25	14	3.98	85	2.12	24	0.59	2351	2.77																																																														
+		TOTAL	71162	83.79	5323	6.27	352	0.41	4010	4.72	4085	4.81	84932	94.42																																																														
+Two Candidate Preferred																																																																												
+#	"KEMP, David"	LP	40767	58.99	2920	56.70	198	58.58	2417	61.58	2820	69.44	49122	59.48																																																														
+	"POWNING, Rachel"	ALP	28340	41.01	2230	43.30	140	41.42	1508	38.42	1241	30.56	33459	40.52																																																														
+	EXHAUSTED		0		0		0		0		0		0																																																															
+																																																																												
+																																																																												
+																																																																												
+Higgins (88043)																																																																												
+																																																																												
+			Ordinary		Absent		Provisional		Pre Poll		Postal		Total																																																															
+Candidates		Party	Votes	%	Votes	%	Votes	%	Votes	%	Votes	%	Votes	%																																																														
+	"STEPHENS, Katie"	ALP	19229	29.81	1798	26.82	117	29.92	1081	25.36	813	20.76	23038	28.88																																																														
+	"GILES, Tania"	GRN	5619	8.71	827	12.33	38	9.72	355	8.33	190	4.85	7029	8.81																																																														
+	"MOSS, Katie"	DEM	5731	8.88	865	12.90	38	9.72	426	9.99	215	5.49	7275	9.12																																																														
+#	"COSTELLO, Peter"	LP	33925	52.59	3215	47.95	198	50.64	2401	56.32	2698	68.90	42437	53.19																																																														
+		FORMAL	64504	97.25	6705	97.01	391	94.90	4263	98.02	3916	98.57	79779	97.32																																																														
+		INFORMAL	1827	2.75	207	2.99	21	5.10	86	1.98	57	1.43	2198	2.68																																																														
+		TOTAL	66331	80.91	6912	8.43	412	0.50	4349	5.31	3973	4.85	81977	93.11																																																														
+Two Candidate Preferred																																																																												
+	"STEPHENS, Katie"	ALP	27337	42.38	2964	44.21	176	45.01	1625	38.12	1094	27.94	33196	41.61																																																														
+#	"COSTELLO, Peter"	LP	37167	57.62	3741	55.79	215	54.99	2638	61.88	2822	72.06	46583	58.39																																																														
+	EXHAUSTED		0		0		0		0		0		0																																																															
+																																																																												
+																																																																												
+																																																																												
+Holt (88172)																																																																												
+																																																																												
+			Ordinary		Absent		Provisional		Pre Poll		Postal		Total																																																															
+Candidates		Party	Votes	%	Votes	%	Votes	%	Votes	%	Votes	%	Votes	%																																																														
+	"MORGAN, Polly"	DEM	4331	6.40	522	10.37	53	6.06	192	6.40	142	5.56	5240	6.63																																																														
+	"WOOD, Jason"	LP	20745	30.68	1693	33.62	171	19.57	1035	34.48	977	38.27	24621	31.13																																																														
+	"PATRINOS, Theos"	GRN	1730	2.56	257	5.10	26	2.97	82	2.73	54	2.12	2149	2.72																																																														
+	"FORD, Gordon W"		745	1.10	84	1.67	9	1.03	17	0.57	25	0.98	880	1.11																																																														
+#	"BYRNE, Anthony"	ALP	38839	57.44	2352	46.71	599	68.54	1588	52.90	1303	51.04	44681	56.50																																																														
+	"DICKSON, Lynne"	CTA	1230	1.82	127	2.52	16	1.83	88	2.93	52	2.04	1513	1.91																																																														
+		FORMAL	67620	94.92	5035	94.63	874	92.68	3002	97.40	2553	97.78	79084	95.06																																																														
+		INFORMAL	3616	5.08	286	5.37	69	7.32	80	2.60	58	2.22	4109	4.94																																																														
+		TOTAL	71236	85.63	5321	6.40	943	1.13	3082	3.70	2611	3.14	83193	94.35																																																														
+Two Candidate Preferred																																																																												
+	"WOOD, Jason"	LP	24292	35.92	2175	43.20	228	26.09	1205	40.14	1106	43.32	29006	36.68																																																														
+#	"BYRNE, Anthony"	ALP	43328	64.08	2860	56.80	646	73.91	1797	59.86	1447	56.68	50078	63.32																																																														
+	EXHAUSTED		0		0		0		0		0		0																																																															
+																																																																												
+																																																																												
+																																																																												
+Hotham (89090)																																																																												
+																																																																												
+			Ordinary		Absent		Provisional		Pre Poll		Postal		Total																																																															
+Candidates		Party	Votes	%	Votes	%	Votes	%	Votes	%	Votes	%	Votes	%																																																														
+	"BENNETT, Ollie"	GRN	2738	3.99	532	10.05	28	6.25	143	4.52	103	2.67	3544	4.35																																																														
+	"HALL, Simon Joseph"	CEC	428	0.62	117	2.21	4	0.89	31	0.98	18	0.47	598	0.73																																																														
+	"RUFFOLO, Priscilla"	LP	23860	34.74	1751	33.07	106	23.66	1202	37.95	1660	43.07	28579	35.09																																																														
+	"JOSS, Jessica"	DEM	3505	5.10	529	9.99	19	4.24	165	5.21	165	4.28	4383	5.38																																																														
+#	"CREAN, Simon"	ALP	38160	55.55	2366	44.68	291	64.96	1626	51.34	1908	49.51	44351	54.45																																																														
+		FORMAL	68691	96.34	5295	95.65	448	91.80	3167	97.69	3854	98.92	81455	96.44																																																														
+		INFORMAL	2607	3.66	241	4.35	40	8.20	75	2.31	42	1.08	3005	3.56																																																														
+		TOTAL	71298	84.42	5536	6.55	488	0.58	3242	3.84	3896	4.61	84460	94.80																																																														
+Two Candidate Preferred																																																																												
+	"RUFFOLO, Priscilla"	LP	26261	38.23	2243	42.36	132	29.46	1339	42.28	1779	46.16	31754	38.98																																																														
+#	"CREAN, Simon"	ALP	42430	61.77	3052	57.64	316	70.54	1828	57.72	2075	53.84	49701	61.02																																																														
+	EXHAUSTED		0		0		0		0		0		0																																																															
+																																																																												
+																																																																												
+																																																																												
+Indi (85758)																																																																												
+																																																																												
+			Ordinary		Absent		Provisional		Pre Poll		Postal		Total																																																															
+Candidates		Party	Votes	%	Votes	%	Votes	%	Votes	%	Votes	%	Votes	%																																																														
+	"ADAMS, Pat"		720	1.12	65	1.81	11	3.23	81	1.23	18	0.65	895	1.15																																																														
+	"MURDOCH, Barbara"	ALP	17559	27.25	906	25.22	108	31.67	1823	27.60	618	22.43	21014	27.03																																																														
+	"BENNETTS, Lyn"	HAN	2497	3.87	110	3.06	20	5.87	308	4.66	144	5.23	3079	3.96																																																														
+	"CHUCK, Robert"	DEM	2320	3.60	270	7.52	12	3.52	221	3.35	97	3.52	2920	3.76																																																														
+	"SEYMOUR, Philip John"	CTA	712	1.10	67	1.87	3	0.88	77	1.17	25	0.91	884	1.14																																																														
+	"WARDLE, Michael"	GRN	2332	3.62	309	8.60	15	4.40	235	3.56	65	2.36	2956	3.80																																																														
+	"CHAMBERS, Don"	NP	7969	12.37	364	10.13	35	10.26	823	12.46	361	13.10	9552	12.29																																																														
+#	"PANOPOULOS, Sophie"	LP	25725	39.92	1354	37.69	114	33.43	2656	40.21	1303	47.30	31152	40.07																																																														
+	"McINTOSH, Nelson"	IND	4609	7.15	147	4.09	23	6.74	381	5.77	124	4.50	5284	6.80																																																														
+		FORMAL	64443	94.34	3592	96.48	341	94.72	6605	96.75	2755	98.53	77736	94.78																																																														
+		INFORMAL	3868	5.66	131	3.52	19	5.28	222	3.25	41	1.47	4281	5.22																																																														
+		TOTAL	68311	83.29	3723	4.54	360	0.44	6827	8.32	2796	3.41	82017	95.64																																																														
+Two Candidate Preferred																																																																												
+	"MURDOCH, Barbara"	ALP	24977	38.76	1527	42.51	171	50.15	2620	39.67	906	32.89	30201	38.85																																																														
+#	"PANOPOULOS, Sophie"	LP	39466	61.24	2065	57.49	170	49.85	3985	60.33	1849	67.11	47535	61.15																																																														
+	EXHAUSTED		0		0		0		0		0		0																																																															
+																																																																												
+																																																																												
+																																																																												
+Isaacs (82675)																																																																												
+																																																																												
+			Ordinary		Absent		Provisional		Pre Poll		Postal		Total																																																															
+Candidates		Party	Votes	%	Votes	%	Votes	%	Votes	%	Votes	%	Votes	%																																																														
+	"OAKLEY, Shirly"	IND	1067	1.64	138	3.34	27	3.67	58	2.26	52	1.51	1342	1.77																																																														
+	"BROOK, Patricia"	IND	515	0.79	67	1.62	10	1.36	23	0.90	25	0.73	640	0.84																																																														
+#	"CORCORAN, Ann"	ALP	27726	42.73	1545	37.43	318	43.27	1031	40.26	1331	38.65	31951	42.18																																																														
+	"STANTON, Heather"	CEC	189	0.29	32	0.78	8	1.09	8	0.31	9	0.26	246	0.32																																																														
+	"GROVES, John"	HAN	1056	1.63	133	3.22	20	2.72	63	2.46	86	2.50	1358	1.79																																																														
+	"SHEPHERDSON, Michael"	LP	26881	41.43	1544	37.40	258	35.10	1116	43.58	1721	49.97	31520	41.61																																																														
+	"BUJEYA, Darren"	GRN	2590	3.99	269	6.52	35	4.76	100	3.90	79	2.29	3073	4.06																																																														
+	"FLETCHER, Haydn"	DEM	4865	7.50	400	9.69	59	8.03	162	6.33	141	4.09	5627	7.43																																																														
+		FORMAL	64889	95.27	4128	93.67	735	93.63	2561	96.61	3444	98.48	75757	95.35																																																														
+		INFORMAL	3219	4.73	279	6.33	50	6.37	90	3.39	53	1.52	3691	4.65																																																														
+		TOTAL	68108	85.73	4407	5.55	785	0.99	2651	3.34	3497	4.40	79448	96.10																																																														
+Two Candidate Preferred																																																																												
+#	"CORCORAN, Ann"	ALP	34546	53.24	2185	52.93	427	58.10	1295	50.57	1558	45.24	40011	52.81																																																														
+	"SHEPHERDSON, Michael"	LP	30343	46.76	1943	47.07	308	41.90	1266	49.43	1886	54.76	35746	47.19																																																														
+	EXHAUSTED		0		0		0		0		0		0																																																															
+																																																																												
+																																																																												
+																																																																												
+Jagajaga (88073)																																																																												
+																																																																												
+			Ordinary		Absent		Provisional		Pre Poll		Postal		Total																																																															
+Candidates		Party	Votes	%	Votes	%	Votes	%	Votes	%	Votes	%	Votes	%																																																														
+	"WIGG, Peter"	DEM	4547	6.64	451	9.41	19	7.12	215	6.28	189	4.49	5421	6.68																																																														
+	"GALLAGHER, Paul"	CEC	211	0.31	32	0.67	1	0.37	14	0.41	8	0.19	266	0.33																																																														
+	"JONES, Brett Lloyd"	LP	27499	40.15	1786	37.25	94	35.21	1488	43.48	1752	41.65	32619	40.18																																																														
+	"ROBERTS, Samantha"	GRN	4388	6.41	462	9.64	17	6.37	182	5.32	129	3.07	5178	6.38																																																														
+#	"MACKLIN, Jenny"	ALP	31324	45.73	1993	41.56	130	48.69	1486	43.42	2094	49.79	37027	45.61																																																														
+	"SCHOREL-HLAVKA, Gary"	IND	525	0.77	71	1.48	6	2.25	37	1.08	34	0.81	673	0.83																																																														
+		FORMAL	68494	96.17	4795	96.15	267	97.09	3422	97.83	4206	98.48	81184	96.36																																																														
+		INFORMAL	2729	3.83	192	3.85	8	2.91	76	2.17	65	1.52	3070	3.64																																																														
+		TOTAL	71223	84.53	4987	5.92	275	0.33	3498	4.15	4271	5.07	84254	95.66																																																														
+Two Candidate Preferred																																																																												
+	"JONES, Brett Lloyd"	LP	30288	44.22	2119	44.19	110	41.20	1624	47.46	1873	44.53	36014	44.36																																																														
+#	"MACKLIN, Jenny"	ALP	38206	55.78	2676	55.81	157	58.80	1798	52.54	2333	55.47	45170	55.64																																																														
+	EXHAUSTED		0		0		0		0		0		0																																																															
+																																																																												
+																																																																												
+																																																																												
+Kooyong (87128)																																																																												
+																																																																												
+			Ordinary		Absent		Provisional		Pre Poll		Postal		Total																																																															
+Candidates		Party	Votes	%	Votes	%	Votes	%	Votes	%	Votes	%	Votes	%																																																														
+#	"GEORGIOU, Petro"	LP	36288	54.59	3125	51.83	179	51.00	2054	56.43	2598	67.87	44244	55.08																																																														
+	"CAMPBELL, Peter"	GRN	7160	10.77	863	14.31	45	12.82	328	9.01	211	5.51	8607	10.72																																																														
+	"SHARP, Ari"	DEM	5122	7.71	670	11.11	35	9.97	316	8.68	231	6.03	6374	7.94																																																														
+	"WILSON, Tom"	ALP	17903	26.93	1371	22.74	92	26.21	942	25.88	788	20.59	21096	26.26																																																														
+		FORMAL	66473	97.35	6029	97.12	351	98.04	3640	97.95	3828	98.79	80321	97.43																																																														
+		INFORMAL	1808	2.65	179	2.88	7	1.96	76	2.05	47	1.21	2117	2.57																																																														
+		TOTAL	68281	82.83	6208	7.53	358	0.43	3716	4.51	3875	4.70	82438	94.62																																																														
+Two Candidate Preferred																																																																												
+#	"GEORGIOU, Petro"	LP	40087	60.31	3624	60.11	200	56.98	2265	62.23	2768	72.31	48944	60.94																																																														
+	"WILSON, Tom"	ALP	26386	39.69	2405	39.89	151	43.02	1375	37.77	1060	27.69	31377	39.06																																																														
+	EXHAUSTED		0		0		0		0		0		0																																																															
+																																																																												
+																																																																												
+																																																																												
+Lalor (89277)																																																																												
+																																																																												
+			Ordinary		Absent		Provisional		Pre Poll		Postal		Total																																																															
+Candidates		Party	Votes	%	Votes	%	Votes	%	Votes	%	Votes	%	Votes	%																																																														
+	"HOWE, Roger"	DEM	5440	7.72	385	9.67	43	8.16	325	6.87	104	5.14	6297	7.70																																																														
+	"McCONNELL, David V"	LP	20987	29.78	1189	29.87	137	26.00	1639	34.62	682	33.68	24634	30.14																																																														
+	"BRIFFA, Tony"	GRN	2777	3.94	261	6.56	31	5.88	171	3.61	81	4.00	3321	4.06																																																														
+#	"GILLARD, Julia"	ALP	41272	58.56	2145	53.89	316	59.96	2599	54.90	1158	57.19	47490	58.10																																																														
+		FORMAL	70476	95.54	3980	94.47	527	95.47	4734	97.07	2025	98.73	81742	95.65																																																														
+		INFORMAL	3291	4.46	233	5.53	25	4.53	143	2.93	26	1.27	3718	4.35																																																														
+		TOTAL	73767	86.32	4213	4.93	552	0.65	4877	5.71	2051	2.40	85460	95.72																																																														
+Two Candidate Preferred																																																																												
+	"McCONNELL, David V"	LP	23854	33.85	1467	36.86	168	31.88	1850	39.08	759	37.48	28098	34.37																																																														
+#	"GILLARD, Julia"	ALP	46622	66.15	2513	63.14	359	68.12	2884	60.92	1266	62.52	53644	65.63																																																														
+	EXHAUSTED		0		0		0		0		0		0																																																															
+																																																																												
+																																																																												
+																																																																												
+La Trobe (88269)																																																																												
+																																																																												
+			Ordinary		Absent		Provisional		Pre Poll		Postal		Total																																																															
+Candidates		Party	Votes	%	Votes	%	Votes	%	Votes	%	Votes	%	Votes	%																																																														
+#	"CHARLES, Bob"	LP	31456	46.17	2437	44.55	191	49.48	1503	51.12	2054	53.10	37641	46.59																																																														
+	"SMITH, Craig"	GRN	4891	7.18	493	9.01	23	5.96	177	6.02	156	4.03	5740	7.10																																																														
+	"HOLLAND, Tony"	DEM	5469	8.03	509	9.31	35	9.07	203	6.90	208	5.38	6424	7.95																																																														
+	"STAINDL, Philip"	ALP	23856	35.01	1717	31.39	122	31.61	905	30.78	1312	33.92	27912	34.55																																																														
+	"VOIGT, Wolfgang"	CTA	699	1.03	90	1.65	1	0.26	42	1.43	29	0.75	861	1.07																																																														
+	"SCOTT, June"	HAN	1025	1.50	116	2.12	9	2.33	82	2.79	72	1.86	1304	1.61																																																														
+	"DEAN, Frank"	IND	298	0.44	50	0.91	2	0.52	15	0.51	21	0.54	386	0.48																																																														
+	"ALLEN, Jason"	IND	440	0.65	58	1.06	3	0.78	13	0.44	16	0.41	530	0.66																																																														
+		FORMAL	68134	95.69	5470	94.29	386	94.38	2940	98.07	3868	98.47	80798	95.80																																																														
+		INFORMAL	3072	4.31	331	5.71	23	5.62	58	1.93	60	1.53	3544	4.20																																																														
+		TOTAL	71206	84.43	5801	6.88	409	0.48	2998	3.55	3928	4.66	84342	95.55																																																														
+Two Candidate Preferred																																																																												
+#	"CHARLES, Bob"	LP	36225	53.17	2950	53.93	224	58.03	1723	58.61	2244	58.01	43366	53.67																																																														
+	"STAINDL, Philip"	ALP	31909	46.83	2520	46.07	162	41.97	1217	41.39	1624	41.99	37432	46.33																																																														
+	EXHAUSTED		0		0		0		0		0		0																																																															
+																																																																												
+																																																																												
+																																																																												
+McEwen (89021)																																																																												
+																																																																												
+			Ordinary		Absent		Provisional		Pre Poll		Postal		Total																																																															
+Candidates		Party	Votes	%	Votes	%	Votes	%	Votes	%	Votes	%	Votes	%																																																														
+	"SALTER, Alan A"	HAN	1915	2.76	214	3.78	31	4.42	97	3.77	191	4.52	2448	2.97																																																														
+	"ROMAGNESI, Jim"	GRN	4224	6.09	454	8.02	46	6.55	147	5.71	135	3.19	5006	6.07																																																														
+	"MACLEOD, Andrew"	ALP	27419	39.54	1964	34.68	316	45.01	814	31.62	1473	34.82	31986	38.76																																																														
+#	"BAILEY, Fran"	LP	31724	45.75	2455	43.34	263	37.46	1336	51.90	2185	51.65	37963	46.01																																																														
+	"LODWICK, Bill"	IND	844	1.22	151	2.67	12	1.71	56	2.18	66	1.56	1129	1.37																																																														
+	"CARDEN, Tony"	DEM	3222	4.65	426	7.52	34	4.84	124	4.82	180	4.26	3986	4.83																																																														
+		FORMAL	69348	96.08	5664	95.40	702	95.12	2574	97.46	4230	98.39	82518	96.19																																																														
+		INFORMAL	2827	3.92	273	4.60	36	4.88	67	2.54	69	1.61	3272	3.81																																																														
+		TOTAL	72175	84.13	5937	6.92	738	0.86	2641	3.08	4299	5.01	85790	96.37																																																														
+Two Candidate Preferred																																																																												
+	"MACLEOD, Andrew"	ALP	34229	49.36	2771	48.92	391	55.70	1070	41.57	1808	42.74	40269	48.80																																																														
+#	"BAILEY, Fran"	LP	35119	50.64	2893	51.08	311	44.30	1504	58.43	2422	57.26	42249	51.20																																																														
+	EXHAUSTED		0		0		0		0		0		0																																																															
+																																																																												
+																																																																												
+																																																																												
+McMillan (85551)																																																																												
+																																																																												
+			Ordinary		Absent		Provisional		Pre Poll		Postal		Total																																																															
+Candidates		Party	Votes	%	Votes	%	Votes	%	Votes	%	Votes	%	Votes	%																																																														
+	"HOWELL, Betty"		1035	1.56	78	2.16	13	2.81	93	1.57	43	1.54	1262	1.59																																																														
+	"ROBERTS, David"	NP	1819	2.74	116	3.22	9	1.94	166	2.81	62	2.22	2172	2.74																																																														
+	"FORBES, Jim"	LP	26425	39.77	1287	35.71	133	28.73	2497	42.24	1190	42.67	31532	39.80																																																														
+	"WALL, David"	DEM	2626	3.95	310	8.60	23	4.97	181	3.06	93	3.33	3233	4.08																																																														
+	"FARRAR, Jenny"	GRN	2432	3.66	264	7.33	20	4.32	152	2.57	50	1.79	2918	3.68																																																														
+#	"ZAHRA, Christian"	ALP	29730	44.74	1433	39.76	249	53.78	2588	43.78	1238	44.39	35238	44.48																																																														
+	"HOLTMAN, John F"	HAN	2384	3.59	116	3.22	16	3.46	235	3.97	113	4.05	2864	3.62																																																														
+		FORMAL	66451	96.37	3604	96.11	463	95.46	5912	97.67	2789	98.52	79219	96.52																																																														
+		INFORMAL	2502	3.63	146	3.89	22	4.54	141	2.33	42	1.48	2853	3.48																																																														
+		TOTAL	68953	84.02	3750	4.57	485	0.59	6053	7.38	2831	3.45	82072	95.93																																																														
+Two Candidate Preferred																																																																												
+	"FORBES, Jim"	LP	31471	47.36	1714	47.56	171	36.93	2918	49.36	1386	49.70	37660	47.54																																																														
+#	"ZAHRA, Christian"	ALP	34980	52.64	1890	52.44	292	63.07	2994	50.64	1403	50.30	41559	52.46																																																														
+	EXHAUSTED		0		0		0		0		0		0																																																															
+																																																																												
+																																																																												
+																																																																												
+Mallee (81774)																																																																												
+																																																																												
+			Ordinary		Absent		Provisional		Pre Poll		Postal		Total																																																															
+Candidates		Party	Votes	%	Votes	%	Votes	%	Votes	%	Votes	%	Votes	%																																																														
+	"KELLY, Timothy"	DEM	2836	4.39	308	8.98	26	7.10	272	5.57	90	3.49	3532	4.66																																																														
+	"ZIGOURAS, John"	ALP	13210	20.46	702	20.46	118	32.24	948	19.43	462	17.93	15440	20.37																																																														
+	"RIVENDELL, Julie"	GRN	1439	2.23	169	4.93	16	4.37	142	2.91	43	1.67	1809	2.39																																																														
+	"MACKLEY, Bob"	HAN	5744	8.90	192	5.60	33	9.02	406	8.32	175	6.79	6550	8.64																																																														
+#	"FORREST, John"	NP	38129	59.07	1910	55.67	150	40.98	2874	58.91	1706	66.23	44769	59.06																																																														
+	"DOUGLASS, Ross"	IND	3194	4.95	150	4.37	23	6.28	237	4.86	100	3.88	3704	4.89																																																														
+		FORMAL	64552	96.15	3431	96.70	366	95.31	4879	97.76	2576	99.19	75804	96.38																																																														
+		INFORMAL	2582	3.85	117	3.30	18	4.69	112	2.24	21	0.81	2850	3.62																																																														
+		TOTAL	67134	85.35	3548	4.51	384	0.49	4991	6.35	2597	3.30	78654	96.18																																																														
+Two Candidate Preferred																																																																												
+	"ZIGOURAS, John"	ALP	19473	30.17	1107	32.26	161	43.99	1431	29.33	625	24.26	22797	30.07																																																														
+#	"FORREST, John"	NP	45079	69.83	2324	67.74	205	56.01	3448	70.67	1951	75.74	53007	69.93																																																														
+	EXHAUSTED		0		0		0		0		0		0																																																															
+																																																																												
+																																																																												
+																																																																												
+Maribyrnong (83750)																																																																												
+																																																																												
+			Ordinary		Absent		Provisional		Pre Poll		Postal		Total																																																															
+Candidates		Party	Votes	%	Votes	%	Votes	%	Votes	%	Votes	%	Votes	%																																																														
+	"KOZLOWSKI, Andre"	CEC	1509	2.35	179	3.78	14	3.68	110	3.27	28	1.41	1840	2.46																																																														
+	"BECKWITH, Jules"	GRN	2301	3.58	368	7.77	10	2.63	150	4.46	49	2.47	2878	3.85																																																														
+	"BARCLAY, Grahame"	LP	17608	27.36	1333	28.15	64	16.84	1002	29.76	698	35.16	20705	27.67																																																														
+#	"SERCOMBE, Bob"	ALP	39089	60.75	2475	52.27	270	71.05	1901	56.46	1090	54.91	44825	59.91																																																														
+	"WILLIAMS, Charles"	DEM	3841	5.97	380	8.03	22	5.79	204	6.06	120	6.05	4567	6.10																																																														
+		FORMAL	64348	94.37	4735	94.40	380	93.14	3367	96.09	1985	98.66	74815	94.55																																																														
+		INFORMAL	3836	5.63	281	5.60	28	6.86	137	3.91	27	1.34	4309	5.45																																																														
+		TOTAL	68184	86.17	5016	6.34	408	0.52	3504	4.43	2012	2.54	79124	94.48																																																														
+Two Candidate Preferred																																																																												
+	"BARCLAY, Grahame"	LP	20584	31.99	1750	36.96	81	21.32	1227	36.44	763	38.44	24405	32.62																																																														
+#	"SERCOMBE, Bob"	ALP	43764	68.01	2985	63.04	299	78.68	2140	63.56	1222	61.56	50410	67.38																																																														
+	EXHAUSTED		0		0		0		0		0		0																																																															
+																																																																												
+																																																																												
+																																																																												
+Melbourne (95848)																																																																												
+																																																																												
+			Ordinary		Absent		Provisional		Pre Poll		Postal		Total																																																															
+Candidates		Party	Votes	%	Votes	%	Votes	%	Votes	%	Votes	%	Votes	%																																																														
+#	"TANNER, Lindsay James"	ALP	32965	49.15	3219	38.48	439	49.16	2120	43.37	1235	45.96	39978	47.65																																																														
+	"FERRARI, James Stephen"		404	0.60	91	1.09	7	0.78	38	0.78	18	0.67	558	0.67																																																														
+	"JOLLY, Stephen"		1041	1.55	123	1.47	11	1.23	59	1.21	26	0.97	1260	1.50																																																														
+	"CURR, Pamela"	GRN	10592	15.79	1477	17.65	168	18.81	707	14.46	230	8.56	13174	15.70																																																														
+	"FRANTZESKOS, Con"	LP	15977	23.82	2387	28.53	165	18.48	1370	28.03	971	36.14	20870	24.87																																																														
+	"McKENNA, Brent"	DEM	6089	9.08	1069	12.78	103	11.53	594	12.15	207	7.70	8062	9.61																																																														
+		FORMAL	67068	96.18	8366	96.19	893	92.83	4888	97.04	2687	97.39	83902	96.23																																																														
+		INFORMAL	2667	3.82	331	3.81	69	7.17	149	2.96	72	2.61	3288	3.77																																																														
+		TOTAL	69735	79.98	8697	9.97	962	1.10	5037	5.78	2759	3.16	87190	90.97																																																														
+Two Candidate Preferred																																																																												
+#	"TANNER, Lindsay James"	ALP	48062	71.66	5270	62.99	675	75.59	3206	65.59	1595	59.36	58808	70.09																																																														
+	"FRANTZESKOS, Con"	LP	19006	28.34	3096	37.01	218	24.41	1682	34.41	1092	40.64	25094	29.91																																																														
+	EXHAUSTED		0		0		0		0		0		0																																																															
+																																																																												
+																																																																												
+																																																																												
+Melbourne Ports (89113)																																																																												
+																																																																												
+			Ordinary		Absent		Provisional		Pre Poll		Postal		Total																																																															
+Candidates		Party	Votes	%	Votes	%	Votes	%	Votes	%	Votes	%	Votes	%																																																														
+	"CHIPP, Greg"	DEM	5647	9.26	811	13.00	86	12.57	495	8.78	289	5.26	7328	9.27																																																														
+	"BECK, Jeremy"	CEC	207	0.34	40	0.64	5	0.73	26	0.46	27	0.49	305	0.39																																																														
+#	"DANBY, Michael"	ALP	24045	39.43	1906	30.55	258	37.72	2377	42.16	2524	45.92	31110	39.36																																																														
+	"KAVANAGH, Jeannette"	GRN	7043	11.55	967	15.50	108	15.79	546	9.68	248	4.51	8912	11.28																																																														
+	"McLORINAN, Andrew"	LP	24039	39.42	2515	40.31	227	33.19	2194	38.91	2409	43.82	31384	39.71																																																														
+		FORMAL	60981	96.59	6239	96.52	684	93.96	5638	97.24	5497	98.57	79039	96.74																																																														
+		INFORMAL	2153	3.41	225	3.48	44	6.04	160	2.76	80	1.43	2662	3.26																																																														
+		TOTAL	63134	77.27	6464	7.91	728	0.89	5798	7.10	5577	6.83	81701	91.68																																																														
+Two Candidate Preferred																																																																												
+#	"DANBY, Michael"	ALP	34269	56.20	3218	51.58	414	60.53	3179	56.39	2938	53.45	44018	55.69																																																														
+	"McLORINAN, Andrew"	LP	26712	43.80	3021	48.42	270	39.47	2459	43.61	2559	46.55	35021	44.31																																																														
+	EXHAUSTED		0		0		0		0		0		0																																																															
+																																																																												
+																																																																												
+																																																																												
+Menzies (84613)																																																																												
+																																																																												
+			Ordinary		Absent		Provisional		Pre Poll		Postal		Total																																																															
+Candidates		Party	Votes	%	Votes	%	Votes	%	Votes	%	Votes	%	Votes	%																																																														
+	"WATSON, Barry"	GRN	3564	5.38	421	8.88	13	4.55	187	5.32	116	3.64	4301	5.51																																																														
+#	"ANDREWS, Kevin"	LP	35007	52.82	2384	50.31	147	51.40	1951	55.46	2076	65.10	41565	53.28																																																														
+	"GRIFFIN, Brendan"	NGST	826	1.25	154	3.25	4	1.40	92	2.62	59	1.85	1135	1.45																																																														
+	"RYAN, Michael"	DEM	4222	6.37	476	10.04	21	7.34	223	6.34	171	5.36	5113	6.55																																																														
+	"VASILOPOULOS, Olga"	ALP	22658	34.19	1304	27.52	101	35.31	1065	30.27	767	24.05	25895	33.19																																																														
+		FORMAL	66277	96.46	4739	96.28	286	94.39	3518	97.16	3189	98.52	78009	96.55																																																														
+		INFORMAL	2433	3.54	183	3.72	17	5.61	103	2.84	48	1.48	2784	3.45																																																														
+		TOTAL	68710	85.04	4922	6.09	303	0.38	3621	4.48	3237	4.01	80793	95.49																																																														
+Two Candidate Preferred																																																																												
+#	"ANDREWS, Kevin"	LP	38639	58.30	2804	59.17	166	58.04	2148	61.06	2220	69.61	45977	58.94																																																														
+	"VASILOPOULOS, Olga"	ALP	27638	41.70	1935	40.83	120	41.96	1370	38.94	969	30.39	32032	41.06																																																														
+	EXHAUSTED		0		0		0		0		0		0																																																															
+																																																																												
+																																																																												
+																																																																												
+Murray (85651)																																																																												
+																																																																												
+			Ordinary		Absent		Provisional		Pre Poll		Postal		Total																																																															
+Candidates		Party	Votes	%	Votes	%	Votes	%	Votes	%	Votes	%	Votes	%																																																														
+	"BUSH, Simon"	IND	2155	3.12	131	3.44	29	3.72	103	3.21	65	2.34	2483	3.12																																																														
+#	"STONE, Sharman"	LP	46604	67.55	2347	61.55	446	57.25	2096	65.40	2005	72.15	53498	67.24																																																														
+	"JONES, David"	GRN	1463	2.12	215	5.64	25	3.21	87	2.71	37	1.33	1827	2.30																																																														
+	"HELLEMONS, Robert"	HAN	2755	3.99	129	3.38	32	4.11	114	3.56	132	4.75	3162	3.97																																																														
+	"CALDER, Alan"	ALP	13981	20.26	728	19.09	214	27.47	691	21.56	469	16.88	16083	20.21																																																														
+	"TAYLOR, Elizabeth Mary"	DEM	2033	2.95	263	6.90	33	4.24	114	3.56	71	2.55	2514	3.16																																																														
+		FORMAL	68991	96.31	3813	97.17	779	92.96	3205	98.10	2779	98.97	79567	96.47																																																														
+		INFORMAL	2647	3.69	111	2.83	59	7.04	62	1.90	29	1.03	2908	3.53																																																														
+		TOTAL	71638	86.86	3924	4.76	838	1.02	3267	3.96	2808	3.40	82475	96.29																																																														
+Two Candidate Preferred																																																																												
+#	"STONE, Sharman"	LP	51122	74.10	2705	70.94	513	65.85	2315	72.23	2169	78.05	58824	73.93																																																														
+	"CALDER, Alan"	ALP	17869	25.90	1108	29.06	266	34.15	890	27.77	610	21.95	20743	26.07																																																														
+	EXHAUSTED		0		0		0		0		0		0																																																															
+																																																																												
+																																																																												
+																																																																												
+Scullin (88866)																																																																												
+																																																																												
+			Ordinary		Absent		Provisional		Pre Poll		Postal		Total																																																															
+Candidates		Party	Votes	%	Votes	%	Votes	%	Votes	%	Votes	%	Votes	%																																																														
+	"MAWHINNEY, Brian"	DEM	4559	6.34	417	8.96	30	6.56	152	7.58	148	6.35	5306	6.53																																																														
+	"CAMPBELL, Trudy"	CEC	454	0.63	89	1.91	5	1.09	27	1.35	14	0.60	589	0.72																																																														
+	"KOSTADINOSKI, Lucas"	LP	18799	26.16	1431	30.75	96	21.01	657	32.75	723	31.00	21706	26.69																																																														
+	"GRAY, Merinda"	GRN	1955	2.72	307	6.60	12	2.63	86	4.29	61	2.62	2421	2.98																																																														
+#	"JENKINS, Harry"	ALP	46100	64.15	2410	51.78	314	68.71	1084	54.04	1386	59.43	51294	63.08																																																														
+		FORMAL	71867	95.11	4654	92.86	457	93.84	2006	96.58	2332	98.56	81316	95.10																																																														
+		INFORMAL	3693	4.89	358	7.14	30	6.16	71	3.42	34	1.44	4186	4.90																																																														
+		TOTAL	75560	88.37	5012	5.86	487	0.57	2077	2.43	2366	2.77	85502	96.21																																																														
+Two Candidate Preferred																																																																												
+	"KOSTADINOSKI, Lucas"	LP	21537	29.97	1796	38.59	126	27.57	779	38.83	813	34.86	25051	30.81																																																														
+#	"JENKINS, Harry"	ALP	50330	70.03	2858	61.41	331	72.43	1227	61.17	1519	65.14	56265	69.19																																																														
+	EXHAUSTED		0		0		0		0		0		0																																																															
+																																																																												
+																																																																												
+																																																																												
+Wannon (82915)																																																																												
+																																																																												
+			Ordinary		Absent		Provisional		Pre Poll		Postal		Total																																																															
+Candidates		Party	Votes	%	Votes	%	Votes	%	Votes	%	Votes	%	Votes	%																																																														
+	"McDONALD, Leigh"	IND	1436	2.25	121	2.96	13	2.98	98	2.24	90	2.06	1758	2.28																																																														
+	"PACKER, Amanda Elise"	DEM	1746	2.74	283	6.92	15	3.44	146	3.34	104	2.38	2294	2.98																																																														
+	"O'BRIEN, Robert"	IND	729	1.14	56	1.37	9	2.06	59	1.35	23	0.53	876	1.14																																																														
+	"BLAIR, Gillian"	GRN	2183	3.42	282	6.89	27	6.19	188	4.30	85	1.94	2765	3.59																																																														
+	"WITNEY, Ricky"	LEF	947	1.49	115	2.81	16	3.67	64	1.46	54	1.23	1196	1.55																																																														
+	"SCHMIDT, Olive"	HAN	1710	2.68	117	2.86	10	2.29	120	2.74	180	4.12	2137	2.77																																																														
+#	"HAWKER, David"	LP	33251	52.15	1942	47.47	190	43.58	2305	52.69	2678	61.24	40366	52.40																																																														
+	"MORROW, Richard"	ALP	21764	34.13	1175	28.72	156	35.78	1395	31.89	1159	26.50	25649	33.29																																																														
+		FORMAL	63766	95.82	4091	98.36	436	94.99	4375	97.18	4373	98.62	77041	96.18																																																														
+		INFORMAL	2783	4.18	68	1.64	23	5.01	127	2.82	61	1.38	3062	3.82																																																														
+		TOTAL	66549	83.08	4159	5.19	459	0.57	4502	5.62	4434	5.54	80103	96.61																																																														
+Two Candidate Preferred																																																																												
+#	"HAWKER, David"	LP	37652	59.05	2416	59.06	237	54.36	2653	60.64	2963	67.76	45921	59.61																																																														
+	"MORROW, Richard"	ALP	26114	40.95	1675	40.94	199	45.64	1722	39.36	1410	32.24	31120	40.39																																																														
+	EXHAUSTED		0		0		0		0		0		0																																																															
+																																																																												
+																																																																												
+																																																																												
+Wills (88553)																																																																												
+																																																																												
+			Ordinary		Absent		Provisional		Pre Poll		Postal		Total																																																															
+Candidates		Party	Votes	%	Votes	%	Votes	%	Votes	%	Votes	%	Votes	%																																																														
+	"ISHERWOOD, Craig"	CEC	1072	1.61	174	3.24	15	2.96	73	2.09	33	1.20	1367	1.74																																																														
+	"GLANZ, David"		877	1.32	98	1.82	9	1.78	32	0.92	20	0.73	1036	1.32																																																														
+	"DI NATALE, Richard"	GRN	5002	7.53	671	12.49	46	9.09	259	7.41	103	3.75	6081	7.74																																																														
+#	"THOMSON, Kelvin"	ALP	38092	57.32	2396	44.61	309	61.07	1775	50.76	1447	52.73	44019	56.03																																																														
+	"VALASINAVICIUS, Vytautas Charles"	LP	17385	26.16	1449	26.98	103	20.36	1119	32.00	974	35.50	21030	26.77																																																														
+	"STONE, Robert"	DEM	4023	6.05	583	10.85	24	4.74	239	6.83	167	6.09	5036	6.41																																																														
+		FORMAL	66451	94.52	5371	95.65	506	93.53	3497	96.68	2744	98.11	78569	94.81																																																														
+		INFORMAL	3850	5.48	244	4.35	35	6.47	120	3.32	53	1.89	4302	5.19																																																														
+		TOTAL	70301	84.83	5615	6.78	541	0.65	3617	4.36	2797	3.38	82871	93.58																																																														
+Two Candidate Preferred																																																																												
+#	"THOMSON, Kelvin"	ALP	46704	70.28	3566	66.39	381	75.30	2226	63.65	1665	60.68	54542	69.42																																																														
+	"VALASINAVICIUS, Vytautas Charles"	LP	19747	29.72	1805	33.61	125	24.70	1271	36.35	1079	39.32	24027	30.58																																																														
+	EXHAUSTED		0		0		0		0		0		0																																																															

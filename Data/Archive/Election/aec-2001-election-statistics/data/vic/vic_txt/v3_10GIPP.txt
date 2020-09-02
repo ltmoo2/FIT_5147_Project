@@ -1,0 +1,1504 @@
+House of Representatives - 2001 Election: Victoria												
+Two Candidate Preferred Preference Flow Result												
+By Polling Place by Division												
+Gippsland (83845)												
+		Candidate		                  	"BOLITHO, Bill"		              	"MCGAURAN, Peter"		            	Total	
+				                           	ALP		                        	NP		                         		
+				                           	Votes	%	                     	Votes	%	                     		
+	Alberton											
+			1st Prefs		76	31.28		167	68.72		243	
+		"JAGO, John (IND)"	5		2	40.00		3	60.00		5	
+		"FRESHWATER, Michael (HAN)"	9		4	44.44		5	55.56		9	
+		"MCCUBBIN, Jo (DEM)"	14		10	71.43		4	28.57		14	
+		"EVANS, Phillip J (IND)"	1		0	0.00		1	100.00		1	
+		"BUCKLEY, Ben (IND)"	13		8	61.54		5	38.46		13	
+		"THORPE, Marjorie (IND)"	1		1	100.00		0	0.00		1	
+		"WILLIAMS, Frank (CEC)"	1		1	100.00		0	0.00		1	
+		"TREASURE, Doug (IND)"	22		10	45.45		12	54.55		22
+		"ROBINSON, Phillip (IND)"	0		0	0.00		0	0.00		0
+		"AITKEN, Chris (GRN)"	7		4	57.14		3	42.86		7
+		Total	73		116	36.71		200	63.29		316
+
+	Arawata										
+			1st Prefs		15	17.44		71	82.56		86
+		"JAGO, John (IND)"	5		2	40.00		3	60.00		5
+		"FRESHWATER, Michael (HAN)"	3		0	0.00		3	100.00		3
+		"MCCUBBIN, Jo (DEM)"	8		3	37.50		5	62.50		8
+		"EVANS, Phillip J (IND)"	6		1	16.67		5	83.33		6
+		"BUCKLEY, Ben (IND)"	1		1	100.00		0	0.00		1
+		"THORPE, Marjorie (IND)"	0		0	0.00		0	0.00		0
+		"WILLIAMS, Frank (CEC)"	0		0	0.00		0	0.00		0
+		"TREASURE, Doug (IND)"	13		5	38.46		8	61.54		13
+		"ROBINSON, Phillip (IND)"	1		0	0.00		1	100.00		1
+		"AITKEN, Chris (GRN)"	6		3	50.00		3	50.00		6
+		Total	43		30	23.26		99	76.74		129
+
+	Bairnsdale										
+			1st Prefs		510	40.51		749	59.49		1259
+		"JAGO, John (IND)"	31		24	77.42		7	22.58		31
+		"FRESHWATER, Michael (HAN)"	97		63	64.95		34	35.05		97
+		"MCCUBBIN, Jo (DEM)"	98		46	46.94		52	53.06		98
+		"EVANS, Phillip J (IND)"	116		64	55.17		52	44.83		116
+		"BUCKLEY, Ben (IND)"	38		16	42.11		22	57.89		38
+		"THORPE, Marjorie (IND)"	42		20	47.62		22	52.38		42
+		"WILLIAMS, Frank (CEC)"	14		11	78.57		3	21.43		14
+		"TREASURE, Doug (IND)"	92		37	40.22		55	59.78		92
+		"ROBINSON, Phillip (IND)"	21		12	57.14		9	42.86		21
+		"AITKEN, Chris (GRN)"	115		95	82.61		20	17.39		115
+		Total	664		898	46.70		1025	53.30		1923
+
+	Bairnsdale East										
+			1st Prefs		176	55.35		142	44.65		318
+		"JAGO, John (IND)"	10		5	50.00		5	50.00		10
+		"FRESHWATER, Michael (HAN)"	70		47	67.14		23	32.86		70
+		"MCCUBBIN, Jo (DEM)"	13		11	84.62		2	15.38		13
+		"EVANS, Phillip J (IND)"	22		8	36.36		14	63.64		22
+		"BUCKLEY, Ben (IND)"	20		9	45.00		11	55.00		20
+		"THORPE, Marjorie (IND)"	2		2	100.00		0	0.00		2
+		"WILLIAMS, Frank (CEC)"	5		1	20.00		4	80.00		5
+		"TREASURE, Doug (IND)"	22		7	31.82		15	68.18		22
+		"ROBINSON, Phillip (IND)"	10		5	50.00		5	50.00		10
+		"AITKEN, Chris (GRN)"	14		12	85.71		2	14.29		14
+		Total	188		283	55.93		223	44.07		506
+
+	Bairnsdale West										
+			1st Prefs		708	36.82		1215	63.18		1923
+		"JAGO, John (IND)"	45		26	57.78		19	42.22		45
+		"FRESHWATER, Michael (HAN)"	164		108	65.85		56	34.15		164
+		"MCCUBBIN, Jo (DEM)"	107		59	55.14		48	44.86		107
+		"EVANS, Phillip J (IND)"	141		55	39.01		86	60.99		141
+		"BUCKLEY, Ben (IND)"	76		42	55.26		34	44.74		76
+		"THORPE, Marjorie (IND)"	52		25	48.08		27	51.92		52
+		"WILLIAMS, Frank (CEC)"	15		13	86.67		2	13.33		15
+		"TREASURE, Doug (IND)"	155		63	40.65		92	59.35		155
+		"ROBINSON, Phillip (IND)"	23		16	69.57		7	30.43		23
+		"AITKEN, Chris (GRN)"	66		45	68.18		21	31.82		66
+		Total	844		1160	41.92		1607	58.08		2767
+
+	Bemm River										
+			1st Prefs		19	32.76		39	67.24		58
+		"JAGO, John (IND)"	1		1	100.00		0	0.00		1
+		"FRESHWATER, Michael (HAN)"	8		7	87.50		1	12.50		8
+		"MCCUBBIN, Jo (DEM)"	2		1	50.00		1	50.00		2
+		"EVANS, Phillip J (IND)"	1		1	100.00		0	0.00		1
+		"BUCKLEY, Ben (IND)"	1		1	100.00		0	0.00		1
+		"THORPE, Marjorie (IND)"	1		0	0.00		1	100.00		1
+		"WILLIAMS, Frank (CEC)"	0		0	0.00		0	0.00		0
+		"TREASURE, Doug (IND)"	3		0	0.00		3	100.00		3
+		"ROBINSON, Phillip (IND)"	2		0	0.00		2	100.00		2
+		"AITKEN, Chris (GRN)"	2		2	100.00		0	0.00		2
+		Total	21		32	40.51		47	59.49		79
+
+	Bena										
+			1st Prefs		25	15.24		139	84.76		164
+		"JAGO, John (IND)"	2		1	50.00		1	50.00		2
+		"FRESHWATER, Michael (HAN)"	9		7	77.78		2	22.22		9
+		"MCCUBBIN, Jo (DEM)"	4		3	75.00		1	25.00		4
+		"EVANS, Phillip J (IND)"	7		4	57.14		3	42.86		7
+		"BUCKLEY, Ben (IND)"	1		0	0.00		1	100.00		1
+		"THORPE, Marjorie (IND)"	1		0	0.00		1	100.00		1
+		"WILLIAMS, Frank (CEC)"	1		1	100.00		0	0.00		1
+		"TREASURE, Doug (IND)"	9		3	33.33		6	66.67		9
+		"ROBINSON, Phillip (IND)"	4		2	50.00		2	50.00		4
+		"AITKEN, Chris (GRN)"	6		4	66.67		2	33.33		6
+		Total	44		50	24.04		158	75.96		208
+
+	Benambra										
+			1st Prefs		13	13.13		86	86.87		99
+		"JAGO, John (IND)"	1		0	0.00		1	100.00		1
+		"FRESHWATER, Michael (HAN)"	1		0	0.00		1	100.00		1
+		"MCCUBBIN, Jo (DEM)"	1		0	0.00		1	100.00		1
+		"EVANS, Phillip J (IND)"	2		2	100.00		0	0.00		2
+		"BUCKLEY, Ben (IND)"	19		9	47.37		10	52.63		19
+		"THORPE, Marjorie (IND)"	1		1	100.00		0	0.00		1
+		"WILLIAMS, Frank (CEC)"	0		0	0.00		0	0.00		0
+		"TREASURE, Doug (IND)"	5		0	0.00		5	100.00		5
+		"ROBINSON, Phillip (IND)"	1		1	100.00		0	0.00		1
+		"AITKEN, Chris (GRN)"	0		0	0.00		0	0.00		0
+		Total	31		26	20.00		104	80.00		130
+
+	Bendoc										
+			1st Prefs		9	17.31		43	82.69		52
+		"JAGO, John (IND)"	3		1	33.33		2	66.67		3
+		"FRESHWATER, Michael (HAN)"	12		4	33.33		8	66.67		12
+		"MCCUBBIN, Jo (DEM)"	1		1	100.00		0	0.00		1
+		"EVANS, Phillip J (IND)"	2		1	50.00		1	50.00		2
+		"BUCKLEY, Ben (IND)"	6		6	100.00		0	0.00		6
+		"THORPE, Marjorie (IND)"	2		2	100.00		0	0.00		2
+		"WILLIAMS, Frank (CEC)"	0		0	0.00		0	0.00		0
+		"TREASURE, Doug (IND)"	4		2	50.00		2	50.00		4
+		"ROBINSON, Phillip (IND)"	0		0	0.00		0	0.00		0
+		"AITKEN, Chris (GRN)"	2		2	100.00		0	0.00		2
+		Total	32		28	33.33		56	66.67		84
+
+	Berrys Creek										
+			1st Prefs		3	3.80		76	96.20		79
+		"JAGO, John (IND)"	0		0	0.00		0	0.00		0
+		"FRESHWATER, Michael (HAN)"	3		1	33.33		2	66.67		3
+		"MCCUBBIN, Jo (DEM)"	2		2	100.00		0	0.00		2
+		"EVANS, Phillip J (IND)"	0		0	0.00		0	0.00		0
+		"BUCKLEY, Ben (IND)"	3		1	33.33		2	66.67		3
+		"THORPE, Marjorie (IND)"	3		0	0.00		3	100.00		3
+		"WILLIAMS, Frank (CEC)"	0		0	0.00		0	0.00		0
+		"TREASURE, Doug (IND)"	7		1	14.29		6	85.71		7
+		"ROBINSON, Phillip (IND)"	0		0	0.00		0	0.00		0
+		"AITKEN, Chris (GRN)"	9		3	33.33		6	66.67		9
+		Total	27		11	10.38		95	89.62		106
+
+	Boisdale										
+			1st Prefs		24	21.05		90	78.95		114
+		"JAGO, John (IND)"	2		1	50.00		1	50.00		2
+		"FRESHWATER, Michael (HAN)"	8		3	37.50		5	62.50		8
+		"MCCUBBIN, Jo (DEM)"	14		11	78.57		3	21.43		14
+		"EVANS, Phillip J (IND)"	4		1	25.00		3	75.00		4
+		"BUCKLEY, Ben (IND)"	2		1	50.00		1	50.00		2
+		"THORPE, Marjorie (IND)"	1		0	0.00		1	100.00		1
+		"WILLIAMS, Frank (CEC)"	0		0	0.00		0	0.00		0
+		"TREASURE, Doug (IND)"	25		11	44.00		14	56.00		25
+		"ROBINSON, Phillip (IND)"	1		1	100.00		0	0.00		1
+		"AITKEN, Chris (GRN)"	10		8	80.00		2	20.00		10
+		Total	67		61	33.70		120	66.30		181
+
+	Bonang										
+			1st Prefs		7	22.58		24	77.42		31
+		"JAGO, John (IND)"	1		0	0.00		1	100.00		1
+		"FRESHWATER, Michael (HAN)"	7		3	42.86		4	57.14		7
+		"MCCUBBIN, Jo (DEM)"	1		0	0.00		1	100.00		1
+		"EVANS, Phillip J (IND)"	1		0	0.00		1	100.00		1
+		"BUCKLEY, Ben (IND)"	2		0	0.00		2	100.00		2
+		"THORPE, Marjorie (IND)"	3		2	66.67		1	33.33		3
+		"WILLIAMS, Frank (CEC)"	0		0	0.00		0	0.00		0
+		"TREASURE, Doug (IND)"	1		0	0.00		1	100.00		1
+		"ROBINSON, Phillip (IND)"	1		0	0.00		1	100.00		1
+		"AITKEN, Chris (GRN)"	11		11	100.00		0	0.00		11
+		Total	28		23	38.98		36	61.02		59
+
+	Briagolong										
+			1st Prefs		120	39.74		182	60.26		302
+		"JAGO, John (IND)"	11		7	63.64		4	36.36		11
+		"FRESHWATER, Michael (HAN)"	24		11	45.83		13	54.17		24
+		"MCCUBBIN, Jo (DEM)"	32		22	68.75		10	31.25		32
+		"EVANS, Phillip J (IND)"	4		1	25.00		3	75.00		4
+		"BUCKLEY, Ben (IND)"	15		7	46.67		8	53.33		15
+		"THORPE, Marjorie (IND)"	1		1	100.00		0	0.00		1
+		"WILLIAMS, Frank (CEC)"	1		1	100.00		0	0.00		1
+		"TREASURE, Doug (IND)"	50		23	46.00		27	54.00		50
+		"ROBINSON, Phillip (IND)"	2		2	100.00		0	0.00		2
+		"AITKEN, Chris (GRN)"	65		58	89.23		7	10.77		65
+		Total	205		253	49.90		254	50.10		507
+
+	Bruthen										
+			1st Prefs		204	46.68		233	53.32		437
+		"JAGO, John (IND)"	4		3	75.00		1	25.00		4
+		"FRESHWATER, Michael (HAN)"	56		40	71.43		16	28.57		56
+		"MCCUBBIN, Jo (DEM)"	21		10	47.62		11	52.38		21
+		"EVANS, Phillip J (IND)"	31		18	58.06		13	41.94		31
+		"BUCKLEY, Ben (IND)"	31		18	58.06		13	41.94		31
+		"THORPE, Marjorie (IND)"	17		10	58.82		7	41.18		17
+		"WILLIAMS, Frank (CEC)"	2		2	100.00		0	0.00		2
+		"TREASURE, Doug (IND)"	41		23	56.10		18	43.90		41
+		"ROBINSON, Phillip (IND)"	12		7	58.33		5	41.67		12
+		"AITKEN, Chris (GRN)"	52		42	80.77		10	19.23		52
+		Total	267		377	53.55		327	46.45		704
+
+	Buchan										
+			1st Prefs		84	48.84		88	51.16		172
+		"JAGO, John (IND)"	2		1	50.00		1	50.00		2
+		"FRESHWATER, Michael (HAN)"	13		5	38.46		8	61.54		13
+		"MCCUBBIN, Jo (DEM)"	7		6	85.71		1	14.29		7
+		"EVANS, Phillip J (IND)"	5		1	20.00		4	80.00		5
+		"BUCKLEY, Ben (IND)"	4		2	50.00		2	50.00		4
+		"THORPE, Marjorie (IND)"	7		1	14.29		6	85.71		7
+		"WILLIAMS, Frank (CEC)"	0		0	0.00		0	0.00		0
+		"TREASURE, Doug (IND)"	15		4	26.67		11	73.33		15
+		"ROBINSON, Phillip (IND)"	0		0	0.00		0	0.00		0
+		"AITKEN, Chris (GRN)"	9		8	88.89		1	11.11		9
+		Total	62		112	47.86		122	52.14		234
+
+	Bundalaguah										
+			1st Prefs		43	21.83		154	78.17		197
+		"JAGO, John (IND)"	8		5	62.50		3	37.50		8
+		"FRESHWATER, Michael (HAN)"	12		6	50.00		6	50.00		12
+		"MCCUBBIN, Jo (DEM)"	16		4	25.00		12	75.00		16
+		"EVANS, Phillip J (IND)"	6		2	33.33		4	66.67		6
+		"BUCKLEY, Ben (IND)"	3		0	0.00		3	100.00		3
+		"THORPE, Marjorie (IND)"	2		2	100.00		0	0.00		2
+		"WILLIAMS, Frank (CEC)"	1		1	100.00		0	0.00		1
+		"TREASURE, Doug (IND)"	26		6	23.08		20	76.92		26
+		"ROBINSON, Phillip (IND)"	0		0	0.00		0	0.00		0
+		"AITKEN, Chris (GRN)"	5		4	80.00		1	20.00		5
+		Total	79		73	26.45		203	73.55		276
+
+	Cann River										
+			1st Prefs		55	35.48		100	64.52		155
+		"JAGO, John (IND)"	6		5	83.33		1	16.67		6
+		"FRESHWATER, Michael (HAN)"	12		7	58.33		5	41.67		12
+		"MCCUBBIN, Jo (DEM)"	4		2	50.00		2	50.00		4
+		"EVANS, Phillip J (IND)"	9		5	55.56		4	44.44		9
+		"BUCKLEY, Ben (IND)"	12		4	33.33		8	66.67		12
+		"THORPE, Marjorie (IND)"	3		1	33.33		2	66.67		3
+		"WILLIAMS, Frank (CEC)"	0		0	0.00		0	0.00		0
+		"TREASURE, Doug (IND)"	18		11	61.11		7	38.89		18
+		"ROBINSON, Phillip (IND)"	2		1	50.00		1	50.00		2
+		"AITKEN, Chris (GRN)"	12		11	91.67		1	8.33		12
+		Total	78		102	43.78		131	56.22		233
+
+	Cape Paterson										
+			1st Prefs		179	58.50		127	41.50		306
+		"JAGO, John (IND)"	4		3	75.00		1	25.00		4
+		"FRESHWATER, Michael (HAN)"	8		4	50.00		4	50.00		8
+		"MCCUBBIN, Jo (DEM)"	20		15	75.00		5	25.00		20
+		"EVANS, Phillip J (IND)"	7		2	28.57		5	71.43		7
+		"BUCKLEY, Ben (IND)"	3		1	33.33		2	66.67		3
+		"THORPE, Marjorie (IND)"	1		1	100.00		0	0.00		1
+		"WILLIAMS, Frank (CEC)"	0		0	0.00		0	0.00		0
+		"TREASURE, Doug (IND)"	14		7	50.00		7	50.00		14
+		"ROBINSON, Phillip (IND)"	0		0	0.00		0	0.00		0
+		"AITKEN, Chris (GRN)"	55		46	83.64		9	16.36		55
+		Total	112		258	61.72		160	38.28		418
+
+	Carrajung South										
+			1st Prefs		20	29.41		48	70.59		68
+		"JAGO, John (IND)"	2		1	50.00		1	50.00		2
+		"FRESHWATER, Michael (HAN)"	6		2	33.33		4	66.67		6
+		"MCCUBBIN, Jo (DEM)"	6		5	83.33		1	16.67		6
+		"EVANS, Phillip J (IND)"	0		0	0.00		0	0.00		0
+		"BUCKLEY, Ben (IND)"	3		1	33.33		2	66.67		3
+		"THORPE, Marjorie (IND)"	1		0	0.00		1	100.00		1
+		"WILLIAMS, Frank (CEC)"	0		0	0.00		0	0.00		0
+		"TREASURE, Doug (IND)"	17		8	47.06		9	52.94		17
+		"ROBINSON, Phillip (IND)"	0		0	0.00		0	0.00		0
+		"AITKEN, Chris (GRN)"	14		10	71.43		4	28.57		14
+		Total	49		47	40.17		70	59.83		117
+
+	Cobains										
+			1st Prefs		20	15.27		111	84.73		131
+		"JAGO, John (IND)"	5		4	80.00		1	20.00		5
+		"FRESHWATER, Michael (HAN)"	7		4	57.14		3	42.86		7
+		"MCCUBBIN, Jo (DEM)"	5		3	60.00		2	40.00		5
+		"EVANS, Phillip J (IND)"	7		2	28.57		5	71.43		7
+		"BUCKLEY, Ben (IND)"	9		3	33.33		6	66.67		9
+		"THORPE, Marjorie (IND)"	1		1	100.00		0	0.00		1
+		"WILLIAMS, Frank (CEC)"	0		0	0.00		0	0.00		0
+		"TREASURE, Doug (IND)"	39		17	43.59		22	56.41		39
+		"ROBINSON, Phillip (IND)"	0		0	0.00		0	0.00		0
+		"AITKEN, Chris (GRN)"	1		1	100.00		0	0.00		1
+		Total	74		55	26.83		150	73.17		205
+
+	Coongulla										
+			1st Prefs		39	49.37		40	50.63		79
+		"JAGO, John (IND)"	3		3	100.00		0	0.00		3
+		"FRESHWATER, Michael (HAN)"	7		3	42.86		4	57.14		7
+		"MCCUBBIN, Jo (DEM)"	4		3	75.00		1	25.00		4
+		"EVANS, Phillip J (IND)"	2		1	50.00		1	50.00		2
+		"BUCKLEY, Ben (IND)"	2		1	50.00		1	50.00		2
+		"THORPE, Marjorie (IND)"	1		0	0.00		1	100.00		1
+		"WILLIAMS, Frank (CEC)"	0		0	0.00		0	0.00		0
+		"TREASURE, Doug (IND)"	8		2	25.00		6	75.00		8
+		"ROBINSON, Phillip (IND)"	0		0	0.00		0	0.00		0
+		"AITKEN, Chris (GRN)"	4		4	100.00		0	0.00		4
+		Total	31		56	50.91		54	49.09		110
+
+	Cowwarr										
+			1st Prefs		58	32.40		121	67.60		179
+		"JAGO, John (IND)"	2		0	0.00		2	100.00		2
+		"FRESHWATER, Michael (HAN)"	15		13	86.67		2	13.33		15
+		"MCCUBBIN, Jo (DEM)"	8		5	62.50		3	37.50		8
+		"EVANS, Phillip J (IND)"	4		0	0.00		4	100.00		4
+		"BUCKLEY, Ben (IND)"	7		3	42.86		4	57.14		7
+		"THORPE, Marjorie (IND)"	1		1	100.00		0	0.00		1
+		"WILLIAMS, Frank (CEC)"	0		0	0.00		0	0.00		0
+		"TREASURE, Doug (IND)"	13		7	53.85		6	46.15		13
+		"ROBINSON, Phillip (IND)"	3		3	100.00		0	0.00		3
+		"AITKEN, Chris (GRN)"	6		2	33.33		4	66.67		6
+		Total	59		92	38.66		146	61.34		238
+
+	Dargo										
+			1st Prefs		10	17.54		47	82.46		57
+		"JAGO, John (IND)"	6		4	66.67		2	33.33		6
+		"FRESHWATER, Michael (HAN)"	11		3	27.27		8	72.73		11
+		"MCCUBBIN, Jo (DEM)"	5		2	40.00		3	60.00		5
+		"EVANS, Phillip J (IND)"	7		4	57.14		3	42.86		7
+		"BUCKLEY, Ben (IND)"	6		1	16.67		5	83.33		6
+		"THORPE, Marjorie (IND)"	0		0	0.00		0	0.00		0
+		"WILLIAMS, Frank (CEC)"	0		0	0.00		0	0.00		0
+		"TREASURE, Doug (IND)"	19		9	47.37		10	52.63		19
+		"ROBINSON, Phillip (IND)"	0		0	0.00		0	0.00		0
+		"AITKEN, Chris (GRN)"	5		5	100.00		0	0.00		5
+		Total	59		38	32.76		78	67.24		116
+
+	Denison										
+			1st Prefs		17	10.56		144	89.44		161
+		"JAGO, John (IND)"	2		1	50.00		1	50.00		2
+		"FRESHWATER, Michael (HAN)"	8		3	37.50		5	62.50		8
+		"MCCUBBIN, Jo (DEM)"	5		1	20.00		4	80.00		5
+		"EVANS, Phillip J (IND)"	7		3	42.86		4	57.14		7
+		"BUCKLEY, Ben (IND)"	5		2	40.00		3	60.00		5
+		"THORPE, Marjorie (IND)"	1		0	0.00		1	100.00		1
+		"WILLIAMS, Frank (CEC)"	0		0	0.00		0	0.00		0
+		"TREASURE, Doug (IND)"	6		3	50.00		3	50.00		6
+		"ROBINSON, Phillip (IND)"	0		0	0.00		0	0.00		0
+		"AITKEN, Chris (GRN)"	2		2	100.00		0	0.00		2
+		Total	36		32	16.24		165	83.76		197
+
+	Devon North										
+			1st Prefs		35	18.72		152	81.28		187
+		"JAGO, John (IND)"	5		1	20.00		4	80.00		5
+		"FRESHWATER, Michael (HAN)"	13		7	53.85		6	46.15		13
+		"MCCUBBIN, Jo (DEM)"	5		2	40.00		3	60.00		5
+		"EVANS, Phillip J (IND)"	2		2	100.00		0	0.00		2
+		"BUCKLEY, Ben (IND)"	4		1	25.00		3	75.00		4
+		"THORPE, Marjorie (IND)"	1		1	100.00		0	0.00		1
+		"WILLIAMS, Frank (CEC)"	1		1	100.00		0	0.00		1
+		"TREASURE, Doug (IND)"	22		8	36.36		14	63.64		22
+		"ROBINSON, Phillip (IND)"	1		1	100.00		0	0.00		1
+		"AITKEN, Chris (GRN)"	14		6	42.86		8	57.14		14
+		Total	68		65	25.49		190	74.51		255
+
+	Dudley										
+			1st Prefs		164	53.25		144	46.75		308
+		"JAGO, John (IND)"	5		4	80.00		1	20.00		5
+		"FRESHWATER, Michael (HAN)"	16		10	62.50		6	37.50		16
+		"MCCUBBIN, Jo (DEM)"	15		8	53.33		7	46.67		15
+		"EVANS, Phillip J (IND)"	1		1	100.00		0	0.00		1
+		"BUCKLEY, Ben (IND)"	2		1	50.00		1	50.00		2
+		"THORPE, Marjorie (IND)"	0		0	0.00		0	0.00		0
+		"WILLIAMS, Frank (CEC)"	1		0	0.00		1	100.00		1
+		"TREASURE, Doug (IND)"	9		4	44.44		5	55.56		9
+		"ROBINSON, Phillip (IND)"	3		2	66.67		1	33.33		3
+		"AITKEN, Chris (GRN)"	30		23	76.67		7	23.33		30
+		Total	82		217	55.64		173	44.36		390
+
+	Dumbalk										
+			1st Prefs		37	14.34		221	85.66		258
+		"JAGO, John (IND)"	5		2	40.00		3	60.00		5
+		"FRESHWATER, Michael (HAN)"	23		12	52.17		11	47.83		23
+		"MCCUBBIN, Jo (DEM)"	10		7	70.00		3	30.00		10
+		"EVANS, Phillip J (IND)"	5		0	0.00		5	100.00		5
+		"BUCKLEY, Ben (IND)"	1		0	0.00		1	100.00		1
+		"THORPE, Marjorie (IND)"	0		0	0.00		0	0.00		0
+		"WILLIAMS, Frank (CEC)"	0		0	0.00		0	0.00		0
+		"TREASURE, Doug (IND)"	21		9	42.86		12	57.14		21
+		"ROBINSON, Phillip (IND)"	1		1	100.00		0	0.00		1
+		"AITKEN, Chris (GRN)"	35		30	85.71		5	14.29		35
+		Total	101		98	27.30		261	72.70		359
+
+	Eagle Point										
+			1st Prefs		156	39.20		242	60.80		398
+		"JAGO, John (IND)"	3		0	0.00		3	100.00		3
+		"FRESHWATER, Michael (HAN)"	40		30	75.00		10	25.00		40
+		"MCCUBBIN, Jo (DEM)"	24		19	79.17		5	20.83		24
+		"EVANS, Phillip J (IND)"	14		6	42.86		8	57.14		14
+		"BUCKLEY, Ben (IND)"	8		4	50.00		4	50.00		8
+		"THORPE, Marjorie (IND)"	12		8	66.67		4	33.33		12
+		"WILLIAMS, Frank (CEC)"	1		0	0.00		1	100.00		1
+		"TREASURE, Doug (IND)"	24		8	33.33		16	66.67		24
+		"ROBINSON, Phillip (IND)"	11		4	36.36		7	63.64		11
+		"AITKEN, Chris (GRN)"	12		8	66.67		4	33.33		12
+		Total	149		243	44.42		304	55.58		547
+
+	Ellaswood										
+			1st Prefs		25	28.09		64	71.91		89
+		"JAGO, John (IND)"	4		3	75.00		1	25.00		4
+		"FRESHWATER, Michael (HAN)"	16		7	43.75		9	56.25		16
+		"MCCUBBIN, Jo (DEM)"	4		4	100.00		0	0.00		4
+		"EVANS, Phillip J (IND)"	12		3	25.00		9	75.00		12
+		"BUCKLEY, Ben (IND)"	4		1	25.00		3	75.00		4
+		"THORPE, Marjorie (IND)"	3		2	66.67		1	33.33		3
+		"WILLIAMS, Frank (CEC)"	1		0	0.00		1	100.00		1
+		"TREASURE, Doug (IND)"	10		4	40.00		6	60.00		10
+		"ROBINSON, Phillip (IND)"	0		0	0.00		0	0.00		0
+		"AITKEN, Chris (GRN)"	13		8	61.54		5	38.46		13
+		Total	67		57	36.54		99	63.46		156
+
+	Ensay										
+			1st Prefs		17	18.09		77	81.91		94
+		"JAGO, John (IND)"	0		0	0.00		0	0.00		0
+		"FRESHWATER, Michael (HAN)"	20		13	65.00		7	35.00		20
+		"MCCUBBIN, Jo (DEM)"	7		6	85.71		1	14.29		7
+		"EVANS, Phillip J (IND)"	1		1	100.00		0	0.00		1
+		"BUCKLEY, Ben (IND)"	4		1	25.00		3	75.00		4
+		"THORPE, Marjorie (IND)"	0		0	0.00		0	0.00		0
+		"WILLIAMS, Frank (CEC)"	1		0	0.00		1	100.00		1
+		"TREASURE, Doug (IND)"	4		1	25.00		3	75.00		4
+		"ROBINSON, Phillip (IND)"	0		0	0.00		0	0.00		0
+		"AITKEN, Chris (GRN)"	8		7	87.50		1	12.50		8
+		Total	45		46	33.09		93	66.91		139
+
+	Fernbank										
+			1st Prefs		10	20.83		38	79.17		48
+		"JAGO, John (IND)"	0		0	0.00		0	0.00		0
+		"FRESHWATER, Michael (HAN)"	15		7	46.67		8	53.33		15
+		"MCCUBBIN, Jo (DEM)"	1		1	100.00		0	0.00		1
+		"EVANS, Phillip J (IND)"	4		1	25.00		3	75.00		4
+		"BUCKLEY, Ben (IND)"	2		0	0.00		2	100.00		2
+		"THORPE, Marjorie (IND)"	0		0	0.00		0	0.00		0
+		"WILLIAMS, Frank (CEC)"	0		0	0.00		0	0.00		0
+		"TREASURE, Doug (IND)"	3		0	0.00		3	100.00		3
+		"ROBINSON, Phillip (IND)"	1		0	0.00		1	100.00		1
+		"AITKEN, Chris (GRN)"	0		0	0.00		0	0.00		0
+		Total	26		19	25.68		55	74.32		74
+
+	Fish Creek										
+			1st Prefs		90	21.90		321	78.10		411
+		"JAGO, John (IND)"	4		3	75.00		1	25.00		4
+		"FRESHWATER, Michael (HAN)"	36		23	63.89		13	36.11		36
+		"MCCUBBIN, Jo (DEM)"	12		8	66.67		4	33.33		12
+		"EVANS, Phillip J (IND)"	4		1	25.00		3	75.00		4
+		"BUCKLEY, Ben (IND)"	3		1	33.33		2	66.67		3
+		"THORPE, Marjorie (IND)"	3		2	66.67		1	33.33		3
+		"WILLIAMS, Frank (CEC)"	0		0	0.00		0	0.00		0
+		"TREASURE, Doug (IND)"	33		14	42.42		19	57.58		33
+		"ROBINSON, Phillip (IND)"	3		2	66.67		1	33.33		3
+		"AITKEN, Chris (GRN)"	82		58	70.73		24	29.27		82
+		Total	180		202	34.18		389	65.82		591
+
+	Foster										
+			1st Prefs		314	35.60		568	64.40		882
+		"JAGO, John (IND)"	10		6	60.00		4	40.00		10
+		"FRESHWATER, Michael (HAN)"	61		45	73.77		16	26.23		61
+		"MCCUBBIN, Jo (DEM)"	42		23	54.76		19	45.24		42
+		"EVANS, Phillip J (IND)"	8		3	37.50		5	62.50		8
+		"BUCKLEY, Ben (IND)"	14		8	57.14		6	42.86		14
+		"THORPE, Marjorie (IND)"	13		4	30.77		9	69.23		13
+		"WILLIAMS, Frank (CEC)"	3		1	33.33		2	66.67		3
+		"TREASURE, Doug (IND)"	43		12	27.91		31	72.09		43
+		"ROBINSON, Phillip (IND)"	2		1	50.00		1	50.00		2
+		"AITKEN, Chris (GRN)"	218		155	71.10		63	28.90		218
+		Total	414		572	44.14		724	55.86		1296
+
+	Genoa										
+			1st Prefs		22	35.48		40	64.52		62
+		"JAGO, John (IND)"	0		0	0.00		0	0.00		0
+		"FRESHWATER, Michael (HAN)"	1		1	100.00		0	0.00		1
+		"MCCUBBIN, Jo (DEM)"	3		2	66.67		1	33.33		3
+		"EVANS, Phillip J (IND)"	3		1	33.33		2	66.67		3
+		"BUCKLEY, Ben (IND)"	2		0	0.00		2	100.00		2
+		"THORPE, Marjorie (IND)"	2		2	100.00		0	0.00		2
+		"WILLIAMS, Frank (CEC)"	0		0	0.00		0	0.00		0
+		"TREASURE, Doug (IND)"	5		3	60.00		2	40.00		5
+		"ROBINSON, Phillip (IND)"	2		1	50.00		1	50.00		2
+		"AITKEN, Chris (GRN)"	3		2	66.67		1	33.33		3
+		Total	21		34	40.96		49	59.04		83
+
+	Glengarry										
+			1st Prefs		187	38.56		298	61.44		485
+		"JAGO, John (IND)"	7		6	85.71		1	14.29		7
+		"FRESHWATER, Michael (HAN)"	82		53	64.63		29	35.37		82
+		"MCCUBBIN, Jo (DEM)"	32		23	71.88		9	28.13		32
+		"EVANS, Phillip J (IND)"	7		5	71.43		2	28.57		7
+		"BUCKLEY, Ben (IND)"	10		4	40.00		6	60.00		10
+		"THORPE, Marjorie (IND)"	2		0	0.00		2	100.00		2
+		"WILLIAMS, Frank (CEC)"	1		0	0.00		1	100.00		1
+		"TREASURE, Doug (IND)"	38		18	47.37		20	52.63		38
+		"ROBINSON, Phillip (IND)"	1		1	100.00		0	0.00		1
+		"AITKEN, Chris (GRN)"	22		14	63.64		8	36.36		22
+		Total	202		311	45.27		376	54.73		687
+
+	Glenmaggie										
+			1st Prefs		25	34.25		48	65.75		73
+		"JAGO, John (IND)"	1		0	0.00		1	100.00		1
+		"FRESHWATER, Michael (HAN)"	4		1	25.00		3	75.00		4
+		"MCCUBBIN, Jo (DEM)"	2		1	50.00		1	50.00		2
+		"EVANS, Phillip J (IND)"	4		3	75.00		1	25.00		4
+		"BUCKLEY, Ben (IND)"	3		2	66.67		1	33.33		3
+		"THORPE, Marjorie (IND)"	0		0	0.00		0	0.00		0
+		"WILLIAMS, Frank (CEC)"	0		0	0.00		0	0.00		0
+		"TREASURE, Doug (IND)"	7		2	28.57		5	71.43		7
+		"ROBINSON, Phillip (IND)"	0		0	0.00		0	0.00		0
+		"AITKEN, Chris (GRN)"	4		0	0.00		4	100.00		4
+		Total	25		34	34.69		64	65.31		98
+
+	Golden Beach										
+			1st Prefs		87	58.78		61	41.22		148
+		"JAGO, John (IND)"	4		2	50.00		2	50.00		4
+		"FRESHWATER, Michael (HAN)"	13		6	46.15		7	53.85		13
+		"MCCUBBIN, Jo (DEM)"	6		4	66.67		2	33.33		6
+		"EVANS, Phillip J (IND)"	2		2	100.00		0	0.00		2
+		"BUCKLEY, Ben (IND)"	2		2	100.00		0	0.00		2
+		"THORPE, Marjorie (IND)"	2		1	50.00		1	50.00		2
+		"WILLIAMS, Frank (CEC)"	0		0	0.00		0	0.00		0
+		"TREASURE, Doug (IND)"	4		2	50.00		2	50.00		4
+		"ROBINSON, Phillip (IND)"	5		4	80.00		1	20.00		5
+		"AITKEN, Chris (GRN)"	8		5	62.50		3	37.50		8
+		Total	46		115	59.28		79	40.72		194
+
+	Gormandale										
+			1st Prefs		54	26.60		149	73.40		203
+		"JAGO, John (IND)"	6		4	66.67		2	33.33		6
+		"FRESHWATER, Michael (HAN)"	22		10	45.45		12	54.55		22
+		"MCCUBBIN, Jo (DEM)"	12		10	83.33		2	16.67		12
+		"EVANS, Phillip J (IND)"	8		0	0.00		8	100.00		8
+		"BUCKLEY, Ben (IND)"	9		4	44.44		5	55.56		9
+		"THORPE, Marjorie (IND)"	6		3	50.00		3	50.00		6
+		"WILLIAMS, Frank (CEC)"	1		0	0.00		1	100.00		1
+		"TREASURE, Doug (IND)"	22		8	36.36		14	63.64		22
+		"ROBINSON, Phillip (IND)"	2		1	50.00		1	50.00		2
+		"AITKEN, Chris (GRN)"	37		26	70.27		11	29.73		37
+		Total	125		120	36.59		208	63.41		328
+
+	Heyfield										
+			1st Prefs		357	37.90		585	62.10		942
+		"JAGO, John (IND)"	34		24	70.59		10	29.41		34
+		"FRESHWATER, Michael (HAN)"	67		51	76.12		16	23.88		67
+		"MCCUBBIN, Jo (DEM)"	37		23	62.16		14	37.84		37
+		"EVANS, Phillip J (IND)"	16		8	50.00		8	50.00		16
+		"BUCKLEY, Ben (IND)"	14		10	71.43		4	28.57		14
+		"THORPE, Marjorie (IND)"	4		2	50.00		2	50.00		4
+		"WILLIAMS, Frank (CEC)"	2		1	50.00		1	50.00		2
+		"TREASURE, Doug (IND)"	71		29	40.85		42	59.15		71
+		"ROBINSON, Phillip (IND)"	2		2	100.00		0	0.00		2
+		"AITKEN, Chris (GRN)"	18		15	83.33		3	16.67		18
+		Total	265		522	43.25		685	56.75		1207
+
+	Inverloch										
+			1st Prefs		777	47.96		843	52.04		1620
+		"JAGO, John (IND)"	26		18	69.23		8	30.77		26
+		"FRESHWATER, Michael (HAN)"	86		55	63.95		31	36.05		86
+		"MCCUBBIN, Jo (DEM)"	107		43	40.19		64	59.81		107
+		"EVANS, Phillip J (IND)"	25		12	48.00		13	52.00		25
+		"BUCKLEY, Ben (IND)"	15		7	46.67		8	53.33		15
+		"THORPE, Marjorie (IND)"	25		10	40.00		15	60.00		25
+		"WILLIAMS, Frank (CEC)"	2		1	50.00		1	50.00		2
+		"TREASURE, Doug (IND)"	78		38	48.72		40	51.28		78
+		"ROBINSON, Phillip (IND)"	5		4	80.00		1	20.00		5
+		"AITKEN, Chris (GRN)"	250		199	79.60		51	20.40		250
+		Total	619		1164	51.99		1075	48.01		2239
+
+	Johnsonville										
+			1st Prefs		121	31.35		265	68.65		386
+		"JAGO, John (IND)"	10		7	70.00		3	30.00		10
+		"FRESHWATER, Michael (HAN)"	57		38	66.67		19	33.33		57
+		"MCCUBBIN, Jo (DEM)"	16		9	56.25		7	43.75		16
+		"EVANS, Phillip J (IND)"	15		8	53.33		7	46.67		15
+		"BUCKLEY, Ben (IND)"	6		1	16.67		5	83.33		6
+		"THORPE, Marjorie (IND)"	3		1	33.33		2	66.67		3
+		"WILLIAMS, Frank (CEC)"	4		3	75.00		1	25.00		4
+		"TREASURE, Doug (IND)"	22		10	45.45		12	54.55		22
+		"ROBINSON, Phillip (IND)"	0		0	0.00		0	0.00		0
+		"AITKEN, Chris (GRN)"	18		15	83.33		3	16.67		18
+		Total	151		213	39.66		324	60.34		537
+
+	Kilmany										
+			1st Prefs		10	12.35		71	87.65		81
+		"JAGO, John (IND)"	3		2	66.67		1	33.33		3
+		"FRESHWATER, Michael (HAN)"	8		7	87.50		1	12.50		8
+		"MCCUBBIN, Jo (DEM)"	8		5	62.50		3	37.50		8
+		"EVANS, Phillip J (IND)"	0		0	0.00		0	0.00		0
+		"BUCKLEY, Ben (IND)"	2		1	50.00		1	50.00		2
+		"THORPE, Marjorie (IND)"	1		1	100.00		0	0.00		1
+		"WILLIAMS, Frank (CEC)"	0		0	0.00		0	0.00		0
+		"TREASURE, Doug (IND)"	7		1	14.29		6	85.71		7
+		"ROBINSON, Phillip (IND)"	1		0	0.00		1	100.00		1
+		"AITKEN, Chris (GRN)"	2		2	100.00		0	0.00		2
+		Total	32		29	25.66		84	74.34		113
+
+	Kongwak										
+			1st Prefs		38	22.89		128	77.11		166
+		"JAGO, John (IND)"	4		3	75.00		1	25.00		4
+		"FRESHWATER, Michael (HAN)"	6		2	33.33		4	66.67		6
+		"MCCUBBIN, Jo (DEM)"	2		1	50.00		1	50.00		2
+		"EVANS, Phillip J (IND)"	3		2	66.67		1	33.33		3
+		"BUCKLEY, Ben (IND)"	1		0	0.00		1	100.00		1
+		"THORPE, Marjorie (IND)"	1		0	0.00		1	100.00		1
+		"WILLIAMS, Frank (CEC)"	0		0	0.00		0	0.00		0
+		"TREASURE, Doug (IND)"	16		8	50.00		8	50.00		16
+		"ROBINSON, Phillip (IND)"	1		0	0.00		1	100.00		1
+		"AITKEN, Chris (GRN)"	16		12	75.00		4	25.00		16
+		Total	50		66	30.56		150	69.44		216
+
+	Koonwarra										
+			1st Prefs		26	13.47		167	86.53		193
+		"JAGO, John (IND)"	3		2	66.67		1	33.33		3
+		"FRESHWATER, Michael (HAN)"	11		6	54.55		5	45.45		11
+		"MCCUBBIN, Jo (DEM)"	11		8	72.73		3	27.27		11
+		"EVANS, Phillip J (IND)"	4		2	50.00		2	50.00		4
+		"BUCKLEY, Ben (IND)"	1		1	100.00		0	0.00		1
+		"THORPE, Marjorie (IND)"	0		0	0.00		0	0.00		0
+		"WILLIAMS, Frank (CEC)"	1		0	0.00		1	100.00		1
+		"TREASURE, Doug (IND)"	13		4	30.77		9	69.23		13
+		"ROBINSON, Phillip (IND)"	0		0	0.00		0	0.00		0
+		"AITKEN, Chris (GRN)"	45		29	64.44		16	35.56		45
+		Total	89		78	27.66		204	72.34		282
+
+	Korumburra										
+			1st Prefs		643	36.91		1099	63.09		1742
+		"JAGO, John (IND)"	50		27	54.00		23	46.00		50
+		"FRESHWATER, Michael (HAN)"	98		62	63.27		36	36.73		98
+		"MCCUBBIN, Jo (DEM)"	87		45	51.72		42	48.28		87
+		"EVANS, Phillip J (IND)"	26		12	46.15		14	53.85		26
+		"BUCKLEY, Ben (IND)"	8		3	37.50		5	62.50		8
+		"THORPE, Marjorie (IND)"	17		6	35.29		11	64.71		17
+		"WILLIAMS, Frank (CEC)"	2		0	0.00		2	100.00		2
+		"TREASURE, Doug (IND)"	77		34	44.16		43	55.84		77
+		"ROBINSON, Phillip (IND)"	5		2	40.00		3	60.00		5
+		"AITKEN, Chris (GRN)"	167		115	68.86		52	31.14		167
+		Total	537		949	41.64		1330	58.36		2279
+
+	Lakes Entrance										
+			1st Prefs		935	37.72		1544	62.28		2479
+		"JAGO, John (IND)"	33		19	57.58		14	42.42		33
+		"FRESHWATER, Michael (HAN)"	188		130	69.15		58	30.85		188
+		"MCCUBBIN, Jo (DEM)"	126		51	40.48		75	59.52		126
+		"EVANS, Phillip J (IND)"	41		17	41.46		24	58.54		41
+		"BUCKLEY, Ben (IND)"	53		30	56.60		23	43.40		53
+		"THORPE, Marjorie (IND)"	104		44	42.31		60	57.69		104
+		"WILLIAMS, Frank (CEC)"	16		11	68.75		5	31.25		16
+		"TREASURE, Doug (IND)"	119		60	50.42		59	49.58		119
+		"ROBINSON, Phillip (IND)"	36		22	61.11		14	38.89		36
+		"AITKEN, Chris (GRN)"	83		59	71.08		24	28.92		83
+		Total	799		1378	42.04		1900	57.96		3278
+
+	Leongatha										
+			1st Prefs		659	26.88		1793	73.12		2452
+		"JAGO, John (IND)"	49		36	73.47		13	26.53		49
+		"FRESHWATER, Michael (HAN)"	103		59	57.28		44	42.72		103
+		"MCCUBBIN, Jo (DEM)"	106		61	57.55		45	42.45		106
+		"EVANS, Phillip J (IND)"	26		18	69.23		8	30.77		26
+		"BUCKLEY, Ben (IND)"	19		7	36.84		12	63.16		19
+		"THORPE, Marjorie (IND)"	9		2	22.22		7	77.78		9
+		"WILLIAMS, Frank (CEC)"	5		4	80.00		1	20.00		5
+		"TREASURE, Doug (IND)"	139		53	38.13		86	61.87		139
+		"ROBINSON, Phillip (IND)"	13		7	53.85		6	46.15		13
+		"AITKEN, Chris (GRN)"	335		208	62.09		127	37.91		335
+		Total	804		1114	34.21		2142	65.79		3256
+
+	Leongatha South										
+			1st Prefs		15	11.03		121	88.97		136
+		"JAGO, John (IND)"	1		1	100.00		0	0.00		1
+		"FRESHWATER, Michael (HAN)"	5		3	60.00		2	40.00		5
+		"MCCUBBIN, Jo (DEM)"	2		1	50.00		1	50.00		2
+		"EVANS, Phillip J (IND)"	0		0	0.00		0	0.00		0
+		"BUCKLEY, Ben (IND)"	0		0	0.00		0	0.00		0
+		"THORPE, Marjorie (IND)"	2		0	0.00		2	100.00		2
+		"WILLIAMS, Frank (CEC)"	0		0	0.00		0	0.00		0
+		"TREASURE, Doug (IND)"	10		3	30.00		7	70.00		10
+		"ROBINSON, Phillip (IND)"	0		0	0.00		0	0.00		0
+		"AITKEN, Chris (GRN)"	10		4	40.00		6	60.00		10
+		Total	30		27	16.27		139	83.73		166
+
+	Lindenow										
+			1st Prefs		117	24.79		355	75.21		472
+		"JAGO, John (IND)"	7		3	42.86		4	57.14		7
+		"FRESHWATER, Michael (HAN)"	48		32	66.67		16	33.33		48
+		"MCCUBBIN, Jo (DEM)"	16		11	68.75		5	31.25		16
+		"EVANS, Phillip J (IND)"	72		24	33.33		48	66.67		72
+		"BUCKLEY, Ben (IND)"	17		10	58.82		7	41.18		17
+		"THORPE, Marjorie (IND)"	5		3	60.00		2	40.00		5
+		"WILLIAMS, Frank (CEC)"	4		3	75.00		1	25.00		4
+		"TREASURE, Doug (IND)"	74		32	43.24		42	56.76		74
+		"ROBINSON, Phillip (IND)"	7		5	71.43		2	28.57		7
+		"AITKEN, Chris (GRN)"	14		8	57.14		6	42.86		14
+		Total	264		248	33.70		488	66.30		736
+
+	Loch										
+			1st Prefs		33	18.33		147	81.67		180
+		"JAGO, John (IND)"	6		4	66.67		2	33.33		6
+		"FRESHWATER, Michael (HAN)"	8		4	50.00		4	50.00		8
+		"MCCUBBIN, Jo (DEM)"	6		3	50.00		3	50.00		6
+		"EVANS, Phillip J (IND)"	5		3	60.00		2	40.00		5
+		"BUCKLEY, Ben (IND)"	1		1	100.00		0	0.00		1
+		"THORPE, Marjorie (IND)"	1		1	100.00		0	0.00		1
+		"WILLIAMS, Frank (CEC)"	1		0	0.00		1	100.00		1
+		"TREASURE, Doug (IND)"	11		6	54.55		5	45.45		11
+		"ROBINSON, Phillip (IND)"	3		2	66.67		1	33.33		3
+		"AITKEN, Chris (GRN)"	24		18	75.00		6	25.00		24
+		Total	66		75	30.49		171	69.51		246
+
+	Loch Sport										
+			1st Prefs		188	51.09		180	48.91		368
+		"JAGO, John (IND)"	11		7	63.64		4	36.36		11
+		"FRESHWATER, Michael (HAN)"	41		23	56.10		18	43.90		41
+		"MCCUBBIN, Jo (DEM)"	28		16	57.14		12	42.86		28
+		"EVANS, Phillip J (IND)"	12		5	41.67		7	58.33		12
+		"BUCKLEY, Ben (IND)"	3		1	33.33		2	66.67		3
+		"THORPE, Marjorie (IND)"	1		0	0.00		1	100.00		1
+		"WILLIAMS, Frank (CEC)"	1		0	0.00		1	100.00		1
+		"TREASURE, Doug (IND)"	32		11	34.38		21	65.63		32
+		"ROBINSON, Phillip (IND)"	1		0	0.00		1	100.00		1
+		"AITKEN, Chris (GRN)"	5		5	100.00		0	0.00		5
+		Total	135		256	50.89		247	49.11		503
+
+	Longford										
+			1st Prefs		123	29.50		294	70.50		417
+		"JAGO, John (IND)"	13		7	53.85		6	46.15		13
+		"FRESHWATER, Michael (HAN)"	48		35	72.92		13	27.08		48
+		"MCCUBBIN, Jo (DEM)"	41		23	56.10		18	43.90		41
+		"EVANS, Phillip J (IND)"	6		2	33.33		4	66.67		6
+		"BUCKLEY, Ben (IND)"	7		3	42.86		4	57.14		7
+		"THORPE, Marjorie (IND)"	7		3	42.86		4	57.14		7
+		"WILLIAMS, Frank (CEC)"	0		0	0.00		0	0.00		0
+		"TREASURE, Doug (IND)"	41		13	31.71		28	68.29		41
+		"ROBINSON, Phillip (IND)"	1		1	100.00		0	0.00		1
+		"AITKEN, Chris (GRN)"	12		8	66.67		4	33.33		12
+		Total	176		218	36.76		375	63.24		593
+
+	Lucknow										
+			1st Prefs		291	34.52		552	65.48		843
+		"JAGO, John (IND)"	13		7	53.85		6	46.15		13
+		"FRESHWATER, Michael (HAN)"	104		64	61.54		40	38.46		104
+		"MCCUBBIN, Jo (DEM)"	48		33	68.75		15	31.25		48
+		"EVANS, Phillip J (IND)"	63		25	39.68		38	60.32		63
+		"BUCKLEY, Ben (IND)"	39		21	53.85		18	46.15		39
+		"THORPE, Marjorie (IND)"	15		7	46.67		8	53.33		15
+		"WILLIAMS, Frank (CEC)"	3		2	66.67		1	33.33		3
+		"TREASURE, Doug (IND)"	80		23	28.75		57	71.25		80
+		"ROBINSON, Phillip (IND)"	20		11	55.00		9	45.00		20
+		"AITKEN, Chris (GRN)"	35		27	77.14		8	22.86		35
+		Total	420		511	40.46		752	59.54		1263
+
+	Maffra										
+			1st Prefs		695	35.17		1281	64.83		1976
+		"JAGO, John (IND)"	77		52	67.53		25	32.47		77
+		"FRESHWATER, Michael (HAN)"	97		68	70.10		29	29.90		97
+		"MCCUBBIN, Jo (DEM)"	105		54	51.43		51	48.57		105
+		"EVANS, Phillip J (IND)"	45		18	40.00		27	60.00		45
+		"BUCKLEY, Ben (IND)"	25		15	60.00		10	40.00		25
+		"THORPE, Marjorie (IND)"	20		7	35.00		13	65.00		20
+		"WILLIAMS, Frank (CEC)"	6		5	83.33		1	16.67		6
+		"TREASURE, Doug (IND)"	209		83	39.71		126	60.29		209
+		"ROBINSON, Phillip (IND)"	3		3	100.00		0	0.00		3
+		"AITKEN, Chris (GRN)"	61		38	62.30		23	37.70		61
+		Total	648		1038	39.56		1586	60.44		2624
+
+	Mallacoota										
+			1st Prefs		187	45.28		226	54.72		413
+		"JAGO, John (IND)"	7		6	85.71		1	14.29		7
+		"FRESHWATER, Michael (HAN)"	22		15	68.18		7	31.82		22
+		"MCCUBBIN, Jo (DEM)"	47		25	53.19		22	46.81		47
+		"EVANS, Phillip J (IND)"	7		3	42.86		4	57.14		7
+		"BUCKLEY, Ben (IND)"	5		4	80.00		1	20.00		5
+		"THORPE, Marjorie (IND)"	7		3	42.86		4	57.14		7
+		"WILLIAMS, Frank (CEC)"	1		1	100.00		0	0.00		1
+		"TREASURE, Doug (IND)"	29		8	27.59		21	72.41		29
+		"ROBINSON, Phillip (IND)"	1		1	100.00		0	0.00		1
+		"AITKEN, Chris (GRN)"	87		70	80.46		17	19.54		87
+		Total	213		323	51.60		303	48.40		626
+
+	Mardan										
+			1st Prefs		7	8.64		74	91.36		81
+		"JAGO, John (IND)"	4		2	50.00		2	50.00		4
+		"FRESHWATER, Michael (HAN)"	2		0	0.00		2	100.00		2
+		"MCCUBBIN, Jo (DEM)"	2		2	100.00		0	0.00		2
+		"EVANS, Phillip J (IND)"	0		0	0.00		0	0.00		0
+		"BUCKLEY, Ben (IND)"	1		1	100.00		0	0.00		1
+		"THORPE, Marjorie (IND)"	1		1	100.00		0	0.00		1
+		"WILLIAMS, Frank (CEC)"	0		0	0.00		0	0.00		0
+		"TREASURE, Doug (IND)"	7		2	28.57		5	71.43		7
+		"ROBINSON, Phillip (IND)"	0		0	0.00		0	0.00		0
+		"AITKEN, Chris (GRN)"	4		4	100.00		0	0.00		4
+		Total	21		19	18.63		83	81.37		102
+
+	Marlo										
+			1st Prefs		105	44.49		131	55.51		236
+		"JAGO, John (IND)"	3		2	66.67		1	33.33		3
+		"FRESHWATER, Michael (HAN)"	20		8	40.00		12	60.00		20
+		"MCCUBBIN, Jo (DEM)"	10		7	70.00		3	30.00		10
+		"EVANS, Phillip J (IND)"	7		0	0.00		7	100.00		7
+		"BUCKLEY, Ben (IND)"	8		7	87.50		1	12.50		8
+		"THORPE, Marjorie (IND)"	4		4	100.00		0	0.00		4
+		"WILLIAMS, Frank (CEC)"	0		0	0.00		0	0.00		0
+		"TREASURE, Doug (IND)"	15		5	33.33		10	66.67		15
+		"ROBINSON, Phillip (IND)"	1		0	0.00		1	100.00		1
+		"AITKEN, Chris (GRN)"	13		9	69.23		4	30.77		13
+		Total	81		147	46.37		170	53.63		317
+
+	Meeniyan										
+			1st Prefs		144	28.80		356	71.20		500
+		"JAGO, John (IND)"	7		4	57.14		3	42.86		7
+		"FRESHWATER, Michael (HAN)"	52		37	71.15		15	28.85		52
+		"MCCUBBIN, Jo (DEM)"	9		3	33.33		6	66.67		9
+		"EVANS, Phillip J (IND)"	1		1	100.00		0	0.00		1
+		"BUCKLEY, Ben (IND)"	10		4	40.00		6	60.00		10
+		"THORPE, Marjorie (IND)"	2		1	50.00		1	50.00		2
+		"WILLIAMS, Frank (CEC)"	2		1	50.00		1	50.00		2
+		"TREASURE, Doug (IND)"	41		20	48.78		21	51.22		41
+		"ROBINSON, Phillip (IND)"	1		0	0.00		1	100.00		1
+		"AITKEN, Chris (GRN)"	79		52	65.82		27	34.18		79
+		Total	204		267	37.93		437	62.07		704
+
+	Meerlieu										
+			1st Prefs		15	17.86		69	82.14		84
+		"JAGO, John (IND)"	3		1	33.33		2	66.67		3
+		"FRESHWATER, Michael (HAN)"	5		5	100.00		0	0.00		5
+		"MCCUBBIN, Jo (DEM)"	8		6	75.00		2	25.00		8
+		"EVANS, Phillip J (IND)"	11		3	27.27		8	72.73		11
+		"BUCKLEY, Ben (IND)"	0		0	0.00		0	0.00		0
+		"THORPE, Marjorie (IND)"	2		1	50.00		1	50.00		2
+		"WILLIAMS, Frank (CEC)"	0		0	0.00		0	0.00		0
+		"TREASURE, Doug (IND)"	15		6	40.00		9	60.00		15
+		"ROBINSON, Phillip (IND)"	1		1	100.00		0	0.00		1
+		"AITKEN, Chris (GRN)"	1		1	100.00		0	0.00		1
+		Total	46		39	30.00		91	70.00		130
+
+	Melbourne (Gippsland)										
+			1st Prefs		10	24.39		31	75.61		41
+		"JAGO, John (IND)"	1		0	0.00		1	100.00		1
+		"FRESHWATER, Michael (HAN)"	2		1	50.00		1	50.00		2
+		"MCCUBBIN, Jo (DEM)"	9		6	66.67		3	33.33		9
+		"EVANS, Phillip J (IND)"	0		0	0.00		0	0.00		0
+		"BUCKLEY, Ben (IND)"	0		0	0.00		0	0.00		0
+		"THORPE, Marjorie (IND)"	0		0	0.00		0	0.00		0
+		"WILLIAMS, Frank (CEC)"	0		0	0.00		0	0.00		0
+		"TREASURE, Doug (IND)"	3		2	66.67		1	33.33		3
+		"ROBINSON, Phillip (IND)"	2		2	100.00		0	0.00		2
+		"AITKEN, Chris (GRN)"	9		7	77.78		2	22.22		9
+		Total	26		28	41.79		39	58.21		67
+
+	Metung										
+			1st Prefs		118	28.16		301	71.84		419
+		"JAGO, John (IND)"	2		2	100.00		0	0.00		2
+		"FRESHWATER, Michael (HAN)"	17		10	58.82		7	41.18		17
+		"MCCUBBIN, Jo (DEM)"	30		17	56.67		13	43.33		30
+		"EVANS, Phillip J (IND)"	4		1	25.00		3	75.00		4
+		"BUCKLEY, Ben (IND)"	3		2	66.67		1	33.33		3
+		"THORPE, Marjorie (IND)"	9		4	44.44		5	55.56		9
+		"WILLIAMS, Frank (CEC)"	0		0	0.00		0	0.00		0
+		"TREASURE, Doug (IND)"	20		9	45.00		11	55.00		20
+		"ROBINSON, Phillip (IND)"	6		5	83.33		1	16.67		6
+		"AITKEN, Chris (GRN)"	34		30	88.24		4	11.76		34
+		Total	125		198	36.40		346	63.60		544
+
+	Mirboo North										
+			1st Prefs		396	42.26		541	57.74		937
+		"JAGO, John (IND)"	23		19	82.61		4	17.39		23
+		"FRESHWATER, Michael (HAN)"	70		49	70.00		21	30.00		70
+		"MCCUBBIN, Jo (DEM)"	71		43	60.56		28	39.44		71
+		"EVANS, Phillip J (IND)"	27		8	29.63		19	70.37		27
+		"BUCKLEY, Ben (IND)"	4		0	0.00		4	100.00		4
+		"THORPE, Marjorie (IND)"	14		7	50.00		7	50.00		14
+		"WILLIAMS, Frank (CEC)"	0		0	0.00		0	0.00		0
+		"TREASURE, Doug (IND)"	73		34	46.58		39	53.42		73
+		"ROBINSON, Phillip (IND)"	5		4	80.00		1	20.00		5
+		"AITKEN, Chris (GRN)"	130		89	68.46		41	31.54		130
+		Total	417		649	47.93		705	52.07		1354
+
+	Mount Eccles										
+			1st Prefs		20	25.00		60	75.00		80
+		"JAGO, John (IND)"	3		0	0.00		3	100.00		3
+		"FRESHWATER, Michael (HAN)"	5		4	80.00		1	20.00		5
+		"MCCUBBIN, Jo (DEM)"	8		5	62.50		3	37.50		8
+		"EVANS, Phillip J (IND)"	2		0	0.00		2	100.00		2
+		"BUCKLEY, Ben (IND)"	4		1	25.00		3	75.00		4
+		"THORPE, Marjorie (IND)"	0		0	0.00		0	0.00		0
+		"WILLIAMS, Frank (CEC)"	0		0	0.00		0	0.00		0
+		"TREASURE, Doug (IND)"	23		4	17.39		19	82.61		23
+		"ROBINSON, Phillip (IND)"	3		2	66.67		1	33.33		3
+		"AITKEN, Chris (GRN)"	8		3	37.50		5	62.50		8
+		Total	56		39	28.68		97	71.32		136
+
+	Nambrok										
+			1st Prefs		10	6.33		148	93.67		158
+		"JAGO, John (IND)"	6		3	50.00		3	50.00		6
+		"FRESHWATER, Michael (HAN)"	10		4	40.00		6	60.00		10
+		"MCCUBBIN, Jo (DEM)"	5		0	0.00		5	100.00		5
+		"EVANS, Phillip J (IND)"	8		5	62.50		3	37.50		8
+		"BUCKLEY, Ben (IND)"	3		2	66.67		1	33.33		3
+		"THORPE, Marjorie (IND)"	2		1	50.00		1	50.00		2
+		"WILLIAMS, Frank (CEC)"	3		2	66.67		1	33.33		3
+		"TREASURE, Doug (IND)"	12		5	41.67		7	58.33		12
+		"ROBINSON, Phillip (IND)"	3		3	100.00		0	0.00		3
+		"AITKEN, Chris (GRN)"	2		0	0.00		2	100.00		2
+		Total	54		35	16.51		177	83.49		212
+
+	Nerrena										
+			1st Prefs		16	13.45		103	86.55		119
+		"JAGO, John (IND)"	1		0	0.00		1	100.00		1
+		"FRESHWATER, Michael (HAN)"	6		0	0.00		6	100.00		6
+		"MCCUBBIN, Jo (DEM)"	1		0	0.00		1	100.00		1
+		"EVANS, Phillip J (IND)"	1		1	100.00		0	0.00		1
+		"BUCKLEY, Ben (IND)"	1		0	0.00		1	100.00		1
+		"THORPE, Marjorie (IND)"	1		0	0.00		1	100.00		1
+		"WILLIAMS, Frank (CEC)"	0		0	0.00		0	0.00		0
+		"TREASURE, Doug (IND)"	5		2	40.00		3	60.00		5
+		"ROBINSON, Phillip (IND)"	0		0	0.00		0	0.00		0
+		"AITKEN, Chris (GRN)"	15		8	53.33		7	46.67		15
+		Total	31		27	18.00		123	82.00		150
+
+	Newmerella										
+			1st Prefs		55	26.83		150	73.17		205
+		"JAGO, John (IND)"	0		0	0.00		0	0.00		0
+		"FRESHWATER, Michael (HAN)"	16		7	43.75		9	56.25		16
+		"MCCUBBIN, Jo (DEM)"	9		5	55.56		4	44.44		9
+		"EVANS, Phillip J (IND)"	12		5	41.67		7	58.33		12
+		"BUCKLEY, Ben (IND)"	8		3	37.50		5	62.50		8
+		"THORPE, Marjorie (IND)"	6		2	33.33		4	66.67		6
+		"WILLIAMS, Frank (CEC)"	1		0	0.00		1	100.00		1
+		"TREASURE, Doug (IND)"	16		5	31.25		11	68.75		16
+		"ROBINSON, Phillip (IND)"	1		1	100.00		0	0.00		1
+		"AITKEN, Chris (GRN)"	2		2	100.00		0	0.00		2
+		Total	71		85	30.80		191	69.20		276
+
+	Newry										
+			1st Prefs		28	14.66		163	85.34		191
+		"JAGO, John (IND)"	5		4	80.00		1	20.00		5
+		"FRESHWATER, Michael (HAN)"	12		4	33.33		8	66.67		12
+		"MCCUBBIN, Jo (DEM)"	10		7	70.00		3	30.00		10
+		"EVANS, Phillip J (IND)"	3		0	0.00		3	100.00		3
+		"BUCKLEY, Ben (IND)"	4		3	75.00		1	25.00		4
+		"THORPE, Marjorie (IND)"	0		0	0.00		0	0.00		0
+		"WILLIAMS, Frank (CEC)"	1		1	100.00		0	0.00		1
+		"TREASURE, Doug (IND)"	19		7	36.84		12	63.16		19
+		"ROBINSON, Phillip (IND)"	0		0	0.00		0	0.00		0
+		"AITKEN, Chris (GRN)"	7		4	57.14		3	42.86		7
+		Total	61		58	23.02		194	76.98		252
+
+	Nicholson										
+			1st Prefs		166	40.59		243	59.41		409
+		"JAGO, John (IND)"	15		10	66.67		5	33.33		15
+		"FRESHWATER, Michael (HAN)"	64		50	78.13		14	21.88		64
+		"MCCUBBIN, Jo (DEM)"	22		12	54.55		10	45.45		22
+		"EVANS, Phillip J (IND)"	23		15	65.22		8	34.78		23
+		"BUCKLEY, Ben (IND)"	9		3	33.33		6	66.67		9
+		"THORPE, Marjorie (IND)"	6		3	50.00		3	50.00		6
+		"WILLIAMS, Frank (CEC)"	5		1	20.00		4	80.00		5
+		"TREASURE, Doug (IND)"	46		20	43.48		26	56.52		46
+		"ROBINSON, Phillip (IND)"	10		6	60.00		4	40.00		10
+		"AITKEN, Chris (GRN)"	35		25	71.43		10	28.57		35
+		Total	235		311	48.29		333	51.71		644
+
+	Nowa Nowa										
+			1st Prefs		42	35.90		75	64.10		117
+		"JAGO, John (IND)"	1		0	0.00		1	100.00		1
+		"FRESHWATER, Michael (HAN)"	30		18	60.00		12	40.00		30
+		"MCCUBBIN, Jo (DEM)"	9		8	88.89		1	11.11		9
+		"EVANS, Phillip J (IND)"	6		3	50.00		3	50.00		6
+		"BUCKLEY, Ben (IND)"	5		3	60.00		2	40.00		5
+		"THORPE, Marjorie (IND)"	6		3	50.00		3	50.00		6
+		"WILLIAMS, Frank (CEC)"	1		1	100.00		0	0.00		1
+		"TREASURE, Doug (IND)"	10		2	20.00		8	80.00		10
+		"ROBINSON, Phillip (IND)"	0		0	0.00		0	0.00		0
+		"AITKEN, Chris (GRN)"	12		11	91.67		1	8.33		12
+		Total	80		91	46.19		106	53.81		197
+
+	Nungurner										
+			1st Prefs		38	35.85		68	64.15		106
+		"JAGO, John (IND)"	1		1	100.00		0	0.00		1
+		"FRESHWATER, Michael (HAN)"	16		12	75.00		4	25.00		16
+		"MCCUBBIN, Jo (DEM)"	7		7	100.00		0	0.00		7
+		"EVANS, Phillip J (IND)"	9		6	66.67		3	33.33		9
+		"BUCKLEY, Ben (IND)"	3		0	0.00		3	100.00		3
+		"THORPE, Marjorie (IND)"	2		2	100.00		0	0.00		2
+		"WILLIAMS, Frank (CEC)"	0		0	0.00		0	0.00		0
+		"TREASURE, Doug (IND)"	18		8	44.44		10	55.56		18
+		"ROBINSON, Phillip (IND)"	1		1	100.00		0	0.00		1
+		"AITKEN, Chris (GRN)"	8		5	62.50		3	37.50		8
+		Total	65		80	46.78		91	53.22		171
+
+	Omeo										
+			1st Prefs		57	27.94		147	72.06		204
+		"JAGO, John (IND)"	2		2	100.00		0	0.00		2
+		"FRESHWATER, Michael (HAN)"	11		5	45.45		6	54.55		11
+		"MCCUBBIN, Jo (DEM)"	6		4	66.67		2	33.33		6
+		"EVANS, Phillip J (IND)"	6		1	16.67		5	83.33		6
+		"BUCKLEY, Ben (IND)"	39		22	56.41		17	43.59		39
+		"THORPE, Marjorie (IND)"	1		0	0.00		1	100.00		1
+		"WILLIAMS, Frank (CEC)"	2		1	50.00		1	50.00		2
+		"TREASURE, Doug (IND)"	23		9	39.13		14	60.87		23
+		"ROBINSON, Phillip (IND)"	4		4	100.00		0	0.00		4
+		"AITKEN, Chris (GRN)"	9		7	77.78		2	22.22		9
+		Total	103		112	36.48		195	63.52		307
+
+	Orbost										
+			1st Prefs		402	37.82		661	62.18		1063
+		"JAGO, John (IND)"	22		17	77.27		5	22.73		22
+		"FRESHWATER, Michael (HAN)"	103		70	67.96		33	32.04		103
+		"MCCUBBIN, Jo (DEM)"	19		17	89.47		2	10.53		19
+		"EVANS, Phillip J (IND)"	35		19	54.29		16	45.71		35
+		"BUCKLEY, Ben (IND)"	24		14	58.33		10	41.67		24
+		"THORPE, Marjorie (IND)"	20		11	55.00		9	45.00		20
+		"WILLIAMS, Frank (CEC)"	1		0	0.00		1	100.00		1
+		"TREASURE, Doug (IND)"	46		14	30.43		32	69.57		46
+		"ROBINSON, Phillip (IND)"	20		14	70.00		6	30.00		20
+		"AITKEN, Chris (GRN)"	23		14	60.87		9	39.13		23
+		Total	313		592	43.02		784	56.98		1376
+
+	Paynesville										
+			1st Prefs		588	37.05		999	62.95		1587
+		"JAGO, John (IND)"	24		15	62.50		9	37.50		24
+		"FRESHWATER, Michael (HAN)"	129		88	68.22		41	31.78		129
+		"MCCUBBIN, Jo (DEM)"	62		32	51.61		30	48.39		62
+		"EVANS, Phillip J (IND)"	69		22	31.88		47	68.12		69
+		"BUCKLEY, Ben (IND)"	25		12	48.00		13	52.00		25
+		"THORPE, Marjorie (IND)"	19		8	42.11		11	57.89		19
+		"WILLIAMS, Frank (CEC)"	6		6	100.00		0	0.00		6
+		"TREASURE, Doug (IND)"	69		29	42.03		40	57.97		69
+		"ROBINSON, Phillip (IND)"	53		34	64.15		19	35.85		53
+		"AITKEN, Chris (GRN)"	66		54	81.82		12	18.18		66
+		Total	522		888	42.11		1221	57.89		2109
+
+	Poowong										
+			1st Prefs		77	20.64		296	79.36		373
+		"JAGO, John (IND)"	13		8	61.54		5	38.46		13
+		"FRESHWATER, Michael (HAN)"	30		12	40.00		18	60.00		30
+		"MCCUBBIN, Jo (DEM)"	31		18	58.06		13	41.94		31
+		"EVANS, Phillip J (IND)"	0		0	0.00		0	0.00		0
+		"BUCKLEY, Ben (IND)"	2		1	50.00		1	50.00		2
+		"THORPE, Marjorie (IND)"	6		3	50.00		3	50.00		6
+		"WILLIAMS, Frank (CEC)"	1		0	0.00		1	100.00		1
+		"TREASURE, Doug (IND)"	29		10	34.48		19	65.52		29
+		"ROBINSON, Phillip (IND)"	1		0	0.00		1	100.00		1
+		"AITKEN, Chris (GRN)"	20		14	70.00		6	30.00		20
+		Total	133		143	28.26		363	71.74		506
+
+	Port Albert										
+			1st Prefs		72	50.70		70	49.30		142
+		"JAGO, John (IND)"	13		8	61.54		5	38.46		13
+		"FRESHWATER, Michael (HAN)"	7		4	57.14		3	42.86		7
+		"MCCUBBIN, Jo (DEM)"	7		5	71.43		2	28.57		7
+		"EVANS, Phillip J (IND)"	5		1	20.00		4	80.00		5
+		"BUCKLEY, Ben (IND)"	8		4	50.00		4	50.00		8
+		"THORPE, Marjorie (IND)"	2		2	100.00		0	0.00		2
+		"WILLIAMS, Frank (CEC)"	1		1	100.00		0	0.00		1
+		"TREASURE, Doug (IND)"	18		8	44.44		10	55.56		18
+		"ROBINSON, Phillip (IND)"	2		0	0.00		2	100.00		2
+		"AITKEN, Chris (GRN)"	2		0	0.00		2	100.00		2
+		Total	65		105	50.72		102	49.28		207
+
+	Port Franklin										
+			1st Prefs		17	23.29		56	76.71		73
+		"JAGO, John (IND)"	0		0	0.00		0	0.00		0
+		"FRESHWATER, Michael (HAN)"	5		3	60.00		2	40.00		5
+		"MCCUBBIN, Jo (DEM)"	7		4	57.14		3	42.86		7
+		"EVANS, Phillip J (IND)"	2		0	0.00		2	100.00		2
+		"BUCKLEY, Ben (IND)"	1		0	0.00		1	100.00		1
+		"THORPE, Marjorie (IND)"	1		1	100.00		0	0.00		1
+		"WILLIAMS, Frank (CEC)"	0		0	0.00		0	0.00		0
+		"TREASURE, Doug (IND)"	14		4	28.57		10	71.43		14
+		"ROBINSON, Phillip (IND)"	0		0	0.00		0	0.00		0
+		"AITKEN, Chris (GRN)"	10		5	50.00		5	50.00		10
+		Total	40		34	30.09		79	69.91		113
+
+	Rosedale										
+			1st Prefs		286	42.06		394	57.94		680
+		"JAGO, John (IND)"	17		14	82.35		3	17.65		17
+		"FRESHWATER, Michael (HAN)"	68		48	70.59		20	29.41		68
+		"MCCUBBIN, Jo (DEM)"	52		29	55.77		23	44.23		52
+		"EVANS, Phillip J (IND)"	25		9	36.00		16	64.00		25
+		"BUCKLEY, Ben (IND)"	9		6	66.67		3	33.33		9
+		"THORPE, Marjorie (IND)"	7		4	57.14		3	42.86		7
+		"WILLIAMS, Frank (CEC)"	2		0	0.00		2	100.00		2
+		"TREASURE, Doug (IND)"	42		22	52.38		20	47.62		42
+		"ROBINSON, Phillip (IND)"	3		1	33.33		2	66.67		3
+		"AITKEN, Chris (GRN)"	18		17	94.44		1	5.56		18
+		Total	243		436	47.24		487	52.76		923
+
+	Sale										
+			1st Prefs		767	34.27		1471	65.73		2238
+		"JAGO, John (IND)"	141		85	60.28		56	39.72		141
+		"FRESHWATER, Michael (HAN)"	105		79	75.24		26	24.76		105
+		"MCCUBBIN, Jo (DEM)"	253		128	50.59		125	49.41		253
+		"EVANS, Phillip J (IND)"	34		17	50.00		17	50.00		34
+		"BUCKLEY, Ben (IND)"	31		17	54.84		14	45.16		31
+		"THORPE, Marjorie (IND)"	18		7	38.89		11	61.11		18
+		"WILLIAMS, Frank (CEC)"	15		9	60.00		6	40.00		15
+		"TREASURE, Doug (IND)"	193		83	43.01		110	56.99		193
+		"ROBINSON, Phillip (IND)"	10		5	50.00		5	50.00		10
+		"AITKEN, Chris (GRN)"	127		97	76.38		30	23.62		127
+		Total	927		1294	40.88		1871	59.12		3165
+
+	Sale East										
+			1st Prefs		419	27.91		1082	72.09		1501
+		"JAGO, John (IND)"	84		43	51.19		41	48.81		84
+		"FRESHWATER, Michael (HAN)"	55		30	54.55		25	45.45		55
+		"MCCUBBIN, Jo (DEM)"	145		60	41.38		85	58.62		145
+		"EVANS, Phillip J (IND)"	27		11	40.74		16	59.26		27
+		"BUCKLEY, Ben (IND)"	10		3	30.00		7	70.00		10
+		"THORPE, Marjorie (IND)"	14		2	14.29		12	85.71		14
+		"WILLIAMS, Frank (CEC)"	5		3	60.00		2	40.00		5
+		"TREASURE, Doug (IND)"	105		41	39.05		64	60.95		105
+		"ROBINSON, Phillip (IND)"	5		2	40.00		3	60.00		5
+		"AITKEN, Chris (GRN)"	54		33	61.11		21	38.89		54
+		Total	504		647	32.27		1358	67.73		2005
+
+	Sale North										
+			1st Prefs		630	42.08		867	57.92		1497
+		"JAGO, John (IND)"	70		36	51.43		34	48.57		70
+		"FRESHWATER, Michael (HAN)"	110		73	66.36		37	33.64		110
+		"MCCUBBIN, Jo (DEM)"	135		70	51.85		65	48.15		135
+		"EVANS, Phillip J (IND)"	22		9	40.91		13	59.09		22
+		"BUCKLEY, Ben (IND)"	30		18	60.00		12	40.00		30
+		"THORPE, Marjorie (IND)"	12		6	50.00		6	50.00		12
+		"WILLIAMS, Frank (CEC)"	8		6	75.00		2	25.00		8
+		"TREASURE, Doug (IND)"	143		67	46.85		76	53.15		143
+		"ROBINSON, Phillip (IND)"	11		6	54.55		5	45.45		11
+		"AITKEN, Chris (GRN)"	54		42	77.78		12	22.22		54
+		Total	595		963	46.03		1129	53.97		2092
+
+	Seaspray										
+			1st Prefs		72	39.34		111	60.66		183
+		"JAGO, John (IND)"	4		3	75.00		1	25.00		4
+		"FRESHWATER, Michael (HAN)"	16		7	43.75		9	56.25		16
+		"MCCUBBIN, Jo (DEM)"	12		8	66.67		4	33.33		12
+		"EVANS, Phillip J (IND)"	8		1	12.50		7	87.50		8
+		"BUCKLEY, Ben (IND)"	4		3	75.00		1	25.00		4
+		"THORPE, Marjorie (IND)"	0		0	0.00		0	0.00		0
+		"WILLIAMS, Frank (CEC)"	1		1	100.00		0	0.00		1
+		"TREASURE, Doug (IND)"	28		9	32.14		19	67.86		28
+		"ROBINSON, Phillip (IND)"	1		1	100.00		0	0.00		1
+		"AITKEN, Chris (GRN)"	7		3	42.86		4	57.14		7
+		Total	81		108	40.91		156	59.09		264
+
+	Staceys Bridge										
+			1st Prefs		5	5.43		87	94.57		92
+		"JAGO, John (IND)"	3		1	33.33		2	66.67		3
+		"FRESHWATER, Michael (HAN)"	3		1	33.33		2	66.67		3
+		"MCCUBBIN, Jo (DEM)"	7		4	57.14		3	42.86		7
+		"EVANS, Phillip J (IND)"	3		0	0.00		3	100.00		3
+		"BUCKLEY, Ben (IND)"	2		1	50.00		1	50.00		2
+		"THORPE, Marjorie (IND)"	1		0	0.00		1	100.00		1
+		"WILLIAMS, Frank (CEC)"	0		0	0.00		0	0.00		0
+		"TREASURE, Doug (IND)"	12		3	25.00		9	75.00		12
+		"ROBINSON, Phillip (IND)"	0		0	0.00		0	0.00		0
+		"AITKEN, Chris (GRN)"	9		6	66.67		3	33.33		9
+		Total	40		21	15.91		111	84.09		132
+
+	Stradbroke										
+			1st Prefs		27	28.42		68	71.58		95
+		"JAGO, John (IND)"	5		3	60.00		2	40.00		5
+		"FRESHWATER, Michael (HAN)"	8		5	62.50		3	37.50		8
+		"MCCUBBIN, Jo (DEM)"	6		3	50.00		3	50.00		6
+		"EVANS, Phillip J (IND)"	0		0	0.00		0	0.00		0
+		"BUCKLEY, Ben (IND)"	1		1	100.00		0	0.00		1
+		"THORPE, Marjorie (IND)"	0		0	0.00		0	0.00		0
+		"WILLIAMS, Frank (CEC)"	0		0	0.00		0	0.00		0
+		"TREASURE, Doug (IND)"	15		7	46.67		8	53.33		15
+		"ROBINSON, Phillip (IND)"	1		1	100.00		0	0.00		1
+		"AITKEN, Chris (GRN)"	3		3	100.00		0	0.00		3
+		Total	39		50	37.31		84	62.69		134
+
+	Stratford										
+			1st Prefs		278	32.29		583	67.71		861
+		"JAGO, John (IND)"	37		31	83.78		6	16.22		37
+		"FRESHWATER, Michael (HAN)"	63		52	82.54		11	17.46		63
+		"MCCUBBIN, Jo (DEM)"	56		26	46.43		30	53.57		56
+		"EVANS, Phillip J (IND)"	24		10	41.67		14	58.33		24
+		"BUCKLEY, Ben (IND)"	10		8	80.00		2	20.00		10
+		"THORPE, Marjorie (IND)"	20		7	35.00		13	65.00		20
+		"WILLIAMS, Frank (CEC)"	0		0	0.00		0	0.00		0
+		"TREASURE, Doug (IND)"	283		122	43.11		161	56.89		283
+		"ROBINSON, Phillip (IND)"	5		1	20.00		4	80.00		5
+		"AITKEN, Chris (GRN)"	33		25	75.76		8	24.24		33
+		Total	531		560	40.23		832	59.77		1392
+
+	Swifts Creek										
+			1st Prefs		79	43.65		102	56.35		181
+		"JAGO, John (IND)"	6		4	66.67		2	33.33		6
+		"FRESHWATER, Michael (HAN)"	24		13	54.17		11	45.83		24
+		"MCCUBBIN, Jo (DEM)"	14		10	71.43		4	28.57		14
+		"EVANS, Phillip J (IND)"	6		2	33.33		4	66.67		6
+		"BUCKLEY, Ben (IND)"	14		4	28.57		10	71.43		14
+		"THORPE, Marjorie (IND)"	0		0	0.00		0	0.00		0
+		"WILLIAMS, Frank (CEC)"	0		0	0.00		0	0.00		0
+		"TREASURE, Doug (IND)"	11		3	27.27		8	72.73		11
+		"ROBINSON, Phillip (IND)"	1		1	100.00		0	0.00		1
+		"AITKEN, Chris (GRN)"	9		8	88.89		1	11.11		9
+		Total	85		124	46.62		142	53.38		266
+
+	Tarwin Lower										
+			1st Prefs		167	38.04		272	61.96		439
+		"JAGO, John (IND)"	8		6	75.00		2	25.00		8
+		"FRESHWATER, Michael (HAN)"	27		19	70.37		8	29.63		27
+		"MCCUBBIN, Jo (DEM)"	20		15	75.00		5	25.00		20
+		"EVANS, Phillip J (IND)"	6		4	66.67		2	33.33		6
+		"BUCKLEY, Ben (IND)"	3		1	33.33		2	66.67		3
+		"THORPE, Marjorie (IND)"	3		0	0.00		3	100.00		3
+		"WILLIAMS, Frank (CEC)"	0		0	0.00		0	0.00		0
+		"TREASURE, Doug (IND)"	16		1	6.25		15	93.75		16
+		"ROBINSON, Phillip (IND)"	3		1	33.33		2	66.67		3
+		"AITKEN, Chris (GRN)"	67		49	73.13		18	26.87		67
+		Total	153		263	44.43		329	55.57		592
+
+	Tinamba										
+			1st Prefs		23	12.50		161	87.50		184
+		"JAGO, John (IND)"	3		0	0.00		3	100.00		3
+		"FRESHWATER, Michael (HAN)"	7		2	28.57		5	71.43		7
+		"MCCUBBIN, Jo (DEM)"	11		5	45.45		6	54.55		11
+		"EVANS, Phillip J (IND)"	8		4	50.00		4	50.00		8
+		"BUCKLEY, Ben (IND)"	1		1	100.00		0	0.00		1
+		"THORPE, Marjorie (IND)"	1		1	100.00		0	0.00		1
+		"WILLIAMS, Frank (CEC)"	1		0	0.00		1	100.00		1
+		"TREASURE, Doug (IND)"	19		8	42.11		11	57.89		19
+		"ROBINSON, Phillip (IND)"	1		0	0.00		1	100.00		1
+		"AITKEN, Chris (GRN)"	6		2	33.33		4	66.67		6
+		Total	58		46	19.01		196	80.99		242
+
+	Toongabbie										
+			1st Prefs		149	46.71		170	53.29		319
+		"JAGO, John (IND)"	8		7	87.50		1	12.50		8
+		"FRESHWATER, Michael (HAN)"	37		26	70.27		11	29.73		37
+		"MCCUBBIN, Jo (DEM)"	23		13	56.52		10	43.48		23
+		"EVANS, Phillip J (IND)"	3		3	100.00		0	0.00		3
+		"BUCKLEY, Ben (IND)"	2		1	50.00		1	50.00		2
+		"THORPE, Marjorie (IND)"	5		2	40.00		3	60.00		5
+		"WILLIAMS, Frank (CEC)"	1		1	100.00		0	0.00		1
+		"TREASURE, Doug (IND)"	11		4	36.36		7	63.64		11
+		"ROBINSON, Phillip (IND)"	0		0	0.00		0	0.00		0
+		"AITKEN, Chris (GRN)"	13		10	76.92		3	23.08		13
+		Total	103		216	51.18		206	48.82		422
+
+	Toora										
+			1st Prefs		123	34.55		233	65.45		356
+		"JAGO, John (IND)"	7		5	71.43		2	28.57		7
+		"FRESHWATER, Michael (HAN)"	37		20	54.05		17	45.95		37
+		"MCCUBBIN, Jo (DEM)"	12		8	66.67		4	33.33		12
+		"EVANS, Phillip J (IND)"	6		3	50.00		3	50.00		6
+		"BUCKLEY, Ben (IND)"	9		4	44.44		5	55.56		9
+		"THORPE, Marjorie (IND)"	0		0	0.00		0	0.00		0
+		"WILLIAMS, Frank (CEC)"	1		0	0.00		1	100.00		1
+		"TREASURE, Doug (IND)"	33		15	45.45		18	54.55		33
+		"ROBINSON, Phillip (IND)"	1		0	0.00		1	100.00		1
+		"AITKEN, Chris (GRN)"	55		41	74.55		14	25.45		55
+		Total	161		219	42.36		298	57.64		517
+
+	Toorloo Arm										
+			1st Prefs		172	42.68		231	57.32		403
+		"JAGO, John (IND)"	8		6	75.00		2	25.00		8
+		"FRESHWATER, Michael (HAN)"	45		32	71.11		13	28.89		45
+		"MCCUBBIN, Jo (DEM)"	19		15	78.95		4	21.05		19
+		"EVANS, Phillip J (IND)"	6		2	33.33		4	66.67		6
+		"BUCKLEY, Ben (IND)"	9		6	66.67		3	33.33		9
+		"THORPE, Marjorie (IND)"	14		10	71.43		4	28.57		14
+		"WILLIAMS, Frank (CEC)"	3		2	66.67		1	33.33		3
+		"TREASURE, Doug (IND)"	19		8	42.11		11	57.89		19
+		"ROBINSON, Phillip (IND)"	5		4	80.00		1	20.00		5
+		"AITKEN, Chris (GRN)"	29		23	79.31		6	20.69		29
+		Total	157		280	50.00		280	50.00		560
+
+	Valencia Creek										
+			1st Prefs		20	26.32		56	73.68		76
+		"JAGO, John (IND)"	4		1	25.00		3	75.00		4
+		"FRESHWATER, Michael (HAN)"	11		9	81.82		2	18.18		11
+		"MCCUBBIN, Jo (DEM)"	9		4	44.44		5	55.56		9
+		"EVANS, Phillip J (IND)"	1		0	0.00		1	100.00		1
+		"BUCKLEY, Ben (IND)"	3		0	0.00		3	100.00		3
+		"THORPE, Marjorie (IND)"	1		0	0.00		1	100.00		1
+		"WILLIAMS, Frank (CEC)"	1		1	100.00		0	0.00		1
+		"TREASURE, Doug (IND)"	10		4	40.00		6	60.00		10
+		"ROBINSON, Phillip (IND)"	1		0	0.00		1	100.00		1
+		"AITKEN, Chris (GRN)"	7		5	71.43		2	28.57		7
+		Total	48		44	35.48		80	64.52		124
+
+	Welshpool										
+			1st Prefs		115	29.79		271	70.21		386
+		"JAGO, John (IND)"	10		9	90.00		1	10.00		10
+		"FRESHWATER, Michael (HAN)"	35		24	68.57		11	31.43		35
+		"MCCUBBIN, Jo (DEM)"	9		7	77.78		2	22.22		9
+		"EVANS, Phillip J (IND)"	8		5	62.50		3	37.50		8
+		"BUCKLEY, Ben (IND)"	13		6	46.15		7	53.85		13
+		"THORPE, Marjorie (IND)"	7		3	42.86		4	57.14		7
+		"WILLIAMS, Frank (CEC)"	2		1	50.00		1	50.00		2
+		"TREASURE, Doug (IND)"	32		9	28.13		23	71.88		32
+		"ROBINSON, Phillip (IND)"	2		0	0.00		2	100.00		2
+		"AITKEN, Chris (GRN)"	28		17	60.71		11	39.29		28
+		Total	146		196	36.84		336	63.16		532
+
+	Wonthaggi										
+			1st Prefs		919	62.18		559	37.82		1478
+		"JAGO, John (IND)"	53		37	69.81		16	30.19		53
+		"FRESHWATER, Michael (HAN)"	72		57	79.17		15	20.83		72
+		"MCCUBBIN, Jo (DEM)"	57		34	59.65		23	40.35		57
+		"EVANS, Phillip J (IND)"	27		14	51.85		13	48.15		27
+		"BUCKLEY, Ben (IND)"	11		7	63.64		4	36.36		11
+		"THORPE, Marjorie (IND)"	13		7	53.85		6	46.15		13
+		"WILLIAMS, Frank (CEC)"	7		5	71.43		2	28.57		7
+		"TREASURE, Doug (IND)"	55		28	50.91		27	49.09		55
+		"ROBINSON, Phillip (IND)"	7		7	100.00		0	0.00		7
+		"AITKEN, Chris (GRN)"	114		82	71.93		32	28.07		114
+		Total	416		1197	63.20		697	36.80		1894
+
+	Wonthaggi North										
+			1st Prefs		755	53.93		645	46.07		1400
+		"JAGO, John (IND)"	43		32	74.42		11	25.58		43
+		"FRESHWATER, Michael (HAN)"	72		58	80.56		14	19.44		72
+		"MCCUBBIN, Jo (DEM)"	66		31	46.97		35	53.03		66
+		"EVANS, Phillip J (IND)"	25		7	28.00		18	72.00		25
+		"BUCKLEY, Ben (IND)"	11		4	36.36		7	63.64		11
+		"THORPE, Marjorie (IND)"	8		6	75.00		2	25.00		8
+		"WILLIAMS, Frank (CEC)"	9		8	88.89		1	11.11		9
+		"TREASURE, Doug (IND)"	47		30	63.83		17	36.17		47
+		"ROBINSON, Phillip (IND)"	18		9	50.00		9	50.00		18
+		"AITKEN, Chris (GRN)"	78		60	76.92		18	23.08		78
+		Total	377		1000	56.27		777	43.73		1777
+
+	Won Wron										
+			1st Prefs		18	28.13		46	71.88		64
+		"JAGO, John (IND)"	2		1	50.00		1	50.00		2
+		"FRESHWATER, Michael (HAN)"	8		7	87.50		1	12.50		8
+		"MCCUBBIN, Jo (DEM)"	4		4	100.00		0	0.00		4
+		"EVANS, Phillip J (IND)"	7		2	28.57		5	71.43		7
+		"BUCKLEY, Ben (IND)"	4		2	50.00		2	50.00		4
+		"THORPE, Marjorie (IND)"	1		1	100.00		0	0.00		1
+		"WILLIAMS, Frank (CEC)"	0		0	0.00		0	0.00		0
+		"TREASURE, Doug (IND)"	10		4	40.00		6	60.00		10
+		"ROBINSON, Phillip (IND)"	1		1	100.00		0	0.00		1
+		"AITKEN, Chris (GRN)"	5		4	80.00		1	20.00		5
+		Total	42		44	41.51		62	58.49		106
+
+	Woodside										
+			1st Prefs		77	36.84		132	63.16		209
+		"JAGO, John (IND)"	19		14	73.68		5	26.32		19
+		"FRESHWATER, Michael (HAN)"	41		37	90.24		4	9.76		41
+		"MCCUBBIN, Jo (DEM)"	8		5	62.50		3	37.50		8
+		"EVANS, Phillip J (IND)"	0		0	0.00		0	0.00		0
+		"BUCKLEY, Ben (IND)"	6		2	33.33		4	66.67		6
+		"THORPE, Marjorie (IND)"	0		0	0.00		0	0.00		0
+		"WILLIAMS, Frank (CEC)"	1		0	0.00		1	100.00		1
+		"TREASURE, Doug (IND)"	40		14	35.00		26	65.00		40
+		"ROBINSON, Phillip (IND)"	5		2	40.00		3	60.00		5
+		"AITKEN, Chris (GRN)"	11		7	63.64		4	36.36		11
+		Total	131		158	46.47		182	53.53		340
+
+	Wurruk										
+			1st Prefs		85	31.25		187	68.75		272
+		"JAGO, John (IND)"	8		6	75.00		2	25.00		8
+		"FRESHWATER, Michael (HAN)"	16		10	62.50		6	37.50		16
+		"MCCUBBIN, Jo (DEM)"	10		5	50.00		5	50.00		10
+		"EVANS, Phillip J (IND)"	5		1	20.00		4	80.00		5
+		"BUCKLEY, Ben (IND)"	3		2	66.67		1	33.33		3
+		"THORPE, Marjorie (IND)"	2		2	100.00		0	0.00		2
+		"WILLIAMS, Frank (CEC)"	0		0	0.00		0	0.00		0
+		"TREASURE, Doug (IND)"	23		11	47.83		12	52.17		23
+		"ROBINSON, Phillip (IND)"	3		3	100.00		0	0.00		3
+		"AITKEN, Chris (GRN)"	8		3	37.50		5	62.50		8
+		Total	78		128	36.57		222	63.43		350
+
+	Wy Yung										
+			1st Prefs		117	22.16		411	77.84		528
+		"JAGO, John (IND)"	7		4	57.14		3	42.86		7
+		"FRESHWATER, Michael (HAN)"	36		19	52.78		17	47.22		36
+		"MCCUBBIN, Jo (DEM)"	26		17	65.38		9	34.62		26
+		"EVANS, Phillip J (IND)"	40		17	42.50		23	57.50		40
+		"BUCKLEY, Ben (IND)"	25		15	60.00		10	40.00		25
+		"THORPE, Marjorie (IND)"	9		5	55.56		4	44.44		9
+		"WILLIAMS, Frank (CEC)"	3		2	66.67		1	33.33		3
+		"TREASURE, Doug (IND)"	35		13	37.14		22	62.86		35
+		"ROBINSON, Phillip (IND)"	3		0	0.00		3	100.00		3
+		"AITKEN, Chris (GRN)"	25		15	60.00		10	40.00		25
+		Total	209		224	30.39		513	69.61		737
+
+	Yanakie										
+			1st Prefs		35	29.17		85	70.83		120
+		"JAGO, John (IND)"	1		1	100.00		0	0.00		1
+		"FRESHWATER, Michael (HAN)"	14		5	35.71		9	64.29		14
+		"MCCUBBIN, Jo (DEM)"	7		5	71.43		2	28.57		7
+		"EVANS, Phillip J (IND)"	2		1	50.00		1	50.00		2
+		"BUCKLEY, Ben (IND)"	0		0	0.00		0	0.00		0
+		"THORPE, Marjorie (IND)"	1		0	0.00		1	100.00		1
+		"WILLIAMS, Frank (CEC)"	0		0	0.00		0	0.00		0
+		"TREASURE, Doug (IND)"	7		4	57.14		3	42.86		7
+		"ROBINSON, Phillip (IND)"	0		0	0.00		0	0.00		0
+		"AITKEN, Chris (GRN)"	16		11	68.75		5	31.25		16
+		Total	48		62	36.90		106	63.10		168
+
+	Yarram										
+			1st Prefs		378	35.43		689	64.57		1067
+		"JAGO, John (IND)"	59		38	64.41		21	35.59		59
+		"FRESHWATER, Michael (HAN)"	62		49	79.03		13	20.97		62
+		"MCCUBBIN, Jo (DEM)"	26		17	65.38		9	34.62		26
+		"EVANS, Phillip J (IND)"	23		10	43.48		13	56.52		23
+		"BUCKLEY, Ben (IND)"	34		21	61.76		13	38.24		34
+		"THORPE, Marjorie (IND)"	8		7	87.50		1	12.50		8
+		"WILLIAMS, Frank (CEC)"	1		1	100.00		0	0.00		1
+		"TREASURE, Doug (IND)"	62		22	35.48		40	64.52		62
+		"ROBINSON, Phillip (IND)"	5		2	40.00		3	60.00		5
+		"AITKEN, Chris (GRN)"	61		40	65.57		21	34.43		61
+		Total	341		585	41.55		823	58.45		1408
+
+	Special Hospitals										
+			1st Prefs		119	28.81		294	71.19		413
+		"JAGO, John (IND)"	22		12	54.55		10	45.45		22
+		"FRESHWATER, Michael (HAN)"	4		3	75.00		1	25.00		4
+		"MCCUBBIN, Jo (DEM)"	7		5	71.43		2	28.57		7
+		"EVANS, Phillip J (IND)"	7		3	42.86		4	57.14		7
+		"BUCKLEY, Ben (IND)"	5		2	40.00		3	60.00		5
+		"THORPE, Marjorie (IND)"	2		1	50.00		1	50.00		2
+		"WILLIAMS, Frank (CEC)"	1		1	100.00		0	0.00		1
+		"TREASURE, Doug (IND)"	16		5	31.25		11	68.75		16
+		"ROBINSON, Phillip (IND)"	1		1	100.00		0	0.00		1
+		"AITKEN, Chris (GRN)"	3		1	33.33		2	66.67		3
+		Total	68		153	31.81		328	68.19		481
+
+	Total Ordinary										
+			1st Prefs		17090	36.09		30259	63.91		47349
+		"JAGO, John (IND)"	1340		853	63.66		487	36.34		1340
+		"FRESHWATER, Michael (HAN)"	3517		2303	65.48		1214	34.52		3517
+		"MCCUBBIN, Jo (DEM)"	2702		1491	55.18		1211	44.82		2702
+		"EVANS, Phillip J (IND)"	1387		590	42.54		797	57.46		1387
+		"BUCKLEY, Ben (IND)"	978		498	50.92		480	49.08		978
+		"THORPE, Marjorie (IND)"	662		309	46.68		353	53.32		662
+		"WILLIAMS, Frank (CEC)"	184		119	64.67		65	35.33		184
+		"TREASURE, Doug (IND)"	3686		1510	40.97		2176	59.03		3686
+		"ROBINSON, Phillip (IND)"	421		253	60.10		168	39.90		421
+		"AITKEN, Chris (GRN)"	3475		2504	72.06		971	27.94		3475
+		Total	18352		27520	41.89		38181	58.11		65701
+
+	ABSENT										
+			1st Prefs		965	39.28		1492	60.72		2457
+		"JAGO, John (IND)"	110		63	57.27		47	42.73		110
+		"FRESHWATER, Michael (HAN)"	173		86	49.71		87	50.29		173
+		"MCCUBBIN, Jo (DEM)"	305		219	71.80		86	28.20		305
+		"EVANS, Phillip J (IND)"	70		34	48.57		36	51.43		70
+		"BUCKLEY, Ben (IND)"	114		56	49.12		58	50.88		114
+		"THORPE, Marjorie (IND)"	50		25	50.00		25	50.00		50
+		"WILLIAMS, Frank (CEC)"	15		9	60.00		6	40.00		15
+		"TREASURE, Doug (IND)"	212		88	41.51		124	58.49		212
+		"ROBINSON, Phillip (IND)"	28		13	46.43		15	53.57		28
+		"AITKEN, Chris (GRN)"	405		276	68.15		129	31.85		405
+		Total	1482		1834	46.56		2105	53.44		3939
+
+	POSTAL										
+			1st Prefs		598	33.94		1164	66.06		1762
+		"JAGO, John (IND)"	44		21	47.73		23	52.27		44
+		"FRESHWATER, Michael (HAN)"	158		74	46.84		84	53.16		158
+		"MCCUBBIN, Jo (DEM)"	111		62	55.86		49	44.14		111
+		"EVANS, Phillip J (IND)"	46		15	32.61		31	67.39		46
+		"BUCKLEY, Ben (IND)"	68		34	50.00		34	50.00		68
+		"THORPE, Marjorie (IND)"	31		22	70.97		9	29.03		31
+		"WILLIAMS, Frank (CEC)"	4		4	100.00		0	0.00		4
+		"TREASURE, Doug (IND)"	127		45	35.43		82	64.57		127
+		"ROBINSON, Phillip (IND)"	13		3	23.08		10	76.92		13
+		"AITKEN, Chris (GRN)"	123		84	68.29		39	31.71		123
+		Total	725		962	38.68		1525	61.32		2487
+
+	PRE_POLL										
+			1st Prefs		724	32.19		1525	67.81		2249
+		"JAGO, John (IND)"	69		46	66.67		23	33.33		69
+		"FRESHWATER, Michael (HAN)"	200		115	57.50		85	42.50		200
+		"MCCUBBIN, Jo (DEM)"	194		102	52.58		92	47.42		194
+		"EVANS, Phillip J (IND)"	43		20	46.51		23	53.49		43
+		"BUCKLEY, Ben (IND)"	81		47	58.02		34	41.98		81
+		"THORPE, Marjorie (IND)"	36		26	72.22		10	27.78		36
+		"WILLIAMS, Frank (CEC)"	16		9	56.25		7	43.75		16
+		"TREASURE, Doug (IND)"	201		82	40.80		119	59.20		201
+		"ROBINSON, Phillip (IND)"	23		12	52.17		11	47.83		23
+		"AITKEN, Chris (GRN)"	183		119	65.03		64	34.97		183
+		Total	1046		1302	39.51		1993	60.49		3295
+
+	PROVISIONAL										
+			1st Prefs		92	44.44		115	55.56		207
+		"JAGO, John (IND)"	16		11	68.75		5	31.25		16
+		"FRESHWATER, Michael (HAN)"	18		10	55.56		8	44.44		18
+		"MCCUBBIN, Jo (DEM)"	19		10	52.63		9	47.37		19
+		"EVANS, Phillip J (IND)"	5		2	40.00		3	60.00		5
+		"BUCKLEY, Ben (IND)"	8		6	75.00		2	25.00		8
+		"THORPE, Marjorie (IND)"	12		5	41.67		7	58.33		12
+		"WILLIAMS, Frank (CEC)"	2		1	50.00		1	50.00		2
+		"TREASURE, Doug (IND)"	23		7	30.43		16	69.57		23
+		"ROBINSON, Phillip (IND)"	2		2	100.00		0	0.00		2
+		"AITKEN, Chris (GRN)"	19		11	57.89		8	42.11		19	
+		Total	124		157	47.43		174	52.57		331	
+
+	Division Summary											
+			1st Prefs		19469	36.04		34555	63.96		54024	
+		"JAGO, John (IND)"	1579		994	62.95		585	37.05		1579	
+		"FRESHWATER, Michael (HAN)"	4066		2588	63.65		1478	36.35		4066	
+		"MCCUBBIN, Jo (DEM)"	3331		1884	56.56		1447	43.44		3331	
+		"EVANS, Phillip J (IND)"	1551		661	42.62		890	57.38		1551	
+		"BUCKLEY, Ben (IND)"	1249		641	51.32		608	48.68		1249	
+		"THORPE, Marjorie (IND)"	791		387	48.93		404	51.07		791	
+		"WILLIAMS, Frank (CEC)"	221		142	64.25		79	35.75		221	
+		"TREASURE, Doug (IND)"	4249		1732	40.76		2517	59.24		4249	
+		"ROBINSON, Phillip (IND)"	487		283	58.11		204	41.89		487	
+		"AITKEN, Chris (GRN)"	4205		2994	71.20		1211	28.80		4205	
+		Total	21729		31775	41.95		43978	58.05		75753	

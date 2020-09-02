@@ -1,0 +1,967 @@
+House of Representatives - 2001 Election: New South Wales											
+Two Candidate Preferred Preference Flow Result 											
+By Polling Place											
+											
+Cowper (79982)											
+		Candidate		"BONFIELD, Jenny"		            	"HARTSUYKER, Luke"		           	Total	
+				CLR		                        	NP		                         		
+				Votes	%	                     	Votes	%	                     		
+	Argents Hill										
+			1st Prefs	26	57.78		19	42.22		45	
+		"MAGUIRE, John (LEF)"	0	0	0.00		0	0.00		0	
+		"WILLEY, John (IND)"	7	5	71.43		2	28.57		7	
+		"NEUSS, Phillip (LP)"	3	1	33.33		2	66.67		3	
+		"VAN BLADEL, Paul (IND)"	0	0	0.00		0	0.00		0	
+		"CRANNY, Jillian (GRN)"	23	19	82.61		4	17.39		23	
+		"FENTON, Michael (DEM)"	5	4	80.00		1	20.00		5	
+		"KORN, Bruce (CTA)"	1	0	0.00		1	100.00		1	
+		"STOKES, Allan (HAN)"	8	1	12.50		7	87.50		8	
+		Total	47	56	60.87		36	39.13		92	
+
+	Bayldon										
+			1st Prefs	740	53.78		636	46.22		1376	
+		"MAGUIRE, John (LEF)"	95	43	45.26		52	54.74		95	
+		"WILLEY, John (IND)"	14	8	57.14		6	42.86		14	
+		"NEUSS, Phillip (LP)"	342	27	7.89		315	92.11		342	
+		"VAN BLADEL, Paul (IND)"	14	10	71.43		4	28.57		14	
+		"CRANNY, Jillian (GRN)"	70	48	68.57		22	31.43		70	
+		"FENTON, Michael (DEM)"	42	26	61.90		16	38.10		42	
+		"KORN, Bruce (CTA)"	63	7	11.11		56	88.89		63	
+		"STOKES, Allan (HAN)"	125	37	29.60		88	70.40		125	
+		Total	765	946	44.18		1195	55.82		2141	
+
+	Bellbrook										
+			1st Prefs	47	55.95		37	44.05		84	
+		"MAGUIRE, John (LEF)"	1	1	100.00		0	0.00		1	
+		"WILLEY, John (IND)"	1	1	100.00		0	0.00		1	
+		"NEUSS, Phillip (LP)"	10	4	40.00		6	60.00		10	
+		"VAN BLADEL, Paul (IND)"	0	0	0.00		0	0.00		0	
+		"CRANNY, Jillian (GRN)"	4	3	75.00		1	25.00		4	
+		"FENTON, Michael (DEM)"	3	3	100.00		0	0.00		3	
+		"KORN, Bruce (CTA)"	2	1	50.00		1	50.00		2	
+		"STOKES, Allan (HAN)"	11	4	36.36		7	63.64		11	
+		Total	32	64	55.17		52	44.83		116	
+
+	Bellimbopinni										
+			1st Prefs	57	48.72		60	51.28		117	
+		"MAGUIRE, John (LEF)"	2	2	100.00		0	0.00		2	
+		"WILLEY, John (IND)"	3	1	33.33		2	66.67		3	
+		"NEUSS, Phillip (LP)"	25	4	16.00		21	84.00		25	
+		"VAN BLADEL, Paul (IND)"	0	0	0.00		0	0.00		0	
+		"CRANNY, Jillian (GRN)"	8	6	75.00		2	25.00		8	
+		"FENTON, Michael (DEM)"	3	2	66.67		1	33.33		3	
+		"KORN, Bruce (CTA)"	0	0	0.00		0	0.00		0	
+		"STOKES, Allan (HAN)"	20	10	50.00		10	50.00		20	
+		Total	61	82	46.07		96	53.93		178	
+
+	Bellingen										
+			1st Prefs	661	59.50		450	40.50		1111	
+		"MAGUIRE, John (LEF)"	37	21	56.76		16	43.24		37	
+		"WILLEY, John (IND)"	20	10	50.00		10	50.00		20	
+		"NEUSS, Phillip (LP)"	213	13	6.10		200	93.90		213	
+		"VAN BLADEL, Paul (IND)"	6	3	50.00		3	50.00		6	
+		"CRANNY, Jillian (GRN)"	380	350	92.11		30	7.89		380	
+		"FENTON, Michael (DEM)"	122	98	80.33		24	19.67		122	
+		"KORN, Bruce (CTA)"	57	11	19.30		46	80.70		57	
+		"STOKES, Allan (HAN)"	70	22	31.43		48	68.57		70	
+		Total	905	1189	58.98		827	41.02		2016	
+
+	Bellingen Hospital										
+			1st Prefs	76	59.84		51	40.16		127	
+		"MAGUIRE, John (LEF)"	2	1	50.00		1	50.00		2	
+		"WILLEY, John (IND)"	1	0	0.00		1	100.00		1	
+		"NEUSS, Phillip (LP)"	12	1	8.33		11	91.67		12	
+		"VAN BLADEL, Paul (IND)"	0	0	0.00		0	0.00		0	
+		"CRANNY, Jillian (GRN)"	28	23	82.14		5	17.86		28	
+		"FENTON, Michael (DEM)"	6	6	100.00		0	0.00		6	
+		"KORN, Bruce (CTA)"	10	1	10.00		9	90.00		10	
+		"STOKES, Allan (HAN)"	5	3	60.00		2	40.00		5	
+		Total	64	111	58.12		80	41.88		191	
+
+	Boambee										
+			1st Prefs	273	35.32		500	64.68		773	
+		"MAGUIRE, John (LEF)"	32	12	37.50		20	62.50		32	
+		"WILLEY, John (IND)"	12	6	50.00		6	50.00		12	
+		"NEUSS, Phillip (LP)"	270	26	9.63		244	90.37		270	
+		"VAN BLADEL, Paul (IND)"	8	2	25.00		6	75.00		8	
+		"CRANNY, Jillian (GRN)"	45	37	82.22		8	17.78		45	
+		"FENTON, Michael (DEM)"	53	34	64.15		19	35.85		53	
+		"KORN, Bruce (CTA)"	61	16	26.23		45	73.77		61	
+		"STOKES, Allan (HAN)"	60	17	28.33		43	71.67		60	
+		Total	541	423	32.19		891	67.81		1314	
+
+	Bonville										
+			1st Prefs	179	35.31		328	64.69		507	
+		"MAGUIRE, John (LEF)"	19	9	47.37		10	52.63		19	
+		"WILLEY, John (IND)"	13	4	30.77		9	69.23		13	
+		"NEUSS, Phillip (LP)"	159	8	5.03		151	94.97		159	
+		"VAN BLADEL, Paul (IND)"	3	1	33.33		2	66.67		3	
+		"CRANNY, Jillian (GRN)"	38	31	81.58		7	18.42		38	
+		"FENTON, Michael (DEM)"	24	11	45.83		13	54.17		24	
+		"KORN, Bruce (CTA)"	24	2	8.33		22	91.67		24	
+		"STOKES, Allan (HAN)"	53	16	30.19		37	69.81		53	
+		Total	333	261	31.07		579	68.93		840	
+
+	Bostobrick										
+			1st Prefs	22	34.92		41	65.08		63	
+		"MAGUIRE, John (LEF)"	2	1	50.00		1	50.00		2	
+		"WILLEY, John (IND)"	2	1	50.00		1	50.00		2	
+		"NEUSS, Phillip (LP)"	4	1	25.00		3	75.00		4	
+		"VAN BLADEL, Paul (IND)"	1	0	0.00		1	100.00		1	
+		"CRANNY, Jillian (GRN)"	8	6	75.00		2	25.00		8	
+		"FENTON, Michael (DEM)"	4	3	75.00		1	25.00		4	
+		"KORN, Bruce (CTA)"	2	0	0.00		2	100.00		2	
+		"STOKES, Allan (HAN)"	11	4	36.36		7	63.64		11	
+		Total	34	38	39.18		59	60.82		97	
+
+	Bowraville										
+			1st Prefs	318	54.36		267	45.64		585	
+		"MAGUIRE, John (LEF)"	26	19	73.08		7	26.92		26	
+		"WILLEY, John (IND)"	37	21	56.76		16	43.24		37	
+		"NEUSS, Phillip (LP)"	148	15	10.14		133	89.86		148	
+		"VAN BLADEL, Paul (IND)"	2	1	50.00		1	50.00		2	
+		"CRANNY, Jillian (GRN)"	96	79	82.29		17	17.71		96	
+		"FENTON, Michael (DEM)"	16	10	62.50		6	37.50		16	
+		"KORN, Bruce (CTA)"	9	2	22.22		7	77.78		9	
+		"STOKES, Allan (HAN)"	113	30	26.55		83	73.45		113	
+		Total	447	495	47.97		537	52.03		1032	
+
+	Brooms Head										
+			1st Prefs	70	60.87		45	39.13		115	
+		"MAGUIRE, John (LEF)"	0	0	0.00		0	0.00		0	
+		"WILLEY, John (IND)"	0	0	0.00		0	0.00		0	
+		"NEUSS, Phillip (LP)"	15	2	13.33		13	86.67		15	
+		"VAN BLADEL, Paul (IND)"	2	2	100.00		0	0.00		2	
+		"CRANNY, Jillian (GRN)"	7	4	57.14		3	42.86		7	
+		"FENTON, Michael (DEM)"	2	2	100.00		0	0.00		2	
+		"KORN, Bruce (CTA)"	0	0	0.00		0	0.00		0	
+		"STOKES, Allan (HAN)"	38	10	26.32		28	73.68		38	
+		Total	64	90	50.28		89	49.72		179	
+
+	Coffs Harbour										
+			1st Prefs	420	41.96		581	58.04		1001	
+		"MAGUIRE, John (LEF)"	60	34	56.67		26	43.33		60	
+		"WILLEY, John (IND)"	14	1	7.14		13	92.86		14	
+		"NEUSS, Phillip (LP)"	246	19	7.72		227	92.28		246	
+		"VAN BLADEL, Paul (IND)"	14	5	35.71		9	64.29		14	
+		"CRANNY, Jillian (GRN)"	88	64	72.73		24	27.27		88	
+		"FENTON, Michael (DEM)"	40	19	47.50		21	52.50		40	
+		"KORN, Bruce (CTA)"	42	7	16.67		35	83.33		42	
+		"STOKES, Allan (HAN)"	94	22	23.40		72	76.60		94	
+		Total	598	591	36.96		1008	63.04		1599	
+
+	Coffs Harbour East										
+			1st Prefs	560	52.73		502	47.27		1062	
+		"MAGUIRE, John (LEF)"	57	33	57.89		24	42.11		57	
+		"WILLEY, John (IND)"	15	9	60.00		6	40.00		15	
+		"NEUSS, Phillip (LP)"	278	26	9.35		252	90.65		278	
+		"VAN BLADEL, Paul (IND)"	19	9	47.37		10	52.63		19	
+		"CRANNY, Jillian (GRN)"	68	56	82.35		12	17.65		68	
+		"FENTON, Michael (DEM)"	36	23	63.89		13	36.11		36	
+		"KORN, Bruce (CTA)"	32	4	12.50		28	87.50		32	
+		"STOKES, Allan (HAN)"	102	27	26.47		75	73.53		102	
+		Total	607	747	44.76		922	55.24		1669	
+
+	Coffs Harbour Hospital										
+			1st Prefs	91	60.26		60	39.74		151	
+		"MAGUIRE, John (LEF)"	11	6	54.55		5	45.45		11	
+		"WILLEY, John (IND)"	2	0	0.00		2	100.00		2	
+		"NEUSS, Phillip (LP)"	38	9	23.68		29	76.32		38	
+		"VAN BLADEL, Paul (IND)"	0	0	0.00		0	0.00		0	
+		"CRANNY, Jillian (GRN)"	14	11	78.57		3	21.43		14	
+		"FENTON, Michael (DEM)"	6	6	100.00		0	0.00		6	
+		"KORN, Bruce (CTA)"	8	3	37.50		5	62.50		8	
+		"STOKES, Allan (HAN)"	9	4	44.44		5	55.56		9	
+		Total	88	130	54.39		109	45.61		239	
+
+	Coffs Harbour Jetty										
+			1st Prefs	334	47.18		374	52.82		708	
+		"MAGUIRE, John (LEF)"	27	19	70.37		8	29.63		27	
+		"WILLEY, John (IND)"	7	3	42.86		4	57.14		7	
+		"NEUSS, Phillip (LP)"	224	17	7.59		207	92.41		224	
+		"VAN BLADEL, Paul (IND)"	15	3	20.00		12	80.00		15	
+		"CRANNY, Jillian (GRN)"	66	48	72.73		18	27.27		66	
+		"FENTON, Michael (DEM)"	36	17	47.22		19	52.78		36	
+		"KORN, Bruce (CTA)"	37	5	13.51		32	86.49		37	
+		"STOKES, Allan (HAN)"	59	9	15.25		50	84.75		59	
+		Total	471	455	38.59		724	61.41		1179	
+
+	Coffs Harbour Narranga										
+			1st Prefs	562	41.85		781	58.15		1343	
+		"MAGUIRE, John (LEF)"	56	30	53.57		26	46.43		56	
+		"WILLEY, John (IND)"	14	5	35.71		9	64.29		14	
+		"NEUSS, Phillip (LP)"	297	20	6.73		277	93.27		297	
+		"VAN BLADEL, Paul (IND)"	19	10	52.63		9	47.37		19	
+		"CRANNY, Jillian (GRN)"	64	51	79.69		13	20.31		64	
+		"FENTON, Michael (DEM)"	45	27	60.00		18	40.00		45	
+		"KORN, Bruce (CTA)"	45	6	13.33		39	86.67		45	
+		"STOKES, Allan (HAN)"	113	46	40.71		67	59.29		113	
+		Total	653	757	37.93		1239	62.07		1996	
+
+	Coffs Harbour St Augustines										
+			1st Prefs	557	43.93		711	56.07		1268	
+		"MAGUIRE, John (LEF)"	58	30	51.72		28	48.28		58	
+		"WILLEY, John (IND)"	17	7	41.18		10	58.82		17	
+		"NEUSS, Phillip (LP)"	298	25	8.39		273	91.61		298	
+		"VAN BLADEL, Paul (IND)"	8	3	37.50		5	62.50		8	
+		"CRANNY, Jillian (GRN)"	87	64	73.56		23	26.44		87	
+		"FENTON, Michael (DEM)"	68	39	57.35		29	42.65		68	
+		"KORN, Bruce (CTA)"	43	4	9.30		39	90.70		43	
+		"STOKES, Allan (HAN)"	98	21	21.43		77	78.57		98	
+		Total	677	750	38.56		1195	61.44		1945	
+
+	Coffs Harbour South										
+			1st Prefs	405	50.63		395	49.38		800	
+		"MAGUIRE, John (LEF)"	31	14	45.16		17	54.84		31	
+		"WILLEY, John (IND)"	15	7	46.67		8	53.33		15	
+		"NEUSS, Phillip (LP)"	183	24	13.11		159	86.89		183	
+		"VAN BLADEL, Paul (IND)"	16	12	75.00		4	25.00		16	
+		"CRANNY, Jillian (GRN)"	52	42	80.77		10	19.23		52	
+		"FENTON, Michael (DEM)"	28	18	64.29		10	35.71		28	
+		"KORN, Bruce (CTA)"	39	5	12.82		34	87.18		39	
+		"STOKES, Allan (HAN)"	63	26	41.27		37	58.73		63	
+		Total	427	553	45.07		674	54.93		1227	
+
+	Coffs Harbour West										
+			1st Prefs	968	46.63		1108	53.37		2076	
+		"MAGUIRE, John (LEF)"	95	55	57.89		40	42.11		95	
+		"WILLEY, John (IND)"	29	13	44.83		16	55.17		29	
+		"NEUSS, Phillip (LP)"	547	43	7.86		504	92.14		547	
+		"VAN BLADEL, Paul (IND)"	15	6	40.00		9	60.00		15	
+		"CRANNY, Jillian (GRN)"	92	66	71.74		26	28.26		92	
+		"FENTON, Michael (DEM)"	72	47	65.28		25	34.72		72	
+		"KORN, Bruce (CTA)"	85	17	20.00		68	80.00		85	
+		"STOKES, Allan (HAN)"	168	44	26.19		124	73.81		168	
+		Total	1103	1259	39.60		1920	60.40		3179	
+
+	Coramba										
+			1st Prefs	102	48.57		108	51.43		210	
+		"MAGUIRE, John (LEF)"	9	2	22.22		7	77.78		9	
+		"WILLEY, John (IND)"	2	1	50.00		1	50.00		2	
+		"NEUSS, Phillip (LP)"	45	6	13.33		39	86.67		45	
+		"VAN BLADEL, Paul (IND)"	1	0	0.00		1	100.00		1	
+		"CRANNY, Jillian (GRN)"	13	8	61.54		5	38.46		13	
+		"FENTON, Michael (DEM)"	16	10	62.50		6	37.50		16	
+		"KORN, Bruce (CTA)"	0	0	0.00		0	0.00		0	
+		"STOKES, Allan (HAN)"	38	14	36.84		24	63.16		38	
+		Total	124	143	42.81		191	57.19		334	
+
+	Corindi										
+			1st Prefs	249	68.98		112	31.02		361	
+		"MAGUIRE, John (LEF)"	17	14	82.35		3	17.65		17	
+		"WILLEY, John (IND)"	7	2	28.57		5	71.43		7	
+		"NEUSS, Phillip (LP)"	104	13	12.50		91	87.50		104	
+		"VAN BLADEL, Paul (IND)"	4	2	50.00		2	50.00		4	
+		"CRANNY, Jillian (GRN)"	34	29	85.29		5	14.71		34	
+		"FENTON, Michael (DEM)"	18	15	83.33		3	16.67		18	
+		"KORN, Bruce (CTA)"	8	4	50.00		4	50.00		8	
+		"STOKES, Allan (HAN)"	79	14	17.72		65	82.28		79	
+		Total	271	342	54.11		290	45.89		632	
+
+	Cowper (Cowper)										
+			1st Prefs	40	47.62		44	52.38		84	
+		"MAGUIRE, John (LEF)"	0	0	0.00		0	0.00		0	
+		"WILLEY, John (IND)"	1	1	100.00		0	0.00		1	
+		"NEUSS, Phillip (LP)"	7	1	14.29		6	85.71		7	
+		"VAN BLADEL, Paul (IND)"	1	0	0.00		1	100.00		1	
+		"CRANNY, Jillian (GRN)"	2	1	50.00		1	50.00		2	
+		"FENTON, Michael (DEM)"	0	0	0.00		0	0.00		0	
+		"KORN, Bruce (CTA)"	1	0	0.00		1	100.00		1	
+		"STOKES, Allan (HAN)"	8	3	37.50		5	62.50		8	
+		Total	20	46	44.23		58	55.77		104	
+
+	Deervale										
+			1st Prefs	10	19.23		42	80.77		52	
+		"MAGUIRE, John (LEF)"	1	1	100.00		0	0.00		1	
+		"WILLEY, John (IND)"	1	1	100.00		0	0.00		1	
+		"NEUSS, Phillip (LP)"	1	0	0.00		1	100.00		1	
+		"VAN BLADEL, Paul (IND)"	0	0	0.00		0	0.00		0	
+		"CRANNY, Jillian (GRN)"	12	7	58.33		5	41.67		12	
+		"FENTON, Michael (DEM)"	6	5	83.33		1	16.67		6	
+		"KORN, Bruce (CTA)"	2	0	0.00		2	100.00		2	
+		"STOKES, Allan (HAN)"	8	1	12.50		7	87.50		8	
+		Total	31	25	30.12		58	69.88		83	
+
+	Dorrigo										
+			1st Prefs	248	36.10		439	63.90		687	
+		"MAGUIRE, John (LEF)"	20	9	45.00		11	55.00		20	
+		"WILLEY, John (IND)"	20	10	50.00		10	50.00		20	
+		"NEUSS, Phillip (LP)"	124	9	7.26		115	92.74		124	
+		"VAN BLADEL, Paul (IND)"	5	3	60.00		2	40.00		5	
+		"CRANNY, Jillian (GRN)"	104	97	93.27		7	6.73		104	
+		"FENTON, Michael (DEM)"	40	26	65.00		14	35.00		40	
+		"KORN, Bruce (CTA)"	25	3	12.00		22	88.00		25	
+		"STOKES, Allan (HAN)"	72	25	34.72		47	65.28		72	
+		Total	410	430	39.20		667	60.80		1097	
+
+	Eungai Creek										
+			1st Prefs	100	57.80		73	42.20		173	
+		"MAGUIRE, John (LEF)"	7	3	42.86		4	57.14		7	
+		"WILLEY, John (IND)"	8	5	62.50		3	37.50		8	
+		"NEUSS, Phillip (LP)"	43	4	9.30		39	90.70		43	
+		"VAN BLADEL, Paul (IND)"	1	0	0.00		1	100.00		1	
+		"CRANNY, Jillian (GRN)"	17	16	94.12		1	5.88		17	
+		"FENTON, Michael (DEM)"	6	2	33.33		4	66.67		6	
+		"KORN, Bruce (CTA)"	4	2	50.00		2	50.00		4	
+		"STOKES, Allan (HAN)"	25	11	44.00		14	56.00		25	
+		Total	111	143	50.35		141	49.65		284	
+
+	Gladstone (Cowper)										
+			1st Prefs	96	48.24		103	51.76		199	
+		"MAGUIRE, John (LEF)"	9	6	66.67		3	33.33		9	
+		"WILLEY, John (IND)"	7	2	28.57		5	71.43		7	
+		"NEUSS, Phillip (LP)"	78	11	14.10		67	85.90		78	
+		"VAN BLADEL, Paul (IND)"	1	0	0.00		1	100.00		1	
+		"CRANNY, Jillian (GRN)"	10	7	70.00		3	30.00		10	
+		"FENTON, Michael (DEM)"	8	6	75.00		2	25.00		8	
+		"KORN, Bruce (CTA)"	1	1	100.00		0	0.00		1	
+		"STOKES, Allan (HAN)"	30	6	20.00		24	80.00		30	
+		Total	144	135	39.36		208	60.64		343	
+
+	Gleniffer										
+			1st Prefs	37	42.53		50	57.47		87	
+		"MAGUIRE, John (LEF)"	0	0	0.00		0	0.00		0	
+		"WILLEY, John (IND)"	4	2	50.00		2	50.00		4	
+		"NEUSS, Phillip (LP)"	19	0	0.00		19	100.00		19	
+		"VAN BLADEL, Paul (IND)"	2	0	0.00		2	100.00		2	
+		"CRANNY, Jillian (GRN)"	33	29	87.88		4	12.12		33	
+		"FENTON, Michael (DEM)"	9	6	66.67		3	33.33		9	
+		"KORN, Bruce (CTA)"	5	2	40.00		3	60.00		5	
+		"STOKES, Allan (HAN)"	5	4	80.00		1	20.00		5	
+		Total	77	80	48.78		84	51.22		164	
+
+	Glenreagh										
+			1st Prefs	138	51.11		132	48.89		270	
+		"MAGUIRE, John (LEF)"	17	14	82.35		3	17.65		17	
+		"WILLEY, John (IND)"	6	3	50.00		3	50.00		6	
+		"NEUSS, Phillip (LP)"	56	7	12.50		49	87.50		56	
+		"VAN BLADEL, Paul (IND)"	4	1	25.00		3	75.00		4	
+		"CRANNY, Jillian (GRN)"	22	20	90.91		2	9.09		22	
+		"FENTON, Michael (DEM)"	12	8	66.67		4	33.33		12	
+		"KORN, Bruce (CTA)"	16	0	0.00		16	100.00		16	
+		"STOKES, Allan (HAN)"	48	15	31.25		33	68.75		48	
+		Total	181	206	45.68		245	54.32		451	
+
+	Gulmarrad										
+			1st Prefs	150	50.00		150	50.00		300	
+		"MAGUIRE, John (LEF)"	3	2	66.67		1	33.33		3	
+		"WILLEY, John (IND)"	2	2	100.00		0	0.00		2	
+		"NEUSS, Phillip (LP)"	40	6	15.00		34	85.00		40	
+		"VAN BLADEL, Paul (IND)"	3	2	66.67		1	33.33		3	
+		"CRANNY, Jillian (GRN)"	5	4	80.00		1	20.00		5	
+		"FENTON, Michael (DEM)"	6	3	50.00		3	50.00		6	
+		"KORN, Bruce (CTA)"	15	2	13.33		13	86.67		15	
+		"STOKES, Allan (HAN)"	60	25	41.67		35	58.33		60	
+		Total	134	196	45.16		238	54.84		434	
+
+	Hat Head										
+			1st Prefs	70	57.38		52	42.62		122	
+		"MAGUIRE, John (LEF)"	6	6	100.00		0	0.00		6	
+		"WILLEY, John (IND)"	4	2	50.00		2	50.00		4	
+		"NEUSS, Phillip (LP)"	24	6	25.00		18	75.00		24	
+		"VAN BLADEL, Paul (IND)"	1	0	0.00		1	100.00		1	
+		"CRANNY, Jillian (GRN)"	6	4	66.67		2	33.33		6	
+		"FENTON, Michael (DEM)"	3	2	66.67		1	33.33		3	
+		"KORN, Bruce (CTA)"	4	0	0.00		4	100.00		4	
+		"STOKES, Allan (HAN)"	17	5	29.41		12	70.59		17	
+		Total	65	95	50.80		92	49.20		187	
+
+	Karangi										
+			1st Prefs	119	45.59		142	54.41		261	
+		"MAGUIRE, John (LEF)"	21	13	61.90		8	38.10		21	
+		"WILLEY, John (IND)"	2	0	0.00		2	100.00		2	
+		"NEUSS, Phillip (LP)"	50	5	10.00		45	90.00		50	
+		"VAN BLADEL, Paul (IND)"	2	1	50.00		1	50.00		2	
+		"CRANNY, Jillian (GRN)"	26	23	88.46		3	11.54		26	
+		"FENTON, Michael (DEM)"	22	13	59.09		9	40.91		22	
+		"KORN, Bruce (CTA)"	9	0	0.00		9	100.00		9	
+		"STOKES, Allan (HAN)"	27	3	11.11		24	88.89		27	
+		Total	159	177	42.14		243	57.86		420	
+
+	Kinchela										
+			1st Prefs	30	38.46		48	61.54		78	
+		"MAGUIRE, John (LEF)"	1	1	100.00		0	0.00		1	
+		"WILLEY, John (IND)"	3	1	33.33		2	66.67		3	
+		"NEUSS, Phillip (LP)"	24	3	12.50		21	87.50		24	
+		"VAN BLADEL, Paul (IND)"	0	0	0.00		0	0.00		0	
+		"CRANNY, Jillian (GRN)"	3	2	66.67		1	33.33		3	
+		"FENTON, Michael (DEM)"	3	1	33.33		2	66.67		3	
+		"KORN, Bruce (CTA)"	1	0	0.00		1	100.00		1	
+		"STOKES, Allan (HAN)"	20	8	40.00		12	60.00		20	
+		Total	55	46	34.59		87	65.41		133	
+
+	Korora										
+			1st Prefs	388	37.93		635	62.07		1023	
+		"MAGUIRE, John (LEF)"	31	15	48.39		16	51.61		31	
+		"WILLEY, John (IND)"	8	2	25.00		6	75.00		8	
+		"NEUSS, Phillip (LP)"	268	23	8.58		245	91.42		268	
+		"VAN BLADEL, Paul (IND)"	29	13	44.83		16	55.17		29	
+		"CRANNY, Jillian (GRN)"	80	53	66.25		27	33.75		80	
+		"FENTON, Michael (DEM)"	41	28	68.29		13	31.71		41	
+		"KORN, Bruce (CTA)"	37	2	5.41		35	94.59		37	
+		"STOKES, Allan (HAN)"	48	9	18.75		39	81.25		48	
+		Total	542	533	34.06		1032	65.94		1565	
+
+	Lowanna										
+			1st Prefs	46	55.42		37	44.58		83	
+		"MAGUIRE, John (LEF)"	0	0	0.00		0	0.00		0	
+		"WILLEY, John (IND)"	2	2	100.00		0	0.00		2	
+		"NEUSS, Phillip (LP)"	5	1	20.00		4	80.00		5	
+		"VAN BLADEL, Paul (IND)"	0	0	0.00		0	0.00		0	
+		"CRANNY, Jillian (GRN)"	14	10	71.43		4	28.57		14	
+		"FENTON, Michael (DEM)"	2	2	100.00		0	0.00		2	
+		"KORN, Bruce (CTA)"	0	0	0.00		0	0.00		0	
+		"STOKES, Allan (HAN)"	19	5	26.32		14	73.68		19	
+		Total	42	66	52.80		59	47.20		125	
+
+	Macksville										
+			1st Prefs	636	46.09		744	53.91		1380	
+		"MAGUIRE, John (LEF)"	53	29	54.72		24	45.28		53	
+		"WILLEY, John (IND)"	31	15	48.39		16	51.61		31	
+		"NEUSS, Phillip (LP)"	412	33	8.01		379	91.99		412	
+		"VAN BLADEL, Paul (IND)"	7	5	71.43		2	28.57		7	
+		"CRANNY, Jillian (GRN)"	64	53	82.81		11	17.19		64	
+		"FENTON, Michael (DEM)"	31	22	70.97		9	29.03		31	
+		"KORN, Bruce (CTA)"	25	2	8.00		23	92.00		25	
+		"STOKES, Allan (HAN)"	225	76	33.78		149	66.22		225	
+		Total	848	871	39.09		1357	60.91		2228	
+
+	Maclean (Cowper)										
+			1st Prefs	421	49.18		435	50.82		856	
+		"MAGUIRE, John (LEF)"	24	18	75.00		6	25.00		24	
+		"WILLEY, John (IND)"	8	1	12.50		7	87.50		8	
+		"NEUSS, Phillip (LP)"	182	18	9.89		164	90.11		182	
+		"VAN BLADEL, Paul (IND)"	7	2	28.57		5	71.43		7	
+		"CRANNY, Jillian (GRN)"	39	30	76.92		9	23.08		39	
+		"FENTON, Michael (DEM)"	22	17	77.27		5	22.73		22	
+		"KORN, Bruce (CTA)"	31	4	12.90		27	87.10		31	
+		"STOKES, Allan (HAN)"	106	29	27.36		77	72.64		106	
+		Total	419	540	42.35		735	57.65		1275	
+
+	Maclean Hospital										
+			1st Prefs	202	51.40		191	48.60		393	
+		"MAGUIRE, John (LEF)"	13	10	76.92		3	23.08		13	
+		"WILLEY, John (IND)"	4	4	100.00		0	0.00		4	
+		"NEUSS, Phillip (LP)"	45	2	4.44		43	95.56		45	
+		"VAN BLADEL, Paul (IND)"	0	0	0.00		0	0.00		0	
+		"CRANNY, Jillian (GRN)"	13	9	69.23		4	30.77		13	
+		"FENTON, Michael (DEM)"	8	5	62.50		3	37.50		8	
+		"KORN, Bruce (CTA)"	8	2	25.00		6	75.00		8	
+		"STOKES, Allan (HAN)"	37	9	24.32		28	75.68		37	
+		Total	128	243	46.64		278	53.36		521	
+
+	Medlow										
+			1st Prefs	56	50.45		55	49.55		111	
+		"MAGUIRE, John (LEF)"	2	0	0.00		2	100.00		2	
+		"WILLEY, John (IND)"	14	9	64.29		5	35.71		14	
+		"NEUSS, Phillip (LP)"	10	3	30.00		7	70.00		10	
+		"VAN BLADEL, Paul (IND)"	1	0	0.00		1	100.00		1	
+		"CRANNY, Jillian (GRN)"	8	5	62.50		3	37.50		8	
+		"FENTON, Michael (DEM)"	7	6	85.71		1	14.29		7	
+		"KORN, Bruce (CTA)"	3	2	66.67		1	33.33		3	
+		"STOKES, Allan (HAN)"	24	5	20.83		19	79.17		24	
+		Total	69	86	47.78		94	52.22		180	
+
+	Missabotti										
+			1st Prefs	25	59.52		17	40.48		42	
+		"MAGUIRE, John (LEF)"	0	0	0.00		0	0.00		0	
+		"WILLEY, John (IND)"	6	2	33.33		4	66.67		6	
+		"NEUSS, Phillip (LP)"	6	0	0.00		6	100.00		6	
+		"VAN BLADEL, Paul (IND)"	1	0	0.00		1	100.00		1	
+		"CRANNY, Jillian (GRN)"	10	9	90.00		1	10.00		10	
+		"FENTON, Michael (DEM)"	1	1	100.00		0	0.00		1	
+		"KORN, Bruce (CTA)"	1	1	100.00		0	0.00		1	
+		"STOKES, Allan (HAN)"	13	3	23.08		10	76.92		13	
+		Total	38	41	51.25		39	48.75		80	
+
+	Moonee Beach										
+			1st Prefs	227	46.14		265	53.86		492	
+		"MAGUIRE, John (LEF)"	19	12	63.16		7	36.84		19	
+		"WILLEY, John (IND)"	3	1	33.33		2	66.67		3	
+		"NEUSS, Phillip (LP)"	146	10	6.85		136	93.15		146	
+		"VAN BLADEL, Paul (IND)"	18	13	72.22		5	27.78		18	
+		"CRANNY, Jillian (GRN)"	26	18	69.23		8	30.77		26	
+		"FENTON, Michael (DEM)"	28	13	46.43		15	53.57		28	
+		"KORN, Bruce (CTA)"	26	3	11.54		23	88.46		26	
+		"STOKES, Allan (HAN)"	43	13	30.23		30	69.77		43	
+		Total	309	310	38.70		491	61.30		801	
+
+	Mullaway										
+			1st Prefs	425	60.37		279	39.63		704	
+		"MAGUIRE, John (LEF)"	34	21	61.76		13	38.24		34	
+		"WILLEY, John (IND)"	17	11	64.71		6	35.29		17	
+		"NEUSS, Phillip (LP)"	178	14	7.87		164	92.13		178	
+		"VAN BLADEL, Paul (IND)"	7	4	57.14		3	42.86		7	
+		"CRANNY, Jillian (GRN)"	92	80	86.96		12	13.04		92	
+		"FENTON, Michael (DEM)"	43	28	65.12		15	34.88		43	
+		"KORN, Bruce (CTA)"	38	2	5.26		36	94.74		38	
+		"STOKES, Allan (HAN)"	73	27	36.99		46	63.01		73	
+		Total	482	612	51.60		574	48.40		1186	
+
+	Mylestom										
+			1st Prefs	133	57.33		99	42.67		232	
+		"MAGUIRE, John (LEF)"	8	8	100.00		0	0.00		8	
+		"WILLEY, John (IND)"	7	3	42.86		4	57.14		7	
+		"NEUSS, Phillip (LP)"	73	10	13.70		63	86.30		73	
+		"VAN BLADEL, Paul (IND)"	1	0	0.00		1	100.00		1	
+		"CRANNY, Jillian (GRN)"	33	25	75.76		8	24.24		33	
+		"FENTON, Michael (DEM)"	12	10	83.33		2	16.67		12	
+		"KORN, Bruce (CTA)"	4	0	0.00		4	100.00		4	
+		"STOKES, Allan (HAN)"	13	2	15.38		11	84.62		13	
+		Total	151	191	49.87		192	50.13		383	
+
+	Nambucca Heads										
+			1st Prefs	975	60.82		628	39.18		1603	
+		"MAGUIRE, John (LEF)"	39	28	71.79		11	28.21		39	
+		"WILLEY, John (IND)"	64	34	53.13		30	46.88		64	
+		"NEUSS, Phillip (LP)"	494	44	8.91		450	91.09		494	
+		"VAN BLADEL, Paul (IND)"	9	5	55.56		4	44.44		9	
+		"CRANNY, Jillian (GRN)"	111	91	81.98		20	18.02		111	
+		"FENTON, Michael (DEM)"	47	28	59.57		19	40.43		47	
+		"KORN, Bruce (CTA)"	49	8	16.33		41	83.67		49	
+		"STOKES, Allan (HAN)"	188	60	31.91		128	68.09		188	
+		Total	1001	1273	48.89		1331	51.11		2604	
+
+	Nana Glen										
+			1st Prefs	182	47.40		202	52.60		384	
+		"MAGUIRE, John (LEF)"	20	12	60.00		8	40.00		20	
+		"WILLEY, John (IND)"	6	0	0.00		6	100.00		6	
+		"NEUSS, Phillip (LP)"	44	9	20.45		35	79.55		44	
+		"VAN BLADEL, Paul (IND)"	6	1	16.67		5	83.33		6	
+		"CRANNY, Jillian (GRN)"	33	31	93.94		2	6.06		33	
+		"FENTON, Michael (DEM)"	15	6	40.00		9	60.00		15	
+		"KORN, Bruce (CTA)"	22	1	4.55		21	95.45		22	
+		"STOKES, Allan (HAN)"	40	17	42.50		23	57.50		40	
+		Total	186	259	45.44		311	54.56		570	
+
+	Newville										
+			1st Prefs	350	60.98		224	39.02		574	
+		"MAGUIRE, John (LEF)"	18	16	88.89		2	11.11		18	
+		"WILLEY, John (IND)"	21	15	71.43		6	28.57		21	
+		"NEUSS, Phillip (LP)"	199	18	9.05		181	90.95		199	
+		"VAN BLADEL, Paul (IND)"	6	4	66.67		2	33.33		6	
+		"CRANNY, Jillian (GRN)"	22	18	81.82		4	18.18		22	
+		"FENTON, Michael (DEM)"	17	11	64.71		6	35.29		17	
+		"KORN, Bruce (CTA)"	16	6	37.50		10	62.50		16	
+		"STOKES, Allan (HAN)"	70	18	25.71		52	74.29		70	
+		Total	369	456	48.36		487	51.64		943	
+
+	Palmers Island										
+			1st Prefs	150	39.89		226	60.11		376	
+		"MAGUIRE, John (LEF)"	11	9	81.82		2	18.18		11	
+		"WILLEY, John (IND)"	3	2	66.67		1	33.33		3	
+		"NEUSS, Phillip (LP)"	70	11	15.71		59	84.29		70	
+		"VAN BLADEL, Paul (IND)"	0	0	0.00		0	0.00		0	
+		"CRANNY, Jillian (GRN)"	17	11	64.71		6	35.29		17	
+		"FENTON, Michael (DEM)"	5	5	100.00		0	0.00		5	
+		"KORN, Bruce (CTA)"	2	1	50.00		1	50.00		2	
+		"STOKES, Allan (HAN)"	43	16	37.21		27	62.79		43	
+		Total	151	205	38.90		322	61.10		527	
+
+	Raleigh										
+			1st Prefs	74	49.01		77	50.99		151	
+		"MAGUIRE, John (LEF)"	6	1	16.67		5	83.33		6	
+		"WILLEY, John (IND)"	10	6	60.00		4	40.00		10	
+		"NEUSS, Phillip (LP)"	44	3	6.82		41	93.18		44	
+		"VAN BLADEL, Paul (IND)"	0	0	0.00		0	0.00		0	
+		"CRANNY, Jillian (GRN)"	15	11	73.33		4	26.67		15	
+		"FENTON, Michael (DEM)"	6	4	66.67		2	33.33		6	
+		"KORN, Bruce (CTA)"	3	1	33.33		2	66.67		3	
+		"STOKES, Allan (HAN)"	24	14	58.33		10	41.67		24	
+		Total	108	114	44.02		145	55.98		259	
+
+	Red Rock										
+			1st Prefs	64	62.14		39	37.86		103	
+		"MAGUIRE, John (LEF)"	3	1	33.33		2	66.67		3	
+		"WILLEY, John (IND)"	2	0	0.00		2	100.00		2	
+		"NEUSS, Phillip (LP)"	22	1	4.55		21	95.45		22	
+		"VAN BLADEL, Paul (IND)"	1	0	0.00		1	100.00		1	
+		"CRANNY, Jillian (GRN)"	13	12	92.31		1	7.69		13	
+		"FENTON, Michael (DEM)"	5	4	80.00		1	20.00		5	
+		"KORN, Bruce (CTA)"	5	0	0.00		5	100.00		5	
+		"STOKES, Allan (HAN)"	8	5	62.50		3	37.50		8	
+		Total	59	87	53.70		75	46.30		162	
+
+	Repton										
+			1st Prefs	50	55.56		40	44.44		90	
+		"MAGUIRE, John (LEF)"	4	3	75.00		1	25.00		4	
+		"WILLEY, John (IND)"	1	0	0.00		1	100.00		1	
+		"NEUSS, Phillip (LP)"	15	2	13.33		13	86.67		15	
+		"VAN BLADEL, Paul (IND)"	1	1	100.00		0	0.00		1	
+		"CRANNY, Jillian (GRN)"	31	29	93.55		2	6.45		31	
+		"FENTON, Michael (DEM)"	11	11	100.00		0	0.00		11	
+		"KORN, Bruce (CTA)"	2	1	50.00		1	50.00		2	
+		"STOKES, Allan (HAN)"	6	1	16.67		5	83.33		6	
+		Total	71	98	60.87		63	39.13		161	
+
+	Sandy Beach										
+			1st Prefs	589	59.08		408	40.92		997	
+		"MAGUIRE, John (LEF)"	54	29	53.70		25	46.30		54	
+		"WILLEY, John (IND)"	12	6	50.00		6	50.00		12	
+		"NEUSS, Phillip (LP)"	227	21	9.25		206	90.75		227	
+		"VAN BLADEL, Paul (IND)"	13	6	46.15		7	53.85		13	
+		"CRANNY, Jillian (GRN)"	96	71	73.96		25	26.04		96	
+		"FENTON, Michael (DEM)"	56	40	71.43		16	28.57		56	
+		"KORN, Bruce (CTA)"	44	8	18.18		36	81.82		44	
+		"STOKES, Allan (HAN)"	102	37	36.27		65	63.73		102	
+		Total	604	807	50.41		794	49.59		1601	
+
+	Sawtell										
+			1st Prefs	654	56.53		503	43.47		1157	
+		"MAGUIRE, John (LEF)"	71	41	57.75		30	42.25		71	
+		"WILLEY, John (IND)"	35	24	68.57		11	31.43		35	
+		"NEUSS, Phillip (LP)"	246	18	7.32		228	92.68		246	
+		"VAN BLADEL, Paul (IND)"	7	3	42.86		4	57.14		7	
+		"CRANNY, Jillian (GRN)"	95	83	87.37		12	12.63		95	
+		"FENTON, Michael (DEM)"	55	43	78.18		12	21.82		55	
+		"KORN, Bruce (CTA)"	28	3	10.71		25	89.29		28	
+		"STOKES, Allan (HAN)"	115	39	33.91		76	66.09		115	
+		Total	652	908	50.19		901	49.81		1809	
+
+	Scotts Head										
+			1st Prefs	191	65.41		101	34.59		292	
+		"MAGUIRE, John (LEF)"	4	4	100.00		0	0.00		4	
+		"WILLEY, John (IND)"	9	5	55.56		4	44.44		9	
+		"NEUSS, Phillip (LP)"	90	7	7.78		83	92.22		90	
+		"VAN BLADEL, Paul (IND)"	1	1	100.00		0	0.00		1	
+		"CRANNY, Jillian (GRN)"	72	60	83.33		12	16.67		72	
+		"FENTON, Michael (DEM)"	4	3	75.00		1	25.00		4	
+		"KORN, Bruce (CTA)"	11	1	9.09		10	90.91		11	
+		"STOKES, Allan (HAN)"	34	10	29.41		24	70.59		34	
+		Total	225	282	54.55		235	45.45		517	
+
+	Smithtown										
+			1st Prefs	161	59.63		109	40.37		270	
+		"MAGUIRE, John (LEF)"	11	9	81.82		2	18.18		11	
+		"WILLEY, John (IND)"	4	1	25.00		3	75.00		4	
+		"NEUSS, Phillip (LP)"	114	8	7.02		106	92.98		114	
+		"VAN BLADEL, Paul (IND)"	2	0	0.00		2	100.00		2	
+		"CRANNY, Jillian (GRN)"	10	7	70.00		3	30.00		10	
+		"FENTON, Michael (DEM)"	5	3	60.00		2	40.00		5	
+		"KORN, Bruce (CTA)"	2	1	50.00		1	50.00		2	
+		"STOKES, Allan (HAN)"	40	11	27.50		29	72.50		40	
+		Total	188	201	43.89		257	56.11		458	
+
+	South West Rocks										
+			1st Prefs	640	66.18		327	33.82		967	
+		"MAGUIRE, John (LEF)"	21	18	85.71		3	14.29		21	
+		"WILLEY, John (IND)"	15	6	40.00		9	60.00		15	
+		"NEUSS, Phillip (LP)"	324	31	9.57		293	90.43		324	
+		"VAN BLADEL, Paul (IND)"	6	4	66.67		2	33.33		6	
+		"CRANNY, Jillian (GRN)"	77	62	80.52		15	19.48		77	
+		"FENTON, Michael (DEM)"	17	9	52.94		8	47.06		17	
+		"KORN, Bruce (CTA)"	7	2	28.57		5	71.43		7	
+		"STOKES, Allan (HAN)"	122	51	41.80		71	58.20		122	
+		Total	589	823	52.89		733	47.11		1556	
+
+	South West Rocks South										
+			1st Prefs	321	58.15		231	41.85		552	
+		"MAGUIRE, John (LEF)"	10	6	60.00		4	40.00		10	
+		"WILLEY, John (IND)"	8	4	50.00		4	50.00		8	
+		"NEUSS, Phillip (LP)"	213	10	4.69		203	95.31		213	
+		"VAN BLADEL, Paul (IND)"	1	0	0.00		1	100.00		1	
+		"CRANNY, Jillian (GRN)"	27	25	92.59		2	7.41		27	
+		"FENTON, Michael (DEM)"	15	10	66.67		5	33.33		15	
+		"KORN, Bruce (CTA)"	2	1	50.00		1	50.00		2	
+		"STOKES, Allan (HAN)"	48	10	20.83		38	79.17		48	
+		Total	324	387	44.18		489	55.82		876	
+
+	Stuarts Point										
+			1st Prefs	301	63.24		175	36.76		476	
+		"MAGUIRE, John (LEF)"	17	15	88.24		2	11.76		17	
+		"WILLEY, John (IND)"	8	4	50.00		4	50.00		8	
+		"NEUSS, Phillip (LP)"	104	11	10.58		93	89.42		104	
+		"VAN BLADEL, Paul (IND)"	5	2	40.00		3	60.00		5	
+		"CRANNY, Jillian (GRN)"	46	41	89.13		5	10.87		46	
+		"FENTON, Michael (DEM)"	19	15	78.95		4	21.05		19	
+		"KORN, Bruce (CTA)"	14	7	50.00		7	50.00		14	
+		"STOKES, Allan (HAN)"	58	18	31.03		40	68.97		58	
+		Total	271	414	55.42		333	44.58		747	
+
+	Sydney (Cowper)										
+			1st Prefs	6	42.86		8	57.14		14	
+		"MAGUIRE, John (LEF)"	0	0	0.00		0	0.00		0	
+		"WILLEY, John (IND)"	2	1	50.00		1	50.00		2	
+		"NEUSS, Phillip (LP)"	3	0	0.00		3	100.00		3	
+		"VAN BLADEL, Paul (IND)"	0	0	0.00		0	0.00		0	
+		"CRANNY, Jillian (GRN)"	3	3	100.00		0	0.00		3	
+		"FENTON, Michael (DEM)"	1	1	100.00		0	0.00		1	
+		"KORN, Bruce (CTA)"	0	0	0.00		0	0.00		0	
+		"STOKES, Allan (HAN)"	2	0	0.00		2	100.00		2	
+		Total	11	11	44.00		14	56.00		25	
+
+	Thora										
+			1st Prefs	52	45.61		62	54.39		114	
+		"MAGUIRE, John (LEF)"	5	4	80.00		1	20.00		5	
+		"WILLEY, John (IND)"	0	0	0.00		0	0.00		0	
+		"NEUSS, Phillip (LP)"	14	1	7.14		13	92.86		14	
+		"VAN BLADEL, Paul (IND)"	2	1	50.00		1	50.00		2	
+		"CRANNY, Jillian (GRN)"	69	65	94.20		4	5.80		69	
+		"FENTON, Michael (DEM)"	11	11	100.00		0	0.00		11	
+		"KORN, Bruce (CTA)"	3	1	33.33		2	66.67		3	
+		"STOKES, Allan (HAN)"	3	2	66.67		1	33.33		3	
+		Total	107	137	61.99		84	38.01		221	
+
+	Toormina										
+			1st Prefs	873	48.85		914	51.15		1787	
+		"MAGUIRE, John (LEF)"	111	59	53.15		52	46.85		111	
+		"WILLEY, John (IND)"	27	10	37.04		17	62.96		27	
+		"NEUSS, Phillip (LP)"	298	37	12.42		261	87.58		298	
+		"VAN BLADEL, Paul (IND)"	15	6	40.00		9	60.00		15	
+		"CRANNY, Jillian (GRN)"	73	51	69.86		22	30.14		73	
+		"FENTON, Michael (DEM)"	61	41	67.21		20	32.79		61	
+		"KORN, Bruce (CTA)"	87	13	14.94		74	85.06		87	
+		"STOKES, Allan (HAN)"	190	50	26.32		140	73.68		190	
+		Total	862	1140	43.04		1509	56.96		2649	
+
+	Tucabia										
+			1st Prefs	94	40.17		140	59.83		234	
+		"MAGUIRE, John (LEF)"	5	2	40.00		3	60.00		5	
+		"WILLEY, John (IND)"	1	1	100.00		0	0.00		1	
+		"NEUSS, Phillip (LP)"	25	2	8.00		23	92.00		25	
+		"VAN BLADEL, Paul (IND)"	2	0	0.00		2	100.00		2	
+		"CRANNY, Jillian (GRN)"	23	22	95.65		1	4.35		23	
+		"FENTON, Michael (DEM)"	16	13	81.25		3	18.75		16	
+		"KORN, Bruce (CTA)"	1	0	0.00		1	100.00		1	
+		"STOKES, Allan (HAN)"	26	11	42.31		15	57.69		26	
+		Total	99	145	43.54		188	56.46		333	
+
+	Ulmarra										
+			1st Prefs	147	36.03		261	63.97		408	
+		"MAGUIRE, John (LEF)"	11	8	72.73		3	27.27		11	
+		"WILLEY, John (IND)"	6	3	50.00		3	50.00		6	
+		"NEUSS, Phillip (LP)"	35	6	17.14		29	82.86		35	
+		"VAN BLADEL, Paul (IND)"	1	0	0.00		1	100.00		1	
+		"CRANNY, Jillian (GRN)"	14	14	100.00		0	0.00		14	
+		"FENTON, Michael (DEM)"	11	7	63.64		4	36.36		11	
+		"KORN, Bruce (CTA)"	15	2	13.33		13	86.67		15	
+		"STOKES, Allan (HAN)"	63	16	25.40		47	74.60		63	
+		Total	156	203	35.99		361	64.01		564	
+
+	Ulong										
+			1st Prefs	33	57.89		24	42.11		57	
+		"MAGUIRE, John (LEF)"	3	3	100.00		0	0.00		3	
+		"WILLEY, John (IND)"	0	0	0.00		0	0.00		0	
+		"NEUSS, Phillip (LP)"	6	2	33.33		4	66.67		6	
+		"VAN BLADEL, Paul (IND)"	3	0	0.00		3	100.00		3	
+		"CRANNY, Jillian (GRN)"	8	7	87.50		1	12.50		8	
+		"FENTON, Michael (DEM)"	2	2	100.00		0	0.00		2	
+		"KORN, Bruce (CTA)"	1	1	100.00		0	0.00		1	
+		"STOKES, Allan (HAN)"	13	2	15.38		11	84.62		13	
+		Total	36	50	53.76		43	46.24		93	
+
+	Upper Orara										
+			1st Prefs	79	42.02		109	57.98		188	
+		"MAGUIRE, John (LEF)"	6	4	66.67		2	33.33		6	
+		"WILLEY, John (IND)"	3	1	33.33		2	66.67		3	
+		"NEUSS, Phillip (LP)"	22	3	13.64		19	86.36		22	
+		"VAN BLADEL, Paul (IND)"	2	0	0.00		2	100.00		2	
+		"CRANNY, Jillian (GRN)"	20	19	95.00		1	5.00		20	
+		"FENTON, Michael (DEM)"	7	4	57.14		3	42.86		7	
+		"KORN, Bruce (CTA)"	3	0	0.00		3	100.00		3	
+		"STOKES, Allan (HAN)"	28	7	25.00		21	75.00		28	
+		Total	91	117	41.94		162	58.06		279	
+
+	Urunga										
+			1st Prefs	701	59.46		478	40.54		1179	
+		"MAGUIRE, John (LEF)"	23	15	65.22		8	34.78		23	
+		"WILLEY, John (IND)"	74	36	48.65		38	51.35		74	
+		"NEUSS, Phillip (LP)"	317	34	10.73		283	89.27		317	
+		"VAN BLADEL, Paul (IND)"	11	8	72.73		3	27.27		11	
+		"CRANNY, Jillian (GRN)"	85	68	80.00		17	20.00		85	
+		"FENTON, Michael (DEM)"	38	27	71.05		11	28.95		38	
+		"KORN, Bruce (CTA)"	22	7	31.82		15	68.18		22	
+		"STOKES, Allan (HAN)"	124	43	34.68		81	65.32		124	
+		Total	694	939	50.13		934	49.87		1873	
+
+	Utungun										
+			1st Prefs	32	34.41		61	65.59		93	
+		"MAGUIRE, John (LEF)"	4	3	75.00		1	25.00		4	
+		"WILLEY, John (IND)"	7	2	28.57		5	71.43		7	
+		"NEUSS, Phillip (LP)"	29	3	10.34		26	89.66		29	
+		"VAN BLADEL, Paul (IND)"	1	1	100.00		0	0.00		1	
+		"CRANNY, Jillian (GRN)"	9	8	88.89		1	11.11		9	
+		"FENTON, Michael (DEM)"	2	2	100.00		0	0.00		2	
+		"KORN, Bruce (CTA)"	5	1	20.00		4	80.00		5	
+		"STOKES, Allan (HAN)"	16	5	31.25		11	68.75		16	
+		Total	73	57	34.34		109	65.66		166	
+
+	Valla Beach										
+			1st Prefs	250	62.03		153	37.97		403	
+		"MAGUIRE, John (LEF)"	15	11	73.33		4	26.67		15	
+		"WILLEY, John (IND)"	54	25	46.30		29	53.70		54	
+		"NEUSS, Phillip (LP)"	130	12	9.23		118	90.77		130	
+		"VAN BLADEL, Paul (IND)"	3	0	0.00		3	100.00		3	
+		"CRANNY, Jillian (GRN)"	80	62	77.50		18	22.50		80	
+		"FENTON, Michael (DEM)"	24	20	83.33		4	16.67		24	
+		"KORN, Bruce (CTA)"	15	2	13.33		13	86.67		15	
+		"STOKES, Allan (HAN)"	43	12	27.91		31	72.09		43	
+		Total	364	394	51.37		373	48.63		767	
+
+	Vere Street (Cowper)										
+			1st Prefs	124	56.11		97	43.89		221	
+		"MAGUIRE, John (LEF)"	7	4	57.14		3	42.86		7	
+		"WILLEY, John (IND)"	6	1	16.67		5	83.33		6	
+		"NEUSS, Phillip (LP)"	37	7	18.92		30	81.08		37	
+		"VAN BLADEL, Paul (IND)"	2	1	50.00		1	50.00		2	
+		"CRANNY, Jillian (GRN)"	14	11	78.57		3	21.43		14	
+		"FENTON, Michael (DEM)"	6	5	83.33		1	16.67		6	
+		"KORN, Bruce (CTA)"	9	3	33.33		6	66.67		9	
+		"STOKES, Allan (HAN)"	20	10	50.00		10	50.00		20	
+		Total	101	166	51.55		156	48.45		322	
+
+	Warrell Creek										
+			1st Prefs	37	26.43		103	73.57		140	
+		"MAGUIRE, John (LEF)"	2	1	50.00		1	50.00		2	
+		"WILLEY, John (IND)"	6	3	50.00		3	50.00		6	
+		"NEUSS, Phillip (LP)"	34	3	8.82		31	91.18		34	
+		"VAN BLADEL, Paul (IND)"	0	0	0.00		0	0.00		0	
+		"CRANNY, Jillian (GRN)"	1	1	100.00		0	0.00		1	
+		"FENTON, Michael (DEM)"	1	1	100.00		0	0.00		1	
+		"KORN, Bruce (CTA)"	1	1	100.00		0	0.00		1	
+		"STOKES, Allan (HAN)"	39	6	15.38		33	84.62		39	
+		Total	84	53	23.66		171	76.34		224	
+
+	Willawarrin										
+			1st Prefs	117	53.42		102	46.58		219	
+		"MAGUIRE, John (LEF)"	7	5	71.43		2	28.57		7	
+		"WILLEY, John (IND)"	4	1	25.00		3	75.00		4	
+		"NEUSS, Phillip (LP)"	34	7	20.59		27	79.41		34	
+		"VAN BLADEL, Paul (IND)"	1	1	100.00		0	0.00		1	
+		"CRANNY, Jillian (GRN)"	15	14	93.33		1	6.67		15	
+		"FENTON, Michael (DEM)"	9	8	88.89		1	11.11		9	
+		"KORN, Bruce (CTA)"	0	0	0.00		0	0.00		0	
+		"STOKES, Allan (HAN)"	69	20	28.99		49	71.01		69	
+		Total	139	173	48.32		185	51.68		358	
+
+	Woolgoolga										
+			1st Prefs	955	56.04		749	43.96		1704	
+		"MAGUIRE, John (LEF)"	76	46	60.53		30	39.47		76	
+		"WILLEY, John (IND)"	23	9	39.13		14	60.87		23	
+		"NEUSS, Phillip (LP)"	375	35	9.33		340	90.67		375	
+		"VAN BLADEL, Paul (IND)"	15	8	53.33		7	46.67		15	
+		"CRANNY, Jillian (GRN)"	120	93	77.50		27	22.50		120	
+		"FENTON, Michael (DEM)"	61	45	73.77		16	26.23		61	
+		"KORN, Bruce (CTA)"	41	8	19.51		33	80.49		41	
+		"STOKES, Allan (HAN)"	170	55	32.35		115	67.65		170	
+		Total	881	1254	48.51		1331	51.49		2585	
+
+	Wooli										
+			1st Prefs	169	66.02		87	33.98		256	
+		"MAGUIRE, John (LEF)"	12	9	75.00		3	25.00		12	
+		"WILLEY, John (IND)"	3	1	33.33		2	66.67		3	
+		"NEUSS, Phillip (LP)"	90	8	8.89		82	91.11		90	
+		"VAN BLADEL, Paul (IND)"	3	1	33.33		2	66.67		3	
+		"CRANNY, Jillian (GRN)"	51	46	90.20		5	9.80		51	
+		"FENTON, Michael (DEM)"	7	5	71.43		2	28.57		7	
+		"KORN, Bruce (CTA)"	5	3	60.00		2	40.00		5	
+		"STOKES, Allan (HAN)"	56	20	35.71		36	64.29		56	
+		Total	227	262	54.24		221	45.76		483	
+
+	Yamba										
+			1st Prefs	545	57.86		397	42.14		942	
+		"MAGUIRE, John (LEF)"	36	27	75.00		9	25.00		36	
+		"WILLEY, John (IND)"	8	3	37.50		5	62.50		8	
+		"NEUSS, Phillip (LP)"	337	25	7.42		312	92.58		337	
+		"VAN BLADEL, Paul (IND)"	3	2	66.67		1	33.33		3	
+		"CRANNY, Jillian (GRN)"	130	103	79.23		27	20.77		130	
+		"FENTON, Michael (DEM)"	40	29	72.50		11	27.50		40	
+		"KORN, Bruce (CTA)"	13	8	61.54		5	38.46		13	
+		"STOKES, Allan (HAN)"	105	29	27.62		76	72.38		105	
+		Total	672	771	47.77		843	52.23		1614	
+
+	Yamba West										
+			1st Prefs	537	59.73		362	40.27		899	
+		"MAGUIRE, John (LEF)"	17	11	64.71		6	35.29		17	
+		"WILLEY, John (IND)"	12	8	66.67		4	33.33		12	
+		"NEUSS, Phillip (LP)"	324	22	6.79		302	93.21		324	
+		"VAN BLADEL, Paul (IND)"	4	2	50.00		2	50.00		4	
+		"CRANNY, Jillian (GRN)"	37	30	81.08		7	18.92		37	
+		"FENTON, Michael (DEM)"	28	17	60.71		11	39.29		28	
+		"KORN, Bruce (CTA)"	21	7	33.33		14	66.67		21	
+		"STOKES, Allan (HAN)"	143	38	26.57		105	73.43		143	
+		Total	586	672	45.25		813	54.75		1485	
+
+	Special Hospitals										
+			1st Prefs	169	57.88		123	42.12		292	
+		"MAGUIRE, John (LEF)"	14	13	92.86		1	7.14		14	
+		"WILLEY, John (IND)"	4	2	50.00		2	50.00		4	
+		"NEUSS, Phillip (LP)"	98	7	7.14		91	92.86		98	
+		"VAN BLADEL, Paul (IND)"	2	2	100.00		0	0.00		2	
+		"CRANNY, Jillian (GRN)"	3	2	66.67		1	33.33		3	
+		"FENTON, Michael (DEM)"	2	1	50.00		1	50.00		2	
+		"KORN, Bruce (CTA)"	3	0	0.00		3	100.00		3	
+		"STOKES, Allan (HAN)"	18	7	38.89		11	61.11		18	
+		Total	144	203	46.56		233	53.44		436	
+
+	Total Ordinary										
+			1st Prefs	19936	51.58		18718	48.42		38654	
+		"MAGUIRE, John (LEF)"	1549	931	60.10		618	39.90		1549	
+		"WILLEY, John (IND)"	828	398	48.07		430	51.93		828	
+		"NEUSS, Phillip (LP)"	9666	878	9.08		8788	90.92		9666	
+		"VAN BLADEL, Paul (IND)"	366	173	47.27		193	52.73		366	
+		"CRANNY, Jillian (GRN)"	3324	2718	81.77		606	18.23		3324	
+		"FENTON, Michael (DEM)"	1559	1055	67.67		504	32.33		1559	
+		"KORN, Bruce (CTA)"	1276	221	17.32		1055	82.68		1276	
+		"STOKES, Allan (HAN)"	4284	1305	30.46		2979	69.54		4284	
+		Total	22852	27615	44.90		33891	55.10		61506	
+
+	ABSENT										
+			1st Prefs	1333	60.78		860	39.22		2193	
+		"MAGUIRE, John (LEF)"	170	99	58.24		71	41.76		170	
+		"WILLEY, John (IND)"	72	31	43.06		41	56.94		72	
+		"NEUSS, Phillip (LP)"	679	132	19.44		547	80.56		679	
+		"VAN BLADEL, Paul (IND)"	33	13	39.39		20	60.61		33	
+		"CRANNY, Jillian (GRN)"	356	275	77.25		81	22.75		356	
+		"FENTON, Michael (DEM)"	205	135	65.85		70	34.15		205	
+		"KORN, Bruce (CTA)"	80	28	35.00		52	65.00		80	
+		"STOKES, Allan (HAN)"	317	141	44.48		176	55.52		317	
+		Total	1912	2187	53.28		1918	46.72		4105	
+
+	POSTAL										
+			1st Prefs	909	52.27		830	47.73		1739	
+		"MAGUIRE, John (LEF)"	39	21	53.85		18	46.15		39	
+		"WILLEY, John (IND)"	18	7	38.89		11	61.11		18	
+		"NEUSS, Phillip (LP)"	482	33	6.85		449	93.15		482	
+		"VAN BLADEL, Paul (IND)"	12	4	33.33		8	66.67		12	
+		"CRANNY, Jillian (GRN)"	85	72	84.71		13	15.29		85	
+		"FENTON, Michael (DEM)"	67	42	62.69		25	37.31		67	
+		"KORN, Bruce (CTA)"	39	6	15.38		33	84.62		39	
+		"STOKES, Allan (HAN)"	210	86	40.95		124	59.05		210	
+		Total	952	1180	43.85		1511	56.15		2691	
+
+	PRE_POLL										
+			1st Prefs	1195	47.82		1304	52.18		2499	
+		"MAGUIRE, John (LEF)"	107	64	59.81		43	40.19		107	
+		"WILLEY, John (IND)"	44	18	40.91		26	59.09		44	
+		"NEUSS, Phillip (LP)"	754	94	12.47		660	87.53		754	
+		"VAN BLADEL, Paul (IND)"	35	17	48.57		18	51.43		35	
+		"CRANNY, Jillian (GRN)"	219	180	82.19		39	17.81		219	
+		"FENTON, Michael (DEM)"	131	82	62.60		49	37.40		131	
+		"KORN, Bruce (CTA)"	66	15	22.73		51	77.27		66	
+		"STOKES, Allan (HAN)"	325	98	30.15		227	69.85		325	
+		Total	1681	1763	42.18		2417	57.82		4180	
+
+	PROVISIONAL										
+			1st Prefs	242	64.36		134	35.64		376	
+		"MAGUIRE, John (LEF)"	39	26	66.67		13	33.33		39	
+		"WILLEY, John (IND)"	11	5	45.45		6	54.55		11	
+		"NEUSS, Phillip (LP)"	82	13	15.85		69	84.15		82	
+		"VAN BLADEL, Paul (IND)"	6	3	50.00		3	50.00		6	
+		"CRANNY, Jillian (GRN)"	49	38	77.55		11	22.45		49	
+		"FENTON, Michael (DEM)"	16	11	68.75		5	31.25		16	
+		"KORN, Bruce (CTA)"	11	2	18.18		9	81.82		11	
+		"STOKES, Allan (HAN)"	28	9	32.14		19	67.86		28	
+		Total	242	349	56.47		269	43.53		618	
+
+	Division Summary										
+			1st Prefs	23615	51.95		21846	48.05		45461	
+		"MAGUIRE, John (LEF)"	1904	1141	59.93		763	40.07		1904	
+		"WILLEY, John (IND)"	973	459	47.17		514	52.83		973	
+		"NEUSS, Phillip (LP)"	11663	1150	9.86		10513	90.14		11663	
+		"VAN BLADEL, Paul (IND)"	452	210	46.46		242	53.54		452	
+		"CRANNY, Jillian (GRN)"	4033	3283	81.40		750	18.60		4033	
+		"FENTON, Michael (DEM)"	1978	1325	66.99		653	33.01		1978	
+		"KORN, Bruce (CTA)"	1472	272	18.48		1200	81.52		1472	
+		"STOKES, Allan (HAN)"	5164	1639	31.74		3525	68.26		5164	
+		Total	27639	33094	45.27		40006	54.73		73100	

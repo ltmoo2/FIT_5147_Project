@@ -1,0 +1,414 @@
+House of Representatives - 2001 Election: South Australia												
+Two Candidate Preferred Preference Flow Result												
+By Polling Place												
+												
+Adelaide (86538)												
+		Candidate			"STANLEY, Tim"		               	"WORTH, Trish"		               	Total	
+					ALP		                        	LP		                         		
+					Votes	%	                     	Votes	%	                     		
+	Adelaide (Adelaide)											
+			1st Prefs		109	49.32		112	50.68		221	
+		"OSBORN, Lynne (GRN)"	33		28	84.85		5	15.15		33	
+		"PEACOCK, Lee (HAN)"	7		4	57.14		3	42.86		7	
+		"MANN, Sue (DEM)"	59		46	77.97		13	22.03		59	
+		Total	99		187	58.44		133	41.56		320	
+												
+	Adelaide East											
+			1st Prefs		258	37.94		422	62.06		680
+		"OSBORN, Lynne (GRN)"	87		76	87.36		11	12.64		87
+		"PEACOCK, Lee (HAN)"	12		3	25.00		9	75.00		12
+		"MANN, Sue (DEM)"	113		83	73.45		30	26.55		113
+		Total	212		420	47.09		472	52.91		892
+
+	Adelaide Hospital										
+			1st Prefs		93	38.43		149	61.57		242
+		"OSBORN, Lynne (GRN)"	44		34	77.27		10	22.73		44
+		"PEACOCK, Lee (HAN)"	5		4	80.00		1	20.00		5
+		"MANN, Sue (DEM)"	56		33	58.93		23	41.07		56
+		Total	105		164	47.26		183	52.74		347
+
+	Adelaide South										
+			1st Prefs		591	49.41		605	50.59		1196
+		"OSBORN, Lynne (GRN)"	170		145	85.29		25	14.71		170
+		"PEACOCK, Lee (HAN)"	16		7	43.75		9	56.25		16
+		"MANN, Sue (DEM)"	209		151	72.25		58	27.75		209
+		Total	395		894	56.19		697	43.81		1591
+
+	Adelaide West										
+			1st Prefs		175	61.40		110	38.60		285
+		"OSBORN, Lynne (GRN)"	36		32	88.89		4	11.11		36
+		"PEACOCK, Lee (HAN)"	7		4	57.14		3	42.86		7
+		"MANN, Sue (DEM)"	55		38	69.09		17	30.91		55
+		Total	98		249	65.01		134	34.99		383
+
+	Black Forest East										
+			1st Prefs		701	44.01		892	55.99		1593
+		"OSBORN, Lynne (GRN)"	125		104	83.20		21	16.80		125
+		"PEACOCK, Lee (HAN)"	26		10	38.46		16	61.54		26
+		"MANN, Sue (DEM)"	262		177	67.56		85	32.44		262
+		Total	413		992	49.45		1014	50.55		2006
+
+	Blair Athol North										
+			1st Prefs		742	64.02		417	35.98		1159
+		"OSBORN, Lynne (GRN)"	39		30	76.92		9	23.08		39
+		"PEACOCK, Lee (HAN)"	43		20	46.51		23	53.49		43
+		"MANN, Sue (DEM)"	119		81	68.07		38	31.93		119
+		Total	201		873	64.19		487	35.81		1360
+
+	Broadview										
+			1st Prefs		609	37.57		1012	62.43		1621
+		"OSBORN, Lynne (GRN)"	75		59	78.67		16	21.33		75
+		"PEACOCK, Lee (HAN)"	28		8	28.57		20	71.43		28
+		"MANN, Sue (DEM)"	201		120	59.70		81	40.30		201
+		Total	304		796	41.35		1129	58.65		1925
+											
+	Brompton										
+			1st Prefs		613	63.39		354	36.61		967
+		"OSBORN, Lynne (GRN)"	131		120	91.60		11	8.40		131
+		"PEACOCK, Lee (HAN)"	31		23	74.19		8	25.81		31
+		"MANN, Sue (DEM)"	181		122	67.40		59	32.60		181
+		Total	343		878	67.02		432	32.98		1310
+
+	Clarence Park										
+			1st Prefs		333	37.04		566	62.96		899
+		"OSBORN, Lynne (GRN)"	70		58	82.86		12	17.14		70
+		"PEACOCK, Lee (HAN)"	21		8	38.10		13	61.90		21
+		"MANN, Sue (DEM)"	131		74	56.49		57	43.51		131
+		Total	222		473	42.19		648	57.81		1121
+
+	College Park										
+			1st Prefs		321	34.37		613	65.63		934
+		"OSBORN, Lynne (GRN)"	84		63	75.00		21	25.00		84
+		"PEACOCK, Lee (HAN)"	22		10	45.45		12	54.55		22
+		"MANN, Sue (DEM)"	115		70	60.87		45	39.13		115
+		Total	221		464	40.17		691	59.83		1155
+
+	Croydon (Adelaide)										
+			1st Prefs		174	62.82		103	37.18		277
+		"OSBORN, Lynne (GRN)"	20		17	85.00		3	15.00		20
+		"PEACOCK, Lee (HAN)"	9		4	44.44		5	55.56		9
+		"MANN, Sue (DEM)"	26		21	80.77		5	19.23		26
+		Total	55		216	65.06		116	34.94		332
+
+	Croydon Park										
+			1st Prefs		975	68.09		457	31.91		1432
+		"OSBORN, Lynne (GRN)"	34		23	67.65		11	32.35		34
+		"PEACOCK, Lee (HAN)"	66		37	56.06		29	43.94		66
+		"MANN, Sue (DEM)"	110		70	63.64		40	36.36		110
+		Total	210		1105	67.30		537	32.70		1642
+
+	Croydon Park West (Adelaide)										
+			1st Prefs		261	70.54		109	29.46		370
+		"OSBORN, Lynne (GRN)"	10		7	70.00		3	30.00		10
+		"PEACOCK, Lee (HAN)"	11		6	54.55		5	45.45		11
+		"MANN, Sue (DEM)"	27		20	74.07		7	25.93		27
+		Total	48		294	70.33		124	29.67		418
+
+	Enfield										
+			1st Prefs		546	49.59		555	50.41		1101
+		"OSBORN, Lynne (GRN)"	32		23	71.88		9	28.13		32
+		"PEACOCK, Lee (HAN)"	50		28	56.00		22	44.00		50
+		"MANN, Sue (DEM)"	120		78	65.00		42	35.00		120
+		Total	202		675	51.80		628	48.20		1303
+
+	Enfield North (Adelaide)										
+			1st Prefs		535	56.55		411	43.45		946
+		"OSBORN, Lynne (GRN)"	39		24	61.54		15	38.46		39
+		"PEACOCK, Lee (HAN)"	45		24	53.33		21	46.67		45
+		"MANN, Sue (DEM)"	107		78	72.90		29	27.10		107
+		Total	191		661	58.14		476	41.86		1137
+
+	Enfield South										
+			1st Prefs		485	49.24		500	50.76		985
+		"OSBORN, Lynne (GRN)"	48		33	68.75		15	31.25		48
+		"PEACOCK, Lee (HAN)"	35		17	48.57		18	51.43		35
+		"MANN, Sue (DEM)"	107		71	66.36		36	33.64		107
+		Total	190		606	51.57		569	48.43		1175
+											
+	Everard Park										
+			1st Prefs		260	45.14		316	54.86		576
+		"OSBORN, Lynne (GRN)"	40		28	70.00		12	30.00		40
+		"PEACOCK, Lee (HAN)"	20		9	45.00		11	55.00		20
+		"MANN, Sue (DEM)"	89		53	59.55		36	40.45		89
+		Total	149		350	48.28		375	51.72		725
+
+	Fullarton										
+			1st Prefs		656	34.93		1222	65.07		1878
+		"OSBORN, Lynne (GRN)"	137		115	83.94		22	16.06		137
+		"PEACOCK, Lee (HAN)"	40		18	45.00		22	55.00		40
+		"MANN, Sue (DEM)"	232		133	57.33		99	42.67		232
+		Total	409		922	40.31		1365	59.69		2287
+
+	Goodwood										
+			1st Prefs		787	54.13		667	45.87		1454
+		"OSBORN, Lynne (GRN)"	181		155	85.64		26	14.36		181
+		"PEACOCK, Lee (HAN)"	22		15	68.18		7	31.82		22
+		"MANN, Sue (DEM)"	260		194	74.62		66	25.38		260
+		Total	463		1151	60.04		766	39.96		1917
+
+	Goodwood Park										
+			1st Prefs		304	53.71		262	46.29		566
+		"OSBORN, Lynne (GRN)"	40		29	72.50		11	27.50		40
+		"PEACOCK, Lee (HAN)"	8		4	50.00		4	50.00		8
+		"MANN, Sue (DEM)"	64		42	65.63		22	34.38		64
+		Total	112		379	55.90		299	44.10		678
+
+	Greenacres										
+			1st Prefs		533	50.47		523	49.53		1056
+		"OSBORN, Lynne (GRN)"	55		43	78.18		12	21.82		55
+		"PEACOCK, Lee (HAN)"	78		46	58.97		32	41.03		78
+		"MANN, Sue (DEM)"	157		107	68.15		50	31.85		157
+		Total	290		729	54.16		617	45.84		1346
+
+	Hampstead Gardens										
+			1st Prefs		375	48.76		394	51.24		769
+		"OSBORN, Lynne (GRN)"	38		28	73.68		10	26.32		38
+		"PEACOCK, Lee (HAN)"	16		6	37.50		10	62.50		16
+		"MANN, Sue (DEM)"	72		42	58.33		30	41.67		72
+		Total	126		451	50.39		444	49.61		895
+
+	Hindmarsh										
+			1st Prefs		39	60.00		26	40.00		65
+		"OSBORN, Lynne (GRN)"	11		9	81.82		2	18.18		11
+		"PEACOCK, Lee (HAN)"	0		0	0.00		0	0.00		0
+		"MANN, Sue (DEM)"	6		4	66.67		2	33.33		6
+		Total	17		52	63.41		30	36.59		82
+											
+	Hyde Park										
+			1st Prefs		365	26.58		1008	73.42		1373
+		"OSBORN, Lynne (GRN)"	91		69	75.82		22	24.18		91
+		"PEACOCK, Lee (HAN)"	14		4	28.57		10	71.43		14
+		"MANN, Sue (DEM)"	110		67	60.91		43	39.09		110
+		Total	215		505	31.80		1083	68.20		1588
+
+	Kent Town										
+			1st Prefs		134	39.18		208	60.82		342
+		"OSBORN, Lynne (GRN)"	42		31	73.81		11	26.19		42
+		"PEACOCK, Lee (HAN)"	7		2	28.57		5	71.43		7
+		"MANN, Sue (DEM)"	53		35	66.04		18	33.96		53
+		Total	102		202	45.50		242	54.50		444
+
+	Keswick										
+			1st Prefs		260	47.88		283	52.12		543
+		"OSBORN, Lynne (GRN)"	38		31	81.58		7	18.42		38
+		"PEACOCK, Lee (HAN)"	23		10	43.48		13	56.52		23
+		"MANN, Sue (DEM)"	67		41	61.19		26	38.81		67
+		Total	128		342	50.97		329	49.03		671
+
+	Kilburn										
+			1st Prefs		766	71.99		298	28.01		1064
+		"OSBORN, Lynne (GRN)"	43		34	79.07		9	20.93		43
+		"PEACOCK, Lee (HAN)"	48		37	77.08		11	22.92		48
+		"MANN, Sue (DEM)"	104		64	61.54		40	38.46		104
+		Total	195		901	71.56		358	28.44		1259
+
+	Kilburn South										
+			1st Prefs		484	69.84		209	30.16		693
+		"OSBORN, Lynne (GRN)"	37		25	67.57		12	32.43		37
+		"PEACOCK, Lee (HAN)"	25		14	56.00		11	44.00		25
+		"MANN, Sue (DEM)"	72		54	75.00		18	25.00		72
+		Total	134		577	69.77		250	30.23		827
+
+	Lower North Adelaide										
+			1st Prefs		207	38.33		333	61.67		540
+		"OSBORN, Lynne (GRN)"	47		35	74.47		12	25.53		47
+		"PEACOCK, Lee (HAN)"	5		2	40.00		3	60.00		5
+		"MANN, Sue (DEM)"	71		48	67.61		23	32.39		71
+		Total	123		292	44.04		371	55.96		663
+
+	Malvern										
+			1st Prefs		456	31.67		984	68.33		1440
+		"OSBORN, Lynne (GRN)"	82		55	67.07		27	32.93		82
+		"PEACOCK, Lee (HAN)"	9		1	11.11		8	88.89		9
+		"MANN, Sue (DEM)"	142		95	66.90		47	33.10		142
+		Total	233		607	36.28		1066	63.72		1673
+
+	Marden West (Adelaide)										
+			1st Prefs		72	45.28		87	54.72		159
+		"OSBORN, Lynne (GRN)"	13		11	84.62		2	15.38		13
+		"PEACOCK, Lee (HAN)"	6		2	33.33		4	66.67		6
+		"MANN, Sue (DEM)"	26		20	76.92		6	23.08		26
+		Total	45		105	51.47		99	48.53		204
+
+	Mile End (Adelaide)										
+			1st Prefs		939	65.16		502	34.84		1441
+		"OSBORN, Lynne (GRN)"	139		122	87.77		17	12.23		139
+		"PEACOCK, Lee (HAN)"	28		18	64.29		10	35.71		28
+		"MANN, Sue (DEM)"	224		153	68.30		71	31.70		224
+		Total	391		1232	67.25		600	32.75		1832
+											
+	Myrtle Bank										
+			1st Prefs		373	27.09		1004	72.91		1377
+		"OSBORN, Lynne (GRN)"	93		72	77.42		21	22.58		93
+		"PEACOCK, Lee (HAN)"	25		8	32.00		17	68.00		25
+		"MANN, Sue (DEM)"	133		82	61.65		51	38.35		133
+		Total	251		535	32.86		1093	67.14		1628
+
+	Nailsworth										
+			1st Prefs		513	45.40		617	54.60		1130
+		"OSBORN, Lynne (GRN)"	69		50	72.46		19	27.54		69
+		"PEACOCK, Lee (HAN)"	23		12	52.17		11	47.83		23
+		"MANN, Sue (DEM)"	182		116	63.74		66	36.26		182
+		Total	274		691	49.22		713	50.78		1404
+
+	North Adelaide										
+			1st Prefs		646	31.07		1433	68.93		2079
+		"OSBORN, Lynne (GRN)"	177		139	78.53		38	21.47		177
+		"PEACOCK, Lee (HAN)"	22		11	50.00		11	50.00		22
+		"MANN, Sue (DEM)"	270		180	66.67		90	33.33		270
+		Total	469		976	38.30		1572	61.70		2548
+
+	Northfield										
+			1st Prefs		588	65.85		305	34.15		893
+		"OSBORN, Lynne (GRN)"	35		29	82.86		6	17.14		35
+		"PEACOCK, Lee (HAN)"	59		35	59.32		24	40.68		59
+		"MANN, Sue (DEM)"	86		63	73.26		23	26.74		86
+		Total	180		715	66.64		358	33.36		1073
+
+	Northfield South										
+			1st Prefs		620	54.01		528	45.99		1148
+		"OSBORN, Lynne (GRN)"	50		34	68.00		16	32.00		50
+		"PEACOCK, Lee (HAN)"	60		30	50.00		30	50.00		60
+		"MANN, Sue (DEM)"	121		69	57.02		52	42.98		121
+		Total	231		753	54.60		626	45.40		1379
+
+	Parkside East										
+			1st Prefs		815	46.25		947	53.75		1762
+		"OSBORN, Lynne (GRN)"	137		110	80.29		27	19.71		137
+		"PEACOCK, Lee (HAN)"	15		6	40.00		9	60.00		15
+		"MANN, Sue (DEM)"	295		192	65.08		103	34.92		295
+		Total	447		1123	50.84		1086	49.16		2209
+
+	Prospect										
+			1st Prefs		723	51.24		688	48.76		1411
+		"OSBORN, Lynne (GRN)"	116		96	82.76		20	17.24		116
+		"PEACOCK, Lee (HAN)"	32		17	53.13		15	46.88		32
+		"MANN, Sue (DEM)"	205		143	69.76		62	30.24		205
+		Total	353		979	55.50		785	44.50		1764
+											
+	Prospect Estate										
+			1st Prefs		330	56.12		258	43.88		588
+		"OSBORN, Lynne (GRN)"	37		28	75.68		9	24.32		37
+		"PEACOCK, Lee (HAN)"	22		10	45.45		12	54.55		22
+		"MANN, Sue (DEM)"	60		31	51.67		29	48.33		60
+		Total	119		399	56.44		308	43.56		707
+
+	Prospect North										
+			1st Prefs		794	52.03		732	47.97		1526
+		"OSBORN, Lynne (GRN)"	92		72	78.26		20	21.74		92
+		"PEACOCK, Lee (HAN)"	55		27	49.09		28	50.91		55
+		"MANN, Sue (DEM)"	209		120	57.42		89	42.58		209
+		Total	356		1013	53.83		869	46.17		1882
+
+	Prospect South										
+			1st Prefs		429	42.60		578	57.40		1007
+		"OSBORN, Lynne (GRN)"	67		54	80.60		13	19.40		67
+		"PEACOCK, Lee (HAN)"	22		10	45.45		12	54.55		22
+		"MANN, Sue (DEM)"	123		75	60.98		48	39.02		123
+		Total	212		568	46.60		651	53.40		1219
+
+	Prospect West										
+			1st Prefs		918	49.41		940	50.59		1858
+		"OSBORN, Lynne (GRN)"	149		120	80.54		29	19.46		149
+		"PEACOCK, Lee (HAN)"	54		28	51.85		26	48.15		54
+		"MANN, Sue (DEM)"	315		202	64.13		113	35.87		315
+		Total	518		1268	53.37		1108	46.63		2376
+
+	Renown Park										
+			1st Prefs		945	65.90		489	34.10		1434
+		"OSBORN, Lynne (GRN)"	80		67	83.75		13	16.25		80
+		"PEACOCK, Lee (HAN)"	44		19	43.18		25	56.82		44
+		"MANN, Sue (DEM)"	169		104	61.54		65	38.46		169
+		Total	293		1135	65.72		592	34.28		1727
+
+	St Peters										
+			1st Prefs		145	30.02		338	69.98		483
+		"OSBORN, Lynne (GRN)"	40		36	90.00		4	10.00		40
+		"PEACOCK, Lee (HAN)"	7		3	42.86		4	57.14		7
+		"MANN, Sue (DEM)"	52		35	67.31		17	32.69		52
+		Total	99		219	37.63		363	62.37		582
+
+	St Peters East										
+			1st Prefs		540	39.19		838	60.81		1378
+		"OSBORN, Lynne (GRN)"	120		99	82.50		21	17.50		120
+		"PEACOCK, Lee (HAN)"	23		4	17.39		19	82.61		23
+		"MANN, Sue (DEM)"	157		99	63.06		58	36.94		157
+		Total	300		742	44.22		936	55.78		1678
+
+	Unley										
+			1st Prefs		1040	45.32		1255	54.68		2295
+		"OSBORN, Lynne (GRN)"	209		177	84.69		32	15.31		209
+		"PEACOCK, Lee (HAN)"	38		14	36.84		24	63.16		38
+		"MANN, Sue (DEM)"	313		205	65.50		108	34.50		313
+		Total	560		1436	50.30		1419	49.70		2855
+
+	Walkerville										
+			1st Prefs		517	27.21		1383	72.79		1900
+		"OSBORN, Lynne (GRN)"	116		85	73.28		31	26.72		116
+		"PEACOCK, Lee (HAN)"	29		9	31.03		20	68.97		29
+		"MANN, Sue (DEM)"	217		144	66.36		73	33.64		217
+		Total	362		755	33.38		1507	66.62		2262
+											
+	Walkerville North										
+			1st Prefs		231	33.29		463	66.71		694
+		"OSBORN, Lynne (GRN)"	39		29	74.36		10	25.64		39
+		"PEACOCK, Lee (HAN)"	15		10	66.67		5	33.33		15
+		"MANN, Sue (DEM)"	73		43	58.90		30	41.10		73
+		Total	127		313	38.12		508	61.88		821
+
+	Wayville										
+			1st Prefs		196	42.06		270	57.94		466
+		"OSBORN, Lynne (GRN)"	32		29	90.63		3	9.38		32
+		"PEACOCK, Lee (HAN)"	9		4	44.44		5	55.56		9
+		"MANN, Sue (DEM)"	53		36	67.92		17	32.08		53
+		Total	94		265	47.32		295	52.68		560
+
+	Special Hospitals										
+			1st Prefs		191	29.29		461	70.71		652
+		"OSBORN, Lynne (GRN)"	29		20	68.97		9	31.03		29
+		"PEACOCK, Lee (HAN)"	15		6	40.00		9	60.00		15
+		"MANN, Sue (DEM)"	17		11	64.71		6	35.29		17
+		Total	61		228	31.98		485	68.02		713
+
+	Total Ordinary										
+			1st Prefs		24712	46.67		28236	53.33		52948
+		"OSBORN, Lynne (GRN)"	3798		3042	80.09		756	19.91		3798
+		"PEACOCK, Lee (HAN)"	1352		668	49.41		684	50.59		1352
+		"MANN, Sue (DEM)"	6797		4435	65.25		2362	34.75		6797
+		Total	11947		32857	50.63		32038	49.37		64895
+
+	ABSENT										
+			1st Prefs		1696	42.34		2310	57.66		4006
+		"OSBORN, Lynne (GRN)"	441		324	73.47		117	26.53		441
+		"PEACOCK, Lee (HAN)"	130		53	40.77		77	59.23		130
+		"MANN, Sue (DEM)"	797		492	61.73		305	38.27		797
+		Total	1368		2565	47.73		2809	52.27		5374
+
+	POSTAL										
+			1st Prefs		1261	38.10		2049	61.90		3310
+		"OSBORN, Lynne (GRN)"	141		115	81.56		26	18.44		141
+		"PEACOCK, Lee (HAN)"	85		42	49.41		43	50.59		85
+		"MANN, Sue (DEM)"	216		153	70.83		63	29.17		216
+		Total	442		1571	41.87		2181	58.13		3752
+
+	PRE_POLL										
+			1st Prefs		886	37.75		1461	62.25		2347
+		"OSBORN, Lynne (GRN)"	218		175	80.28		43	19.72		218
+		"PEACOCK, Lee (HAN)"	52		21	40.38		31	59.62		52
+		"MANN, Sue (DEM)"	367		243	66.21		124	33.79		367
+		Total	637		1325	44.40		1659	55.60		2984
+											
+	PROVISIONAL											
+			1st Prefs		177	46.70		202	53.30		379	
+		"OSBORN, Lynne (GRN)"	40		29	72.50		11	27.50		40	
+		"PEACOCK, Lee (HAN)"	11		8	72.73		3	27.27		11	
+		"MANN, Sue (DEM)"	78		53	67.95		25	32.05		78	
+		Total	129		267	52.56		241	47.44		508	
+
+	Division Summary											
+			1st Prefs		28732	45.61		34258	54.39		62990	
+		"OSBORN, Lynne (GRN)"	4638		3685	79.45		953	20.55		4638	
+		"PEACOCK, Lee (HAN)"	1630		792	48.59		838	51.41		1630	
+		"MANN, Sue (DEM)"	8255		5376	65.12		2879	34.88		8255	
+		Total	14523		38585	49.78		38928	50.22		77513	
+												

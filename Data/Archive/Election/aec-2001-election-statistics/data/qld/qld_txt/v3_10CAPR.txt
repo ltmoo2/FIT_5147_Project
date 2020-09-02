@@ -1,0 +1,755 @@
+House of Representatives - 2001 Election: Queensland												
+Two Candidate Preferred Preference Flow Chart												
+By Polling Place												
+												
+Capricornia (81499)												
+		Candidate		                  	"LEVER, John"		                	"LIVERMORE, Kirsten"			Total	
+				                           	NP		                         	ALP				
+				                           	Votes	%	                     	Votes	%			
+	Allenstown											
+			1st Prefs		468	29.34		1127	70.66		1595	
+		"GILLHAM, Ray (CEC)"	14		13	92.86		1	7.14		14	
+		"CLARKE, Herb (HAN)"	146		98	67.12		48	32.88		146	
+		"SCHUBACK, Peter (IND)"	12		6	50.00		6	50.00		12	
+		"MURPHY, John Joseph (IND)"	4		1	25.00		3	75.00		4	
+		"JOHNS, Naomi (DEM)"	42		14	33.33		28	66.67		42	
+		"TAYLOR, Lea (LP)"	382		333	87.17		49	12.83		382	
+		"MUIR, Bob (GRN)"	26		4	15.38		22	84.62		26
+		Total	626		937	42.19		1284	57.81		2221
+
+	Alpha										
+			1st Prefs		125	56.31		97	43.69		222
+		"GILLHAM, Ray (CEC)"	3		3	100.00		0	0.00		3
+		"CLARKE, Herb (HAN)"	46		33	71.74		13	28.26		46
+		"SCHUBACK, Peter (IND)"	4		3	75.00		1	25.00		4
+		"MURPHY, John Joseph (IND)"	5		2	40.00		3	60.00		5
+		"JOHNS, Naomi (DEM)"	2		1	50.00		1	50.00		2
+		"TAYLOR, Lea (LP)"	42		39	92.86		3	7.14		42
+		"MUIR, Bob (GRN)"	2		0	0.00		2	100.00		2
+		Total	104		206	63.19		120	36.81		326
+
+	Alton Downs										
+			1st Prefs		163	48.80		171	51.20		334
+		"GILLHAM, Ray (CEC)"	2		1	50.00		1	50.00		2
+		"CLARKE, Herb (HAN)"	46		33	71.74		13	28.26		46
+		"SCHUBACK, Peter (IND)"	3		2	66.67		1	33.33		3
+		"MURPHY, John Joseph (IND)"	0		0	0.00		0	0.00		0
+		"JOHNS, Naomi (DEM)"	7		2	28.57		5	71.43		7
+		"TAYLOR, Lea (LP)"	83		75	90.36		8	9.64		83
+		"MUIR, Bob (GRN)"	1		0	0.00		1	100.00		1
+		Total	142		276	57.98		200	42.02		476
+
+	Applegarth										
+			1st Prefs		37	28.68		92	71.32		129
+		"GILLHAM, Ray (CEC)"	0		0	0.00		0	0.00		0
+		"CLARKE, Herb (HAN)"	11		6	54.55		5	45.45		11
+		"SCHUBACK, Peter (IND)"	1		0	0.00		1	100.00		1
+		"MURPHY, John Joseph (IND)"	0		0	0.00		0	0.00		0
+		"JOHNS, Naomi (DEM)"	0		0	0.00		0	0.00		0
+		"TAYLOR, Lea (LP)"	27		22	81.48		5	18.52		27
+		"MUIR, Bob (GRN)"	2		1	50.00		1	50.00		2
+		Total	41		66	38.82		104	61.18		170
+
+	Aramac										
+			1st Prefs		62	38.75		98	61.25		160
+		"GILLHAM, Ray (CEC)"	5		5	100.00		0	0.00		5
+		"CLARKE, Herb (HAN)"	34		23	67.65		11	32.35		34
+		"SCHUBACK, Peter (IND)"	1		1	100.00		0	0.00		1
+		"MURPHY, John Joseph (IND)"	0		0	0.00		0	0.00		0
+		"JOHNS, Naomi (DEM)"	1		1	100.00		0	0.00		1
+		"TAYLOR, Lea (LP)"	41		34	82.93		7	17.07		41
+		"MUIR, Bob (GRN)"	4		2	50.00		2	50.00		4
+		Total	86		128	52.03		118	47.97		246
+
+	Archer Park										
+			1st Prefs		116	24.27		362	75.73		478
+		"GILLHAM, Ray (CEC)"	3		3	100.00		0	0.00		3
+		"CLARKE, Herb (HAN)"	66		39	59.09		27	40.91		66
+		"SCHUBACK, Peter (IND)"	3		3	100.00		0	0.00		3
+		"MURPHY, John Joseph (IND)"	6		6	100.00		0	0.00		6
+		"JOHNS, Naomi (DEM)"	7		1	14.29		6	85.71		7
+		"TAYLOR, Lea (LP)"	97		82	84.54		15	15.46		97
+		"MUIR, Bob (GRN)"	5		2	40.00		3	60.00		5
+		Total	187		252	37.89		413	62.11		665
+
+	Barcaldine										
+			1st Prefs		130	21.63		471	78.37		601
+		"GILLHAM, Ray (CEC)"	4		4	100.00		0	0.00		4
+		"CLARKE, Herb (HAN)"	54		37	68.52		17	31.48		54
+		"SCHUBACK, Peter (IND)"	3		2	66.67		1	33.33		3
+		"MURPHY, John Joseph (IND)"	5		4	80.00		1	20.00		5
+		"JOHNS, Naomi (DEM)"	7		0	0.00		7	100.00		7
+		"TAYLOR, Lea (LP)"	117		100	85.47		17	14.53		117
+		"MUIR, Bob (GRN)"	10		2	20.00		8	80.00		10
+		Total	200		279	34.83		522	65.17		801
+
+	Berserker										
+			1st Prefs		306	18.73		1328	81.27		1634
+		"GILLHAM, Ray (CEC)"	10		9	90.00		1	10.00		10
+		"CLARKE, Herb (HAN)"	153		86	56.21		67	43.79		153
+		"SCHUBACK, Peter (IND)"	25		12	48.00		13	52.00		25
+		"MURPHY, John Joseph (IND)"	10		8	80.00		2	20.00		10
+		"JOHNS, Naomi (DEM)"	34		7	20.59		27	79.41		34
+		"TAYLOR, Lea (LP)"	319		271	84.95		48	15.05		319
+		"MUIR, Bob (GRN)"	34		12	35.29		22	64.71		34
+		Total	585		711	32.04		1508	67.96		2219
+
+	Bouldercombe										
+			1st Prefs		98	32.78		201	67.22		299
+		"GILLHAM, Ray (CEC)"	5		3	60.00		2	40.00		5
+		"CLARKE, Herb (HAN)"	60		36	60.00		24	40.00		60
+		"SCHUBACK, Peter (IND)"	15		10	66.67		5	33.33		15
+		"MURPHY, John Joseph (IND)"	6		6	100.00		0	0.00		6
+		"JOHNS, Naomi (DEM)"	7		2	28.57		5	71.43		7
+		"TAYLOR, Lea (LP)"	69		56	81.16		13	18.84		69
+		"MUIR, Bob (GRN)"	7		2	28.57		5	71.43		7
+		Total	169		213	45.51		255	54.49		468
+
+	Brisbane City (Capricornia)										
+			1st Prefs		22	33.85		43	66.15		65
+		"GILLHAM, Ray (CEC)"	0		0	0.00		0	0.00		0
+		"CLARKE, Herb (HAN)"	4		2	50.00		2	50.00		4
+		"SCHUBACK, Peter (IND)"	2		1	50.00		1	50.00		2
+		"MURPHY, John Joseph (IND)"	0		0	0.00		0	0.00		0
+		"JOHNS, Naomi (DEM)"	5		0	0.00		5	100.00		5
+		"TAYLOR, Lea (LP)"	42		40	95.24		2	4.76		42
+		"MUIR, Bob (GRN)"	2		0	0.00		2	100.00		2
+		Total	55		65	54.17		55	45.83		120
+
+	Burnett Street										
+			1st Prefs		123	25.57		358	74.43		481
+		"GILLHAM, Ray (CEC)"	1		1	100.00		0	0.00		1
+		"CLARKE, Herb (HAN)"	36		23	63.89		13	36.11		36
+		"SCHUBACK, Peter (IND)"	5		3	60.00		2	40.00		5
+		"MURPHY, John Joseph (IND)"	4		2	50.00		2	50.00		4
+		"JOHNS, Naomi (DEM)"	8		2	25.00		6	75.00		8
+		"TAYLOR, Lea (LP)"	69		64	92.75		5	7.25		69
+		"MUIR, Bob (GRN)"	2		0	0.00		2	100.00		2
+		Total	125		218	35.97		388	64.03		606
+
+	Capella										
+			1st Prefs		229	61.23		145	38.77		374
+		"GILLHAM, Ray (CEC)"	2		2	100.00		0	0.00		2
+		"CLARKE, Herb (HAN)"	62		45	72.58		17	27.42		62
+		"SCHUBACK, Peter (IND)"	7		5	71.43		2	28.57		7
+		"MURPHY, John Joseph (IND)"	0		0	0.00		0	0.00		0
+		"JOHNS, Naomi (DEM)"	8		3	37.50		5	62.50		8
+		"TAYLOR, Lea (LP)"	132		117	88.64		15	11.36		132
+		"MUIR, Bob (GRN)"	3		1	33.33		2	66.67		3
+		Total	214		402	68.37		186	31.63		588
+
+	Cawarral										
+			1st Prefs		175	39.50		268	60.50		443
+		"GILLHAM, Ray (CEC)"	3		1	33.33		2	66.67		3
+		"CLARKE, Herb (HAN)"	76		48	63.16		28	36.84		76
+		"SCHUBACK, Peter (IND)"	3		1	33.33		2	66.67		3
+		"MURPHY, John Joseph (IND)"	4		3	75.00		1	25.00		4
+		"JOHNS, Naomi (DEM)"	6		1	16.67		5	83.33		6
+		"TAYLOR, Lea (LP)"	89		77	86.52		12	13.48		89
+		"MUIR, Bob (GRN)"	16		4	25.00		12	75.00		16
+		Total	197		310	48.44		330	51.56		640
+
+	Clermont										
+			1st Prefs		312	35.37		570	64.63		882
+		"GILLHAM, Ray (CEC)"	10		9	90.00		1	10.00		10
+		"CLARKE, Herb (HAN)"	119		80	67.23		39	32.77		119
+		"SCHUBACK, Peter (IND)"	10		5	50.00		5	50.00		10
+		"MURPHY, John Joseph (IND)"	8		6	75.00		2	25.00		8
+		"JOHNS, Naomi (DEM)"	13		4	30.77		9	69.23		13
+		"TAYLOR, Lea (LP)"	276		245	88.77		31	11.23		276
+		"MUIR, Bob (GRN)"	8		5	62.50		3	37.50		8
+		Total	444		666	50.23		660	49.77		1326
+
+	Collinsville										
+			1st Prefs		51	6.29		760	93.71		811
+		"GILLHAM, Ray (CEC)"	19		16	84.21		3	15.79		19
+		"CLARKE, Herb (HAN)"	64		36	56.25		28	43.75		64
+		"SCHUBACK, Peter (IND)"	4		3	75.00		1	25.00		4
+		"MURPHY, John Joseph (IND)"	6		3	50.00		3	50.00		6
+		"JOHNS, Naomi (DEM)"	23		9	39.13		14	60.87		23
+		"TAYLOR, Lea (LP)"	155		134	86.45		21	13.55		155
+		"MUIR, Bob (GRN)"	2		1	50.00		1	50.00		2
+		Total	273		253	23.34		831	76.66		1084
+
+	Coppabella										
+			1st Prefs		23	22.33		80	77.67		103
+		"GILLHAM, Ray (CEC)"	3		2	66.67		1	33.33		3
+		"CLARKE, Herb (HAN)"	5		1	20.00		4	80.00		5
+		"SCHUBACK, Peter (IND)"	0		0	0.00		0	0.00		0
+		"MURPHY, John Joseph (IND)"	2		1	50.00		1	50.00		2
+		"JOHNS, Naomi (DEM)"	2		0	0.00		2	100.00		2
+		"TAYLOR, Lea (LP)"	10		9	90.00		1	10.00		10
+		"MUIR, Bob (GRN)"	0		0	0.00		0	0.00		0
+		Total	22		36	28.80		89	71.20		125
+
+	Crescent Lagoon										
+			1st Prefs		185	22.78		627	77.22		812
+		"GILLHAM, Ray (CEC)"	5		5	100.00		0	0.00		5
+		"CLARKE, Herb (HAN)"	74		40	54.05		34	45.95		74
+		"SCHUBACK, Peter (IND)"	3		1	33.33		2	66.67		3
+		"MURPHY, John Joseph (IND)"	2		2	100.00		0	0.00		2
+		"JOHNS, Naomi (DEM)"	31		10	32.26		21	67.74		31
+		"TAYLOR, Lea (LP)"	181		150	82.87		31	17.13		181
+		"MUIR, Bob (GRN)"	13		2	15.38		11	84.62		13
+		Total	309		395	35.24		726	64.76		1121
+
+	Depot Hill										
+			1st Prefs		50	11.79		374	88.21		424
+		"GILLHAM, Ray (CEC)"	5		5	100.00		0	0.00		5
+		"CLARKE, Herb (HAN)"	63		37	58.73		26	41.27		63
+		"SCHUBACK, Peter (IND)"	2		2	100.00		0	0.00		2
+		"MURPHY, John Joseph (IND)"	2		1	50.00		1	50.00		2
+		"JOHNS, Naomi (DEM)"	5		2	40.00		3	60.00		5
+		"TAYLOR, Lea (LP)"	47		34	72.34		13	27.66		47
+		"MUIR, Bob (GRN)"	6		1	16.67		5	83.33		6
+		Total	130		132	23.83		422	76.17		554
+
+	Dysart										
+			1st Prefs		116	13.65		734	86.35		850
+		"GILLHAM, Ray (CEC)"	12		12	100.00		0	0.00		12
+		"CLARKE, Herb (HAN)"	77		48	62.34		29	37.66		77
+		"SCHUBACK, Peter (IND)"	4		2	50.00		2	50.00		4
+		"MURPHY, John Joseph (IND)"	4		3	75.00		1	25.00		4
+		"JOHNS, Naomi (DEM)"	15		4	26.67		11	73.33		15
+		"TAYLOR, Lea (LP)"	92		79	85.87		13	14.13		92
+		"MUIR, Bob (GRN)"	4		2	50.00		2	50.00		4
+		Total	208		266	25.14		792	74.86		1058
+
+	Emmaus College										
+			1st Prefs		215	28.67		535	71.33		750
+		"GILLHAM, Ray (CEC)"	3		2	66.67		1	33.33		3
+		"CLARKE, Herb (HAN)"	46		38	82.61		8	17.39		46
+		"SCHUBACK, Peter (IND)"	4		1	25.00		3	75.00		4
+		"MURPHY, John Joseph (IND)"	3		0	0.00		3	100.00		3
+		"JOHNS, Naomi (DEM)"	14		6	42.86		8	57.14		14
+		"TAYLOR, Lea (LP)"	158		140	88.61		18	11.39		158
+		"MUIR, Bob (GRN)"	5		3	60.00		2	40.00		5
+		Total	233		405	41.20		578	58.80		983
+
+	Emu Park										
+			1st Prefs		395	27.68		1032	72.32		1427
+		"GILLHAM, Ray (CEC)"	14		11	78.57		3	21.43		14
+		"CLARKE, Herb (HAN)"	155		89	57.42		66	42.58		155
+		"SCHUBACK, Peter (IND)"	9		5	55.56		4	44.44		9
+		"MURPHY, John Joseph (IND)"	11		6	54.55		5	45.45		11
+		"JOHNS, Naomi (DEM)"	32		5	15.63		27	84.38		32
+		"TAYLOR, Lea (LP)"	327		294	89.91		33	10.09		327
+		"MUIR, Bob (GRN)"	43		7	16.28		36	83.72		43
+		Total	591		812	40.24		1206	59.76		2018
+
+	Farnborough										
+			1st Prefs		257	38.70		407	61.30		664
+		"GILLHAM, Ray (CEC)"	3		3	100.00		0	0.00		3
+		"CLARKE, Herb (HAN)"	93		58	62.37		35	37.63		93
+		"SCHUBACK, Peter (IND)"	9		6	66.67		3	33.33		9
+		"MURPHY, John Joseph (IND)"	1		1	100.00		0	0.00		1
+		"JOHNS, Naomi (DEM)"	17		5	29.41		12	70.59		17
+		"TAYLOR, Lea (LP)"	181		156	86.19		25	13.81		181
+		"MUIR, Bob (GRN)"	62		11	17.74		51	82.26		62
+		Total	366		497	48.25		533	51.75		1030
+
+	Frenchville										
+			1st Prefs		441	37.95		721	62.05		1162
+		"GILLHAM, Ray (CEC)"	2		2	100.00		0	0.00		2
+		"CLARKE, Herb (HAN)"	81		60	74.07		21	25.93		81
+		"SCHUBACK, Peter (IND)"	7		3	42.86		4	57.14		7
+		"MURPHY, John Joseph (IND)"	11		4	36.36		7	63.64		11
+		"JOHNS, Naomi (DEM)"	25		6	24.00		19	76.00		25
+		"TAYLOR, Lea (LP)"	415		372	89.64		43	10.36		415
+		"MUIR, Bob (GRN)"	19		4	21.05		15	78.95		19
+		Total	560		892	51.80		830	48.20		1722
+
+	Glenden										
+			1st Prefs		48	20.69		184	79.31		232
+		"GILLHAM, Ray (CEC)"	30		16	53.33		14	46.67		30
+		"CLARKE, Herb (HAN)"	20		12	60.00		8	40.00		20
+		"SCHUBACK, Peter (IND)"	5		3	60.00		2	40.00		5
+		"MURPHY, John Joseph (IND)"	3		2	66.67		1	33.33		3
+		"JOHNS, Naomi (DEM)"	4		0	0.00		4	100.00		4
+		"TAYLOR, Lea (LP)"	59		44	74.58		15	25.42		59
+		"MUIR, Bob (GRN)"	3		2	66.67		1	33.33		3
+		Total	124		127	35.67		229	64.33		356
+
+	Glenmore										
+			1st Prefs		601	26.04		1707	73.96		2308
+		"GILLHAM, Ray (CEC)"	12		10	83.33		2	16.67		12
+		"CLARKE, Herb (HAN)"	204		148	72.55		56	27.45		204
+		"SCHUBACK, Peter (IND)"	14		7	50.00		7	50.00		14
+		"MURPHY, John Joseph (IND)"	11		9	81.82		2	18.18		11
+		"JOHNS, Naomi (DEM)"	63		16	25.40		47	74.60		63
+		"TAYLOR, Lea (LP)"	588		505	85.88		83	14.12		588
+		"MUIR, Bob (GRN)"	48		15	31.25		33	68.75		48
+		Total	940		1311	40.36		1937	59.64		3248
+
+	Gracemere										
+			1st Prefs		567	32.25		1191	67.75		1758
+		"GILLHAM, Ray (CEC)"	11		6	54.55		5	45.45		11
+		"CLARKE, Herb (HAN)"	264		168	63.64		96	36.36		264
+		"SCHUBACK, Peter (IND)"	26		19	73.08		7	26.92		26
+		"MURPHY, John Joseph (IND)"	15		8	53.33		7	46.67		15
+		"JOHNS, Naomi (DEM)"	37		12	32.43		25	67.57		37
+		"TAYLOR, Lea (LP)"	443		369	83.30		74	16.70		443
+		"MUIR, Bob (GRN)"	14		5	35.71		9	64.29		14
+		Total	810		1154	44.94		1414	55.06		2568
+
+	Ilfracombe										
+			1st Prefs		46	61.33		29	38.67		75
+		"GILLHAM, Ray (CEC)"	0		0	0.00		0	0.00		0
+		"CLARKE, Herb (HAN)"	11		8	72.73		3	27.27		11
+		"SCHUBACK, Peter (IND)"	0		0	0.00		0	0.00		0
+		"MURPHY, John Joseph (IND)"	0		0	0.00		0	0.00		0
+		"JOHNS, Naomi (DEM)"	2		1	50.00		1	50.00		2
+		"TAYLOR, Lea (LP)"	27		23	85.19		4	14.81		27
+		"MUIR, Bob (GRN)"	0		0	0.00		0	0.00		0
+		Total	40		78	67.83		37	32.17		115
+
+	Jericho										
+			1st Prefs		37	52.86		33	47.14		70
+		"GILLHAM, Ray (CEC)"	0		0	0.00		0	0.00		0
+		"CLARKE, Herb (HAN)"	17		13	76.47		4	23.53		17
+		"SCHUBACK, Peter (IND)"	1		0	0.00		1	100.00		1
+		"MURPHY, John Joseph (IND)"	0		0	0.00		0	0.00		0
+		"JOHNS, Naomi (DEM)"	0		0	0.00		0	0.00		0
+		"TAYLOR, Lea (LP)"	22		22	100.00		0	0.00		22
+		"MUIR, Bob (GRN)"	0		0	0.00		0	0.00		0
+		Total	40		72	65.45		38	34.55		110
+
+	Keppel Sands										
+			1st Prefs		79	34.65		149	65.35		228
+		"GILLHAM, Ray (CEC)"	5		4	80.00		1	20.00		5
+		"CLARKE, Herb (HAN)"	40		22	55.00		18	45.00		40
+		"SCHUBACK, Peter (IND)"	1		1	100.00		0	0.00		1
+		"MURPHY, John Joseph (IND)"	0		0	0.00		0	0.00		0
+		"JOHNS, Naomi (DEM)"	2		0	0.00		2	100.00		2
+		"TAYLOR, Lea (LP)"	26		23	88.46		3	11.54		26
+		"MUIR, Bob (GRN)"	5		1	20.00		4	80.00		5
+		Total	79		130	42.35		177	57.65		307
+
+	Kilcummin										
+			1st Prefs		42	87.50		6	12.50		48
+		"GILLHAM, Ray (CEC)"	0		0	0.00		0	0.00		0
+		"CLARKE, Herb (HAN)"	7		6	85.71		1	14.29		7
+		"SCHUBACK, Peter (IND)"	1		0	0.00		1	100.00		1
+		"MURPHY, John Joseph (IND)"	0		0	0.00		0	0.00		0
+		"JOHNS, Naomi (DEM)"	1		0	0.00		1	100.00		1
+		"TAYLOR, Lea (LP)"	14		13	92.86		1	7.14		14
+		"MUIR, Bob (GRN)"	0		0	0.00		0	0.00		0
+		Total	23		61	85.92		10	14.08		71
+
+	Koongal										
+			1st Prefs		97	18.87		417	81.13		514
+		"GILLHAM, Ray (CEC)"	2		2	100.00		0	0.00		2
+		"CLARKE, Herb (HAN)"	43		27	62.79		16	37.21		43
+		"SCHUBACK, Peter (IND)"	2		2	100.00		0	0.00		2
+		"MURPHY, John Joseph (IND)"	3		2	66.67		1	33.33		3
+		"JOHNS, Naomi (DEM)"	11		3	27.27		8	72.73		11
+		"TAYLOR, Lea (LP)"	108		88	81.48		20	18.52		108
+		"MUIR, Bob (GRN)"	15		6	40.00		9	60.00		15
+		Total	184		227	32.52		471	67.48		698
+
+	Lakes Creek										
+			1st Prefs		173	27.42		458	72.58		631
+		"GILLHAM, Ray (CEC)"	3		3	100.00		0	0.00		3
+		"CLARKE, Herb (HAN)"	81		51	62.96		30	37.04		81
+		"SCHUBACK, Peter (IND)"	7		4	57.14		3	42.86		7
+		"MURPHY, John Joseph (IND)"	2		1	50.00		1	50.00		2
+		"JOHNS, Naomi (DEM)"	9		4	44.44		5	55.56		9
+		"TAYLOR, Lea (LP)"	100		83	83.00		17	17.00		100
+		"MUIR, Bob (GRN)"	17		3	17.65		14	82.35		17
+		Total	219		322	37.88		528	62.12		850
+
+	Longreach										
+			1st Prefs		480	40.64		701	59.36		1181
+		"GILLHAM, Ray (CEC)"	27		24	88.89		3	11.11		27
+		"CLARKE, Herb (HAN)"	128		86	67.19		42	32.81		128
+		"SCHUBACK, Peter (IND)"	12		7	58.33		5	41.67		12
+		"MURPHY, John Joseph (IND)"	8		5	62.50		3	37.50		8
+		"JOHNS, Naomi (DEM)"	17		6	35.29		11	64.71		17
+		"TAYLOR, Lea (LP)"	368		309	83.97		59	16.03		368
+		"MUIR, Bob (GRN)"	10		1	10.00		9	90.00		10
+		Total	570		918	52.43		833	47.57		1751
+
+	Marlborough										
+			1st Prefs		66	68.04		31	31.96		97
+		"GILLHAM, Ray (CEC)"	0		0	0.00		0	0.00		0
+		"CLARKE, Herb (HAN)"	11		7	63.64		4	36.36		11
+		"SCHUBACK, Peter (IND)"	2		2	100.00		0	0.00		2
+		"MURPHY, John Joseph (IND)"	0		0	0.00		0	0.00		0
+		"JOHNS, Naomi (DEM)"	0		0	0.00		0	0.00		0
+		"TAYLOR, Lea (LP)"	31		27	87.10		4	12.90		31
+		"MUIR, Bob (GRN)"	3		0	0.00		3	100.00		3
+		Total	47		102	70.83		42	29.17		144
+
+	Middlemount										
+			1st Prefs		88	14.29		528	85.71		616
+		"GILLHAM, Ray (CEC)"	2		2	100.00		0	0.00		2
+		"CLARKE, Herb (HAN)"	47		22	46.81		25	53.19		47
+		"SCHUBACK, Peter (IND)"	4		2	50.00		2	50.00		4
+		"MURPHY, John Joseph (IND)"	1		0	0.00		1	100.00		1
+		"JOHNS, Naomi (DEM)"	11		2	18.18		9	81.82		11
+		"TAYLOR, Lea (LP)"	73		63	86.30		10	13.70		73
+		"MUIR, Bob (GRN)"	9		3	33.33		6	66.67		9
+		Total	147		182	23.85		581	76.15		763
+
+	Moranbah										
+			1st Prefs		62	6.29		923	93.71		985
+		"GILLHAM, Ray (CEC)"	8		6	75.00		2	25.00		8
+		"CLARKE, Herb (HAN)"	74		46	62.16		28	37.84		74
+		"SCHUBACK, Peter (IND)"	5		3	60.00		2	40.00		5
+		"MURPHY, John Joseph (IND)"	1		1	100.00		0	0.00		1
+		"JOHNS, Naomi (DEM)"	28		10	35.71		18	64.29		28
+		"TAYLOR, Lea (LP)"	136		114	83.82		22	16.18		136
+		"MUIR, Bob (GRN)"	12		5	41.67		7	58.33		12
+		Total	264		247	19.78		1002	80.22		1249
+
+	Moranbah West										
+			1st Prefs		156	14.65		909	85.35		1065
+		"GILLHAM, Ray (CEC)"	8		5	62.50		3	37.50		8
+		"CLARKE, Herb (HAN)"	96		65	67.71		31	32.29		96
+		"SCHUBACK, Peter (IND)"	7		5	71.43		2	28.57		7
+		"MURPHY, John Joseph (IND)"	10		6	60.00		4	40.00		10
+		"JOHNS, Naomi (DEM)"	22		11	50.00		11	50.00		22
+		"TAYLOR, Lea (LP)"	230		190	82.61		40	17.39		230
+		"MUIR, Bob (GRN)"	17		7	41.18		10	58.82		17
+		Total	390		445	30.58		1010	69.42		1455
+
+	Mount Archer										
+			1st Prefs		423	27.61		1109	72.39		1532
+		"GILLHAM, Ray (CEC)"	6		6	100.00		0	0.00		6
+		"CLARKE, Herb (HAN)"	123		85	69.11		38	30.89		123
+		"SCHUBACK, Peter (IND)"	18		8	44.44		10	55.56		18
+		"MURPHY, John Joseph (IND)"	8		3	37.50		5	62.50		8
+		"JOHNS, Naomi (DEM)"	30		9	30.00		21	70.00		30
+		"TAYLOR, Lea (LP)"	357		300	84.03		57	15.97		357
+		"MUIR, Bob (GRN)"	21		8	38.10		13	61.90		21
+		Total	563		842	40.19		1253	59.81		2095
+
+	Muttaburra										
+			1st Prefs		30	45.45		36	54.55		66
+		"GILLHAM, Ray (CEC)"	0		0	0.00		0	0.00		0
+		"CLARKE, Herb (HAN)"	7		5	71.43		2	28.57		7
+		"SCHUBACK, Peter (IND)"	0		0	0.00		0	0.00		0
+		"MURPHY, John Joseph (IND)"	0		0	0.00		0	0.00		0
+		"JOHNS, Naomi (DEM)"	0		0	0.00		0	0.00		0
+		"TAYLOR, Lea (LP)"	7		5	71.43		2	28.57		7
+		"MUIR, Bob (GRN)"	0		0	0.00		0	0.00		0
+		Total	14		40	50.00		40	50.00		80
+
+	Nebo										
+			1st Prefs		88	53.01		78	46.99		166
+		"GILLHAM, Ray (CEC)"	13		12	92.31		1	7.69		13
+		"CLARKE, Herb (HAN)"	18		11	61.11		7	38.89		18
+		"SCHUBACK, Peter (IND)"	2		0	0.00		2	100.00		2
+		"MURPHY, John Joseph (IND)"	2		2	100.00		0	0.00		2
+		"JOHNS, Naomi (DEM)"	4		2	50.00		2	50.00		4
+		"TAYLOR, Lea (LP)"	33		30	90.91		3	9.09		33
+		"MUIR, Bob (GRN)"	0		0	0.00		0	0.00		0
+		Total	72		145	60.92		93	39.08		238
+
+	Norman Road										
+			1st Prefs		425	30.42		972	69.58		1397
+		"GILLHAM, Ray (CEC)"	5		4	80.00		1	20.00		5
+		"CLARKE, Herb (HAN)"	92		65	70.65		27	29.35		92
+		"SCHUBACK, Peter (IND)"	8		5	62.50		3	37.50		8
+		"MURPHY, John Joseph (IND)"	11		9	81.82		2	18.18		11
+		"JOHNS, Naomi (DEM)"	39		10	25.64		29	74.36		39
+		"TAYLOR, Lea (LP)"	360		313	86.94		47	13.06		360
+		"MUIR, Bob (GRN)"	24		6	25.00		18	75.00		24
+		Total	539		837	43.23		1099	56.77		1936
+
+	North Rockhampton										
+			1st Prefs		684	28.41		1724	71.59		2408
+		"GILLHAM, Ray (CEC)"	7		5	71.43		2	28.57		7
+		"CLARKE, Herb (HAN)"	178		113	63.48		65	36.52		178
+		"SCHUBACK, Peter (IND)"	16		10	62.50		6	37.50		16
+		"MURPHY, John Joseph (IND)"	21		9	42.86		12	57.14		21
+		"JOHNS, Naomi (DEM)"	72		20	27.78		52	72.22		72
+		"TAYLOR, Lea (LP)"	616		516	83.77		100	16.23		616
+		"MUIR, Bob (GRN)"	33		12	36.36		21	63.64		33
+		Total	943		1369	40.85		1982	59.15		3351
+
+	Park Avenue										
+			1st Prefs		396	22.06		1399	77.94		1795
+		"GILLHAM, Ray (CEC)"	15		12	80.00		3	20.00		15
+		"CLARKE, Herb (HAN)"	188		133	70.74		55	29.26		188
+		"SCHUBACK, Peter (IND)"	15		11	73.33		4	26.67		15
+		"MURPHY, John Joseph (IND)"	8		4	50.00		4	50.00		8
+		"JOHNS, Naomi (DEM)"	49		21	42.86		28	57.14		49
+		"TAYLOR, Lea (LP)"	353		287	81.30		66	18.70		353
+		"MUIR, Bob (GRN)"	28		9	32.14		19	67.86		28
+		Total	656		873	35.62		1578	64.38		2451
+
+	Parkhurst										
+			1st Prefs		452	40.36		668	59.64		1120
+		"GILLHAM, Ray (CEC)"	1		1	100.00		0	0.00		1
+		"CLARKE, Herb (HAN)"	114		81	71.05		33	28.95		114
+		"SCHUBACK, Peter (IND)"	9		5	55.56		4	44.44		9
+		"MURPHY, John Joseph (IND)"	6		5	83.33		1	16.67		6
+		"JOHNS, Naomi (DEM)"	22		7	31.82		15	68.18		22
+		"TAYLOR, Lea (LP)"	332		288	86.75		44	13.25		332
+		"MUIR, Bob (GRN)"	13		3	23.08		10	76.92		13
+		Total	497		842	52.07		775	47.93		1617
+
+	Port Curtis										
+			1st Prefs		39	25.49		114	74.51		153
+		"GILLHAM, Ray (CEC)"	2		2	100.00		0	0.00		2
+		"CLARKE, Herb (HAN)"	31		20	64.52		11	35.48		31
+		"SCHUBACK, Peter (IND)"	1		1	100.00		0	0.00		1
+		"MURPHY, John Joseph (IND)"	1		1	100.00		0	0.00		1
+		"JOHNS, Naomi (DEM)"	1		0	0.00		1	100.00		1
+		"TAYLOR, Lea (LP)"	28		22	78.57		6	21.43		28
+		"MUIR, Bob (GRN)"	4		0	0.00		4	100.00		4
+		Total	68		85	38.46		136	61.54		221
+
+	Ridgelands										
+			1st Prefs		72	74.23		25	25.77		97
+		"GILLHAM, Ray (CEC)"	1		1	100.00		0	0.00		1
+		"CLARKE, Herb (HAN)"	27		20	74.07		7	25.93		27
+		"SCHUBACK, Peter (IND)"	1		1	100.00		0	0.00		1
+		"MURPHY, John Joseph (IND)"	2		1	50.00		1	50.00		2
+		"JOHNS, Naomi (DEM)"	0		0	0.00		0	0.00		0
+		"TAYLOR, Lea (LP)"	39		35	89.74		4	10.26		39
+		"MUIR, Bob (GRN)"	2		0	0.00		2	100.00		2
+		Total	72		130	76.92		39	23.08		169
+
+	Rockhampton										
+			1st Prefs		105	22.68		358	77.32		463
+		"GILLHAM, Ray (CEC)"	3		2	66.67		1	33.33		3
+		"CLARKE, Herb (HAN)"	32		22	68.75		10	31.25		32
+		"SCHUBACK, Peter (IND)"	2		2	100.00		0	0.00		2
+		"MURPHY, John Joseph (IND)"	3		3	100.00		0	0.00		3
+		"JOHNS, Naomi (DEM)"	27		6	22.22		21	77.78		27
+		"TAYLOR, Lea (LP)"	109		78	71.56		31	28.44		109
+		"MUIR, Bob (GRN)"	9		0	0.00		9	100.00		9
+		Total	185		218	33.64		430	66.36		648
+
+	Rockhampton Central										
+			1st Prefs		42	25.77		121	74.23		163
+		"GILLHAM, Ray (CEC)"	0		0	0.00		0	0.00		0
+		"CLARKE, Herb (HAN)"	21		15	71.43		6	28.57		21
+		"SCHUBACK, Peter (IND)"	2		2	100.00		0	0.00		2
+		"MURPHY, John Joseph (IND)"	2		2	100.00		0	0.00		2
+		"JOHNS, Naomi (DEM)"	2		1	50.00		1	50.00		2
+		"TAYLOR, Lea (LP)"	32		28	87.50		4	12.50		32
+		"MUIR, Bob (GRN)"	3		0	0.00		3	100.00		3
+		Total	62		90	40.00		135	60.00		225
+
+	Rockhampton High School										
+			1st Prefs		340	24.94		1023	75.06		1363
+		"GILLHAM, Ray (CEC)"	5		4	80.00		1	20.00		5
+		"CLARKE, Herb (HAN)"	121		79	65.29		42	34.71		121
+		"SCHUBACK, Peter (IND)"	17		9	52.94		8	47.06		17
+		"MURPHY, John Joseph (IND)"	6		2	33.33		4	66.67		6
+		"JOHNS, Naomi (DEM)"	33		7	21.21		26	78.79		33
+		"TAYLOR, Lea (LP)"	322		274	85.09		48	14.91		322
+		"MUIR, Bob (GRN)"	33		10	30.30		23	69.70		33
+		Total	537		725	38.16		1175	61.84		1900
+
+	Rockhampton South										
+			1st Prefs		509	45.08		620	54.92		1129
+		"GILLHAM, Ray (CEC)"	5		4	80.00		1	20.00		5
+		"CLARKE, Herb (HAN)"	57		42	73.68		15	26.32		57
+		"SCHUBACK, Peter (IND)"	3		1	33.33		2	66.67		3
+		"MURPHY, John Joseph (IND)"	0		0	0.00		0	0.00		0
+		"JOHNS, Naomi (DEM)"	22		2	9.09		20	90.91		22
+		"TAYLOR, Lea (LP)"	314		286	91.08		28	8.92		314
+		"MUIR, Bob (GRN)"	23		4	17.39		19	82.61		23
+		Total	424		848	54.60		705	45.40		1553
+
+	St Brendan's College										
+			1st Prefs		227	38.09		369	61.91		596
+		"GILLHAM, Ray (CEC)"	4		2	50.00		2	50.00		4
+		"CLARKE, Herb (HAN)"	62		46	74.19		16	25.81		62
+		"SCHUBACK, Peter (IND)"	6		1	16.67		5	83.33		6
+		"MURPHY, John Joseph (IND)"	1		1	100.00		0	0.00		1
+		"JOHNS, Naomi (DEM)"	21		9	42.86		12	57.14		21
+		"TAYLOR, Lea (LP)"	137		127	92.70		10	7.30		137
+		"MUIR, Bob (GRN)"	24		5	20.83		19	79.17		24
+		Total	255		418	49.12		433	50.88		851
+
+	St Lawrence										
+			1st Prefs		34	43.59		44	56.41		78
+		"GILLHAM, Ray (CEC)"	3		3	100.00		0	0.00		3
+		"CLARKE, Herb (HAN)"	21		16	76.19		5	23.81		21
+		"SCHUBACK, Peter (IND)"	2		1	50.00		1	50.00		2
+		"MURPHY, John Joseph (IND)"	3		1	33.33		2	66.67		3
+		"JOHNS, Naomi (DEM)"	1		1	100.00		0	0.00		1
+		"TAYLOR, Lea (LP)"	22		18	81.82		4	18.18		22
+		"MUIR, Bob (GRN)"	0		0	0.00		0	0.00		0
+		Total	52		74	56.92		56	43.08		130
+
+	Stanwell										
+			1st Prefs		57	40.43		84	59.57		141
+		"GILLHAM, Ray (CEC)"	2		2	100.00		0	0.00		2
+		"CLARKE, Herb (HAN)"	38		28	73.68		10	26.32		38
+		"SCHUBACK, Peter (IND)"	4		2	50.00		2	50.00		4
+		"MURPHY, John Joseph (IND)"	1		1	100.00		0	0.00		1
+		"JOHNS, Naomi (DEM)"	4		2	50.00		2	50.00		4
+		"TAYLOR, Lea (LP)"	45		39	86.67		6	13.33		45
+		"MUIR, Bob (GRN)"	2		0	0.00		2	100.00		2
+		Total	96		131	55.27		106	44.73		237
+
+	Taranganba										
+			1st Prefs		529	36.74		911	63.26		1440
+		"GILLHAM, Ray (CEC)"	11		8	72.73		3	27.27		11
+		"CLARKE, Herb (HAN)"	114		71	62.28		43	37.72		114
+		"SCHUBACK, Peter (IND)"	11		8	72.73		3	27.27		11
+		"MURPHY, John Joseph (IND)"	9		5	55.56		4	44.44		9
+		"JOHNS, Naomi (DEM)"	41		10	24.39		31	75.61		41
+		"TAYLOR, Lea (LP)"	440		389	88.41		51	11.59		440
+		"MUIR, Bob (GRN)"	48		13	27.08		35	72.92		48
+		Total	674		1033	48.86		1081	51.14		2114
+
+	The Caves										
+			1st Prefs		242	53.66		209	46.34		451
+		"GILLHAM, Ray (CEC)"	2		2	100.00		0	0.00		2
+		"CLARKE, Herb (HAN)"	83		65	78.31		18	21.69		83
+		"SCHUBACK, Peter (IND)"	4		4	100.00		0	0.00		4
+		"MURPHY, John Joseph (IND)"	4		2	50.00		2	50.00		4
+		"JOHNS, Naomi (DEM)"	9		7	77.78		2	22.22		9
+		"TAYLOR, Lea (LP)"	104		90	86.54		14	13.46		104
+		"MUIR, Bob (GRN)"	7		2	28.57		5	71.43		7
+		Total	213		414	62.35		250	37.65		664
+
+	Tieri										
+			1st Prefs		74	14.95		421	85.05		495
+		"GILLHAM, Ray (CEC)"	1		1	100.00		0	0.00		1
+		"CLARKE, Herb (HAN)"	16		7	43.75		9	56.25		16
+		"SCHUBACK, Peter (IND)"	3		3	100.00		0	0.00		3
+		"MURPHY, John Joseph (IND)"	5		2	40.00		3	60.00		5
+		"JOHNS, Naomi (DEM)"	11		5	45.45		6	54.55		11
+		"TAYLOR, Lea (LP)"	50		41	82.00		9	18.00		50
+		"MUIR, Bob (GRN)"	5		1	20.00		4	80.00		5
+		Total	91		134	22.87		452	77.13		586
+
+	Wandal										
+			1st Prefs		232	37.97		379	62.03		611
+		"GILLHAM, Ray (CEC)"	4		4	100.00		0	0.00		4
+		"CLARKE, Herb (HAN)"	45		32	71.11		13	28.89		45
+		"SCHUBACK, Peter (IND)"	3		2	66.67		1	33.33		3
+		"MURPHY, John Joseph (IND)"	4		2	50.00		2	50.00		4
+		"JOHNS, Naomi (DEM)"	24		10	41.67		14	58.33		24
+		"TAYLOR, Lea (LP)"	137		124	90.51		13	9.49		137
+		"MUIR, Bob (GRN)"	7		2	28.57		5	71.43		7
+		Total	224		408	48.86		427	51.14		835
+
+	Westwood										
+			1st Prefs		40	53.33		35	46.67		75
+		"GILLHAM, Ray (CEC)"	0		0	0.00		0	0.00		0
+		"CLARKE, Herb (HAN)"	15		10	66.67		5	33.33		15
+		"SCHUBACK, Peter (IND)"	0		0	0.00		0	0.00		0
+		"MURPHY, John Joseph (IND)"	1		1	100.00		0	0.00		1
+		"JOHNS, Naomi (DEM)"	1		1	100.00		0	0.00		1
+		"TAYLOR, Lea (LP)"	9		6	66.67		3	33.33		9
+		"MUIR, Bob (GRN)"	0		0	0.00		0	0.00		0
+		Total	26		58	57.43		43	42.57		101
+
+	Winton										
+			1st Prefs		174	43.50		226	56.50		400
+		"GILLHAM, Ray (CEC)"	11		11	100.00		0	0.00		11
+		"CLARKE, Herb (HAN)"	64		49	76.56		15	23.44		64
+		"SCHUBACK, Peter (IND)"	8		6	75.00		2	25.00		8
+		"MURPHY, John Joseph (IND)"	1		0	0.00		1	100.00		1
+		"JOHNS, Naomi (DEM)"	7		3	42.86		4	57.14		7
+		"TAYLOR, Lea (LP)"	122		93	76.23		29	23.77		122
+		"MUIR, Bob (GRN)"	3		0	0.00		3	100.00		3
+		Total	216		336	54.55		280	45.45		616
+
+	Yaamba										
+			1st Prefs		53	67.09		26	32.91		79
+		"GILLHAM, Ray (CEC)"	0		0	0.00		0	0.00		0
+		"CLARKE, Herb (HAN)"	21		17	80.95		4	19.05		21
+		"SCHUBACK, Peter (IND)"	1		1	100.00		0	0.00		1
+		"MURPHY, John Joseph (IND)"	1		0	0.00		1	100.00		1
+		"JOHNS, Naomi (DEM)"	1		0	0.00		1	100.00		1
+		"TAYLOR, Lea (LP)"	37		34	91.89		3	8.11		37
+		"MUIR, Bob (GRN)"	1		0	0.00		1	100.00		1
+		Total	62		105	74.47		36	25.53		141
+
+	Yeppoon										
+			1st Prefs		745	32.80		1526	67.20		2271
+		"GILLHAM, Ray (CEC)"	21		19	90.48		2	9.52		21
+		"CLARKE, Herb (HAN)"	252		182	72.22		70	27.78		252
+		"SCHUBACK, Peter (IND)"	26		15	57.69		11	42.31		26
+		"MURPHY, John Joseph (IND)"	16		9	56.25		7	43.75		16
+		"JOHNS, Naomi (DEM)"	107		28	26.17		79	73.83		107
+		"TAYLOR, Lea (LP)"	674		592	87.83		82	12.17		674
+		"MUIR, Bob (GRN)"	101		29	28.71		72	71.29		101
+		Total	1197		1619	46.68		1849	53.32		3468
+
+	Special Hospitals										
+			1st Prefs		118	33.52		234	66.48		352
+		"GILLHAM, Ray (CEC)"	20		16	80.00		4	20.00		20
+		"CLARKE, Herb (HAN)"	16		9	56.25		7	43.75		16
+		"SCHUBACK, Peter (IND)"	7		5	71.43		2	28.57		7
+		"MURPHY, John Joseph (IND)"	2		2	100.00		0	0.00		2
+		"JOHNS, Naomi (DEM)"	5		1	20.00		4	80.00		5
+		"TAYLOR, Lea (LP)"	128		100	78.13		28	21.88		128
+		"MUIR, Bob (GRN)"	2		2	100.00		0	0.00		2
+		Total	180		253	47.56		279	52.44		532
+
+	Total Ordinary										
+			1st Prefs		12771	29.46		30578	70.54		43349
+		"GILLHAM, Ray (CEC)"	378		311	82.28		67	17.72		378
+		"CLARKE, Herb (HAN)"	4370		2900	66.36		1470	33.64		4370
+		"SCHUBACK, Peter (IND)"	392		235	59.95		157	40.05		392
+		"MURPHY, John Joseph (IND)"	266		160	60.15		106	39.85		266
+		"JOHNS, Naomi (DEM)"	1051		312	29.69		739	70.31		1051
+		"TAYLOR, Lea (LP)"	10383		8911	85.82		1472	14.18		10383
+		"MUIR, Bob (GRN)"	822		220	26.76		602	73.24		822
+		Total	17662		25820	42.32		35191	57.68		61011
+
+	ABSENT										
+			1st Prefs		916	29.76		2162	70.24		3078
+		"GILLHAM, Ray (CEC)"	54		46	85.19		8	14.81		54
+		"CLARKE, Herb (HAN)"	389		222	57.07		167	42.93		389
+		"SCHUBACK, Peter (IND)"	58		30	51.72		28	48.28		58
+		"MURPHY, John Joseph (IND)"	35		25	71.43		10	28.57		35
+		"JOHNS, Naomi (DEM)"	146		42	28.77		104	71.23		146
+		"TAYLOR, Lea (LP)"	952		759	79.73		193	20.27		952
+		"MUIR, Bob (GRN)"	134		49	36.57		85	63.43		134
+		Total	1768		2089	43.11		2757	56.89		4846
+
+	POSTAL										
+			1st Prefs		1622	41.71		2267	58.29		3889
+		"GILLHAM, Ray (CEC)"	25		18	72.00		7	28.00		25
+		"CLARKE, Herb (HAN)"	417		262	62.83		155	37.17		417
+		"SCHUBACK, Peter (IND)"	38		23	60.53		15	39.47		38
+		"MURPHY, John Joseph (IND)"	23		15	65.22		8	34.78		23
+		"JOHNS, Naomi (DEM)"	69		22	31.88		47	68.12		69
+		"TAYLOR, Lea (LP)"	1181		1059	89.67		122	10.33		1181
+		"MUIR, Bob (GRN)"	47		10	21.28		37	78.72		47
+		Total	1800		3031	53.28		2658	46.72		5689
+
+	PRE_POLL										
+			1st Prefs		499	28.14		1274	71.86		1773
+		"GILLHAM, Ray (CEC)"	16		13	81.25		3	18.75		16
+		"CLARKE, Herb (HAN)"	155		96	61.94		59	38.06		155
+		"SCHUBACK, Peter (IND)"	21		10	47.62		11	52.38		21
+		"MURPHY, John Joseph (IND)"	17		10	58.82		7	41.18		17
+		"JOHNS, Naomi (DEM)"	57		12	21.05		45	78.95		57
+		"TAYLOR, Lea (LP)"	571		472	82.66		99	17.34		571
+		"MUIR, Bob (GRN)"	56		11	19.64		45	80.36		56
+		Total	893		1123	42.12		1543	57.88		2666
+
+	PROVISIONAL										
+			1st Prefs		81	21.32		299	78.68		380
+		"GILLHAM, Ray (CEC)"	3		3	100.00		0	0.00		3
+		"CLARKE, Herb (HAN)"	33		20	60.61		13	39.39		33
+		"SCHUBACK, Peter (IND)"	3		2	66.67		1	33.33		3
+		"MURPHY, John Joseph (IND)"	2		2	100.00		0	0.00		2
+		"JOHNS, Naomi (DEM)"	11		4	36.36		7	63.64		11
+		"TAYLOR, Lea (LP)"	72		53	73.61		19	26.39		72
+		"MUIR, Bob (GRN)"	9		5	55.56		4	44.44		9
+		Total	133		170	33.14		343	66.86		513
+
+	Division Summary										
+			1st Prefs		15889	30.28		36580	69.72		52469
+		"GILLHAM, Ray (CEC)"	476		391	82.14		85	17.86		476
+		"CLARKE, Herb (HAN)"	5364		3500	65.25		1864	34.75		5364
+		"SCHUBACK, Peter (IND)"	512		300	58.59		212	41.41		512
+		"MURPHY, John Joseph (IND)"	343		212	61.81		131	38.19		343
+		"JOHNS, Naomi (DEM)"	1334		392	29.39		942	70.61		1334
+		"TAYLOR, Lea (LP)"	13159		11254	85.52		1905	14.48		13159	
+		"MUIR, Bob (GRN)"	1068		295	27.62		773	72.38		1068	
+		Total	22256		32233	43.14		42492	56.86		74725	

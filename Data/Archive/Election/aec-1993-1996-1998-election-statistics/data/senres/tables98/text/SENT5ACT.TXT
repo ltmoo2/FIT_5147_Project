@@ -1,0 +1,95 @@
+Senate - 1998 Election: Australian Capital Territory														
+Result of the Transfer and Distribution of Preferences														
+Election of 2 Senators														
+														
+Quota = 197035 +1 =  65679														
+	           2+1													
+														
+				First			Count 2			Count 3-4			Count 5-6	
+				Preference		Votes	Progress		Votes	Progress		Votes 	Progress	
+	Candidate			Votes	Status	Transfd	Totals	Status	Transfd	Totals	Status	Transfd	Totals	Status
+A	"ROGERS, Peter Leonard"	ACS		849		3	852		-852	0	Excluded	0	0	
+A	"HARDY, Anthony"	ACS		19		0	19		-19	0	Excluded	0	0	Excluded
+														
+B	"O'BRIEN, Estelle"	HAN		9310		28	9338		1138	10476		96	10572	
+B	"LEYLAND, Jeremy"	HAN		311		3	314		-314	0	Excluded	0	0	Excluded
+														
+C	"HARIDAN, Annette M"	AWP		843		12	855		-855	0	Excluded	0	0	Excluded
+C	"EDWARDS, Susanne J"	AWF		33		1	34		-34	0	Excluded	0	0	Excluded
+														
+D	"REID, Margaret"	LP		60832		85	60917		1127	62044		210	62254	
+D	"RICHARDS, Gayle"	LP		553		5	558		-558	0	Excluded	0	0	Excluded
+														
+E	"FARLEY, Rick"	DEM		32484		690	33174		713	33887		6324	40211	
+E	"SIEVERS, Wayne"	DEM		349		10	359		-359	0	Excluded	0	0	Excluded
+														
+F	"LUNDY, Kate"	ALP		83090	Elected	-17411	65679	Elected	0	65679	Elected	0	65679	Elected
+F	"CONWAY, Peter Michael"	ALP		777		16481	17258		288	17546		742	18288	
+														
+G	"FOSKEY, Deb"	GRN		6162		61	6223		1157	7380		-7380	0	Excluded
+G	"CHRISTIAN, Lesley Anne"	GRN		223		9	232		-232	0	Excluded	0	0	Excluded
+														
+	"HARRIS, Cec"	IND		170		5	175		-175	0	Excluded	0	0	Excluded
+	"EDGAR, Andrew"	IND		107		1	108		-108	0	Excluded	0	0	Excluded
+	"MILLER, John"	CDP		923		3	926		-926	0	Excluded	0	0	Excluded
+														
+	Exhausted Votes			0		4	4		11	15		6	21	
+	Loss by Fraction			0		10	10		-2	8		2	10	
+														
+	Total Votes			197035		17411	197035		4432	197035		7380	197035	
+														
+	Notes		Candidate Elected			Surplus Distributed			Candidates Excluded			Candidate Excluded		
+			"1. LUNDY, K."			"LUNDY, K."			"ROGERS, P.L. "			"FOSKEY, D."		
+									"HARDY, A."					
+									"LEYLAND, J."					
+									"HARIDAN, A. M."					
+									"EDWARDS, S."					
+									"RICHARDS, G."					
+									"SIEVERS, W."					
+									"CHRISTIAN, L."					
+									"HARRIS, C."					
+									"EDGAR, A."					
+									"MILLER, J."					
+														
+														
+														
+				Count 7										
+			Votes 	Progress										
+	Candidate		Transfd	Totals 	Status									
+														
+A	"ROGERS, Peter Leonard"	ACS	0	0	Excluded									
+A	"HARDY, Anthony"	ACS	0	0	Excluded									
+														
+B	"O'BRIEN, Estelle"	HAN	10534	38	Excluded									
+B	" LEYLAND, Jeremy"	HAN	0	0	Excluded									
+														
+C	"HARIDAN, Annette M"	AWP	0	0	Excluded									
+C	"EDWARDS, Susanne J"	AWF	0	0	Excluded									
+														
+D	"REID, Margaret"	LP	4888	67142	Elected									
+D	"RICHARDS, Gayle"	LP	0	0	Excluded									
+														
+E	" FARLEY, Rick"	DEM	824	41035										
+E	"SIEVERS, Wayne"	DEM	0	0	Excluded									
+														
+F	"LUNDY, Kate"	ALP	0	65679	Elected									
+F	"CONWAY, Peter Michael"	ALP	4800	23088										
+														
+G	"FOSKEY, Deb"	GRN	0	0	Excluded									
+G	"CHRISTIAN, Lesley Anne"	GRN	0	0	Excluded									
+														
+	"HARRIS, Cec"	IND	0	0	Excluded									
+	"EDGAR, Andrew"	IND	0	0	Excluded									
+	"MILLER, John"	CDP	0	0	Excluded									
+														
+	Exhausted Votes		22	43										
+	Loss by Fraction		0	10										
+														
+	Total Votes		10534	197035										
+														
+	Notes		Candidate Partially Excluded											
+			"O'BRIEN, E."											
+														
+			Candidate Elected											
+			"2. REID, M."											
+														

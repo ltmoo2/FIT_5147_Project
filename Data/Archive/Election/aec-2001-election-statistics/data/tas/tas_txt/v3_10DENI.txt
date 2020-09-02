@@ -1,0 +1,349 @@
+House of Representatives - 2001 Election: Tasmania												
+Two Candidate Preferred Preference Flow Result 												
+By Polling Place												
+												
+Denison (67938)												
+		Candidate		                  	"KERR, Duncan"		               	"STEVEN, Tony"		               	Total	
+				                           	ALP		                        	LP		                         		
+				                           	Votes	%	                     	Votes	%	                     		
+	Abbotsfield											
+			1st Prefs		1165	75.75		373	24.25		1538	
+		"EDWARDS, Penny (DEM)"	77		54	70.13		23	29.87		77	
+		"HAMPSON, Brenda (GRN)"	66		48	72.73		18	27.27		66	
+		Total	143		1267	75.37		414	24.63		1681	
+
+	Albuera											
+			1st Prefs		215	52.44		195	47.56		410	
+		"EDWARDS, Penny (DEM)"	61		39	63.93		22	36.07		61	
+		"HAMPSON, Brenda (GRN)"	145		117	80.69		28	19.31		145	
+		Total	206		371	60.23		245	39.77		616	
+
+	Austins Ferry											
+			1st Prefs		882	63.59		505	36.41		1387	
+		"EDWARDS, Penny (DEM)"	61		36	59.02		25	40.98		61	
+		"HAMPSON, Brenda (GRN)"	50		38	76.00		12	24.00		50	
+		Total	111		956	63.82		542	36.18		1498	
+
+	Battery Point											
+			1st Prefs		400	44.05		508	55.95		908	
+		"EDWARDS, Penny (DEM)"	100		70	70.00		30	30.00		100	
+		"HAMPSON, Brenda (GRN)"	219		183	83.56		36	16.44		219	
+		Total	319		653	53.22		574	46.78		1227	
+
+	Bowen Road											
+			1st Prefs		1027	74.64		349	25.36		1376	
+		"EDWARDS, Penny (DEM)"	109		77	70.64		32	29.36		109	
+		"HAMPSON, Brenda (GRN)"	123		94	76.42		29	23.58		123	
+		Total	232		1198	74.50		410	25.50		1608	
+
+	Brent Street											
+			1st Prefs		534	66.83		265	33.17		799	
+		"EDWARDS, Penny (DEM)"	46		29	63.04		17	36.96		46	
+		"HAMPSON, Brenda (GRN)"	43		34	79.07		9	20.93		43	
+		Total	89		597	67.23		291	32.77		888	
+
+	Cascades											
+			1st Prefs		284	65.29		151	34.71		435	
+		"EDWARDS, Penny (DEM)"	50		41	82.00		9	18.00		50	
+		"HAMPSON, Brenda (GRN)"	114		100	87.72		14	12.28		114	
+		Total	164		425	70.95		174	29.05		599	
+
+	Chigwell											
+			1st Prefs		1210	72.98		448	27.02		1658	
+		"EDWARDS, Penny (DEM)"	65		40	61.54		25	38.46		65	
+		"HAMPSON, Brenda (GRN)"	79		59	74.68		20	25.32		79	
+		Total	144		1309	72.64		493	27.36		1802	
+
+	Claremont											
+			1st Prefs		915	70.01		392	29.99		1307	
+		"EDWARDS, Penny (DEM)"	57		33	57.89		24	42.11		57	
+		"HAMPSON, Brenda (GRN)"	55		40	72.73		15	27.27		55	
+		Total	112		988	69.63		431	30.37		1419	
+
+	Collinsvale											
+			1st Prefs		224	76.45		69	23.55		293	
+		"EDWARDS, Penny (DEM)"	18		15	83.33		3	16.67		18	
+		"HAMPSON, Brenda (GRN)"	43		36	83.72		7	16.28		43	
+		Total	61		275	77.68		79	22.32		354	
+
+	Cornelian Bay											
+			1st Prefs		269	56.16		210	43.84		479	
+		"EDWARDS, Penny (DEM)"	29		23	79.31		6	20.69		29	
+		"HAMPSON, Brenda (GRN)"	58		44	75.86		14	24.14		58	
+		Total	87		336	59.36		230	40.64		566	
+
+	Cosgrove											
+			1st Prefs		499	70.98		204	29.02		703	
+		"EDWARDS, Penny (DEM)"	41		30	73.17		11	26.83		41	
+		"HAMPSON, Brenda (GRN)"	53		39	73.58		14	26.42		53	
+		Total	94		568	71.27		229	28.73		797	
+
+	Creek Road											
+			1st Prefs		630	55.36		508	44.64		1138	
+		"EDWARDS, Penny (DEM)"	71		49	69.01		22	30.99		71	
+		"HAMPSON, Brenda (GRN)"	127		94	74.02		33	25.98		127	
+		Total	198		773	57.86		563	42.14		1336	
+
+	Cross Street											
+			1st Prefs		930	63.61		532	36.39		1462	
+		"EDWARDS, Penny (DEM)"	124		94	75.81		30	24.19		124	
+		"HAMPSON, Brenda (GRN)"	184		154	83.70		30	16.30		184	
+		Total	308		1178	66.55		592	33.45		1770	
+
+	Dynnyrne											
+			1st Prefs		434	53.25		381	46.75		815	
+		"EDWARDS, Penny (DEM)"	115		78	67.83		37	32.17		115	
+		"HAMPSON, Brenda (GRN)"	188		155	82.45		33	17.55		188	
+		Total	303		667	59.66		451	40.34		1118	
+
+	Elizabeth Street											
+			1st Prefs		349	65.97		180	34.03		529	
+		"EDWARDS, Penny (DEM)"	87		64	73.56		23	26.44		87	
+		"HAMPSON, Brenda (GRN)"	179		155	86.59		24	13.41		179	
+		Total	266		568	71.45		227	28.55		795	
+
+	Elwick											
+			1st Prefs		278	77.65		80	22.35		358	
+		"EDWARDS, Penny (DEM)"	13		7	53.85		6	46.15		13	
+		"HAMPSON, Brenda (GRN)"	11		7	63.64		4	36.36		11	
+		Total	24		292	76.44		90	23.56		382	
+
+	Fern Tree											
+			1st Prefs		187	68.50		86	31.50		273	
+		"EDWARDS, Penny (DEM)"	46		35	76.09		11	23.91		46	
+		"HAMPSON, Brenda (GRN)"	121		103	85.12		18	14.88		121	
+		Total	167		325	73.86		115	26.14		440	
+
+	Glenorchy											
+			1st Prefs		1737	69.34		768	30.66		2505	
+		"EDWARDS, Penny (DEM)"	137		81	59.12		56	40.88		137	
+		"HAMPSON, Brenda (GRN)"	117		85	72.65		32	27.35		117	
+		Total	254		1903	68.97		856	31.03		2759	
+
+	Glenorchy East											
+			1st Prefs		1295	70.92		531	29.08		1826	
+		"EDWARDS, Penny (DEM)"	92		65	70.65		27	29.35		92	
+		"HAMPSON, Brenda (GRN)"	111		90	81.08		21	18.92		111	
+		Total	203		1450	71.46		579	28.54		2029	
+
+	Goodwood											
+			1st Prefs		641	80.02		160	19.98		801	
+		"EDWARDS, Penny (DEM)"	50		35	70.00		15	30.00		50	
+		"HAMPSON, Brenda (GRN)"	37		23	62.16		14	37.84		37	
+		Total	87		699	78.72		189	21.28		888	
+
+	Hill Street											
+			1st Prefs		318	72.11		123	27.89		441	
+		"EDWARDS, Penny (DEM)"	57		47	82.46		10	17.54		57	
+		"HAMPSON, Brenda (GRN)"	171		145	84.80		26	15.20		171	
+		Total	228		510	76.23		159	23.77		669	
+
+	Hobart											
+			1st Prefs		290	62.50		174	37.50		464	
+		"EDWARDS, Penny (DEM)"	63		36	57.14		27	42.86		63	
+		"HAMPSON, Brenda (GRN)"	171		146	85.38		25	14.62		171	
+		Total	234		472	67.62		226	32.38		698	
+
+	Hobart Central											
+			1st Prefs		106	63.47		61	36.53		167	
+		"EDWARDS, Penny (DEM)"	18		10	55.56		8	44.44		18	
+		"HAMPSON, Brenda (GRN)"	48		38	79.17		10	20.83		48	
+		Total	66		154	66.09		79	33.91		233	
+
+	Hobart North											
+			1st Prefs		343	67.79		163	32.21		506	
+		"EDWARDS, Penny (DEM)"	41		29	70.73		12	29.27		41	
+		"HAMPSON, Brenda (GRN)"	78		68	87.18		10	12.82		78	
+		Total	119		440	70.40		185	29.60		625	
+
+	Hobart South											
+			1st Prefs		755	62.19		459	37.81		1214	
+		"EDWARDS, Penny (DEM)"	130		103	79.23		27	20.77		130	
+		"HAMPSON, Brenda (GRN)"	342		296	86.55		46	13.45		342	
+		Total	472		1154	68.45		532	31.55		1686	
+
+	Hobart West											
+			1st Prefs		408	68.34		189	31.66		597	
+		"EDWARDS, Penny (DEM)"	82		63	76.83		19	23.17		82	
+		"HAMPSON, Brenda (GRN)"	202		180	89.11		22	10.89		202	
+		Total	284		651	73.89		230	26.11		881	
+
+	Lansdowne Crescent											
+			1st Prefs		370	62.29		224	37.71		594	
+		"EDWARDS, Penny (DEM)"	78		61	78.21		17	21.79		78	
+		"HAMPSON, Brenda (GRN)"	146		127	86.99		19	13.01		146	
+		Total	224		558	68.22		260	31.78		818	
+
+	Lenah Valley											
+			1st Prefs		763	56.48		588	43.52		1351	
+		"EDWARDS, Penny (DEM)"	122		77	63.11		45	36.89		122	
+		"HAMPSON, Brenda (GRN)"	142		107	75.35		35	24.65		142	
+		Total	264		947	58.64		668	41.36		1615	
+
+	Lower Sandy Bay											
+			1st Prefs		566	32.03		1201	67.97		1767	
+		"EDWARDS, Penny (DEM)"	137		86	62.77		51	37.23		137	
+		"HAMPSON, Brenda (GRN)"	199		143	71.86		56	28.14		199	
+		Total	336		795	37.80		1308	62.20		2103	
+
+	Lutana											
+			1st Prefs		624	69.72		271	30.28		895	
+		"EDWARDS, Penny (DEM)"	37		28	75.68		9	24.32		37	
+		"HAMPSON, Brenda (GRN)"	46		29	63.04		17	36.96		46	
+		Total	83		681	69.63		297	30.37		978	
+
+	Montrose											
+			1st Prefs		288	65.31		153	34.69		441	
+		"EDWARDS, Penny (DEM)"	22		12	54.55		10	45.45		22	
+		"HAMPSON, Brenda (GRN)"	12		9	75.00		3	25.00		12	
+		Total	34		309	65.05		166	34.95		475	
+
+	Moonah											
+			1st Prefs		1198	66.01		617	33.99		1815	
+		"EDWARDS, Penny (DEM)"	107		72	67.29		35	32.71		107	
+		"HAMPSON, Brenda (GRN)"	124		94	75.81		30	24.19		124	
+		Total	231		1364	66.67		682	33.33		2046	
+
+	Moonah North											
+			1st Prefs		580	67.76		276	32.24		856	
+		"EDWARDS, Penny (DEM)"	67		44	65.67		23	34.33		67	
+		"HAMPSON, Brenda (GRN)"	55		39	70.91		16	29.09		55	
+		Total	122		663	67.79		315	32.21		978	
+
+	Mount Nelson											
+			1st Prefs		475	49.74		480	50.26		955	
+		"EDWARDS, Penny (DEM)"	90		58	64.44		32	35.56		90	
+		"HAMPSON, Brenda (GRN)"	151		113	74.83		38	25.17		151	
+		Total	241		646	54.01		550	45.99		1196	
+
+	Mount Stuart											
+			1st Prefs		357	54.92		293	45.08		650	
+		"EDWARDS, Penny (DEM)"	69		48	69.57		21	30.43		69	
+		"HAMPSON, Brenda (GRN)"	76		64	84.21		12	15.79		76	
+		Total	145		469	58.99		326	41.01		795	
+
+	Newdegate											
+			1st Prefs		600	63.16		350	36.84		950	
+		"EDWARDS, Penny (DEM)"	107		86	80.37		21	19.63		107	
+		"HAMPSON, Brenda (GRN)"	163		139	85.28		24	14.72		163	
+		Total	270		825	67.62		395	32.38		1220	
+
+	New Town											
+			1st Prefs		377	56.61		289	43.39		666	
+		"EDWARDS, Penny (DEM)"	62		41	66.13		21	33.87		62	
+		"HAMPSON, Brenda (GRN)"	124		102	82.26		22	17.74		124	
+		Total	186		520	61.03		332	38.97		852	
+
+	Queenborough											
+			1st Prefs		233	58.40		166	41.60		399	
+		"EDWARDS, Penny (DEM)"	33		24	72.73		9	27.27		33	
+		"HAMPSON, Brenda (GRN)"	76		68	89.47		8	10.53		76	
+		Total	109		325	63.98		183	36.02		508	
+
+	Roseneath											
+			1st Prefs		251	81.49		57	18.51		308	
+		"EDWARDS, Penny (DEM)"	8		6	75.00		2	25.00		8	
+		"HAMPSON, Brenda (GRN)"	19		11	57.89		8	42.11		19	
+		Total	27		268	80.00		67	20.00		335	
+
+	Rosetta											
+			1st Prefs		421	57.05		317	42.95		738	
+		"EDWARDS, Penny (DEM)"	46		29	63.04		17	36.96		46	
+		"HAMPSON, Brenda (GRN)"	42		30	71.43		12	28.57		42	
+		Total	88		480	58.11		346	41.89		826	
+
+	St Johns Park											
+			1st Prefs		191	68.71		87	31.29		278	
+		"EDWARDS, Penny (DEM)"	33		22	66.67		11	33.33		33	
+		"HAMPSON, Brenda (GRN)"	38		31	81.58		7	18.42		38	
+		Total	71		244	69.91		105	30.09		349	
+
+	St Peters											
+			1st Prefs		192	65.53		101	34.47		293	
+		"EDWARDS, Penny (DEM)"	38		25	65.79		13	34.21		38	
+		"HAMPSON, Brenda (GRN)"	89		73	82.02		16	17.98		89	
+		Total	127		290	69.05		130	30.95		420	
+
+	Sandy Bay											
+			1st Prefs		586	44.60		728	55.40		1314	
+		"EDWARDS, Penny (DEM)"	138		93	67.39		45	32.61		138	
+		"HAMPSON, Brenda (GRN)"	240		182	75.83		58	24.17		240	
+		Total	378		861	50.89		831	49.11		1692	
+
+	Sandy Bay Beach											
+			1st Prefs		292	35.27		536	64.73		828	
+		"EDWARDS, Penny (DEM)"	54		29	53.70		25	46.30		54	
+		"HAMPSON, Brenda (GRN)"	76		49	64.47		27	35.53		76	
+		Total	130		370	38.62		588	61.38		958	
+
+	Swan											
+			1st Prefs		303	69.66		132	30.34		435	
+		"EDWARDS, Penny (DEM)"	59		43	72.88		16	27.12		59	
+		"HAMPSON, Brenda (GRN)"	111		102	91.89		9	8.11		111	
+		Total	170		448	74.05		157	25.95		605	
+
+	Taroona											
+			1st Prefs		591	51.17		564	48.83		1155	
+		"EDWARDS, Penny (DEM)"	129		82	63.57		47	36.43		129	
+		"HAMPSON, Brenda (GRN)"	226		184	81.42		42	18.58		226	
+		Total	355		857	56.75		653	43.25		1510	
+
+	Tolosa											
+			1st Prefs		1051	71.89		411	28.11		1462	
+		"EDWARDS, Penny (DEM)"	79		53	67.09		26	32.91		79	
+		"HAMPSON, Brenda (GRN)"	46		31	67.39		15	32.61		46	
+		Total	125		1135	71.52		452	28.48		1587	
+
+	Waimea Heights											
+			1st Prefs		209	35.13		386	64.87		595	
+		"EDWARDS, Penny (DEM)"	46		36	78.26		10	21.74		46	
+		"HAMPSON, Brenda (GRN)"	63		42	66.67		21	33.33		63	
+		Total	109		287	40.77		417	59.23		704	
+
+	Windermere											
+			1st Prefs		712	69.74		309	30.26		1021	
+		"EDWARDS, Penny (DEM)"	50		38	76.00		12	24.00		50	
+		"HAMPSON, Brenda (GRN)"	29		22	75.86		7	24.14		29	
+		Total	79		772	70.18		328	29.82		1100	
+
+	Special Hospitals											
+			1st Prefs		252	55.88		199	44.12		451	
+		"EDWARDS, Penny (DEM)"	20		11	55.00		9	45.00		20	
+		"HAMPSON, Brenda (GRN)"	11		8	72.73		3	27.27		11	
+		Total	31		271	56.22		211	43.78		482	
+
+	Total Ordinary											
+			1st Prefs		27807	62.34		16799	37.66		44606	
+		"EDWARDS, Penny (DEM)"	3471		2387	68.77		1084	31.23		3471	
+		"HAMPSON, Brenda (GRN)"	5439		4370	80.35		1069	19.65		5439	
+		Total	8910		34564	64.59		18952	35.41		53516	
+
+	ABSENT											
+			1st Prefs		1472	61.05		939	38.95		2411	
+		"EDWARDS, Penny (DEM)"	233		149	63.95		84	36.05		233	
+		"HAMPSON, Brenda (GRN)"	401		315	78.55		86	21.45		401	
+		Total	634		1936	63.58		1109	36.42		3045	
+
+	POSTAL											
+			1st Prefs		1572	58.05		1136	41.95		2708	
+		"EDWARDS, Penny (DEM)"	129		88	68.22		41	31.78		129	
+		"HAMPSON, Brenda (GRN)"	226		167	73.89		59	26.11		226	
+		Total	355		1827	59.65		1236	40.35		3063	
+
+	PRE_POLL											
+			1st Prefs		1239	56.91		938	43.09		2177	
+		"EDWARDS, Penny (DEM)"	258		176	68.22		82	31.78		258	
+		"HAMPSON, Brenda (GRN)"	424		350	82.55		74	17.45		424	
+		Total	682		1765	61.73		1094	38.27		2859	
+
+	PROVISIONAL											
+			1st Prefs		314	73.88		111	26.12		425	
+		"EDWARDS, Penny (DEM)"	63		45	71.43		18	28.57		63	
+		"HAMPSON, Brenda (GRN)"	102		79	77.45		23	22.55		102	
+		Total	165		438	74.24		152	25.76		590	
+
+	Division Summary											
+			1st Prefs		32404	61.93		19923	38.07		52327	
+		"EDWARDS, Penny (DEM)"	4154		2845	68.49		1309	31.51		4154	
+		"HAMPSON, Brenda (GRN)"	6592		5281	80.11		1311	19.89		6592	
+		Total	10746		40530	64.26		22543	35.74		63073	

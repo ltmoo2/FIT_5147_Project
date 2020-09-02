@@ -1,0 +1,457 @@
+House of Representatives - 2001 Election: Queensland												
+Two Candidate Preferred Preference Flow Result 												
+By Polling Place												
+Moncrieff (89483)												
+		Candidate		                  	"CIOBO, Steven"		              	"CHATTERJEE, Victoria"		       	Total	
+				                           	LP		                         	ALP		                        		
+				                           	Votes	%	                     	Votes	%	                     		
+	Aquinas											
+			1st Prefs		167	66.80		83	33.20		250	
+		"TOBIAS, Josephine (IND)"	12		10	83.33		2	16.67		12	
+		"CARROLL, Maurie (IND)"	2		2	100.00		0	0.00		2	
+		"DOUGLAS, Susie (NP)"	52		49	94.23		3	5.77		52	
+		"ALECKSON, Maxwell A (IND)"	3		2	66.67		1	33.33		3	
+		"MILLAR, Lesley (HAN)"	18		9	50.00		9	50.00		18	
+		"DERRICK, Kari (DEM)"	20		4	20.00		16	80.00		20	
+		"HEPBURN, Dean (GRN)"	15		5	33.33		10	66.67		15	
+		Total	122		248	66.67		124	33.33		372
+
+	Arundel										
+			1st Prefs		2958	71.05		1205	28.95		4163
+		"TOBIAS, Josephine (IND)"	149		115	77.18		34	22.82		149
+		"CARROLL, Maurie (IND)"	26		22	84.62		4	15.38		26
+		"DOUGLAS, Susie (NP)"	238		203	85.29		35	14.71		238
+		"ALECKSON, Maxwell A (IND)"	32		26	81.25		6	18.75		32
+		"MILLAR, Lesley (HAN)"	288		128	44.44		160	55.56		288
+		"DERRICK, Kari (DEM)"	276		107	38.77		169	61.23		276
+		"HEPBURN, Dean (GRN)"	111		50	45.05		61	54.95		111
+		Total	1120		3609	68.31		1674	31.69		5283
+
+	Arundel East										
+			1st Prefs		469	58.63		331	41.38		800
+		"TOBIAS, Josephine (IND)"	34		25	73.53		9	26.47		34
+		"CARROLL, Maurie (IND)"	7		4	57.14		3	42.86		7
+		"DOUGLAS, Susie (NP)"	90		79	87.78		11	12.22		90
+		"ALECKSON, Maxwell A (IND)"	10		3	30.00		7	70.00		10
+		"MILLAR, Lesley (HAN)"	58		27	46.55		31	53.45		58
+		"DERRICK, Kari (DEM)"	46		20	43.48		26	56.52		46
+		"HEPBURN, Dean (GRN)"	15		6	40.00		9	60.00		15
+		Total	260		633	59.72		427	40.28		1060
+
+	Ashmore										
+			1st Prefs		1844	68.68		841	31.32		2685
+		"TOBIAS, Josephine (IND)"	91		71	78.02		20	21.98		91
+		"CARROLL, Maurie (IND)"	9		8	88.89		1	11.11		9
+		"DOUGLAS, Susie (NP)"	345		311	90.14		34	9.86		345
+		"ALECKSON, Maxwell A (IND)"	14		8	57.14		6	42.86		14
+		"MILLAR, Lesley (HAN)"	221		89	40.27		132	59.73		221
+		"DERRICK, Kari (DEM)"	202		78	38.61		124	61.39		202
+		"HEPBURN, Dean (GRN)"	156		58	37.18		98	62.82		156
+		Total	1038		2467	66.26		1256	33.74		3723
+
+	Ashmore West										
+			1st Prefs		1140	63.83		646	36.17		1786
+		"TOBIAS, Josephine (IND)"	81		64	79.01		17	20.99		81
+		"CARROLL, Maurie (IND)"	13		8	61.54		5	38.46		13
+		"DOUGLAS, Susie (NP)"	199		174	87.44		25	12.56		199
+		"ALECKSON, Maxwell A (IND)"	11		7	63.64		4	36.36		11
+		"MILLAR, Lesley (HAN)"	153		60	39.22		93	60.78		153
+		"DERRICK, Kari (DEM)"	104		41	39.42		63	60.58		104
+		"HEPBURN, Dean (GRN)"	88		38	43.18		50	56.82		88
+		Total	649		1532	62.92		903	37.08		2435
+
+	Benowa										
+			1st Prefs		2266	75.33		742	24.67		3008
+		"TOBIAS, Josephine (IND)"	100		81	81.00		19	19.00		100
+		"CARROLL, Maurie (IND)"	13		10	76.92		3	23.08		13
+		"DOUGLAS, Susie (NP)"	311		280	90.03		31	9.97		311
+		"ALECKSON, Maxwell A (IND)"	18		11	61.11		7	38.89		18
+		"MILLAR, Lesley (HAN)"	182		86	47.25		96	52.75		182
+		"DERRICK, Kari (DEM)"	148		47	31.76		101	68.24		148
+		"HEPBURN, Dean (GRN)"	130		50	38.46		80	61.54		130
+		Total	902		2831	72.40		1079	27.60		3910
+
+	Brisbane City (Moncrieff)										
+			1st Prefs		33	76.74		10	23.26		43
+		"TOBIAS, Josephine (IND)"	0		0	0.00		0	0.00		0
+		"CARROLL, Maurie (IND)"	0		0	0.00		0	0.00		0
+		"DOUGLAS, Susie (NP)"	5		5	100.00		0	0.00		5
+		"ALECKSON, Maxwell A (IND)"	0		0	0.00		0	0.00		0
+		"MILLAR, Lesley (HAN)"	0		0	0.00		0	0.00		0
+		"DERRICK, Kari (DEM)"	5		1	20.00		4	80.00		5
+		"HEPBURN, Dean (GRN)"	5		1	20.00		4	80.00		5
+		Total	15		40	68.97		18	31.03		58
+
+	Broadbeach (Moncrieff)										
+			1st Prefs		873	73.61		313	26.39		1186
+		"TOBIAS, Josephine (IND)"	44		36	81.82		8	18.18		44
+		"CARROLL, Maurie (IND)"	8		7	87.50		1	12.50		8
+		"DOUGLAS, Susie (NP)"	70		59	84.29		11	15.71		70
+		"ALECKSON, Maxwell A (IND)"	5		4	80.00		1	20.00		5
+		"MILLAR, Lesley (HAN)"	59		37	62.71		22	37.29		59
+		"DERRICK, Kari (DEM)"	86		36	41.86		50	58.14		86
+		"HEPBURN, Dean (GRN)"	89		43	48.31		46	51.69		89
+		Total	361		1095	70.78		452	29.22		1547
+
+	Carrara										
+			1st Prefs		392	67.70		187	32.30		579
+		"TOBIAS, Josephine (IND)"	27		16	59.26		11	40.74		27
+		"CARROLL, Maurie (IND)"	3		2	66.67		1	33.33		3
+		"DOUGLAS, Susie (NP)"	66		59	89.39		7	10.61		66
+		"ALECKSON, Maxwell A (IND)"	1		1	100.00		0	0.00		1
+		"MILLAR, Lesley (HAN)"	52		26	50.00		26	50.00		52
+		"DERRICK, Kari (DEM)"	34		15	44.12		19	55.88		34
+		"HEPBURN, Dean (GRN)"	25		8	32.00		17	68.00		25
+		Total	208		519	65.95		268	34.05		787
+
+	Chevron Island										
+			1st Prefs		983	73.63		352	26.37		1335
+		"TOBIAS, Josephine (IND)"	46		35	76.09		11	23.91		46
+		"CARROLL, Maurie (IND)"	7		6	85.71		1	14.29		7
+		"DOUGLAS, Susie (NP)"	129		111	86.05		18	13.95		129
+		"ALECKSON, Maxwell A (IND)"	9		5	55.56		4	44.44		9
+		"MILLAR, Lesley (HAN)"	71		35	49.30		36	50.70		71
+		"DERRICK, Kari (DEM)"	71		21	29.58		50	70.42		71
+		"HEPBURN, Dean (GRN)"	64		23	35.94		41	64.06		64
+		Total	397		1219	70.38		513	29.62		1732
+
+	Earle Haven										
+			1st Prefs		323	73.08		119	26.92		442
+		"TOBIAS, Josephine (IND)"	16		14	87.50		2	12.50		16
+		"CARROLL, Maurie (IND)"	1		1	100.00		0	0.00		1
+		"DOUGLAS, Susie (NP)"	31		28	90.32		3	9.68		31
+		"ALECKSON, Maxwell A (IND)"	4		4	100.00		0	0.00		4
+		"MILLAR, Lesley (HAN)"	22		9	40.91		13	59.09		22
+		"DERRICK, Kari (DEM)"	11		4	36.36		7	63.64		11
+		"HEPBURN, Dean (GRN)"	6		2	33.33		4	66.67		6
+		Total	91		385	72.23		148	27.77		533
+
+	Evandale										
+			1st Prefs		1463	75.57		473	24.43		1936
+		"TOBIAS, Josephine (IND)"	69		64	92.75		5	7.25		69
+		"CARROLL, Maurie (IND)"	10		6	60.00		4	40.00		10
+		"DOUGLAS, Susie (NP)"	233		202	86.70		31	13.30		233
+		"ALECKSON, Maxwell A (IND)"	10		8	80.00		2	20.00		10
+		"MILLAR, Lesley (HAN)"	112		56	50.00		56	50.00		112
+		"DERRICK, Kari (DEM)"	88		38	43.18		50	56.82		88
+		"HEPBURN, Dean (GRN)"	81		20	24.69		61	75.31		81
+		Total	603		1857	73.14		682	26.86		2539
+
+	Florida Gardens										
+			1st Prefs		419	75.77		134	24.23		553
+		"TOBIAS, Josephine (IND)"	12		10	83.33		2	16.67		12
+		"CARROLL, Maurie (IND)"	1		0	0.00		1	100.00		1
+		"DOUGLAS, Susie (NP)"	58		50	86.21		8	13.79		58
+		"ALECKSON, Maxwell A (IND)"	5		4	80.00		1	20.00		5
+		"MILLAR, Lesley (HAN)"	16		14	87.50		2	12.50		16
+		"DERRICK, Kari (DEM)"	19		8	42.11		11	57.89		19
+		"HEPBURN, Dean (GRN)"	24		6	25.00		18	75.00		24
+		Total	135		511	74.27		177	25.73		688
+
+	Gilston										
+			1st Prefs		513	74.89		172	25.11		685
+		"TOBIAS, Josephine (IND)"	20		15	75.00		5	25.00		20
+		"CARROLL, Maurie (IND)"	2		2	100.00		0	0.00		2
+		"DOUGLAS, Susie (NP)"	58		54	93.10		4	6.90		58
+		"ALECKSON, Maxwell A (IND)"	0		0	0.00		0	0.00		0
+		"MILLAR, Lesley (HAN)"	73		28	38.36		45	61.64		73
+		"DERRICK, Kari (DEM)"	31		9	29.03		22	70.97		31
+		"HEPBURN, Dean (GRN)"	34		9	26.47		25	73.53		34
+		Total	218		630	69.77		273	30.23		903
+
+	Harley Park										
+			1st Prefs		629	54.89		517	45.11		1146
+		"TOBIAS, Josephine (IND)"	53		43	81.13		10	18.87		53
+		"CARROLL, Maurie (IND)"	11		7	63.64		4	36.36		11
+		"DOUGLAS, Susie (NP)"	97		85	87.63		12	12.37		97
+		"ALECKSON, Maxwell A (IND)"	14		9	64.29		5	35.71		14
+		"MILLAR, Lesley (HAN)"	107		50	46.73		57	53.27		107
+		"DERRICK, Kari (DEM)"	50		15	30.00		35	70.00		50
+		"HEPBURN, Dean (GRN)"	60		17	28.33		43	71.67		60
+		Total	392		855	55.59		683	44.41		1538
+
+	Isle Of Capri										
+			1st Prefs		1485	81.19		344	18.81		1829
+		"TOBIAS, Josephine (IND)"	79		72	91.14		7	8.86		79
+		"CARROLL, Maurie (IND)"	6		4	66.67		2	33.33		6
+		"DOUGLAS, Susie (NP)"	153		146	95.42		7	4.58		153
+		"ALECKSON, Maxwell A (IND)"	13		12	92.31		1	7.69		13
+		"MILLAR, Lesley (HAN)"	94		32	34.04		62	65.96		94
+		"DERRICK, Kari (DEM)"	63		21	33.33		42	66.67		63
+		"HEPBURN, Dean (GRN)"	73		30	41.10		43	58.90		73
+		Total	481		1802	78.01		508	21.99		2310
+
+	Keebra Park										
+			1st Prefs		574	56.11		449	43.89		1023
+		"TOBIAS, Josephine (IND)"	57		44	77.19		13	22.81		57
+		"CARROLL, Maurie (IND)"	12		7	58.33		5	41.67		12
+		"DOUGLAS, Susie (NP)"	76		59	77.63		17	22.37		76
+		"ALECKSON, Maxwell A (IND)"	15		8	53.33		7	46.67		15
+		"MILLAR, Lesley (HAN)"	87		43	49.43		44	50.57		87
+		"DERRICK, Kari (DEM)"	67		26	38.81		41	61.19		67
+		"HEPBURN, Dean (GRN)"	87		35	40.23		52	59.77		87
+		Total	401		796	55.90		628	44.10		1424
+
+	Labrador										
+			1st Prefs		1244	53.90		1064	46.10		2308
+		"TOBIAS, Josephine (IND)"	78		58	74.36		20	25.64		78
+		"CARROLL, Maurie (IND)"	21		14	66.67		7	33.33		21
+		"DOUGLAS, Susie (NP)"	157		135	85.99		22	14.01		157
+		"ALECKSON, Maxwell A (IND)"	30		13	43.33		17	56.67		30
+		"MILLAR, Lesley (HAN)"	221		94	42.53		127	57.47		221
+		"DERRICK, Kari (DEM)"	161		63	39.13		98	60.87		161
+		"HEPBURN, Dean (GRN)"	131		52	39.69		79	60.31		131
+		Total	799		1673	53.85		1434	46.15		3107
+
+	Main Beach										
+			1st Prefs		1408	82.92		290	17.08		1698
+		"TOBIAS, Josephine (IND)"	88		74	84.09		14	15.91		88
+		"CARROLL, Maurie (IND)"	4		3	75.00		1	25.00		4
+		"DOUGLAS, Susie (NP)"	124		114	91.94		10	8.06		124
+		"ALECKSON, Maxwell A (IND)"	16		8	50.00		8	50.00		16
+		"MILLAR, Lesley (HAN)"	63		23	36.51		40	63.49		63
+		"DERRICK, Kari (DEM)"	56		21	37.50		35	62.50		56
+		"HEPBURN, Dean (GRN)"	69		30	43.48		39	56.52		69
+		Total	420		1681	79.37		437	20.63		2118
+
+	Mermaid Waters (Moncrieff)										
+			1st Prefs		389	71.25		157	28.75		546
+		"TOBIAS, Josephine (IND)"	18		15	83.33		3	16.67		18
+		"CARROLL, Maurie (IND)"	7		5	71.43		2	28.57		7
+		"DOUGLAS, Susie (NP)"	39		31	79.49		8	20.51		39
+		"ALECKSON, Maxwell A (IND)"	5		3	60.00		2	40.00		5
+		"MILLAR, Lesley (HAN)"	32		17	53.13		15	46.88		32
+		"DERRICK, Kari (DEM)"	44		16	36.36		28	63.64		44
+		"HEPBURN, Dean (GRN)"	21		9	42.86		12	57.14		21
+		Total	166		485	68.12		227	31.88		712
+
+	Merrimac (Moncrieff)										
+			1st Prefs		867	71.95		338	28.05		1205
+		"TOBIAS, Josephine (IND)"	44		32	72.73		12	27.27		44
+		"CARROLL, Maurie (IND)"	10		10	100.00		0	0.00		10
+		"DOUGLAS, Susie (NP)"	103		96	93.20		7	6.80		103
+		"ALECKSON, Maxwell A (IND)"	28		20	71.43		8	28.57		28
+		"MILLAR, Lesley (HAN)"	63		34	53.97		29	46.03		63
+		"DERRICK, Kari (DEM)"	57		23	40.35		34	59.65		57
+		"HEPBURN, Dean (GRN)"	40		22	55.00		18	45.00		40
+		Total	345		1104	71.23		446	28.77		1550
+
+	Moana Park (Moncrieff)										
+			1st Prefs		896	77.58		259	22.42		1155
+		"TOBIAS, Josephine (IND)"	47		38	80.85		9	19.15		47
+		"CARROLL, Maurie (IND)"	4		2	50.00		2	50.00		4
+		"DOUGLAS, Susie (NP)"	104		92	88.46		12	11.54		104
+		"ALECKSON, Maxwell A (IND)"	11		11	100.00		0	0.00		11
+		"MILLAR, Lesley (HAN)"	66		53	80.30		13	19.70		66
+		"DERRICK, Kari (DEM)"	43		17	39.53		26	60.47		43
+		"HEPBURN, Dean (GRN)"	36		11	30.56		25	69.44		36
+		Total	311		1120	76.40		346	23.60		1466
+
+	Musgrave Hill										
+			1st Prefs		1069	52.53		966	47.47		2035
+		"TOBIAS, Josephine (IND)"	92		75	81.52		17	18.48		92
+		"CARROLL, Maurie (IND)"	15		8	53.33		7	46.67		15
+		"DOUGLAS, Susie (NP)"	118		103	87.29		15	12.71		118
+		"ALECKSON, Maxwell A (IND)"	33		27	81.82		6	18.18		33
+		"MILLAR, Lesley (HAN)"	216		85	39.35		131	60.65		216
+		"DERRICK, Kari (DEM)"	169		65	38.46		104	61.54		169
+		"HEPBURN, Dean (GRN)"	130		50	38.46		80	61.54		130
+		Total	773		1482	52.78		1326	47.22		2808
+
+	Nerang										
+			1st Prefs		881	65.55		463	34.45		1344
+		"TOBIAS, Josephine (IND)"	97		81	83.51		16	16.49		97
+		"CARROLL, Maurie (IND)"	3		3	100.00		0	0.00		3
+		"DOUGLAS, Susie (NP)"	120		92	76.67		28	23.33		120
+		"ALECKSON, Maxwell A (IND)"	14		6	42.86		8	57.14		14
+		"MILLAR, Lesley (HAN)"	154		87	56.49		67	43.51		154
+		"DERRICK, Kari (DEM)"	94		32	34.04		62	65.96		94
+		"HEPBURN, Dean (GRN)"	70		23	32.86		47	67.14		70
+		Total	552		1205	63.55		691	36.45		1896
+
+	Nerang South										
+			1st Prefs		1622	61.00		1037	39.00		2659
+		"TOBIAS, Josephine (IND)"	86		68	79.07		18	20.93		86
+		"CARROLL, Maurie (IND)"	22		13	59.09		9	40.91		22
+		"DOUGLAS, Susie (NP)"	244		214	87.70		30	12.30		244
+		"ALECKSON, Maxwell A (IND)"	49		39	79.59		10	20.41		49
+		"MILLAR, Lesley (HAN)"	275		121	44.00		154	56.00		275
+		"DERRICK, Kari (DEM)"	199		73	36.68		126	63.32		199
+		"HEPBURN, Dean (GRN)"	134		51	38.06		83	61.94		134
+		Total	1009		2201	60.01		1467	39.99		3668
+
+	Nerang West (Moncrieff)										
+			1st Prefs		1346	63.58		771	36.42		2117
+		"TOBIAS, Josephine (IND)"	123		99	80.49		24	19.51		123
+		"CARROLL, Maurie (IND)"	9		4	44.44		5	55.56		9
+		"DOUGLAS, Susie (NP)"	189		172	91.01		17	8.99		189
+		"ALECKSON, Maxwell A (IND)"	12		8	66.67		4	33.33		12
+		"MILLAR, Lesley (HAN)"	165		91	55.15		74	44.85		165
+		"DERRICK, Kari (DEM)"	149		56	37.58		93	62.42		149
+		"HEPBURN, Dean (GRN)"	162		53	32.72		109	67.28		162
+		Total	809		1829	62.51		1097	37.49		2926
+
+	Parklands										
+			1st Prefs		253	69.70		110	30.30		363
+		"TOBIAS, Josephine (IND)"	13		8	61.54		5	38.46		13
+		"CARROLL, Maurie (IND)"	1		0	0.00		1	100.00		1
+		"DOUGLAS, Susie (NP)"	45		43	95.56		2	4.44		45
+		"ALECKSON, Maxwell A (IND)"	1		1	100.00		0	0.00		1
+		"MILLAR, Lesley (HAN)"	25		16	64.00		9	36.00		25
+		"DERRICK, Kari (DEM)"	19		5	26.32		14	73.68		19
+		"HEPBURN, Dean (GRN)"	20		8	40.00		12	60.00		20
+		Total	124		334	68.58		153	31.42		487
+
+	Southport										
+			1st Prefs		1011	60.50		660	39.50		1671
+		"TOBIAS, Josephine (IND)"	75		59	78.67		16	21.33		75
+		"CARROLL, Maurie (IND)"	13		8	61.54		5	38.46		13
+		"DOUGLAS, Susie (NP)"	91		79	86.81		12	13.19		91
+		"ALECKSON, Maxwell A (IND)"	12		7	58.33		5	41.67		12
+		"MILLAR, Lesley (HAN)"	120		60	50.00		60	50.00		120
+		"DERRICK, Kari (DEM)"	116		43	37.07		73	62.93		116
+		"HEPBURN, Dean (GRN)"	109		33	30.28		76	69.72		109
+		Total	536		1300	58.90		907	41.10		2207
+
+	Southport North										
+			1st Prefs		227	59.27		156	40.73		383
+		"TOBIAS, Josephine (IND)"	13		7	53.85		6	46.15		13
+		"CARROLL, Maurie (IND)"	2		2	100.00		0	0.00		2
+		"DOUGLAS, Susie (NP)"	39		32	82.05		7	17.95		39
+		"ALECKSON, Maxwell A (IND)"	10		9	90.00		1	10.00		10
+		"MILLAR, Lesley (HAN)"	27		11	40.74		16	59.26		27
+		"DERRICK, Kari (DEM)"	22		9	40.91		13	59.09		22
+		"HEPBURN, Dean (GRN)"	32		10	31.25		22	68.75		32
+		Total	145		307	58.14		221	41.86		528
+
+	Southport West										
+			1st Prefs		615	55.76		488	44.24		1103
+		"TOBIAS, Josephine (IND)"	38		25	65.79		13	34.21		38
+		"CARROLL, Maurie (IND)"	7		5	71.43		2	28.57		7
+		"DOUGLAS, Susie (NP)"	122		108	88.52		14	11.48		122
+		"ALECKSON, Maxwell A (IND)"	40		27	67.50		13	32.50		40
+		"MILLAR, Lesley (HAN)"	91		54	59.34		37	40.66		91
+		"DERRICK, Kari (DEM)"	70		30	42.86		40	57.14		70
+		"HEPBURN, Dean (GRN)"	75		19	25.33		56	74.67		75
+		Total	443		883	57.12		663	42.88		1546
+
+	Surfers Paradise										
+			1st Prefs		624	62.34		377	37.66		1001
+		"TOBIAS, Josephine (IND)"	38		23	60.53		15	39.47		38
+		"CARROLL, Maurie (IND)"	3		1	33.33		2	66.67		3
+		"DOUGLAS, Susie (NP)"	72		59	81.94		13	18.06		72
+		"ALECKSON, Maxwell A (IND)"	4		2	50.00		2	50.00		4
+		"MILLAR, Lesley (HAN)"	71		32	45.07		39	54.93		71
+		"DERRICK, Kari (DEM)"	50		16	32.00		34	68.00		50
+		"HEPBURN, Dean (GRN)"	70		27	38.57		43	61.43		70
+		Total	308		784	59.89		525	40.11		1309
+
+	Tallai (Moncrieff)										
+			1st Prefs		790	78.45		217	21.55		1007
+		"TOBIAS, Josephine (IND)"	36		29	80.56		7	19.44		36
+		"CARROLL, Maurie (IND)"	9		4	44.44		5	55.56		9
+		"DOUGLAS, Susie (NP)"	52		44	84.62		8	15.38		52
+		"ALECKSON, Maxwell A (IND)"	3		1	33.33		2	66.67		3
+		"MILLAR, Lesley (HAN)"	91		47	51.65		44	48.35		91
+		"DERRICK, Kari (DEM)"	63		24	38.10		39	61.90		63
+		"HEPBURN, Dean (GRN)"	61		22	36.07		39	63.93		61
+		Total	315		961	72.69		361	27.31		1322
+
+	William Duncan										
+			1st Prefs		1520	64.71		829	35.29		2349
+		"TOBIAS, Josephine (IND)"	81		53	65.43		28	34.57		81
+		"CARROLL, Maurie (IND)"	16		13	81.25		3	18.75		16
+		"DOUGLAS, Susie (NP)"	169		150	88.76		19	11.24		169
+		"ALECKSON, Maxwell A (IND)"	15		9	60.00		6	40.00		15
+		"MILLAR, Lesley (HAN)"	159		90	56.60		69	43.40		159
+		"DERRICK, Kari (DEM)"	110		33	30.00		77	70.00		110
+		"HEPBURN, Dean (GRN)"	122		40	32.79		82	67.21		122
+		Total	672		1908	63.16		1113	36.84		3021
+
+	Worongary										
+			1st Prefs		315	62.01		193	37.99		508
+		"TOBIAS, Josephine (IND)"	12		9	75.00		3	25.00		12
+		"CARROLL, Maurie (IND)"	1		0	0.00		1	100.00		1
+		"DOUGLAS, Susie (NP)"	42		34	80.95		8	19.05		42
+		"ALECKSON, Maxwell A (IND)"	3		3	100.00		0	0.00		3
+		"MILLAR, Lesley (HAN)"	36		15	41.67		21	58.33		36
+		"DERRICK, Kari (DEM)"	42		15	35.71		27	64.29		42
+		"HEPBURN, Dean (GRN)"	16		7	43.75		9	56.25		16
+		Total	152		398	60.30		262	39.70		660
+
+	Special Hospitals										
+			1st Prefs		537	71.79		211	28.21		748
+		"TOBIAS, Josephine (IND)"	29		26	89.66		3	10.34		29
+		"CARROLL, Maurie (IND)"	3		3	100.00		0	0.00		3
+		"DOUGLAS, Susie (NP)"	47		44	93.62		3	6.38		47
+		"ALECKSON, Maxwell A (IND)"	11		6	54.55		5	45.45		11
+		"MILLAR, Lesley (HAN)"	19		12	63.16		7	36.84		19
+		"DERRICK, Kari (DEM)"	13		6	46.15		7	53.85		13
+		"HEPBURN, Dean (GRN)"	9		4	44.44		5	55.56		9
+		Total	131		638	72.58		241	27.42		879
+
+	Total Ordinary										
+			1st Prefs		32145	67.46		15504	32.54		47649
+		"TOBIAS, Josephine (IND)"	1898		1494	78.71		404	21.29		1898
+		"CARROLL, Maurie (IND)"	281		194	69.04		87	30.96		281
+		"DOUGLAS, Susie (NP)"	4088		3596	87.96		492	12.04		4088
+		"ALECKSON, Maxwell A (IND)"	461		312	67.68		149	32.32		461
+		"MILLAR, Lesley (HAN)"	3507		1671	47.65		1836	52.35		3507
+		"DERRICK, Kari (DEM)"	2798		1038	37.10		1760	62.90		2798
+		"HEPBURN, Dean (GRN)"	2370		872	36.79		1498	63.21		2370
+		Total	15403		41322	65.54		21730	34.46		63052
+
+	ABSENT										
+			1st Prefs		1908	67.21		931	32.79		2839
+		"TOBIAS, Josephine (IND)"	141		112	79.43		29	20.57		141
+		"CARROLL, Maurie (IND)"	40		19	47.50		21	52.50		40
+		"DOUGLAS, Susie (NP)"	198		169	85.35		29	14.65		198
+		"ALECKSON, Maxwell A (IND)"	39		28	71.79		11	28.21		39
+		"MILLAR, Lesley (HAN)"	291		160	54.98		131	45.02		291
+		"DERRICK, Kari (DEM)"	257		94	36.58		163	63.42		257
+		"HEPBURN, Dean (GRN)"	272		103	37.87		169	62.13		272
+		Total	1238		2593	63.60		1484	36.40		4077
+
+	POSTAL										
+			1st Prefs		2124	68.80		963	31.20		3087
+		"TOBIAS, Josephine (IND)"	37		20	54.05		17	45.95		37
+		"CARROLL, Maurie (IND)"	12		7	58.33		5	41.67		12
+		"DOUGLAS, Susie (NP)"	226		197	87.17		29	12.83		226
+		"ALECKSON, Maxwell A (IND)"	18		8	44.44		10	55.56		18
+		"MILLAR, Lesley (HAN)"	269		146	54.28		123	45.72		269
+		"DERRICK, Kari (DEM)"	107		49	45.79		58	54.21		107
+		"HEPBURN, Dean (GRN)"	80		29	36.25		51	63.75		80
+		Total	749		2580	67.26		1256	32.74		3836
+
+	PRE_POLL										
+			1st Prefs		3087	66.13		1581	33.87		4668
+		"TOBIAS, Josephine (IND)"	177		137	77.40		40	22.60		177
+		"CARROLL, Maurie (IND)"	23		18	78.26		5	21.74		23
+		"DOUGLAS, Susie (NP)"	366		331	90.44		35	9.56		366
+		"ALECKSON, Maxwell A (IND)"	25		13	52.00		12	48.00		25
+		"MILLAR, Lesley (HAN)"	352		175	49.72		177	50.28		352
+		"DERRICK, Kari (DEM)"	249		106	42.57		143	57.43		249
+		"HEPBURN, Dean (GRN)"	241		89	36.93		152	63.07		241
+		Total	1433		3956	64.84		2145	35.16		6101
+
+	PROVISIONAL										
+			1st Prefs		322	64.27		179	35.73		501
+		"TOBIAS, Josephine (IND)"	33		23	69.70		10	30.30		33
+		"CARROLL, Maurie (IND)"	4		1	25.00		3	75.00		4
+		"DOUGLAS, Susie (NP)"	36		29	80.56		7	19.44		36
+		"ALECKSON, Maxwell A (IND)"	6		5	83.33		1	16.67		6
+		"MILLAR, Lesley (HAN)"	39		12	30.77		27	69.23		39
+		"DERRICK, Kari (DEM)"	28		14	50.00		14	50.00		28
+		"HEPBURN, Dean (GRN)"	51		19	37.25		32	62.75		51
+		Total	197		425	60.89		273	39.11		698
+
+	Division Summary										
+			1st Prefs		39586	67.39		19158	32.61		58744	
+		"TOBIAS, Josephine (IND)"	2286		1786	78.13		500	21.87		2286	
+		"CARROLL, Maurie (IND)"	360		239	66.39		121	33.61		360	
+		"DOUGLAS, Susie (NP)"	4914		4322	87.95		592	12.05		4914	
+		"ALECKSON, Maxwell A (IND)"	549		366	66.67		183	33.33		549	
+		"MILLAR, Lesley (HAN)"	4458		2164	48.54		2294	51.46		4458	
+		"DERRICK, Kari (DEM)"	3439		1301	37.83		2138	62.17		3439	
+		"HEPBURN, Dean (GRN)"	3014		1112	36.89		1902	63.11		3014	
+		Total	19020		50876	65.42		26888	34.58		77764	

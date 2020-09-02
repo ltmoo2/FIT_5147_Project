@@ -1,0 +1,602 @@
+Senate - 1998 Election: Tasmania																																										
+Result of the Transfer and Distribution of Preferences																																										
+Election of 6 Senators																																										
+																																										
+Quota = 308377 +1 =  44054																																										
+	      6+1																																									
+																																										
+				First			Count 2			Count 3			Count 4																													
+				Preference		Votes	Progress		Votes	Progress		Votes 	Progress																													
+	Candidate			Votes	Status	Transfd	Totals	Status 	Transfd	Totals	Status	Transfd	Totals	Status																												
+A	"HICKMAN, Ian"	ACS		1717		1	1718		3	1721		1	1722																													
+A	"LOMBARDI, Fred"	ACS		33		0	33		0	33		0	33																													
+																																										
+B	"CROSSLEY, Louise"	GRN		17712		62	17774		20	17794		9	17803																													
+B	"BAPTIST, Simon"	GRN		193		3	196		1	197		0	197																													
+																																										
+C	"ABETZ, Eric"	LP		98178	Elected	0	98178	Elected	-54124	44054	Elected	0	44054	Elected																												
+C	"GIBSON, Brian"	LP		3333		10	3343		53082	56425	Elected	0	56425	Elected																												
+C	"BARNETT, Guy"	LP		1686		3	1689		514	2203		3	2206																													
+C	"COLLENETTE, Peter"	LP		1071		3	1074		237	1311		1	1312																													
+																																										
+D	"EMANUEL, Kamala"	DSL		702		2	704		5	709		0	709																													
+D	"JAMIESON, Ian"	DSL		52		0	52		2	54		0	54																													
+																																										
+E	"PICKFORD, David"	TFP		4295		13	4308		7	4315		3	4318																													
+E	"JACKSON, David"	TFP		161		3	164		1	165		0	165																													
+E	"ABBLITT, Petita"	TFP		92		0	92		0	92		0	92																													
+																																										
+F	"ROGERS, Don"	CDP		922		2	924		5	929		0	929																													
+F	"ROGERS, Beryl"	CDP		23		0	23		0	23		0	23																													
+																																										
+G	"BELL, Robert"	DEM		11522		58	11580		30	11610		13	11623																													
+G	"BUTLER, Debbie"	DEM		513		6	519		3	522		1	523																													
+G	"IVORY, Chris"	DEM		72		2	74		0	74		0	74																													
+																																										
+H	"HARRADINE, Brian"	HAR		24254		113	24367		147	24514		27	24541																													
+																																										
+I	"O'BRIEN, Kerry"	ALP		121931	Elected	-77877	44054	Elected	0	44054	Elected	0	44054	Elected																												
+I	"MURPHY, Shayne"	ALP		3022		76519	79541	Elected	0	79541	Elected	-35487	44054	Elected																												
+I	"DENMAN, Kay"	ALP		3424		999	4423		10	4433		35390	39823																													
+																																										
+J	"SHERIDAN, Jenny"	RPA		236		7	243		0	243		2	245																													
+J	"DARE, Rena"	RPA		13		0	13		0	13		0	13																													
+																																										
+K	"STOKES, Peter"	HAN		11199		21	11220		24	11244		5	11249																													
+K	"CARTWRIGHT, Michael"	HAN		303		1	304		0	304		0	304																													
+K	"SPICER, Leigh"	HAN		153		1	154		0	154		0	154																													
+																																										
+L	"MacQUEEN, Lin"	AWP		786		3	789		1	790		1	791																													
+L	"BINDON, Carolyn"	AWP		18		1	19		0	19		0	19																													
+																																										
+UG	"JAMIESON, Norma"	IND		659		0	659		2	661		0	661																													
+UG	"HEATHORN, Laurie"	IND		75		0	75		0	75		0	75																													
+UG	"SULI, Steven"	IND		27		0	27		0	27		0	27																													
+																																										
+	Exhausted Votes			0		30	30		18	48		18	66																													
+	Loss by Fraction			0		14	14		12	26		13	39																													
+																																										
+	Total Votes			308377		77877	308377		54124	308377		35487	308377																													
+																																										
+	Notes		Candidates Elected			Surplus Distributed			Surplus Distributed			Surplus Distributed																														
+			"1. O'BRIEN, K."			"O'BRIEN, K."			"ABETZ, E. "			"MURPHY, S."																														
+			"2. ABETZ, E."																																							
+						Candidate Elected 			Candidate Elected																																	
+						"3. MURPHY, S."			"4. GIBSON, B."																																	
+																																										
+																																										
+				Count 5			Count 6-7			Count 8-9			Count 10-13																													
+			Votes	 Progress		Votes	Progress		Votes	Progress		Votes	Progress																													
+	Candidate		Transfd	Totals	Status	Transfd	Totals	Status 	Transfd	Totals	Status 	Transfd	Totals	Status																												
+A	"HICKMAN, Ian"	ACS	0	1722		0	1722		0	1722		0	1722																													
+A	"LOMBARDI, Fred"	ACS	0	33		0	33		0	33		0	33																													
+																																										
+B	"CROSSLEY, Louise"	GRN	5	17808		3	17811		0	17811		0	17811																													
+B	"BAPTIST, Simon"	GRN	0	197		0	197		0	197		0	197																													
+																																										
+C	"ABETZ, Eric"	LP	0	44054	Elected	0	44054	Elected	0	44054	Elected	0	44054	Elected																												
+C	"GIBSON, Brian"	LP	-12371	44054	Elected	0	44054	Elected	0	44054	Elected	0	44054	Elected																												
+C	"BARNETT, Guy"	LP	12188	14394		0	14394		0	14394		0	14394																													
+C	"COLLENETTE, Peter"	LP	126	1438		0	1438		0	1438		0	1438																													
+																																										
+D	"EMANUEL, Kamala"	DSL	0	709		1	710		0	710		0	710																													
+D	"JAMIESON, Ian"	DSL	0	54		0	54		0	54		0	54																													
+																																										
+E	"PICKFORD, David"	TFP	1	4319		0	4319		0	4319		0	4319																													
+E	"JACKSON, David"	TFP	0	165		0	165		0	165		1	166																													
+E	"ABBLITT, Petita"	TFP	0	92		0	92		0	92		1	93																													
+																																										
+F	"ROGERS, Don"	CDP	0	929		0	929		0	929		20	949																													
+F	"ROGERS, Beryl"	CDP	0	23		0	23		0	23		-23	0	Excluded																												
+																																										
+G	"BELL, Robert"	DEM	7	11630		1	11631		0	11631		1	11632																													
+G	"BUTLER, Debbie"	DEM	0	523		1	524		0	524		0	524																													
+G	"IVORY, Chris"	DEM	0	74		0	74		0	74		0	74																													
+																																										
+H	"HARRADINE, Brian"	HAR	27	24568		0	24568		2	24570		0	24570																													
+																																										
+I	"O'BRIEN, Kerry"	ALP	0	44054	Elected	0	44054	Elected	0	44054	Elected	0	44054	Elected																												
+I	"MURPHY, Shayne"	ALP	0	44054	Elected	0	44054	Elected	0	44054	Elected	0	44054	Elected																												
+I	"DENMAN, Kay"	ALP	3	39826		1	39827		0	39827		0	39827																													
+																																										
+J	"SHERIDAN, Jenny"	RPA	0	245		5	250		0	250		0	250																													
+J	"DARE, Rena"	RPA	0	13		-13	0	Excluded	0	0	Excluded	0	0	Excluded																												
+																																										
+K	"STOKES, Peter"	HAN	2	11251		0	11251		0	11251		0	11251																													
+K	"CARTWRIGHT, Michael"	HAN	0	304		0	304		0	304		0	304																													
+K	"SPICER, Leigh"	HAN	0	154		0	154		0	154		0	154																													
+																																										
+L	"MacQUEEN, Lin"	AWP	0	791		0	791		16	807		0	807																													
+L	"BINDON, Carolyn"	AWP	0	19		0	19		-19	0	Excluded	0	0	Excluded																												
+																																										
+UG	"JAMIESON, Norma"	IND	0	661		0	661		0	661		0	661																													
+UG	"HEATHORN, Laurie"	IND	0	75		1	76		0	76		0	76																													
+UG	"SULI, Steven"	IND	0	27		0	27		0	27		0	27																													
+																																										
+	Exhausted Votes		2	68		0	68		0	68		0	68																													
+	Loss by Fraction		10	49		0	49		1	50		0	50																													
+																																										
+	Total Votes		12371	308377		13	308377		19	308377		23	308377																													
+																																										
+	Notes		Surplus Distributed			Candidate Excluded			Candidate Excluded			Candidate Excluded																														
+			"GIBSON, B."			"DARE, R."			"BINDON, C. "			"ROGERS, B."																														
+																																										
+																																										
+				Count 14-15			Count 16			Count 17-20			Count 21-24																													
+			Votes	 Progress		Votes	Progress		Votes	Progress		Votes	Progress																													
+	Candidate		Transfd	Totals	Status	Transfd	Totals	Status 	Transfd	Totals	Status 	Transfd	Totals	Status																												
+A	"HICKMAN, Ian"	ACS	0	1722		24	1746		0	1746		0	1746																													
+A	"LOMBARDI, Fred"	ACS	0	33		-33	0	Excluded	0	0	Excluded	0	0	Excluded																												
+																																										
+B	"CROSSLEY, Louise"	GRN	0	17811		1	17812		4	17816		1	17817																													
+B	"BAPTIST, Simon"	GRN	0	197		1	198		0	198		1	199																													
+																																										
+C	"ABETZ, Eric"	LP	0	44054	Elected	0	44054	Elected	0	44054	Elected	0	44054	Elected																												
+C	"GIBSON, Brian"	LP	0	44054	Elected	0	44054	Elected	0	44054	Elected	0	44054	Elected																												
+C	"BARNETT, Guy"	LP	0	14394		0	14394		5	14399		1	14400																													
+C	"COLLENETTE, Peter"	LP	0	1438		1	1439		1	1440		0	1440																													
+																																										
+D	"EMANUEL, Kamala"	DSL	0	710		1	711		35	746		0	746																													
+D	"JAMIESON, Ian"	DSL	0	54		0	54		-54	0	Excluded	0	0	Excluded																												
+																																										
+E	"PICKFORD, David"	TFP	0	4319		0	4319		0	4319		0	4319																													
+E	"JACKSON, David"	TFP	0	166		0	166		1	167		0	167																													
+E	"ABBLITT, Petita"	TFP	0	93		0	93		0	93		0	93																													
+																																										
+F	"ROGERS, Don"	CDP	0	949		0	949		0	949		1	950																													
+F	"ROGERS, Beryl"	CDP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded																												
+																																										
+G	"BELL, Robert"	DEM	0	11632		0	11632		0	11632		15	11647																													
+G	"BUTLER, Debbie"	DEM	0	524		0	524		0	524		48	572																													
+G	"IVORY, Chris"	DEM	0	74		0	74		0	74		-74	0	Excluded																												
+																																										
+H	"HARRADINE, Brian"	HAR	5	24575		1	24576		0	24576		3	24579																													
+																																										
+I	"O'BRIEN, Kerry"	ALP	0	44054	Elected	0	44054	Elected	0	44054	Elected	0	44054	Elected																												
+I	"MURPHY, Shayne"	ALP	0	44054	Elected	0	44054	Elected	0	44054	Elected	0	44054	Elected																												
+I	"DENMAN, Kay"	ALP	0	39827		1	39828		2	39830		2	39832																													
+																																										
+J	"SHERIDAN, Jenny"	RPA	0	250		0	250		0	250		0	250																													
+J	"DARE, Rena"	RPA	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded																												
+																																										
+K	"STOKES, Peter"	HAN	0	11251		0	11251		1	11252		0	11252																													
+K	"CARTWRIGHT, Michael"	HAN	0	304		0	304		0	304		0	304																													
+K	"SPICER, Leigh"	HAN	0	154		0	154		0	154		1	155																													
+																																										
+L	"MacQUEEN, Lin"	AWP	2	809		0	809		0	809		0	809																													
+L	"BINDON, Carolyn"	AWP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded																												
+																																										
+UG	"JAMIESON, Norma"	IND	4	665		1	666		2	668		0	668																													
+UG	"HEATHORN, Laurie"	IND	16	92		0	92		0	92		0	92																													
+UG	"SULI, Steven"	IND	-27	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded																												
+																																										
+	Exhausted Votes		0	68		2	70		1	71		0	71																													
+	Loss by Fraction		0	50		0	50		2	52		1	53																													
+																																										
+	Total Votes		27	308377		33	308377		54	308377		74	308377																													
+																																										
+	Notes		Candidate Excluded			Candidate Excluded			Candidate Excluded			Candidate Excluded																														
+			"SULI, S."			"LOMBARDI, F."			"JAMIESON, I"			"IVORY, C."																														
+																																										
+																																										
+				Count 25-28			Count 29-32			Count 33-35			Count 36-40																													
+			Votes	 Progress		Votes	Progress		Votes	Progress		Votes	Progress																													
+	Candidate		Transfd	Totals	Status	Transfd	Totals	Status 	Transfd	Totals	Status 	Transfd	Totals	Status																												
+A	"HICKMAN, Ian"	ACS	1	1747		0	1747		0	1747		4	1751																													
+A	"LOMBARDI, Fred"	ACS	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded																												
+																																										
+B	"CROSSLEY, Louise"	GRN	3	17820		0	17820		1	17821		171	17992																													
+B	"BAPTIST, Simon"	GRN	2	201		1	202		1	203		-203	0	Excluded																												
+																																										
+C	"ABETZ, Eric"	LP	0	44054	Elected	0	44054	Elected	0	44054	Elected	0	44054	Elected																												
+C	"GIBSON, Brian"	LP	0	44054	Elected	0	44054	Elected	0	44054	Elected	0	44054	Elected																												
+C	"BARNETT, Guy"	LP	3	14403		2	14405		2	14407		2	14409																													
+C	"COLLENETTE, Peter"	LP	0	1440		2	1442		1	1443		0	1443																													
+																																										
+D	"EMANUEL, Kamala"	DSL	1	747		1	748		0	748		2	750																													
+D	"JAMIESON, Ian"	DSL	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded																												
+																																										
+E	"PICKFORD, David"	TFP	4	4323		19	4342		0	4342		0	4342																													
+E	"JACKSON, David"	TFIP	0	167		55	222		1	223		2	225																													
+E	"ABBLITT, Petita"	TFP	0	93		-93	0	Excluded	0	0	Excluded	0	0	Excluded																												
+																																										
+F	"ROGERS, Don"	CDP	0	950		1	951		0	951		1	952																													
+F	"ROGERS, Beryl"	CDP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded																												
+																																										
+G	"BELL, Robert"	DEM	3	11650		2	11652		0	11652		7	11659																													
+G	"BUTLER, Debbie"	DEM	0	572		1	573		0	573		3	576																													
+G	"IVORY, Chris"	DEM	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded																												
+																																										
+H	"HARRADINE, Brian"	HAR	14	24593		3	24596		2	24598		2	24600																													
+																																										
+I	"O'BRIEN, Kerry"	ALP	0	44054	Elected	0	44054	Elected	0	44054	Elected	0	44054	Elected																												
+I	"MURPHY, Shayne"	ALP	0	44054	Elected	0	44054	Elected	0	44054	Elected	0	44054	Elected																												
+I	"DENMAN, Kay"	ALP	4	39836		2	39838		4	39842		6	39848																													
+																																										
+J	"SHERIDAN, Jenny"	RPA	0	250		0	250		1	251		0	251																													
+J	"DARE, Rena"	RPA	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded																												
+																																										
+K	"STOKES, Peter"	HAN	6	11258		0	11258		32	11290		0	11290																													
+K	"CARTWRIGHT, Michael"	HAN	0	304		0	304		107	411		2	413																													
+K	"SPICER, Leigh"	HAN	1	156		1	157		-157	0	Excluded	0	0	Excluded																												
+																																										
+L	"MacQUEEN, Lin"	AWP	3	812		0	812		1	813		0	813																													
+L	"BINDON, Carolyn"	AWP	0	0	Excluded.	0	0	Excluded	0	0	Excluded	0	0	Excluded																												
+																																										
+UG	"JAMIESON, Norma"	IND	46	714		2	716		1	717		0	717																													
+UG	"HEATHORN, Laurie"	IND	-92	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded																												
+UG	"SULI, Steven"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded																												
+																																										
+	Exhausted Votes		1	72		1	73		2	75		0	75																													
+	Loss by Fraction		0	53		0	53		1	54		1	55																													
+																																										
+	Total Votes		92	308377		93	308377		157	308377		203	308377																													
+																																										
+	Notes		Candidate Excluded			Candidate Excluded			Candidate Excluded			Candidate Excluded																														
+			"HEATHORN, L."			"ABBLITT, P."			"SPICIER, L."			"BAPTIST, S."																														
+	 																																									
+																																										
+																																										
+				Count 41-45			Count 46-49			Count 50-54			Count 55-59																													
+			Votes	 Progress		Votes	Progress		Votes	Progress		Votes	Progress																													
+	Candidate		Transfd	Totals	Status	Transfd	Totals	Status 	Transfd	Totals	Status 	Transfd	Totals	Status																												
+A	"HICKMAN, Ian"	ACS	0	1751		0	1751		2	1753		29	1782																													
+A	"LOMBARDI, Fred"	ACS	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded																												
+																																										
+B	"CROSSLEY, Louise"	GRN	2	17994		199	18193		3	18196		1456	19652																													
+B	"BAPTIST, Simon"	GRN	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded																												
+																																										
+C	"ABETZ, Eric"	LP	0	44054	Elected	0	44054	Elected	0	44054	Elected	0	44054	Elected																												
+C	"GIBSON, Brian"	LP	0	44054	Elected	0	44054	Elected	0	44054	Elected	0	44054	Elected																												
+C	"BARNETT, Guy"	LP	2	14411		4	14415		4	14419		861	15280																													
+C	"COLLENETTE, Peter"	LP	0	1443		0	1443		1	1444		36	1480																													
+																																										
+D	"EMANUEL, Kamala"	DSL	0	750		1	751		0	751		-751	0	Excluded																												
+D	"JAMIESON, Ian"	DSL	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded																												
+																																										
+E	"PICKFORD, David"	TFP	194	4536		0	4536		5	4541		73	4614																													
+E	"JACKSON, David"	TFP	-225	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded																												
+E	"ABBLITT, Petita"	TFP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded																												
+																																										
+F	"ROGERS, Don"	CDP	3	955		0	955		0	955		-955	0	Excluded																												
+F	"ROGERS, Beryl"	CDP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded																												
+																																										
+G	"BELL, Robert"	DEM	2	11661		9	11670		2	11672		628	12300																													
+G	"BUTLER, Debbie"	DEM	2	578		0	578		2	580		-580	0	Excluded																												
+G	"IVORY, Chris"	DEM	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded																												
+																																										
+H	"HARRADINE, Brian"	HAR	4	24604		3	24607		2	24609		373	24982																													
+																																										
+I	"O'BRIEN, Kerry"	ALP	0	44054	Elected	0	44054	Elected	0	44054	Elected	0	44054	Elected																												
+I	"MURPHY, Shayne"	ALP	0	44054	Elected	0	44054	Elected	0	44054	Elected	0	44054	Elected																												
+I	"DENMAN, Kay"	ALP	6	39854		14	39868		6	39874		240	40114																													
+																																										
+J	"SHERIDAN, Jenny"	RPA	0	251		-251	0	Excluded	0	0	Excluded	0	0	Excluded																												
+J	"DARE, Rena"	RPA	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded																												
+																																										
+K	"STOKES, Peter"	HAN	1	11291		12	11303		381	11684		122	11806																													
+K	"K CARTWRIGHT, M. "	HAN	4	417		1	418		-418	0	Excluded	0	0	Excluded																												
+K	"SPICER, Leigh"	HAN	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded																												
+																																										
+L	"MacQUEEN, Lin"	AWP	0	813		3	816		3	819		-819	0	Excluded																												
+L	"BINDON, Carolyn"	AWP	0	0	Excluded	0	0	Excluded	0		Excluded	0	0	Excluded																												
+																																										
+UG	"JAMIESON, Norma"	IND	1	718		1	719		3	722		-722	0	Excluded																												
+UG	"HEATHORN, Laurie"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded																												
+UG	"SULI, Steven"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded																												
+																																										
+	Exhausted Votes		1	76		2	78		3	81		11	92																													
+	Loss by Fraction		3	58		2	60		1	61		-2	59																													
+																																										
+	Total Votes		225	308377		251	308377		418	308377		3827	308377																													
+																																										
+	Notes		Candidate Excluded			Candidate Excluded			Candidate Excluded			Candidates Excluded																														
+			"JACKSON, D."			"SHERIDAN, J."			"CARTWRIGHT, M."			"EMANUEL, K."																														
+												"ROGERS, D."																														
+	 											"BUTLER, D."																														
+												"MacQUEEN, L."																														
+												"JAMIESON, N."																														
+																																										
+																																										
+				Count 60-64			Count 65-69			Count 70-74			Count 75-79																													
+			Votes	 Progress		Votes	Progress		Votes	Progress		Votes	Progress																													
+	Candidate		Transfd	Totals	Status	Transfd	Totals	Status 	Transfd	Totals	Status 	Transfd	Totals	Status																												
+A	"HICKMAN, Ian"	ACS	-1782	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded																												
+A	"LOMBARDI, Fred"	ACS	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded																												
+																																										
+B	"CROSSLEY, Louise"	GRN	1430	21082		83	21165		9062	30227		8962	39189																													
+B	"BAPTIST, Simon"	GRN	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded																												
+																																										
+C	"ABETZ, Eric"	LP	0	44054	Elected	0	44054	Elected	0	44054	Elected	0	44054	Elected																												
+C	"GIBSON, Brian"	LP	0	44054	Elected	0	44054	Elected	0	44054	Elected	0	44054	Elected																												
+C	"BARNETT, Guy"	LP	1451	16731		208	16939		986	17925		702	18627																													
+C	"COLLENETTE, Peter"	LP	-1480	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded																												
+																																										
+D	"EMANUEL, Kamala"	DSL	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded																												
+D	"JAMIESON, Ian"	DSL	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded																												
+																																										
+E	"PICKFORD, David"	TFP	51	4665		-4665	0	Excluded	0	0	Excluded	0	0	Excluded																												
+E	"JACKSON, David"	TFP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded																												
+E	"ABBLITT, Petita"	TFP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded																												
+																																										
+F	"ROGERS, Don"	CDP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded																												
+F	"ROGERS, Beryl"	CDP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded																												
+																																										
+G	"BELL, Robert"	DEM	50	12350		138	12488		397	12885		-12885	0	Excluded																												
+G	"BUTLER, Debbie"	DEM	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded																												
+G	"IVORY, Chris"	DEM	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded																												
+																																										
+H	"HARRADINE, Brian"	HAR	76	25058		3350	28408		798	29206		1662	30868																													
+																																										
+I	"O'BRIEN, Kerry"	ALP	0	44054	Elected	0	44054	Elected	0	44054	Elected	0	44054	Elected																												
+I	"MURPHY, Shayne"	ALP	0	44054	Elected	0	44054	Elected	0	44054	Elected	0	44054	Elected																												
+I	"DENMAN, Kay"	ALP	114	40228		284	40512		1150	41662		1532	43194																													
+																																										
+J	"SHERIDAN, Jenny"	RPA	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded																												
+J	"DARE, Rena"	RPA	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded																												
+																																										
+K	"STOKES, Peter"	HAN	63	11869		575	12444		-12444	0	Excluded	0	0	Excluded																												
+K	"CARTWRIGHT, Michael"	HAN	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded																												
+K	"SPICER, Leigh"	HAN	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded																												
+																																										
+L	"MacQUEEN, Lin"	AWP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded																												
+L	"BINDON, Carolyn"	AWP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded																												
+																																										
+UG	"JAMIESON, Norma"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded																												
+UG	"HEATHORN, Laurie"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded																												
+UG	"SULI, Steven"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded																												
+																																										
+	Exhausted Votes		26	118		21	139		52	191		29	220																													
+	Loss by Fraction		1	60		6	66		-1	65		-2	63																													
+																																										
+	Total Votes		3262	308377		4665	308377		12444	308377		12885	308377																													
+																																										
+	Notes		Candidates Excluded			Candidate Excluded			Candidate Excluded			Candidate Excluded																														
+			"HICKMAN, I."			"PICKFORD, D."			"STOKES, P."			"BELL, R."																														
+			"COLLENETTE, P."																																							
+																																										
+																																										
+				Count 80-84																																						
+			Votes 	Progress																																						
+	Candidate		Transfd	Totals 	Status																																					
+A	"HICKMAN, Ian"	ACS	0	0	Excluded																																					
+A	"LOMBARDI, Fred"	ACS	0	0	Excluded																																					
+																																										
+B	"CROSSLEY, Louise"	GRN	1481	40670																																						
+B	"BAPTIST, Simon"	GRN	0	0	Excluded																																					
+																																										
+C	"ABETZ, Eric"	LP	0	44054	Elected																																					
+C	"GIBSON, Brian"	LP	0	44054	Elected																																					
+C	"BARNETT, Guy"	LP	-18627	0	Excluded																																					
+C	"COLLENETTE, Peter"	LP	0	0	Excluded																																					
+																																										
+D	"EMANUEL, Kamala"	DSL	0	0	Excluded																																					
+D	"JAMIESON, Ian"	DSL	0	0	Excluded																																					
+																																										
+E	"PICKFORD, David"	TFP	0	0	Excluded																																					
+E	"JACKSON, David"	TFP	0	0	Excluded																																					
+E	"ABBLITT, Petita"	TFP	0	0	Excluded																																					
+																																										
+F	"ROGERS, Don"	CDP	0	0	Excluded																																					
+F	"ROGERS, Beryl"	CDP	0	0	Excluded																																					
+																																										
+G	"BELL, Robert"	DEM	0	0	Excluded																																					
+G	"BUTLER, Debbie"	DEM	0	0	Excluded																																					
+G	"IVORY, Chris"	DEM	0	0	Excluded																																					
+																																										
+H	"HARRADINE, Brian"	HAR 	16119	46987	Elected																																					
+																																										
+I	"O'BRIEN, Kerry"	ALP	0	44054	Elected																																					
+I	"MURPHY, Shayne"	ALP	0	44054	Elected																																					
+I	"DENMAN, Kay"	ALP	920	44114	Elected																																					
+																																										
+J	"SHERIDAN, Jenny"	RPA	0	0	Excluded																																					
+J	"DARE, Rena"	RPA	0	0	Excluded																																					
+																																										
+K	"STOKES, Peter"	HAN	0	0	Excluded																																					
+K	"CARTWRIGHT, Michael"	HAN	0	0	Excluded																																					
+K	"SPICER, Leigh"	HAN	0	0	Excluded																																					
+																																										
+L	"MacQUEEN, Lin"	AWP	0	0	Excluded																																					
+L	"BINDON, Carolyn"	AWP	0	0	Excluded									
+														
+UG	"JAMIESON, Norma"	IND	0	0	Excluded									
+UG	"HEATHORN, Laurie"	IND	0	0	Excluded									
+UG	"SULI, Steven"	IND	0	0	Excluded									
+														
+	Exhausted Votes		117	337										
+	Loss by Fraction		-10	53										
+														
+	Total Votes		18627	308377										
+														
+	Notes		Candidate Excluded											
+			"BARNETT, G."											
+														
+			Candidates Elected											
+			"5. DENMAN, K."											
+			"6. HARRADINE, B."											
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														

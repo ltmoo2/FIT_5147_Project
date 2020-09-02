@@ -1,0 +1,351 @@
+House of Representatives - 2001 Election: New South Wales											
+Two Candidate Preferred Preference Flow Result											
+By Polling Place											
+											
+Wentworth (86457)											
+		Candidate		"KING, Peter"		                	"NEILSON, Carolyn"		           	Total	
+				LP		                         	ALP		                        		
+				Votes	%	                     	Votes	%	                     		
+	Bellevue Hill										
+			1st Prefs	2206	74.91		739	25.09		2945	
+		"GOLDEN, Aub (HAN)"	25	21	84.00		4	16.00		25	
+		"LYSSA, Alison (GRN)"	277	74	26.71		203	73.29		277	
+		"COLLINGS, Margaret (DEM)"	211	80	37.91		131	62.09		211	
+		"JACOBS, Alan (UNI)"	69	24	34.78		45	65.22		69	
+		Total	582	2405	68.19		1122	31.81		3527	
+
+	Bondi										
+			1st Prefs	1305	54.26		1100	45.74		2405	
+		"GOLDEN, Aub (HAN)"	81	53	65.43		28	34.57		81	
+		"LYSSA, Alison (GRN)"	333	55	16.52		278	83.48		333	
+		"COLLINGS, Margaret (DEM)"	170	64	37.65		106	62.35		170	
+		"JACOBS, Alan (UNI)"	20	8	40.00		12	60.00		20	
+		Total	604	1485	49.35		1524	50.65		3009	
+
+	Bondi Beach										
+			1st Prefs	1490	48.03		1612	51.97		3102	
+		"GOLDEN, Aub (HAN)"	86	55	63.95		31	36.05		86	
+		"LYSSA, Alison (GRN)"	671	98	14.61		573	85.39		671	
+		"COLLINGS, Margaret (DEM)"	324	120	37.04		204	62.96		324	
+		"JACOBS, Alan (UNI)"	37	9	24.32		28	75.68		37	
+		Total	1118	1772	41.99		2448	58.01		4220	
+
+	Bondi Junction										
+			1st Prefs	1341	58.82		939	41.18		2280	
+		"GOLDEN, Aub (HAN)"	63	46	73.02		17	26.98		63	
+		"LYSSA, Alison (GRN)"	272	46	16.91		226	83.09		272	
+		"COLLINGS, Margaret (DEM)"	209	75	35.89		134	64.11		209	
+		"JACOBS, Alan (UNI)"	23	6	26.09		17	73.91		23	
+		Total	567	1514	53.18		1333	46.82		2847	
+
+	Bondi North										
+			1st Prefs	899	59.26		618	40.74		1517	
+		"GOLDEN, Aub (HAN)"	35	10	28.57		25	71.43		35	
+		"LYSSA, Alison (GRN)"	156	32	20.51		124	79.49		156	
+		"COLLINGS, Margaret (DEM)"	89	33	37.08		56	62.92		89	
+		"JACOBS, Alan (UNI)"	13	13	100.00		0	0.00		13	
+		Total	293	987	54.53		823	45.47		1810	
+
+	Bondi Surf										
+			1st Prefs	490	56.78		373	43.22		863	
+		"GOLDEN, Aub (HAN)"	10	9	90.00		1	10.00		10	
+		"LYSSA, Alison (GRN)"	189	31	16.40		158	83.60		189	
+		"COLLINGS, Margaret (DEM)"	79	29	36.71		50	63.29		79	
+		"JACOBS, Alan (UNI)"	7	3	42.86		4	57.14		7	
+		Total	285	562	48.95		586	51.05		1148	
+
+	Bronte										
+			1st Prefs	817	54.80		674	45.20		1491	
+		"GOLDEN, Aub (HAN)"	39	28	71.79		11	28.21		39	
+		"LYSSA, Alison (GRN)"	302	45	14.90		257	85.10		302	
+		"COLLINGS, Margaret (DEM)"	147	16	10.88		131	89.12		147	
+		"JACOBS, Alan (UNI)"	8	3	37.50		5	62.50		8	
+		Total	496	909	45.75		1078	54.25		1987	
+
+	Castlefield										
+			1st Prefs	305	51.17		291	48.83		596	
+		"GOLDEN, Aub (HAN)"	15	9	60.00		6	40.00		15	
+		"LYSSA, Alison (GRN)"	103	15	14.56		88	85.44		103	
+		"COLLINGS, Margaret (DEM)"	37	11	29.73		26	70.27		37	
+		"JACOBS, Alan (UNI)"	3	0	0.00		3	100.00		3	
+		Total	158	340	45.09		414	54.91		754	
+
+	Charing Cross										
+			1st Prefs	255	51.10		244	48.90		499	
+		"GOLDEN, Aub (HAN)"	11	7	63.64		4	36.36		11	
+		"LYSSA, Alison (GRN)"	48	12	25.00		36	75.00		48	
+		"COLLINGS, Margaret (DEM)"	28	5	17.86		23	82.14		28	
+		"JACOBS, Alan (UNI)"	2	0	0.00		2	100.00		2	
+		Total	89	279	47.45		309	52.55		588	
+
+	Clovelly										
+			1st Prefs	672	51.34		637	48.66		1309	
+		"GOLDEN, Aub (HAN)"	43	30	69.77		13	30.23		43	
+		"LYSSA, Alison (GRN)"	203	23	11.33		180	88.67		203	
+		"COLLINGS, Margaret (DEM)"	94	34	36.17		60	63.83		94	
+		"JACOBS, Alan (UNI)"	0	0	0.00		0	0.00		0	
+		Total	340	759	46.03		890	53.97		1649	
+
+	Clovelly Beach (Wentworth)										
+			1st Prefs	254	46.78		289	53.22		543	
+		"GOLDEN, Aub (HAN)"	14	12	85.71		2	14.29		14	
+		"LYSSA, Alison (GRN)"	87	17	19.54		70	80.46		87	
+		"COLLINGS, Margaret (DEM)"	53	14	26.42		39	73.58		53	
+		"JACOBS, Alan (UNI)"	4	0	0.00		4	100.00		4	
+		Total	158	297	42.37		404	57.63		701	
+
+	Clovelly North (Wentworth)										
+			1st Prefs	636	51.37		602	48.63		1238	
+		"GOLDEN, Aub (HAN)"	31	13	41.94		18	58.06		31	
+		"LYSSA, Alison (GRN)"	151	31	20.53		120	79.47		151	
+		"COLLINGS, Margaret (DEM)"	106	50	47.17		56	52.83		106	
+		"JACOBS, Alan (UNI)"	8	4	50.00		4	50.00		8	
+		Total	296	734	47.85		800	52.15		1534	
+
+	Cooper Park										
+			1st Prefs	532	75.04		177	24.96		709	
+		"GOLDEN, Aub (HAN)"	4	4	100.00		0	0.00		4	
+		"LYSSA, Alison (GRN)"	45	15	33.33		30	66.67		45	
+		"COLLINGS, Margaret (DEM)"	41	22	53.66		19	46.34		41	
+		"JACOBS, Alan (UNI)"	19	4	21.05		15	78.95		19	
+		Total	109	577	70.54		241	29.46		818	
+
+	Darling Point										
+			1st Prefs	1398	80.07		348	19.93		1746	
+		"GOLDEN, Aub (HAN)"	15	14	93.33		1	6.67		15	
+		"LYSSA, Alison (GRN)"	93	30	32.26		63	67.74		93	
+		"COLLINGS, Margaret (DEM)"	100	42	42.00		58	58.00		100	
+		"JACOBS, Alan (UNI)"	16	10	62.50		6	37.50		16	
+		Total	224	1494	75.84		476	24.16		1970	
+
+	Diamond Bay										
+			1st Prefs	1535	74.30		531	25.70		2066	
+		"GOLDEN, Aub (HAN)"	24	15	62.50		9	37.50		24	
+		"LYSSA, Alison (GRN)"	184	44	23.91		140	76.09		184	
+		"COLLINGS, Margaret (DEM)"	108	50	46.30		58	53.70		108	
+		"JACOBS, Alan (UNI)"	26	18	69.23		8	30.77		26	
+		Total	342	1662	69.02		746	30.98		2408	
+
+	Double Bay										
+			1st Prefs	2255	77.97		637	22.03		2892	
+		"GOLDEN, Aub (HAN)"	34	23	67.65		11	32.35		34	
+		"LYSSA, Alison (GRN)"	203	44	21.67		159	78.33		203	
+		"COLLINGS, Margaret (DEM)"	169	71	42.01		98	57.99		169	
+		"JACOBS, Alan (UNI)"	19	10	52.63		9	47.37		19	
+		Total	425	2403	72.44		914	27.56		3317	
+
+	Dover Heights										
+			1st Prefs	1667	80.41		406	19.59		2073	
+		"GOLDEN, Aub (HAN)"	29	19	65.52		10	34.48		29	
+		"LYSSA, Alison (GRN)"	118	32	27.12		86	72.88		118	
+		"COLLINGS, Margaret (DEM)"	92	50	54.35		42	45.65		92	
+		"JACOBS, Alan (UNI)"	32	9	28.13		23	71.88		32	
+		Total	271	1777	75.81		567	24.19		2344	
+
+	Edgecliff										
+			1st Prefs	531	73.75		189	26.25		720	
+		"GOLDEN, Aub (HAN)"	8	6	75.00		2	25.00		8	
+		"LYSSA, Alison (GRN)"	46	15	32.61		31	67.39		46	
+		"COLLINGS, Margaret (DEM)"	43	20	46.51		23	53.49		43	
+		"JACOBS, Alan (UNI)"	3	0	0.00		3	100.00		3	
+		Total	100	572	69.76		248	30.24		820	
+
+	Glenmore										
+			1st Prefs	1046	55.02		855	44.98		1901	
+		"GOLDEN, Aub (HAN)"	35	22	62.86		13	37.14		35	
+		"LYSSA, Alison (GRN)"	295	49	16.61		246	83.39		295	
+		"COLLINGS, Margaret (DEM)"	158	56	35.44		102	64.56		158	
+		"JACOBS, Alan (UNI)"	11	4	36.36		7	63.64		11	
+		Total	499	1177	49.04		1223	50.96		2400	
+
+	Holdsworth										
+			1st Prefs	469	64.33		260	35.67		729	
+		"GOLDEN, Aub (HAN)"	8	7	87.50		1	12.50		8	
+		"LYSSA, Alison (GRN)"	90	19	21.11		71	78.89		90	
+		"COLLINGS, Margaret (DEM)"	52	20	38.46		32	61.54		52	
+		"JACOBS, Alan (UNI)"	4	0	0.00		4	100.00		4	
+		Total	154	515	58.32		368	41.68		883	
+
+	Paddington										
+			1st Prefs	508	57.27		379	42.73		887	
+		"GOLDEN, Aub (HAN)"	10	8	80.00		2	20.00		10	
+		"LYSSA, Alison (GRN)"	107	15	14.02		92	85.98		107	
+		"COLLINGS, Margaret (DEM)"	80	23	28.75		57	71.25		80	
+		"JACOBS, Alan (UNI)"	5	0	0.00		5	100.00		5	
+		Total	202	554	50.87		535	49.13		1089	
+
+	Paddington South (Wentworth)										
+			1st Prefs	322	52.70		289	47.30		611	
+		"GOLDEN, Aub (HAN)"	12	9	75.00		3	25.00		12	
+		"LYSSA, Alison (GRN)"	119	24	20.17		95	79.83		119	
+		"COLLINGS, Margaret (DEM)"	89	33	37.08		56	62.92		89	
+		"JACOBS, Alan (UNI)"	5	1	20.00		4	80.00		5	
+		Total	225	389	46.53		447	53.47		836	
+
+	Parsley Bay										
+			1st Prefs	402	87.39		58	12.61		460	
+		"GOLDEN, Aub (HAN)"	4	2	50.00		2	50.00		4	
+		"LYSSA, Alison (GRN)"	20	9	45.00		11	55.00		20	
+		"COLLINGS, Margaret (DEM)"	12	9	75.00		3	25.00		12	
+		"JACOBS, Alan (UNI)"	5	3	60.00		2	40.00		5	
+		Total	41	425	84.83		76	15.17		501	
+
+	Peters Corner (Wentworth)										
+			1st Prefs	459	47.76		502	52.24		961	
+		"GOLDEN, Aub (HAN)"	29	19	65.52		10	34.48		29	
+		"LYSSA, Alison (GRN)"	122	20	16.39		102	83.61		122	
+		"COLLINGS, Margaret (DEM)"	81	40	49.38		41	50.62		81	
+		"JACOBS, Alan (UNI)"	12	1	8.33		11	91.67		12	
+		Total	244	539	44.73		666	55.27		1205	
+
+	Randwick										
+			1st Prefs	602	53.94		514	46.06		1116	
+		"GOLDEN, Aub (HAN)"	19	15	78.95		4	21.05		19	
+		"LYSSA, Alison (GRN)"	141	27	19.15		114	80.85		141	
+		"COLLINGS, Margaret (DEM)"	95	38	40.00		57	60.00		95	
+		"JACOBS, Alan (UNI)"	15	2	13.33		13	86.67		15	
+		Total	270	684	49.35		702	50.65		1386	
+
+	Randwick East										
+			1st Prefs	502	57.97		364	42.03		866	
+		"GOLDEN, Aub (HAN)"	19	15	78.95		4	21.05		19	
+		"LYSSA, Alison (GRN)"	84	15	17.86		69	82.14		84	
+		"COLLINGS, Margaret (DEM)"	67	33	49.25		34	50.75		67	
+		"JACOBS, Alan (UNI)"	7	3	42.86		4	57.14		7	
+		Total	177	568	54.46		475	45.54		1043	
+
+	Randwick North										
+			1st Prefs	1074	54.19		908	45.81		1982	
+		"GOLDEN, Aub (HAN)"	55	35	63.64		20	36.36		55	
+		"LYSSA, Alison (GRN)"	216	87	40.28		129	59.72		216	
+		"COLLINGS, Margaret (DEM)"	151	58	38.41		93	61.59		151	
+		"JACOBS, Alan (UNI)"	6	3	50.00		3	50.00		6	
+		Total	428	1257	52.16		1153	47.84		2410	
+
+	Rose Bay										
+			1st Prefs	1393	74.89		467	25.11		1860	
+		"GOLDEN, Aub (HAN)"	39	28	71.79		11	28.21		39	
+		"LYSSA, Alison (GRN)"	152	45	29.61		107	70.39		152	
+		"COLLINGS, Margaret (DEM)"	107	43	40.19		64	59.81		107	
+		"JACOBS, Alan (UNI)"	36	12	33.33		24	66.67		36	
+		Total	334	1521	69.33		673	30.67		2194	
+
+	Rose Bay Central										
+			1st Prefs	721	78.03		203	21.97		924	
+		"GOLDEN, Aub (HAN)"	19	16	84.21		3	15.79		19	
+		"LYSSA, Alison (GRN)"	56	17	30.36		39	69.64		56	
+		"COLLINGS, Margaret (DEM)"	48	16	33.33		32	66.67		48	
+		"JACOBS, Alan (UNI)"	13	7	53.85		6	46.15		13	
+		Total	136	777	73.30		283	26.70		1060	
+
+	Sydney (Wentworth)										
+			1st Prefs	91	57.23		68	42.77		159	
+		"GOLDEN, Aub (HAN)"	3	2	66.67		1	33.33		3	
+		"LYSSA, Alison (GRN)"	24	5	20.83		19	79.17		24	
+		"COLLINGS, Margaret (DEM)"	18	9	50.00		9	50.00		18	
+		"JACOBS, Alan (UNI)"	3	1	33.33		2	66.67		3	
+		Total	48	108	52.17		99	47.83		207	
+
+	Vaucluse										
+			1st Prefs	734	84.37		136	15.63		870	
+		"GOLDEN, Aub (HAN)"	4	3	75.00		1	25.00		4	
+		"LYSSA, Alison (GRN)"	72	20	27.78		52	72.22		72	
+		"COLLINGS, Margaret (DEM)"	29	12	41.38		17	58.62		29	
+		"JACOBS, Alan (UNI)"	4	4	100.00		0	0.00		4	
+		Total	109	773	78.96		206	21.04		979	
+
+	Watsons Bay										
+			1st Prefs	591	74.25		205	25.75		796	
+		"GOLDEN, Aub (HAN)"	21	15	71.43		6	28.57		21	
+		"LYSSA, Alison (GRN)"	70	14	20.00		56	80.00		70	
+		"COLLINGS, Margaret (DEM)"	27	8	29.63		19	70.37		27	
+		"JACOBS, Alan (UNI)"	8	1	12.50		7	87.50		8	
+		Total	126	629	68.22		293	31.78		922	
+
+	Waverley										
+			1st Prefs	691	53.52		600	46.48		1291	
+		"GOLDEN, Aub (HAN)"	32	23	71.88		9	28.13		32	
+		"LYSSA, Alison (GRN)"	219	43	19.63		176	80.37		219	
+		"COLLINGS, Margaret (DEM)"	116	42	36.21		74	63.79		116	
+		"JACOBS, Alan (UNI)"	8	3	37.50		5	62.50		8	
+		Total	375	802	48.14		864	51.86		1666	
+
+	Waverley College										
+			1st Prefs	524	59.41		358	40.59		882	
+		"GOLDEN, Aub (HAN)"	24	18	75.00		6	25.00		24	
+		"LYSSA, Alison (GRN)"	145	35	24.14		110	75.86		145	
+		"COLLINGS, Margaret (DEM)"	78	28	35.90		50	64.10		78	
+		"JACOBS, Alan (UNI)"	3	1	33.33		2	66.67		3	
+		Total	250	606	53.53		526	46.47		1132	
+
+	Woollahra										
+			1st Prefs	986	68.95		444	31.05		1430	
+		"GOLDEN, Aub (HAN)"	17	7	41.18		10	58.82		17	
+		"LYSSA, Alison (GRN)"	175	34	19.43		141	80.57		175	
+		"COLLINGS, Margaret (DEM)"	106	48	45.28		58	54.72		106	
+		"JACOBS, Alan (UNI)"	18	9	50.00		9	50.00		18	
+		Total	316	1084	62.08		662	37.92		1746	
+
+	Woollahra East										
+			1st Prefs	626	67.46		302	32.54		928	
+		"GOLDEN, Aub (HAN)"	13	7	53.85		6	46.15		13	
+		"LYSSA, Alison (GRN)"	100	19	19.00		81	81.00		100	
+		"COLLINGS, Margaret (DEM)"	73	29	39.73		44	60.27		73	
+		"JACOBS, Alan (UNI)"	5	2	40.00		3	60.00		5	
+		Total	191	683	61.04		436	38.96		1119	
+
+	Special Hospitals										
+			1st Prefs	128	59.53		87	40.47		215	
+		"GOLDEN, Aub (HAN)"	8	7	87.50		1	12.50		8	
+		"LYSSA, Alison (GRN)"	2	1	50.00		1	50.00		2	
+		"COLLINGS, Margaret (DEM)"	6	4	66.67		2	33.33		6	
+		"JACOBS, Alan (UNI)"	0	0	0.00		0	0.00		0	
+		Total	16	140	60.61		91	39.39		231	
+
+	Total Ordinary										
+			1st Prefs	30457	63.64		17405	36.36		47862	
+		"GOLDEN, Aub (HAN)"	938	632	67.38		306	32.62		938	
+		"LYSSA, Alison (GRN)"	5690	1157	20.33		4533	79.67		5690	
+		"COLLINGS, Margaret (DEM)"	3493	1335	38.22		2158	61.78		3493	
+		"JACOBS, Alan (UNI)"	477	178	37.32		299	62.68		477	
+		Total	10598	33759	57.75		24701	42.25		58460	
+
+	ABSENT										
+			1st Prefs	2511	58.99		1746	41.01		4257	
+		"GOLDEN, Aub (HAN)"	117	84	71.79		33	28.21		117	
+		"LYSSA, Alison (GRN)"	845	223	26.39		622	73.61		845	
+		"COLLINGS, Margaret (DEM)"	472	148	31.36		324	68.64		472	
+		"JACOBS, Alan (UNI)"	46	16	34.78		30	65.22		46	
+		Total	1480	2982	51.98		2755	48.02		5737	
+
+	POSTAL										
+			1st Prefs	2659	73.76		946	26.24		3605	
+		"GOLDEN, Aub (HAN)"	67	46	68.66		21	31.34		67	
+		"LYSSA, Alison (GRN)"	166	39	23.49		127	76.51		166	
+		"COLLINGS, Margaret (DEM)"	189	58	30.69		131	69.31		189	
+		"JACOBS, Alan (UNI)"	53	23	43.40		30	56.60		53	
+		Total	475	2825	69.24		1255	30.76		4080	
+
+	PRE_POLL										
+			1st Prefs	3408	63.01		2001	36.99		5409	
+		"GOLDEN, Aub (HAN)"	99	69	69.70		30	30.30		99	
+		"LYSSA, Alison (GRN)"	569	130	22.85		439	77.15		569	
+		"COLLINGS, Margaret (DEM)"	439	148	33.71		291	66.29		439	
+		"JACOBS, Alan (UNI)"	64	24	37.50		40	62.50		64	
+		Total	1171	3779	57.43		2801	42.57		6580	
+
+	PROVISIONAL										
+			1st Prefs	263	59.50		179	40.50		442	
+		"GOLDEN, Aub (HAN)"	12	11	91.67		1	8.33		12	
+		"LYSSA, Alison (GRN)"	101	25	24.75		76	75.25		101	
+		"COLLINGS, Margaret (DEM)"	46	16	34.78		30	65.22		46	
+		"JACOBS, Alan (UNI)"	2	0	0.00		2	100.00		2	
+		Total	161	315	52.24		288	47.76		603	
+
+	Division Summary										
+			1st Prefs	39298	63.82		22277	36.18		61575	
+		"GOLDEN, Aub (HAN)"	1233	842	68.29		391	31.71		1233	
+		"LYSSA, Alison (GRN)"	7371	1574	21.35		5797	78.65		7371	
+		"COLLINGS, Margaret (DEM)"	4639	1705	36.75		2934	63.25		4639	
+		"JACOBS, Alan (UNI)"	642	241	37.54		401	62.46		642	
+		Total	13885	43660	57.86		31800	42.14		75460	

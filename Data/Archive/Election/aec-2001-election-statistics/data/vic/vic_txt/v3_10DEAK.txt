@@ -1,0 +1,276 @@
+House of Representatives - 2001 Election: Victoria												
+Two Candidate Preferred Preference Flow Result												
+By Polling Place												
+Deakin (85208)												
+		Candidate		                  	"BUCKINGHAM, Helen"		          	"BARRESI, Phil"			Total	
+				                           	ALP		                        	LP				
+				                           	Votes	%	                     	Votes	%			
+	Antonio Park											
+			1st Prefs		502	40.35		742	59.65		1244	
+		"AYLIFFE, Nahum (DEM)"	111		65	58.56		46	41.44		111	
+		"EVANS, Robyn (GRN)"	152		122	80.26		30	19.74		152	
+		Total	263		689	45.72		818	54.28		1507	
+
+	Bedford Road											
+			1st Prefs		643	50.59		628	49.41		1271	
+		"AYLIFFE, Nahum (DEM)"	168		101	60.12		67	39.88		168	
+		"EVANS, Robyn (GRN)"	76		52	68.42		24	31.58		76
+		Total	244		796	52.54		719	47.46		1515
+
+	Blackburn										
+			1st Prefs		451	38.98		706	61.02		1157
+		"AYLIFFE, Nahum (DEM)"	115		74	64.35		41	35.65		115
+		"EVANS, Robyn (GRN)"	101		82	81.19		19	18.81		101
+		Total	216		607	44.21		766	55.79		1373
+
+	Blackburn Lake										
+			1st Prefs		741	39.27		1146	60.73		1887
+		"AYLIFFE, Nahum (DEM)"	192		129	67.19		63	32.81		192
+		"EVANS, Robyn (GRN)"	239		188	78.66		51	21.34		239
+		Total	431		1058	45.64		1260	54.36		2318
+
+	Blackburn North										
+			1st Prefs		671	45.43		806	54.57		1477
+		"AYLIFFE, Nahum (DEM)"	178		112	62.92		66	37.08		178
+		"EVANS, Robyn (GRN)"	105		76	72.38		29	27.62		105
+		Total	283		859	48.81		901	51.19		1760
+
+	Blackburn South										
+			1st Prefs		1338	47.05		1506	52.95		2844
+		"AYLIFFE, Nahum (DEM)"	223		125	56.05		98	43.95		223
+		"EVANS, Robyn (GRN)"	220		174	79.09		46	20.91		220
+		Total	443		1637	49.80		1650	50.20		3287
+
+	Blackburn West										
+			1st Prefs		1842	50.11		1834	49.89		3676
+		"AYLIFFE, Nahum (DEM)"	327		203	62.08		124	37.92		327
+		"EVANS, Robyn (GRN)"	319		256	80.25		63	19.75		319
+		Total	646		2301	53.24		2021	46.76		4322
+
+	Burwood Heights										
+			1st Prefs		1699	53.87		1455	46.13		3154
+		"AYLIFFE, Nahum (DEM)"	266		165	62.03		101	37.97		266
+		"EVANS, Robyn (GRN)"	121		81	66.94		40	33.06		121
+		Total	387		1945	54.93		1596	45.07		3541
+
+	Cheong Park										
+			1st Prefs		0			0			
+		"AYLIFFE, Nahum (DEM)"	0		0	0.00		0	0.00		0
+		"EVANS, Robyn (GRN)"	0		0	0.00		0	0.00		0
+		Total	0		0	0.00		0	0.00		0
+
+	Croydon South										
+			1st Prefs		972	43.53		1261	56.47		2233
+		"AYLIFFE, Nahum (DEM)"	213		129	60.56		84	39.44		213
+		"EVANS, Robyn (GRN)"	105		73	69.52		32	30.48		105
+		Total	318		1174	46.02		1377	53.98		2551
+
+	Croydon Town										
+			1st Prefs		463	38.49		740	61.51		1203
+		"AYLIFFE, Nahum (DEM)"	111		68	61.26		43	38.74		111
+		"EVANS, Robyn (GRN)"	98		72	73.47		26	26.53		98
+		Total	209		603	42.71		809	57.29		1412
+
+	Eastwood										
+			1st Prefs		867	45.66		1032	54.34		1899
+		"AYLIFFE, Nahum (DEM)"	189		122	64.55		67	35.45		189
+		"EVANS, Robyn (GRN)"	200		159	79.50		41	20.50		200
+		Total	389		1148	50.17		1140	49.83		2288
+
+	Eley Park										
+			1st Prefs		1090	54.34		916	45.66		2006
+		"AYLIFFE, Nahum (DEM)"	180		117	65.00		63	35.00		180
+		"EVANS, Robyn (GRN)"	90		64	71.11		26	28.89		90
+		Total	270		1271	55.84		1005	44.16		2276
+
+	Forest Hill										
+			1st Prefs		492	44.81		606	55.19		1098
+		"AYLIFFE, Nahum (DEM)"	78		59	75.64		19	24.36		78
+		"EVANS, Robyn (GRN)"	73		64	87.67		9	12.33		73
+		Total	151		615	49.24		634	50.76		1249
+
+	Glen Park										
+			1st Prefs		298	52.93		265	47.07		563
+		"AYLIFFE, Nahum (DEM)"	47		29	61.70		18	38.30		47
+		"EVANS, Robyn (GRN)"	28		22	78.57		6	21.43		28
+		Total	75		349	54.70		289	45.30		638
+
+	Heatherdale										
+			1st Prefs		566	47.64		622	52.36		1188
+		"AYLIFFE, Nahum (DEM)"	130		85	65.38		45	34.62		130
+		"EVANS, Robyn (GRN)"	107		82	76.64		25	23.36		107
+		Total	237		733	51.44		692	48.56		1425
+
+	Heathmont (Deakin)										
+			1st Prefs		443	45.25		536	54.75		979
+		"AYLIFFE, Nahum (DEM)"	99		61	61.62		38	38.38		99
+		"EVANS, Robyn (GRN)"	88		63	71.59		25	28.41		88
+		Total	187		567	48.63		599	51.37		1166
+
+	Inala Village										
+			1st Prefs		145	37.76		239	62.24		384
+		"AYLIFFE, Nahum (DEM)"	13		10	76.92		3	23.08		13
+		"EVANS, Robyn (GRN)"	8		5	62.50		3	37.50		8
+		Total	21		160	39.51		245	60.49		405
+
+	Kalinda										
+			1st Prefs		538	35.80		965	64.20		1503
+		"AYLIFFE, Nahum (DEM)"	133		81	60.90		52	39.10		133
+		"EVANS, Robyn (GRN)"	88		65	73.86		23	26.14		88
+		Total	221		684	39.68		1040	60.32		1724
+
+	Laburnum										
+			1st Prefs		607	42.21		831	57.79		1438
+		"AYLIFFE, Nahum (DEM)"	113		71	62.83		42	37.17		113
+		"EVANS, Robyn (GRN)"	163		134	82.21		29	17.79		163
+		Total	276		812	47.37		902	52.63		1714
+
+	Melbourne (Deakin)										
+			1st Prefs		32	45.07		39	54.93		71
+		"AYLIFFE, Nahum (DEM)"	7		6	85.71		1	14.29		7
+		"EVANS, Robyn (GRN)"	12		7	58.33		5	41.67		12
+		Total	19		45	50.00		45	50.00		90
+
+	Mitcham										
+			1st Prefs		598	47.65		657	52.35		1255
+		"AYLIFFE, Nahum (DEM)"	118		65	55.08		53	44.92		118
+		"EVANS, Robyn (GRN)"	90		71	78.89		19	21.11		90
+		Total	208		734	50.17		729	49.83		1463
+
+	Mitcham North										
+			1st Prefs		898	48.41		957	51.59		1855
+		"AYLIFFE, Nahum (DEM)"	198		126	63.64		72	36.36		198
+		"EVANS, Robyn (GRN)"	149		113	75.84		36	24.16		149
+		Total	347		1137	51.63		1065	48.37		2202
+
+	Mullum										
+			1st Prefs		501	39.60		764	60.40		1265
+		"AYLIFFE, Nahum (DEM)"	117		75	64.10		42	35.90		117
+		"EVANS, Robyn (GRN)"	72		59	81.94		13	18.06		72
+		Total	189		635	43.67		819	56.33		1454
+
+	Norwood										
+			1st Prefs		381	38.80		601	61.20		982
+		"AYLIFFE, Nahum (DEM)"	78		51	65.38		27	34.62		78
+		"EVANS, Robyn (GRN)"	51		32	62.75		19	37.25		51
+		Total	129		464	41.76		647	58.24		1111
+
+	Nunawading										
+			1st Prefs		860	54.22		726	45.78		1586
+		"AYLIFFE, Nahum (DEM)"	135		74	54.81		61	45.19		135
+		"EVANS, Robyn (GRN)"	113		91	80.53		22	19.47		113
+		Total	248		1025	55.89		809	44.11		1834
+
+	Nunawading South										
+			1st Prefs		1016	46.35		1176	53.65		2192
+		"AYLIFFE, Nahum (DEM)"	237		148	62.45		89	37.55		237
+		"EVANS, Robyn (GRN)"	163		123	75.46		40	24.54		163
+		Total	400		1287	49.65		1305	50.35		2592
+
+	Parkwood										
+			1st Prefs		391	35.68		705	64.32		1096
+		"AYLIFFE, Nahum (DEM)"	85		57	67.06		28	32.94		85
+		"EVANS, Robyn (GRN)"	50		33	66.00		17	34.00		50
+		Total	135		481	39.07		750	60.93		1231
+
+	Rangeview										
+			1st Prefs		637	40.39		940	59.61		1577
+		"AYLIFFE, Nahum (DEM)"	157		94	59.87		63	40.13		157
+		"EVANS, Robyn (GRN)"	141		121	85.82		20	14.18		141
+		Total	298		852	45.44		1023	54.56		1875
+
+	Ringwood										
+			1st Prefs		634	45.58		757	54.42		1391
+		"AYLIFFE, Nahum (DEM)"	131		78	59.54		53	40.46		131
+		"EVANS, Robyn (GRN)"	73		50	68.49		23	31.51		73
+		Total	204		762	47.77		833	52.23		1595
+
+	Ringwood East										
+			1st Prefs		644	45.97		757	54.03		1401
+		"AYLIFFE, Nahum (DEM)"	129		83	64.34		46	35.66		129
+		"EVANS, Robyn (GRN)"	71		52	73.24		19	26.76		71
+		Total	200		779	48.66		822	51.34		1601
+
+	Ringwood Heights										
+			1st Prefs		503	39.11		783	60.89		1286
+		"AYLIFFE, Nahum (DEM)"	118		80	67.80		38	32.20		118
+		"EVANS, Robyn (GRN)"	135		108	80.00		27	20.00		135
+		Total	253		691	44.90		848	55.10		1539
+
+	Ringwood North (Deakin)										
+			1st Prefs		396	33.59		783	66.41		1179
+		"AYLIFFE, Nahum (DEM)"	79		47	59.49		32	40.51		79
+		"EVANS, Robyn (GRN)"	46		30	65.22		16	34.78		46
+		Total	125		473	36.27		831	63.73		1304
+
+	Ringwood South										
+			1st Prefs		1140	47.20		1275	52.80		2415
+		"AYLIFFE, Nahum (DEM)"	226		134	59.29		92	40.71		226
+		"EVANS, Robyn (GRN)"	187		149	79.68		38	20.32		187
+		Total	413		1423	50.32		1405	49.68		2828
+
+	Springview										
+			1st Prefs		882	48.14		950	51.86		1832
+		"AYLIFFE, Nahum (DEM)"	191		129	67.54		62	32.46		191
+		"EVANS, Robyn (GRN)"	105		83	79.05		22	20.95		105
+		Total	296		1094	51.41		1034	48.59		2128
+
+	Tally Ho (Deakin)										
+			1st Prefs		675	48.42		719	51.58		1394
+		"AYLIFFE, Nahum (DEM)"	86		56	65.12		30	34.88		86
+		"EVANS, Robyn (GRN)"	61		44	72.13		17	27.87		61
+		Total	147		775	50.29		766	49.71		1541
+
+	Tinternvale										
+			1st Prefs		672	42.53		908	57.47		1580
+		"AYLIFFE, Nahum (DEM)"	144		79	54.86		65	45.14		144
+		"EVANS, Robyn (GRN)"	118		86	72.88		32	27.12		118
+		Total	262		837	45.44		1005	54.56		1842
+
+	Vermont North										
+			1st Prefs		447	40.78		649	59.22		1096
+		"AYLIFFE, Nahum (DEM)"	82		44	53.66		38	46.34		82
+		"EVANS, Robyn (GRN)"	70		58	82.86		12	17.14		70
+		Total	152		549	43.99		699	56.01		1248
+
+	Special Hospitals										
+			1st Prefs		81	34.47		154	65.53		235
+		"AYLIFFE, Nahum (DEM)"	12		11	91.67		1	8.33		12
+		"EVANS, Robyn (GRN)"	6		5	83.33		1	16.67		6
+		Total	18		97	38.34		156	61.66		253
+
+	Total Ordinary										
+			1st Prefs		25756	45.27		31136	54.73		56892
+		"AYLIFFE, Nahum (DEM)"	5216		3243	62.17		1973	37.83		5216
+		"EVANS, Robyn (GRN)"	4094		3149	76.92		945	23.08		4094
+		Total	9310		32148	48.56		34054	51.44		66202
+
+	ABSENT										
+			1st Prefs		1802	44.71		2228	55.29		4030
+		"AYLIFFE, Nahum (DEM)"	560		370	66.07		190	33.93		560
+		"EVANS, Robyn (GRN)"	527		384	72.87		143	27.13		527
+		Total	1087		2556	49.95		2561	50.05		5117
+
+	POSTAL										
+			1st Prefs		1582	40.18		2355	59.82		3937
+		"AYLIFFE, Nahum (DEM)"	239		154	64.44		85	35.56		239
+		"EVANS, Robyn (GRN)"	183		141	77.05		42	22.95		183
+		Total	422		1877	43.06		2482	56.94		4359
+
+	PRE_POLL										
+			1st Prefs		1128	41.64		1581	58.36		2709
+		"AYLIFFE, Nahum (DEM)"	269		177	65.80		92	34.20		269
+		"EVANS, Robyn (GRN)"	222		160	72.07		62	27.93		222
+		Total	491		1465	45.78		1735	54.22		3200
+
+	PROVISIONAL										
+			1st Prefs		129	52.44		117	47.56		246
+		"AYLIFFE, Nahum (DEM)"	33		22	66.67		11	33.33		33
+		"EVANS, Robyn (GRN)"	19		17	89.47		2	10.53		19
+		Total	52		168	56.38		130	43.62		298
+
+	Division Summary										
+			1st Prefs		30397	44.82		37417	55.18		67814	
+		"AYLIFFE, Nahum (DEM)"	6317		3966	62.78		2351	37.22		6317	
+		"EVANS, Robyn (GRN)"	5045		3851	76.33		1194	23.67		5045	
+		Total	11362		38214	48.26		40962	51.74		79176	

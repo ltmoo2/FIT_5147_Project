@@ -1,0 +1,1377 @@
+Senate - 1993 Election: Queensland  															
+Result of theTransfer and Distribution of Preferences															
+Election of 6 Senators															
+															
+Quota =  1850661  +  1 =  264381															
+	6+1														
+															
+				First			Count 2			Count 3			Count 4		
+				Preference		Votes	Progress		Votes	Progress		Votes	Progress		
+	Candidates			Votes	Status	Transfd	Totals	Status	Transfd	Totals	Status	Transfd	Totals	Status	
+A	"JEWELL, Perry J.B."	CAP		51877		56	51933		52	51985		3	51988		
+A	"PITT, A. R."	CAP		528		6	534		5	539		0	539		
+A	"HILL, Sandra"	CAP		262		2	264		0	264		0	264		
+A	"GEISSMANN, Mark S."	CAP		116		0	116		0	116		0	116		
+A	"GILL, Ryland E."	CAP		55		0	55		0	55		0	55		
+A	"TEAGUE, Richard C."	CAP		104		0	104		0	104		0	104		
+															
+B	"O'CHEE, Bill"	NP		267760	Elected	0	267760	Elected	0	267760	Elected	-3379	264381	Elected	
+B	"KELLY, De-Anne"	NP		618		21	639		85	724		3333	4057		
+B	"COBB, Teresa M."	NP		431		0	431		7	438		4	442		
+															
+C	"MacGIBBON, David"	LP		580303	Elected	0	580303	Elected	-315922	264381	Elected	0	264381	Elected	
+C	"PARER, Warwick"	LP		631		17	648		315416	316064	Elected	0	316064	Elected	
+C	"CUNNINGHAM, Ross Alan"	LP		466		5	471		87	558		16	574		
+C	"BUCHANAN, Ann"	LP		700		10	710		52	762		1	763		
+C	"BIRD, Henry Walter"	LP		148		1	149		12	161		0	161		
+C	"DAVIES, Owen"	LP		518		3	521		28	549		0	549		
+															
+D	"SIMS, Alan"	CTA		11008		8	11016		27	11043		1	11044		
+D	"JOYNER, Rona"	CTA		538		3	541		3	544		0	544		
+															
+E	"WEEDON, Barry"			1972		5	1977		2	1979		0	1979		
+E	"CROMPTON, Margaret"			58		3	61		1	62		0	62		
+															
+F	"HUTTON, Drew"	QG		58542		144	58686		46	58732		2	58734		
+F	"HUNT, Colin"	QG		140		17	157		2	159		0	159		
+F	"SPENCER, Naomi"	QG		621		26	647		0	647		0	647		
+															
+G	"REYNOLDS, Margaret"	ALP		725920	Elected	-461539	264381	Elected	0	264381	Elected	0	264381	Elected	
+G	"COLSTON, Malcolm"	ALP		1053		460300	461353	Elected	0	461353	Elected	0	461353	Elected	
+G	"BIRD, John"	ALP		832		318	1150		8	1158		2	1160		
+G	"McLEAN, Ian"	ALP		1460		279	1739		1	1740		0	1740		
+															
+H	"ALFORD, Ronald James"			1220		15	1235		0	1235		0	1235		
+H	"SMITH, Sylvia Dianne"			52		12	64		0	64		0	64		
+															
+I	"McCARTHY, Darby"	AIPP		6362		20	6382		2	6384		0	6384		
+I	"BRANFIELD, Una"	AIPP		60		1	61		0	61		0	61		
+															
+J	"WILSON, Geoff"	NLP		3504		9	3513		2	3515		0	3515		
+J	"JACKSON, Peter"	NLP		71		1	72		0	72		0	72		
+															
+K	"WOODLEY, John"	DEM		128993		193	129186		57	129243		5	129248		
+K	"CORNISH, Jonathan"	DEM		216		3	219		1	220		0	220		
+K	"WOODROW, Gayle"	DEM		857		24	881		1	882		0	882		
+K	"WALTERS, Tony"	DEM		339		3	342		0	342		0	342		
+															
+Ungrouped															
+	"DIMITRIOU, Steve"	IND		1043		5	1048		3	1051		0	1051		
+	"KOEHLER, John"	CEC		538		0	538		0	538		0	538		
+	"GARVEY, Barry"	IND		150		1	151		0	151		0	151		
+	"SHERLOCK, Joe"	IND		236		0	236		0	236		0	236		
+	"BEILBY, Christopher Hart"			105		0	105		0	105		0	105		
+	"WARNER, Julie"	CEC		254		2	256		0	256		0	256		
+															
+	Exhausted Votes			0		5	5		7	12		0	12		
+	Loss by Fraction			0		21	21		15	36		12	48		
+															
+	Total Votes			1850661		461539	1850661		315922	1850661		3379	1850661		
+															
+	Notes		Candidates Elected:			Surplus Distributed			Surplus Distributed			Surplus Distributed			
+			"1. Reynolds, M"			"Reynolds, M"			"MacGibbon, D"			"O'Chee, B"			
+			"2. MacGibbon, D"												
+			"3. O'Chee, B"			Candidate Elected			Candidate Elected						
+						"4. Colston, M"			"5. Parer, W"						
+															
+															
+															
+															
+				Count 5			Count 6			Count 7-12			Count 13-18		
+			Votes	Progress		Votes	Progress		Votes	Progress		Votes	Progress					
+	Candidates		Transfd	Total	Status	Transfd	Totals	Status	Transfd	Totals	Status	Transfd	Totals	Status				
+A	"JEWELL, Perry J.B."	CAP	5	51993		1	51994		13733	65727		56200	121927					
+A	"PITT, A. R."	CAP	0	539		0	539		-539	0	Excluded	0	0	Excluded				
+A	"HILL, Sandra"	CAP	0	264		0	264		-264	0	Excluded	0	0	Excluded				
+A	"GEISSMANN, Mark S."	CAP	0	116		0	116		-116	0	Excluded	0	0	Excluded				
+A	"GILL, Ryland E."	CAP	0	55		0	55		-55	0	Excluded	0	0	Excluded				
+A	"TEAGUE, Richard C."	CAP	0	104		0	104		-104	0	Excluded	0	0	Excluded				
+																		
+B	"O'CHEE, Bill"	NP	0	264381	Elected	0	264381	Elected	0	264381	Elected	0	264381	Elected				
+B	"KELLY, De-Anne"	NP	7	4064		45	4109		-4109	0	Excluded	0	0	Excluded				
+B	"COBB, Teresa M."	NP	0	442		1	443		-443	0	Excluded	0	0	Excluded				
+																		
+C	"MacGIBBON, David"	LP	0	264381	Elected	0	264381	Elected	0	264381	Elected	0	264381	Elected				
+C	"PARER, Warwick"	LP	0	316064	Elected	-51683	264381	Elected	0	264381	Elected	0	264381	Elected				
+C	"CUNNINGHAM, Ross Alan"	LP	4	578		51597	52175		7559	59734		-59734	0	Excluded				
+C	"BUCHANAN, Ann"	LP	0	763		13	776		-776	0	Excluded	0	0	Excluded				
+C	"BIRD, Henry Walter"	LP	0	161		3	164		-164	0	Excluded	0	0	Excluded				
+C	"DAVIES, Owen"	LP	0	549		3	552		-552	0	Excluded	0	0	Excluded				
+																		
+D	"SIMS, Alan"	CTA	1	11045		1	11046		-11046	0	Excluded	0	0	Excluded				
+D	"JOYNER, Rona"	CTA	1	545		0	545		-545	0	Excluded	0	0	Excluded				
+				0			0											
+E	"WEEDON, Barry"		0	1979		0	1979		-1979	0	Excluded	0	0	Excluded				
+E	"CROMPTON, Margaret"		0	62		0	62		-62	0	Excluded	0	0	Excluded				
+																		
+F	"HUTTON, Drew"	QG	26	58760		3	58763		5911	64674		1257	65931					
+F	"HUNT, Colin"	QG	2	161		0	161		-161	0	Excluded	0	0	Excluded				
+F	"SPENCER, Naomi"	QG	1	648		0	648		-648	0	Excluded	0	0	Excluded				
+																		
+G	"REYNOLDS, Margaret"	ALP	0	264381	Elected	0	264381	Elected	0	264381	Elected	0	264381	Elected				
+G	"COLSTON, Malcolm"	ALP	-196972	264381	Elected	0	264381	Elected	0	264381	Elected	0	264381	Elected				
+G	"BIRD, John"	ALP	196754	197914		2	197916		2822	200738		425	201163					
+G	"McLEAN, Ian"	ALP	95	1835			1835		-1835	0	Excluded	0	0	Excluded				
+																		
+H	"ALFORD, Ronald James"		2	1237		0	1237		-1237	0	Excluded	0	0	Excluded				
+H	"SMITH, Sylvia Dianne"		0	64		0	64		-64	0	Excluded	0	0	Excluded				
+																		
+I	"McCARTHY, Darby"	AIPP	4	6388		0	6388		-6388	0	Excluded	0	0	Excluded				
+I	"BRANFIELD, Una"	AIPP	0	61		0	61		-61	0	Excluded	0	0	Excluded				
+																		
+J	"WILSON, Geoff"	NLP	1	3516		0	3516		-3516	0	Excluded	0	0	Excluded				
+J	"JACKSON, Peter"	NLP	0	72		0	72		-72	0	Excluded	0	0	Excluded				
+																		
+K	"WOODLEY, John"	DEM	51	129299		6	129305		8458	137763		1753	139516					
+K	"CORNISH, Jonathan"	DEM	2	222		0	222		-222	0	Excluded	0	0	Excluded				
+K	"WOODROW, Gayle"	DEM	1	883		0	883		-883	0	Excluded	0	0	Excluded				
+K	"WALTERS, Tony"	DEM	0	342			342		-342	0	Excluded	0	0	Excluded				
+																		
+Ungrouped																		
+	"DIMITRIOU, Steve"	IND	0	1051		0	1051		-1051	0	Excluded	0	0	Excluded				
+	"KOEHLER, John"	CEC	0	538		0	538		-538	0	Excluded	0	0	Excluded				
+	"GARVEY, Barry"	IND	0	151		0	151		-151	0	Excluded	0	0	Excluded				
+	"SHERLOCK, Joe"	IND	0	236		0	236		-236	0	Excluded	0	0	Excluded				
+	"BEILBY, Christopher Hart"		0	105		0	105		-105	0	Excluded	0	0	Excluded				
+	"WARNER, Julie"	CEC	0	256		0	256		-256	0	Excluded	0	0	Excluded				
+																		
+	Exhausted Votes		2	14		0	14		74	88		89	177					
+	Loss by Fraction		13	61		8	69		-37	32		10	42					
+																		
+	Total Votes		196972	1850661		51683	1850661		38520	1850661		59734	1850661					
+																		
+	Notes		Surplus Distributed			Surplus Distributed			Bulk Exclusion			Candidate Excluded						
+			"Colston, M"			"Parer, W"			"GILL, R"		"COBB, T"	"Cunningham, R"						
+									"BRANFIELD, U"		"KOEHLER, J"			
+									"CROMPTON, M"		"PITT, A"			
+									"SMITH, S"		"JOYNER, R"			
+									"JACKSON, P"		"DAVIES, O"			
+									"TEAGUE, R"		"SPENCER, N"			
+									"BEILBY, C"		"BUCHANAN, A"			
+									"GIESSMANN, M"		"WOODROW, G"			
+									"GARVEY, B"		"DIMITRIOU, S"			
+									"HUNT, C"		"ALFORD, R"			
+									"BIRD, H"		"McLEAN, I"			
+									"CORNISH, J"		"WEEDON, B"			
+									"SHERLOCK, J"		"WILSON, J"			
+									"WARNER, J"		"KELLY, D"			
+									"HILL, S"		"McCARTHY, D"			
+									"WALTERS, G"		"SIMS, A"			
+														
+														
+														
+				Count 19-24			Count 25-29							
+			Votes	Progress		Votes	Progress							
+	Candidates		Transfd	Totals	Status	Transfd	Totals	Status						
+A	"JEWELL, Perry J.B."	CAP	1459	123386		-120105	3281	Excluded						
+A	"PITT, A. R."	CAP	0	0	Excluded	0	0	Excluded						
+A	"HILL, Sandra"	CAP	0	0	Excluded	0	0	Excluded						
+A	"GEISSMANN, Mark S."	CAP	0	0	Excluded	0	0	Excluded						
+A	"GILL, Ryland E."	CAP	0	0	Excluded	0	0	Excluded						
+A	"TEAGUE, Richard C."	CAP	0	0	Excluded	0	0	Excluded						
+														
+B	"O'CHEE, Bill"	NP	0	264381	Elected	0	264381	Elected						
+B	"KELLY, De-Anne"	NP	0	0	Excluded	0	0	Excluded						
+B	"COBB, Teresa M."	NP	0	0	Excluded	0	0	Excluded						
+														
+C	"MacGIBBON, David"	LP	0	264381	Elected	0	264381	Elected						
+C	"PARER, Warwick"	LP	0	264381	Elected	0	264381	Elected						
+C	"CUNNINGHAM, Ross Alan"	LP	0	0	Excluded	0	0	Excluded						
+C	"BUCHANAN, Ann"	LP	0	0	Excluded	0	0	Excluded						
+C	"BIRD, Henry Walter"	LP	0	0	Excluded	0	0	Excluded						
+C	"DAVIES, Owen"	LP	0	0	Excluded	0	0	Excluded						
+														
+D	"SIMS, Alan"	CTA	0	0	Excluded	0	0	Excluded						
+D	"JOYNER, Rona"	CTA	0	0	Excluded	0	0	Excluded						
+														
+E	"WEEDON, Barry"		0	0	Excluded	0	0	Excluded						
+E	"CROMPTON, Margaret"		0	0	Excluded	0	0	Excluded						
+														
+F	"HUTTON, Drew"	QG	-65931	0	Excluded	0	0	Excluded						
+F	"HUNT, Colin"	QG	0	0	Excluded	0	0	Excluded						
+F	"SPENCER, Naomi"	QG	0	0	Excluded	0	0	Excluded						
+														
+G	"REYNOLDS, Margaret"	ALP	0	264381	Elected	0	264381	Elected						
+G	"COLSTON, Malcolm"	ALP	0	264381	Elected	0	264381	Elected						
+G	"BIRD, John"	ALP	3215	204378		15268	219646							
+G	"McLEAN, Ian"	ALP	0	0	Excluded	0	0	Excluded						
+														
+H	"ALFORD, Ronald James"		0	0	Excluded	0	0	Excluded						
+H	"SMITH, Sylvia Dianne"		0	0	Excluded	0	0	Excluded						
+														
+I	"McCARTHY, Darby"	AIPP	0	0	Excluded	0	0	Excluded						
+I	"BRANFIELD, Una"	AIPP	0	0	Excluded	0	0	Excluded						
+														
+J	"WILSON, Geoff"	NLP	0	0	Excluded	0	0	Excluded						
+J	"JACKSON, Peter"	NLP	0	0	Excluded	0	0	Excluded						
+														
+K	"WOODLEY, John"	DEM	61211	200727		104275	305002	Elected						
+K	"CORNISH, Jonathan"	DEM	0	0	Excluded	0	0	Excluded						
+K	"WOODROW, Gayle"	DEM	0	0	Excluded	0	0	Excluded						
+K	"WALTERS, Tony"	DEM	0	0	Excluded	0	0	Excluded						
+														
+Ungrouped														
+	"DIMITRIOU, Steve"	IND	0	0	Excluded	0	0	Excluded						
+	"KOEHLER, John"	CEC	0	0	Excluded	0	0	Excluded						
+	"GARVEY, Barry"	IND	0	0	Excluded	0	0	Excluded						
+	"SHERLOCK, Joe"	IND	0	0	Excluded	0	0	Excluded						
+	"BEILBY, Christopher Hart"		0	0	Excluded	0	0	Excluded						
+	"WARNER, Julie"	CEC	0	0	Excluded	0	0	Excluded						
+														
+	Exhausted Votes		44	221		567	788							
+	Loss by Fraction		2	44		-5	39							
+														
+	Total Votes		65931	1850661		120105	1850661							
+														
+	Notes		Candidate Excluded			Candidate Part Excluded								
+			"Hutton, D"			"Jewell, p"								
+			 											
+						Candidate Elected								
+						"6. Woodley, J"								
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														

@@ -1,0 +1,512 @@
+Senate - 1998: South Australia			
+Registered Group Voting Tickets			
+
+Christian Democratic Party (S.A.)			
+Ticket	Party/Candidate Name	Candidate Name	Preferences
+A	Christian Democratic Party (S.A.)	"RANDALL, Bob"	1
+		"SINCLAIR, Colin"	2
+B	Australia First Party	"DAVIS, Peter"	27
+		"FRADD, Bill"	28
+C	Australian Democrats	"LEES, Meg"	14
+		"PILLING, Michael"	15
+		"BOWIE, Alex"	16
+		"APPONYI, Natalija Ruta"	17
+D	"Unendorsed - SIMMONS, Lindsay"	"SIMMONS, Lindsay"	29
+		"BROWN, Pat"	30
+E	"Unendorsed - HARMS, Chris"	"HARMS, Chris"	12
+		"HARMS, Kirsti"	13
+F	Liberal	"VANSTONE, Amanda"	3
+		"MINCHIN, Nick"	4
+		"FERGUSON, Alan"	5
+		"de LEO, Joy"	6
+G	Citizens Electoral Council	"TONKIN, Tommy"	25
+		"FELEPPA, Pompeo"	26
+H	Democratic Socialists	"SJOBERG, Melanie"	34
+		"NEWNAM, Kathy"	35
+I	The Greens	"WILKINS, Craig"	23
+		"DRUMMOND, Michelle"	24
+J	Pauline Hanson's One Nation	"SPENCER, Len"	31
+		"RUMBELOW, Malcolm John"	32
+		"REIMANN, Monica"	33
+K	Australian Labor Party (ALP)	"BOLKUS, Nick"	18
+		"QUIRKE, John"	19
+		"HENDER, Bill"	20	
+L	"Unendorsed - PFITZNER-EU, Bernice"	"PFITZNER-EU, Bernice"	9	
+		"ERIKSEN, Erik"	10	
+		"HEYLEN, Sean"	11	
+M	National Party	"WAYLAND, Ellis"	7	
+		"DIXON-THOMPSON, Robin"	8	
+UG	Independent	"RUSSELL-TAYLOR, Neil "	21	
+UG	Independent	"NEAVE, Graham"	22	
+				
+				
+Australia First Party				
+			Preferences	
+Ticket	Party/Candidate Name	Candidate Name	Ticket #1	Ticket #2
+A	Christian Democratic Party (S.A.)	"RANDALL, Bob"	10	10
+		"SINCLAIR, Colin"	11	11
+B	Australia First Party	"DAVIS, Peter"	1	1
+		"FRADD, Bill"	2	2
+C	Australian Democrats	"LEES, Meg"	31	31
+		"PILLING, Michael"	30	30
+		"BOWIE, Alex"	29	29
+		"APPONYI, Natalija Ruta"	28	28
+D	"Unendorsed - SIMMONS, Lindsay"	"SIMMONS, Lindsay"	25	25
+		"BROWN, Pat"	24	24
+E	"Unendorsed - HARMS, Chris"	"HARMS, Chris"	8	8
+		"HARMS, Kirsti"	9	9
+F	Liberal	"VANSTONE, Amanda"	21	18
+		"MINCHIN, Nick"	22	19
+		"FERGUSON, Alan"	23	20
+		"de LEO, Joy"	20	17
+G	Citizens Electoral Council	"TONKIN, Tommy"	27	27
+		"FELEPPA, Pompeo"	26	26
+H	Democratic Socialists	"SJOBERG, Melanie"	33	33
+		"NEWNAM, Kathy"	32	32
+I	The Greens	"WILKINS, Craig"	35	35
+		"DRUMMOND, Michelle"	34	34
+J	Pauline Hanson's One Nation	"SPENCER, Len"	4	4
+		"RUMBELOW, Malcolm John"	5	5
+		"REIMANN, Monica"	6	6
+K	Australian Labor Party (ALP)	"BOLKUS, Nick"	19	23
+		"QUIRKE, John"	18	22
+		"HENDER, Bill"	17	21
+L	"Unendorsed - PFITZNER-EU, Bernice"	"PFITZNER-EU, Bernice"	16	16
+		"ERIKSEN, Erik"	15	15
+		"HEYLEN, Sean"	14	14
+M	National Party	"WAYLAND, Ellis"	12	12
+		"DIXON-THOMPSON, Robin"	13	13
+UG	Independent	"RUSSELL-TAYLOR, Neil "	3	3
+UG	Independent	"NEAVE, Graham"	7	7
+				
+				
+Australian Democrats				
+			Preferences	
+Ticket	Party/Candidate Name	Candidate Name	Ticket #1	Ticket #2
+A	Christian Democratic Party (S.A.)	"RANDALL, Bob"	23	23
+		"SINCLAIR, Colin"	24	24
+B	Australia First Party	"DAVIS, Peter"	31	31
+		"FRADD, Bill"	32	32
+C	Australian Democrats	"LEES, Meg"	1	1
+		"PILLING, Michael"	2	2
+		"BOWIE, Alex"	3	3
+		"APPONYI, Natalija Ruta"	4	4
+D	"Unendorsed - SIMMONS, Lindsay"	"SIMMONS, Lindsay"	7	7
+		"BROWN, Pat"	8	8
+E	"Unendorsed - HARMS, Chris"	"HARMS, Chris"	9	9
+		"HARMS, Kirsti"	10	10
+F	Liberal	"VANSTONE, Amanda"	14	19
+		"MINCHIN, Nick"	15	20
+		"FERGUSON, Alan"	16	21
+		"de LEO, Joy"	17	22
+G	Citizens Electoral Council	"TONKIN, Tommy"	29	29
+		"FELEPPA, Pompeo"	30	30
+H	Democratic Socialists	"SJOBERG, Melanie"	21	17
+		"NEWNAM, Kathy"	22	18
+I	The Greens	"WILKINS, Craig"	5	5
+		"DRUMMOND, Michelle"	6	6
+J	Pauline Hanson's One Nation	"SPENCER, Len"	33	33
+		"RUMBELOW, Malcolm John"	34	34
+		"REIMANN, Monica"	35	35
+K	Australian Labor Party (ALP)	"BOLKUS, Nick"	18	14
+		"QUIRKE, John"	19	15
+		"HENDER, Bill"	20	16
+L	"Unendorsed - PFITZNER-EU, Bernice"	"PFITZNER-EU, Bernice"	11	11
+		"ERIKSEN, Erik"	12	12
+		"HEYLEN, Sean"	13	13
+M	National Party	"WAYLAND, Ellis"	25	25
+		"DIXON-THOMPSON, Robin"	26	26
+UG	Independent	"RUSSELL-TAYLOR, Neil "	27	27
+UG	Independent	"NEAVE, Graham"	28	28
+				
+				
+"Unendorsed - SIMMONS, Lindsay"				
+Ticket	Party/Candidate Name	Candidate Name	Preferences	
+A	Christian Democratic Party (S.A.)	"RANDALL, Bob"	17	
+		"SINCLAIR, Colin"	18	
+B	Australia First Party	"DAVIS, Peter"	19	
+		"FRADD, Bill"	20	
+C	Australian Democrats	"LEES, Meg"	10
+		"PILLING, Michael"	11
+		"BOWIE, Alex"	12
+		"APPONYI, Natalija Ruta"	13
+D	"Unendorsed - SIMMONS, Lindsay"	"SIMMONS, Lindsay"	1
+		"BROWN, Pat"	2
+E	"Unendorsed - HARMS, Chris"	"HARMS, Chris"	3
+		"HARMS, Kirsti"	4
+F	Liberal	"VANSTONE, Amanda"	21
+		"MINCHIN, Nick"	22
+		"FERGUSON, Alan"	23
+		"de LEO, Joy"	24
+G	Citizens Electoral Council	"TONKIN, Tommy"	25
+		"FELEPPA, Pompeo"	26
+H	Democratic Socialists	"SJOBERG, Melanie"	27
+		"NEWNAM, Kathy"	28
+I	The Greens	"WILKINS, Craig"	29
+		"DRUMMOND, Michelle"	30
+J	Pauline Hanson's One Nation	"SPENCER, Len"	33
+		"RUMBELOW, Malcolm John"	34
+		"REIMANN, Monica"	35
+K	Australian Labor Party (ALP)	"BOLKUS, Nick"	7
+		"QUIRKE, John"	8
+		"HENDER, Bill"	9
+L	"Unendorsed - PFITZNER-EU, Bernice"	"PFITZNER-EU, Bernice"	14
+		"ERIKSEN, Erik"	15
+		"HEYLEN, Sean"	16
+M	National Party	"WAYLAND, Ellis"	31
+		"DIXON-THOMPSON, Robin"	32
+UG	Independent	"RUSSELL-TAYLOR, Neil "	5
+UG	Independent	"NEAVE, Graham"	6
+			
+			
+"Unendorsed - HARMS, Chris"			
+Ticket	Party/Candidate Name	Candidate Name	Preferences
+A	Christian Democratic Party (S.A.)	"RANDALL, Bob"	23
+		"SINCLAIR, Colin"	16
+B	Australia First Party	"DAVIS, Peter"	28
+		"FRADD, Bill"	27
+C	Australian Democrats	"LEES, Meg"	30
+		"PILLING, Michael"	15
+		"BOWIE, Alex"	14
+		"APPONYI, Natalija Ruta"	13
+D	"Unendorsed - SIMMONS, Lindsay"	"SIMMONS, Lindsay"	25
+		"BROWN, Pat"	4
+E	"Unendorsed - HARMS, Chris"	"HARMS, Chris"	1
+		"HARMS, Kirsti"	2
+F	Liberal	"VANSTONE, Amanda"	22
+		"MINCHIN, Nick"	20
+		"FERGUSON, Alan"	19
+		"de LEO, Joy"	17
+G	Citizens Electoral Council	"TONKIN, Tommy"	31
+		"FELEPPA, Pompeo"	32
+H	Democratic Socialists	"SJOBERG, Melanie"	11
+		"NEWNAM, Kathy"	12
+I	The Greens	"WILKINS, Craig"	5
+		"DRUMMOND, Michelle"	3
+J	Pauline Hanson's One Nation	"SPENCER, Len"	35
+		"RUMBELOW, Malcolm John"	34
+		"REIMANN, Monica"	33
+K	Australian Labor Party (ALP)	"BOLKUS, Nick"	21
+		"QUIRKE, John"	18
+		"HENDER, Bill"	29
+L	"Unendorsed - PFITZNER-EU, Bernice"	"PFITZNER-EU, Bernice"	24
+		"ERIKSEN, Erik"	9
+		"HEYLEN, Sean"	10
+M	National Party	"WAYLAND, Ellis"	26
+		"DIXON-THOMPSON, Robin"	6
+UG	Independent	"RUSSELL-TAYLOR, Neil "	7
+UG	Independent	"NEAVE, Graham"	8
+			
+			
+Liberal			
+Ticket	Party/Candidate Name	Candidate Name	Preferences
+A	Christian Democratic Party (S.A.)	"RANDALL, Bob"	7
+		"SINCLAIR, Colin"	8
+B	Australia First Party	"DAVIS, Peter"	34
+		"FRADD, Bill"	35
+C	Australian Democrats	"LEES, Meg"	14
+		"PILLING, Michael"	15
+		"BOWIE, Alex"	16
+		"APPONYI, Natalija Ruta"	17
+D	"Unendorsed - SIMMONS, Lindsay"	"SIMMONS, Lindsay"	22
+		"BROWN, Pat"	23
+E	"Unendorsed - HARMS, Chris"	"HARMS, Chris"	12
+		"HARMS, Kirsti"	13
+F	Liberal	"VANSTONE, Amanda"	1
+		"MINCHIN, Nick"	2
+		"FERGUSON, Alan"	3
+		"de LEO, Joy"	4
+G	Citizens Electoral Council	"TONKIN, Tommy"	29
+		"FELEPPA, Pompeo"	30
+H	Democratic Socialists	"SJOBERG, Melanie"	27
+		"NEWNAM, Kathy"	28
+I	The Greens	"WILKINS, Craig"	20
+		"DRUMMOND, Michelle"	21
+J	Pauline Hanson's One Nation	"SPENCER, Len"	31
+		"RUMBELOW, Malcolm John"	32
+		"REIMANN, Monica"	33
+K	Australian Labor Party (ALP)	"BOLKUS, Nick"	24
+		"QUIRKE, John"	25
+		"HENDER, Bill"	26
+L	"Unendorsed - PFITZNER-EU, Bernice"	"PFITZNER-EU, Bernice"	9
+		"ERIKSEN, Erik"	10
+		"HEYLEN, Sean"	11
+M	National Party	"WAYLAND, Ellis"	5
+		"DIXON-THOMPSON, Robin"	6
+UG	Independent	"RUSSELL-TAYLOR, Neil "	18
+UG	Independent	"NEAVE, Graham"	19
+			
+			
+Citizens Electoral Council			
+Ticket	Party/Candidate Name	Candidate Name	Preferences
+A	Christian Democratic Party (S.A.)	"RANDALL, Bob"	11
+		"SINCLAIR, Colin"	12
+B	Australia First Party	"DAVIS, Peter"	9
+		"FRADD, Bill"	10
+C	Australian Democrats	"LEES, Meg"	30
+		"PILLING, Michael"	31
+		"BOWIE, Alex"	32
+		"APPONYI, Natalija Ruta"	33
+D	"Unendorsed - SIMMONS, Lindsay"	"SIMMONS, Lindsay"	13
+		"BROWN, Pat"	14
+E	"Unendorsed - HARMS, Chris"	"HARMS, Chris"	15
+		"HARMS, Kirsti"	16
+F	Liberal	"VANSTONE, Amanda"	26
+		"MINCHIN, Nick"	27
+		"FERGUSON, Alan"	28
+		"de LEO, Joy"	29
+G	Citizens Electoral Council	"TONKIN, Tommy"	1
+		"FELEPPA, Pompeo"	2
+H	Democratic Socialists	"SJOBERG, Melanie"	24
+		"NEWNAM, Kathy"	25
+I	The Greens	"WILKINS, Craig"	34
+		"DRUMMOND, Michelle"	35
+J	Pauline Hanson's One Nation	"SPENCER, Len"	3
+		"RUMBELOW, Malcolm John"	4
+		"REIMANN, Monica"	5
+K	Australian Labor Party (ALP)	"BOLKUS, Nick"	19
+		"QUIRKE, John"	20
+		"HENDER, Bill"	21
+L	"Unendorsed - PFITZNER-EU, Bernice"	"PFITZNER-EU, Bernice"	6
+		"ERIKSEN, Erik"	7
+		"HEYLEN, Sean"	8
+M	National Party	"WAYLAND, Ellis"	22
+		"DIXON-THOMPSON, Robin"	23
+UG	Independent	"RUSSELL-TAYLOR, Neil "	17
+UG	Independent	"NEAVE, Graham"	18
+			
+			
+Democratic Socialists			
+Ticket	Party/Candidate Name	Candidate Name	Preferences
+A	Christian Democratic Party (S.A.)	"RANDALL, Bob"	27
+		"SINCLAIR, Colin"	28
+B	Australia First Party	"DAVIS, Peter"	31
+		"FRADD, Bill"	32
+C	Australian Democrats	"LEES, Meg"	13
+		"PILLING, Michael"	14
+		"BOWIE, Alex"	15
+		"APPONYI, Natalija Ruta"	16
+D	"Unendorsed - SIMMONS, Lindsay"	"SIMMONS, Lindsay"	8
+		"BROWN, Pat"	9
+E	"Unendorsed - HARMS, Chris"	"HARMS, Chris"	11
+		"HARMS, Kirsti"	12
+F	Liberal	"VANSTONE, Amanda"	20
+		"MINCHIN, Nick"	21
+		"FERGUSON, Alan"	22
+		"de LEO, Joy"	23
+G	Citizens Electoral Council	"TONKIN, Tommy"	29
+		"FELEPPA, Pompeo"	30
+H	Democratic Socialists	"SJOBERG, Melanie"	1
+		"NEWNAM, Kathy"	2
+I	The Greens	"WILKINS, Craig"	3
+		"DRUMMOND, Michelle"	4
+J	Pauline Hanson's One Nation	"SPENCER, Len"	33
+		"RUMBELOW, Malcolm John"	34
+		"REIMANN, Monica"	35
+K	Australian Labor Party (ALP)	"BOLKUS, Nick"	5
+		"QUIRKE, John"	6
+		"HENDER, Bill"	7
+L	"Unendorsed - PFITZNER-EU, Bernice"	"PFITZNER-EU, Bernice"	17
+		"ERIKSEN, Erik"	18
+		"HEYLEN, Sean"	19
+M	National Party	"WAYLAND, Ellis"	24
+		"DIXON-THOMPSON, Robin"	25
+UG	Independent	"RUSSELL-TAYLOR, Neil "	10
+UG	Independent	"NEAVE, Graham"	26
+			
+			
+The Greens			
+Ticket	Party/Candidate Name	Candidate Name	Preferences
+A	Christian Democratic Party (S.A.)	"RANDALL, Bob"	27
+		"SINCLAIR, Colin"	28
+B	Australia First Party	"DAVIS, Peter"	31
+		"FRADD, Bill"	32
+C	Australian Democrats	"LEES, Meg"	3
+		"PILLING, Michael"	4
+		"BOWIE, Alex"	5
+		"APPONYI, Natalija Ruta"	6
+D	"Unendorsed - SIMMONS, Lindsay"	"SIMMONS, Lindsay"	14
+		"BROWN, Pat"	15
+E	"Unendorsed - HARMS, Chris"	"HARMS, Chris"	12
+		"HARMS, Kirsti"	13
+F	Liberal	"VANSTONE, Amanda"	19
+		"MINCHIN, Nick"	20
+		"FERGUSON, Alan"	21
+		"de LEO, Joy"	22
+G	Citizens Electoral Council	"TONKIN, Tommy"	25
+		"FELEPPA, Pompeo"	26
+H	Democratic Socialists	"SJOBERG, Melanie"	7
+		"NEWNAM, Kathy"	8
+I	The Greens	"WILKINS, Craig"	1
+		"DRUMMOND, Michelle"	2
+J	Pauline Hanson's One Nation	"SPENCER, Len"	33
+		"RUMBELOW, Malcolm John"	34
+		"REIMANN, Monica"	35
+K	Australian Labor Party (ALP)	"BOLKUS, Nick"	9
+		"QUIRKE, John"	10
+		"HENDER, Bill"	11
+L	"Unendorsed - PFITZNER-EU, Bernice"	"PFITZNER-EU, Bernice"	16
+		"ERIKSEN, Erik"	17
+		"HEYLEN, Sean"	18
+M	National Party	"WAYLAND, Ellis"	23
+		"DIXON-THOMPSON, Robin"	24
+UG	Independent	"RUSSELL-TAYLOR, Neil "	29		
+UG	Independent	"NEAVE, Graham"	30		
+					
+					
+Pauline Hanson's One Nation					
+			Preferences		
+Ticket	Party/Candidate Name	Candidate Name	Ticket #1	Ticket #2	Ticket #3
+A	Christian Democratic Party (S.A.)	"RANDALL, Bob"	8	8	8
+		"SINCLAIR, Colin"	9	9	9
+B	Australia First Party	"DAVIS, Peter"	4	4	4
+		"FRADD, Bill"	5	5	5
+C	Australian Democrats	"LEES, Meg"	23	23	23
+		"PILLING, Michael"	24	24	24
+		"BOWIE, Alex"	25	25	25
+		"APPONYI, Natalija Ruta"	26	26	26
+D	"Unendorsed - SIMMONS, Lindsay"	"SIMMONS, Lindsay"	21	21	21
+		"BROWN, Pat"	22	22	22
+E	"Unendorsed - HARMS, Chris"	"HARMS, Chris"	10	10	10
+		"HARMS, Kirsti"	11	11	11
+F	Liberal	"VANSTONE, Amanda"	15	12	17
+		"MINCHIN, Nick"	16	13	18
+		"FERGUSON, Alan"	17	14	19
+		"de LEO, Joy"	18	15	20
+G	Citizens Electoral Council	"TONKIN, Tommy"	6	6	6
+		"FELEPPA, Pompeo"	7	7	7
+H	Democratic Socialists	"SJOBERG, Melanie"	29	29	29
+		"NEWNAM, Kathy"	30	30	30
+I	The Greens	"WILKINS, Craig"	27	27	27
+		"DRUMMOND, Michelle"	28	28	28
+J	Pauline Hanson's One Nation	"SPENCER, Len"	1	1	1
+		"RUMBELOW, Malcolm John"	2	2	2
+		"REIMANN, Monica"	3	3	3
+K	Australian Labor Party (ALP)	"BOLKUS, Nick"	12	18	14
+		"QUIRKE, John"	13	19	15
+		"HENDER, Bill"	14	20	16
+L	"Unendorsed - PFITZNER-EU, Bernice"	"PFITZNER-EU, Bernice"	31	31	31
+		"ERIKSEN, Erik"	32	32	32
+		"HEYLEN, Sean"	33	33	33
+M	National Party	"WAYLAND, Ellis"	19	16	12
+		"DIXON-THOMPSON, Robin"	20	17	13
+UG	Independent	"RUSSELL-TAYLOR, Neil "	34	34	34
+UG	Independent	"NEAVE, Graham"	35	35	35
+					
+					
+Australian Labor Party (ALP)					
+Ticket	Party/Candidate Name	Candidate Name	Preferences		
+A	Christian Democratic Party (S.A.)	"RANDALL, Bob"	21		
+		"SINCLAIR, Colin"	22		
+B	Australia First Party	"DAVIS, Peter"	31
+		"FRADD, Bill"	32
+C	Australian Democrats	"LEES, Meg"	15
+		"PILLING, Michael"	16
+		"BOWIE, Alex"	17
+		"APPONYI, Natalija Ruta"	18
+D	"Unendorsed - SIMMONS, Lindsay"	"SIMMONS, Lindsay"	4
+		"BROWN, Pat"	5
+E	"Unendorsed - HARMS, Chris"	"HARMS, Chris"	8
+		"HARMS, Kirsti"	9
+F	Liberal	"VANSTONE, Amanda"	25
+		"MINCHIN, Nick"	26
+		"FERGUSON, Alan"	27
+		"de LEO, Joy"	28
+G	Citizens Electoral Council	"TONKIN, Tommy"	29
+		"FELEPPA, Pompeo"	30
+H	Democratic Socialists	"SJOBERG, Melanie"	13
+		"NEWNAM, Kathy"	14
+I	The Greens	"WILKINS, Craig"	6
+		"DRUMMOND, Michelle"	7
+J	Pauline Hanson's One Nation	"SPENCER, Len"	33
+		"RUMBELOW, Malcolm John"	34
+		"REIMANN, Monica"	35
+K	Australian Labor Party (ALP)	"BOLKUS, Nick"	1
+		"QUIRKE, John"	2
+		"HENDER, Bill"	3
+L	"Unendorsed - PFITZNER-EU, Bernice"	"PFITZNER-EU, Bernice"	10
+		"ERIKSEN, Erik"	11
+		"HEYLEN, Sean"	12
+M	National Party	"WAYLAND, Ellis"	23
+		"DIXON-THOMPSON, Robin"	24
+UG	Independent	"RUSSELL-TAYLOR, Neil "	19
+UG	Independent	"NEAVE, Graham"	20		
+					
+					
+"Unendorsed - PFITZNER-EU, Bernice"					
+			Preferences		
+Ticket	Party/Candidate Name	Candidate Name	Ticket #1	Ticket #2	Ticket #3
+A	Christian Democratic Party (S.A.)	"RANDALL, Bob"	17	17	17
+		"SINCLAIR, Colin"	18	18	18
+B	Australia First Party	"DAVIS, Peter"	31	31	31
+		"FRADD, Bill"	32	32	32
+C	Australian Democrats	"LEES, Meg"	13	9	6
+		"PILLING, Michael"	14	10	7
+		"BOWIE, Alex"	15	11	8
+		"APPONYI, Natalija Ruta"	16	12	9
+D	"Unendorsed - SIMMONS, Lindsay"	"SIMMONS, Lindsay"	27	27	27
+		"BROWN, Pat"	28	28	28
+E	"Unendorsed - HARMS, Chris"	"HARMS, Chris"	4	4	4
+		"HARMS, Kirsti"	5	5	5
+F	Liberal	"VANSTONE, Amanda"	6	13	10
+		"MINCHIN, Nick"	7	14	11
+		"FERGUSON, Alan"	8	15	12
+		"de LEO, Joy"	9	16	13
+G	Citizens Electoral Council	"TONKIN, Tommy"	23	23	23
+		"FELEPPA, Pompeo"	24	24	24
+H	Democratic Socialists	"SJOBERG, Melanie"	29	29	29
+		"NEWNAM, Kathy"	30	30	30
+I	The Greens	"WILKINS, Craig"	19	19	19
+		"DRUMMOND, Michelle"	20	20	20
+J	Pauline Hanson's One Nation	"SPENCER, Len"	33	33	33
+		"RUMBELOW, Malcolm John"	34	34	34
+		"REIMANN, Monica"	35	35	35
+K	Australian Labor Party (ALP)	"BOLKUS, Nick"	10	6	14
+		"QUIRKE, John"	11	7	15
+		"HENDER, Bill"	12	8	16
+L	"Unendorsed - PFITZNER-EU, Bernice"	"PFITZNER-EU, Bernice"	1	1	1
+		"ERIKSEN, Erik"	2	2	2
+		"HEYLEN, Sean"	3	3	3
+M	National Party	"WAYLAND, Ellis"	25	25	25
+		"DIXON-THOMPSON, Robin"	26	26	26
+UG	Independent	"RUSSELL-TAYLOR, Neil "	21	21	21
+UG	Independent	"NEAVE, Graham"	22	22	22
+					
+					
+National Party					
+Ticket	Party/Candidate Name	Candidate Name	Preferences		
+A	Christian Democratic Party (S.A.)	"RANDALL, Bob"	7		
+		"SINCLAIR, Colin"	8		
+B	Australia First Party	"DAVIS, Peter"	9		
+		"FRADD, Bill"	10
+C	Australian Democrats	"LEES, Meg"	21
+		"PILLING, Michael"	22
+		"BOWIE, Alex"	23
+		"APPONYI, Natalija Ruta"	24
+D	"Unendorsed - SIMMONS, Lindsay"	"SIMMONS, Lindsay"	25
+		"BROWN, Pat"	26
+E	"Unendorsed - HARMS, Chris"	"HARMS, Chris"	11
+		"HARMS, Kirsti"	12
+F	Liberal	"VANSTONE, Amanda"	3
+		"MINCHIN, Nick"	4
+		"FERGUSON, Alan"	5
+		"de LEO, Joy"	6
+G	Citizens Electoral Council	"TONKIN, Tommy"	27
+		"FELEPPA, Pompeo"	28
+H	Democratic Socialists	"SJOBERG, Melanie"	29
+		"NEWNAM, Kathy"	30
+I	The Greens	"WILKINS, Craig"	31
+		"DRUMMOND, Michelle"	32
+J	Pauline Hanson's One Nation	"SPENCER, Len"	18
+		"RUMBELOW, Malcolm John"	19
+		"REIMANN, Monica"	20
+K	Australian Labor Party (ALP)	"BOLKUS, Nick"	33
+		"QUIRKE, John"	34
+		"HENDER, Bill"	35
+L	"Unendorsed - PFITZNER-EU, Bernice"	"PFITZNER-EU, Bernice"	13
+		"ERIKSEN, Erik"	14
+		"HEYLEN, Sean"	15
+M	National Party	"WAYLAND, Ellis"	1
+		"DIXON-THOMPSON, Robin"	2
+UG	Independent	"RUSSELL-TAYLOR, Neil "	16
+UG	Independent	"NEAVE, Graham"	17

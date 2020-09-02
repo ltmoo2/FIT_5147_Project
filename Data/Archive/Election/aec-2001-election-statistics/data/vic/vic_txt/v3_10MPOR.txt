@@ -1,0 +1,272 @@
+House of Representatives - 2001 Election: Victoria												
+Two Candidate Preferred Preference Flow Result												
+By Polling Place by Division												
+Melbourne Ports (89113)												
+		Candidate		                  	"DANBY, Michael"		             	"MCLORINAN, Andrew"		          	Total	
+				                           	ALP		                        	LP		                         		
+				                           	Votes	%	                     	Votes	%	                     		
+	Alfred Hospital											
+			1st Prefs		123	41.00		177	59.00		300	
+		"CHIPP, Greg (DEM)"	39		30	76.92		9	23.08		39	
+		"BECK, Jeremy (CEC)"	1		1	100.00		0	0.00		1	
+		"KAVANAGH, Jeannette (GRN)"	29		20	68.97		9	31.03		29	
+		Total	69		174	47.15		195	52.85		369	
+
+	Argyle											
+			1st Prefs		542	66.75		270	33.25		812	
+		"CHIPP, Greg (DEM)"	81		71	87.65		10	12.35		81
+		"BECK, Jeremy (CEC)"	6		5	83.33		1	16.67		6
+		"KAVANAGH, Jeannette (GRN)"	155		133	85.81		22	14.19		155
+		Total	242		751	71.25		303	28.75		1054
+
+	Bridport										
+			1st Prefs		1061	54.63		881	45.37		1942
+		"CHIPP, Greg (DEM)"	167		111	66.47		56	33.53		167
+		"BECK, Jeremy (CEC)"	12		8	66.67		4	33.33		12
+		"KAVANAGH, Jeannette (GRN)"	234		197	84.19		37	15.81		234
+		Total	413		1377	58.47		978	41.53		2355
+
+	Camden										
+			1st Prefs		770	43.40		1004	56.60		1774
+		"CHIPP, Greg (DEM)"	178		139	78.09		39	21.91		178
+		"BECK, Jeremy (CEC)"	4		1	25.00		3	75.00		4
+		"KAVANAGH, Jeannette (GRN)"	155		129	83.23		26	16.77		155
+		Total	337		1039	49.22		1072	50.78		2111
+
+	Caulfield										
+			1st Prefs		659	41.76		919	58.24		1578
+		"CHIPP, Greg (DEM)"	123		87	70.73		36	29.27		123
+		"BECK, Jeremy (CEC)"	3		3	100.00		0	0.00		3
+		"KAVANAGH, Jeannette (GRN)"	92		68	73.91		24	26.09		92
+		Total	218		817	45.49		979	54.51		1796
+
+	Caulfield East										
+			1st Prefs		809	45.68		962	54.32		1771
+		"CHIPP, Greg (DEM)"	166		119	71.69		47	28.31		166
+		"BECK, Jeremy (CEC)"	4		3	75.00		1	25.00		4
+		"KAVANAGH, Jeannette (GRN)"	164		136	82.93		28	17.07		164
+		Total	334		1067	50.69		1038	49.31		2105
+
+	Caulfield North										
+			1st Prefs		834	39.36		1285	60.64		2119
+		"CHIPP, Greg (DEM)"	194		126	64.95		68	35.05		194
+		"BECK, Jeremy (CEC)"	7		2	28.57		5	71.43		7
+		"KAVANAGH, Jeannette (GRN)"	180		148	82.22		32	17.78		180
+		Total	381		1110	44.40		1390	55.60		2500
+
+	Caulfield South										
+			1st Prefs		586	43.73		754	56.27		1340
+		"CHIPP, Greg (DEM)"	137		90	65.69		47	34.31		137
+		"BECK, Jeremy (CEC)"	9		6	66.67		3	33.33		9
+		"KAVANAGH, Jeannette (GRN)"	128		110	85.94		18	14.06		128
+		Total	274		792	49.07		822	50.93		1614
+
+	Caulfield Upper										
+			1st Prefs		920	45.12		1119	54.88		2039
+		"CHIPP, Greg (DEM)"	207		143	69.08		64	30.92		207
+		"BECK, Jeremy (CEC)"	4		4	100.00		0	0.00		4
+		"KAVANAGH, Jeannette (GRN)"	220		192	87.27		28	12.73		220
+		Total	431		1259	50.97		1211	49.03		2470
+
+	Caulfield West										
+			1st Prefs		379	39.19		588	60.81		967
+		"CHIPP, Greg (DEM)"	89		59	66.29		30	33.71		89
+		"BECK, Jeremy (CEC)"	1		0	0.00		1	100.00		1
+		"KAVANAGH, Jeannette (GRN)"	85		63	74.12		22	25.88		85
+		Total	175		501	43.87		641	56.13		1142
+
+	Elsternwick										
+			1st Prefs		1231	49.24		1269	50.76		2500
+		"CHIPP, Greg (DEM)"	345		258	74.78		87	25.22		345
+		"BECK, Jeremy (CEC)"	11		7	63.64		4	36.36		11
+		"KAVANAGH, Jeannette (GRN)"	322		268	83.23		54	16.77		322
+		Total	678		1764	55.51		1414	44.49		3178
+
+	Elsternwick North										
+			1st Prefs		446	53.48		388	46.52		834
+		"CHIPP, Greg (DEM)"	66		51	77.27		15	22.73		66
+		"BECK, Jeremy (CEC)"	1		0	0.00		1	100.00		1
+		"KAVANAGH, Jeannette (GRN)"	104		82	78.85		22	21.15		104
+		Total	171		579	57.61		426	42.39		1005
+
+	Elwood										
+			1st Prefs		905	48.45		963	51.55		1868
+		"CHIPP, Greg (DEM)"	308		230	74.68		78	25.32		308
+		"BECK, Jeremy (CEC)"	8		5	62.50		3	37.50		8
+		"KAVANAGH, Jeannette (GRN)"	420		366	87.14		54	12.86		420
+		Total	736		1506	57.83		1098	42.17		2604
+
+	Elwood North										
+			1st Prefs		1140	53.75		981	46.25		2121
+		"CHIPP, Greg (DEM)"	345		248	71.88		97	28.12		345
+		"BECK, Jeremy (CEC)"	7		5	71.43		2	28.57		7
+		"KAVANAGH, Jeannette (GRN)"	506		437	86.36		69	13.64		506
+		Total	858		1830	61.43		1149	38.57		2979
+
+	Emerald Hill										
+			1st Prefs		858	47.69		941	52.31		1799
+		"CHIPP, Greg (DEM)"	210		150	71.43		60	28.57		210
+		"BECK, Jeremy (CEC)"	6		3	50.00		3	50.00		6
+		"KAVANAGH, Jeannette (GRN)"	220		180	81.82		40	18.18		220
+		Total	436		1191	53.29		1044	46.71		2235
+
+	Fawkner Park (Melbourne Ports)										
+			1st Prefs		583	32.75		1197	67.25		1780
+		"CHIPP, Greg (DEM)"	201		133	66.17		68	33.83		201
+		"BECK, Jeremy (CEC)"	11		6	54.55		5	45.45		11
+		"KAVANAGH, Jeannette (GRN)"	248		206	83.06		42	16.94		248
+		Total	460		928	41.43		1312	58.57		2240
+
+	Graham										
+			1st Prefs		702	53.26		616	46.74		1318
+		"CHIPP, Greg (DEM)"	108		77	71.30		31	28.70		108
+		"BECK, Jeremy (CEC)"	3		2	66.67		1	33.33		3
+		"KAVANAGH, Jeannette (GRN)"	118		97	82.20		21	17.80		118
+		Total	229		878	56.76		669	43.24		1547
+
+	Kerferd										
+			1st Prefs		1495	43.10		1974	56.90		3469
+		"CHIPP, Greg (DEM)"	306		209	68.30		97	31.70		306
+		"BECK, Jeremy (CEC)"	13		7	53.85		6	46.15		13
+		"KAVANAGH, Jeannette (GRN)"	502		413	82.27		89	17.73		502
+		Total	821		2124	49.51		2166	50.49		4290
+
+	Melbourne (Melbourne Ports)										
+			1st Prefs		234	42.24		320	57.76		554
+		"CHIPP, Greg (DEM)"	107		74	69.16		33	30.84		107
+		"BECK, Jeremy (CEC)"	0		0	0.00		0	0.00		0
+		"KAVANAGH, Jeannette (GRN)"	97		77	79.38		20	20.62		97
+		Total	204		385	50.79		373	49.21		758
+
+	Middle Park										
+			1st Prefs		0			0			
+		"CHIPP, Greg (DEM)"	0		0	0.00		0	0.00		0
+		"BECK, Jeremy (CEC)"	0		0	0.00		0	0.00		0
+		"KAVANAGH, Jeannette (GRN)"	0		0	0.00		0	0.00		0
+		Total	0		0	0.00		0	0.00		0
+
+	Port Melbourne										
+			1st Prefs		1316	52.12		1209	47.88		2525
+		"CHIPP, Greg (DEM)"	236		170	72.03		66	27.97		236
+		"BECK, Jeremy (CEC)"	6		5	83.33		1	16.67		6
+		"KAVANAGH, Jeannette (GRN)"	284		241	84.86		43	15.14		284
+		Total	526		1732	56.77		1319	43.23		3051
+
+	Redan Central										
+			1st Prefs		580	54.82		478	45.18		1058
+		"CHIPP, Greg (DEM)"	152		105	69.08		47	30.92		152
+		"BECK, Jeremy (CEC)"	9		7	77.78		2	22.22		9
+		"KAVANAGH, Jeannette (GRN)"	243		209	86.01		34	13.99		243
+		Total	404		901	61.63		561	38.37		1462
+
+	Ripponlea East										
+			1st Prefs		417	48.54		442	51.46		859
+		"CHIPP, Greg (DEM)"	90		70	77.78		20	22.22		90
+		"BECK, Jeremy (CEC)"	7		3	42.86		4	57.14		7
+		"KAVANAGH, Jeannette (GRN)"	121		108	89.26		13	10.74		121
+		Total	218		598	55.52		479	44.48		1077
+
+	Ripponlea North										
+			1st Prefs		654	59.40		447	40.60		1101
+		"CHIPP, Greg (DEM)"	143		106	74.13		37	25.87		143
+		"BECK, Jeremy (CEC)"	6		3	50.00		3	50.00		6
+		"KAVANAGH, Jeannette (GRN)"	207		192	92.75		15	7.25		207
+		Total	356		955	65.55		502	34.45		1457
+
+	St Kilda										
+			1st Prefs		1661	60.07		1104	39.93		2765
+		"CHIPP, Greg (DEM)"	476		356	74.79		120	25.21		476
+		"BECK, Jeremy (CEC)"	16		13	81.25		3	18.75		16
+		"KAVANAGH, Jeannette (GRN)"	629		548	87.12		81	12.88		629
+		Total	1121		2578	66.34		1308	33.66		3886
+
+	St Kilda Beach										
+			1st Prefs		713	61.84		440	38.16		1153
+		"CHIPP, Greg (DEM)"	205		152	74.15		53	25.85		205
+		"BECK, Jeremy (CEC)"	9		5	55.56		4	44.44		9
+		"KAVANAGH, Jeannette (GRN)"	328		286	87.20		42	12.80		328
+		Total	542		1156	68.20		539	31.80		1695
+
+	St Kilda North										
+			1st Prefs		801	56.37		620	43.63		1421
+		"CHIPP, Greg (DEM)"	265		210	79.25		55	20.75		265
+		"BECK, Jeremy (CEC)"	6		3	50.00		3	50.00		6
+		"KAVANAGH, Jeannette (GRN)"	247		220	89.07		27	10.93		247
+		Total	518		1234	63.64		705	36.36		1939
+
+	St Kilda Park										
+			1st Prefs		759	55.40		611	44.60		1370
+		"CHIPP, Greg (DEM)"	200		149	74.50		51	25.50		200
+		"BECK, Jeremy (CEC)"	7		3	42.86		4	57.14		7
+		"KAVANAGH, Jeannette (GRN)"	367		330	89.92		37	10.08		367
+		Total	574		1241	63.84		703	36.16		1944
+
+	St Kilda South										
+			1st Prefs		863	61.03		551	38.97		1414
+		"CHIPP, Greg (DEM)"	208		150	72.12		58	27.88		208
+		"BECK, Jeremy (CEC)"	6		4	66.67		2	33.33		6
+		"KAVANAGH, Jeannette (GRN)"	330		308	93.33		22	6.67		330
+		Total	544		1325	67.67		633	32.33		1958
+
+	Sandridge										
+			1st Prefs		714	76.28		222	23.72		936
+		"CHIPP, Greg (DEM)"	49		34	69.39		15	30.61		49
+		"BECK, Jeremy (CEC)"	2		1	50.00		1	50.00		2
+		"KAVANAGH, Jeannette (GRN)"	40		34	85.00		6	15.00		40
+		Total	91		783	76.24		244	23.76		1027
+
+	South Melbourne										
+			1st Prefs		1138	49.46		1163	50.54		2301
+		"CHIPP, Greg (DEM)"	235		164	69.79		71	30.21		235
+		"BECK, Jeremy (CEC)"	17		7	41.18		10	58.82		17
+		"KAVANAGH, Jeannette (GRN)"	265		217	81.89		48	18.11		265
+		Total	517		1526	54.15		1292	45.85		2818
+
+	Special Hospitals										
+			1st Prefs		152	51.35		144	48.65		296
+		"CHIPP, Greg (DEM)"	11		9	81.82		2	18.18		11
+		"BECK, Jeremy (CEC)"	5		5	100.00		0	0.00		5
+		"KAVANAGH, Jeannette (GRN)"	3		2	66.67		1	33.33		3
+		Total	19		168	53.33		147	46.67		315
+
+	Total Ordinary										
+			1st Prefs		24045	50.01		24039	49.99		48084
+		"CHIPP, Greg (DEM)"	5647		4080	72.25		1567	27.75		5647
+		"BECK, Jeremy (CEC)"	207		127	61.35		80	38.65		207
+		"KAVANAGH, Jeannette (GRN)"	7043		6017	85.43		1026	14.57		7043
+		Total	12897		34269	56.20		26712	43.80		60981
+
+	ABSENT										
+			1st Prefs		1906	43.11		2515	56.89		4421
+		"CHIPP, Greg (DEM)"	811		538	66.34		273	33.66		811
+		"BECK, Jeremy (CEC)"	40		23	57.50		17	42.50		40
+		"KAVANAGH, Jeannette (GRN)"	967		751	77.66		216	22.34		967
+		Total	1818		3218	51.58		3021	48.42		6239
+
+	POSTAL										
+			1st Prefs		2524	51.17		2409	48.83		4933
+		"CHIPP, Greg (DEM)"	289		212	73.36		77	26.64		289
+		"BECK, Jeremy (CEC)"	27		13	48.15		14	51.85		27
+		"KAVANAGH, Jeannette (GRN)"	248		189	76.21		59	23.79		248
+		Total	564		2938	53.45		2559	46.55		5497
+
+	PRE_POLL										
+			1st Prefs		2377	52.00		2194	48.00		4571
+		"CHIPP, Greg (DEM)"	495		344	69.49		151	30.51		495
+		"BECK, Jeremy (CEC)"	26		14	53.85		12	46.15		26
+		"KAVANAGH, Jeannette (GRN)"	546		444	81.32		102	18.68		546	
+		Total	1067		3179	56.39		2459	43.61		5638	
+
+	PROVISIONAL											
+			1st Prefs		258	53.20		227	46.80		485	
+		"CHIPP, Greg (DEM)"	86		63	73.26		23	26.74		86	
+		"BECK, Jeremy (CEC)"	5		4	80.00		1	20.00		5	
+		"KAVANAGH, Jeannette (GRN)"	108		89	82.41		19	17.59		108	
+		Total	199		414	60.53		270	39.47		684	
+
+	Division Summary											
+			1st Prefs		31110	49.78		31384	50.22		62494	
+		"CHIPP, Greg (DEM)"	7328		5237	71.47		2091	28.53		7328	
+		"BECK, Jeremy (CEC)"	305		181	59.34		124	40.66		305	
+		"KAVANAGH, Jeannette (GRN)"	8912		7490	84.04		1422	15.96		8912	
+		Total	16545		44018	55.69		35021	44.31		79039	

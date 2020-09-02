@@ -1,0 +1,375 @@
+House of Representatives - 2001 Election: Victoria														
+Two Candidate Preferred Preference Flow Result														
+By Polling Place by Division														
+														
+Melbourne (95848)														
+		Candidate		                  	"TANNER, Lindsay James"		      	"FRANTZESKOS, Con"		           	Exhausted		Total	
+				                           	ALP		                        	LP		                         				
+				                           	Votes	%	                     	Votes	%	                     	Votes			
+	Abbotsford													
+			1st Prefs		624	71.81		245	28.19		                      		869	
+		"FERRARI, James Stephen ()"	11		7	63.64		4	36.36		0		11	
+		"JOLLY, Stephen ()"	24		21	87.50		3	12.50		0		24	
+		"CURR, Pamela (GRN)"	236		223	94.49		13	5.51		0		236	
+		"MCKENNA, Brent (DEM)"	100		80	80.00		20	20.00		0		100	
+		Total	371		955	77.02		285	22.98		0		1240	
+
+	Ascot Vale												
+			1st Prefs		435	85.46		74	14.54		                      		509
+		"FERRARI, James Stephen ()"	3		2	66.67		1	33.33		0		3
+		"JOLLY, Stephen ()"	2		1	50.00		1	50.00		0		2
+		"CURR, Pamela (GRN)"	34		30	88.24		4	11.76		0		34
+		"MCKENNA, Brent (DEM)"	32		23	71.88		9	28.13		0		32
+		Total	71		491	84.66		89	15.34		0		580
+
+	Ascot Vale Central												
+			1st Prefs		1107	64.29		615	35.71		                      		1722
+		"FERRARI, James Stephen ()"	10		5	50.00		5	50.00		0		10
+		"JOLLY, Stephen ()"	31		27	87.10		4	12.90		0		31
+		"CURR, Pamela (GRN)"	125		102	81.60		23	18.40		0		125
+		"MCKENNA, Brent (DEM)"	158		99	62.66		59	37.34		0		158
+		Total	324		1340	65.49		706	34.51		0		2046
+
+	Ascot Vale East												
+			1st Prefs		1061	67.84		503	32.16		                      		1564
+		"FERRARI, James Stephen ()"	19		13	68.42		6	31.58		0		19
+		"JOLLY, Stephen ()"	25		20	80.00		5	20.00		0		25
+		"CURR, Pamela (GRN)"	199		179	89.95		20	10.05		0		199
+		"MCKENNA, Brent (DEM)"	134		93	69.40		41	30.60		0		134
+		Total	377		1366	70.38		575	29.62		0		1941
+
+	Ascot Vale West												
+			1st Prefs		725	61.86		447	38.14		                      		1172
+		"FERRARI, James Stephen ()"	13		6	46.15		7	53.85		0		13
+		"JOLLY, Stephen ()"	16		12	75.00		4	25.00		0		16
+		"CURR, Pamela (GRN)"	113		98	86.73		15	13.27		0		113
+		"MCKENNA, Brent (DEM)"	95		63	66.32		32	33.68		0		95
+		Total	237		904	64.16		505	35.84		0		1409
+
+	Brunswick East												
+			1st Prefs		725	72.43		276	27.57		                      		1001
+		"FERRARI, James Stephen ()"	24		18	75.00		6	25.00		0		24
+		"JOLLY, Stephen ()"	20		19	95.00		1	5.00		0		20
+		"CURR, Pamela (GRN)"	214		203	94.86		11	5.14		0		214
+		"MCKENNA, Brent (DEM)"	119		91	76.47		28	23.53		0		119
+		Total	377		1056	76.63		322	23.37		0		1378
+
+	Brunswick South												
+			1st Prefs		587	76.33		182	23.67		                      		769
+		"FERRARI, James Stephen ()"	10		7	70.00		3	30.00		0		10
+		"JOLLY, Stephen ()"	14		13	92.86		1	7.14		0		14
+		"CURR, Pamela (GRN)"	145		134	92.41		11	7.59		0		145
+		"MCKENNA, Brent (DEM)"	68		48	70.59		20	29.41		0		68
+		Total	237		789	78.43		217	21.57		0		1006
+
+	Brunswick South East												
+			1st Prefs		591	70.53		247	29.47		                      		838
+		"FERRARI, James Stephen ()"	11		6	54.55		5	45.45		0		11
+		"JOLLY, Stephen ()"	13		12	92.31		1	7.69		0		13
+		"CURR, Pamela (GRN)"	251		233	92.83		18	7.17		0		251
+		"MCKENNA, Brent (DEM)"	110		86	78.18		24	21.82		0		110
+		Total	385		928	75.88		295	24.12		0		1223
+
+	Brunswick South West												
+			1st Prefs		1132	66.82		562	33.18		                      		1694
+		"FERRARI, James Stephen ()"	6		6	100.00		0	0.00		0		6
+		"JOLLY, Stephen ()"	47		39	82.98		8	17.02		0		47
+		"CURR, Pamela (GRN)"	288		265	92.01		23	7.99		0		288
+		"MCKENNA, Brent (DEM)"	163		126	77.30		37	22.70		0		163
+		Total	504		1568	71.34		630	28.66		0		2198
+
+	Carlton												
+			1st Prefs		1095	76.79		331	23.21		                      		1426
+		"FERRARI, James Stephen ()"	6		4	66.67		2	33.33		0		6
+		"JOLLY, Stephen ()"	25		18	72.00		7	28.00		0		25
+		"CURR, Pamela (GRN)"	236		210	88.98		26	11.02		0		236
+		"MCKENNA, Brent (DEM)"	173		127	73.41		46	26.59		0		173
+		Total	440		1454	77.92		412	22.08		0		1866
+
+	Carlton Central												
+			1st Prefs		1020	66.97		503	33.03		                      		1523
+		"FERRARI, James Stephen ()"	10		7	70.00		3	30.00		0		10
+		"JOLLY, Stephen ()"	55		50	90.91		5	9.09		0		55
+		"CURR, Pamela (GRN)"	577		518	89.77		59	10.23		0		577
+		"MCKENNA, Brent (DEM)"	262		194	74.05		68	25.95		0		262
+		Total	904		1789	73.71		638	26.29		0		2427
+
+	Carlton North												
+			1st Prefs		774	61.77		479	38.23		                      		1253
+		"FERRARI, James Stephen ()"	12		8	66.67		4	33.33		0		12
+		"JOLLY, Stephen ()"	23		20	86.96		3	13.04		0		23
+		"CURR, Pamela (GRN)"	415		377	90.84		38	9.16		0		415
+		"MCKENNA, Brent (DEM)"	169		128	75.74		41	24.26		0		169
+		Total	619		1307	69.82		565	30.18		0		1872
+
+	Carlton South												
+			1st Prefs		380	56.97		287	43.03		                      		667
+		"FERRARI, James Stephen ()"	5		3	60.00		2	40.00		0		5
+		"JOLLY, Stephen ()"	4		1	25.00		3	75.00		0		4
+		"CURR, Pamela (GRN)"	176		156	88.64		20	11.36		0		176
+		"MCKENNA, Brent (DEM)"	102		72	70.59		30	29.41		0		102
+		Total	287		612	64.15		342	35.85		0		954
+
+	Clifton Hill												
+			1st Prefs		785	68.38		363	31.62		                      		1148
+		"FERRARI, James Stephen ()"	9		5	55.56		4	44.44		0		9
+		"JOLLY, Stephen ()"	35		34	97.14		1	2.86		0		35
+		"CURR, Pamela (GRN)"	375		354	94.40		21	5.60		0		375
+		"MCKENNA, Brent (DEM)"	179		138	77.09		41	22.91		0		179
+		Total	598		1316	75.37		430	24.63		0		1746
+
+	Collingwood												
+			1st Prefs		1215	81.27		280	18.73		                      		1495
+		"FERRARI, James Stephen ()"	8		6	75.00		2	25.00		0		8
+		"JOLLY, Stephen ()"	52		43	82.69		9	17.31		0		52
+		"CURR, Pamela (GRN)"	310		280	90.32		30	9.68		0		310
+		"MCKENNA, Brent (DEM)"	155		113	72.90		42	27.10		0		155
+		Total	525		1657	82.03		363	17.97		0		2020
+
+	Collingwood North												
+			1st Prefs		773	70.40		325	29.60		                      		1098
+		"FERRARI, James Stephen ()"	10		9	90.00		1	10.00		0		10
+		"JOLLY, Stephen ()"	39		32	82.05		7	17.95		0		39
+		"CURR, Pamela (GRN)"	383		351	91.64		32	8.36		0		383
+		"MCKENNA, Brent (DEM)"	193		145	75.13		48	24.87		0		193
+		Total	625		1310	76.03		413	23.97		0		1723
+
+	Delbridge												
+			1st Prefs		416	66.67		208	33.33		                      		624
+		"FERRARI, James Stephen ()"	9		6	66.67		3	33.33		0		9
+		"JOLLY, Stephen ()"	11		11	100.00		0	0.00		0		11
+		"CURR, Pamela (GRN)"	209		186	89.00		23	11.00		0		209
+		"MCKENNA, Brent (DEM)"	95		61	64.21		34	35.79		0		95
+		Total	324		680	71.73		268	28.27		0		948
+
+	East Melbourne												
+			1st Prefs		450	33.76		883	66.24		                      		1333
+		"FERRARI, James Stephen ()"	12		9	75.00		3	25.00		0		12
+		"JOLLY, Stephen ()"	13		10	76.92		3	23.08		0		13
+		"CURR, Pamela (GRN)"	246		212	86.18		34	13.82		0		246
+		"MCKENNA, Brent (DEM)"	149		89	59.73		60	40.27		0		149
+		Total	420		770	43.92		983	56.08		0		1753
+
+	Edward												
+			1st Prefs		1449	73.18		531	26.82		                      		1980
+		"FERRARI, James Stephen ()"	15		10	66.67		5	33.33		0		15
+		"JOLLY, Stephen ()"	59		50	84.75		9	15.25		0		59
+		"CURR, Pamela (GRN)"	537		505	94.04		32	5.96		0		537
+		"MCKENNA, Brent (DEM)"	280		212	75.71		68	24.29		0		280
+		Total	891		2226	77.53		645	22.47		0		2871
+
+	Fitzroy												
+			1st Prefs		1043	81.68		234	18.32		                      		1277
+		"FERRARI, James Stephen ()"	11		7	63.64		4	36.36		0		11
+		"JOLLY, Stephen ()"	44		40	90.91		4	9.09		0		44
+		"CURR, Pamela (GRN)"	300		280	93.33		20	6.67		0		300
+		"MCKENNA, Brent (DEM)"	154		116	75.32		38	24.68		0		154
+		Total	509		1486	83.20		300	16.80		0		1786
+
+	Fitzroy Central												
+			1st Prefs		234	61.26		148	38.74		                      		382
+		"FERRARI, James Stephen ()"	3		2	66.67		1	33.33		0		3
+		"JOLLY, Stephen ()"	21		20	95.24		1	4.76		0		21
+		"CURR, Pamela (GRN)"	171		154	90.06		17	9.94		0		171
+		"MCKENNA, Brent (DEM)"	68		48	70.59		20	29.41		0		48
+		Total	263		458	71.01		187	28.99		0		645
+
+	Fitzroy East												
+			1st Prefs		901	73.25		329	26.75		                      		1230
+		"FERRARI, James Stephen ()"	10		5	50.00		5	50.00		0		10
+		"JOLLY, Stephen ()"	23		18	78.26		5	21.74		0		23
+		"CURR, Pamela (GRN)"	622		595	95.66		27	4.34		0		622
+		"MCKENNA, Brent (DEM)"	236		180	76.27		56	23.73		0		236
+		Total	891		1699	80.10		422	19.90		0		2121
+
+	Fitzroy North												
+			1st Prefs		1275	71.19		516	28.81		                      		1791
+		"FERRARI, James Stephen ()"	8		5	62.50		3	37.50		0		8
+		"JOLLY, Stephen ()"	83		76	91.57		7	8.43		0		83
+		"CURR, Pamela (GRN)"	765		717	93.73		48	6.27		0		765
+		"MCKENNA, Brent (DEM)"	275		203	73.82		72	26.18		0		275
+		Total	1131		2276	77.89		646	22.11		0		2922
+
+	Flemington												
+			1st Prefs		1585	76.31		492	23.69		                      		2077
+		"FERRARI, James Stephen ()"	16		13	81.25		3	18.75		0		16
+		"JOLLY, Stephen ()"	35		35	100.00		0	0.00		0		35
+		"CURR, Pamela (GRN)"	237		206	86.92		31	13.08		0		237
+		"MCKENNA, Brent (DEM)"	227		166	73.13		61	26.87		0		227
+		Total	515		2005	77.35		587	22.65		0		2592
+
+	Hotham Hill												
+			1st Prefs		730	85.78		121	14.22		                      		851
+		"FERRARI, James Stephen ()"	4		1	25.00		3	75.00		0		4
+		"JOLLY, Stephen ()"	6		6	100.00		0	0.00		0		6
+		"CURR, Pamela (GRN)"	72		70	97.22		2	2.78		0		72
+		"MCKENNA, Brent (DEM)"	33		21	63.64		12	36.36		0		33
+		Total	115		828	85.71		138	14.29		0		966
+
+	Kensington												
+			1st Prefs		1162	67.13		569	32.87		                      		1731
+		"FERRARI, James Stephen ()"	16		8	50.00		8	50.00		0		16
+		"JOLLY, Stephen ()"	23		15	65.22		8	34.78		0		23
+		"CURR, Pamela (GRN)"	262		224	85.50		38	14.50		0		262
+		"MCKENNA, Brent (DEM)"	222		149	67.12		73	32.88		0		222
+		Total	523		1558	69.12		696	30.88		0		2254
+
+	Melbourne (Melbourne)												
+			1st Prefs		784	49.31		806	50.69		                      		1590
+		"FERRARI, James Stephen ()"	20		12	60.00		8	40.00		0		20
+		"JOLLY, Stephen ()"	36		34	94.44		2	5.56		0		36
+		"CURR, Pamela (GRN)"	340		303	89.12		37	10.88		0		340
+		"MCKENNA, Brent (DEM)"	263		176	66.92		87	33.08		0		263
+		Total	659		1309	58.20		940	41.80		0		2249
+
+	Merri												
+			1st Prefs		592	72.20		228	27.80		                      		820
+		"FERRARI, James Stephen ()"	4		1	25.00		3	75.00		0		4
+		"JOLLY, Stephen ()"	21		15	71.43		6	28.57		0		21
+		"CURR, Pamela (GRN)"	275		257	93.45		18	6.55		0		275
+		"MCKENNA, Brent (DEM)"	113		84	74.34		29	25.66		0		113
+		Total	413		949	76.97		284	23.03		0		1233
+
+	Newmarket												
+			1st Prefs		1021	69.65		445	30.35		                      		1466
+		"FERRARI, James Stephen ()"	13		8	61.54		5	38.46		0		13
+		"JOLLY, Stephen ()"	13		9	69.23		4	30.77		0		13
+		"CURR, Pamela (GRN)"	230		206	89.57		24	10.43		0		230
+		"MCKENNA, Brent (DEM)"	222		160	72.07		62	27.93		0		222
+		Total	478		1404	72.22		540	27.78		0		1944
+
+	North Melbourne												
+			1st Prefs		873	62.72		519	37.28		                      		1392
+		"FERRARI, James Stephen ()"	18		8	44.44		10	55.56		0		18
+		"JOLLY, Stephen ()"	37		27	72.97		10	27.03		0		37
+		"CURR, Pamela (GRN)"	356		325	91.29		31	8.71		0		356
+		"MCKENNA, Brent (DEM)"	230		165	71.74		65	28.26		0		230
+		Total	641		1398	68.77		635	31.23		0		2033
+
+	North Melbourne Central												
+			1st Prefs		637	66.01		328	33.99		                      		965
+		"FERRARI, James Stephen ()"	15		11	73.33		4	26.67		0		15
+		"JOLLY, Stephen ()"	15		11	73.33		4	26.67		0		15
+		"CURR, Pamela (GRN)"	251		226	90.04		25	9.96		0		251
+		"MCKENNA, Brent (DEM)"	148		119	80.41		29	19.59		0		148
+		Total	429		1004	72.02		390	27.98		0		1394
+
+	Parkville												
+			1st Prefs		443	51.51		417	48.49		                      		860
+		"FERRARI, James Stephen ()"	9		7	77.78		2	22.22		0		9
+		"JOLLY, Stephen ()"	17		13	76.47		4	23.53		0		17
+		"CURR, Pamela (GRN)"	285		261	91.58		24	8.42		0		285
+		"MCKENNA, Brent (DEM)"	138		93	67.39		45	32.61		0		138
+		Total	449		817	62.41		492	37.59		0		1309
+
+	Richmond												
+			1st Prefs		1423	55.46		1143	44.54		                      		2566
+		"FERRARI, James Stephen ()"	23		9	39.13		14	60.87		0		23
+		"JOLLY, Stephen ()"	46		40	86.96		6	13.04		0		46
+		"CURR, Pamela (GRN)"	485		429	88.45		56	11.55		0		485
+		"MCKENNA, Brent (DEM)"	330		236	71.52		94	28.48		0		330
+		Total	884		2137	61.94		1313	38.06		0		3450
+
+	Richmond Central												
+			1st Prefs		1033	65.38		547	34.62		                      		1580
+		"FERRARI, James Stephen ()"	7		5	71.43		2	28.57		0		7
+		"JOLLY, Stephen ()"	12		10	83.33		2	16.67		0		12
+		"CURR, Pamela (GRN)"	218		179	82.11		39	17.89		0		218
+		"MCKENNA, Brent (DEM)"	227		160	70.48		67	29.52		0		227
+		Total	464		1387	67.86		657	32.14		0		2044
+
+	Richmond East												
+			1st Prefs		1232	58.89		860	41.11		                      		2092
+		"FERRARI, James Stephen ()"	9		4	44.44		5	55.56		0		9
+		"JOLLY, Stephen ()"	38		33	86.84		5	13.16		0		38
+		"CURR, Pamela (GRN)"	310		262	84.52		48	15.48		0		310
+		"MCKENNA, Brent (DEM)"	207		134	64.73		73	35.27		0		207
+		Total	564		1665	62.69		991	37.31		0		2656
+
+	Richmond North												
+			1st Prefs		815	87.54		116	12.46		                      		931
+		"FERRARI, James Stephen ()"	5		3	60.00		2	40.00		0		5
+		"JOLLY, Stephen ()"	10		8	80.00		2	20.00		0		10
+		"CURR, Pamela (GRN)"	36		31	86.11		5	13.89		0		36
+		"MCKENNA, Brent (DEM)"	43		31	72.09		12	27.91		0		43
+		Total	94		888	86.63		137	13.37		0		1025
+
+	Richmond South												
+			1st Prefs		641	54.00		546	46.00		                      		1187
+		"FERRARI, James Stephen ()"	6		2	33.33		4	66.67		0		6
+		"JOLLY, Stephen ()"	23		17	73.91		6	26.09		0		23
+		"CURR, Pamela (GRN)"	219		184	84.02		35	15.98		0		219
+		"MCKENNA, Brent (DEM)"	135		87	64.44		48	35.56		0		135
+		Total	383		931	59.30		639	40.70		0		1570
+
+	Richmond West												
+			1st Prefs		1006	85.98		164	14.02		                      		1170
+		"FERRARI, James Stephen ()"	3		2	66.67		1	33.33		0		3
+		"JOLLY, Stephen ()"	26		20	76.92		6	23.08		0		26
+		"CURR, Pamela (GRN)"	64		56	87.50		8	12.50		0		64
+		"MCKENNA, Brent (DEM)"	64		40	62.50		24	37.50		0		64
+		Total	157		1124	84.70		203	15.30		0		1327
+
+	Prison Mobiles												
+			1st Prefs		1	100.00		0	0.00		                      		1
+		"FERRARI, James Stephen ()"	0		0	0.00		0	0.00		0		0
+		"JOLLY, Stephen ()"	0		0	0.00		0	0.00		0		0
+		"CURR, Pamela (GRN)"	0		0	0.00		0	0.00		0		0
+		"MCKENNA, Brent (DEM)"	0		0	0.00		0	0.00		0		0
+		Total	0		1	100.00		0	0.00		0		1
+
+	Special Hospitals												
+			1st Prefs		190	63.76		108	36.24		                      		298
+		"FERRARI, James Stephen ()"	1		1	100.00		0	0.00		0		1
+		"JOLLY, Stephen ()"	4		1	25.00		3	75.00		0		4
+		"CURR, Pamela (GRN)"	25		17	68.00		8	32.00		0		25
+		"MCKENNA, Brent (DEM)"	18		11	61.11		7	38.89		0		18
+		Total	48		220	63.58		126	36.42		0		346
+
+	Total Ordinary												
+			1st Prefs		32965	67.36		15977	32.64		                      		48942
+		"FERRARI, James Stephen ()"	404		251	62.13		153	37.87		0		404
+		"JOLLY, Stephen ()"	1041		881	84.63		160	15.37		0		1041
+		"CURR, Pamela (GRN)"	10592		9598	90.62		994	9.38		0		10592
+		"MCKENNA, Brent (DEM)"	6089		4367	71.72		1722	28.28		0		6089
+		Total	18126		48062	71.66		19006	28.34		0		67068
+
+	ABSENT												
+			1st Prefs		3219	57.42		2387	42.58		                      		5606
+		"FERRARI, James Stephen ()"	91		44	48.35		47	51.65		0		91
+		"JOLLY, Stephen ()"	123		83	67.48		40	32.52		0		123
+		"CURR, Pamela (GRN)"	1477		1222	82.74		255	17.26		0		1477
+		"MCKENNA, Brent (DEM)"	1069		702	65.67		367	34.33		0		1069
+		Total	2760		5270	62.99		3096	37.01		0		8366
+
+	POSTAL												
+			1st Prefs		1235	55.98		971	44.02		                      		2206
+		"FERRARI, James Stephen ()"	18		11	61.11		7	38.89		0		18
+		"JOLLY, Stephen ()"	26		19	73.08		7	26.92		0		26
+		"CURR, Pamela (GRN)"	230		189	82.17		41	17.83		0		230
+		"MCKENNA, Brent (DEM)"	207		141	68.12		66	31.88		0		207
+		Total	481		1595	59.36		1092	40.64		0		2687
+
+	PRE_POLL												
+			1st Prefs		2120	60.74		1370	39.26		                      		3490
+		"FERRARI, James Stephen ()"	38		26	68.42		12	31.58		0		38
+		"JOLLY, Stephen ()"	59		40	67.80		19	32.20		0		59
+		"CURR, Pamela (GRN)"	707		588	83.17		119	16.83		0		707
+		"MCKENNA, Brent (DEM)"	594		432	72.73		162	27.27		0		594
+		Total	1398		3206	65.59		1682	34.41		0		4888
+
+	PROVISIONAL												
+			1st Prefs		439	72.68		165	27.32		                      		604
+		"FERRARI, James Stephen ()"	7		4	57.14		3	42.86		0		7
+		"JOLLY, Stephen ()"	11		11	100.00		0	0.00		0		11
+		"CURR, Pamela (GRN)"	168		152	90.48		16	9.52		0		168
+		"MCKENNA, Brent (DEM)"	103		69	66.99		34	33.01		0		103
+		Total	289		675	75.59		218	24.41		0		893
+
+	Division Summary													
+			1st Prefs		39978	65.70		20870	34.30		                      		60848	
+		"FERRARI, James Stephen ()"	558		336	60.22		222	39.78		0		558	
+		"JOLLY, Stephen ()"	1260		1034	82.06		226	17.94		0		1260	
+		"CURR, Pamela (GRN)"	13174		11749	89.18		1425	10.82		0		13174	
+		"MCKENNA, Brent (DEM)"	8062		5711	70.84		2351	29.16		0		8062	
+		Total	23054		58808	70.09		25094	29.91		0		83902	

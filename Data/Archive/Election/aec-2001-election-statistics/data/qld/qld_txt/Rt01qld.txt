@@ -1,0 +1,541 @@
+Senate - 2001 Election : Queensland			
+Registered Group Voting Tickets			
+			
+Group A - Unendorsed - Watson/Fletcher			
+			
+Ticket	Party/Group Name	Candidate Name	Preferences
+Group A	Unendorsed - Watson/Fletcher	"WATSON, S."	1
+		"FLETCHER, K."	2
+Group B	Australian Labor Party	"HOGG, J."	8
+		"MOORE, C."	9
+		"GIBBS, B."	10
+Group C	Citizens Electoral Council of Australia	"HOPE, D."	24
+		"CONTARINO, N."	25
+Group D	National Party	"BOSWELL, R."	34
+		"STALLMAN, P."	35
+		"JOYCE, B."	36
+Group E	Christian Democratic Party (Fred Nile Group)	"BLACKMAN, K."	26
+		"BULLOCK, G."	27
+Group F	Australian Greens	"MOLES, S."	3
+		"MAHONEY, D."	4
+		"TAYLOR, M."	5
+Group G	Help End Marijuana Prohibition	"FREEMARIJUANA, N.D."	6
+		"FREEMARIJUANA, G."	7
+Group H	Republican Party of Australia	"PYKE, J.R."	15
+		"SIMPSON, M.J."	16
+Group I	Pauline Hanson's One Nation	"HANSON, P."	37
+		"HANSEN, T."	38
+		"MARSDEN, M."	39
+		"SLACK-SMITH, J."	40
+Group J	Liberal Party	"MACDONALD, I."	30
+		"HERRON, J."	31
+		"TROOD, R."	32
+		"KEMBER, D."	33
+Group K	No Goods and Services Tax Party	"ETTRIDGE, D."	28
+		"GOOCH, R.J."	29
+Group L	Australian Democrats	"BARTLETT, A."	11
+		"OSS-EMER, L."	12
+		"BATHURST, M."	13
+Ungrouped	Independent	"ROSBOROUGH, D.M."	17
+	Independent	"HOWSE, D.G."	18
+	Independent	"JONES, J.D."	14
+	Independent	"KIRWIN, O."	19
+	Independent	"SZENTES, G."	20
+	Independent	"MELROSE, A.J."	21
+	Independent	"PHILIPPI, W."	22
+	Independent	"RILEY, P.W."	23
+			
+			
+Group B - Australian Labor Party			
+			
+Ticket	Party/Group Name	Candidate Name	Preferences
+Group A	Unendorsed - Watson/Fletcher	"WATSON, S."	10
+		"FLETCHER, K."	11
+Group B	Australian Labor Party	"HOGG, J."	1
+		"MOORE, C."	2
+		"GIBBS, B."	3
+Group C	Citizens Electoral Council of Australia	"HOPE, D."	33
+		"CONTARINO, N."	34
+Group D	National Party	"BOSWELL, R."	22
+		"STALLMAN, P."	23
+		"JOYCE, B."	24
+Group E	Christian Democratic Party (Fred Nile Group)	"BLACKMAN, K."	31
+		"BULLOCK, G."	32
+Group F	Australian Greens	"MOLES, S."	7
+		"MAHONEY, D."	8
+		"TAYLOR, M."	9
+Group G	Help End Marijuana Prohibition	"FREEMARIJUANA, N.D."	29
+		"FREEMARIJUANA, G."	30
+Group H	Republican Party of Australia	"PYKE, J.R."	12
+		"SIMPSON, M.J."	13
+Group I	Pauline Hanson's One Nation	"HANSON, P."	40
+		"HANSEN, T."	39
+		"MARSDEN, M."	38
+		"SLACK-SMITH, J."	37
+Group J	Liberal Party	"MACDONALD, I."	25
+		"HERRON, J."	26
+		"TROOD, R."	27
+		"KEMBER, D."	28
+Group K	No Goods and Services Tax Party	"ETTRIDGE, D."	35
+		"GOOCH, R.J."	36
+Group L	Australian Democrats	"BARTLETT, A."	4
+		"OSS-EMER, L."	5
+		"BATHURST, M."	6
+Ungrouped	Independent	"ROSBOROUGH, D.M."	14
+	Independent	"HOWSE, D.G."	15
+	Independent	"JONES, J.D."	16
+	Independent	"KIRWIN, O."	17
+	Independent	"SZENTES, G."	18
+	Independent	"MELROSE, A.J."	19
+	Independent	"PHILIPPI, W."	20
+	Independent	"RILEY, P.W."	21
+			
+			
+Group C - Citizens Electoral Council of Australia			
+			
+Ticket	Party/Group Name	Candidate Name	Preferences
+Group A	Unendorsed - Watson/Fletcher	"WATSON, S."	21
+		"FLETCHER, K."	22
+Group B	Australian Labor Party	"HOGG, J."	37
+		"MOORE, C."	36
+		"GIBBS, B."	35
+Group C	Citizens Electoral Council of Australia	"HOPE, D."	1
+		"CONTARINO, N."	2
+Group D	National Party	"BOSWELL, R."	30
+		"STALLMAN, P."	29
+		"JOYCE, B."	28
+Group E	Christian Democratic Party (Fred Nile Group)	"BLACKMAN, K."	7
+		"BULLOCK, G."	8
+Group F	Australian Greens	"MOLES, S."	40
+		"MAHONEY, D."	39
+		"TAYLOR, M."	38
+Group G	Help End Marijuana Prohibition	"FREEMARIJUANA, N.D."	9
+		"FREEMARIJUANA, G."	10
+Group H	Republican Party of Australia	"PYKE, J.R."	23
+		"SIMPSON, M.J."	24
+Group I	Pauline Hanson's One Nation	"HANSON, P."	3
+		"HANSEN, T."	4
+		"MARSDEN, M."	5
+		"SLACK-SMITH, J."	6
+Group J	Liberal Party	"MACDONALD, I."	34
+		"HERRON, J."	33
+		"TROOD, R."	32
+		"KEMBER, D."	31
+Group K	No Goods and Services Tax Party	"ETTRIDGE, D."	11
+		"GOOCH, R.J."	12
+Group L	Australian Democrats	"BARTLETT, A."	27
+		"OSS-EMER, L."	26
+		"BATHURST, M."	25
+Ungrouped	Independent	"ROSBOROUGH, D.M."	13
+	Independent	"HOWSE, D.G."	14
+	Independent	"JONES, J.D."	15
+	Independent	"KIRWIN, O."	16
+	Independent	"SZENTES, G."	17
+	Independent	"MELROSE, A.J."	18
+	Independent	"PHILIPPI, W."	19
+	Independent	"RILEY, P.W."	20
+			
+			
+Group D - National Party			
+			
+Ticket	Party/Group Name	Candidate Name	Preferences
+Group A	Unendorsed - Watson/Fletcher	"WATSON, S."	32
+		"FLETCHER, K."	31
+Group B	Australian Labor Party	"HOGG, J."	30
+		"MOORE, C."	29
+		"GIBBS, B."	28
+Group C	Citizens Electoral Council of Australia	"HOPE, D."	34
+		"CONTARINO, N."	33
+Group D	National Party	"BOSWELL, R."	1
+		"STALLMAN, P."	2
+		"JOYCE, B."	3
+Group E	Christian Democratic Party (Fred Nile Group)	"BLACKMAN, K."	8
+		"BULLOCK, G."	9
+Group F	Australian Greens	"MOLES, S."	13
+		"MAHONEY, D."	14
+		"TAYLOR, M."	15
+Group G	Help End Marijuana Prohibition	"FREEMARIJUANA, N.D."	26
+		"FREEMARIJUANA, G."	27
+Group H	Republican Party of Australia	"PYKE, J.R."	16
+		"SIMPSON, M.J."	17
+Group I	Pauline Hanson's One Nation	"HANSON, P."	40
+		"HANSEN, T."	39
+		"MARSDEN, M."	38
+		"SLACK-SMITH, J."	37
+Group J	Liberal Party	"MACDONALD, I."	4
+		"HERRON, J."	5
+		"TROOD, R."	6
+		"KEMBER, D."	7
+Group K	No Goods and Services Tax Party	"ETTRIDGE, D."	36
+		"GOOCH, R.J."	35
+Group L	Australian Democrats	"BARTLETT, A."	10
+		"OSS-EMER, L."	11
+		"BATHURST, M."	12
+Ungrouped	Independent	"ROSBOROUGH, D.M."	18
+	Independent	"HOWSE, D.G."	19
+	Independent	"JONES, J.D."	20
+	Independent	"KIRWIN, O."	21	
+	Independent	"SZENTES, G."	22	
+	Independent	"MELROSE, A.J."	23	
+	Independent	"PHILIPPI, W."	24	
+	Independent	"RILEY, P.W."	25	
+				
+				
+Group E - Christian Democratic Party (Fred Nile Group)				
+			Preferences	
+Ticket	Party/Group Name	Candidate Name	Ticket No#1	Ticket No#2
+Group A	Unendorsed - Watson/Fletcher	"WATSON, S."	20	23
+		"FLETCHER, K."	21	22
+Group B	Australian Labor Party	"HOGG, J."	29	29
+		"MOORE, C."	28	30
+		"GIBBS, B."	27	31
+Group C	Citizens Electoral Council of Australia	"HOPE, D."	11	13
+		"CONTARINO, N."	12	14
+Group D	National Party	"BOSWELL, R."	4	3
+		"STALLMAN, P."	5	4
+		"JOYCE, B."	6	5
+Group E	Christian Democratic Party (Fred Nile Group)	"BLACKMAN, K."	1	1
+		"BULLOCK, G."	2	2
+Group F	Australian Greens	"MOLES, S."	38	38
+		"MAHONEY, D."	37	37
+		"TAYLOR, M."	36	36
+Group G	Help End Marijuana Prohibition	"FREEMARIJUANA, N.D."	40	39
+		"FREEMARIJUANA, G."	39	40
+Group H	Republican Party of Australia	"PYKE, J.R."	31	27
+		"SIMPSON, M.J."	30	28
+Group I	Pauline Hanson's One Nation	"HANSON, P."	35	35
+		"HANSEN, T."	34	34
+		"MARSDEN, M."	33	33
+		"SLACK-SMITH, J."	32	32
+Group J	Liberal Party	"MACDONALD, I."	7	6
+		"HERRON, J."	8	7
+		"TROOD, R."	9	8
+		"KEMBER, D."	10	9
+Group K	No Goods and Services Tax Party	"ETTRIDGE, D."	22	20
+		"GOOCH, R.J."	23	21
+Group L	Australian Democrats	"BARTLETT, A."	24	26
+		"OSS-EMER, L."	25	25
+		"BATHURST, M."	26	24
+Ungrouped	Independent	"ROSBOROUGH, D.M."	19	19
+	Independent	"HOWSE, D.G."	18	18
+	Independent	"JONES, J.D."	16	11
+	Independent	"KIRWIN, O."	3	10
+	Independent	"SZENTES, G."	14	16
+	Independent	"MELROSE, A.J."	15	15
+	Independent	"PHILIPPI, W."	13	12
+	Independent	"RILEY, P.W."	17	17
+				
+				
+Group F - Australian Greens				
+				
+Ticket	Party/Group Name	Candidate Name	Preferences	
+Group A	Unendorsed - Watson/Fletcher	"WATSON, S."	8	
+		"FLETCHER, K."	9	
+Group B	Australian Labor Party	"HOGG, J."	14	
+		"MOORE, C."	15	
+		"GIBBS, B."	16	
+Group C	Citizens Electoral Council of Australia	"HOPE, D."	35	
+		"CONTARINO, N."	36	
+Group D	National Party	"BOSWELL, R."	21	
+		"STALLMAN, P."	22	
+		"JOYCE, B."	23
+Group E	Christian Democratic Party (Fred Nile Group)	"BLACKMAN, K."	24
+		"BULLOCK, G."	25
+Group F	Australian Greens	"MOLES, S."	1
+		"MAHONEY, D."	2
+		"TAYLOR, M."	3
+Group G	Help End Marijuana Prohibition	"FREEMARIJUANA, N.D."	6
+		"FREEMARIJUANA, G."	7
+Group H	Republican Party of Australia	"PYKE, J.R."	4
+		"SIMPSON, M.J."	5
+Group I	Pauline Hanson's One Nation	"HANSON, P."	40
+		"HANSEN, T."	39
+		"MARSDEN, M."	38
+		"SLACK-SMITH, J."	37
+Group J	Liberal Party	"MACDONALD, I."	17
+		"HERRON, J."	18
+		"TROOD, R."	19
+		"KEMBER, D."	20
+Group K	No Goods and Services Tax Party	"ETTRIDGE, D."	26
+		"GOOCH, R.J."	27
+Group L	Australian Democrats	"BARTLETT, A."	10
+		"OSS-EMER, L."	11
+		"BATHURST, M."	12
+Ungrouped	Independent	"ROSBOROUGH, D.M."	34
+	Independent	"HOWSE, D.G."	33
+	Independent	"JONES, J.D."	13
+	Independent	"KIRWIN, O."	28
+	Independent	"SZENTES, G."	29
+	Independent	"MELROSE, A.J."	30
+	Independent	"PHILIPPI, W."	31
+	Independent	"RILEY, P.W."	32
+			
+			
+Group G - Help end Marijuana Prohibition			
+			
+Ticket	Party/Group Name	Candidate Name	Preferences
+Group A	Unendorsed - Watson/Fletcher	"WATSON, S."	6
+		"FLETCHER, K."	7
+Group B	Australian Labor Party	"HOGG, J."	21
+		"MOORE, C."	22
+		"GIBBS, B."	23
+Group C	Citizens Electoral Council of Australia	"HOPE, D."	35
+		"CONTARINO, N."	36
+Group D	National Party	"BOSWELL, R."	28
+		"STALLMAN, P."	29
+		"JOYCE, B."	30
+Group E	Christian Democratic Party (Fred Nile Group)	"BLACKMAN, K."	33
+		"BULLOCK, G."	34
+Group F	Australian Greens	"MOLES, S."	3
+		"MAHONEY, D."	4
+		"TAYLOR, M."	5
+Group G	Help End Marijuana Prohibition	"FREEMARIJUANA, N.D."	1
+		"FREEMARIJUANA, G."	2
+Group H	Republican Party of Australia	"PYKE, J.R."	11
+		"SIMPSON, M.J."	12
+Group I	Pauline Hanson's One Nation	"HANSON, P."	37
+		"HANSEN, T."	38
+		"MARSDEN, M."	39
+		"SLACK-SMITH, J."	40
+Group J	Liberal Party	"MACDONALD, I."	24
+		"HERRON, J."	25
+		"TROOD, R."	26
+		"KEMBER, D."	27
+Group K	No Goods and Services Tax Party	"ETTRIDGE, D."	31
+		"GOOCH, R.J."	32		
+Group L	Australian Democrats	"BARTLETT, A."	8		
+		"OSS-EMER, L."	9		
+		"BATHURST, M."	10		
+Ungrouped	Independent	"ROSBOROUGH, D.M."	15		
+	Independent	"HOWSE, D.G."	16		
+	Independent	"JONES, J.D."	13		
+	Independent	"KIRWIN, O."	17		
+	Independent	"SZENTES, G."	18		
+	Independent	"MELROSE, A.J."	19		
+	Independent	"PHILIPPI, W."	14		
+	Independent	"RILEY, P.W."	20		
+					
+					
+Group H - Republican Party of Australia					
+			Preferences		
+Ticket	Party/Group Name	Candidate Name	Ticket No#1	Ticket No#2	Ticket No#3
+Group A	Unendorsed - Watson/Fletcher	"WATSON, S."	11	11	11
+		"FLETCHER, K."	12	12	12
+Group B	Australian Labor Party	"HOGG, J."	25	28	30
+		"MOORE, C."	26	29	31
+		"GIBBS, B."	27	30	32
+Group C	Citizens Electoral Council of Australia	"HOPE, D."	33	33	33
+		"CONTARINO, N."	34	34	34
+Group D	National Party	"BOSWELL, R."	30	25	27
+		"STALLMAN, P."	31	26	28
+		"JOYCE, B."	32	27	29
+Group E	Christian Democratic Party (Fred Nile Group)	"BLACKMAN, K."	28	31	25
+		"BULLOCK, G."	29	32	26
+Group F	Australian Greens	"MOLES, S."	3	3	3
+		"MAHONEY, D."	4	4	4
+		"TAYLOR, M."	5	5	5
+Group G	Help End Marijuana Prohibition	"FREEMARIJUANA, N.D."	9	9	9
+		"FREEMARIJUANA, G."	10	10	10
+Group H	Republican Party of Australia	"PYKE, J.R."	1	1	1
+		"SIMPSON, M.J."	2	2	2
+Group I	Pauline Hanson's One Nation	"HANSON, P."	40	40	40
+		"HANSEN, T."	39	39	39
+		"MARSDEN, M."	38	38	38
+		"SLACK-SMITH, J."	37	37	37
+Group J	Liberal Party	"MACDONALD, I."	21	21	21
+		"HERRON, J."	22	22	22
+		"TROOD, R."	23	23	23
+		"KEMBER, D."	24	24	24
+Group K	No Goods and Services Tax Party	"ETTRIDGE, D."	35	35	35
+		"GOOCH, R.J."	36	36	36
+Group L	Australian Democrats	"BARTLETT, A."	6	6	6
+		"OSS-EMER, L."	7	7	7
+		"BATHURST, M."	8	8	8
+Ungrouped	Independent	"ROSBOROUGH, D.M."	19	19	19
+	Independent	"HOWSE, D.G."	20	20	20
+	Independent	"JONES, J.D."	13	13	13
+	Independent	"KIRWIN, O."	14	14	14
+	Independent	"SZENTES, G."	15	15	15
+	Independent	"MELROSE, A.J."	16	16	16
+	Independent	"PHILIPPI, W."	17	17	17
+	Independent	"RILEY, P.W."	18	18	18
+					
+					
+Group I - Pauline Hanson's One Nation					
+					
+Ticket	Party/Group Name	Candidate Name	Preferences		
+Group A	Unendorsed - Watson/Fletcher	"WATSON, S."	15		
+		"FLETCHER, K."	16		
+Group B	Australian Labor Party	"HOGG, J."	25
+		"MOORE, C."	26
+		"GIBBS, B."	27
+Group C	Citizens Electoral Council of Australia	"HOPE, D."	17
+		"CONTARINO, N."	18
+Group D	National Party	"BOSWELL, R."	40
+		"STALLMAN, P."	39
+		"JOYCE, B."	38
+Group E	Christian Democratic Party (Fred Nile Group)	"BLACKMAN, K."	13
+		"BULLOCK, G."	14
+Group F	Australian Greens	"MOLES, S."	28
+		"MAHONEY, D."	29
+		"TAYLOR, M."	30
+Group G	Help End Marijuana Prohibition	"FREEMARIJUANA, N.D."	21
+		"FREEMARIJUANA, G."	22
+Group H	Republican Party of Australia	"PYKE, J.R."	19
+		"SIMPSON, M.J."	20
+Group I	Pauline Hanson's One Nation	"HANSON, P."	1
+		"HANSEN, T."	2
+		"MARSDEN, M."	3
+		"SLACK-SMITH, J."	4
+Group J	Liberal Party	"MACDONALD, I."	31
+		"HERRON, J."	32
+		"TROOD, R."	33
+		"KEMBER, D."	34
+Group K	No Goods and Services Tax Party	"ETTRIDGE, D."	24
+		"GOOCH, R.J."	23
+Group L	Australian Democrats	"BARTLETT, A."	37
+		"OSS-EMER, L."	36
+		"BATHURST, M."	35
+Ungrouped	Independent	"ROSBOROUGH, D.M."	5
+	Independent	"HOWSE, D.G."	6
+	Independent	"JONES, J.D."	7
+	Independent	"KIRWIN, O."	8
+	Independent	"SZENTES, G."	12
+	Independent	"MELROSE, A.J."	11
+	Independent	"PHILIPPI, W."	10
+	Independent	"RILEY, P.W."	9
+			
+			
+Group J - Liberal Party			
+			
+Ticket	Party/Group Name	Candidate Name	Preferences
+Group A	Unendorsed - Watson/Fletcher	"WATSON, S."	28
+		"FLETCHER, K."	29
+Group B	Australian Labor Party	"HOGG, J."	30
+		"MOORE, C."	31
+		"GIBBS, B."	32
+Group C	Citizens Electoral Council of Australia	"HOPE, D."	33
+		"CONTARINO, N."	34
+Group D	National Party	"BOSWELL, R."	5
+		"STALLMAN, P."	6
+		"JOYCE, B."	7
+Group E	Christian Democratic Party (Fred Nile Group)	"BLACKMAN, K."	8
+		"BULLOCK, G."	9
+Group F	Australian Greens	"MOLES, S."	13
+		"MAHONEY, D."	14
+		"TAYLOR, M."	15
+Group G	Help End Marijuana Prohibition	"FREEMARIJUANA, N.D."	26
+		"FREEMARIJUANA, G."	27
+Group H	Republican Party of Australia	"PYKE, J.R."	16
+		"SIMPSON, M.J."	17
+Group I	Pauline Hanson's One Nation	"HANSON, P."	37
+		"HANSEN, T."	38
+		"MARSDEN, M."	39
+		"SLACK-SMITH, J."	40
+Group J	Liberal Party	"MACDONALD, I."	1
+		"HERRON, J."	2
+		"TROOD, R."	3
+		"KEMBER, D."	4
+Group K	No Goods and Services Tax Party	"ETTRIDGE, D."	35
+		"GOOCH, R.J."	36
+Group L	Australian Democrats	"BARTLETT, A."	10
+		"OSS-EMER, L."	11
+		"BATHURST, M."	12
+Ungrouped	Independent	"ROSBOROUGH, D.M."	18
+	Independent	"HOWSE, D.G."	19
+	Independent	"JONES, J.D."	20
+	Independent	"KIRWIN, O."	21
+	Independent	"SZENTES, G."	22
+	Independent	"MELROSE, A.J."	23
+	Independent	"PHILIPPI, W."	24
+	Independent	"RILEY, P.W."	25
+			
+			
+Group K - No Goods and Services Tax Party			
+			
+Ticket	Party/Group Name	Candidate Name	Preferences
+Group A	Unendorsed - Watson/Fletcher	"WATSON, S."	8
+		"FLETCHER, K."	7
+Group B	Australian Labor Party	"HOGG, J."	18
+		"MOORE, C."	17
+		"GIBBS, B."	16
+Group C	Citizens Electoral Council of Australia	"HOPE, D."	4
+		"CONTARINO, N."	3
+Group D	National Party	"BOSWELL, R."	24
+		"STALLMAN, P."	23
+		"JOYCE, B."	22
+Group E	Christian Democratic Party (Fred Nile Group)	"BLACKMAN, K."	6
+		"BULLOCK, G."	5
+Group F	Australian Greens	"MOLES, S."	11
+		"MAHONEY, D."	10
+		"TAYLOR, M."	9
+Group G	Help End Marijuana Prohibition	"FREEMARIJUANA, N.D."	40
+		"FREEMARIJUANA, G."	39
+Group H	Republican Party of Australia	"PYKE, J.R."	38
+		"SIMPSON, M.J."	37
+Group I	Pauline Hanson's One Nation	"HANSON, P."	28
+		"HANSEN, T."	27
+		"MARSDEN, M."	26
+		"SLACK-SMITH, J."	25
+Group J	Liberal Party	"MACDONALD, I."	12
+		"HERRON, J."	13
+		"TROOD, R."	14
+		"KEMBER, D."	15
+Group K	No Goods and Services Tax Party	"ETTRIDGE, D."	1
+		"GOOCH, R.J."	2
+Group L	Australian Democrats	"BARTLETT, A."	21
+		"OSS-EMER, L."	20
+		"BATHURST, M."	19
+Ungrouped	Independent	"ROSBOROUGH, D.M."	36
+	Independent	"HOWSE, D.G."	34
+	Independent	"JONES, J.D."	32
+	Independent	"KIRWIN, O."	30
+	Independent	"SZENTES, G."	35
+	Independent	"MELROSE, A.J."	33
+	Independent	"PHILIPPI, W."	31
+	Independent	"RILEY, P.W."	29
+				
+				
+Group L - Australian Democrats				
+			Preferences	
+Ticket	Party/Group Name	Candidate Name	Ticket No#1	Ticket No#2
+Group A	Unendorsed - Watson/Fletcher	"WATSON, S."	7	7
+		"FLETCHER, K."	8	8
+Group B	Australian Labor Party	"HOGG, J."	13	20
+		"MOORE, C."	14	21
+		"GIBBS, B."	15	22
+Group C	Citizens Electoral Council of Australia	"HOPE, D."	35	35
+		"CONTARINO, N."	36	36
+Group D	National Party	"BOSWELL, R."	16	13
+		"STALLMAN, P."	17	14
+		"JOYCE, B."	18	15
+Group E	Christian Democratic Party (Fred Nile Group)	"BLACKMAN, K."	31	31
+		"BULLOCK, G."	32	32
+Group F	Australian Greens	"MOLES, S."	4	4
+		"MAHONEY, D."	5	5
+		"TAYLOR, M."	6	6
+Group G	Help End Marijuana Prohibition	"FREEMARIJUANA, N.D."	9	11
+		"FREEMARIJUANA, G."	10	12
+Group H	Republican Party of Australia	"PYKE, J.R."	11	9
+		"SIMPSON, M.J."	12	10
+Group I	Pauline Hanson's One Nation	"HANSON, P."	40	40
+		"HANSEN, T."	39	39
+		"MARSDEN, M."	38	38
+		"SLACK-SMITH, J."	37	37
+Group J	Liberal Party	"MACDONALD, I."	19	16
+		"HERRON, J."	20	17
+		"TROOD, R."	21	18
+		"KEMBER, D."	22	19
+Group K	No Goods and Services Tax Party	"ETTRIDGE, D."	33	33
+		"GOOCH, R.J."	34	34
+Group L	Australian Democrats	"BARTLETT, A."	1	1
+		"OSS-EMER, L."	2	2
+		"BATHURST, M."	3	3
+Ungrouped	Independent	"ROSBOROUGH, D.M."	23	23
+	Independent	"HOWSE, D.G."	24	24
+	Independent	"JONES, J.D."	25	25
+	Independent	"KIRWIN, O."	26	26
+	Independent	"SZENTES, G."	27	27
+	Independent	"MELROSE, A.J."	28	28
+	Independent	"PHILIPPI, W."	29	29
+	Independent	"RILEY, P.W."	30	30

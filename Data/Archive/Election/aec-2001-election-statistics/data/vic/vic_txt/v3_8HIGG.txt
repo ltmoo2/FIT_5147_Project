@@ -1,0 +1,543 @@
+House of Representatives - 2001 Election: Victoria																	
+Distribution of Preferences																	
+By Polling Place																	
+Higgins																	
+				STEPHENS			GILES			MOSS			COSTELLO				
+				Katie			Tania			Katie			Peter				
+				ALP			GRN			DEM			LP				
+	Count			Votes	%		Votes	%		Votes	%		Votes	%		Total	
+Alamein                                                        																	
+	FIRST			384	48.00		56	7.00		86	10.75		274	34.25		800	
+	SECOND			11	19.64			Excluded		41	73.21		4	7.14		56	
+		TOTAL		395	49.38					127	15.88		278	34.75		800	
+	THIRD			85	66.93						Excluded		42	33.07		127	
+		TOTAL		480	60.00								320	40.00		800	
+													Elected				
+																	
+Armadale                                                       																	
+	FIRST			474	25.43		154	8.26		162	8.69		1074	57.62		1864	
+	SECOND			45	29.22			Excluded		88	57.14		21	13.64		154	
+		TOTAL		519	27.84					250	13.41		1095	58.74		1864	
+	THIRD			167	66.80						Excluded		83	33.20		250	
+		TOTAL		686	36.80								1178	63.20		1864	
+													Elected				
+																	
+Ashburton                                                      																	
+	FIRST			792	33.15		251	10.51		222	9.29		1124	47.05		2389	
+	SECOND			63	25.10			Excluded		166	66.14		22	8.76		251	
+		TOTAL		855	35.79					388	16.24		1146	47.97		2389	
+	THIRD			297	76.55						Excluded		91	23.45		388	
+		TOTAL		1152	48.22								1237	51.78		2389	
+													Elected				
+																	
+Burwood                                                        																	
+	FIRST			346	32.67		77	7.27		109	10.29		527	49.76		1059	
+	SECOND			15	19.48			Excluded		56	72.73		6	7.79		77	
+		TOTAL		361	34.09					165	15.58		533	50.33		1059	
+	THIRD			118	71.52						Excluded		47	28.48		165	
+		TOTAL		479	45.23								580	54.77		1059	
+													Elected				
+																	
+Burwood West                                                   																	
+	FIRST			337	28.88		132	11.31		95	8.14		603	51.67		1167	
+	SECOND			36	27.27			Excluded		82	62.12		14	10.61		132	
+		TOTAL		373	31.96					177	15.17		617	52.87		1167	
+	THIRD			134	75.71						Excluded		43	24.29		177	
+		TOTAL		507	43.44								660	56.56		1167	
+													Elected				
+																	
+Camberwell                                                     																	
+	FIRST			287	23.84		100	8.31		99	8.22		718	59.63		1204	
+	SECOND			31	31.00			Excluded		60	60.00		9	9.00		100	
+		TOTAL		318	26.41					159	13.21		727	60.38		1204	
+	THIRD			110	69.18						Excluded		49	30.82		159	
+		TOTAL		428	35.55								776	64.45		1204	
+													Elected				
+																	
+Camberwell Middle                                              																	
+	FIRST			310	26.45		74	6.31		86	7.34		702	59.90		1172	
+	SECOND			24	32.43			Excluded		40	54.05		10	13.51		74	
+		TOTAL		334	28.50					126	10.75		712	60.75		1172	
+	THIRD			92	73.02						Excluded		34	26.98		126	
+		TOTAL		426	36.35								746	63.65		1172	
+													Elected				
+																	
+Camberwell South                                               																	
+	FIRST			617	25.78		221	9.24		212	8.86		1343	56.12		2393	
+	SECOND			46	20.81			Excluded		141	63.80		34	15.38		221	
+		TOTAL		663	27.71					353	14.75		1377	57.54		2393	
+	THIRD			246	69.69						Excluded		107	30.31		353	
+		TOTAL		909	37.99								1484	62.01		2393	
+													Elected				
+																	
+Carnegie North                                                 																	
+	FIRST			457	30.35		110	7.30		119	7.90		820	54.45		1506	
+	SECOND			32	29.09			Excluded		67	60.91		11	10.00		110	
+		TOTAL		489	32.47					186	12.35		831	55.18		1506	
+	THIRD			138	74.19						Excluded		48	25.81		186	
+		TOTAL		627	41.63								879	58.37		1506	
+													Elected				
+																	
+Carnegie Upper                                                 																	
+	FIRST			568	42.80		114	8.59		155	11.68		490	36.93		1327	
+	SECOND			28	24.56			Excluded		81	71.05		5	4.39		114	
+		TOTAL		596	44.91					236	17.78		495	37.30		1327	
+	THIRD			169	71.61						Excluded		67	28.39		236	
+		TOTAL		765	57.65								562	42.35		1327	
+													Elected				
+																	
+Chadstone                                                      																	
+	FIRST			920	43.05		97	4.54		175	8.19		945	44.22		2137	
+	SECOND			24	24.74			Excluded		66	68.04		7	7.22		97	
+		TOTAL		944	44.17					241	11.28		952	44.55		2137	
+	THIRD			165	68.46						Excluded		76	31.54		241	
+		TOTAL		1109	51.90								1028	48.10		2137	
+													Elected				
+																	
+Darling                                                        																	
+	FIRST			213	19.09		73	6.54		78	6.99		752	67.38		1116	
+	SECOND			15	20.55			Excluded		46	63.01		12	16.44		73	
+		TOTAL		228	20.43					124	11.11		764	68.46		1116	
+	THIRD			80	64.52						Excluded		44	35.48		124	
+		TOTAL		308	27.60								808	72.40		1116	
+													Elected				
+																	
+Fawkner Park (Higgins)                                         																	
+	FIRST			465	28.48		185	11.33		177	10.84		806	49.36		1633	
+	SECOND			42	22.70			Excluded		132	71.35		11	5.95		185	
+		TOTAL		507	31.05					309	18.92		817	50.03		1633	
+	THIRD			244	78.96						Excluded		65	21.04		309	
+		TOTAL		751	45.99								882	54.01		1633	
+													Elected				
+																	
+Ferndale                                                       																	
+	FIRST			199	25.09		66	8.32		59	7.44		469	59.14		793	
+	SECOND			9	13.64			Excluded		46	69.70		11	16.67		66	
+		TOTAL		208	26.23					105	13.24		480	60.53		793	
+	THIRD			73	69.52						Excluded		32	30.48		105	
+		TOTAL		281	35.44								512	64.56		793	
+													Elected				
+																	
+Gardiner                                                       																	
+	FIRST			602	30.01		153	7.63		210	10.47		1041	51.89		2006	
+	SECOND			37	24.18			Excluded		96	62.75		20	13.07		153	
+		TOTAL		639	31.85					306	15.25		1061	52.89		2006	
+	THIRD			211	68.95						Excluded		95	31.05		306	
+		TOTAL		850	42.37								1156	57.63		2006	
+													Elected				
+																	
+Glen Iris                                                      																	
+	FIRST			753	27.17		230	8.30		238	8.59		1550	55.94		2771	
+	SECOND			47	20.43			Excluded		167	72.61		16	6.96		230	
+		TOTAL		800	28.87					405	14.62		1566	56.51		2771	
+	THIRD			289	71.36						Excluded		116	28.64		405	
+		TOTAL		1089	39.30								1682	60.70		2771	
+													Elected				
+																	
+Glen Iris South                                                																	
+	FIRST			483	28.97		172	10.32		155	9.30		857	51.41		1667	
+	SECOND			37	21.51			Excluded		127	73.84		8	4.65		172	
+		TOTAL		520	31.19					282	16.92		865	51.89		1667	
+	THIRD			209	74.11						Excluded		73	25.89		282	
+		TOTAL		729	43.73								938	56.27		1667	
+													Elected				
+																	
+Hartwell West                                                  																	
+	FIRST			174	30.16		63	10.92		40	6.93		300	51.99		577	
+	SECOND			17	26.98			Excluded		41	65.08		5	7.94		63	
+		TOTAL		191	33.10					81	14.04		305	52.86		577	
+	THIRD			62	76.54						Excluded		19	23.46		81	
+		TOTAL		253	43.85								324	56.15		577	
+													Elected				
+																	
+Hawksburn                                                      																	
+	FIRST			711	23.75		301	10.05		306	10.22		1676	55.98		2994	
+	SECOND			80	26.58			Excluded		195	64.78		26	8.64		301	
+		TOTAL		791	26.42					501	16.73		1702	56.85		2994	
+	THIRD			341	68.06						Excluded		160	31.94		501	
+		TOTAL		1132	37.81								1862	62.19		2994	
+													Elected				
+																	
+Hawksburn Central                                              																	
+	FIRST			521	47.89		65	5.97		91	8.36		411	37.78		1088	
+	SECOND			20	30.77			Excluded		39	60.00		6	9.23		65	
+		TOTAL		541	49.72					130	11.95		417	38.33		1088	
+	THIRD			96	73.85						Excluded		34	26.15		130	
+		TOTAL		637	58.55								451	41.45		1088	
+													Elected				
+																	
+Hughesdale North                                               																	
+	FIRST			308	50.41		42	6.87		58	9.49		203	33.22		611	
+	SECOND			8	19.05			Excluded		25	59.52		9	21.43		42	
+		TOTAL		316	51.72					83	13.58		212	34.70		611	
+	THIRD			58	69.88						Excluded		25	30.12		83	
+		TOTAL		374	61.21								237	38.79		611	
+													Elected				
+																	
+Kooyong Park                                                   																	
+	FIRST			200	14.87		101	7.51		74	5.50		970	72.12		1345	
+	SECOND			20	19.80			Excluded		66	65.35		15	14.85		101	
+		TOTAL		220	16.36					140	10.41		985	73.23		1345	
+	THIRD			96	68.57						Excluded		44	31.43		140	
+		TOTAL		316	23.49								1029	76.51		1345	
+													Elected				
+																	
+Malvern                                                        																	
+	FIRST			733	26.09		250	8.90		232	8.26		1595	56.76		2810	
+	SECOND			66	26.40			Excluded		155	62.00		29	11.60		250	
+		TOTAL		799	28.43					387	13.77		1624	57.79		2810	
+	THIRD			280	72.35						Excluded		107	27.65		387	
+		TOTAL		1079	38.40								1731	61.60		2810	
+													Elected				
+																	
+Malvern Central                                                																	
+	FIRST			559	33.94		152	9.23		127	7.71		809	49.12		1647	
+	SECOND			29	19.08			Excluded		107	70.39		16	10.53		152	
+		TOTAL		588	35.70					234	14.21		825	50.09		1647	
+	THIRD			175	74.79						Excluded		59	25.21		234	
+		TOTAL		763	46.33								884	53.67		1647	
+													Elected				
+																	
+Malvern East                                                   																	
+	FIRST			1128	31.15		326	9.00		369	10.19		1798	49.65		3621	
+	SECOND			85	26.07			Excluded		219	67.18		22	6.75		326	
+		TOTAL		1213	33.50					588	16.24		1820	50.26		3621	
+	THIRD			407	69.22						Excluded		181	30.78		588	
+		TOTAL		1620	44.74								2001	55.26		3621	
+													Elected				
+																	
+Malvern Lower                                                  																	
+	FIRST			294	16.67		98	5.56		112	6.35		1260	71.43		1764	
+	SECOND			35	35.71			Excluded		51	52.04		12	12.24		98	
+		TOTAL		329	18.65					163	9.24		1272	72.11		1764	
+	THIRD			110	67.48						Excluded		53	32.52		163	
+		TOTAL		439	24.89								1325	75.11		1764	
+													Elected				
+																	
+Malvern South                                                  																	
+	FIRST			950	26.75		371	10.45		292	8.22		1938	54.58		3551	
+	SECOND			108	29.11			Excluded		227	61.19		36	9.70		371	
+		TOTAL		1058	29.79					519	14.62		1974	55.59		3551	
+	THIRD			362	69.75						Excluded		157	30.25		519	
+		TOTAL		1420	39.99								2131	60.01		3551	
+													Elected				
+																	
+Malvern West                                                   																	
+	FIRST			241	26.43		90	9.87		90	9.87		491	53.84		912	
+	SECOND			13	14.44			Excluded		68	75.56		9	10.00		90	
+		TOTAL		254	27.85					158	17.32		500	54.82		912	
+	THIRD			109	68.99						Excluded		49	31.01		158	
+		TOTAL		363	39.80								549	60.20		912	
+													Elected				
+																	
+Melbourne (Higgins)                                            																	
+	FIRST			66	30.00		24	10.91		42	19.09		88	40.00		220	
+	SECOND			6	25.00			Excluded		16	66.67		2	8.33		24	
+		TOTAL		72	32.73					58	26.36		90	40.91		220	
+	THIRD			40	68.97						Excluded		18	31.03		58	
+		TOTAL		112	50.91								108	49.09		220	
+													Elected				
+																	
+Murrumbeena                                                    																	
+	FIRST			659	38.05		141	8.14		174	10.05		758	43.76		1732	
+	SECOND			42	29.79			Excluded		89	63.12		10	7.09		141	
+		TOTAL		701	40.47					263	15.18		768	44.34		1732	
+	THIRD			183	69.58						Excluded		80	30.42		263	
+		TOTAL		884	51.04								848	48.96		1732	
+													Elected				
+																	
+Oakleigh (Higgins)                                             																	
+	FIRST			137	47.40		27	9.34		27	9.34		98	33.91		289	
+	SECOND			7	25.93			Excluded		17	62.96		3	11.11		27	
+		TOTAL		144	49.83					44	15.22		101	34.95		289	
+	THIRD			33	75.00						Excluded		11	25.00		44	
+		TOTAL		177	61.25								112	38.75		289	
+													Elected				
+																	
+Orrong                                                         																	
+	FIRST			598	35.70		148	8.84		160	9.55		769	45.91		1675	
+	SECOND			41	27.70			Excluded		96	64.86		11	7.43		148	
+		TOTAL		639	38.15					256	15.28		780	46.57		1675	
+	THIRD			182	71.09						Excluded		74	28.91		256	
+		TOTAL		821	49.01								854	50.99		1675	
+													Elected				
+																	
+Prahran                                                        																	
+	FIRST			863	44.17		239	12.23		235	12.03		617	31.58		1954	
+	SECOND			63	26.36			Excluded		165	69.04		11	4.60		239	
+		TOTAL		926	47.39					400	20.47		628	32.14		1954	
+	THIRD			308	77.00						Excluded		92	23.00		400	
+		TOTAL		1234	63.15								720	36.85		1954	
+													Elected				
+																	
+Prahran East                                                   																	
+	FIRST			1145	39.73		349	12.11		296	10.27		1092	37.89		2882	
+	SECOND			91	26.07			Excluded		236	67.62		22	6.30		349	
+		TOTAL		1236	42.89					532	18.46		1114	38.65		2882	
+	THIRD			397	74.62						Excluded		135	25.38		532	
+		TOTAL		1633	56.66								1249	43.34		2882	
+													Elected				
+																	
+South Yarra                                                    																	
+	FIRST			287	44.15		63	9.69		57	8.77		243	37.38		650	
+	SECOND			12	19.05			Excluded		47	74.60		4	6.35		63	
+		TOTAL		299	46.00					104	16.00		247	38.00		650	
+	THIRD			76	73.08						Excluded		28	26.92		104	
+		TOTAL		375	57.69								275	42.31		650	
+													Elected				
+																	
+Toorak                                                         																	
+	FIRST			417	13.98		130	4.36		174	5.84		2261	75.82		2982	
+	SECOND			24	18.46			Excluded		90	69.23		16	12.31		130	
+		TOTAL		441	14.79					264	8.85		2277	76.36		2982	
+	THIRD			162	61.36						Excluded		102	38.64		264	
+		TOTAL		603	20.22								2379	79.78		2982	
+													Elected				
+																	
+Toorak Central                                                 																	
+	FIRST			304	20.69		123	8.37		141	9.60		901	61.33		1469	
+	SECOND			23	18.70			Excluded		89	72.36		11	8.94		123	
+		TOTAL		327	22.26					230	15.66		912	62.08		1469	
+	THIRD			161	70.00						Excluded		69	30.00		230	
+		TOTAL		488	33.22								981	66.78		1469	
+													Elected				
+																	
+Toorak West                                                    																	
+	FIRST			263	17.33		120	7.91		88	5.80		1047	68.97		1518	
+	SECOND			34	28.33			Excluded		67	55.83		19	15.83		120	
+		TOTAL		297	19.57					155	10.21		1066	70.22		1518	
+	THIRD			94	60.65						Excluded		61	39.35		155	
+		TOTAL		391	25.76								1127	74.24		1518	
+													Elected				
+																	
+Windsor                                                        																	
+	FIRST			391	42.00		127	13.64		103	11.06		310	33.30		931	
+	SECOND			28	22.05			Excluded		85	66.93		14	11.02		127	
+		TOTAL		419	45.01					188	20.19		324	34.80		931	
+	THIRD			149	79.26						Excluded		39	20.74		188	
+		TOTAL		568	61.01								363	38.99		931	
+													Elected				
+																	
+Special Hospital Team 1                                        																	
+	FIRST			61	28.50		3	1.40		4	1.87		146	68.22		214	
+	SECOND			1	33.33			Excluded		1	33.33		1	33.33		3	
+		TOTAL		62	28.97					5	2.34		147	68.69		214	
+	THIRD			2	40.00						Excluded		3	60.00		5	
+		TOTAL		64	29.91								150	70.09		214	
+													Elected				
+																	
+Special Hospital Team 2                                        																	
+	FIRST			12	18.75		1	1.56		2	3.13		49	76.56		64	
+	SECOND			1	100.00			Excluded		0	0.00		0	0.00		1	
+		TOTAL		13	20.31					2	3.13		49	76.56		64	
+	THIRD			2	100.00						Excluded		0	0.00		2	
+		TOTAL		15	23.44								49	76.56		64	
+													Elected				
+																	
+ABSENT																	
+	FIRST			1798	26.82		827	12.33		865	12.90		3215	47.95		6705	
+	SECOND			215	26.00			Excluded		507	61.31		105	12.70		827	
+		TOTAL		2013	30.02					1372	20.46		3320	49.52		6705	
+	THIRD			951	69.31						Excluded		421	30.69		1372	
+		TOTAL		2964	44.21								3741	55.79		6705	
+													Elected				
+																	
+POSTAL																	
+	FIRST			813	20.76		190	4.85		215	5.49		2698	68.90		3916	
+	SECOND			61	32.11			Excluded		108	56.84		21	11.05		190	
+		TOTAL		874	22.32					323	8.25		2719	69.43		3916	
+	THIRD			220	68.11						Excluded		103	31.89		323	
+		TOTAL		1094	27.94								2822	72.06		3916	
+													Elected				
+																	
+PRE POLL																	
+	FIRST			1081	25.36		355	8.33		426	9.99		2401	56.32		4263	
+	SECOND			99	27.89			Excluded		220	61.97		36	10.14		355	
+		TOTAL		1180	27.68					646	15.15		2437	57.17		4263	
+	THIRD			445	68.89						Excluded		201	31.11		646	
+		TOTAL		1625	38.12								2638	61.88		4263	
+													Elected				
+																	
+PROVISIONAL																	
+	FIRST			117	29.92		38	9.72		38	9.72		198	50.64		391	
+	SECOND			14	36.84			Excluded		22	57.89		2	5.26		38	
+		TOTAL		131	33.50					60	15.35		200	51.15		391	
+	THIRD			45	75.00						Excluded		15	25.00		60	
+		TOTAL		176	45.01								215	54.99		391	
+													Elected				
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	

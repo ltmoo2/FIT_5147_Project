@@ -1,0 +1,946 @@
+Senate - 1996 Election: Queensland			
+Registered Group Voting Tickets			
+
+
+Australian Labor Party (ALP)			
+Ticket	Party/Group Name	Candidate Name	Preferences
+A	Australian Labor Party (ALP)	"HOGG, John"	1
+		"GIBBS, Brenda"	2
+		"CALLAGHAN, Bernadette"	3
+B	Republican Party of Australia	"BUCKLEY, Brian"	16
+	Australian Bill of Rights Group	"BAILEY, David"	17
+C	Natural Law Party	"AYYAR, Kris"	18
+		"PRICE, John"	19
+D	Australian Greens	"JONES, Angela"	8
+		"MAHONEY, Desiree"	9
+		CONNORS Libby	10
+E	"Unendorsed - Jones, John Lee"	"JONES, John Lee"	22
+		"JONES, Lee James"	23
+F	"Unendorsed - Young, Phillip James"	"YOUNG, Phillip James"	24
+		"LADLOW, Harvie William"	25
+G	"Unendorsed - Freemarijuana, J"	"FREEMARIJUANA, J."	20
+		"KNEIPP, Tony"	21
+H	"Unendorsed - McNiven, Ian"	"McNIVEN, Ian"	26
+		"SMYTH, Ray"	27
+		"MARKS, Robert J."	28
+I	Liberal	"MACDONALD, Ian"	39
+		"HERRON, John"	40
+		"KEMBER, Debbie"	41
+J	Call to Australia (Fred Nile) Group	"COOK, Harry"	29
+		"COOK, Nan"	30
+K	Australian Women's Party	"KELLY, Mary"	11
+		"YUILLE, Lizbeth"	12
+		"HUGHEY, Jenny"	13
+L	Australian Shooters Party	"SALISBURY, Peter Robert"	31
+		"ISON, Bill"	32
+M	"Unendorsed - Hetherington, Maurice V."	"HETHERINGTON, Maurice V."	33
+		"RUSSELL, Ross Herbert"	34
+N	Australian Democrats	"KERNOT, Cheryl"	4
+		"WALTERS, Tony"	5
+		"COLLINS, Peter J."	6
+		"REED, Annette Kim"	7
+O	Australians Against Further Immigration	"MAYNE, Cynthia Dianne"	35
+		"MINOGUE, John Gerard"	36
+P	One Australia Party	"JEWELL, Perry J. B."	37
+		"GRAYSON, Michael William"	38
+Q	National Party	"BOSWELL, Ron"	42
+		"COBB, Teresa M."	43
+		"CRANWELL, Terry Ann"	44
+R	A.I.P.P.	"WATSON, Sam"	14		
+		"TYSON, Netta"	15		
+UG	Independent	"Mac NEVIN, Michelle"	45		
+UG	Independent	"LETH, Chris"	46		
+UG	Independent	"HOWSE, David Gordon"	47		
+UG	Independent	"McKAY, Ross"	48		
+
+
+Republican Party of Australia					
+			Preferences		
+Ticket	Party/Group Name	Candidate Name	Ticket # 1	Ticket # 2	Ticket # 3
+A	Australian Labor Party (ALP)	"HOGG, John"	46	40	43
+		"GIBBS, Brenda"	47	41	44
+		"CALLAGHAN, Bernadette"	48	42	45
+B	Republican Party of Australia	"BUCKLEY, Brian"	1	1	1
+	Australian Bill of Rights Group	"BAILEY, David"	2	2	2
+C	Natural Law Party	"AYYAR, Kris"	19	19	19
+		"PRICE, John"	20	20	20
+D	Australian Greens	"JONES, Angela"	3	3	3
+		"MAHONEY, Desiree"	4	4	4
+		"CONNORS, Libby"	5	5	5
+E	"Unendorsed - Jones, John Lee"	"JONES, John Lee"	23	23	23
+		"JONES, Lee James"	24	24	24
+F	"Unendorsed - Young, Phillip James"	"YOUNG, Phillip James"	25	25	25
+		"LADLOW, Harvie William"	26	26	26
+G	"Unendorsed - Freemarijuana, J"	"FREEMARIJUANA, J."	27	27	27
+		"KNEIPP, Tony"	28	28	28
+H	"Unendorsed - McNiven, Ian"	"McNIVEN, Ian"	29	29	29
+		"SMYTH, Ray"	30	30	30
+		"MARKS, Robert J."	31	31	31
+I	Liberal	"MACDONALD, Ian"	43	43	40
+		"HERRON, John"	44	44	41
+		"KEMBER, Debbie"	45	45	42
+J	Call to Australia (Fred Nile) Group	"COOK, Harry"	38	38	38
+		"COOK, Nan"	39	39	39
+K	Australian Women's Party	"KELLY, Mary"	6	6	6
+		"YUILLE, Lizbeth"	7	7	7
+		"HUGHEY, Jenny"	8	8	8
+L	Australian Shooters Party	"SALISBURY, Peter Robert"	11	11	11
+		"ISON, Bill"	12	12	12
+M	"Unendorsed - Hetherington, Maurice V."	"HETHERINGTON, Maurice V."	32	32	32
+		"RUSSELL, Ross Herbert"	33	33	33
+N	Australian Democrats	"KERNOT, Cheryl"	15	15	15
+		"WALTERS, Tony"	16	16	16
+		"COLLINS, Peter J."	17	17	17
+		"REED, Annette Kim"	18	18	18
+O	Australians Against Further Immigration	"MAYNE, Cynthia Dianne"	9	9	9
+		"MINOGUE, John Gerard"	10	10	10
+P	One Australia Party	"JEWELL, Perry J. B."	21	21	21
+		"GRAYSON, Michael William"	22	22	22
+Q	National Party	"BOSWELL, Ron"	40	46	46
+		"COBB, Teresa M."	41	47	47
+		"CRANWELL, Terry Ann"	42	48	48
+R	A.I.P.P.	"WATSON, Sam"	13	13	13
+		"TYSON, Netta"	14	14	14
+UG	Independent	"Mac NEVIN, Michelle"	34	34	34
+UG	Independent	"LETH, Chris"	35	35	35
+UG	Independent	"HOWSE, David Gordon"	36	36	36
+UG	Independent	"McKAY, Ross"	37	37	37
+
+
+Natural Law Party					
+Ticket	Party/Group Name	Candidate Name	Preferences		
+A	Australian Labor Party (ALP)	"HOGG, John"	10		
+		"GIBBS, Brenda"	11
+		"CALLAGHAN, Bernadette"	12
+B	Republican Party of Australia	"BUCKLEY, Brian"	19
+	Australian Bill of Rights Group	"BAILEY, David"	20
+C	Natural Law Party	"AYYAR, Kris"	1
+		"PRICE, John"	2
+D	Australian Greens	"JONES, Angela"	13
+		"MAHONEY, Desiree"	14
+		"CONNORS, Libby"	15
+E	"Unendorsed - Jones, John Lee"	"JONES, John Lee"	21
+		"JONES, Lee James"	22
+F	"Unendorsed - Young, Phillip James"	"YOUNG, Phillip James"	23
+		"LADLOW, Harvie William"	24
+G	"Unendorsed - Freemarijuana, J"	"FREEMARIJUANA, J."	25
+		"KNEIPP, Tony"	26
+H	"Unendorsed - McNiven, Ian"	"McNIVEN, Ian"	27
+		"SMYTH, Ray"	28
+		"MARKS, Robert J."	29
+I	Liberal	"MACDONALD, Ian"	7
+		"HERRON, John"	8
+		"KEMBER, Debbie"	9
+J	Call to Australia (Fred Nile) Group	"COOK, Harry"	30
+		"COOK, Nan"	31
+K	Australian Women's Party	"KELLY, Mary"	16
+		"YUILLE, Lizbeth"	17
+		"HUGHEY, Jenny"	18
+L	Australian Shooters Party	"SALISBURY, Peter Robert"	47
+		"ISON, Bill"	48
+M	"Unendorsed - Hetherington, Maurice V."	"HETHERINGTON, Maurice V."	32
+		"RUSSELL, Ross Herbert"	33
+N	Australian Democrats	"KERNOT, Cheryl"	3
+		"WALTERS, Tony"	4
+		"COLLINS, Peter J."	5
+		"REED, Annette Kim"	6
+O	Australians Against Further Immigration	"MAYNE, Cynthia Dianne"	34
+		"MINOGUE, John Gerard"	35
+P	One Australia Party	"JEWELL, Perry J. B."	36
+		"GRAYSON, Michael William"	37
+Q	National Party	"BOSWELL, Ron"	38
+		"COBB, Teresa M."	39
+		"CRANWELL, Terry Ann"	40
+R	A.I.P.P.	"WATSON, Sam"	41
+		"TYSON, Netta"	42
+UG	Independent	"Mac NEVIN, Michelle"	43
+UG	Independent	"LETH, Chris"	44
+UG	Independent	"HOWSE, David Gordon"	45
+UG	Independent	"McKAY, Ross"	46
+
+
+Australian Greens				
+			Preferences	
+Ticket	Party/Group Name	Candidate Name	Ticket # 1 	Ticket # 2
+A	Australian Labor Party (ALP)	"HOGG, John"	23	23
+		"GIBBS, Brenda"	22	22
+		"CALLAGHAN, Bernadette"	21	21
+B	Republican Party of Australia	"BUCKLEY, Brian"	9	9
+	Australian Bill of Rights Group	"BAILEY, David"	10	10
+C	Natural Law Party	"AYYAR, Kris"	19	19
+		"PRICE, John"	20	20
+D	Australian Greens	"JONES, Angela"	1	1
+		"MAHONEY, Desiree"	2	2
+		"CONNORS, Libby"	3	3
+E	"Unendorsed - Jones, John Lee"	"JONES, John Lee"	13	13
+		"JONES, Lee James"	14	14
+F	"Unendorsed - Young, Phillip James"	"YOUNG, Phillip James"	41	41
+		"LADLOW, Harvie William"	42	42
+G	"Unendorsed - Freemarijuana, J"	"FREEMARIJUANA, J."	11	11
+		"KNEIPP, Tony"	12	12
+H	"Unendorsed - McNiven, Ian"	"McNIVEN, Ian"	38	38
+		"SMYTH, Ray"	39	39
+		"MARKS, Robert J."	40	40
+I	Liberal	"MACDONALD, Ian"	26	26
+		"HERRON, John"	27	27
+		"KEMBER, Debbie"	28	28
+J	Call to Australia (Fred Nile) Group	"COOK, Harry"	45	43
+		"COOK, Nan"	46	44
+K	Australian Women's Party	"KELLY, Mary"	6	6
+		"YUILLE, Lizbeth"	7	7
+		"HUGHEY, Jenny"	8	8
+L	Australian Shooters Party	"SALISBURY, Peter Robert"	43	45
+		"ISON, Bill"	44	46
+M	"Unendorsed - Hetherington, Maurice V."	"HETHERINGTON, Maurice V."	47	47
+		"RUSSELL, Ross Herbert"	48	48
+N	Australian Democrats	"KERNOT, Cheryl"	15	15
+		"WALTERS, Tony"	16	16
+		"COLLINS, Peter J."	17	17
+		"REED, Annette Kim"	18	18
+O	Australians Against Further Immigration	"MAYNE, Cynthia Dianne"	24	24
+		"MINOGUE, John Gerard"	25	25
+P	One Australia Party	"JEWELL, Perry J. B."	32	32
+		"GRAYSON, Michael William"	33	33
+Q	National Party	"BOSWELL, Ron"	29	29
+		"COBB, Teresa M."	30	30
+		"CRANWELL, Terry Ann"	31	31
+R	A.I.P.P.	"WATSON, Sam"	4	4
+		"TYSON, Netta"	5	5
+UG	Independent	"Mac NEVIN, Michelle"	36	34
+UG	Independent	"LETH, Chris"	34	37
+UG	Independent	"HOWSE, David Gordon"	35	36
+UG	Independent	"McKAY, Ross"	37	35
+
+
+"Unendorsed - Jones, John Lee"				
+			Preferences	
+Ticket	Party/Group Name	Candidate Name	Ticket # 1	Ticket # 2
+A	Australian Labor Party (ALP)	"HOGG, John"	42	46
+		"GIBBS, Brenda"	43	47
+		"CALLAGHAN, Bernadette"	44	48
+B	Republican Party of Australia	"BUCKLEY, Brian"	37	39
+	Australian Bill of Rights Group	"BAILEY, David"	38	40
+C	Natural Law Party	"AYYAR, Kris"	35	37
+		"PRICE, John"	36	38
+D	Australian Greens	"JONES, Angela"	5	12
+		"MAHONEY, Desiree"	6	13
+		"CONNORS, Libby"	7	14
+E	"Unendorsed - Jones, John Lee"	"JONES, John Lee"	1	1
+		"JONES, Lee James"	2	2
+F	"Unendorsed - Young, Phillip James"	"YOUNG, Phillip James"	33	19
+		"LADLOW, Harvie William"	34	20
+G	"Unendorsed - Freemarijuana, J"	"FREEMARIJUANA, J."	31	35
+		"KNEIPP, Tony"	32	36
+H	"Unendorsed - McNiven, Ian"	"McNIVEN, Ian"	39	43
+		"SMYTH, Ray"	40	44
+		"MARKS, Robert J."	41	45
+I	Liberal	"MACDONALD, Ian"	28	30
+		"HERRON, John"	29	31
+		"KEMBER, Debbie"	30	32
+J	Call to Australia (Fred Nile) Group	"COOK, Harry"	26	41
+		"COOK, Nan"	27	42
+K	Australian Women's Party	"KELLY, Mary"	12	9
+		"YUILLE, Lizbeth"	13	10
+		"HUGHEY, Jenny"	14	11
+L	Australian Shooters Party	"SALISBURY, Peter Robert"	8	7
+		"ISON, Bill"	9	8
+M	"Unendorsed - Hetherington, Maurice V."	"HETHERINGTON, Maurice V."	10	5
+		"RUSSELL, Ross Herbert"	11	6
+N	Australian Democrats	"KERNOT, Cheryl"	15	15
+		"WALTERS, Tony"	16	16
+		"COLLINS, Peter J."	17	17
+		"REED, Annette Kim"	18	18
+O	Australians Against Further Immigration	"MAYNE, Cynthia Dianne"	19	33
+		"MINOGUE, John Gerard"	20	34
+P	One Australia Party	"JEWELL, Perry J. B."	21	28
+		"GRAYSON, Michael William"	22	29
+Q	National Party	"BOSWELL, Ron"	23	25
+		"COBB, Teresa M."	24	26
+		"CRANWELL, Terry Ann"	25	27
+R	A.I.P.P.	"WATSON, Sam"	3	3
+		"TYSON, Netta"	4	4
+UG	Independent	"Mac NEVIN, Michelle"	45	21
+UG	Independent	"LETH, Chris"	46	22
+UG	Independent	"HOWSE, David Gordon"	47	23
+UG	Independent	"McKAY, Ross"	48	24
+
+
+"Unendorsed - Young, Phillip James"				
+			Preferences	
+Ticket	Party/Group Name	Candidate Name	Ticket # 1	Ticket # 2
+A	Australian Labor Party (ALP)	"HOGG, John"	43	44
+		"GIBBS, Brenda"	42	42
+		"CALLAGHAN, Bernadette"	41	35
+B	Republican Party of Australia	"BUCKLEY, Brian"	31	37
+	Australian Bill of Rights Group	"BAILEY, David"	30	33
+C	Natural Law Party	"AYYAR, Kris"	29	45
+		"PRICE, John"	28	39
+D	Australian Greens	"JONES, Angela"	34	46
+		"MAHONEY, Desiree"	35	36
+		"CONNORS, Libby"	36	34
+E	"Unendorsed - Jones, John Lee"	"JONES, John Lee"	33	32
+		"JONES, Lee James"	32	31
+F	"Unendorsed - Young, Phillip James"	"YOUNG, Phillip James"	1	1
+		"LADLOW, Harvie William"	2	2
+G	"Unendorsed - Freemarijuana, J"	"FREEMARIJUANA, J."	45	41
+		"KNEIPP, Tony"	44	40
+H	"Unendorsed - McNiven, Ian"	"McNIVEN, Ian"	11	7
+		"SMYTH, Ray"	12	8
+		"MARKS, Robert J."	13	9
+I	Liberal	"MACDONALD, Ian"	9	15
+		"HERRON, John"	4	6
+		"KEMBER, Debbie"	10	14
+J	Call to Australia (Fred Nile) Group	"COOK, Harry"	5	4
+		"COOK, Nan"	6	5
+K	Australian Women's Party	"KELLY, Mary"	48	47
+		"YUILLE, Lizbeth"	47	25
+		"HUGHEY, Jenny"	46	26
+L	Australian Shooters Party	"SALISBURY, Peter Robert"	14	10
+		"ISON, Bill"	16	11
+M	"Unendorsed - Hetherington, Maurice V."	"HETHERINGTON, Maurice V."	18	17
+		"RUSSELL, Ross Herbert"	19	16
+N	Australian Democrats	"KERNOT, Cheryl"	40	48
+		"WALTERS, Tony"	39	43
+		"COLLINS, Peter J."	38	38
+		"REED, Annette Kim"	37	22
+O	Australians Against Further Immigration	"MAYNE, Cynthia Dianne"	26	21
+		"MINOGUE, John Gerard"	27	20
+P	One Australia Party	"JEWELL, Perry J. B."	15	18
+		"GRAYSON, Michael William"	17	19
+Q	National Party	"BOSWELL, Ron"	3	3
+		"COBB, Teresa M."	7	12
+		"CRANWELL, Terry Ann"	8	13
+R	A.I.P.P.	"WATSON, Sam"	24	23
+		"TYSON, Netta"	25	24
+UG	Independent	"Mac NEVIN, Michelle"	23	27
+UG	Independent	"LETH, Chris"	22	28
+UG	Independent	"HOWSE, David Gordon"	21	29
+UG	Independent	"McKAY, Ross"	20	30
+
+
+"Unendorsed - Freemarijuana, J"			
+Ticket	Party/Group Name	Candidate Name	Preferences
+A	Australian Labor Party (ALP)	"HOGG, John"	17
+		"GIBBS, Brenda"	18
+		"CALLAGHAN, Bernadette"	19
+B	Republican Party of Australia	"BUCKLEY, Brian"	20
+	Australian Bill of Rights Group	"BAILEY, David"	21
+C	Natural Law Party	"AYYAR, Kris"	22
+		"PRICE, John"	23
+D	Australian Greens	"JONES, Angela"	3
+		"MAHONEY, Desiree"	4
+		"CONNORS, Libby"	5
+E	"Unendorsed - Jones, John Lee"	"JONES, John Lee"	15
+		"JONES, Lee James"	16
+F	"Unendorsed - Young, Phillip James"	"YOUNG, Phillip James"	43
+		"LADLOW, Harvie William"	44
+G	"Unendorsed - Freemarijuana, J"	"FREEMARIJUANA, J."	1
+		"KNEIPP, Tony"	2
+H	"Unendorsed - McNiven, Ian"	"McNIVEN, Ian"	34
+		"SMYTH, Ray"	35
+		"MARKS, Robert J."	36
+I	Liberal	"MACDONALD, Ian"	24
+		"HERRON, John"	25
+		"KEMBER, Debbie"	26
+J	Call to Australia (Fred Nile) Group	"COOK, Harry"	41
+		"COOK, Nan"	42
+K	Australian Women's Party	"KELLY, Mary"	12
+		"YUILLE, Lizbeth"	13
+		"HUGHEY, Jenny"	14
+L	Australian Shooters Party	"SALISBURY, Peter Robert"	32
+		"ISON, Bill"	33
+M	"Unendorsed - Hetherington, Maurice V."	"HETHERINGTON, Maurice V."	37
+		"RUSSELL, Ross Herbert"	38
+N	Australian Democrats	"KERNOT, Cheryl"	6
+		"WALTERS, Tony"	7
+		"COLLINS, Peter J."	8
+		"REED, Annette Kim"	9
+O	Australians Against Further Immigration	"MAYNE, Cynthia Dianne"	30
+		"MINOGUE, John Gerard"	31
+P	One Australia Party	"JEWELL, Perry J. B."	39
+		"GRAYSON, Michael William"	40
+Q	National Party	"BOSWELL, Ron"	27
+		"COBB, Teresa M."	28
+		"CRANWELL, Terry Ann"	29
+R	A.I.P.P.	"WATSON, Sam"	10
+		"TYSON, Netta"	11
+UG	Independent	"Mac NEVIN, Michelle"	45
+UG	Independent	"LETH, Chris"	46
+UG	Independent	"HOWSE, David Gordon"	47		
+UG	Independent	"McKAY, Ross"	48		
+
+
+"Unendorsed - McNiven, Ian"					
+			Preferences		
+Ticket	Party/Group Name	Candidate Name	Ticket # 1	Ticket # 2 	Ticket # 3
+A	Australian Labor Party (ALP)	"HOGG, John"	46	46	46
+		"GIBBS, Brenda"	47	47	47
+		"CALLAGHAN, Bernadette"	48	48	48
+B	Republican Party of Australia	"BUCKLEY, Brian"	28	30	30
+	Australian Bill of Rights Group	"BAILEY, David"	29	31	31
+C	Natural Law Party	"AYYAR, Kris"	30	28	28
+		"PRICE, John"	31	29	29
+D	Australian Greens	"JONES, Angela"	32	34	32
+		"MAHONEY, Desiree"	33	35	33
+		"CONNORS, Libby"	34	36	34
+E	"Unendorsed - Jones, John Lee"	"JONES, John Lee"	22	26	22
+		"JONES, Lee James"	23	27	23
+F	"Unendorsed - Young, Phillip James"	"YOUNG, Phillip James"	11	11	6
+		"LADLOW, Harvie William"	12	12	7
+G	"Unendorsed - Freemarijuana, J"	"FREEMARIJUANA, J."	35	32	35
+		"KNEIPP, Tony"	36	33	36
+H	"Unendorsed - McNiven, Ian"	"McNIVEN, Ian"	1	1	1
+		"SMYTH, Ray"	2	2	2
+		"MARKS, Robert J."	3	3	3
+I	Liberal	"MACDONALD, Ian"	19	23	15
+		"HERRON, John"	20	24	16
+		"KEMBER, Debbie"	21	25	17
+J	Call to Australia (Fred Nile) Group	"COOK, Harry"	7	9	4
+		"COOK, Nan"	8	10	5
+K	Australian Women's Party	"KELLY, Mary"	39	39	37
+		"YUILLE, Lizbeth"	40	40	38
+		"HUGHEY, Jenny"	41	41	39
+L	Australian Shooters Party	"SALISBURY, Peter Robert"	9	4	8
+		"ISON, Bill"	10	5	9
+M	"Unendorsed - Hetherington, Maurice V."	"HETHERINGTON, Maurice V."	17	21	26
+		"RUSSELL, Ross Herbert"	18	22	27
+N	Australian Democrats	"KERNOT, Cheryl"	42	42	42
+		"WALTERS, Tony"	43	43	43
+		"COLLINS, Peter J."	44	44	44
+		"REED, Annette Kim"	45	45	45
+O	Australians Against Further Immigration	"MAYNE, Cynthia Dianne"	13	13	10
+		"MINOGUE, John Gerard"	14	14	11
+P	One Australia Party	"JEWELL, Perry J. B."	15	15	24
+		"GRAYSON, Michael William"	16	16	25
+Q	National Party	"BOSWELL, Ron"	4	6	12
+		"COBB, Teresa M."	5	7	13
+		"CRANWELL, Terry Ann"	6	8	14
+R	A.I.P.P.	"WATSON, Sam"	37	37	40
+		"TYSON, Netta"	38	38	41
+UG	Independent	"Mac NEVIN, Michelle"	24	17	18
+UG	Independent	"LETH, Chris"	25	18	19
+UG	Independent	"HOWSE, David Gordon"	26	19	20
+UG	Independent	"McKAY, Ross"	27	20	21
+
+
+Liberal					
+			Preferences		
+Ticket	Party/Group Name	Candidate Name	Ticket # 1 	Ticket # 2	
+A	Australian Labor Party (ALP)	"HOGG, John"	46	46	
+		"GIBBS, Brenda"	47	47	
+		"CALLAGHAN, Bernadette"	48	48	
+B	Republican Party of Australia	"BUCKLEY, Brian"	32	32	
+	Australian Bill of Rights Group	"BAILEY, David"	33	33
+C	Natural Law Party	"AYYAR, Kris"	30	30
+		"PRICE, John"	31	31
+D	Australian Greens	"JONES, Angela"	39	43
+		"MAHONEY, Desiree"	40	44
+		"CONNORS, Libby"	41	45
+E	"Unendorsed - Jones, John Lee"	"JONES, John Lee"	28	28
+		"JONES, Lee James"	29	29
+F	"Unendorsed - Young, Phillip James"	"YOUNG, Phillip James"	9	9
+		"LADLOW, Harvie William"	10	10
+G	"Unendorsed - Freemarijuana, J"	"FREEMARIJUANA, J."	34	34
+		"KNEIPP, Tony"	35	35
+H	"Unendorsed - McNiven, Ian"	"McNIVEN, Ian"	11	11
+		"SMYTH, Ray"	12	12
+		"MARKS, Robert J."	13	13
+I	Liberal	"MACDONALD, Ian"	1	1
+		"HERRON, John"	2	2
+		"KEMBER, Debbie"	3	3
+J	Call to Australia (Fred Nile) Group	"COOK, Harry"	7	7
+		"COOK, Nan"	8	8
+K	Australian Women's Party	"KELLY, Mary"	36	36
+		"YUILLE, Lizbeth"	37	37
+		"HUGHEY, Jenny"	38	38
+L	Australian Shooters Party	"SALISBURY, Peter Robert"	16	16
+		"ISON, Bill"	17	17
+M	"Unendorsed - Hetherington, Maurice V."	"HETHERINGTON, Maurice V."	20	20
+		"RUSSELL, Ross Herbert"	21	21
+N	Australian Democrats	"KERNOT, Cheryl"	42	39
+		"WALTERS, Tony"	43	40
+		"COLLINS, Peter J."	44	41
+		"REED, Annette Kim"	45	42
+O	Australians Against Further Immigration	"MAYNE, Cynthia Dianne"	18	18
+		"MINOGUE, John Gerard"	19	19
+P	One Australia Party	"JEWELL, Perry J. B."	14	14
+		"GRAYSON, Michael William"	15	15
+Q	National Party	"BOSWELL, Ron"	4	4
+		"COBB, Teresa M."	5	5
+		"CRANWELL, Terry Ann"	6	6
+R	A.I.P.P.	"WATSON, Sam"	22	22
+		"TYSON, Netta"	23	23
+UG	Independent	"Mac NEVIN, Michelle"	24	24
+UG	Independent	"LETH, Chris"	25	25
+UG	Independent	"HOWSE, David Gordon"	26	26
+UG	Independent	"McKAY, Ross"	27	27
+
+
+Call to Australia (Fred Nile) Group				
+			Preferences	
+Ticket	Party/Group Name	Candidate Name	Ticket # 1	Ticket # 2	Ticket # 3
+A	Australian Labor Party (ALP)	"HOGG, John"	30	37	34
+		"GIBBS, Brenda"	31	38	35
+		"CALLAGHAN, Bernadette"	32	39	36
+B	Republican Party of Australia	"BUCKLEY, Brian"	33	30	28
+	Australian Bill of Rights Group	"BAILEY, David"	34	31	29
+C	Natural Law Party	"AYYAR, Kris"	35	32	30
+		"PRICE, John"	36	33	31
+D	Australian Greens	"JONES, Angela"	46	42	46
+		"MAHONEY, Desiree"	47	43	47
+		CONNORS Libby	48	44	48
+E	"Unendorsed - Jones, John Lee"	"JONES, John Lee"	28	26	32
+		"JONES, Lee James"	29	27	33
+F	"Unendorsed - Young, Phillip James"	"YOUNG, Phillip James"	3	4	6
+		"LADLOW, Harvie William"	4	5	7
+G	"Unendorsed - Freemarijuana, J"	"FREEMARIJUANA, J."	37	40	37
+		"KNEIPP, Tony"	38	41	38
+H	"Unendorsed - McNiven, Ian"	"McNIVEN, Ian"	5	6	3
+		"SMYTH, Ray"	6	7	4
+		"MARKS, Robert J."	7	8	5
+I	Liberal	"MACDONALD, Ian"	16	17	17
+		"HERRON, John"	15	18	18
+		KEMBER Debbie	17	19	19
+J	Call to Australia (Fred Nile) Group	COOK Harry	1	1	1
+		COOK  Nan	2	2	2
+K	Australian Women's Party	"KELLY, Mary"	39	34	39
+		"YUILLE, Lizbeth"	40	35	40
+		"HUGHEY, Jenny"	41	36	41
+L	Australian Shooters Party	"SALISBURY, Peter Robert"	13	13	11
+		"ISON, Bill"	14	14	12
+M	"Unendorsed - Hetherington, Maurice V."	"HETHERINGTON, Maurice V."	9	9	13
+		"RUSSELL, Ross Herbert"	10	10	14
+N	Australian Democrats	"KERNOT, Cheryl"	42	45	42
+		"WALTERS, Tony"	43	46	43
+		"COLLINS, Peter J."	44	47	44
+		"REED, Annette Kim"	45	48	45
+O	Australians Against Further Immigration	"MAYNE, Cynthia Dianne"	18	28	20
+		"MINOGUE, John Gerard"	19	29	21
+P	One Australia Party	"JEWELL, Perry J. B."	20	15	15
+		"GRAYSON, Michael William"	21	16	16
+Q	National Party	"BOSWELL, Ron"	8	3	8
+		"COBB, Teresa M."	11	11	9
+		"CRANWELL, Terry Ann"	12	12	10
+R	A.I.P.P.	"WATSON, Sam"	22	24	22
+		"TYSON, Netta"	23	25	23
+UG	Independent	"Mac NEVIN, Michelle"	24	20	24
+UG	Independent	"LETH, Chris"	25	21	25
+UG	Independent	"HOWSE, David Gordon"	26	22	26
+UG	Independent	"McKAY, Ross"	27	23	27
+
+
+Australian Women's Party					
+Ticket	Party/Group Name	Candidate Name	Preferences		
+A	Australian Labor Party (ALP)	"HOGG, John"	19		
+		"GIBBS, Brenda"	20		
+		"CALLAGHAN, Bernadette"	21		
+B	Republican Party of Australia	"BUCKLEY, Brian"	13		
+	Australian Bill of Rights Group	"BAILEY, David"	14		
+C	Natural Law Party	"AYYAR, Kris"	15		
+		"PRICE, John"	16		
+D	Australian Greens	"JONES, Angela"	4		
+		"MAHONEY, Desiree"	5		
+		"CONNORS, Libby"	6		
+E	"Unendorsed - Jones, John Lee"	"JONES, John Lee"	32		
+		"JONES, Lee James"	33
+F	"Unendorsed - Young, Phillip James"	"YOUNG, Phillip James"	34
+		"LADLOW, Harvie William"	35
+G	"Unendorsed - Freemarijuana, J"	"FREEMARIJUANA, J."	17
+		"KNEIPP, Tony"	18
+H	"Unendorsed - McNiven, Ian"	"McNIVEN, Ian"	44
+		"SMYTH, Ray"	45
+		"MARKS, Robert J."	46
+I	Liberal	"MACDONALD, Ian"	22
+		"HERRON, John"	23
+		"KEMBER, Debbie"	24
+J	Call to Australia (Fred Nile) Group	"COOK, Harry"	42
+		"COOK, Nan"	43
+K	Australian Women's Party	"KELLY, Mary"	1
+		"YUILLE, Lizbeth"	2
+		"HUGHEY, Jenny"	3
+L	Australian Shooters Party	"SALISBURY, Peter Robert"	47
+		"ISON, Bill"	48
+M	"Unendorsed - Hetherington, Maurice V."	"HETHERINGTON, Maurice V."	36
+		"RUSSELL, Ross Herbert"	37
+N	Australian Democrats	"KERNOT, Cheryl"	7
+		"WALTERS, Tony"	8
+		"COLLINS, Peter J."	9
+		"REED, Annette Kim"	10
+O	Australians Against Further Immigration	"MAYNE, Cynthia Dianne"	40
+		"MINOGUE, John Gerard"	41
+P	One Australia Party	"JEWELL, Perry J. B."	38
+		"GRAYSON, Michael William"	39
+Q	National Party	"BOSWELL, Ron"	25
+		"COBB, Teresa M."	26
+		"CRANWELL, Terry Ann"	27
+R	A.I.P.P.	"WATSON, Sam"	11
+		"TYSON, Netta"	12
+UG	Independent	"Mac NEVIN, Michelle"	28
+UG	Independent	"LETH, Chris"	29
+UG	Independent	"HOWSE, David Gordon"	30
+UG	Independent	"McKAY, Ross"	31
+
+
+Australian Shooters Party			
+Ticket	Party/Group Name	Candidate Name	Preferences
+A	Australian Labor Party (ALP)	"HOGG, John"	41
+		"GIBBS, Brenda"	40
+		"CALLAGHAN, Bernadette"	39
+B	Republican Party of Australia	"BUCKLEY, Brian"	35
+	Australian Bill of Rights Group	"BAILEY, David"	34
+C	Natural Law Party	"AYYAR, Kris"	17
+		"PRICE, John"	18
+D	Australian Greens	"JONES, Angela"	48
+		"MAHONEY, Desiree"	47
+		"CONNORS, Libby"	46
+E	"Unendorsed - Jones, John Lee"	"JONES, John Lee"	7
+		"JONES, Lee James"	8
+F	"Unendorsed - Young, Phillip James"	"YOUNG, Phillip James"	15
+		"LADLOW, Harvie William"	16
+G	"Unendorsed - Freemarijuana, J"	"FREEMARIJUANA, J."	29
+		"KNEIPP, Tony"	28
+H	"Unendorsed - McNiven, Ian"	"McNIVEN, Ian"	27
+		"SMYTH, Ray"	26
+		"MARKS, Robert J."	25
+I	Liberal	"MACDONALD, Ian"	12
+		"HERRON, John"	13
+		"KEMBER, Debbie"	14
+J	Call to Australia (Fred Nile) Group	"COOK, Harry"	5
+		"COOK, Nan"	6
+K	Australian Women's Party	"KELLY, Mary"	38
+		"YUILLE, Lizbeth"	37
+		"HUGHEY, Jenny"	36
+L	Australian Shooters Party	"SALISBURY, Peter Robert"	1
+		"ISON, Bill"	2
+M	"Unendorsed - Hetherington, Maurice V."	"HETHERINGTON, Maurice V."	20
+		"RUSSELL, Ross Herbert"	19
+N	Australian Democrats	"KERNOT, Cheryl"	45
+		"WALTERS, Tony"	44
+		"COLLINS, Peter J."	43
+		"REED, Annette Kim"	42
+O	Australians Against Further Immigration	"MAYNE, Cynthia Dianne"	3
+		"MINOGUE, John Gerard"	4
+P	One Australia Party	"JEWELL, Perry J. B."	33
+		"GRAYSON, Michael William"	32
+Q	National Party	"BOSWELL, Ron"	9
+		"COBB, Teresa M."	10
+		"CRANWELL, Terry Ann"	11
+R	A.I.P.P.	"WATSON, Sam"	31
+		"TYSON, Netta"	30
+UG	Independent	"Mac NEVIN, Michelle"	24
+UG	Independent	"LETH, Chris"	23
+UG	Independent	"HOWSE, David Gordon"	22
+UG	Independent	"McKAY, Ross"	21
+
+
+"Unendorsed - Hetherington, Maurice V."			
+Ticket	Party/Group Name	Candidate Name	Preferences
+A	Australian Labor Party (ALP)	"HOGG, John"	27
+		"GIBBS, Brenda"	28
+		"CALLAGHAN, Bernadette"	29
+B	Republican Party of Australia	"BUCKLEY, Brian"	25
+	Australian Bill of Rights Group	"BAILEY, David"	26
+C	Natural Law Party	"AYYAR, Kris"	30
+		"PRICE, John"	31
+D	Australian Greens	"JONES, Angela"	44
+		"MAHONEY, Desiree"	45
+		"CONNORS, Libby"	46
+E	"Unendorsed - Jones, John Lee"	"JONES, John Lee"	32
+		"JONES, Lee James"	33
+F	"Unendorsed - Young, Phillip James"	"YOUNG, Phillip James"	34
+		"LADLOW, Harvie William"	35
+G	"Unendorsed - Freemarijuana, J"	"FREEMARIJUANA, J."	47
+		"KNEIPP, Tony"	48
+H	"Unendorsed - McNiven, Ian"	"McNIVEN, Ian"	36
+		"SMYTH, Ray"	37
+		"MARKS, Robert J."	38
+I	Liberal	"MACDONALD, Ian"	12
+		"HERRON, John"	13
+		"KEMBER, Debbie"	14
+J	Call to Australia (Fred Nile) Group	"COOK, Harry"	3
+		"COOK, Nan"	4
+K	Australian Women's Party	"KELLY, Mary"	41
+		"YUILLE, Lizbeth"	42
+		"HUGHEY, Jenny"	43
+L	Australian Shooters Party	"SALISBURY, Peter Robert"	19
+		"ISON, Bill"	20
+M	"Unendorsed - Hetherington, Maurice V."	"HETHERINGTON, Maurice V."	1
+		"RUSSELL, Ross Herbert"	2
+N	Australian Democrats	"KERNOT, Cheryl"	21
+		"WALTERS, Tony"	22
+		"COLLINS, Peter J."	23
+		"REED, Annette Kim"	24
+O	Australians Against Further Immigration	"MAYNE, Cynthia Dianne"	15
+		"MINOGUE, John Gerard"	16
+P	One Australia Party	"JEWELL, Perry J. B."	17
+		"GRAYSON, Michael William"	18
+Q	National Party	"BOSWELL, Ron"	5
+		"COBB, Teresa M."	6
+		"CRANWELL, Terry Ann"	7
+R	A.I.P.P.	"WATSON, Sam"	39
+		"TYSON, Netta"	40
+UG	Independent	"Mac NEVIN, Michelle"	8
+UG	Independent	"LETH, Chris"	9
+UG	Independent	"HOWSE, David Gordon"	10
+UG	Independent	"McKAY, Ross"	11
+
+
+Australian Democrats			
+			Preferences	
+Ticket	Party/Group Name	Candidate Name	Ticket # 1	Ticket # 2
+A	Australian Labor Party (ALP)	"HOGG, John"	48	21
+		"GIBBS, Brenda"	47	20
+		"CALLAGHAN, Bernadette"	46	19
+B	Republican Party of Australia	"BUCKLEY, Brian"	44	22
+	Australian Bill of Rights Group	"BAILEY, David"	45	23
+C	Natural Law Party	"AYYAR, Kris"	5	5
+		"PRICE, John"	6	6
+D	Australian Greens	"JONES, Angela"	9	9
+		"MAHONEY, Desiree"	10	10
+		"CONNORS, Libby"	11	11
+E	"Unendorsed - Jones, John Lee"	"JONES, John Lee"	17	17
+		"JONES, Lee James"	18	18
+F	"Unendorsed - Young, Phillip James"	"YOUNG, Phillip James"	42	24
+		"LADLOW, Harvie William"	43	25
+G	"Unendorsed - Freemarijuana, J"	"FREEMARIJUANA, J."	15	15
+		"KNEIPP, Tony"	16	16
+H	"Unendorsed - McNiven, Ian"	"McNIVEN, Ian"	39	26
+		"SMYTH, Ray"	40	27
+		"MARKS, Robert J."	41	28
+I	Liberal	"MACDONALD, Ian"	26	31
+		"HERRON, John"	25	30
+		"KEMBER, Debbie"	24	29
+J	Call to Australia (Fred Nile) Group	"COOK, Harry"	38	33
+		"COOK, Nan"	37	32
+K	Australian Women's Party	"KELLY, Mary"	12	12
+		"YUILLE, Lizbeth"	13	13
+		"HUGHEY, Jenny"	14	14
+L	Australian Shooters Party	"SALISBURY, Peter Robert"	19	34
+		"ISON, Bill"	20	35
+M	"Unendorsed - Hetherington, Maurice V."	"HETHERINGTON, Maurice V."	35	36
+		"RUSSELL, Ross Herbert"	36	37
+N	Australian Democrats	"KERNOT, Cheryl"	1	1
+		"WALTERS, Tony"	2	2
+		"COLLINS, Peter J."	3	3
+		"REED, Annette Kim"	4	4
+O	Australians Against Further Immigration	"MAYNE, Cynthia Dianne"	33	38
+		"MINOGUE, John Gerard"	34	39
+P	One Australia Party	"JEWELL, Perry J. B."	31	40
+		"GRAYSON, Michael William"	32	41
+Q	National Party	"BOSWELL, Ron"	23	44
+		"COBB, Teresa M."	21	42
+		"CRANWELL, Terry Ann"	22	43
+R	A.I.P.P.	"WATSON, Sam"	8	8
+		"TYSON, Netta"	7	7
+UG	Independent	"Mac NEVIN, Michelle"	27	45
+UG	Independent	"LETH, Chris"	28	46
+UG	Independent	"HOWSE, David Gordon"	29	47
+UG	Independent	"McKAY, Ross"	30	48
+
+
+Australians Against Further Immigration				
+Ticket	Party/Group Name	Candidate Name	Preferences	
+A	Australian Labor Party (ALP)	"HOGG, John"	46	
+		"GIBBS, Brenda"	44	
+		"CALLAGHAN, Bernadette"	42	
+B	Republican Party of Australia	"BUCKLEY, Brian"	36	
+	Australian Bill of Rights Group	"BAILEY, David"	37	
+C	Natural Law Party	"AYYAR, Kris"	23	
+		"PRICE, John"	24	
+D	Australian Greens	"JONES, Angela"	7	
+		"MAHONEY, Desiree"	8	
+		"CONNORS, Libby"	9	
+E	"Unendorsed - Jones, John Lee"	"JONES, John Lee"	21
+		"JONES, Lee James"	22
+F	"Unendorsed - Young, Phillip James"	"YOUNG, Phillip James"	5
+		"LADLOW, Harvie William"	6
+G	"Unendorsed - Freemarijuana, J"	"FREEMARIJUANA, J."	48
+		"KNEIPP, Tony"	47
+H	"Unendorsed - McNiven, Ian"	"McNIVEN, Ian"	18
+		"SMYTH, Ray"	19
+		"MARKS, Robert J."	20
+I	Liberal	"MACDONALD, Ian"	45
+		"HERRON, John"	43
+		"KEMBER, Debbie"	41
+J	Call to Australia (Fred Nile) Group	"COOK, Harry"	16
+		"COOK, Nan"	17
+K	Australian Women's Party	"KELLY, Mary"	38
+		"YUILLE, Lizbeth"	39
+		"HUGHEY, Jenny"	40
+L	Australian Shooters Party	"SALISBURY, Peter Robert"	3
+		"ISON, Bill"	4
+M	"Unendorsed - Hetherington, Maurice V."	"HETHERINGTON, Maurice V."	34
+		"RUSSELL, Ross Herbert"	35
+N	Australian Democrats	"KERNOT, Cheryl"	10
+		"WALTERS, Tony"	11
+		"COLLINS, Peter J."	12
+		"REED, Annette Kim"	13
+O	Australians Against Further Immigration	"MAYNE, Cynthia Dianne"	1
+		"MINOGUE, John Gerard"	2
+P	One Australia Party	"JEWELL, Perry J. B."	29
+		"GRAYSON, Michael William"	30
+Q	National Party	"BOSWELL, Ron"	33
+		"COBB, Teresa M."	31
+		"CRANWELL, Terry Ann"	32
+R	A.I.P.P.	"WATSON, Sam"	14
+		"TYSON, Netta"	15
+UG	Independent	"Mac NEVIN, Michelle"	25
+UG	Independent	"LETH, Chris"	26
+UG	Independent	"HOWSE, David Gordon"	27
+UG	Independent	"McKAY, Ross"	28
+
+
+One Australia Party			
+Ticket	Party/Group Name	Candidate Name	Preferences
+A	Australian Labor Party (ALP)	"HOGG, John"	46
+		"GIBBS, Brenda"	47
+		"CALLAGHAN, Bernadette"	48
+B	Republican Party of Australia	"BUCKLEY, Brian"	22
+	Australian Bill of Rights Group	"BAILEY, David"	23
+C	Natural Law Party	"AYYAR, Kris"	24
+		"PRICE, John"	25
+D	Australian Greens	"JONES, Angela"	15
+		"MAHONEY, Desiree"	16
+		"CONNORS, Libby"	17
+E	"Unendorsed - Jones, John Lee"	"JONES, John Lee"	26
+		"JONES, Lee James"	27
+F	"Unendorsed - Young, Phillip James"	"YOUNG, Phillip James"	28
+		"LADLOW, Harvie William"	29
+G	"Unendorsed - Freemarijuana, J"	"FREEMARIJUANA, J."	30
+		"KNEIPP, Tony"	31
+H	"Unendorsed - McNiven, Ian"	"McNIVEN, Ian"	32
+		"SMYTH, Ray"	33
+		"MARKS, Robert J."	34
+I	Liberal	"MACDONALD, Ian"	10
+		"HERRON, John"	11
+		"KEMBER, Debbie"	12
+J	Call to Australia (Fred Nile) Group	"COOK, Harry"	3
+		"COOK, Nan"	4
+K	Australian Women's Party	"KELLY, Mary"	41
+		"YUILLE, Lizbeth"	42
+		"HUGHEY, Jenny"	43
+L	Australian Shooters Party	"SALISBURY, Peter Robert"	13
+		"ISON, Bill"	14
+M	"Unendorsed - Hetherington, Maurice V."	"HETHERINGTON, Maurice V."	44
+		"RUSSELL, Ross Herbert"	45
+N	Australian Democrats	"KERNOT, Cheryl"	18
+		"WALTERS, Tony"	19
+		"COLLINS, Peter J."	20
+		"REED, Annette Kim"	21
+O	Australians Against Further Immigration	"MAYNE, Cynthia Dianne"	8
+		"MINOGUE, John Gerard"	9
+P	One Australia Party	"JEWELL, Perry J. B."	1
+		"GRAYSON, Michael William"	2
+Q	National Party	"BOSWELL, Ron"	5
+		"COBB, Teresa M."	6
+		"CRANWELL, Terry Ann"	7
+R	A.I.P.P.	"WATSON, Sam"	35
+		"TYSON, Netta"	36
+UG	Independent	"Mac NEVIN, Michelle"	37
+UG	Independent	"LETH, Chris"	38
+UG	Independent	"HOWSE, David Gordon"	39
+UG	Independent	"McKAY, Ross"	40
+
+
+National Party			
+Ticket	Party/Group Name	Candidate Name	Preferences
+A	Australian Labor Party (ALP)	"HOGG, John"	46
+		"GIBBS, Brenda"	47
+		"CALLAGHAN, Bernadette"	48
+B	Republican Party of Australia	"BUCKLEY, Brian"	38
+	Australian Bill of Rights Group	"BAILEY, David"	39
+C	Natural Law Party	"AYYAR, Kris"	42
+		"PRICE, John"	43
+D	Australian Greens	"JONES, Angela"	26
+		"MAHONEY, Desiree"	27
+		"CONNORS, Libby"	28
+E	"Unendorsed - Jones, John Lee"	"JONES, John Lee"	40
+		"JONES, Lee James"	41
+F	"Unendorsed - Young, Phillip James"	"YOUNG, Phillip James"	13
+		"LADLOW, Harvie William"	14
+G	"Unendorsed - Freemarijuana, J"	"FREEMARIJUANA, J."	44
+		"KNEIPP, Tony"	45
+H	"Unendorsed - McNiven, Ian"	"McNIVEN, Ian"	19
+		"SMYTH, Ray"	20
+		"MARKS, Robert J."	21
+I	Liberal	"MACDONALD, Ian"	4
+		"HERRON, John"	5
+		"KEMBER, Debbie"	6
+J	Call to Australia (Fred Nile) Group	"COOK, Harry"	7
+		"COOK, Nan"	8
+K	Australian Women's Party	"KELLY, Mary"	31
+		"YUILLE, Lizbeth"	32
+		"HUGHEY, Jenny"	33
+L	Australian Shooters Party	"SALISBURY, Peter Robert"	9
+		"ISON, Bill"	10
+M	"Unendorsed - Hetherington, Maurice V."	"HETHERINGTON, Maurice V."	11
+		"RUSSELL, Ross Herbert"	12
+N	Australian Democrats	"KERNOT, Cheryl"	22
+		"WALTERS, Tony"	23
+		"COLLINS, Peter J."	24
+		"REED, Annette Kim"	25
+O	Australians Against Further Immigration	"MAYNE, Cynthia Dianne"	29
+		"MINOGUE, John Gerard"	30
+P	One Australia Party	"JEWELL, Perry J. B."	15
+		"GRAYSON, Michael William"	16
+Q	National Party	"BOSWELL, Ron"	1
+		"COBB, Teresa M."	2
+		"CRANWELL, Terry Ann"	3
+R	A.I.P.P.	"WATSON, Sam"	17
+		"TYSON, Netta"	18
+UG	Independent	"Mac NEVIN, Michelle"	34
+UG	Independent	"LETH, Chris"	35
+UG	Independent	"HOWSE, David Gordon"	36
+UG	Independent	"McKAY, Ross"	37
+
+
+A.I.P.P.			
+Ticket	Party/Group Name	Candidate Name	Preferences
+A	Australian Labor Party (ALP)	"HOGG, John"	15
+		"GIBBS, Brenda"	16
+		"CALLAGHAN, Bernadette"	17
+B	Republican Party of Australia	"BUCKLEY, Brian"	20
+	Australian Bill of Rights Group	"BAILEY, David"	21
+C	Natural Law Party	"AYYAR, Kris"	31
+		"PRICE, John"	32
+D	Australian Greens	"JONES, Angela"	3
+		"MAHONEY, Desiree"	4
+		"CONNORS, Libby"	5
+E	"Unendorsed - Jones, John Lee"	"JONES, John Lee"	13
+		"JONES, Lee James"	14
+F	"Unendorsed - Young, Phillip James"	"YOUNG, Phillip James"	22
+		"LADLOW, Harvie William"	23
+G	"Unendorsed - Freemarijuana, J"	"FREEMARIJUANA, J."	18
+		"KNEIPP, Tony"	19
+H	"Unendorsed - McNiven, Ian"	"McNIVEN, Ian"	24
+		"SMYTH, Ray"	25
+		"MARKS, Robert J."	26
+I	Liberal	"MACDONALD, Ian"	33
+		"HERRON, John"	34
+		"KEMBER, Debbie"	35
+J	Call to Australia (Fred Nile) Group	"COOK, Harry"	40
+		"COOK, Nan"	41
+K	Australian Women's Party	"KELLY, Mary"	6
+		"YUILLE, Lizbeth"	7
+		"HUGHEY, Jenny"	8
+L	Australian Shooters Party	"SALISBURY, Peter Robert"	36
+		"ISON, Bill"	37
+M	"Unendorsed - Hetherington, Maurice V."	"HETHERINGTON, Maurice V."	38
+		"RUSSELL, Ross Herbert"	39
+N	Australian Democrats	"KERNOT, Cheryl"	9
+		"WALTERS, Tony"	10
+		"COLLINS, Peter J."	11
+		"REED, Annette Kim"	12
+O	Australians Against Further Immigration	"MAYNE, Cynthia Dianne"	42
+		"MINOGUE, John Gerard"	43
+P	One Australia Party	"JEWELL, Perry J. B."	44
+		"GRAYSON, Michael William"	45
+Q	National Party	"BOSWELL, Ron"	46
+		"COBB, Teresa M."	47
+		"CRANWELL, Terry Ann"	48
+R	A.I.P.P.	"WATSON, Sam"	1
+		"TYSON, Netta"	2
+UG	Independent	"Mac NEVIN, Michelle"	27
+UG	Independent	"LETH, Chris"	28
+UG	Independent	"HOWSE, David Gordon"	29
+UG	Independent	"McKAY, Ross"	30

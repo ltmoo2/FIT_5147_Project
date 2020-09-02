@@ -1,0 +1,293 @@
+House of Representatives - 2001 Election: Victoria														
+Two Candidate Preferred Preference Flow Result														
+By Polling Place														
+Chisholm (86680)														
+		Candidate		                  	"CLOWES, Ros"		                	"BURKE, Anna"		                			Total	
+				                           	LP		                         	ALP		                        				
+				                           	Votes	%	                     	Votes	%	                     				
+	Ashwood													
+			1st Prefs		1476	47.80		1612	52.20				3088	
+		"BENNETT, James (DEM)"	233		74	31.76		159	68.24				233	
+		"MURRAY, John (NGST)"	60		26	43.33		34	56.67				60	
+		"TANKEY, Howard (GRN)"	232		42	18.10		190	81.90				232	
+		Total	525		1618	44.78		1995	55.22				3613	
+
+	Bennettswood													
+			1st Prefs		1179	47.44		1306	52.56				2485	
+		"BENNETT, James (DEM)"	136		43	31.62		93	68.38				136
+		"MURRAY, John (NGST)"	37		16	43.24		21	56.76				37
+		"TANKEY, Howard (GRN)"	128		30	23.44		98	76.56				128
+		Total	301		1268	45.51		1518	54.49				2786
+
+	Box Hill												
+			1st Prefs		701	43.17		923	56.83				1624
+		"BENNETT, James (DEM)"	134		35	26.12		99	73.88				134
+		"MURRAY, John (NGST)"	13		8	61.54		5	38.46				13
+		"TANKEY, Howard (GRN)"	174		38	21.84		136	78.16				174
+		Total	321		782	40.21		1163	59.79				1945
+
+	Box Hill Central												
+			1st Prefs		582	44.12		737	55.88				1319
+		"BENNETT, James (DEM)"	94		23	24.47		71	75.53				94
+		"MURRAY, John (NGST)"	7		0	0.00		7	100.00				7
+		"TANKEY, Howard (GRN)"	123		20	16.26		103	83.74				123
+		Total	224		625	40.51		918	59.49				1543
+
+	Box Hill North												
+			1st Prefs		537	47.35		597	52.65				1134
+		"BENNETT, James (DEM)"	83		16	19.28		67	80.72				83
+		"MURRAY, John (NGST)"	8		4	50.00		4	50.00				8
+		"TANKEY, Howard (GRN)"	99		17	17.17		82	82.83				99
+		Total	190		574	43.35		750	56.65				1324
+
+	Box Hill South												
+			1st Prefs		696	47.03		784	52.97				1480
+		"BENNETT, James (DEM)"	127		27	21.26		100	78.74				127
+		"MURRAY, John (NGST)"	12		5	41.67		7	58.33				12
+		"TANKEY, Howard (GRN)"	116		28	24.14		88	75.86				116
+		Total	255		756	43.57		979	56.43				1735
+
+	Burwood Central												
+			1st Prefs		869	53.12		767	46.88				1636
+		"BENNETT, James (DEM)"	118		41	34.75		77	65.25				118
+		"MURRAY, John (NGST)"	18		10	55.56		8	44.44				18
+		"TANKEY, Howard (GRN)"	165		28	16.97		137	83.03				165
+		Total	301		948	48.94		989	51.06				1937
+
+	Chadstone East												
+			1st Prefs		749	38.25		1209	61.75				1958
+		"BENNETT, James (DEM)"	153		35	22.88		118	77.12				153
+		"MURRAY, John (NGST)"	26		5	19.23		21	80.77				26
+		"TANKEY, Howard (GRN)"	125		21	16.80		104	83.20				125
+		Total	304		810	35.81		1452	64.19				2262
+
+	Clayton												
+			1st Prefs		468	32.48		973	67.52				1441
+		"BENNETT, James (DEM)"	107		29	27.10		78	72.90				107
+		"MURRAY, John (NGST)"	18		6	33.33		12	66.67				18
+		"TANKEY, Howard (GRN)"	74		8	10.81		66	89.19				74
+		Total	199		511	31.16		1129	68.84				1640
+
+	Clayton East												
+			1st Prefs		397	33.53		787	66.47				1184
+		"BENNETT, James (DEM)"	78		16	20.51		62	79.49				78
+		"MURRAY, John (NGST)"	17		7	41.18		10	58.82				17
+		"TANKEY, Howard (GRN)"	38		6	15.79		32	84.21				38
+		Total	133		426	32.35		891	67.65				1317
+
+	Clayton North												
+			1st Prefs		547	36.56		949	63.44				1496
+		"BENNETT, James (DEM)"	105		20	19.05		85	80.95				105
+		"MURRAY, John (NGST)"	28		14	50.00		14	50.00				28
+		"TANKEY, Howard (GRN)"	107		20	18.69		87	81.31				107
+		Total	240		601	34.62		1135	65.38				1736
+
+	Elgar Park												
+			1st Prefs		928	59.26		638	40.74				1566
+		"BENNETT, James (DEM)"	121		39	32.23		82	67.77				121
+		"MURRAY, John (NGST)"	11		4	36.36		7	63.64				11
+		"TANKEY, Howard (GRN)"	171		29	16.96		142	83.04				171
+		Total	303		1000	53.50		869	46.50				1869
+
+	Essex Heights												
+			1st Prefs		1509	55.60		1205	44.40				2714
+		"BENNETT, James (DEM)"	186		66	35.48		120	64.52				186
+		"MURRAY, John (NGST)"	59		28	47.46		31	52.54				59
+		"TANKEY, Howard (GRN)"	164		42	25.61		122	74.39				164
+		Total	409		1645	52.67		1478	47.33				3123
+
+	Glendal												
+			1st Prefs		1331	57.15		998	42.85				2329
+		"BENNETT, James (DEM)"	165		50	30.30		115	69.70				165
+		"MURRAY, John (NGST)"	16		3	18.75		13	81.25				16
+		"TANKEY, Howard (GRN)"	109		29	26.61		80	73.39				109
+		Total	290		1413	53.95		1206	46.05				2619
+
+	Huntingdale												
+			1st Prefs		326	36.67		563	63.33				889
+		"BENNETT, James (DEM)"	65		14	21.54		51	78.46				65
+		"MURRAY, John (NGST)"	9		4	44.44		5	55.56				9
+		"TANKEY, Howard (GRN)"	36		7	19.44		29	80.56				36
+		Total	110		351	35.14		648	64.86				999
+
+	Kerrimuir												
+			1st Prefs		1155	49.04		1200	50.96				2355
+		"BENNETT, James (DEM)"	164		32	19.51		132	80.49				164
+		"MURRAY, John (NGST)"	21		6	28.57		15	71.43				21
+		"TANKEY, Howard (GRN)"	146		26	17.81		120	82.19				146
+		Total	331		1219	45.38		1467	54.62				2686
+
+	Koonung Heights												
+			1st Prefs		1182	56.13		924	43.87				2106
+		"BENNETT, James (DEM)"	220		54	24.55		166	75.45				220
+		"MURRAY, John (NGST)"	21		5	23.81		16	76.19				21
+		"TANKEY, Howard (GRN)"	193		40	20.73		153	79.27				193
+		Total	434		1281	50.43		1259	49.57				2540
+
+	Manooka												
+			1st Prefs		642	46.42		741	53.58				1383
+		"BENNETT, James (DEM)"	106		21	19.81		85	80.19				106
+		"MURRAY, John (NGST)"	8		2	25.00		6	75.00				8
+		"TANKEY, Howard (GRN)"	42		9	21.43		33	78.57				42
+		Total	156		674	43.79		865	56.21				1539
+
+	Melbourne (Chisholm)												
+			1st Prefs		30	46.88		34	53.13				64
+		"BENNETT, James (DEM)"	11		3	27.27		8	72.73				11
+		"MURRAY, John (NGST)"	1		0	0.00		1	100.00				1
+		"TANKEY, Howard (GRN)"	12		6	50.00		6	50.00				12
+		Total	24		39	44.32		49	55.68				88
+
+	Mont Albert												
+			1st Prefs		1150	64.28		639	35.72				1789
+		"BENNETT, James (DEM)"	159		47	29.56		112	70.44				159
+		"MURRAY, John (NGST)"	8		4	50.00		4	50.00				8
+		"TANKEY, Howard (GRN)"	190		41	21.58		149	78.42				190
+		Total	357		1242	57.88		904	42.12				2146
+
+	Mount Waverley												
+			1st Prefs		351	61.15		223	38.85				574
+		"BENNETT, James (DEM)"	43		9	20.93		34	79.07				43
+		"MURRAY, John (NGST)"	5		0	0.00		5	100.00				5
+		"TANKEY, Howard (GRN)"	44		11	25.00		33	75.00				44
+		Total	92		371	55.71		295	44.29				666
+
+	Mount Waverley South												
+			1st Prefs		2085	57.79		1523	42.21				3608
+		"BENNETT, James (DEM)"	243		68	27.98		175	72.02				243
+		"MURRAY, John (NGST)"	43		17	39.53		26	60.47				43
+		"TANKEY, Howard (GRN)"	245		56	22.86		189	77.14				245
+		Total	531		2226	53.78		1913	46.22				4139
+
+	Oakleigh (Chisholm)												
+			1st Prefs		459	36.72		791	63.28				1250
+		"BENNETT, James (DEM)"	86		22	25.58		64	74.42				86
+		"MURRAY, John (NGST)"	15		5	33.33		10	66.67				15
+		"TANKEY, Howard (GRN)"	109		21	19.27		88	80.73				109
+		Total	210		507	34.73		953	65.27				1460
+
+	Oakleigh East												
+			1st Prefs		578	40.08		864	59.92				1442
+		"BENNETT, James (DEM)"	132		30	22.73		102	77.27				132
+		"MURRAY, John (NGST)"	27		14	51.85		13	48.15				27
+		"TANKEY, Howard (GRN)"	75		20	26.67		55	73.33				75
+		Total	234		642	38.31		1034	61.69				1676
+
+	Oakleigh North												
+			1st Prefs		607	42.90		808	57.10				1415
+		"BENNETT, James (DEM)"	111		30	27.03		81	72.97				111
+		"MURRAY, John (NGST)"	23		7	30.43		16	69.57				23
+		"TANKEY, Howard (GRN)"	78		11	14.10		67	85.90				78
+		Total	212		655	40.26		972	59.74				1627
+
+	Pinewood (Chisholm)												
+			1st Prefs		1064	55.85		841	44.15				1905
+		"BENNETT, James (DEM)"	137		47	34.31		90	65.69				137
+		"MURRAY, John (NGST)"	18		3	16.67		15	83.33				18
+		"TANKEY, Howard (GRN)"	128		25	19.53		103	80.47				128
+		Total	283		1139	52.06		1049	47.94				2188
+
+	Surrey Hills												
+			1st Prefs		872	64.12		488	35.88				1360
+		"BENNETT, James (DEM)"	108		32	29.63		76	70.37				108
+		"MURRAY, John (NGST)"	9		2	22.22		7	77.78				9
+		"TANKEY, Howard (GRN)"	133		17	12.78		116	87.22				133
+		Total	250		923	57.33		687	42.67				1610
+
+	Sussex Heights												
+			1st Prefs		774	43.12		1021	56.88				1795
+		"BENNETT, James (DEM)"	137		40	29.20		97	70.80				137
+		"MURRAY, John (NGST)"	27		12	44.44		15	55.56				27
+		"TANKEY, Howard (GRN)"	91		27	29.67		64	70.33				91
+		Total	255		853	41.61		1197	58.39				2050
+
+	Syndal North												
+			1st Prefs		1502	57.13		1127	42.87				2629
+		"BENNETT, James (DEM)"	220		49	22.27		171	77.73				220
+		"MURRAY, John (NGST)"	23		8	34.78		15	65.22				23
+		"TANKEY, Howard (GRN)"	129		31	24.03		98	75.97				129
+		Total	372		1590	52.98		1411	47.02				3001
+
+	Syndal South												
+			1st Prefs		991	61.32		625	38.68				1616
+		"BENNETT, James (DEM)"	116		38	32.76		78	67.24				116
+		"MURRAY, John (NGST)"	13		6	46.15		7	53.85				13
+		"TANKEY, Howard (GRN)"	134		19	14.18		115	85.82				134
+		Total	263		1054	56.09		825	43.91				1879
+
+	Tally Ho (Chisholm)												
+			1st Prefs		635	53.23		558	46.77				1193
+		"BENNETT, James (DEM)"	92		27	29.35		65	70.65				92
+		"MURRAY, John (NGST)"	10		3	30.00		7	70.00				10
+		"TANKEY, Howard (GRN)"	54		15	27.78		39	72.22				54
+		Total	156		680	50.41		669	49.59				1349
+
+	Tyne												
+			1st Prefs		508	50.95		489	49.05				997
+		"BENNETT, James (DEM)"	74		18	24.32		56	75.68				74
+		"MURRAY, John (NGST)"	8		3	37.50		5	62.50				8
+		"TANKEY, Howard (GRN)"	79		17	21.52		62	78.48				79
+		Total	161		546	47.15		612	52.85				1158
+
+	Wattle Park												
+			1st Prefs		1027	50.44		1009	49.56				2036
+		"BENNETT, James (DEM)"	149		35	23.49		114	76.51				149
+		"MURRAY, John (NGST)"	15		5	33.33		10	66.67				15
+		"TANKEY, Howard (GRN)"	207		36	17.39		171	82.61				207
+		Total	371		1103	45.82		1304	54.18				2407
+
+	Waverley North												
+			1st Prefs		490	48.56		519	51.44				1009
+		"BENNETT, James (DEM)"	77		24	31.17		53	68.83				77
+		"MURRAY, John (NGST)"	16		8	50.00		8	50.00				16
+		"TANKEY, Howard (GRN)"	89		17	19.10		72	80.90				89
+		Total	182		539	45.26		652	54.74				1191
+
+	Special Hospitals												
+			1st Prefs		373	72.71		140	27.29				513
+		"BENNETT, James (DEM)"	3		1	33.33		2	66.67				3
+		"MURRAY, John (NGST)"	2		1	50.00		1	50.00				2
+		"TANKEY, Howard (GRN)"	9		5	55.56		4	44.44				9
+		Total	14		380	72.11		147	27.89				527
+
+	Total Ordinary												
+			1st Prefs		28770	50.14		28612	49.86				57382
+		"BENNETT, James (DEM)"	4293		1155	26.90		3138	73.10				4293
+		"MURRAY, John (NGST)"	652		251	38.50		401	61.50				652
+		"TANKEY, Howard (GRN)"	4048		815	20.13		3233	79.87				4048
+		Total	8993		30991	46.69		35384	53.31				66375
+
+	ABSENT												
+			1st Prefs		2313	52.59		2085	47.41				4398
+		"BENNETT, James (DEM)"	587		207	35.26		380	64.74				587
+		"MURRAY, John (NGST)"	123		45	36.59		78	63.41				123
+		"TANKEY, Howard (GRN)"	532		147	27.63		385	72.37				532
+		Total	1242		2712	48.09		2928	51.91				5640
+
+	POSTAL												
+			1st Prefs		2302	55.78		1825	44.22				4127
+		"BENNETT, James (DEM)"	230		86	37.39		144	62.61				230
+		"MURRAY, John (NGST)"	58		19	32.76		39	67.24				58
+		"TANKEY, Howard (GRN)"	143		32	22.38		111	77.62				143
+		Total	431		2439	53.51		2119	46.49				4558
+
+	PRE_POLL												
+			1st Prefs		1363	50.97		1311	49.03				2674
+		"BENNETT, James (DEM)"	253		83	32.81		170	67.19				253
+		"MURRAY, John (NGST)"	57		32	56.14		25	43.86				57
+		"TANKEY, Howard (GRN)"	169		40	23.67		129	76.33				169
+		Total	479		1518	48.14		1635	51.86				3153
+
+	PROVISIONAL												
+			1st Prefs		88	47.83		96	52.17				184
+		"BENNETT, James (DEM)"	16		6	37.50		10	62.50				16
+		"MURRAY, John (NGST)"	5		1	20.00		4	80.00				5
+		"TANKEY, Howard (GRN)"	6		3	50.00		3	50.00				6
+		Total	27		98	46.45		113	53.55				211
+
+	Division Summary												
+			1st Prefs		34836	50.66		33929	49.34				68765	
+		"BENNETT, James (DEM)"	5379		1537	28.57		3842	71.43				5379	
+		"MURRAY, John (NGST)"	895		348	38.88		547	61.12				895	
+		"TANKEY, Howard (GRN)"	4898		1037	21.17		3861	78.83				4898	
+		Total	11172		37758	47.23		42179	52.77				79937	

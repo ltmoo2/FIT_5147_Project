@@ -1,0 +1,356 @@
+House of Representatives - 2001 Election: Queensland												
+Two Candidate Preferred Preference Flow Result 												
+By Polling Place												
+Oxley (84787)												
+		Candidate		                  	"PARER, Kevin"		               	"RIPOLL, Bernie"		             	Total	
+				                           	LP		                         	ALP		                        		
+				                           	Votes	%	                     	Votes	%	                     		
+	Acacia Ridge											
+			1st Prefs		388	35.99		690	64.01		1078	
+		"ARMSTRONG, Thomas John (HAN)"	109		58	53.21		51	46.79		109	
+		"KUNZELMANN, Kate (DEM)"	43		18	41.86		25	58.14		43	
+		"MCKEON, John (GRN)"	37		13	35.14		24	64.86		37	
+		Total	189		477	37.65		790	62.35		1267	
+
+	Acacia Ridge South											
+			1st Prefs		569	31.52		1236	68.48		1805	
+		"ARMSTRONG, Thomas John (HAN)"	201		129	64.18		72	35.82		201
+		"KUNZELMANN, Kate (DEM)"	105		39	37.14		66	62.86		105
+		"MCKEON, John (GRN)"	57		14	24.56		43	75.44		57
+		Total	363		751	34.64		1417	65.36		2168
+
+	Blackstone										
+			1st Prefs		136	33.50		270	66.50		406
+		"ARMSTRONG, Thomas John (HAN)"	91		58	63.74		33	36.26		91
+		"KUNZELMANN, Kate (DEM)"	35		14	40.00		21	60.00		35
+		"MCKEON, John (GRN)"	18		7	38.89		11	61.11		18
+		Total	144		215	39.09		335	60.91		550
+
+	Brisbane City (Oxley)										
+			1st Prefs		43	50.00		43	50.00		86
+		"ARMSTRONG, Thomas John (HAN)"	10		7	70.00		3	30.00		10
+		"KUNZELMANN, Kate (DEM)"	18		5	27.78		13	72.22		18
+		"MCKEON, John (GRN)"	14		6	42.86		8	57.14		14
+		Total	42		61	47.66		67	52.34		128
+
+	Bundamba										
+			1st Prefs		462	40.63		675	59.37		1137
+		"ARMSTRONG, Thomas John (HAN)"	213		139	65.26		74	34.74		213
+		"KUNZELMANN, Kate (DEM)"	64		28	43.75		36	56.25		64
+		"MCKEON, John (GRN)"	45		17	37.78		28	62.22		45
+		Total	322		646	44.28		813	55.72		1459
+
+	Bundamba School										
+			1st Prefs		528	32.92		1076	67.08		1604
+		"ARMSTRONG, Thomas John (HAN)"	273		189	69.23		84	30.77		273
+		"KUNZELMANN, Kate (DEM)"	131		55	41.98		76	58.02		131
+		"MCKEON, John (GRN)"	69		25	36.23		44	63.77		69
+		Total	473		797	38.37		1280	61.63		2077
+
+	Calamvale (Oxley)										
+			1st Prefs		373	66.37		189	33.63		562
+		"ARMSTRONG, Thomas John (HAN)"	38		31	81.58		7	18.42		38
+		"KUNZELMANN, Kate (DEM)"	43		14	32.56		29	67.44		43
+		"MCKEON, John (GRN)"	15		4	26.67		11	73.33		15
+		Total	96		422	64.13		236	35.87		658
+
+	Camira										
+			1st Prefs		989	42.98		1312	57.02		2301
+		"ARMSTRONG, Thomas John (HAN)"	352		252	71.59		100	28.41		352
+		"KUNZELMANN, Kate (DEM)"	236		97	41.10		139	58.90		236
+		"MCKEON, John (GRN)"	155		73	47.10		82	52.90		155
+		Total	743		1411	46.35		1633	53.65		3044
+
+	Carole Park										
+			1st Prefs		221	24.29		689	75.71		910
+		"ARMSTRONG, Thomas John (HAN)"	101		53	52.48		48	47.52		101
+		"KUNZELMANN, Kate (DEM)"	46		25	54.35		21	45.65		46
+		"MCKEON, John (GRN)"	31		19	61.29		12	38.71		31
+		Total	178		318	29.23		770	70.77		1088
+
+	Central School										
+			1st Prefs		396	46.59		454	53.41		850
+		"ARMSTRONG, Thomas John (HAN)"	149		119	79.87		30	20.13		149
+		"KUNZELMANN, Kate (DEM)"	59		19	32.20		40	67.80		59
+		"MCKEON, John (GRN)"	31		12	38.71		19	61.29		31
+		Total	239		546	50.14		543	49.86		1089
+
+	Churchill (Oxley)										
+			1st Prefs		831	53.13		733	46.87		1564
+		"ARMSTRONG, Thomas John (HAN)"	229		142	62.01		87	37.99		229
+		"KUNZELMANN, Kate (DEM)"	132		66	50.00		66	50.00		132
+		"MCKEON, John (GRN)"	41		19	46.34		22	53.66		41
+		Total	402		1058	53.81		908	46.19		1966
+
+	Collingwood Park										
+			1st Prefs		597	42.58		805	57.42		1402
+		"ARMSTRONG, Thomas John (HAN)"	160		107	66.88		53	33.13		160
+		"KUNZELMANN, Kate (DEM)"	78		38	48.72		40	51.28		78
+		"MCKEON, John (GRN)"	50		25	50.00		25	50.00		50
+		Total	288		767	45.38		923	54.62		1690
+
+	Dinmore										
+			1st Prefs		171	27.32		455	72.68		626
+		"ARMSTRONG, Thomas John (HAN)"	112		69	61.61		43	38.39		112
+		"KUNZELMANN, Kate (DEM)"	35		14	40.00		21	60.00		35
+		"MCKEON, John (GRN)"	24		12	50.00		12	50.00		24
+		Total	171		266	33.38		531	66.62		797
+
+	Durack										
+			1st Prefs		335	21.82		1200	78.18		1535
+		"ARMSTRONG, Thomas John (HAN)"	122		81	66.39		41	33.61		122
+		"KUNZELMANN, Kate (DEM)"	86		43	50.00		43	50.00		86
+		"MCKEON, John (GRN)"	29		13	44.83		16	55.17		29
+		Total	237		472	26.64		1300	73.36		1772
+
+	Eastern Heights										
+			1st Prefs		554	42.68		744	57.32		1298
+		"ARMSTRONG, Thomas John (HAN)"	206		139	67.48		67	32.52		206
+		"KUNZELMANN, Kate (DEM)"	58		28	48.28		30	51.72		58
+		"MCKEON, John (GRN)"	29		13	44.83		16	55.17		29
+		Total	293		734	46.13		857	53.87		1591
+
+	East Ipswich School										
+			1st Prefs		365	34.21		702	65.79		1067
+		"ARMSTRONG, Thomas John (HAN)"	182		125	68.68		57	31.32		182
+		"KUNZELMANN, Kate (DEM)"	91		48	52.75		43	47.25		91
+		"MCKEON, John (GRN)"	43		17	39.53		26	60.47		43
+		Total	316		555	40.13		828	59.87		1383
+
+	Flinders View										
+			1st Prefs		847	51.02		813	48.98		1660
+		"ARMSTRONG, Thomas John (HAN)"	272		207	76.10		65	23.90		272
+		"KUNZELMANN, Kate (DEM)"	124		55	44.35		69	55.65		124
+		"MCKEON, John (GRN)"	44		20	45.45		24	54.55		44
+		Total	440		1129	53.76		971	46.24		2100
+
+	Forest Lake										
+			1st Prefs		1663	53.75		1431	46.25		3094
+		"ARMSTRONG, Thomas John (HAN)"	186		133	71.51		53	28.49		186
+		"KUNZELMANN, Kate (DEM)"	295		128	43.39		167	56.61		295
+		"MCKEON, John (GRN)"	87		31	35.63		56	64.37		87
+		Total	568		1955	53.39		1707	46.61		3662
+
+	Forest Lake East										
+			1st Prefs		776	53.11		685	46.89		1461
+		"ARMSTRONG, Thomas John (HAN)"	79		57	72.15		22	27.85		79
+		"KUNZELMANN, Kate (DEM)"	135		51	37.78		84	62.22		135
+		"MCKEON, John (GRN)"	45		17	37.78		28	62.22		45
+		Total	259		901	52.38		819	47.62		1720
+
+	Forest Place Retirement Village										
+			1st Prefs		360	66.06		185	33.94		545
+		"ARMSTRONG, Thomas John (HAN)"	17		12	70.59		5	29.41		17
+		"KUNZELMANN, Kate (DEM)"	12		4	33.33		8	66.67		12
+		"MCKEON, John (GRN)"	8		3	37.50		5	62.50		8
+		Total	37		379	65.12		203	34.88		582
+
+	Gailes										
+			1st Prefs		202	23.52		657	76.48		859
+		"ARMSTRONG, Thomas John (HAN)"	132		83	62.88		49	37.12		132
+		"KUNZELMANN, Kate (DEM)"	35		14	40.00		21	60.00		35
+		"MCKEON, John (GRN)"	38		15	39.47		23	60.53		38
+		Total	205		314	29.51		750	70.49		1064
+
+	Goodna										
+			1st Prefs		731	28.18		1863	71.82		2594
+		"ARMSTRONG, Thomas John (HAN)"	346		245	70.81		101	29.19		346
+		"KUNZELMANN, Kate (DEM)"	179		57	31.84		122	68.16		179
+		"MCKEON, John (GRN)"	151		60	39.74		91	60.26		151
+		Total	676		1093	33.43		2177	66.57		3270
+
+	Grand Ave										
+			1st Prefs		847	57.04		638	42.96		1485
+		"ARMSTRONG, Thomas John (HAN)"	93		65	69.89		28	30.11		93
+		"KUNZELMANN, Kate (DEM)"	134		52	38.81		82	61.19		134
+		"MCKEON, John (GRN)"	44		20	45.45		24	54.55		44
+		Total	271		984	56.04		772	43.96		1756
+
+	Harrisville										
+			1st Prefs		138	61.61		86	38.39		224
+		"ARMSTRONG, Thomas John (HAN)"	46		33	71.74		13	28.26		46
+		"KUNZELMANN, Kate (DEM)"	14		7	50.00		7	50.00		14
+		"MCKEON, John (GRN)"	9		7	77.78		2	22.22		9
+		Total	69		185	63.14		108	36.86		293
+
+	Inala										
+			1st Prefs		589	25.81		1693	74.19		2282
+		"ARMSTRONG, Thomas John (HAN)"	142		92	64.79		50	35.21		142
+		"KUNZELMANN, Kate (DEM)"	127		44	34.65		83	65.35		127
+		"MCKEON, John (GRN)"	61		28	45.90		33	54.10		61
+		Total	330		753	28.83		1859	71.17		2612
+
+	Inala West										
+			1st Prefs		264	20.64		1015	79.36		1279
+		"ARMSTRONG, Thomas John (HAN)"	66		43	65.15		23	34.85		66
+		"KUNZELMANN, Kate (DEM)"	47		15	31.91		32	68.09		47
+		"MCKEON, John (GRN)"	33		13	39.39		20	60.61		33
+		Total	146		335	23.51		1090	76.49		1425
+
+	Ipswich										
+			1st Prefs		111	38.14		180	61.86		291
+		"ARMSTRONG, Thomas John (HAN)"	36		28	77.78		8	22.22		36
+		"KUNZELMANN, Kate (DEM)"	15		5	33.33		10	66.67		15
+		"MCKEON, John (GRN)"	13		2	15.38		11	84.62		13
+		Total	64		146	41.13		209	58.87		355
+
+	Ipswich Hospital										
+			1st Prefs		81	50.31		80	49.69		161
+		"ARMSTRONG, Thomas John (HAN)"	32		28	87.50		4	12.50		32
+		"KUNZELMANN, Kate (DEM)"	16		8	50.00		8	50.00		16
+		"MCKEON, John (GRN)"	8		4	50.00		4	50.00		8
+		Total	56		121	55.76		96	44.24		217
+
+	Kruger School										
+			1st Prefs		1082	34.99		2010	65.01		3092
+		"ARMSTRONG, Thomas John (HAN)"	511		324	63.41		187	36.59		511
+		"KUNZELMANN, Kate (DEM)"	249		94	37.75		155	62.25		249
+		"MCKEON, John (GRN)"	153		74	48.37		79	51.63		153
+		Total	913		1574	39.30		2431	60.70		4005
+
+	Newtown Ipswich										
+			1st Prefs		341	46.71		389	53.29		730
+		"ARMSTRONG, Thomas John (HAN)"	100		62	62.00		38	38.00		100
+		"KUNZELMANN, Kate (DEM)"	52		23	44.23		29	55.77		52
+		"MCKEON, John (GRN)"	31		7	22.58		24	77.42		31
+		Total	183		433	47.43		480	52.57		913
+
+	North Booval										
+			1st Prefs		380	36.93		649	63.07		1029
+		"ARMSTRONG, Thomas John (HAN)"	142		79	55.63		63	44.37		142
+		"KUNZELMANN, Kate (DEM)"	57		26	45.61		31	54.39		57
+		"MCKEON, John (GRN)"	40		14	35.00		26	65.00		40
+		Total	239		499	39.35		769	60.65		1268
+
+	Pallara										
+			1st Prefs		282	56.97		213	43.03		495
+		"ARMSTRONG, Thomas John (HAN)"	43		25	58.14		18	41.86		43
+		"KUNZELMANN, Kate (DEM)"	21		10	47.62		11	52.38		21
+		"MCKEON, John (GRN)"	23		10	43.48		13	56.52		23
+		Total	87		327	56.19		255	43.81		582
+
+	Peak Crossing										
+			1st Prefs		299	58.74		210	41.26		509
+		"ARMSTRONG, Thomas John (HAN)"	113		70	61.95		43	38.05		113
+		"KUNZELMANN, Kate (DEM)"	26		9	34.62		17	65.38		26
+		"MCKEON, John (GRN)"	9		3	33.33		6	66.67		9
+		Total	148		381	57.99		276	42.01		657
+
+	Raceview School										
+			1st Prefs		1020	43.00		1352	57.00		2372
+		"ARMSTRONG, Thomas John (HAN)"	407		286	70.27		121	29.73		407
+		"KUNZELMANN, Kate (DEM)"	210		92	43.81		118	56.19		210
+		"MCKEON, John (GRN)"	80		34	42.50		46	57.50		80
+		Total	697		1432	46.66		1637	53.34		3069
+
+	Redbank										
+			1st Prefs		121	23.73		389	76.27		510
+		"ARMSTRONG, Thomas John (HAN)"	91		68	74.73		23	25.27		91
+		"KUNZELMANN, Kate (DEM)"	30		15	50.00		15	50.00		30
+		"MCKEON, John (GRN)"	24		10	41.67		14	58.33		24
+		Total	145		214	32.67		441	67.33		655
+
+	Redbank Plains										
+			1st Prefs		577	36.00		1026	64.00		1603
+		"ARMSTRONG, Thomas John (HAN)"	336		217	64.58		119	35.42		336
+		"KUNZELMANN, Kate (DEM)"	86		43	50.00		43	50.00		86
+		"MCKEON, John (GRN)"	77		38	49.35		39	50.65		77
+		Total	499		875	41.63		1227	58.37		2102
+
+	Richlands										
+			1st Prefs		272	31.78		584	68.22		856
+		"ARMSTRONG, Thomas John (HAN)"	134		89	66.42		45	33.58		134
+		"KUNZELMANN, Kate (DEM)"	39		12	30.77		27	69.23		39
+		"MCKEON, John (GRN)"	34		12	35.29		22	64.71		34
+		Total	207		385	36.22		678	63.78		1063
+
+	Richlands East										
+			1st Prefs		167	14.10		1017	85.90		1184
+		"ARMSTRONG, Thomas John (HAN)"	87		55	63.22		32	36.78		87
+		"KUNZELMANN, Kate (DEM)"	33		10	30.30		23	69.70		33
+		"MCKEON, John (GRN)"	31		11	35.48		20	64.52		31
+		Total	151		243	18.20		1092	81.80		1335
+
+	Riverview										
+			1st Prefs		233	25.30		688	74.70		921
+		"ARMSTRONG, Thomas John (HAN)"	115		81	70.43		34	29.57		115
+		"KUNZELMANN, Kate (DEM)"	45		16	35.56		29	64.44		45
+		"MCKEON, John (GRN)"	29		12	41.38		17	58.62		29
+		Total	189		342	30.81		768	69.19		1110
+
+	Serviceton South										
+			1st Prefs		409	24.22		1280	75.78		1689
+		"ARMSTRONG, Thomas John (HAN)"	132		64	48.48		68	51.52		132
+		"KUNZELMANN, Kate (DEM)"	103		37	35.92		66	64.08		103
+		"MCKEON, John (GRN)"	39		20	51.28		19	48.72		39
+		Total	274		530	27.00		1433	73.00		1963
+
+	Silkstone										
+			1st Prefs		894	39.21		1386	60.79		2280
+		"ARMSTRONG, Thomas John (HAN)"	369		263	71.27		106	28.73		369
+		"KUNZELMANN, Kate (DEM)"	174		69	39.66		105	60.34		174
+		"MCKEON, John (GRN)"	101		38	37.62		63	62.38		101
+		Total	644		1264	43.23		1660	56.77		2924
+
+	Springfield										
+			1st Prefs		634	42.69		851	57.31		1485
+		"ARMSTRONG, Thomas John (HAN)"	148		102	68.92		46	31.08		148
+		"KUNZELMANN, Kate (DEM)"	129		57	44.19		72	55.81		129
+		"MCKEON, John (GRN)"	74		32	43.24		42	56.76		74
+		Total	351		825	44.93		1011	55.07		1836
+
+	West Ipswich										
+			1st Prefs		140	37.33		235	62.67		375
+		"ARMSTRONG, Thomas John (HAN)"	68		47	69.12		21	30.88		68
+		"KUNZELMANN, Kate (DEM)"	29		7	24.14		22	75.86		29
+		"MCKEON, John (GRN)"	22		7	31.82		15	68.18		22
+		Total	119		201	40.69		293	59.31		494
+
+	Special Hospitals										
+			1st Prefs		98	42.79		131	57.21		229
+		"ARMSTRONG, Thomas John (HAN)"	23		19	82.61		4	17.39		23
+		"KUNZELMANN, Kate (DEM)"	8		4	50.00		4	50.00		8
+		"MCKEON, John (GRN)"	4		2	50.00		2	50.00		4
+		Total	35		123	46.59		141	53.41		264
+
+	Total Ordinary										
+			1st Prefs		20516	38.33		33009	61.67		53525
+		"ARMSTRONG, Thomas John (HAN)"	6814		4575	67.14		2239	32.86		6814
+		"KUNZELMANN, Kate (DEM)"	3684		1515	41.12		2169	58.88		3684
+		"MCKEON, John (GRN)"	2000		833	41.65		1167	58.35		2000
+		Total	12498		27439	41.56		38584	58.44		66023
+
+	ABSENT										
+			1st Prefs		1565	44.35		1964	55.65		3529
+		"ARMSTRONG, Thomas John (HAN)"	602		368	61.13		234	38.87		602
+		"KUNZELMANN, Kate (DEM)"	338		157	46.45		181	53.55		338
+		"MCKEON, John (GRN)"	277		113	40.79		164	59.21		277
+		Total	1217		2203	46.42		2543	53.58		4746
+
+	POSTAL										
+			1st Prefs		880	35.20		1620	64.80		2500
+		"ARMSTRONG, Thomas John (HAN)"	376		247	65.69		129	34.31		376
+		"KUNZELMANN, Kate (DEM)"	101		39	38.61		62	61.39		101
+		"MCKEON, John (GRN)"	57		25	43.86		32	56.14		57
+		Total	534		1191	39.26		1843	60.74		3034
+
+	PRE_POLL										
+			1st Prefs		769	45.13		935	54.87		1704
+		"ARMSTRONG, Thomas John (HAN)"	243		153	62.96		90	37.04		243
+		"KUNZELMANN, Kate (DEM)"	140		59	42.14		81	57.86		140
+		"MCKEON, John (GRN)"	76		29	38.16		47	61.84		76
+		Total	459		1010	46.69		1153	53.31		2163
+
+	PROVISIONAL										
+			1st Prefs		88	24.65		269	75.35		357
+		"ARMSTRONG, Thomas John (HAN)"	50		33	66.00		17	34.00		50
+		"KUNZELMANN, Kate (DEM)"	19		7	36.84		12	63.16		19
+		"MCKEON, John (GRN)"	23		17	73.91		6	26.09		23
+		Total	92		145	32.29		304	67.71		449
+
+	Division Summary										
+			1st Prefs		23818	38.66		37797	61.34		61615
+		"ARMSTRONG, Thomas John (HAN)"	8085		5376	66.49		2709	33.51		8085	
+		"KUNZELMANN, Kate (DEM)"	4282		1777	41.50		2505	58.50		4282	
+		"MCKEON, John (GRN)"	2433		1017	41.80		1416	58.20		2433	
+		Total	14800		31988	41.86		44427	58.14		76415	

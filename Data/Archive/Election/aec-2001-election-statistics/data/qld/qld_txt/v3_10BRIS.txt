@@ -1,0 +1,502 @@
+House of Representatives - 2001 Election: Queensland												
+Two Candidate Preferred Preference Flow Result 												
+By Polling Place												
+												
+Brisbane (95781)												
+		Candidate		                  	"MONSOUR, Seb"		               	"BEVIS, Arch"			Total	
+				                           	LP		                         	ALP				
+				                           	Votes	%	                     	Votes	%			
+	Alderley											
+			1st Prefs		722	46.08		845	53.92		1567	
+		"JANSEN, P R (HAN)"	46		23	50.00		23	50.00		46	
+		"NIELSEN, Richard (GRN)"	82		17	20.73		65	79.27		82	
+		"LAVELLE, Ashley "	20		7	35.00		13	65.00		20	
+		"EKERT, Sue (NP)"	50		48	96.00		2	4.00		50	
+		"DEWAR, Damian (DEM)"	149		46	30.87		103	69.13		149	
+		Total	347		863	45.09		1051	54.91		1914	
+
+	Ashgrove										
+			1st Prefs		1331	54.39		1116	45.61		2447
+		"JANSEN, P R (HAN)"	54		34	62.96		20	37.04		54
+		"NIELSEN, Richard (GRN)"	214		49	22.90		165	77.10		214
+		"LAVELLE, Ashley "	34		8	23.53		26	76.47		34
+		"EKERT, Sue (NP)"	76		71	93.42		5	6.58		76
+		"DEWAR, Damian (DEM)"	305		89	29.18		216	70.82		305
+		Total	683		1582	50.54		1548	49.46		3130
+
+	Ashgrove West										
+			1st Prefs		984	56.81		748	43.19		1732
+		"JANSEN, P R (HAN)"	32		13	40.63		19	59.38		32
+		"NIELSEN, Richard (GRN)"	122		21	17.21		101	82.79		122
+		"LAVELLE, Ashley "	24		6	25.00		18	75.00		24
+		"EKERT, Sue (NP)"	60		54	90.00		6	10.00		60
+		"DEWAR, Damian (DEM)"	178		53	29.78		125	70.22		178
+		Total	416		1131	52.65		1017	47.35		2148
+
+	Auchenflower										
+			1st Prefs		685	57.18		513	42.82		1198
+		"JANSEN, P R (HAN)"	25		15	60.00		10	40.00		25
+		"NIELSEN, Richard (GRN)"	126		21	16.67		105	83.33		126
+		"LAVELLE, Ashley "	24		11	45.83		13	54.17		24
+		"EKERT, Sue (NP)"	62		59	95.16		3	4.84		62
+		"DEWAR, Damian (DEM)"	185		59	31.89		126	68.11		185
+		Total	422		850	52.47		770	47.53		1620
+
+	Ballymore										
+			1st Prefs		217	48.44		231	51.56		448
+		"JANSEN, P R (HAN)"	12		7	58.33		5	41.67		12
+		"NIELSEN, Richard (GRN)"	36		15	41.67		21	58.33		36
+		"LAVELLE, Ashley "	5		0	0.00		5	100.00		5
+		"EKERT, Sue (NP)"	14		13	92.86		1	7.14		14
+		"DEWAR, Damian (DEM)"	30		13	43.33		17	56.67		30
+		Total	97		265	48.62		280	51.38		545
+
+	Bardon										
+			1st Prefs		560	54.53		467	45.47		1027
+		"JANSEN, P R (HAN)"	19		7	36.84		12	63.16		19
+		"NIELSEN, Richard (GRN)"	110		18	16.36		92	83.64		110
+		"LAVELLE, Ashley "	9		3	33.33		6	66.67		9
+		"EKERT, Sue (NP)"	32		24	75.00		8	25.00		32
+		"DEWAR, Damian (DEM)"	119		34	28.57		85	71.43		119
+		Total	289		646	49.09		670	50.91		1316
+
+	Brisbane City (Brisbane)										
+			1st Prefs		806	52.61		726	47.39		1532
+		"JANSEN, P R (HAN)"	37		21	56.76		16	43.24		37
+		"NIELSEN, Richard (GRN)"	203		38	18.72		165	81.28		203
+		"LAVELLE, Ashley"	27		5	18.52		22	81.48		27
+		"EKERT, Sue (NP)"	50		45	90.00		5	10.00		50
+		"DEWAR, Damian (DEM)"	310		88	28.39		222	71.61		310
+		Total	627		1003	46.46		1156	53.54		2159
+
+	Buranda										
+			1st Prefs		172	40.00		258	60.00		430
+		"JANSEN, P R (HAN)"	35		24	68.57		11	31.43		35
+		"NIELSEN, Richard (GRN)"	54		15	27.78		39	72.22		54
+		"LAVELLE, Ashley"	8		4	50.00		4	50.00		8
+		"EKERT, Sue (NP)"	20		18	90.00		2	10.00		20
+		"DEWAR, Damian (DEM)"	51		14	27.45		37	72.55		51
+		Total	168		247	41.30		351	58.70		598
+
+	Dorrington										
+			1st Prefs		515	52.71		462	47.29		977
+		"JANSEN, P R (HAN)"	31		22	70.97		9	29.03		31
+		"NIELSEN, Richard (GRN)"	57		9	15.79		48	84.21		57
+		"LAVELLE, Ashley"	13		2	15.38		11	84.62		13
+		"EKERT, Sue (NP)"	16		14	87.50		2	12.50		16
+		"DEWAR, Damian (DEM)"	94		35	37.23		59	62.77		94
+		Total	211		597	50.25		591	49.75		1188
+
+	Dutton Park										
+			1st Prefs		281	36.64		486	63.36		767
+		"JANSEN, P R (HAN)"	11		8	72.73		3	27.27		11
+		"NIELSEN, Richard (GRN)"	111		12	10.81		99	89.19		111
+		"LAVELLE, Ashley"	23		4	17.39		19	82.61		23
+		"EKERT, Sue (NP)"	18		16	88.89		2	11.11		18
+		"DEWAR, Damian (DEM)"	74		23	31.08		51	68.92		74
+		Total	237		344	34.26		660	65.74		1004
+
+	East Brisbane										
+			1st Prefs		956	49.90		960	50.10		1916
+		"JANSEN, P R (HAN)"	56		32	57.14		24	42.86		56
+		"NIELSEN, Richard (GRN)"	170		45	26.47		125	73.53		170
+		"LAVELLE, Ashley"	37		8	21.62		29	78.38		37
+		"EKERT, Sue (NP)"	72		64	88.89		8	11.11		72
+		"DEWAR, Damian (DEM)"	211		56	26.54		155	73.46		211
+		Total	546		1161	47.16		1301	52.84		2462
+
+	Enoggera										
+			1st Prefs		488	52.76		437	47.24		925
+		"JANSEN, P R (HAN)"	42		23	54.76		19	45.24		42
+		"NIELSEN, Richard (GRN)"	65		20	30.77		45	69.23		65
+		"LAVELLE, Ashley"	6		3	50.00		3	50.00		6
+		"EKERT, Sue (NP)"	21		21	100.00		0	0.00		21
+		"DEWAR, Damian (DEM)"	104		33	31.73		71	68.27		104
+		Total	238		588	50.56		575	49.44		1163
+
+	Ferny Grove (Brisbane)										
+			1st Prefs		100	50.76		97	49.24		197
+		"JANSEN, P R (HAN)"	10		6	60.00		4	40.00		10
+		"NIELSEN, Richard (GRN)"	10		5	50.00		5	50.00		10
+		"LAVELLE, Ashley"	1		0	0.00		1	100.00		1
+		"EKERT, Sue (NP)"	10		8	80.00		2	20.00		10
+		"DEWAR, Damian (DEM)"	9		4	44.44		5	55.56		9
+		Total	40		123	51.90		114	48.10		237
+
+	Fortitude Valley										
+			1st Prefs		213	49.08		221	50.92		434
+		"JANSEN, P R (HAN)"	16		10	62.50		6	37.50		16
+		"NIELSEN, Richard (GRN)"	42		9	21.43		33	78.57		42
+		"LAVELLE, Ashley"	6		2	33.33		4	66.67		6
+		"EKERT, Sue (NP)"	14		11	78.57		3	21.43		14
+		"DEWAR, Damian (DEM)"	57		14	24.56		43	75.44		57
+		Total	135		259	45.52		310	54.48		569
+
+	Gaythorne										
+			1st Prefs		426	41.28		606	58.72		1032
+		"JANSEN, P R (HAN)"	22		12	54.55		10	45.45		22
+		"NIELSEN, Richard (GRN)"	45		12	26.67		33	73.33		45
+		"LAVELLE, Ashley"	5		3	60.00		2	40.00		5
+		"EKERT, Sue (NP)"	27		26	96.30		1	3.70		27
+		"DEWAR, Damian (DEM)"	88		31	35.23		57	64.77		88
+		Total	187		510	41.84		709	58.16		1219
+
+	Grange										
+			1st Prefs		346	47.79		378	52.21		724
+		"JANSEN, P R (HAN)"	24		18	75.00		6	25.00		24
+		"NIELSEN, Richard (GRN)"	39		7	17.95		32	82.05		39
+		"LAVELLE, Ashley"	2		2	100.00		0	0.00		2
+		"EKERT, Sue (NP)"	19		17	89.47		2	10.53		19
+		"DEWAR, Damian (DEM)"	66		15	22.73		51	77.27		66
+		Total	150		405	46.34		469	53.66		874
+
+	Grange West										
+			1st Prefs		304	49.27		313	50.73		617
+		"JANSEN, P R (HAN)"	14		9	64.29		5	35.71		14
+		"NIELSEN, Richard (GRN)"	46		7	15.22		39	84.78		46
+		"LAVELLE, Ashley"	8		5	62.50		3	37.50		8
+		"EKERT, Sue (NP)"	14		14	100.00		0	0.00		14
+		"DEWAR, Damian (DEM)"	50		14	28.00		36	72.00		50
+		Total	132		353	47.13		396	52.87		749
+
+	Grovely (Brisbane)										
+			1st Prefs		106	33.44		211	66.56		317
+		"JANSEN, P R (HAN)"	25		13	52.00		12	48.00		25
+		"NIELSEN, Richard (GRN)"	18		8	44.44		10	55.56		18
+		"LAVELLE, Ashley"	3		1	33.33		2	66.67		3
+		"EKERT, Sue (NP)"	6		5	83.33		1	16.67		6
+		"DEWAR, Damian (DEM)"	39		10	25.64		29	74.36		39
+		Total	91		143	35.05		265	64.95		408
+
+	Hill End										
+			1st Prefs		427	41.26		608	58.74		1035
+		"JANSEN, P R (HAN)"	24		18	75.00		6	25.00		24
+		"NIELSEN, Richard (GRN)"	229		19	8.30		210	91.70		229
+		"LAVELLE, Ashley"	44		1	2.27		43	97.73		44
+		"EKERT, Sue (NP)"	25		25	100.00		0	0.00		25
+		"DEWAR, Damian (DEM)"	155		34	21.94		121	78.06		155
+		Total	477		524	34.66		988	65.34		1512
+
+	Holy Spirit										
+			1st Prefs		839	51.89		778	48.11		1617
+		"JANSEN, P R (HAN)"	48		34	70.83		14	29.17		48
+		"NIELSEN, Richard (GRN)"	166		24	14.46		142	85.54		166
+		"LAVELLE, Ashley"	9		0	0.00		9	100.00		9
+		"EKERT, Sue (NP)"	29		27	93.10		2	6.90		29
+		"DEWAR, Damian (DEM)"	243		63	25.93		180	74.07		243
+		Total	495		987	46.73		1125	53.27		2112
+
+	Ithaca Creek										
+			1st Prefs		520	49.01		541	50.99		1061
+		"JANSEN, P R (HAN)"	21		15	71.43		6	28.57		21
+		"NIELSEN, Richard (GRN)"	105		15	14.29		90	85.71		105
+		"LAVELLE, Ashley"	7		1	14.29		6	85.71		7
+		"EKERT, Sue (NP)"	26		25	96.15		1	3.85		26
+		"DEWAR, Damian (DEM)"	102		30	29.41		72	70.59		102
+		Total	261		606	45.84		716	54.16		1322
+
+	Ithaca South										
+			1st Prefs		648	56.35		502	43.65		1150
+		"JANSEN, P R (HAN)"	22		15	68.18		7	31.82		22
+		"NIELSEN, Richard (GRN)"	153		25	16.34		128	83.66		153
+		"LAVELLE, Ashley"	9		3	33.33		6	66.67		9
+		"EKERT, Sue (NP)"	29		27	93.10		2	6.90		29
+		"DEWAR, Damian (DEM)"	165		38	23.03		127	76.97		165
+		Total	378		756	49.48		772	50.52		1528
+
+	Kangaroo Point										
+			1st Prefs		917	62.94		540	37.06		1457
+		"JANSEN, P R (HAN)"	39		24	61.54		15	38.46		39
+		"NIELSEN, Richard (GRN)"	98		24	24.49		74	75.51		98
+		"LAVELLE, Ashley"	10		3	30.00		7	70.00		10
+		"EKERT, Sue (NP)"	39		35	89.74		4	10.26		39
+		"DEWAR, Damian (DEM)"	139		41	29.50		98	70.50		139
+		Total	325		1044	58.59		738	41.41		1782
+
+	Kelvin Grove										
+			1st Prefs		467	55.60		373	44.40		840
+		"JANSEN, P R (HAN)"	20		14	70.00		6	30.00		20
+		"NIELSEN, Richard (GRN)"	118		22	18.64		96	81.36		118
+		"LAVELLE, Ashley"	19		8	42.11		11	57.89		19
+		"EKERT, Sue (NP)"	26		24	92.31		2	7.69		26
+		"DEWAR, Damian (DEM)"	153		37	24.18		116	75.82		153
+		Total	336		572	48.64		604	51.36		1176
+
+	Keperra (Brisbane)										
+			1st Prefs		955	48.97		995	51.03		1950
+		"JANSEN, P R (HAN)"	65		39	60.00		26	40.00		65
+		"NIELSEN, Richard (GRN)"	78		25	32.05		53	67.95		78
+		"LAVELLE, Ashley"	9		4	44.44		5	55.56		9
+		"EKERT, Sue (NP)"	74		66	89.19		8	10.81		74
+		"DEWAR, Damian (DEM)"	104		34	32.69		70	67.31		104
+		Total	330		1123	49.25		1157	50.75		2280
+
+	Mater Hospital										
+			1st Prefs		384	48.42		409	51.58		793
+		"JANSEN, P R (HAN)"	25		14	56.00		11	44.00		25
+		"NIELSEN, Richard (GRN)"	83		14	16.87		69	83.13		83
+		"LAVELLE, Ashley"	7		1	14.29		6	85.71		7
+		"EKERT, Sue (NP)"	7		5	71.43		2	28.57		7
+		"DEWAR, Damian (DEM)"	74		14	18.92		60	81.08		74
+		Total	196		432	43.68		557	56.32		989
+
+	Merthyr										
+			1st Prefs		519	53.51		451	46.49		970
+		"JANSEN, P R (HAN)"	17		9	52.94		8	47.06		17
+		"NIELSEN, Richard (GRN)"	90		18	20.00		72	80.00		90
+		"LAVELLE, Ashley"	14		2	14.29		12	85.71		14
+		"EKERT, Sue (NP)"	23		19	82.61		4	17.39		23
+		"DEWAR, Damian (DEM)"	124		28	22.58		96	77.42		124
+		Total	268		595	48.06		643	51.94		1238
+
+	Milton										
+			1st Prefs		1297	58.63		915	41.37		2212
+		"JANSEN, P R (HAN)"	44		24	54.55		20	45.45		44
+		"NIELSEN, Richard (GRN)"	281		50	17.79		231	82.21		281
+		"LAVELLE, Ashley"	29		8	27.59		21	72.41		29
+		"EKERT, Sue (NP)"	70		61	87.14		9	12.86		70
+		"DEWAR, Damian (DEM)"	349		110	31.52		239	68.48		349
+		Total	773		1550	51.93		1435	48.07		2985
+
+	Mitchelton (Brisbane)										
+			1st Prefs		732	46.39		846	53.61		1578
+		"JANSEN, P R (HAN)"	69		52	75.36		17	24.64		69
+		"NIELSEN, Richard (GRN)"	104		21	20.19		83	79.81		104
+		"LAVELLE, Ashley"	16		4	25.00		12	75.00		16
+		"EKERT, Sue (NP)"	55		51	92.73		4	7.27		55
+		"DEWAR, Damian (DEM)"	128		37	28.91		91	71.09		128
+		Total	372		897	46.00		1053	54.00		1950
+
+	New Farm										
+			1st Prefs		1290	53.64		1115	46.36		2405
+		"JANSEN, P R (HAN)"	42		22	52.38		20	47.62		42
+		"NIELSEN, Richard (GRN)"	255		45	17.65		210	82.35		255
+		"LAVELLE, Ashley"	36		6	16.67		30	83.33		36
+		"EKERT, Sue (NP)"	61		52	85.25		9	14.75		61
+		"DEWAR, Damian (DEM)"	391		107	27.37		284	72.63		391
+		Total	785		1522	47.71		1668	52.29		3190
+
+	Newmarket										
+			1st Prefs		781	51.52		735	48.48		1516
+		"JANSEN, P R (HAN)"	41		24	58.54		17	41.46		41
+		"NIELSEN, Richard (GRN)"	124		24	19.35		100	80.65		124
+		"LAVELLE, Ashley"	9		5	55.56		4	44.44		9
+		"EKERT, Sue (NP)"	44		36	81.82		8	18.18		44
+		"DEWAR, Damian (DEM)"	185		40	21.62		145	78.38		185
+		Total	403		910	47.42		1009	52.58		1919
+
+	Newmarket South										
+			1st Prefs		283	49.30		291	50.70		574
+		"JANSEN, P R (HAN)"	27		16	59.26		11	40.74		27
+		"NIELSEN, Richard (GRN)"	29		10	34.48		19	65.52		29
+		"LAVELLE, Ashley"	6		2	33.33		4	66.67		6
+		"EKERT, Sue (NP)"	16		16	100.00		0	0.00		16
+		"DEWAR, Damian (DEM)"	55		12	21.82		43	78.18		55
+		Total	133		339	47.95		368	52.05		707
+
+	Oxford Park (Brisbane)										
+			1st Prefs		224	44.53		279	55.47		503
+		"JANSEN, P R (HAN)"	21		8	38.10		13	61.90		21
+		"NIELSEN, Richard (GRN)"	22		3	13.64		19	86.36		22
+		"LAVELLE, Ashley"	5		3	60.00		2	40.00		5
+		"EKERT, Sue (NP)"	24		22	91.67		2	8.33		24
+		"DEWAR, Damian (DEM)"	34		7	20.59		27	79.41		34
+		Total	106		267	43.84		342	56.16		609
+
+	Paddington										
+			1st Prefs		631	53.25		554	46.75		1185
+		"JANSEN, P R (HAN)"	15		9	60.00		6	40.00		15
+		"NIELSEN, Richard (GRN)"	166		28	16.87		138	83.13		166
+		"LAVELLE, Ashley"	22		8	36.36		14	63.64		22
+		"EKERT, Sue (NP)"	25		24	96.00		1	4.00		25
+		"DEWAR, Damian (DEM)"	168		43	25.60		125	74.40		168
+		Total	396		743	47.00		838	53.00		1581
+
+	Petrie Terrace										
+			1st Prefs		318	49.23		328	50.77		646
+		"JANSEN, P R (HAN)"	19		12	63.16		7	36.84		19
+		"NIELSEN, Richard (GRN)"	86		15	17.44		71	82.56		86
+		"LAVELLE, Ashley"	6		0	0.00		6	100.00		6
+		"EKERT, Sue (NP)"	14		12	85.71		2	14.29		14
+		"DEWAR, Damian (DEM)"	106		33	31.13		73	68.87		106
+		Total	231		390	44.47		487	55.53		877
+
+	Princess Alexandra Hospital										
+			1st Prefs		92	34.46		175	65.54		267
+		"JANSEN, P R (HAN)"	14		6	42.86		8	57.14		14
+		"NIELSEN, Richard (GRN)"	26		2	7.69		24	92.31		26
+		"LAVELLE, Ashley"	8		1	12.50		7	87.50		8
+		"EKERT, Sue (NP)"	5		2	40.00		3	60.00		5
+		"DEWAR, Damian (DEM)"	25		2	8.00		23	92.00		25
+		Total	78		105	30.43		240	69.57		345
+
+	Rainworth										
+			1st Prefs		898	59.16		620	40.84		1518
+		"JANSEN, P R (HAN)"	25		13	52.00		12	48.00		25
+		"NIELSEN, Richard (GRN)"	196		32	16.33		164	83.67		196
+		"LAVELLE, Ashley"	10		2	20.00		8	80.00		10
+		"EKERT, Sue (NP)"	59		55	93.22		4	6.78		59
+		"DEWAR, Damian (DEM)"	138		28	20.29		110	79.71		138
+		Total	428		1028	52.83		918	47.17		1946
+
+	Red Hill										
+			1st Prefs		559	50.96		538	49.04		1097
+		"JANSEN, P R (HAN)"	25		18	72.00		7	28.00		25
+		"NIELSEN, Richard (GRN)"	189		33	17.46		156	82.54		189
+		"LAVELLE, Ashley"	10		2	20.00		8	80.00		10
+		"EKERT, Sue (NP)"	31		29	93.55		2	6.45		31
+		"DEWAR, Damian (DEM)"	219		52	23.74		167	76.26		219
+		Total	474		693	44.11		878	55.89		1571
+
+	Royal Brisbane Hospital										
+			1st Prefs		94	43.93		120	56.07		214
+		"JANSEN, P R (HAN)"	5		2	40.00		3	60.00		5
+		"NIELSEN, Richard (GRN)"	26		4	15.38		22	84.62		26
+		"LAVELLE, Ashley"	0		0	0.00		0	0.00		0
+		"EKERT, Sue (NP)"	7		5	71.43		2	28.57		7
+		"DEWAR, Damian (DEM)"	28		9	32.14		19	67.86		28
+		Total	66		114	40.71		166	59.29		280
+
+	South Brisbane										
+			1st Prefs		479	41.47		676	58.53		1155
+		"JANSEN, P R (HAN)"	24		18	75.00		6	25.00		24
+		"NIELSEN, Richard (GRN)"	197		20	10.15		177	89.85		197
+		"LAVELLE, Ashley"	26		0	0.00		26	100.00		26
+		"EKERT, Sue (NP)"	17		13	76.47		4	23.53		17
+		"DEWAR, Damian (DEM)"	171		37	21.64		134	78.36		171
+		Total	435		567	35.66		1023	64.34		1590
+
+	Spring Hill										
+			1st Prefs		510	57.37		379	42.63		889
+		"JANSEN, P R (HAN)"	19		14	73.68		5	26.32		19
+		"NIELSEN, Richard (GRN)"	99		18	18.18		81	81.82		99
+		"LAVELLE, Ashley"	14		7	50.00		7	50.00		14
+		"EKERT, Sue (NP)"	22		19	86.36		3	13.64		22
+		"DEWAR, Damian (DEM)"	129		43	33.33		86	66.67		129
+		Total	283		611	52.13		561	47.87		1172
+
+	Stafford (Brisbane)										
+			1st Prefs		179	49.04		186	50.96		365
+		"JANSEN, P R (HAN)"	18		7	38.89		11	61.11		18
+		"NIELSEN, Richard (GRN)"	30		3	10.00		27	90.00		30
+		"LAVELLE, Ashley"	2		2	100.00		0	0.00		2
+		"EKERT, Sue (NP)"	5		4	80.00		1	20.00		5
+		"DEWAR, Damian (DEM)"	43		15	34.88		28	65.12		43
+		Total	98		210	45.36		253	54.64		463
+
+	Stafford West (Brisbane)										
+			1st Prefs		120	49.79		121	50.21		241
+		"JANSEN, P R (HAN)"	13		8	61.54		5	38.46		13
+		"NIELSEN, Richard (GRN)"	15		5	33.33		10	66.67		15
+		"LAVELLE, Ashley"	3		2	66.67		1	33.33		3
+		"EKERT, Sue (NP)"	4		4	100.00		0	0.00		4
+		"DEWAR, Damian (DEM)"	26		9	34.62		17	65.38		26
+		Total	61		148	49.01		154	50.99		302
+
+	Toowong (Brisbane)										
+			1st Prefs		172	53.58		149	46.42		321
+		"JANSEN, P R (HAN)"	14		10	71.43		4	28.57		14
+		"NIELSEN, Richard (GRN)"	31		4	12.90		27	87.10		31
+		"LAVELLE, Ashley"	2		1	50.00		1	50.00		2
+		"EKERT, Sue (NP)"	8		3	37.50		5	62.50		8
+		"DEWAR, Damian (DEM)"	51		13	25.49		38	74.51		51
+		Total	106		203	47.54		224	52.46		427
+
+	West End										
+			1st Prefs		530	30.03		1235	69.97		1765
+		"JANSEN, P R (HAN)"	38		22	57.89		16	42.11		38
+		"NIELSEN, Richard (GRN)"	395		36	9.11		359	90.89		395
+		"LAVELLE, Ashley"	68		5	7.35		63	92.65		68
+		"EKERT, Sue (NP)"	19		13	68.42		6	31.58		19
+		"DEWAR, Damian (DEM)"	280		43	15.36		237	84.64		280
+		Total	800		649	25.30		1916	74.70		2565
+
+	Wilston School										
+			1st Prefs		1271	50.72		1235	49.28		2506
+		"JANSEN, P R (HAN)"	53		42	79.25		11	20.75		53
+		"NIELSEN, Richard (GRN)"	162		37	22.84		125	77.16		162
+		"LAVELLE, Ashley"	24		7	29.17		17	70.83		24
+		"EKERT, Sue (NP)"	67		63	94.03		4	5.97		67
+		"DEWAR, Damian (DEM)"	261		79	30.27		182	69.73		261
+		Total	567		1499	48.78		1574	51.22		3073
+
+	Windsor										
+			1st Prefs		539	48.38		575	51.62		1114
+		"JANSEN, P R (HAN)"	43		26	60.47		17	39.53		43
+		"NIELSEN, Richard (GRN)"	101		22	21.78		79	78.22		101
+		"LAVELLE, Ashley"	15		6	40.00		9	60.00		15
+		"EKERT, Sue (NP)"	30		29	96.67		1	3.33		30
+		"DEWAR, Damian (DEM)"	145		41	28.28		104	71.72		145
+		Total	334		663	45.79		785	54.21		1448
+
+	Windsor School										
+			1st Prefs		545	48.02		590	51.98		1135
+		"JANSEN, P R (HAN)"	28		16	57.14		12	42.86		28
+		"NIELSEN, Richard (GRN)"	96		20	20.83		76	79.17		96
+		"LAVELLE, Ashley"	6		3	50.00		3	50.00		6
+		"EKERT, Sue (NP)"	8		7	87.50		1	12.50		8
+		"DEWAR, Damian (DEM)"	120		32	26.67		88	73.33		120
+		Total	258		623	44.72		770	55.28		1393
+
+	Special Hospitals										
+			1st Prefs		274	50.74		266	49.26		540
+		"JANSEN, P R (HAN)"	11		7	63.64		4	36.36		11
+		"NIELSEN, Richard (GRN)"	1		0	0.00		1	100.00		1
+		"LAVELLE, Ashley"	2		1	50.00		1	50.00		2
+		"EKERT, Sue (NP)"	24		22	91.67		2	8.33		24
+		"DEWAR, Damian (DEM)"	7		1	14.29		6	85.71		7
+		Total	45		305	52.14		280	47.86		585
+
+	Total Ordinary										
+			1st Prefs		26706	50.48		26200	49.52		52906
+		"JANSEN, P R (HAN)"	1400		855	61.07		545	38.93		1400
+		"NIELSEN, Richard (GRN)"	5301		946	17.85		4355	82.15		5301
+		"LAVELLE, Ashley"	702		172	24.50		530	75.50		702
+		"EKERT, Sue (NP)"	1474		1323	89.76		151	10.24		1474
+		"DEWAR, Damian (DEM)"	6437		1743	27.08		4694	72.92		6437
+		Total	15314		31745	46.53		36475	53.47		68220
+
+	ABSENT										
+			1st Prefs		3049	53.93		2605	46.07		5654
+		"JANSEN, P R (HAN)"	220		132	60.00		88	40.00		220
+		"NIELSEN, Richard (GRN)"	730		174	23.84		556	76.16		730
+		"LAVELLE, Ashley"	95		52	54.74		43	45.26		95
+		"EKERT, Sue (NP)"	193		156	80.83		37	19.17		193
+		"DEWAR, Damian (DEM)"	780		223	28.59		557	71.41		780
+		Total	2018		3786	49.35		3886	50.65		7672
+
+	POSTAL										
+			1st Prefs		1787	45.88		2108	54.12		3895
+		"JANSEN, P R (HAN)"	143		81	56.64		62	43.36		143
+		"NIELSEN, Richard (GRN)"	169		37	21.89		132	78.11		169
+		"LAVELLE, Ashley"	22		9	40.91		13	59.09		22
+		"EKERT, Sue (NP)"	97		86	88.66		11	11.34		97
+		"DEWAR, Damian (DEM)"	209		57	27.27		152	72.73		209
+		Total	640		2057	45.36		2478	54.64		4535
+
+	PRE_POLL										
+			1st Prefs		1938	55.28		1568	44.72		3506
+		"JANSEN, P R (HAN)"	99		65	65.66		34	34.34		99
+		"NIELSEN, Richard (GRN)"	408		90	22.06		318	77.94		408
+		"LAVELLE, Ashley"	38		11	28.95		27	71.05		38
+		"EKERT, Sue (NP)"	84		73	86.90		11	13.10		84
+		"DEWAR, Damian (DEM)"	389		122	31.36		267	68.64		389
+		Total	1018		2299	50.82		2225	49.18		4524
+
+	PROVISIONAL										
+			1st Prefs		224	43.66		289	56.34		513
+		"JANSEN, P R (HAN)"	16		6	37.50		10	62.50		16
+		"NIELSEN, Richard (GRN)"	94		13	13.83		81	86.17		94
+		"LAVELLE, Ashley"	7		2	28.57		5	71.43		7
+		"EKERT, Sue (NP)"	15		13	86.67		2	13.33		15
+		"DEWAR, Damian (DEM)"	132		35	26.52		97	73.48		132
+		Total	264		293	37.71		484	62.29		777
+
+	Division Summary										
+			1st Prefs		33704	50.70		32770	49.30		66474
+		"JANSEN, P R (HAN)"	1878		1139	60.65		739	39.35		1878	
+		"NIELSEN, Richard (GRN)"	6702		1260	18.80		5442	81.20		6702	
+		"LAVELLE, Ashley"	864		246	28.47		618	71.53		864	
+		"EKERT, Sue (NP)"	1863		1651	88.62		212	11.38		1863	
+		"DEWAR, Damian (DEM)"	7947		2180	27.43		5767	72.57		7947	
+		Total	19254		40180	46.87		45548	53.13		85728	

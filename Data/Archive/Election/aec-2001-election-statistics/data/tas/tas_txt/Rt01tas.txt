@@ -1,0 +1,378 @@
+Senate - 2001 Election - Tasmania			
+Registered Group Voting Tickets			
+			
+Tasmania First Party			
+
+Ticket	Party/Group Name	Candidate Name	Preferences
+ A	TFP	"CRACK, M."	1
+		"JACKSON, D."	2
+		"PRESSER, J."	3
+ B	HPA	"BRISTOW, J.T."	16
+		"PETHERBRIDGE-de TISSERA, S."	17
+ C	HAN	"BOAG, B."	8
+		"STOKES, P."	9
+ D	Unendorsed- Bonner S	"BONNER, S."	4
+		"HOWARD, G."	5
+ E	GRN	"BROWN, B."	22
+ F	LP	"CALVERT, P."	26
+		"WATSON, J."	25
+		"COLBECK, R."	24
+		"PARRY, S."	23
+ G	Unendorsed- Bainbridge A	"BAINBRIDGE, A."	11
+		"CLEARY, S."	10
+ H	DEM	"BUTLER, D."	20
+		"TOOHEY, B."	21
+ I	ALP	"MACKAY, S."	28
+		"SHERRY, N."	29
+		"BILYK, C."	27
+ J	LFF	"PULLINGER, P."	18
+		"THOMAS, M."	19
+ K	RPA	"CONSANDINE, P."	14
+		"LAWATSCH, B."	15
+UG	CEC	"LARNER, R."	13
+UG	IND	"MARMARINOS, J.V."	12	
+UG	IND	"LANE, H."	7	
+UG	IND	"LOCKETT, E."	6	
+				
+				
+Hope Party Australia				
+				
+Ticket	Party/Group Name	Candidate Name	Preferences	
+ A	TFP	"CRACK, M."	13	
+		"JACKSON, D."	14	
+		"PRESSER, J."	15	
+ B	HPA	"BRISTOW, J.T."	1	
+		"PETHERBRIDGE-de TISSERA, S."	2	
+ C	HAN	"BOAG, B."	29	
+		"STOKES, P."	28	
+ D	Unendorsed- Bonner S	"BONNER, S."	19	
+		"HOWARD, G."	20
+ E	GRN	"BROWN, B."	3
+ F	LP	"CALVERT, P."	21
+		"WATSON, J."	22
+		"COLBECK, R."	23
+		"PARRY, S."	24
+ G	Unendorsed- Bainbridge A	"BAINBRIDGE, A."	11
+		"CLEARY, S."	12
+ H	DEM	"BUTLER, D."	9
+		"TOOHEY, B."	10
+ I	ALP	"MACKAY, S."	16
+		"SHERRY, N."	17
+		"BILYK, C."	18
+ J	LFF	"PULLINGER, P."	5
+		"THOMAS, M."	6
+ K	RPA	"CONSANDINE, P."	7
+		"LAWATSCH, B."	8	
+UG	CEC	"LARNER, R."	27	
+UG	IND	"MARMARINOS, J.V."	26	
+UG	IND	"LANE, H."	25	
+UG	IND	"LOCKETT, E."	4	
+				
+				
+Pauline Hanson's One Nation 				
+				
+Ticket	Party/Group Name	Candidate Name	Preferences	
+ A	TFP	"CRACK, M."	5	
+		"JACKSON, D."	6	
+		"PRESSER, J."	7	
+ B	HPA	"BRISTOW, J.T."	10	
+		"PETHERBRIDGE-de TISSERA, S."	11	
+ C	HAN	"BOAG, B."	1	
+		"STOKES, P."	2
+ D	Unendorsed- Bonner S	"BONNER, S."	3
+		"HOWARD, G."	4
+ E	GRN	"BROWN, B."	29
+ F	LP	"CALVERT, P."	23
+		"WATSON, J."	22
+		"COLBECK, R."	21
+		"PARRY, S."	20
+ G	Unendorsed- Bainbridge A	"BAINBRIDGE, A."	8
+		"CLEARY, S."	9
+ H	DEM	"BUTLER, D."	25
+		"TOOHEY, B."	24
+ I	ALP	"MACKAY, S."	28
+		"SHERRY, N."	27
+		"BILYK, C."	26
+ J	LFF	"PULLINGER, P."	15
+		"THOMAS, M."	16	
+ K	RPA	"CONSANDINE, P."	18	
+		"LAWATSCH, B."	19	
+UG	CEC	"LARNER, R."	17	
+UG	IND	"MARMARINOS, J.V."	14	
+UG	IND	"LANE, H."	13	
+UG	IND	"LOCKETT, E."	12	
+				
+				
+				
+Unendorsed- Bonner S				
+				
+Ticket	Party/Group Name	Candidate Name	Preferences	
+ A	TFP	"CRACK, M."	5	
+		"JACKSON, D."	6	
+		"PRESSER, J."	7	
+ B	HPA	"BRISTOW, J.T."	28
+		"PETHERBRIDGE-de TISSERA, S."	29
+ C	HAN	"BOAG, B."	3
+		"STOKES, P."	4
+ D	Unendorsed- Bonner S	"BONNER, S."	1
+		"HOWARD, G."	2
+ E	GRN	"BROWN, B."	23
+ F	LP	"CALVERT, P."	9
+		"WATSON, J."	10
+		"COLBECK, R."	11
+		"PARRY, S."	12
+ G	Unendorsed- Bainbridge A	"BAINBRIDGE, A."	24
+		"CLEARY, S."	25
+ H	DEM	"BUTLER, D."	13
+		"TOOHEY, B."	14
+ I	ALP	"MACKAY, S."	15
+		"SHERRY, N."	16	
+		"BILYK, C."	17	
+ J	LFF	"PULLINGER, P."	26	
+		"THOMAS, M."	27	
+ K	RPA	"CONSANDINE, P."	21	
+		"LAWATSCH, B."	22	
+UG	CEC	"LARNER, R."	18	
+UG	IND	"MARMARINOS, J.V."	19	
+UG	IND	"LANE, H."	20	
+UG	IND	"LOCKETT, E."	8	
+				
+				
+				
+Australian Greens				
+				
+Ticket	Party/Group Name	Candidate Name	Preferences	
+ A	TFP	"CRACK, M."	13
+		"JACKSON, D."	14
+		"PRESSER, J."	15
+ B	HPA	"BRISTOW, J.T."	4
+		"PETHERBRIDGE-de TISSERA, S."	5
+ C	HAN	"BOAG, B."	28
+		"STOKES, P."	29
+ D	Unendorsed- Bonner S	"BONNER, S."	23
+		"HOWARD, G."	24
+ E	GRN	"BROWN, B."	1
+ F	LP	"CALVERT, P."	19
+		"WATSON, J."	20
+		"COLBECK, R."	21
+		"PARRY, S."	22
+ G	Unendorsed- Bainbridge A	"BAINBRIDGE, A."	2
+		"CLEARY, S."	3
+ H	DEM	"BUTLER, D."	11	
+		"TOOHEY, B."	12	
+ I	ALP	"MACKAY, S."	16	
+		"SHERRY, N."	17	
+		"BILYK, C."	18	
+ J	LFF	"PULLINGER, P."	8	
+		"THOMAS, M."	9	
+ K	RPA	"CONSANDINE, P."	6	
+		"LAWATSCH, B."	7	
+UG	CEC	"LARNER, R."	27	
+UG	IND	"MARMARINOS, J.V."	10	
+UG	IND	"LANE, H."	26	
+UG	IND	"LOCKETT, E."	25	
+				
+				
+Liberal Party 				
+				
+Ticket	Party/Group Name	Candidate Name	Preferences	
+ A	TFP	"CRACK, M."	5	
+		"JACKSON, D."	6	
+		"PRESSER, J."	7	
+ B	HPA	"BRISTOW, J.T."	15	
+		"PETHERBRIDGE-de TISSERA, S."	14	
+ C	HAN	"BOAG, B."	28	
+		"STOKES, P."	29	
+ D	Unendorsed- Bonner S	"BONNER, S."	8	
+ 		"HOWARD, G."	9	
+ E	GRN	"BROWN, B."	21	
+ F	LP	"CALVERT, P."	1	
+		"WATSON, J."	2	
+		"COLBECK, R."	3	
+		"PARRY, S."	4	
+ G	Unendorsed- Bainbridge A	"BAINBRIDGE, A."	23
+		"CLEARY, S."	22
+ H	DEM	"BUTLER, D."	10
+		"TOOHEY, B."	11
+ I	ALP	"MACKAY, S."	20
+		"SHERRY, N."	19
+		"BILYK, C."	18
+ J	LFF	"PULLINGER, P."	17
+		"THOMAS, M."	16
+ K	RPA	"CONSANDINE, P."	12
+		"LAWATSCH, B."	13
+UG	CEC	"LARNER, R."	27
+UG	IND	"MARMARINOS, J.V."	26
+UG	IND	"LANE, H."	25
+UG	IND	"LOCKETT, E."	24
+			
+			
+Unendorsed- Bonner S			
+			
+Ticket	Party/Group Name	Candidate Name	Preferences
+ A	TFP	"CRACK, M."	17
+		"JACKSON, D."	18
+		"PRESSER, J."	19
+ B	HPA	"BRISTOW, J.T."	9
+		"PETHERBRIDGE-de TISSERA, S."	10
+ C	HAN	"BOAG, B."	28
+		"STOKES, P."	29
+ D	Unendorsed- Bonner S	"BONNER, S."	25
+		"HOWARD, G."	26
+ E	GRN	"BROWN, B."	3
+ F	LP	"CALVERT, P."	13
+		"WATSON, J."	14
+		"COLBECK, R."	15
+		"PARRY, S."	16
+ G	Unendorsed- Bainbridge A	"BAINBRIDGE, A."	1
+		"CLEARY, S."	2
+ H	DEM	"BUTLER, D."	7
+		"TOOHEY, B."	8
+ I	ALP	"MACKAY, S."	4
+		"SHERRY, N."	5
+		"BILYK, C."	6
+ J	LFF	"PULLINGER, P."	11
+		"THOMAS, M."	12
+ K	RPA	"CONSANDINE, P."	20
+		"LAWATSCH, B."	21
+UG	CEC	"LARNER, R."	27
+UG	IND	"MARMARINOS, J.V."	24
+UG	IND	"LANE, H."	23
+UG	IND	"LOCKETT, E."	22	
+				
+				
+				
+Australian Democrats				
+			Preferences	
+Ticket	Party/Group Name	Candidate Name	Ticket No#1	Ticket No#2
+ A	TFP	"CRACK, M."	24	24
+		"JACKSON, D."	25	25
+		"PRESSER, J."	26	26
+ B	HPA	"BRISTOW, J.T."	6	6
+		"PETHERBRIDGE-de TISSERA, S."	7	7
+ C	HAN	"BOAG, B."	28	28
+		"STOKES, P."	29	29
+ D	Unendorsed- Bonner S	"BONNER, S."	19	18
+		"HOWARD, G."	20	19
+ E	GRN	"BROWN, B."	3	3
+ F	LP	"CALVERT, P."	8	20
+		"WATSON, J."	9	21
+		"COLBECK, R."	10	22
+		"PARRY, S."	11	23
+ G	Unendorsed- Bainbridge A	"BAINBRIDGE, A."	4	4
+		"CLEARY, S."	5	5
+ H	DEM	"BUTLER, D."	1	1
+		"TOOHEY, B."	2	2
+ I	ALP	"MACKAY, S."	21	8
+		"SHERRY, N."	22	9
+		"BILYK, C."	23	10
+ J	LFF	"PULLINGER, P."	12	11
+		"THOMAS, M."	13	12
+ K	RPA	"CONSANDINE, P."	14	13
+		"LAWATSCH, B."	15	14
+UG	CEC	"LARNER, R."	27	27
+UG	IND	"MARMARINOS, J.V."	18	17
+UG	IND	"LANE, H."	17	16
+UG	IND	"LOCKETT, E."	16	15
+				
+				
+Australian Labor Party				
+			Preferences	
+Ticket	Party/Group Name	Candidate Name	Ticket No#1	Ticket No#2
+ A	TFP	"CRACK, M."	11	11
+		"JACKSON, D."	12	12
+		"PRESSER, J."	13	13
+ B	HPA	"BRISTOW, J.T."	9	9
+		"PETHERBRIDGE-de TISSERA, S."	10	10
+ C	HAN	"BOAG, B."	28	28
+		"STOKES, P."	29	29
+ D	Unendorsed- Bonner S	"BONNER, S."	14	14
+		"HOWARD, G."	15	15
+ E	GRN	"BROWN, B."	4	6
+ F	LP	"CALVERT, P."	27	27
+		"WATSON, J."	26	26
+		"COLBECK, R."	25	25
+		"PARRY, S."	24	24
+ G	Unendorsed- Bainbridge	"BAINBRIDGE, A."	16	16
+		"CLEARY, S."	17	17
+ H	DEM	"BUTLER, D."	5	4
+		"TOOHEY, B."	6	5
+ I	ALP	"MACKAY, S."	1	1
+		"SHERRY, N."	2	2
+		"BILYK, C."	3	3
+ J	LFF	"PULLINGER, P."	18	18
+		"THOMAS, M."	19	19
+ K	RPA	"CONSANDINE, P."	7	7
+		"LAWATSCH, B."	8	8
+UG	CEC	"LARNER, R."	23	23
+UG	IND	"MARMARINOS, J.V."	22	22
+UG	IND	"LANE, H."	21	21
+UG	IND	"LOCKETT, E."	20	20
+				
+				
+liberals for forests				
+			Preferences	
+Ticket	Party/Group Name	Candidate Name	Ticket No#1	Ticket No#2
+ A	TFP	"CRACK, M."	26	26
+		"JACKSON, D."	27	27
+		"PRESSER, J."	28	28
+ B	HPA	"BRISTOW, J.T."	18	18
+		"PETHERBRIDGE-de TISSERA, S."	19	19
+ C	HAN	"BOAG, B."	24	24
+		"STOKES, P."	25	25
+ D	Unendorsed- Bonner S	"BONNER, S."	22	22
+		"HOWARD, G."	23	23
+ E	GRN	"BROWN, B."	3	3
+ F	LP	"CALVERT, P."	10	7
+		"WATSON, J."	11	8
+		"COLBECK, R."	12	9
+		"PARRY, S."	13	10
+ G	Unendorsed- Bainbridge A	"BAINBRIDGE, A."	14	14
+		"CLEARY, S."	15	15
+ H	DEM	"BUTLER, D."	4	4
+		"TOOHEY, B."	5	5
+ I	ALP	"MACKAY, S."	7	11
+		"SHERRY, N."	8	12
+		"BILYK, C."	9	13
+ J	LFF	"PULLINGER, P."	1	1
+		"THOMAS, M."	2	2
+ K	RPA	"CONSANDINE, P."	20	20
+		"LAWATSCH, B."	21	21
+UG	CEC	"LARNER, R."	29	29
+UG	IND	"MARMARINOS, J.V."	6	6
+UG	IND	"LANE, H."	17	17
+UG	IND	"LOCKETT, E."	16	16
+				
+				
+Republican Party of Australia				
+			Preferences	
+Ticket	Party/Group Name	Candidate Name	Ticket No#1	Ticket No#2
+ A	TFP	"CRACK, M."	10	10
+		"JACKSON, D."	11	11
+		"PRESSER, J."	12	12
+ B	HPA	"BRISTOW, J.T."	6	6
+		"PETHERBRIDGE-de TISSERA, S."	7	7
+ C	HAN	"BOAG, B."	29	29
+		"STOKES, P."	28	28
+ D	Unendorsed- Bonner S	"BONNER, S."	26	23
+		"HOWARD, G."	25	22
+ E	GRN	"BROWN, B."	3	3
+ F	LP	"CALVERT, P."	18	18
+		"WATSON, J."	19	19
+		"COLBECK, R."	20	20
+		"PARRY, S."	21	21
+ G	Unendorsed- Bainbridge	"BAINBRIDGE, A."	13	13
+		"CLEARY, S."	14	14
+ H	DEM	"BUTLER, D."	8	8
+		"TOOHEY, B."	9	9
+ I	ALP	"MACKAY, S."	24	26
+		"SHERRY, N."	23	25
+		"BILYK, C."	22	24
+ J	LFF	"PULLINGER, P."	4	4
+		"THOMAS, M."	5	5
+ K	RPA	"CONSANDINE, P."	1	1
+		"LAWATSCH, B."	2	2
+UG	CEC	"LARNER, R."	27	27
+UG	IND	"MARMARINOS, J.V."	16	16
+UG	IND	"LANE, H."	15	15
+UG	IND	"LOCKETT, E."	17	17

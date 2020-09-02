@@ -1,0 +1,70 @@
+---
+title: "Data Exploration"
+author: "Lachlan Moody 27809951"
+date: "02/09/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(tidyverse)
+library(ggplot2)
+library(readxl)
+library(maptools)
+library(rgdal)
+```
+
+```{r tabluar}
+df <- "data/HouseTppByDivisionDownload-24310.csv"
+
+xl <- "data/commonwealth electorate data.xls"
+
+TPP <- read_csv(df, skip = 1)
+
+Pop <- read_excel(xl, sheet = 2, col_names = c("DivisionNm", "Population"), skip = 7, n_max = 151)
+
+Age <- read_excel(xl, sheet = 3, col_names = c("DivisionNm", "0-17", "18-34", "35-49", "50-64", "65-79", "80+"), skip = 7, n_max = 151)
+
+
+Family <- read_excel(xl, sheet = 4, col_names = c("DivisionNm", "Couple without children", "Couple with children", "One parent family", "Other family"), skip = 7, n_max = 151)
+
+Income <- read_excel(xl, sheet = 5, col_names = c("DivisionNm", "Median weekly household income", "Median weekly rent", "Medain monthly mortgage repayments", "blank", "Owned outright", "Owned with a mortgage", "Rented", "Other tenure type", "Tenure type not stated"), skip = 8, n_max = 151) %>%
+  select(-blank)
+
+Diversity <- read_excel(xl, sheet = 6, col_names = c("DivisionNm", "Aboriginal/TSI", "Overseas", "Recent Migrant", "LOTE spoken at home"), skip = 7, n_max = 151)
+
+Engagement <- read_excel(xl, sheet = 7, col_names = c("DivisionNm", "Fully engaged", "Partially engaged", "At least partially engaged", "Not engaged", "Engagement status undertermined"), skip = 7, n_max = 151)
+
+Occupation <- read_excel(xl, sheet = 8, col_names = c("DivisionNm","Managers",	"Professionals",	"Technicians and Trades Workers",	"Community and Personal Service Workers",	"Clerical and Administrative Workers",	"Sales Workers",	"Machinery Operators and Drivers",	"Labourers",	"Inadequately described",	"Not stated"), skip = 7, n_max = 151)
+
+Education <- read_excel(xl, sheet = 9, col_names = c("DivisionNm", "Year 12 equivalent", "Cert III or higher"), skip = 7, n_max = 151)
+
+Division_data <- left_join(TPP, Pop) %>%
+  left_join(Age) %>%
+  left_join(Family) %>%
+  left_join(Income) %>%
+  left_join(Diversity) %>%
+  left_join(Engagement) %>%
+  left_join(Occupation) %>%
+  left_join(Education) %>%
+  mutate("Preferred" = ifelse(PartyAb == "ALP", "Labour", "Liberal"))
+
+         
+Division_data %>%
+  group_by(Preferred) %>%
+  summarise(Average = mean(`Couple with children`))
+```
+
+```{r shape}
+Divisions <- readOGR("data/COM_ELB_region.shp")
+fort_Divisions <- fortify(Divisions)
+
+fort_Divisions
+
+ggplot(Divisions, aes(x=long, y=lat, group = group)) +
+  geom_path()
+
+Divisions <- readShapeSpatial("data/COM_ELB_region")
+```
+

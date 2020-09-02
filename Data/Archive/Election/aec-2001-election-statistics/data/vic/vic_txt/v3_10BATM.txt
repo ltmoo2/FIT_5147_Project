@@ -1,0 +1,382 @@
+House of Representatives - 2001 Election: Victoria														
+Two Candidate Preferred Preference Flow Result														
+By Polling Place														
+Batman (89998)														
+		Candidate		                  	"FERGUSON, Martin"		           	"DAVIES, John"		               			Total	
+				                           	ALP		                        	LP		                         				
+				                           	Votes	%	                     	Votes	%	                     				
+	Alphington													
+			1st Prefs		571	62.82		338	37.18				909	
+		"BHATHAL, Alexandra (GRN)"	323		302	93.50		21	6.50				323	
+		"KNEEBONE, Scott (DEM)"	122		89	72.95		33	27.05				122	
+		"LYNCH, Jackie ()"	21		18	85.71		3	14.29				21	
+		"BARWICK, Wayne (CEC)"	2		1	50.00		1	50.00				2	
+		Total	468		981	71.24		396	28.76				1377	
+
+	Alphington North													
+			1st Prefs		755	70.76		312	29.24				1067
+		"BHATHAL, Alexandra (GRN)"	189		172	91.01		17	8.99				189
+		"KNEEBONE, Scott (DEM)"	107		77	71.96		30	28.04				107
+		"LYNCH, Jackie ()"	10		4	40.00		6	60.00				10
+		"BARWICK, Wayne (CEC)"	7		4	57.14		3	42.86				7
+		Total	313		1012	73.33		368	26.67				1380
+
+	Bell												
+			1st Prefs		1109	75.14		367	24.86				1476
+		"BHATHAL, Alexandra (GRN)"	252		233	92.46		19	7.54				252
+		"KNEEBONE, Scott (DEM)"	143		118	82.52		25	17.48				143
+		"LYNCH, Jackie ()"	29		24	82.76		5	17.24				29
+		"BARWICK, Wayne (CEC)"	10		4	40.00		6	60.00				10
+		Total	434		1488	77.91		422	22.09				1910
+
+	Boldrewood												
+			1st Prefs		1150	76.41		355	23.59				1505
+		"BHATHAL, Alexandra (GRN)"	109		101	92.66		8	7.34				109
+		"KNEEBONE, Scott (DEM)"	78		56	71.79		22	28.21				78
+		"LYNCH, Jackie ()"	11		8	72.73		3	27.27				11
+		"BARWICK, Wayne (CEC)"	5		3	60.00		2	40.00				5
+		Total	203		1318	77.17		390	22.83				1708
+
+	Burbank												
+			1st Prefs		764	75.20		252	24.80				1016
+		"BHATHAL, Alexandra (GRN)"	40		35	87.50		5	12.50				40
+		"KNEEBONE, Scott (DEM)"	38		33	86.84		5	13.16				38
+		"LYNCH, Jackie ()"	3		0	0.00		3	100.00				3
+		"BARWICK, Wayne (CEC)"	6		2	33.33		4	66.67				6
+		Total	87		834	75.61		269	24.39				1103
+
+	Croxton												
+			1st Prefs		829	79.25		217	20.75				1046
+		"BHATHAL, Alexandra (GRN)"	278		252	90.65		26	9.35				278
+		"KNEEBONE, Scott (DEM)"	107		80	74.77		27	25.23				107
+		"LYNCH, Jackie ()"	18		17	94.44		1	5.56				18
+		"BARWICK, Wayne (CEC)"	2		1	50.00		1	50.00				2
+		Total	405		1179	81.25		272	18.75				1451
+
+	Faircote												
+			1st Prefs		321	72.30		123	27.70				444
+		"BHATHAL, Alexandra (GRN)"	52		47	90.38		5	9.62				52
+		"KNEEBONE, Scott (DEM)"	24		21	87.50		3	12.50				24
+		"LYNCH, Jackie ()"	6		2	33.33		4	66.67				6
+		"BARWICK, Wayne (CEC)"	1		1	100.00		0	0.00				1
+		Total	83		392	74.38		135	25.62				527
+
+	Fairfield												
+			1st Prefs		1074	71.17		435	28.83				1509
+		"BHATHAL, Alexandra (GRN)"	417		379	90.89		38	9.11				417
+		"KNEEBONE, Scott (DEM)"	153		107	69.93		46	30.07				153
+		"LYNCH, Jackie ()"	30		25	83.33		5	16.67				30
+		"BARWICK, Wayne (CEC)"	3		1	33.33		2	66.67				3
+		Total	603		1586	75.09		526	24.91				2112
+
+	Fairfield North												
+			1st Prefs		557	69.36		246	30.64				803
+		"BHATHAL, Alexandra (GRN)"	213		196	92.02		17	7.98				213
+		"KNEEBONE, Scott (DEM)"	69		49	71.01		20	28.99				69
+		"LYNCH, Jackie ()"	9		8	88.89		1	11.11				9
+		"BARWICK, Wayne (CEC)"	3		0	0.00		3	100.00				3
+		Total	294		810	73.84		287	26.16				1097
+
+	Keon Park												
+			1st Prefs		519	73.20		190	26.80				709
+		"BHATHAL, Alexandra (GRN)"	42		32	76.19		10	23.81				42
+		"KNEEBONE, Scott (DEM)"	34		23	67.65		11	32.35				34
+		"LYNCH, Jackie ()"	7		2	28.57		5	71.43				7
+		"BARWICK, Wayne (CEC)"	4		2	50.00		2	50.00				4
+		Total	87		578	72.61		218	27.39				796
+
+	Kingsbury												
+			1st Prefs		1154	70.24		489	29.76				1643
+		"BHATHAL, Alexandra (GRN)"	129		116	89.92		13	10.08				129
+		"KNEEBONE, Scott (DEM)"	104		68	65.38		36	34.62				104
+		"LYNCH, Jackie ()"	15		11	73.33		4	26.67				15
+		"BARWICK, Wayne (CEC)"	11		7	63.64		4	36.36				11
+		Total	259		1356	71.29		546	28.71				1902
+
+	Melbourne (Batman)												
+			1st Prefs		44	65.67		23	34.33				67
+		"BHATHAL, Alexandra (GRN)"	29		27	93.10		2	6.90				29
+		"KNEEBONE, Scott (DEM)"	20		18	90.00		2	10.00				20
+		"LYNCH, Jackie ()"	4		4	100.00		0	0.00				4
+		"BARWICK, Wayne (CEC)"	0		0	0.00		0	0.00				0
+		Total	53		93	77.50		27	22.50				120
+
+	Merrilands												
+			1st Prefs		1322	78.55		361	21.45				1683
+		"BHATHAL, Alexandra (GRN)"	77		62	80.52		15	19.48				77
+		"KNEEBONE, Scott (DEM)"	62		49	79.03		13	20.97				62
+		"LYNCH, Jackie ()"	17		15	88.24		2	11.76				17
+		"BARWICK, Wayne (CEC)"	6		4	66.67		2	33.33				6
+		Total	162		1452	78.70		393	21.30				1845
+
+	Murray												
+			1st Prefs		710	69.34		314	30.66				1024
+		"BHATHAL, Alexandra (GRN)"	142		130	91.55		12	8.45				142
+		"KNEEBONE, Scott (DEM)"	47		39	82.98		8	17.02				47
+		"LYNCH, Jackie ()"	13		7	53.85		6	46.15				13
+		"BARWICK, Wayne (CEC)"	4		1	25.00		3	75.00				4
+		Total	206		887	72.11		343	27.89				1230
+
+	Newlands												
+			1st Prefs		898	75.40		293	24.60				1191
+		"BHATHAL, Alexandra (GRN)"	129		122	94.57		7	5.43				129
+		"KNEEBONE, Scott (DEM)"	69		49	71.01		20	28.99				69
+		"LYNCH, Jackie ()"	18		15	83.33		3	16.67				18
+		"BARWICK, Wayne (CEC)"	5		0	0.00		5	100.00				5
+		Total	221		1084	76.77		328	23.23				1412
+
+	Northcote												
+			1st Prefs		1692	75.64		545	24.36				2237
+		"BHATHAL, Alexandra (GRN)"	708		672	94.92		36	5.08				708
+		"KNEEBONE, Scott (DEM)"	314		253	80.57		61	19.43				314
+		"LYNCH, Jackie ()"	81		72	88.89		9	11.11				81
+		"BARWICK, Wayne (CEC)"	12		7	58.33		5	41.67				12
+		Total	1115		2696	80.43		656	19.57				3352
+
+	Northcote North												
+			1st Prefs		932	75.71		299	24.29				1231
+		"BHATHAL, Alexandra (GRN)"	213		192	90.14		21	9.86				213
+		"KNEEBONE, Scott (DEM)"	111		89	80.18		22	19.82				111
+		"LYNCH, Jackie ()"	22		18	81.82		4	18.18				22
+		"BARWICK, Wayne (CEC)"	2		2	100.00		0	0.00				2
+		Total	348		1233	78.09		346	21.91				1579
+
+	Northcote South												
+			1st Prefs		1378	77.07		410	22.93				1788
+		"BHATHAL, Alexandra (GRN)"	579		538	92.92		41	7.08				579
+		"KNEEBONE, Scott (DEM)"	175		138	78.86		37	21.14				175
+		"LYNCH, Jackie ()"	32		28	87.50		4	12.50				32
+		"BARWICK, Wayne (CEC)"	4		0	0.00		4	100.00				4
+		Total	790		2082	80.76		496	19.24				2578
+
+	Northcote West												
+			1st Prefs		366	72.62		138	27.38				504
+		"BHATHAL, Alexandra (GRN)"	233		209	89.70		24	10.30				233
+		"KNEEBONE, Scott (DEM)"	89		58	65.17		31	34.83				89
+		"LYNCH, Jackie ()"	11		9	81.82		2	18.18				11
+		"BARWICK, Wayne (CEC)"	1		1	100.00		0	0.00				1
+		Total	334		643	76.73		195	23.27				838
+
+	Oakhill												
+			1st Prefs		769	68.72		350	31.28				1119
+		"BHATHAL, Alexandra (GRN)"	89		72	80.90		17	19.10				89
+		"KNEEBONE, Scott (DEM)"	39		27	69.23		12	30.77				39
+		"LYNCH, Jackie ()"	8		5	62.50		3	37.50				8
+		"BARWICK, Wayne (CEC)"	5		1	20.00		4	80.00				5
+		Total	141		874	69.37		386	30.63				1260
+
+	Preston												
+			1st Prefs		908	77.34		266	22.66				1174
+		"BHATHAL, Alexandra (GRN)"	134		115	85.82		19	14.18				134
+		"KNEEBONE, Scott (DEM)"	61		44	72.13		17	27.87				61
+		"LYNCH, Jackie ()"	21		15	71.43		6	28.57				21
+		"BARWICK, Wayne (CEC)"	9		3	33.33		6	66.67				9
+		Total	225		1085	77.56		314	22.44				1399
+
+	Preston East												
+			1st Prefs		1544	74.88		518	25.12				2062
+		"BHATHAL, Alexandra (GRN)"	185		181	97.84		4	2.16				185
+		"KNEEBONE, Scott (DEM)"	54		45	83.33		9	16.67				54
+		"LYNCH, Jackie ()"	35		26	74.29		9	25.71				35
+		"BARWICK, Wayne (CEC)"	6		2	33.33		4	66.67				6
+		Total	280		1798	76.77		544	23.23				2342
+
+	Preston North												
+			1st Prefs		384	77.58		111	22.42				495
+		"BHATHAL, Alexandra (GRN)"	40		29	72.50		11	27.50				40
+		"KNEEBONE, Scott (DEM)"	23		17	73.91		6	26.09				23
+		"LYNCH, Jackie ()"	0		0	0.00		0	0.00				0
+		"BARWICK, Wayne (CEC)"	5		2	40.00		3	60.00				5
+		Total	68		432	76.73		131	23.27				563
+
+	Preston North East												
+			1st Prefs		1399	85.05		246	14.95				1645
+		"BHATHAL, Alexandra (GRN)"	108		89	82.41		19	17.59				108
+		"KNEEBONE, Scott (DEM)"	67		45	67.16		22	32.84				67
+		"LYNCH, Jackie ()"	16		11	68.75		5	31.25				16
+		"BARWICK, Wayne (CEC)"	4		2	50.00		2	50.00				4
+		Total	195		1546	84.02		294	15.98				1840
+
+	Preston South												
+			1st Prefs		984	80.20		243	19.80				1227
+		"BHATHAL, Alexandra (GRN)"	148		133	89.86		15	10.14				148
+		"KNEEBONE, Scott (DEM)"	116		95	81.90		21	18.10				116
+		"LYNCH, Jackie ()"	15		11	73.33		4	26.67				15
+		"BARWICK, Wayne (CEC)"	9		6	66.67		3	33.33				9
+		Total	288		1229	81.12		286	18.88				1515
+
+	Preston West												
+			1st Prefs		1524	73.66		545	26.34				2069
+		"BHATHAL, Alexandra (GRN)"	242		212	87.60		30	12.40				242
+		"KNEEBONE, Scott (DEM)"	136		113	83.09		23	16.91				136
+		"LYNCH, Jackie ()"	41		32	78.05		9	21.95				41
+		"BARWICK, Wayne (CEC)"	8		6	75.00		2	25.00				8
+		Total	427		1887	75.60		609	24.40				2496
+
+	Regent												
+			1st Prefs		1371	75.29		450	24.71				1821
+		"BHATHAL, Alexandra (GRN)"	181		155	85.64		26	14.36				181
+		"KNEEBONE, Scott (DEM)"	126		97	76.98		29	23.02				126
+		"LYNCH, Jackie ()"	23		15	65.22		8	34.78				23
+		"BARWICK, Wayne (CEC)"	4		2	50.00		2	50.00				4
+		Total	334		1640	76.10		515	23.90				2155
+
+	Regent West												
+			1st Prefs		559	64.70		305	35.30				864
+		"BHATHAL, Alexandra (GRN)"	82		75	91.46		7	8.54				82
+		"KNEEBONE, Scott (DEM)"	36		30	83.33		6	16.67				36
+		"LYNCH, Jackie ()"	10		9	90.00		1	10.00				10
+		"BARWICK, Wayne (CEC)"	3		2	66.67		1	33.33				3
+		Total	131		675	67.84		320	32.16				995
+
+	Reservoir												
+			1st Prefs		899	70.79		371	29.21				1270
+		"BHATHAL, Alexandra (GRN)"	106		85	80.19		21	19.81				106
+		"KNEEBONE, Scott (DEM)"	64		50	78.13		14	21.88				64
+		"LYNCH, Jackie ()"	14		8	57.14		6	42.86				14
+		"BARWICK, Wayne (CEC)"	9		9	100.00		0	0.00				9
+		Total	193		1051	71.84		412	28.16				1463
+
+	Reservoir Central												
+			1st Prefs		1301	69.83		562	30.17				1863
+		"BHATHAL, Alexandra (GRN)"	126		110	87.30		16	12.70				126
+		"KNEEBONE, Scott (DEM)"	140		112	80.00		28	20.00				140
+		"LYNCH, Jackie ()"	18		12	66.67		6	33.33				18
+		"BARWICK, Wayne (CEC)"	12		4	33.33		8	66.67				12
+		Total	296		1539	71.28		620	28.72				2159
+
+	Reservoir East												
+			1st Prefs		645	73.71		230	26.29				875
+		"BHATHAL, Alexandra (GRN)"	59		45	76.27		14	23.73				59
+		"KNEEBONE, Scott (DEM)"	35		26	74.29		9	25.71				35
+		"LYNCH, Jackie ()"	3		2	66.67		1	33.33				3
+		"BARWICK, Wayne (CEC)"	5		4	80.00		1	20.00				5
+		Total	102		722	73.90		255	26.10				977
+
+	Reservoir North												
+			1st Prefs		1733	74.15		604	25.85				2337
+		"BHATHAL, Alexandra (GRN)"	148		125	84.46		23	15.54				148
+		"KNEEBONE, Scott (DEM)"	145		111	76.55		34	23.45				145
+		"LYNCH, Jackie ()"	37		25	67.57		12	32.43				37
+		"BARWICK, Wayne (CEC)"	7		3	42.86		4	57.14				7
+		Total	337		1997	74.68		677	25.32				2674
+
+	Reservoir North East												
+			1st Prefs		969	74.48		332	25.52				1301
+		"BHATHAL, Alexandra (GRN)"	72		63	87.50		9	12.50				72
+		"KNEEBONE, Scott (DEM)"	44		28	63.64		16	36.36				44
+		"LYNCH, Jackie ()"	12		9	75.00		3	25.00				12
+		"BARWICK, Wayne (CEC)"	4		2	50.00		2	50.00				4
+		Total	132		1071	74.74		362	25.26				1433
+
+	Reservoir South												
+			1st Prefs		601	68.22		280	31.78				881
+		"BHATHAL, Alexandra (GRN)"	55		55	100.00		0	0.00				55
+		"KNEEBONE, Scott (DEM)"	38		29	76.32		9	23.68				38
+		"LYNCH, Jackie ()"	6		4	66.67		2	33.33				6
+		"BARWICK, Wayne (CEC)"	6		3	50.00		3	50.00				6
+		Total	105		692	70.18		294	29.82				986
+
+	Reservoir West												
+			1st Prefs		796	68.38		368	31.62				1164
+		"BHATHAL, Alexandra (GRN)"	77		64	83.12		13	16.88				77
+		"KNEEBONE, Scott (DEM)"	51		33	64.71		18	35.29				51
+		"LYNCH, Jackie ()"	14		6	42.86		8	57.14				14
+		"BARWICK, Wayne (CEC)"	5		5	100.00		0	0.00				5
+		Total	147		904	68.95		407	31.05				1311
+
+	Ruthven												
+			1st Prefs		2404	74.29		832	25.71				3236
+		"BHATHAL, Alexandra (GRN)"	222		196	88.29		26	11.71				222
+		"KNEEBONE, Scott (DEM)"	186		130	69.89		56	30.11				186
+		"LYNCH, Jackie ()"	46		35	76.09		11	23.91				46
+		"BARWICK, Wayne (CEC)"	11		3	27.27		8	72.73				11
+		Total	465		2768	74.79		933	25.21				3701
+
+	Thornbury												
+			1st Prefs		1653	74.29		572	25.71				2225
+		"BHATHAL, Alexandra (GRN)"	484		445	91.94		39	8.06				484
+		"KNEEBONE, Scott (DEM)"	241		194	80.50		47	19.50				241
+		"LYNCH, Jackie ()"	56		48	85.71		8	14.29				56
+		"BARWICK, Wayne (CEC)"	15		3	20.00		12	80.00				15
+		Total	796		2343	77.56		678	22.44				3021
+
+	Thornbury East												
+			1st Prefs		1654	74.91		554	25.09				2208
+		"BHATHAL, Alexandra (GRN)"	289		255	88.24		34	11.76				289
+		"KNEEBONE, Scott (DEM)"	162		119	73.46		43	26.54				162
+		"LYNCH, Jackie ()"	41		33	80.49		8	19.51				41
+		"BARWICK, Wayne (CEC)"	11		3	27.27		8	72.73				11
+		Total	503		2064	76.13		647	23.87				2711
+
+	Thornbury South												
+			1st Prefs		1498	73.68		535	26.32				2033
+		"BHATHAL, Alexandra (GRN)"	468		442	94.44		26	5.56				468
+		"KNEEBONE, Scott (DEM)"	245		187	76.33		58	23.67				245
+		"LYNCH, Jackie ()"	41		38	92.68		3	7.32				41
+		"BARWICK, Wayne (CEC)"	7		1	14.29		6	85.71				7
+		Total	761		2166	77.52		628	22.48				2794
+
+	Westgarth												
+			1st Prefs		608	75.72		195	24.28				803
+		"BHATHAL, Alexandra (GRN)"	287		271	94.43		16	5.57				287
+		"KNEEBONE, Scott (DEM)"	71		64	90.14		7	9.86				71
+		"LYNCH, Jackie ()"	27		24	88.89		3	11.11				27
+		"BARWICK, Wayne (CEC)"	1		0	0.00		1	100.00				1
+		Total	386		967	81.33		222	18.67				1189
+
+	Special Hospitals												
+			1st Prefs		246	50.41		242	49.59				488
+		"BHATHAL, Alexandra (GRN)"	15		14	93.33		1	6.67				15
+		"KNEEBONE, Scott (DEM)"	11		7	63.64		4	36.36				11
+		"LYNCH, Jackie ()"	6		4	66.67		2	33.33				6
+		"BARWICK, Wayne (CEC)"	2		0	0.00		2	100.00				2
+		Total	34		271	51.92		251	48.08				522
+
+	Total Ordinary												
+			1st Prefs		40594	73.79		14418	26.21				55012
+		"BHATHAL, Alexandra (GRN)"	7771		7048	90.70		723	9.30				7771
+		"KNEEBONE, Scott (DEM)"	3957		3017	76.24		940	23.76				3957
+		"LYNCH, Jackie ()"	847		659	77.80		188	22.20				847
+		"BARWICK, Wayne (CEC)"	236		107	45.34		129	54.66				236
+		Total	12811		51425	75.82		16398	24.18				67823
+
+	ABSENT												
+			1st Prefs		2508	68.23		1168	31.77				3676
+		"BHATHAL, Alexandra (GRN)"	817		703	86.05		114	13.95				817
+		"KNEEBONE, Scott (DEM)"	555		405	72.97		150	27.03				555
+		"LYNCH, Jackie ()"	144		108	75.00		36	25.00				144
+		"BARWICK, Wayne (CEC)"	50		15	30.00		35	70.00				50
+		Total	1566		3739	71.33		1503	28.67				5242
+
+	POSTAL												
+			1st Prefs		1519	65.67		794	34.33				2313
+		"BHATHAL, Alexandra (GRN)"	148		134	90.54		14	9.46				148
+		"KNEEBONE, Scott (DEM)"	128		85	66.41		43	33.59				128
+		"LYNCH, Jackie ()"	28		10	35.71		18	64.29				28
+		"BARWICK, Wayne (CEC)"	18		6	33.33		12	66.67				18
+		Total	322		1754	66.57		881	33.43				2635
+
+	PRE_POLL												
+			1st Prefs		1591	68.52		731	31.48				2322
+		"BHATHAL, Alexandra (GRN)"	381		341	89.50		40	10.50				381
+		"KNEEBONE, Scott (DEM)"	279		215	77.06		64	22.94				279
+		"LYNCH, Jackie ()"	40		28	70.00		12	30.00				40
+		"BARWICK, Wayne (CEC)"	25		9	36.00		16	64.00				25
+		Total	725		2184	71.68		863	28.32				3047
+
+	PROVISIONAL												
+			1st Prefs		294	77.57		85	22.43				379	
+		"BHATHAL, Alexandra (GRN)"	54		49	90.74		5	9.26				54	
+		"KNEEBONE, Scott (DEM)"	35		29	82.86		6	17.14				35	
+		"LYNCH, Jackie ()"	5		4	80.00		1	20.00				5	
+		"BARWICK, Wayne (CEC)"	0		0	0.00		0	0.00				0	
+		Total	94		376	79.49		97	20.51				473	
+
+	Division Summary													
+			1st Prefs		46506	73.01		17196	26.99				63702	
+		"BHATHAL, Alexandra (GRN)"	9171		8275	90.23		896	9.77				9171	
+		"KNEEBONE, Scott (DEM)"	4954		3751	75.72		1203	24.28				4954	
+		"LYNCH, Jackie ()"	1064		809	76.03		255	23.97				1064	
+		"BARWICK, Wayne (CEC)"	329		137	41.64		192	58.36				329	
+		Total	15518		59478	75.08		19742	24.92				79220	

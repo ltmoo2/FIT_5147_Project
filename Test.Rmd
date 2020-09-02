@@ -1,0 +1,61 @@
+---
+title: "Untitled"
+author: "Lachlan Moody"
+date: "26/08/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+```{r,include=FALSE}
+##maptools
+library(rgdal)
+library(maptools)
+
+aus <- readOGR("Data/COM_ELB_region.shp")
+plot(aus)
+```
+
+```{r, include = FALSE}
+##ggplot
+
+library(ggplot2)
+aus_shp <- readOGR("Data/COM_ELB_region.shp")
+
+ggplot(
+  aus_shp,
+  aes(
+    x=long,
+    y=lat,
+    group=group
+  )
+) + 
+  geom_path()
+
+```
+
+```{r}
+##leaflet
+
+library(tmaptools)
+geocode_OSM("Melbourne")
+
+library(leaflet)
+
+m <- leaflet() %>% 
+  setView(lng = 145.0431, lat = -37.8773, zoom = 15) %>% 
+  addTiles()
+
+m <- leaflet() 
+m <- setView(m, lng = 144.96316, lat = -37.81422, zoom = 15)
+m <- addTiles(m)
+m <- addProviderTiles(m, "Stamen.Watercolor")
+m
+
+
+```
+

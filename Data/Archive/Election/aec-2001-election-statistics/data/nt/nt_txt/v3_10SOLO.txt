@@ -1,0 +1,286 @@
+House of Representatives - 2001 Election: Northern Territory											
+Two Candidate Preferred Preference Flow Result											
+by Polling Place											
+											
+Solomon (53945)											
+		Candidate		"HULL, Laurene"		              	"TOLLNER, David"		             	Total	
+				ALP		                        	CLP		                        		
+				Votes	%	                     	Votes	%	                     		
+	Anula										
+			1st Prefs	962	54.35		808	45.65		1770	
+		"POLLOCK, David (GRN)"	82	65	79.27		17	20.73		82	
+		"DUNSTAN, Ted (DEM)"	104	82	78.85		22	21.15		104	
+		"STEWART, Mervyn James (HAN)"	69	21	30.43		48	69.57		69	
+		"RYAN-JAPARTA, Maurie (IND)"	14	9	64.29		5	35.71		14	
+		"AUSTIN, Maisie (IND)"	122	51	41.80		71	58.20		122	
+		Total	391	1190	55.07		971	44.93		2161	
+
+	Bakewell										
+			1st Prefs	609	38.06		991	61.94		1600	
+		"POLLOCK, David (GRN)"	60	35	58.33		25	41.67		60	
+		"DUNSTAN, Ted (DEM)"	90	54	60.00		36	40.00		90	
+		"STEWART, Mervyn James (HAN)"	78	29	37.18		49	62.82		78	
+		"RYAN-JAPARTA, Maurie (IND)"	11	5	45.45		6	54.55		11	
+		"AUSTIN, Maisie (IND)"	81	30	37.04		51	62.96		81	
+		Total	320	762	39.69		1158	60.31		1920	
+
+	Berrimah										
+			1st Prefs	182	30.59		413	69.41		595	
+		"POLLOCK, David (GRN)"	22	18	81.82		4	18.18		22	
+		"DUNSTAN, Ted (DEM)"	41	22	53.66		19	46.34		41	
+		"STEWART, Mervyn James (HAN)"	34	14	41.18		20	58.82		34	
+		"RYAN-JAPARTA, Maurie (IND)"	2	1	50.00		1	50.00		2	
+		"AUSTIN, Maisie (IND)"	24	7	29.17		17	70.83		24	
+		Total	123	244	33.98		474	66.02		718	
+
+	Darwin										
+			1st Prefs	256	44.52		319	55.48		575	
+		"POLLOCK, David (GRN)"	55	43	78.18		12	21.82		55	
+		"DUNSTAN, Ted (DEM)"	58	36	62.07		22	37.93		58	
+		"STEWART, Mervyn James (HAN)"	19	7	36.84		12	63.16		19	
+		"RYAN-JAPARTA, Maurie (IND)"	8	5	62.50		3	37.50		8	
+		"AUSTIN, Maisie (IND)"	40	18	45.00		22	55.00		40	
+		Total	180	365	48.34		390	51.66		755	
+
+	Driver										
+			1st Prefs	857	43.28		1123	56.72		1980	
+		"POLLOCK, David (GRN)"	82	56	68.29		26	31.71		82	
+		"DUNSTAN, Ted (DEM)"	119	77	64.71		42	35.29		119	
+		"STEWART, Mervyn James (HAN)"	125	49	39.20		76	60.80		125	
+		"RYAN-JAPARTA, Maurie (IND)"	20	10	50.00		10	50.00		20	
+		"AUSTIN, Maisie (IND)"	99	45	45.45		54	54.55		99	
+		Total	445	1094	45.11		1331	54.89		2425	
+
+	Durack										
+			1st Prefs	400	31.40		874	68.60		1274	
+		"POLLOCK, David (GRN)"	42	28	66.67		14	33.33		42	
+		"DUNSTAN, Ted (DEM)"	42	22	52.38		20	47.62		42	
+		"STEWART, Mervyn James (HAN)"	51	21	41.18		30	58.82		51	
+		"RYAN-JAPARTA, Maurie (IND)"	6	2	33.33		4	66.67		6	
+		"AUSTIN, Maisie (IND)"	58	23	39.66		35	60.34		58	
+		Total	199	496	33.67		977	66.33		1473	
+
+	Gray										
+			1st Prefs	843	43.70		1086	56.30		1929	
+		"POLLOCK, David (GRN)"	73	50	68.49		23	31.51		73	
+		"DUNSTAN, Ted (DEM)"	92	49	53.26		43	46.74		92	
+		"STEWART, Mervyn James (HAN)"	104	44	42.31		60	57.69		104	
+		"RYAN-JAPARTA, Maurie (IND)"	14	13	92.86		1	7.14		14	
+		"AUSTIN, Maisie (IND)"	85	33	38.82		52	61.18		85	
+		Total	368	1032	44.93		1265	55.07		2297	
+
+	Jingili										
+			1st Prefs	794	52.72		712	47.28		1506	
+		"POLLOCK, David (GRN)"	106	91	85.85		15	14.15		106	
+		"DUNSTAN, Ted (DEM)"	97	68	70.10		29	29.90		97	
+		"STEWART, Mervyn James (HAN)"	70	31	44.29		39	55.71		70	
+		"RYAN-JAPARTA, Maurie (IND)"	13	9	69.23		4	30.77		13	
+		"AUSTIN, Maisie (IND)"	85	40	47.06		45	52.94		85	
+		Total	371	1033	55.03		844	44.97		1877	
+
+	Karama										
+			1st Prefs	1561	54.85		1285	45.15		2846	
+		"POLLOCK, David (GRN)"	140	91	65.00		49	35.00		140	
+		"DUNSTAN, Ted (DEM)"	160	97	60.63		63	39.38		160	
+		"STEWART, Mervyn James (HAN)"	119	43	36.13		76	63.87		119	
+		"RYAN-JAPARTA, Maurie (IND)"	30	21	70.00		9	30.00		30	
+		"AUSTIN, Maisie (IND)"	184	83	45.11		101	54.89		184	
+		Total	633	1896	54.50		1583	45.50		3479	
+
+	Larrakeyah										
+			1st Prefs	476	36.06		844	63.94		1320	
+		"POLLOCK, David (GRN)"	80	59	73.75		21	26.25		80	
+		"DUNSTAN, Ted (DEM)"	116	74	63.79		42	36.21		116	
+		"STEWART, Mervyn James (HAN)"	43	13	30.23		30	69.77		43	
+		"RYAN-JAPARTA, Maurie (IND)"	14	7	50.00		7	50.00		14	
+		"AUSTIN, Maisie (IND)"	78	23	29.49		55	70.51		78	
+		Total	331	652	39.49		999	60.51		1651	
+
+	Leanyer										
+			1st Prefs	797	48.63		842	51.37		1639	
+		"POLLOCK, David (GRN)"	98	81	82.65		17	17.35		98	
+		"DUNSTAN, Ted (DEM)"	118	74	62.71		44	37.29		118	
+		"STEWART, Mervyn James (HAN)"	40	12	30.00		28	70.00		40	
+		"RYAN-JAPARTA, Maurie (IND)"	8	3	37.50		5	62.50		8	
+		"AUSTIN, Maisie (IND)"	83	32	38.55		51	61.45		83	
+		Total	347	999	50.30		987	49.70		1986	
+
+	Ludmilla										
+			1st Prefs	604	44.91		741	55.09		1345	
+		"POLLOCK, David (GRN)"	104	79	75.96		25	24.04		104	
+		"DUNSTAN, Ted (DEM)"	91	63	69.23		28	30.77		91	
+		"STEWART, Mervyn James (HAN)"	70	28	40.00		42	60.00		70	
+		"RYAN-JAPARTA, Maurie (IND)"	14	9	64.29		5	35.71		14	
+		"AUSTIN, Maisie (IND)"	72	35	48.61		37	51.39		72	
+		Total	351	818	48.23		878	51.77		1696	
+
+	Moulden										
+			1st Prefs	265	53.21		233	46.79		498	
+		"POLLOCK, David (GRN)"	26	19	73.08		7	26.92		26	
+		"DUNSTAN, Ted (DEM)"	26	12	46.15		14	53.85		26	
+		"STEWART, Mervyn James (HAN)"	42	15	35.71		27	64.29		42	
+		"RYAN-JAPARTA, Maurie (IND)"	11	4	36.36		7	63.64		11	
+		"AUSTIN, Maisie (IND)"	30	15	50.00		15	50.00		30	
+		Total	135	330	52.13		303	47.87		633	
+
+	Nakara										
+			1st Prefs	1008	56.82		766	43.18		1774	
+		"POLLOCK, David (GRN)"	106	83	78.30		23	21.70		106	
+		"DUNSTAN, Ted (DEM)"	149	103	69.13		46	30.87		149	
+		"STEWART, Mervyn James (HAN)"	58	31	53.45		27	46.55		58	
+		"RYAN-JAPARTA, Maurie (IND)"	10	6	60.00		4	40.00		10	
+		"AUSTIN, Maisie (IND)"	126	62	49.21		64	50.79		126	
+		Total	449	1293	58.16		930	41.84		2223	
+
+	Nightcliff										
+			1st Prefs	1400	50.93		1349	49.07		2749	
+		"POLLOCK, David (GRN)"	341	290	85.04		51	14.96		341	
+		"DUNSTAN, Ted (DEM)"	236	183	77.54		53	22.46		236	
+		"STEWART, Mervyn James (HAN)"	91	36	39.56		55	60.44		91	
+		"RYAN-JAPARTA, Maurie (IND)"	20	15	75.00		5	25.00		20	
+		"AUSTIN, Maisie (IND)"	267	111	41.57		156	58.43		267	
+		Total	955	2035	54.94		1669	45.06		3704	
+
+	Parap										
+			1st Prefs	960	47.17		1075	52.83		2035	
+		"POLLOCK, David (GRN)"	160	141	88.13		19	11.88		160	
+		"DUNSTAN, Ted (DEM)"	136	97	71.32		39	28.68		136	
+		"STEWART, Mervyn James (HAN)"	52	22	42.31		30	57.69		52	
+		"RYAN-JAPARTA, Maurie (IND)"	14	8	57.14		6	42.86		14	
+		"AUSTIN, Maisie (IND)"	148	57	38.51		91	61.49		148	
+		Total	510	1285	50.49		1260	49.51		2545	
+
+	Rapid Creek										
+			1st Prefs	647	57.97		469	42.03		1116	
+		"POLLOCK, David (GRN)"	103	86	83.50		17	16.50		103	
+		"DUNSTAN, Ted (DEM)"	67	47	70.15		20	29.85		67	
+		"STEWART, Mervyn James (HAN)"	49	24	48.98		25	51.02		49	
+		"RYAN-JAPARTA, Maurie (IND)"	7	4	57.14		3	42.86		7	
+		"AUSTIN, Maisie (IND)"	68	33	48.53		35	51.47		68	
+		Total	294	841	59.65		569	40.35		1410	
+
+	Stuart Park										
+			1st Prefs	533	44.68		660	55.32		1193	
+		"POLLOCK, David (GRN)"	105	86	81.90		19	18.10		105	
+		"DUNSTAN, Ted (DEM)"	103	80	77.67		23	22.33		103	
+		"STEWART, Mervyn James (HAN)"	45	15	33.33		30	66.67		45	
+		"RYAN-JAPARTA, Maurie (IND)"	11	4	36.36		7	63.64		11	
+		"AUSTIN, Maisie (IND)"	118	40	33.90		78	66.10		118	
+		Total	382	758	48.13		817	51.87		1575	
+
+	Tiwi										
+			1st Prefs	449	55.64		358	44.36		807	
+		"POLLOCK, David (GRN)"	60	48	80.00		12	20.00		60	
+		"DUNSTAN, Ted (DEM)"	82	57	69.51		25	30.49		82	
+		"STEWART, Mervyn James (HAN)"	32	15	46.88		17	53.13		32	
+		"RYAN-JAPARTA, Maurie (IND)"	10	8	80.00		2	20.00		10	
+		"AUSTIN, Maisie (IND)"	50	19	38.00		31	62.00		50	
+		Total	234	596	57.25		445	42.75		1041	
+
+	Wagaman										
+			1st Prefs	630	58.82		441	41.18		1071	
+		"POLLOCK, David (GRN)"	49	44	89.80		5	10.20		49	
+		"DUNSTAN, Ted (DEM)"	63	39	61.90		24	38.10		63	
+		"STEWART, Mervyn James (HAN)"	25	13	52.00		12	48.00		25	
+		"RYAN-JAPARTA, Maurie (IND)"	7	5	71.43		2	28.57		7	
+		"AUSTIN, Maisie (IND)"	73	34	46.58		39	53.42		73	
+		Total	217	765	59.39		523	40.61		1288	
+
+	Wanguri										
+			1st Prefs	740	55.60		591	44.40		1331	
+		"POLLOCK, David (GRN)"	83	67	80.72		16	19.28		83	
+		"DUNSTAN, Ted (DEM)"	77	54	70.13		23	29.87		77	
+		"STEWART, Mervyn James (HAN)"	44	10	22.73		34	77.27		44	
+		"RYAN-JAPARTA, Maurie (IND)"	7	5	71.43		2	28.57		7	
+		"AUSTIN, Maisie (IND)"	101	42	41.58		59	58.42		101	
+		Total	312	918	55.87		725	44.13		1643	
+
+	Woodroffe										
+			1st Prefs	139	39.15		216	60.85		355	
+		"POLLOCK, David (GRN)"	9	7	77.78		2	22.22		9	
+		"DUNSTAN, Ted (DEM)"	10	3	30.00		7	70.00		10	
+		"STEWART, Mervyn James (HAN)"	13	6	46.15		7	53.85		13	
+		"RYAN-JAPARTA, Maurie (IND)"	3	1	33.33		2	66.67		3	
+		"AUSTIN, Maisie (IND)"	27	10	37.04		17	62.96		27	
+		Total	62	166	39.81		251	60.19		417	
+
+	Wulagi										
+			1st Prefs	509	48.80		534	51.20		1043	
+		"POLLOCK, David (GRN)"	56	39	69.64		17	30.36		56	
+		"DUNSTAN, Ted (DEM)"	63	40	63.49		23	36.51		63	
+		"STEWART, Mervyn James (HAN)"	42	14	33.33		28	66.67		42	
+		"RYAN-JAPARTA, Maurie (IND)"	11	7	63.64		4	36.36		11	
+		"AUSTIN, Maisie (IND)"	79	34	43.04		45	56.96		79	
+		Total	251	643	49.69		651	50.31		1294	
+
+	Prison Mobiles										
+			1st Prefs	7	77.78		2	22.22		9	
+		"POLLOCK, David (GRN)"	0	0	0.00		0	0.00		0	
+		"DUNSTAN, Ted (DEM)"	1	0	0.00		1	100.00		1	
+		"STEWART, Mervyn James (HAN)"	1	1	100.00		0	0.00		1	
+		"RYAN-JAPARTA, Maurie (IND)"	0	0	0.00		0	0.00		0	
+		"AUSTIN, Maisie (IND)"	2	2	100.00		0	0.00		2	
+		Total	4	10	76.92		3	23.08		13	
+
+	Special Hospitals										
+			1st Prefs	41	50.62		40	49.38		81	
+		"POLLOCK, David (GRN)"	17	13	76.47		4	23.53		17	
+		"DUNSTAN, Ted (DEM)"	7	4	57.14		3	42.86		7	
+		"STEWART, Mervyn James (HAN)"	1	0	0.00		1	100.00		1	
+		"RYAN-JAPARTA, Maurie (IND)"	2	0	0.00		2	100.00		2	
+		"AUSTIN, Maisie (IND)"	10	2	20.00		8	80.00		10	
+		Total	37	60	50.85		58	49.15		118	
+
+	Total Ordinary										
+			1st Prefs	15669	48.30		16772	51.70		32441	
+		"POLLOCK, David (GRN)"	2059	1619	78.63		440	21.37		2059	
+		"DUNSTAN, Ted (DEM)"	2148	1437	66.90		711	33.10		2148	
+		"STEWART, Mervyn James (HAN)"	1317	514	39.03		803	60.97		1317	
+		"RYAN-JAPARTA, Maurie (IND)"	267	161	60.30		106	39.70		267	
+		"AUSTIN, Maisie (IND)"	2110	881	41.75		1229	58.25		2110	
+		Total	7901	20281	50.27		20061	49.73		40342	
+
+	ABSENT										
+			1st Prefs	352	54.24		297	45.76		649	
+		"POLLOCK, David (GRN)"	53	42	79.25		11	20.75		53	
+		"DUNSTAN, Ted (DEM)"	49	40	81.63		9	18.37		49	
+		"STEWART, Mervyn James (HAN)"	31	15	48.39		16	51.61		31	
+		"RYAN-JAPARTA, Maurie (IND)"	11	5	45.45		6	54.55		11	
+		"AUSTIN, Maisie (IND)"	38	19	50.00		19	50.00		38	
+		Total	182	473	56.92		358	43.08		831	
+
+	POSTAL										
+			1st Prefs	361	41.12		517	58.88		878	
+		"POLLOCK, David (GRN)"	42	32	76.19		10	23.81		42	
+		"DUNSTAN, Ted (DEM)"	73	43	58.90		30	41.10		73	
+		"STEWART, Mervyn James (HAN)"	61	21	34.43		40	65.57		61	
+		"RYAN-JAPARTA, Maurie (IND)"	6	3	50.00		3	50.00		6	
+		"AUSTIN, Maisie (IND)"	56	28	50.00		28	50.00		56	
+		Total	238	488	43.73		628	56.27		1116	
+
+	PRE_POLL										
+			1st Prefs	1727	44.38		2164	55.62		3891	
+		"POLLOCK, David (GRN)"	261	199	76.25		62	23.75		261	
+		"DUNSTAN, Ted (DEM)"	298	193	64.77		105	35.23		298	
+		"STEWART, Mervyn James (HAN)"	250	89	35.60		161	64.40		250	
+		"RYAN-JAPARTA, Maurie (IND)"	50	26	52.00		24	48.00		50	
+		"AUSTIN, Maisie (IND)"	169	82	48.52		87	51.48		169	
+		Total	1028	2316	47.08		2603	52.92		4919	
+
+	PROVISIONAL										
+			1st Prefs	86	52.44		78	47.56		164	
+		"POLLOCK, David (GRN)"	24	16	66.67		8	33.33		24	
+		"DUNSTAN, Ted (DEM)"	14	4	28.57		10	71.43		14	
+		"STEWART, Mervyn James (HAN)"	10	5	50.00		5	50.00		10	
+		"RYAN-JAPARTA, Maurie (IND)"	3	1	33.33		2	66.67		3	
+		"AUSTIN, Maisie (IND)"	5	0	0.00		5	100.00		5	
+		Total	56	112	50.91		108	49.09		220	
+
+	Division Summary										
+			1st Prefs	18195	47.85		19828	52.15		38023	
+		"POLLOCK, David (GRN)"	2439	1908	78.23		531	21.77		2439	
+		"DUNSTAN, Ted (DEM)"	2582	1717	66.50		865	33.50		2582	
+		"STEWART, Mervyn James (HAN)"	1669	644	38.59		1025	61.41		1669	
+		"RYAN-JAPARTA, Maurie (IND)"	337	196	58.16		141	41.84		337	
+		"AUSTIN, Maisie (IND)"	2378	1010	42.47		1368	57.53		2378	
+		Total	9405	23670	49.91		23758	50.09		47428	

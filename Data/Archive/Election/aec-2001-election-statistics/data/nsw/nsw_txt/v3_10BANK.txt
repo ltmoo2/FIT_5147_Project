@@ -1,0 +1,458 @@
+House of Representatives - 2001 Election: New South Wales											
+Two Candidate Preferred Preference Flow Result											
+By Polling Place											
+											
+Banks (83122)											
+		Candidate		"WATZLAFF, Marcus"		           	"MELHAM, Daryl"		              	Total	
+				LP		                         	ALP		                        		
+				Votes	%	                     	Votes	%	                     		
+	Beverly Hills North										
+			1st Prefs	854	40.00		1281	60.00		2135	
+		"O'LEARY, Ken (AFI)"	67	45	67.16		22	32.84		67	
+		"WILCOX, David (GRN)"	69	24	34.78		45	65.22		69	
+		"ABRAHAMS, Lynn (HAN)"	116	92	79.31		24	20.69		116	
+		"HANNOUN, Nazim (IND)"	11	8	72.73		3	27.27		11	
+		"MURPHY, Lynne (UNI)"	53	7	13.21		46	86.79		53	
+		"COLE, Stephen (DEM)"	67	17	25.37		50	74.63		67	
+		"BAISSARI, Sam (CTA)"	78	50	64.10		28	35.90		78	
+		Total	461	1097	42.26		1499	57.74		2596	
+
+	Beverly Hills South (Banks)										
+			1st Prefs	215	37.39		360	62.61		575	
+		"O'LEARY, Ken (AFI)"	35	21	60.00		14	40.00		35	
+		"WILCOX, David (GRN)"	10	6	60.00		4	40.00		10	
+		"ABRAHAMS, Lynn (HAN)"	11	7	63.64		4	36.36		11	
+		"HANNOUN, Nazim (IND)"	4	2	50.00		2	50.00		4	
+		"MURPHY, Lynne (UNI)"	17	5	29.41		12	70.59		17	
+		"COLE, Stephen (DEM)"	25	4	16.00		21	84.00		25	
+		"BAISSARI, Sam (CTA)"	22	15	68.18		7	31.82		22	
+		Total	124	275	39.34		424	60.66		699	
+
+	East Hills										
+			1st Prefs	359	45.73		426	54.27		785	
+		"O'LEARY, Ken (AFI)"	51	36	70.59		15	29.41		51	
+		"WILCOX, David (GRN)"	36	8	22.22		28	77.78		36	
+		"ABRAHAMS, Lynn (HAN)"	103	79	76.70		24	23.30		103	
+		"HANNOUN, Nazim (IND)"	7	4	57.14		3	42.86		7	
+		"MURPHY, Lynne (UNI)"	6	1	16.67		5	83.33		6	
+		"COLE, Stephen (DEM)"	24	6	25.00		18	75.00		24	
+		"BAISSARI, Sam (CTA)"	38	24	63.16		14	36.84		38	
+		Total	265	517	49.24		533	50.76		1050	
+
+	Hannans Road										
+			1st Prefs	554	27.64		1450	72.36		2004	
+		"O'LEARY, Ken (AFI)"	57	47	82.46		10	17.54		57	
+		"WILCOX, David (GRN)"	55	20	36.36		35	63.64		55	
+		"ABRAHAMS, Lynn (HAN)"	143	116	81.12		27	18.88		143	
+		"HANNOUN, Nazim (IND)"	15	5	33.33		10	66.67		15	
+		"MURPHY, Lynne (UNI)"	43	6	13.95		37	86.05		43	
+		"COLE, Stephen (DEM)"	58	13	22.41		45	77.59		58	
+		"BAISSARI, Sam (CTA)"	36	26	72.22		10	27.78		36	
+		Total	407	787	32.64		1624	67.36		2411	
+
+	Lugarno										
+			1st Prefs	1669	67.87		790	32.13		2459	
+		"O'LEARY, Ken (AFI)"	57	48	84.21		9	15.79		57	
+		"WILCOX, David (GRN)"	90	31	34.44		59	65.56		90	
+		"ABRAHAMS, Lynn (HAN)"	169	146	86.39		23	13.61		169	
+		"HANNOUN, Nazim (IND)"	11	8	72.73		3	27.27		11	
+		"MURPHY, Lynne (UNI)"	9	2	22.22		7	77.78		9	
+		"COLE, Stephen (DEM)"	106	27	25.47		79	74.53		106	
+		"BAISSARI, Sam (CTA)"	86	70	81.40		16	18.60		86	
+		Total	528	2001	66.99		986	33.01		2987	
+
+	Milperra										
+			1st Prefs	956	52.61		861	47.39		1817	
+		"O'LEARY, Ken (AFI)"	159	106	66.67		53	33.33		159	
+		"WILCOX, David (GRN)"	64	22	34.38		42	65.63		64	
+		"ABRAHAMS, Lynn (HAN)"	232	176	75.86		56	24.14		232	
+		"HANNOUN, Nazim (IND)"	12	8	66.67		4	33.33		12	
+		"MURPHY, Lynne (UNI)"	11	4	36.36		7	63.64		11	
+		"COLE, Stephen (DEM)"	70	18	25.71		52	74.29		70	
+		"BAISSARI, Sam (CTA)"	59	42	71.19		17	28.81		59	
+		Total	607	1332	54.95		1092	45.05		2424	
+
+	Mortdale Central										
+			1st Prefs	669	42.08		921	57.92		1590	
+		"O'LEARY, Ken (AFI)"	51	40	78.43		11	21.57		51	
+		"WILCOX, David (GRN)"	65	20	30.77		45	69.23		65	
+		"ABRAHAMS, Lynn (HAN)"	100	75	75.00		25	25.00		100	
+		"HANNOUN, Nazim (IND)"	10	8	80.00		2	20.00		10	
+		"MURPHY, Lynne (UNI)"	18	6	33.33		12	66.67		18	
+		"COLE, Stephen (DEM)"	59	15	25.42		44	74.58		59	
+		"BAISSARI, Sam (CTA)"	32	19	59.38		13	40.63		32	
+		Total	335	852	44.26		1073	55.74		1925	
+
+	Mortdale Heights										
+			1st Prefs	436	53.96		372	46.04		808	
+		"O'LEARY, Ken (AFI)"	17	10	58.82		7	41.18		17	
+		"WILCOX, David (GRN)"	23	6	26.09		17	73.91		23	
+		"ABRAHAMS, Lynn (HAN)"	74	58	78.38		16	21.62		74	
+		"HANNOUN, Nazim (IND)"	3	2	66.67		1	33.33		3	
+		"MURPHY, Lynne (UNI)"	2	1	50.00		1	50.00		2	
+		"COLE, Stephen (DEM)"	29	11	37.93		18	62.07		29	
+		"BAISSARI, Sam (CTA)"	16	12	75.00		4	25.00		16	
+		Total	164	536	55.14		436	44.86		972	
+
+	Mortdale West										
+			1st Prefs	739	47.13		829	52.87		1568	
+		"O'LEARY, Ken (AFI)"	52	43	82.69		9	17.31		52	
+		"WILCOX, David (GRN)"	53	16	30.19		37	69.81		53	
+		"ABRAHAMS, Lynn (HAN)"	87	55	63.22		32	36.78		87	
+		"HANNOUN, Nazim (IND)"	9	6	66.67		3	33.33		9	
+		"MURPHY, Lynne (UNI)"	13	1	7.69		12	92.31		13	
+		"COLE, Stephen (DEM)"	77	23	29.87		54	70.13		77	
+		"BAISSARI, Sam (CTA)"	40	26	65.00		14	35.00		40	
+		Total	331	909	47.87		990	52.13		1899	
+
+	Narwee										
+			1st Prefs	1006	43.99		1281	56.01		2287	
+		"O'LEARY, Ken (AFI)"	65	44	67.69		21	32.31		65	
+		"WILCOX, David (GRN)"	44	17	38.64		27	61.36		44	
+		"ABRAHAMS, Lynn (HAN)"	121	88	72.73		33	27.27		121	
+		"HANNOUN, Nazim (IND)"	18	13	72.22		5	27.78		18	
+		"MURPHY, Lynne (UNI)"	43	7	16.28		36	83.72		43	
+		"COLE, Stephen (DEM)"	109	32	29.36		77	70.64		109	
+		"BAISSARI, Sam (CTA)"	61	49	80.33		12	19.67		61	
+		Total	461	1256	45.71		1492	54.29		2748	
+
+	Oatley (Banks)										
+			1st Prefs	271	61.04		173	38.96		444	
+		"O'LEARY, Ken (AFI)"	13	12	92.31		1	7.69		13	
+		"WILCOX, David (GRN)"	31	11	35.48		20	64.52		31	
+		"ABRAHAMS, Lynn (HAN)"	20	14	70.00		6	30.00		20	
+		"HANNOUN, Nazim (IND)"	4	0	0.00		4	100.00		4	
+		"MURPHY, Lynne (UNI)"	4	1	25.00		3	75.00		4	
+		"COLE, Stephen (DEM)"	44	18	40.91		26	59.09		44	
+		"BAISSARI, Sam (CTA)"	16	10	62.50		6	37.50		16	
+		Total	132	337	58.51		239	41.49		576	
+
+	Oatley West										
+			1st Prefs	1155	58.81		809	41.19		1964	
+		"O'LEARY, Ken (AFI)"	52	33	63.46		19	36.54		52	
+		"WILCOX, David (GRN)"	113	25	22.12		88	77.88		113	
+		"ABRAHAMS, Lynn (HAN)"	101	78	77.23		23	22.77		101	
+		"HANNOUN, Nazim (IND)"	4	3	75.00		1	25.00		4	
+		"MURPHY, Lynne (UNI)"	12	4	33.33		8	66.67		12	
+		"COLE, Stephen (DEM)"	149	36	24.16		113	75.84		149	
+		"BAISSARI, Sam (CTA)"	51	35	68.63		16	31.37		51	
+		Total	482	1369	55.97		1077	44.03		2446	
+
+	Padstow										
+			1st Prefs	1094	39.93		1646	60.07		2740	
+		"O'LEARY, Ken (AFI)"	135	92	68.15		43	31.85		135	
+		"WILCOX, David (GRN)"	86	21	24.42		65	75.58		86	
+		"ABRAHAMS, Lynn (HAN)"	211	152	72.04		59	27.96		211	
+		"HANNOUN, Nazim (IND)"	12	8	66.67		4	33.33		12	
+		"MURPHY, Lynne (UNI)"	50	12	24.00		38	76.00		50	
+		"COLE, Stephen (DEM)"	117	43	36.75		74	63.25		117	
+		"BAISSARI, Sam (CTA)"	115	86	74.78		29	25.22		115	
+		Total	726	1508	43.51		1958	56.49		3466	
+
+	Padstow East										
+			1st Prefs	488	41.50		688	58.50		1176	
+		"O'LEARY, Ken (AFI)"	36	24	66.67		12	33.33		36	
+		"WILCOX, David (GRN)"	16	5	31.25		11	68.75		16	
+		"ABRAHAMS, Lynn (HAN)"	152	108	71.05		44	28.95		152	
+		"HANNOUN, Nazim (IND)"	6	4	66.67		2	33.33		6	
+		"MURPHY, Lynne (UNI)"	25	5	20.00		20	80.00		25	
+		"COLE, Stephen (DEM)"	28	7	25.00		21	75.00		28	
+		"BAISSARI, Sam (CTA)"	74	56	75.68		18	24.32		74	
+		Total	337	697	46.07		816	53.93		1513	
+
+	Padstow North										
+			1st Prefs	173	41.49		244	58.51		417	
+		"O'LEARY, Ken (AFI)"	18	14	77.78		4	22.22		18	
+		"WILCOX, David (GRN)"	14	4	28.57		10	71.43		14	
+		"ABRAHAMS, Lynn (HAN)"	48	39	81.25		9	18.75		48	
+		"HANNOUN, Nazim (IND)"	1	1	100.00		0	0.00		1	
+		"MURPHY, Lynne (UNI)"	3	1	33.33		2	66.67		3	
+		"COLE, Stephen (DEM)"	18	9	50.00		9	50.00		18	
+		"BAISSARI, Sam (CTA)"	24	20	83.33		4	16.67		24	
+		Total	126	261	48.07		282	51.93		543	
+
+	Padstow South										
+			1st Prefs	1043	50.41		1026	49.59		2069	
+		"O'LEARY, Ken (AFI)"	105	77	73.33		28	26.67		105	
+		"WILCOX, David (GRN)"	74	23	31.08		51	68.92		74	
+		"ABRAHAMS, Lynn (HAN)"	190	152	80.00		38	20.00		190	
+		"HANNOUN, Nazim (IND)"	5	4	80.00		1	20.00		5	
+		"MURPHY, Lynne (UNI)"	15	2	13.33		13	86.67		15	
+		"COLE, Stephen (DEM)"	95	31	32.63		64	67.37		95	
+		"BAISSARI, Sam (CTA)"	81	67	82.72		14	17.28		81	
+		Total	565	1399	53.11		1235	46.89		2634	
+
+	Panania										
+			1st Prefs	539	39.34		831	60.66		1370	
+		"O'LEARY, Ken (AFI)"	58	41	70.69		17	29.31		58	
+		"WILCOX, David (GRN)"	48	17	35.42		31	64.58		48	
+		"ABRAHAMS, Lynn (HAN)"	133	96	72.18		37	27.82		133	
+		"HANNOUN, Nazim (IND)"	7	3	42.86		4	57.14		7	
+		"MURPHY, Lynne (UNI)"	8	4	50.00		4	50.00		8	
+		"COLE, Stephen (DEM)"	34	14	41.18		20	58.82		34	
+		"BAISSARI, Sam (CTA)"	60	43	71.67		17	28.33		60	
+		Total	348	757	44.06		961	55.94		1718	
+
+	Panania Central										
+			1st Prefs	443	40.38		654	59.62		1097	
+		"O'LEARY, Ken (AFI)"	61	40	65.57		21	34.43		61	
+		"WILCOX, David (GRN)"	34	11	32.35		23	67.65		34	
+		"ABRAHAMS, Lynn (HAN)"	125	98	78.40		27	21.60		125	
+		"HANNOUN, Nazim (IND)"	5	4	80.00		1	20.00		5	
+		"MURPHY, Lynne (UNI)"	6	1	16.67		5	83.33		6	
+		"COLE, Stephen (DEM)"	26	12	46.15		14	53.85		26	
+		"BAISSARI, Sam (CTA)"	41	34	82.93		7	17.07		41	
+		Total	298	643	46.09		752	53.91		1395	
+
+	Panania North										
+			1st Prefs	621	40.38		917	59.62		1538	
+		"O'LEARY, Ken (AFI)"	56	36	64.29		20	35.71		56	
+		"WILCOX, David (GRN)"	39	9	23.08		30	76.92		39	
+		"ABRAHAMS, Lynn (HAN)"	152	116	76.32		36	23.68		152	
+		"HANNOUN, Nazim (IND)"	9	7	77.78		2	22.22		9	
+		"MURPHY, Lynne (UNI)"	3	1	33.33		2	66.67		3	
+		"COLE, Stephen (DEM)"	39	11	28.21		28	71.79		39	
+		"BAISSARI, Sam (CTA)"	55	34	61.82		21	38.18		55	
+		Total	353	835	44.16		1056	55.84		1891	
+
+	Panania South										
+			1st Prefs	1081	49.88		1086	50.12		2167	
+		"O'LEARY, Ken (AFI)"	79	52	65.82		27	34.18		79	
+		"WILCOX, David (GRN)"	72	15	20.83		57	79.17		72	
+		"ABRAHAMS, Lynn (HAN)"	257	198	77.04		59	22.96		257	
+		"HANNOUN, Nazim (IND)"	5	5	100.00		0	0.00		5	
+		"MURPHY, Lynne (UNI)"	7	5	71.43		2	28.57		7	
+		"COLE, Stephen (DEM)"	76	27	35.53		49	64.47		76	
+		"BAISSARI, Sam (CTA)"	72	55	76.39		17	23.61		72	
+		Total	568	1438	52.58		1297	47.42		2735	
+
+	Peakhurst										
+			1st Prefs	181	42.29		247	57.71		428	
+		"O'LEARY, Ken (AFI)"	13	9	69.23		4	30.77		13	
+		"WILCOX, David (GRN)"	12	3	25.00		9	75.00		12	
+		"ABRAHAMS, Lynn (HAN)"	39	30	76.92		9	23.08		39	
+		"HANNOUN, Nazim (IND)"	1	0	0.00		1	100.00		1	
+		"MURPHY, Lynne (UNI)"	1	0	0.00		1	100.00		1	
+		"COLE, Stephen (DEM)"	14	3	21.43		11	78.57		14	
+		"BAISSARI, Sam (CTA)"	9	6	66.67		3	33.33		9	
+		Total	89	232	44.87		285	55.13		517	
+
+	Peakhurst East										
+			1st Prefs	566	43.27		742	56.73		1308	
+		"O'LEARY, Ken (AFI)"	58	45	77.59		13	22.41		58	
+		"WILCOX, David (GRN)"	40	10	25.00		30	75.00		40	
+		"ABRAHAMS, Lynn (HAN)"	86	66	76.74		20	23.26		86	
+		"HANNOUN, Nazim (IND)"	5	2	40.00		3	60.00		5	
+		"MURPHY, Lynne (UNI)"	24	5	20.83		19	79.17		24	
+		"COLE, Stephen (DEM)"	60	26	43.33		34	56.67		60	
+		"BAISSARI, Sam (CTA)"	56	37	66.07		19	33.93		56	
+		Total	329	757	46.24		880	53.76		1637	
+
+	Peakhurst South										
+			1st Prefs	863	62.81		511	37.19		1374	
+		"O'LEARY, Ken (AFI)"	45	29	64.44		16	35.56		45	
+		"WILCOX, David (GRN)"	51	12	23.53		39	76.47		51	
+		"ABRAHAMS, Lynn (HAN)"	129	98	75.97		31	24.03		129	
+		"HANNOUN, Nazim (IND)"	1	1	100.00		0	0.00		1	
+		"MURPHY, Lynne (UNI)"	3	0	0.00		3	100.00		3	
+		"COLE, Stephen (DEM)"	84	37	44.05		47	55.95		84	
+		"BAISSARI, Sam (CTA)"	35	26	74.29		9	25.71		35	
+		Total	348	1066	61.90		656	38.10		1722	
+
+	Peakhurst West										
+			1st Prefs	1112	53.00		986	47.00		2098	
+		"O'LEARY, Ken (AFI)"	87	62	71.26		25	28.74		87	
+		"WILCOX, David (GRN)"	58	20	34.48		38	65.52		58	
+		"ABRAHAMS, Lynn (HAN)"	152	125	82.24		27	17.76		152	
+		"HANNOUN, Nazim (IND)"	6	4	66.67		2	33.33		6	
+		"MURPHY, Lynne (UNI)"	7	3	42.86		4	57.14		7	
+		"COLE, Stephen (DEM)"	100	32	32.00		68	68.00		100	
+		"BAISSARI, Sam (CTA)"	59	45	76.27		14	23.73		59	
+		Total	469	1403	54.66		1164	45.34		2567	
+
+	Penshurst										
+			1st Prefs	541	41.68		757	58.32		1298	
+		"O'LEARY, Ken (AFI)"	40	23	57.50		17	42.50		40	
+		"WILCOX, David (GRN)"	40	8	20.00		32	80.00		40	
+		"ABRAHAMS, Lynn (HAN)"	77	61	79.22		16	20.78		77	
+		"HANNOUN, Nazim (IND)"	5	4	80.00		1	20.00		5	
+		"MURPHY, Lynne (UNI)"	30	5	16.67		25	83.33		30	
+		"COLE, Stephen (DEM)"	51	19	37.25		32	62.75		51	
+		"BAISSARI, Sam (CTA)"	47	32	68.09		15	31.91		47	
+		Total	290	693	43.64		895	56.36		1588	
+
+	Penshurst Central										
+			1st Prefs	594	38.57		946	61.43		1540	
+		"O'LEARY, Ken (AFI)"	49	29	59.18		20	40.82		49	
+		"WILCOX, David (GRN)"	67	18	26.87		49	73.13		67	
+		"ABRAHAMS, Lynn (HAN)"	76	62	81.58		14	18.42		76	
+		"HANNOUN, Nazim (IND)"	20	13	65.00		7	35.00		20	
+		"MURPHY, Lynne (UNI)"	22	3	13.64		19	86.36		22	
+		"COLE, Stephen (DEM)"	95	30	31.58		65	68.42		95	
+		"BAISSARI, Sam (CTA)"	70	45	64.29		25	35.71		70	
+		Total	399	794	40.95		1145	59.05		1939	
+
+	Picnic Point North										
+			1st Prefs	882	54.34		741	45.66		1623	
+		"O'LEARY, Ken (AFI)"	57	41	71.93		16	28.07		57	
+		"WILCOX, David (GRN)"	53	21	39.62		32	60.38		53	
+		"ABRAHAMS, Lynn (HAN)"	179	143	79.89		36	20.11		179	
+		"HANNOUN, Nazim (IND)"	8	5	62.50		3	37.50		8	
+		"MURPHY, Lynne (UNI)"	7	1	14.29		6	85.71		7	
+		"COLE, Stephen (DEM)"	71	27	38.03		44	61.97		71	
+		"BAISSARI, Sam (CTA)"	66	46	69.70		20	30.30		66	
+		Total	441	1166	56.49		898	43.51		2064	
+
+	Punchbowl (Banks)										
+			1st Prefs	355	21.59		1289	78.41		1644	
+		"O'LEARY, Ken (AFI)"	61	42	68.85		19	31.15		61	
+		"WILCOX, David (GRN)"	38	9	23.68		29	76.32		38	
+		"ABRAHAMS, Lynn (HAN)"	54	35	64.81		19	35.19		54	
+		"HANNOUN, Nazim (IND)"	58	40	68.97		18	31.03		58	
+		"MURPHY, Lynne (UNI)"	38	2	5.26		36	94.74		38	
+		"COLE, Stephen (DEM)"	24	5	20.83		19	79.17		24	
+		"BAISSARI, Sam (CTA)"	45	24	53.33		21	46.67		45	
+		Total	318	512	26.10		1450	73.90		1962	
+
+	Revesby										
+			1st Prefs	387	30.38		887	69.62		1274	
+		"O'LEARY, Ken (AFI)"	54	28	51.85		26	48.15		54	
+		"WILCOX, David (GRN)"	29	7	24.14		22	75.86		29	
+		"ABRAHAMS, Lynn (HAN)"	101	78	77.23		23	22.77		101	
+		"HANNOUN, Nazim (IND)"	10	4	40.00		6	60.00		10	
+		"MURPHY, Lynne (UNI)"	25	3	12.00		22	88.00		25	
+		"COLE, Stephen (DEM)"	38	13	34.21		25	65.79		38	
+		"BAISSARI, Sam (CTA)"	41	20	48.78		21	51.22		41	
+		Total	298	540	34.35		1032	65.65		1572	
+
+	Revesby North										
+			1st Prefs	822	36.01		1461	63.99		2283	
+		"O'LEARY, Ken (AFI)"	154	103	66.88		51	33.12		154	
+		"WILCOX, David (GRN)"	77	24	31.17		53	68.83		77	
+		"ABRAHAMS, Lynn (HAN)"	192	139	72.40		53	27.60		192	
+		"HANNOUN, Nazim (IND)"	18	11	61.11		7	38.89		18	
+		"MURPHY, Lynne (UNI)"	16	4	25.00		12	75.00		16	
+		"COLE, Stephen (DEM)"	58	15	25.86		43	74.14		58	
+		"BAISSARI, Sam (CTA)"	51	30	58.82		21	41.18		51	
+		Total	566	1148	40.29		1701	59.71		2849	
+
+	Revesby South										
+			1st Prefs	877	45.65		1044	54.35		1921	
+		"O'LEARY, Ken (AFI)"	93	63	67.74		30	32.26		93	
+		"WILCOX, David (GRN)"	79	25	31.65		54	68.35		79	
+		"ABRAHAMS, Lynn (HAN)"	233	166	71.24		67	28.76		233	
+		"HANNOUN, Nazim (IND)"	2	1	50.00		1	50.00		2	
+		"MURPHY, Lynne (UNI)"	16	3	18.75		13	81.25		16	
+		"COLE, Stephen (DEM)"	71	22	30.99		49	69.01		71	
+		"BAISSARI, Sam (CTA)"	55	32	58.18		23	41.82		55	
+		Total	549	1189	48.14		1281	51.86		2470	
+
+	Riverwood North										
+			1st Prefs	265	22.65		905	77.35		1170	
+		"O'LEARY, Ken (AFI)"	35	28	80.00		7	20.00		35	
+		"WILCOX, David (GRN)"	24	8	33.33		16	66.67		24	
+		"ABRAHAMS, Lynn (HAN)"	76	56	73.68		20	26.32		76	
+		"HANNOUN, Nazim (IND)"	15	8	53.33		7	46.67		15	
+		"MURPHY, Lynne (UNI)"	37	5	13.51		32	86.49		37	
+		"COLE, Stephen (DEM)"	14	5	35.71		9	64.29		14	
+		"BAISSARI, Sam (CTA)"	29	15	51.72		14	48.28		29	
+		Total	230	390	27.86		1010	72.14		1400	
+
+	Riverwood South										
+			1st Prefs	496	40.76		721	59.24		1217	
+		"O'LEARY, Ken (AFI)"	42	30	71.43		12	28.57		42	
+		"WILCOX, David (GRN)"	40	6	15.00		34	85.00		40	
+		"ABRAHAMS, Lynn (HAN)"	71	57	80.28		14	19.72		71	
+		"HANNOUN, Nazim (IND)"	7	4	57.14		3	42.86		7	
+		"MURPHY, Lynne (UNI)"	28	4	14.29		24	85.71		28	
+		"COLE, Stephen (DEM)"	34	5	14.71		29	85.29		34	
+		"BAISSARI, Sam (CTA)"	29	18	62.07		11	37.93		29	
+		Total	251	620	42.23		848	57.77		1468	
+
+	Sydney (Banks)										
+			1st Prefs	33	36.26		58	63.74		91	
+		"O'LEARY, Ken (AFI)"	5	4	80.00		1	20.00		5	
+		"WILCOX, David (GRN)"	9	5	55.56		4	44.44		9	
+		"ABRAHAMS, Lynn (HAN)"	2	1	50.00		1	50.00		2	
+		"HANNOUN, Nazim (IND)"	1	0	0.00		1	100.00		1	
+		"MURPHY, Lynne (UNI)"	2	0	0.00		2	100.00		2	
+		"COLE, Stephen (DEM)"	10	2	20.00		8	80.00		10	
+		"BAISSARI, Sam (CTA)"	3	2	66.67		1	33.33		3	
+		Total	32	47	38.21		76	61.79		123	
+
+	Special Hospitals										
+			1st Prefs	65	50.39		64	49.61		129	
+		"O'LEARY, Ken (AFI)"	1	1	100.00		0	0.00		1	
+		"WILCOX, David (GRN)"	0	0	0.00		0	0.00		0	
+		"ABRAHAMS, Lynn (HAN)"	3	2	66.67		1	33.33		3	
+		"HANNOUN, Nazim (IND)"	0	0	0.00		0	0.00		0	
+		"MURPHY, Lynne (UNI)"	0	0	0.00		0	0.00		0	
+		"COLE, Stephen (DEM)"	0	0	0.00		0	0.00		0	
+		"BAISSARI, Sam (CTA)"	2	0	0.00		2	100.00		2	
+		Total	6	68	50.37		67	49.63		135	
+
+	Total Ordinary										
+			1st Prefs	22404	44.45		28004	55.55		50408	
+		"O'LEARY, Ken (AFI)"	2018	1398	69.28		620	30.72		2018	
+		"WILCOX, David (GRN)"	1653	487	29.46		1166	70.54		1653	
+		"ABRAHAMS, Lynn (HAN)"	4015	3062	76.26		953	23.74		4015	
+		"HANNOUN, Nazim (IND)"	315	200	63.49		115	36.51		315	
+		"MURPHY, Lynne (UNI)"	604	114	18.87		490	81.13		604	
+		"COLE, Stephen (DEM)"	1974	615	31.16		1359	68.84		1974	
+		"BAISSARI, Sam (CTA)"	1654	1151	69.59		503	30.41		1654	
+		Total	12233	29431	46.98		33210	53.02		62641	
+
+	ABSENT										
+			1st Prefs	1633	46.03		1915	53.97		3548	
+		"O'LEARY, Ken (AFI)"	266	183	68.80		83	31.20		266	
+		"WILCOX, David (GRN)"	269	100	37.17		169	62.83		269	
+		"ABRAHAMS, Lynn (HAN)"	246	153	62.20		93	37.80		246	
+		"HANNOUN, Nazim (IND)"	77	51	66.23		26	33.77		77	
+		"MURPHY, Lynne (UNI)"	66	29	43.94		37	56.06		66	
+		"COLE, Stephen (DEM)"	214	79	36.92		135	63.08		214	
+		"BAISSARI, Sam (CTA)"	155	99	63.87		56	36.13		155	
+		Total	1293	2327	48.07		2514	51.93		4841	
+
+	POSTAL										
+			1st Prefs	1150	47.62		1265	52.38		2415	
+		"O'LEARY, Ken (AFI)"	88	53	60.23		35	39.77		88	
+		"WILCOX, David (GRN)"	33	16	48.48		17	51.52		33	
+		"ABRAHAMS, Lynn (HAN)"	177	93	52.54		84	47.46		177	
+		"HANNOUN, Nazim (IND)"	5	4	80.00		1	20.00		5	
+		"MURPHY, Lynne (UNI)"	15	6	40.00		9	60.00		15	
+		"COLE, Stephen (DEM)"	57	12	21.05		45	78.95		57	
+		"BAISSARI, Sam (CTA)"	59	36	61.02		23	38.98		59	
+		Total	434	1370	48.09		1479	51.91		2849	
+
+	PRE_POLL										
+			1st Prefs	1073	46.73		1223	53.27		2296	
+		"O'LEARY, Ken (AFI)"	123	89	72.36		34	27.64		123	
+		"WILCOX, David (GRN)"	98	34	34.69		64	65.31		98	
+		"ABRAHAMS, Lynn (HAN)"	192	125	65.10		67	34.90		192	
+		"HANNOUN, Nazim (IND)"	20	11	55.00		9	45.00		20	
+		"MURPHY, Lynne (UNI)"	44	10	22.73		34	77.27		44	
+		"COLE, Stephen (DEM)"	95	31	32.63		64	67.37		95	
+		"BAISSARI, Sam (CTA)"	92	69	75.00		23	25.00		92	
+		Total	664	1442	48.72		1518	51.28		2960	
+
+	PROVISIONAL										
+			1st Prefs	98	34.63		185	65.37		283	
+		"O'LEARY, Ken (AFI)"	27	16	59.26		11	40.74		27	
+		"WILCOX, David (GRN)"	13	2	15.38		11	84.62		13	
+		"ABRAHAMS, Lynn (HAN)"	19	11	57.89		8	42.11		19	
+		"HANNOUN, Nazim (IND)"	1	0	0.00		1	100.00		1	
+		"MURPHY, Lynne (UNI)"	2	0	0.00		2	100.00		2	
+		"COLE, Stephen (DEM)"	10	2	20.00		8	80.00		10	
+		"BAISSARI, Sam (CTA)"	8	3	37.50		5	62.50		8	
+		Total	80	132	36.36		231	63.64		363	
+
+	Division Summary										
+			1st Prefs	26358	44.71		32592	55.29		58950	
+		"O'LEARY, Ken (AFI)"	2522	1739	68.95		783	31.05		2522	
+		"WILCOX, David (GRN)"	2066	639	30.93		1427	69.07		2066	
+		"ABRAHAMS, Lynn (HAN)"	4649	3444	74.08		1205	25.92		4649	
+		"HANNOUN, Nazim (IND)"	418	266	63.64		152	36.36		418	
+		"MURPHY, Lynne (UNI)"	731	159	21.75		572	78.25		731	
+		"COLE, Stephen (DEM)"	2350	739	31.45		1611	68.55		2350	
+		"BAISSARI, Sam (CTA)"	1968	1358	69.00		610	31.00		1968	
+		Total	14704	34702	47.11		38952	52.89		73654	

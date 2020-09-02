@@ -1,0 +1,550 @@
+House of Representatives - 2001 Election: Queensland												
+Two Candidate Preferred Preference Flow Result												
+By Polling Place												
+Hinkler (81566)												
+		Candidate		                  	"DORRON, Cheryl"		             	"NEVILLE, Paul"		              	Total	
+				                           	ALP		                        	NP		                         		
+				                           	Votes	%	                     	Votes	%	                     		
+	Agnes Water											
+			1st Prefs		227	43.91		290	56.09		517	
+		"BATES, Theresa (GRN)"	39		30	76.92		9	23.08		39	
+		"MELVILLE, Peter (IND)"	54		23	42.59		31	57.41		54	
+		"WHITE, Lisa (DEM)"	7		6	85.71		1	14.29		7	
+		"JANKE, Martin (HAN)"	98		55	56.12		43	43.88		98	
+		Total	198		341	47.69		374	52.31		715	
+
+	Alloway											
+			1st Prefs		111	31.62		240	68.38		351
+		"BATES, Theresa (GRN)"	14		12	85.71		2	14.29		14
+		"MELVILLE, Peter (IND)"	67		14	20.90		53	79.10		67
+		"WHITE, Lisa (DEM)"	7		5	71.43		2	28.57		7
+		"JANKE, Martin (HAN)"	37		14	37.84		23	62.16		37
+		Total	125		156	32.77		320	67.23		476
+
+	Ambrose										
+			1st Prefs		74	48.68		78	51.32		152
+		"BATES, Theresa (GRN)"	6		4	66.67		2	33.33		6
+		"MELVILLE, Peter (IND)"	17		12	70.59		5	29.41		17
+		"WHITE, Lisa (DEM)"	4		4	100.00		0	0.00		4
+		"JANKE, Martin (HAN)"	38		20	52.63		18	47.37		38
+		Total	65		114	52.53		103	47.47		217
+
+	Apple Tree Creek										
+			1st Prefs		120	38.34		193	61.66		313
+		"BATES, Theresa (GRN)"	9		8	88.89		1	11.11		9
+		"MELVILLE, Peter (IND)"	54		25	46.30		29	53.70		54
+		"WHITE, Lisa (DEM)"	9		4	44.44		5	55.56		9
+		"JANKE, Martin (HAN)"	54		27	50.00		27	50.00		54
+		Total	126		184	41.91		255	58.09		439
+
+	Avoca										
+			1st Prefs		913	43.05		1208	56.95		2121
+		"BATES, Theresa (GRN)"	47		34	72.34		13	27.66		47
+		"MELVILLE, Peter (IND)"	301		140	46.51		161	53.49		301
+		"WHITE, Lisa (DEM)"	39		26	66.67		13	33.33		39
+		"JANKE, Martin (HAN)"	210		82	39.05		128	60.95		210
+		Total	597		1195	43.97		1523	56.03		2718
+
+	Avondale										
+			1st Prefs		62	33.16		125	66.84		187
+		"BATES, Theresa (GRN)"	7		6	85.71		1	14.29		7
+		"MELVILLE, Peter (IND)"	26		12	46.15		14	53.85		26
+		"WHITE, Lisa (DEM)"	1		1	100.00		0	0.00		1
+		"JANKE, Martin (HAN)"	19		10	52.63		9	47.37		19
+		Total	53		91	37.92		149	62.08		240
+
+	Bajool										
+			1st Prefs		82	46.33		95	53.67		177
+		"BATES, Theresa (GRN)"	1		1	100.00		0	0.00		1
+		"MELVILLE, Peter (IND)"	13		5	38.46		8	61.54		13
+		"WHITE, Lisa (DEM)"	1		1	100.00		0	0.00		1
+		"JANKE, Martin (HAN)"	41		22	53.66		19	46.34		41
+		Total	56		111	47.64		122	52.36		233
+
+	Baree										
+			1st Prefs		218	68.34		101	31.66		319
+		"BATES, Theresa (GRN)"	9		8	88.89		1	11.11		9
+		"MELVILLE, Peter (IND)"	13		8	61.54		5	38.46		13
+		"WHITE, Lisa (DEM)"	5		3	60.00		2	40.00		5
+		"JANKE, Martin (HAN)"	29		17	58.62		12	41.38		29
+		Total	56		254	67.73		121	32.27		375
+
+	Bargara										
+			1st Prefs		905	39.80		1369	60.20		2274
+		"BATES, Theresa (GRN)"	68		53	77.94		15	22.06		68
+		"MELVILLE, Peter (IND)"	239		90	37.66		149	62.34		239
+		"WHITE, Lisa (DEM)"	44		29	65.91		15	34.09		44
+		"JANKE, Martin (HAN)"	228		91	39.91		137	60.09		228
+		Total	579		1168	40.94		1685	59.06		2853
+
+	Benaraby										
+			1st Prefs		166	44.27		209	55.73		375
+		"BATES, Theresa (GRN)"	12		9	75.00		3	25.00		12
+		"MELVILLE, Peter (IND)"	51		25	49.02		26	50.98		51
+		"WHITE, Lisa (DEM)"	5		5	100.00		0	0.00		5
+		"JANKE, Martin (HAN)"	47		34	72.34		13	27.66		47
+		Total	115		239	48.78		251	51.22		490
+
+	Booyal										
+			1st Prefs		30	35.71		54	64.29		84
+		"BATES, Theresa (GRN)"	1		0	0.00		1	100.00		1
+		"MELVILLE, Peter (IND)"	12		8	66.67		4	33.33		12
+		"WHITE, Lisa (DEM)"	1		1	100.00		0	0.00		1
+		"JANKE, Martin (HAN)"	7		4	57.14		3	42.86		7
+		Total	21		43	40.95		62	59.05		105
+
+	Bororen										
+			1st Prefs		81	37.16		137	62.84		218
+		"BATES, Theresa (GRN)"	2		2	100.00		0	0.00		2
+		"MELVILLE, Peter (IND)"	17		9	52.94		8	47.06		17
+		"WHITE, Lisa (DEM)"	3		2	66.67		1	33.33		3
+		"JANKE, Martin (HAN)"	55		24	43.64		31	56.36		55
+		Total	77		118	40.00		177	60.00		295
+
+	Boyne Island										
+			1st Prefs		879	49.77		887	50.23		1766
+		"BATES, Theresa (GRN)"	83		62	74.70		21	25.30		83
+		"MELVILLE, Peter (IND)"	160		76	47.50		84	52.50		160
+		"WHITE, Lisa (DEM)"	58		38	65.52		20	34.48		58
+		"JANKE, Martin (HAN)"	143		82	57.34		61	42.66		143
+		Total	444		1137	51.45		1073	48.55		2210
+
+	Branyan										
+			1st Prefs		220	41.35		312	58.65		532
+		"BATES, Theresa (GRN)"	15		7	46.67		8	53.33		15
+		"MELVILLE, Peter (IND)"	75		26	34.67		49	65.33		75
+		"WHITE, Lisa (DEM)"	11		9	81.82		2	18.18		11
+		"JANKE, Martin (HAN)"	56		24	42.86		32	57.14		56
+		Total	157		286	41.51		403	58.49		689
+
+	Brisbane City (Hinkler)										
+			1st Prefs		26	36.62		45	63.38		71
+		"BATES, Theresa (GRN)"	4		2	50.00		2	50.00		4
+		"MELVILLE, Peter (IND)"	6		4	66.67		2	33.33		6
+		"WHITE, Lisa (DEM)"	4		4	100.00		0	0.00		4
+		"JANKE, Martin (HAN)"	2		0	0.00		2	100.00		2
+		Total	16		36	41.38		51	58.62		87
+
+	Bundaberg										
+			1st Prefs		589	47.50		651	52.50		1240
+		"BATES, Theresa (GRN)"	37		26	70.27		11	29.73		37
+		"MELVILLE, Peter (IND)"	169		98	57.99		71	42.01		169
+		"WHITE, Lisa (DEM)"	32		21	65.63		11	34.38		32
+		"JANKE, Martin (HAN)"	109		51	46.79		58	53.21		109
+		Total	347		785	49.46		802	50.54		1587
+
+	Bundaberg Central										
+			1st Prefs		273	55.15		222	44.85		495
+		"BATES, Theresa (GRN)"	16		13	81.25		3	18.75		16
+		"MELVILLE, Peter (IND)"	73		27	36.99		46	63.01		73
+		"WHITE, Lisa (DEM)"	7		5	71.43		2	28.57		7
+		"JANKE, Martin (HAN)"	55		31	56.36		24	43.64		55
+		Total	151		349	54.02		297	45.98		646
+
+	Bundaberg East										
+			1st Prefs		644	45.84		761	54.16		1405
+		"BATES, Theresa (GRN)"	41		34	82.93		7	17.07		41
+		"MELVILLE, Peter (IND)"	243		111	45.68		132	54.32		243
+		"WHITE, Lisa (DEM)"	32		22	68.75		10	31.25		32
+		"JANKE, Martin (HAN)"	141		67	47.52		74	52.48		141
+		Total	457		878	47.15		984	52.85		1862
+
+	Bundaberg North										
+			1st Prefs		523	54.88		430	45.12		953
+		"BATES, Theresa (GRN)"	32		22	68.75		10	31.25		32
+		"MELVILLE, Peter (IND)"	194		88	45.36		106	54.64		194
+		"WHITE, Lisa (DEM)"	26		19	73.08		7	26.92		26
+		"JANKE, Martin (HAN)"	121		86	71.07		35	28.93		121
+		Total	373		738	55.66		588	44.34		1326
+
+	Bundaberg North West										
+			1st Prefs		546	53.95		466	46.05		1012
+		"BATES, Theresa (GRN)"	16		11	68.75		5	31.25		16
+		"MELVILLE, Peter (IND)"	163		78	47.85		85	52.15		163
+		"WHITE, Lisa (DEM)"	24		14	58.33		10	41.67		24
+		"JANKE, Martin (HAN)"	149		87	58.39		62	41.61		149
+		Total	352		736	53.96		628	46.04		1364
+
+	Bundaberg South										
+			1st Prefs		860	50.77		834	49.23		1694
+		"BATES, Theresa (GRN)"	62		44	70.97		18	29.03		62
+		"MELVILLE, Peter (IND)"	254		122	48.03		132	51.97		254
+		"WHITE, Lisa (DEM)"	46		29	63.04		17	36.96		46
+		"JANKE, Martin (HAN)"	206		118	57.28		88	42.72		206
+		Total	568		1173	51.86		1089	48.14		2262
+
+	Bundaberg West										
+			1st Prefs		812	51.30		771	48.70		1583
+		"BATES, Theresa (GRN)"	46		31	67.39		15	32.61		46
+		"MELVILLE, Peter (IND)"	230		109	47.39		121	52.61		230
+		"WHITE, Lisa (DEM)"	28		21	75.00		7	25.00		28
+		"JANKE, Martin (HAN)"	142		64	45.07		78	54.93		142
+		Total	446		1037	51.11		992	48.89		2029
+
+	Burnett Heads										
+			1st Prefs		489	56.08		383	43.92		872
+		"BATES, Theresa (GRN)"	41		34	82.93		7	17.07		41
+		"MELVILLE, Peter (IND)"	101		47	46.53		54	53.47		101
+		"WHITE, Lisa (DEM)"	24		18	75.00		6	25.00		24
+		"JANKE, Martin (HAN)"	135		87	64.44		48	35.56		135
+		Total	301		675	57.54		498	42.46		1173
+
+	Calliope										
+			1st Prefs		527	48.17		567	51.83		1094
+		"BATES, Theresa (GRN)"	37		27	72.97		10	27.03		37
+		"MELVILLE, Peter (IND)"	128		50	39.06		78	60.94		128
+		"WHITE, Lisa (DEM)"	26		18	69.23		8	30.77		26
+		"JANKE, Martin (HAN)"	171		91	53.22		80	46.78		171
+		Total	362		713	48.97		743	51.03		1456
+
+	Childers										
+			1st Prefs		559	45.86		660	54.14		1219
+		"BATES, Theresa (GRN)"	33		22	66.67		11	33.33		33
+		"MELVILLE, Peter (IND)"	102		43	42.16		59	57.84		102
+		"WHITE, Lisa (DEM)"	28		21	75.00		7	25.00		28
+		"JANKE, Martin (HAN)"	166		96	57.83		70	42.17		166
+		Total	329		741	47.87		807	52.13		1548
+
+	Clinton										
+			1st Prefs		966	64.70		527	35.30		1493
+		"BATES, Theresa (GRN)"	53		42	79.25		11	20.75		53
+		"MELVILLE, Peter (IND)"	178		86	48.31		92	51.69		178
+		"WHITE, Lisa (DEM)"	40		24	60.00		16	40.00		40
+		"JANKE, Martin (HAN)"	155		105	67.74		50	32.26		155
+		Total	426		1223	63.73		696	36.27		1919
+
+	Clinton St John's										
+			1st Prefs		773	52.66		695	47.34		1468
+		"BATES, Theresa (GRN)"	65		40	61.54		25	38.46		65
+		"MELVILLE, Peter (IND)"	136		53	38.97		83	61.03		136
+		"WHITE, Lisa (DEM)"	37		30	81.08		7	18.92		37
+		"JANKE, Martin (HAN)"	101		62	61.39		39	38.61		101
+		Total	339		958	53.02		849	46.98		1807
+
+	Cordalba										
+			1st Prefs		96	37.50		160	62.50		256
+		"BATES, Theresa (GRN)"	8		3	37.50		5	62.50		8
+		"MELVILLE, Peter (IND)"	32		10	31.25		22	68.75		32
+		"WHITE, Lisa (DEM)"	10		8	80.00		2	20.00		10
+		"JANKE, Martin (HAN)"	40		20	50.00		20	50.00		40
+		Total	90		137	39.60		209	60.40		346
+
+	Elliott Heads										
+			1st Prefs		217	42.38		295	57.62		512
+		"BATES, Theresa (GRN)"	18		15	83.33		3	16.67		18
+		"MELVILLE, Peter (IND)"	50		28	56.00		22	44.00		50
+		"WHITE, Lisa (DEM)"	5		4	80.00		1	20.00		5
+		"JANKE, Martin (HAN)"	64		28	43.75		36	56.25		64
+		Total	137		292	44.99		357	55.01		649
+
+	Givelda										
+			1st Prefs		46	46.94		52	53.06		98
+		"BATES, Theresa (GRN)"	3		3	100.00		0	0.00		3
+		"MELVILLE, Peter (IND)"	42		17	40.48		25	59.52		42
+		"WHITE, Lisa (DEM)"	3		2	66.67		1	33.33		3
+		"JANKE, Martin (HAN)"	22		8	36.36		14	63.64		22
+		Total	70		76	45.24		92	54.76		168
+
+	Gladstone										
+			1st Prefs		600	53.24		527	46.76		1127
+		"BATES, Theresa (GRN)"	57		44	77.19		13	22.81		57
+		"MELVILLE, Peter (IND)"	92		39	42.39		53	57.61		92
+		"WHITE, Lisa (DEM)"	30		20	66.67		10	33.33		30
+		"JANKE, Martin (HAN)"	100		57	57.00		43	43.00		100
+		Total	279		760	54.05		646	45.95		1406
+
+	Gladstone South										
+			1st Prefs		1077	65.95		556	34.05		1633
+		"BATES, Theresa (GRN)"	63		45	71.43		18	28.57		63
+		"MELVILLE, Peter (IND)"	160		75	46.88		85	53.13		160
+		"WHITE, Lisa (DEM)"	30		19	63.33		11	36.67		30
+		"JANKE, Martin (HAN)"	165		102	61.82		63	38.18		165
+		Total	418		1318	64.26		733	35.74		2051
+
+	Gladstone Valley										
+			1st Prefs		465	62.00		285	38.00		750
+		"BATES, Theresa (GRN)"	34		22	64.71		12	35.29		34
+		"MELVILLE, Peter (IND)"	58		27	46.55		31	53.45		58
+		"WHITE, Lisa (DEM)"	16		16	100.00		0	0.00		16
+		"JANKE, Martin (HAN)"	69		48	69.57		21	30.43		69
+		Total	177		578	62.35		349	37.65		927
+
+	Gladstone West										
+			1st Prefs		772	59.61		523	40.39		1295
+		"BATES, Theresa (GRN)"	51		37	72.55		14	27.45		51
+		"MELVILLE, Peter (IND)"	123		56	45.53		67	54.47		123
+		"WHITE, Lisa (DEM)"	56		40	71.43		16	28.57		56
+		"JANKE, Martin (HAN)"	122		69	56.56		53	43.44		122
+		Total	352		974	59.14		673	40.86		1647
+
+	Gooburrum										
+			1st Prefs		134	30.18		310	69.82		444
+		"BATES, Theresa (GRN)"	5		3	60.00		2	40.00		5
+		"MELVILLE, Peter (IND)"	79		23	29.11		56	70.89		79
+		"WHITE, Lisa (DEM)"	13		9	69.23		4	30.77		13
+		"JANKE, Martin (HAN)"	34		9	26.47		25	73.53		34
+		Total	131		178	30.96		397	69.04		575
+
+	Goodwood										
+			1st Prefs		70	52.24		64	47.76		134
+		"BATES, Theresa (GRN)"	4		3	75.00		1	25.00		4
+		"MELVILLE, Peter (IND)"	14		4	28.57		10	71.43		14
+		"WHITE, Lisa (DEM)"	2		1	50.00		1	50.00		2
+		"JANKE, Martin (HAN)"	9		6	66.67		3	33.33		9
+		Total	29		84	51.53		79	48.47		163
+
+	Kalkie										
+			1st Prefs		186	35.16		343	64.84		529
+		"BATES, Theresa (GRN)"	18		13	72.22		5	27.78		18
+		"MELVILLE, Peter (IND)"	79		31	39.24		48	60.76		79
+		"WHITE, Lisa (DEM)"	9		6	66.67		3	33.33		9
+		"JANKE, Martin (HAN)"	48		21	43.75		27	56.25		48
+		Total	154		257	37.63		426	62.37		683
+
+	Kepnock										
+			1st Prefs		538	48.60		569	51.40		1107
+		"BATES, Theresa (GRN)"	22		13	59.09		9	40.91		22
+		"MELVILLE, Peter (IND)"	157		78	49.68		79	50.32		157
+		"WHITE, Lisa (DEM)"	19		12	63.16		7	36.84		19
+		"JANKE, Martin (HAN)"	114		65	57.02		49	42.98		114
+		Total	312		706	49.75		713	50.25		1419
+
+	Kin Kora										
+			1st Prefs		1059	57.06		797	42.94		1856
+		"BATES, Theresa (GRN)"	72		55	76.39		17	23.61		72
+		"MELVILLE, Peter (IND)"	168		78	46.43		90	53.57		168
+		"WHITE, Lisa (DEM)"	49		31	63.27		18	36.73		49
+		"JANKE, Martin (HAN)"	137		79	57.66		58	42.34		137
+		Total	426		1302	57.06		980	42.94		2282
+
+	Lowmead										
+			1st Prefs		22	29.33		53	70.67		75
+		"BATES, Theresa (GRN)"	2		1	50.00		1	50.00		2
+		"MELVILLE, Peter (IND)"	7		3	42.86		4	57.14		7
+		"WHITE, Lisa (DEM)"	1		1	100.00		0	0.00		1
+		"JANKE, Martin (HAN)"	8		4	50.00		4	50.00		8
+		Total	18		31	33.33		62	66.67		93
+
+	Millbank										
+			1st Prefs		624	49.17		645	50.83		1269
+		"BATES, Theresa (GRN)"	28		20	71.43		8	28.57		28
+		"MELVILLE, Peter (IND)"	163		68	41.72		95	58.28		163
+		"WHITE, Lisa (DEM)"	23		15	65.22		8	34.78		23
+		"JANKE, Martin (HAN)"	123		53	43.09		70	56.91		123
+		Total	337		780	48.57		826	51.43		1606
+
+	Miriam Vale										
+			1st Prefs		127	36.18		224	63.82		351
+		"BATES, Theresa (GRN)"	8		7	87.50		1	12.50		8
+		"MELVILLE, Peter (IND)"	44		22	50.00		22	50.00		44
+		"WHITE, Lisa (DEM)"	4		1	25.00		3	75.00		4
+		"JANKE, Martin (HAN)"	39		20	51.28		19	48.72		39
+		Total	95		177	39.69		269	60.31		446
+
+	Moore Park										
+			1st Prefs		243	40.64		355	59.36		598
+		"BATES, Theresa (GRN)"	15		10	66.67		5	33.33		15
+		"MELVILLE, Peter (IND)"	83		37	44.58		46	55.42		83
+		"WHITE, Lisa (DEM)"	9		7	77.78		2	22.22		9
+		"JANKE, Martin (HAN)"	84		35	41.67		49	58.33		84
+		Total	191		332	42.08		457	57.92		789
+
+	Mount Larcom										
+			1st Prefs		100	46.08		117	53.92		217
+		"BATES, Theresa (GRN)"	12		9	75.00		3	25.00		12
+		"MELVILLE, Peter (IND)"	30		14	46.67		16	53.33		30
+		"WHITE, Lisa (DEM)"	6		3	50.00		3	50.00		6
+		"JANKE, Martin (HAN)"	50		28	56.00		22	44.00		50
+		Total	98		154	48.89		161	51.11		315
+
+	Mount Morgan										
+			1st Prefs		672	75.00		224	25.00		896
+		"BATES, Theresa (GRN)"	14		12	85.71		2	14.29		14
+		"MELVILLE, Peter (IND)"	44		29	65.91		15	34.09		44
+		"WHITE, Lisa (DEM)"	12		9	75.00		3	25.00		12
+		"JANKE, Martin (HAN)"	137		75	54.74		62	45.26		137
+		Total	207		797	72.26		306	27.74		1103
+
+	Norville										
+			1st Prefs		941	51.96		870	48.04		1811
+		"BATES, Theresa (GRN)"	45		31	68.89		14	31.11		45
+		"MELVILLE, Peter (IND)"	275		138	50.18		137	49.82		275
+		"WHITE, Lisa (DEM)"	45		28	62.22		17	37.78		45
+		"JANKE, Martin (HAN)"	172		83	48.26		89	51.74		172
+		Total	537		1221	52.00		1127	48.00		2348
+
+	Oakwood										
+			1st Prefs		148	32.67		305	67.33		453
+		"BATES, Theresa (GRN)"	9		5	55.56		4	44.44		9
+		"MELVILLE, Peter (IND)"	91		33	36.26		58	63.74		91
+		"WHITE, Lisa (DEM)"	6		6	100.00		0	0.00		6
+		"JANKE, Martin (HAN)"	78		31	39.74		47	60.26		78
+		Total	184		223	35.01		414	64.99		637
+
+	Rosedale										
+			1st Prefs		84	31.94		179	68.06		263
+		"BATES, Theresa (GRN)"	11		9	81.82		2	18.18		11
+		"MELVILLE, Peter (IND)"	27		7	25.93		20	74.07		27
+		"WHITE, Lisa (DEM)"	3		3	100.00		0	0.00		3
+		"JANKE, Martin (HAN)"	54		29	53.70		25	46.30		54
+		Total	95		132	36.87		226	63.13		358
+
+	Sharon										
+			1st Prefs		133	32.20		280	67.80		413
+		"BATES, Theresa (GRN)"	7		4	57.14		3	42.86		7
+		"MELVILLE, Peter (IND)"	102		43	42.16		59	57.84		102
+		"WHITE, Lisa (DEM)"	4		1	25.00		3	75.00		4
+		"JANKE, Martin (HAN)"	86		41	47.67		45	52.33		86
+		Total	199		222	36.27		390	63.73		612
+
+	South Kolan										
+			1st Prefs		160	47.34		178	52.66		338
+		"BATES, Theresa (GRN)"	8		8	100.00		0	0.00		8
+		"MELVILLE, Peter (IND)"	126		50	39.68		76	60.32		126
+		"WHITE, Lisa (DEM)"	8		4	50.00		4	50.00		8
+		"JANKE, Martin (HAN)"	79		30	37.97		49	62.03		79
+		Total	221		252	45.08		307	54.92		559
+
+	Tannum Sands										
+			1st Prefs		537	52.29		490	47.71		1027
+		"BATES, Theresa (GRN)"	43		32	74.42		11	25.58		43
+		"MELVILLE, Peter (IND)"	91		38	41.76		53	58.24		91
+		"WHITE, Lisa (DEM)"	27		15	55.56		12	44.44		27
+		"JANKE, Martin (HAN)"	72		34	47.22		38	52.78		72
+		Total	233		656	52.06		604	47.94		1260
+
+	Thabeban										
+			1st Prefs		770	50.96		741	49.04		1511
+		"BATES, Theresa (GRN)"	37		25	67.57		12	32.43		37
+		"MELVILLE, Peter (IND)"	232		89	38.36		143	61.64		232
+		"WHITE, Lisa (DEM)"	24		14	58.33		10	41.67		24
+		"JANKE, Martin (HAN)"	159		75	47.17		84	52.83		159
+		Total	452		973	49.57		990	50.43		1963
+
+	Toolooa										
+			1st Prefs		149	57.53		110	42.47		259
+		"BATES, Theresa (GRN)"	7		4	57.14		3	42.86		7
+		"MELVILLE, Peter (IND)"	34		23	67.65		11	32.35		34
+		"WHITE, Lisa (DEM)"	6		4	66.67		2	33.33		6
+		"JANKE, Martin (HAN)"	24		13	54.17		11	45.83		24
+		Total	71		193	58.48		137	41.52		330
+
+	Ubobo										
+			1st Prefs		28	27.72		73	72.28		101
+		"BATES, Theresa (GRN)"	9		4	44.44		5	55.56		9
+		"MELVILLE, Peter (IND)"	17		5	29.41		12	70.59		17
+		"WHITE, Lisa (DEM)"	3		2	66.67		1	33.33		3
+		"JANKE, Martin (HAN)"	20		14	70.00		6	30.00		20
+		Total	49		53	35.33		97	64.67		150
+
+	Walkervale										
+			1st Prefs		838	53.79		720	46.21		1558
+		"BATES, Theresa (GRN)"	40		33	82.50		7	17.50		40
+		"MELVILLE, Peter (IND)"	211		115	54.50		96	45.50		211
+		"WHITE, Lisa (DEM)"	28		17	60.71		11	39.29		28
+		"JANKE, Martin (HAN)"	136		64	47.06		72	52.94		136
+		Total	415		1067	54.08		906	45.92		1973
+
+	Wartburg										
+			1st Prefs		75	49.34		77	50.66		152
+		"BATES, Theresa (GRN)"	10		6	60.00		4	40.00		10
+		"MELVILLE, Peter (IND)"	15		10	66.67		5	33.33		15
+		"WHITE, Lisa (DEM)"	4		4	100.00		0	0.00		4
+		"JANKE, Martin (HAN)"	49		26	53.06		23	46.94		49
+		Total	78		121	52.61		109	47.39		230
+
+	Woodgate										
+			1st Prefs		128	33.77		251	66.23		379
+		"BATES, Theresa (GRN)"	9		9	100.00		0	0.00		9
+		"MELVILLE, Peter (IND)"	28		11	39.29		17	60.71		28
+		"WHITE, Lisa (DEM)"	3		1	33.33		2	66.67		3
+		"JANKE, Martin (HAN)"	35		18	51.43		17	48.57		35
+		Total	75		167	36.78		287	63.22		454
+
+	Woongarra										
+			1st Prefs		225	36.70		388	63.30		613
+		"BATES, Theresa (GRN)"	17		6	35.29		11	64.71		17
+		"MELVILLE, Peter (IND)"	115		44	38.26		71	61.74		115
+		"WHITE, Lisa (DEM)"	11		9	81.82		2	18.18		11
+		"JANKE, Martin (HAN)"	76		31	40.79		45	59.21		76
+		Total	219		315	37.86		517	62.14		832
+
+	Yandaran										
+			1st Prefs		110	42.31		150	57.69		260
+		"BATES, Theresa (GRN)"	4		3	75.00		1	25.00		4
+		"MELVILLE, Peter (IND)"	85		37	43.53		48	56.47		85
+		"WHITE, Lisa (DEM)"	2		2	100.00		0	0.00		2
+		"JANKE, Martin (HAN)"	77		46	59.74		31	40.26		77
+		Total	168		198	46.26		230	53.74		428
+
+	Yarroon										
+			1st Prefs		584	55.94		460	44.06		1044
+		"BATES, Theresa (GRN)"	22		16	72.73		6	27.27		22
+		"MELVILLE, Peter (IND)"	99		50	50.51		49	49.49		99
+		"WHITE, Lisa (DEM)"	21		14	66.67		7	33.33		21
+		"JANKE, Martin (HAN)"	89		51	57.30		38	42.70		89
+		Total	231		715	56.08		560	43.92		1275
+
+	Yarwun										
+			1st Prefs		94	44.13		119	55.87		213
+		"BATES, Theresa (GRN)"	14		13	92.86		1	7.14		14
+		"MELVILLE, Peter (IND)"	43		21	48.84		22	51.16		43
+		"WHITE, Lisa (DEM)"	2		2	100.00		0	0.00		2
+		"JANKE, Martin (HAN)"	39		27	69.23		12	30.77		39
+		Total	98		157	50.48		154	49.52		311
+
+	Special Hospitals										
+			1st Prefs		188	44.24		237	55.76		425
+		"BATES, Theresa (GRN)"	10		10	100.00		0	0.00		10
+		"MELVILLE, Peter (IND)"	26		12	46.15		14	53.85		26
+		"WHITE, Lisa (DEM)"	3		3	100.00		0	0.00		3
+		"JANKE, Martin (HAN)"	16		9	56.25		7	43.75		16
+		Total	55		222	46.25		258	53.75		480
+
+	Total Ordinary										
+			1st Prefs		23915	49.87		24037	50.13		47952
+		"BATES, Theresa (GRN)"	1532		1117	72.91		415	27.09		1532
+		"MELVILLE, Peter (IND)"	6118		2754	45.01		3364	54.99		6118
+		"WHITE, Lisa (DEM)"	1046		713	68.16		333	31.84		1046
+		"JANKE, Martin (HAN)"	5341		2800	52.42		2541	47.58		5341
+		Total	14037		31299	50.49		30690	49.51		61989
+
+	ABSENT										
+			1st Prefs		1315	48.83		1378	51.17		2693
+		"BATES, Theresa (GRN)"	165		106	64.24		59	35.76		165
+		"MELVILLE, Peter (IND)"	311		113	36.33		198	63.67		311
+		"WHITE, Lisa (DEM)"	164		100	60.98		64	39.02		164
+		"JANKE, Martin (HAN)"	356		161	45.22		195	54.78		356
+		Total	996		1795	48.66		1894	51.34		3689
+
+	POSTAL										
+			1st Prefs		1379	45.26		1668	54.74		3047
+		"BATES, Theresa (GRN)"	67		50	74.63		17	25.37		67
+		"MELVILLE, Peter (IND)"	248		102	41.13		146	58.87		248
+		"WHITE, Lisa (DEM)"	65		49	75.38		16	24.62		65
+		"JANKE, Martin (HAN)"	389		168	43.19		221	56.81		389
+		Total	769		1748	45.81		2068	54.19		3816
+
+	PRE_POLL										
+			1st Prefs		1637	44.85		2013	55.15		3650
+		"BATES, Theresa (GRN)"	113		80	70.80		33	29.20		113
+		"MELVILLE, Peter (IND)"	427		203	47.54		224	52.46		427
+		"WHITE, Lisa (DEM)"	107		63	58.88		44	41.12		107
+		"JANKE, Martin (HAN)"	418		182	43.54		236	56.46		418
+		Total	1065		2165	45.92		2550	54.08		4715
+
+	PROVISIONAL										
+			1st Prefs		237	63.71		135	36.29		372
+		"BATES, Theresa (GRN)"	27		23	85.19		4	14.81		27
+		"MELVILLE, Peter (IND)"	43		19	44.19		24	55.81		43
+		"WHITE, Lisa (DEM)"	11		9	81.82		2	18.18		11
+		"JANKE, Martin (HAN)"	58		33	56.90		25	43.10		58
+		Total	139		321	62.82		190	37.18		511
+
+	Division Summary										
+			1st Prefs		28483	49.35		29231	50.65		57714	
+		"BATES, Theresa (GRN)"	1904		1376	72.27		528	27.73		1904	
+		"MELVILLE, Peter (IND)"	7147		3191	44.65		3956	55.35		7147	
+		"WHITE, Lisa (DEM)"	1393		934	67.05		459	32.95		1393	
+		"JANKE, Martin (HAN)"	6562		3344	50.96		3218	49.04		6562	
+		Total	17006		37328	49.96		37392	50.04		74720	

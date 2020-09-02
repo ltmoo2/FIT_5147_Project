@@ -1,0 +1,777 @@
+House of Representatives - 2001 Election: New South Wales											
+Two Candidate Preferred Preference Flow Result											
+By Polling Place											
+											
+Robertson (84366)											
+		Candidate		"MORAN, Trish"		               	"LLOYD, Jim"		                 	Total	
+				ALP		                        	LP		                         		
+				Votes	%	                     	Votes	%	                     		
+	Avoca Beach										
+			1st Prefs	614	37.23		1035	62.77		1649	
+		"KENISCIEHAD, Kaijin (IND)"	10	6	60.00		4	40.00		10	
+		"BOYLE, Harry Ovens (DEM)"	79	49	62.03		30	37.97		79	
+		"HENNIG, Christine (CTA)"	33	4	12.12		29	87.88		33	
+		"MUNN, Alasdair (IND)"	3	2	66.67		1	33.33		3	
+		"LACEY, Stephen (GRN)"	124	92	74.19		32	25.81		124	
+		"WILLS, Kevin (IND)"	68	39	57.35		29	42.65		68	
+		"LAING-PEACH, James (IND)"	20	8	40.00		12	60.00		20	
+		"BAKER, Errol (HAN)"	27	11	40.74		16	59.26		27	
+		"PHILLIPS, Barry (PLP)"	7	4	57.14		3	42.86		7	
+		"MARTIN, Ken (CEC)"	1	0	0.00		1	100.00		1	
+		Total	372	829	41.02		1192	58.98		2021	
+
+	Booker Bay										
+			1st Prefs	226	41.77		315	58.23		541	
+		"KENISCIEHAD, Kaijin (IND)"	3	3	100.00		0	0.00		3	
+		"BOYLE, Harry Ovens (DEM)"	8	6	75.00		2	25.00		8	
+		"HENNIG, Christine (CTA)"	3	2	66.67		1	33.33		3	
+		"MUNN, Alasdair (IND)"	2	0	0.00		2	100.00		2	
+		"LACEY, Stephen (GRN)"	13	11	84.62		2	15.38		13	
+		"WILLS, Kevin (IND)"	3	2	66.67		1	33.33		3	
+		"LAING-PEACH, James (IND)"	2	1	50.00		1	50.00		2	
+		"BAKER, Errol (HAN)"	18	7	38.89		11	61.11		18	
+		"PHILLIPS, Barry (PLP)"	2	2	100.00		0	0.00		2	
+		"MARTIN, Ken (CEC)"	0	0	0.00		0	0.00		0	
+		Total	54	260	43.70		335	56.30		595	
+
+	Copacabana										
+			1st Prefs	445	40.98		641	59.02		1086	
+		"KENISCIEHAD, Kaijin (IND)"	13	10	76.92		3	23.08		13	
+		"BOYLE, Harry Ovens (DEM)"	53	36	67.92		17	32.08		53	
+		"HENNIG, Christine (CTA)"	21	8	38.10		13	61.90		21	
+		"MUNN, Alasdair (IND)"	2	2	100.00		0	0.00		2	
+		"LACEY, Stephen (GRN)"	93	65	69.89		28	30.11		93	
+		"WILLS, Kevin (IND)"	28	16	57.14		12	42.86		28	
+		"LAING-PEACH, James (IND)"	8	4	50.00		4	50.00		8	
+		"BAKER, Errol (HAN)"	23	12	52.17		11	47.83		23	
+		"PHILLIPS, Barry (PLP)"	3	2	66.67		1	33.33		3	
+		"MARTIN, Ken (CEC)"	1	1	100.00		0	0.00		1	
+		Total	245	601	45.15		730	54.85		1331	
+
+	Davistown										
+			1st Prefs	476	41.21		679	58.79		1155	
+		"KENISCIEHAD, Kaijin (IND)"	13	10	76.92		3	23.08		13	
+		"BOYLE, Harry Ovens (DEM)"	63	44	69.84		19	30.16		63	
+		"HENNIG, Christine (CTA)"	9	4	44.44		5	55.56		9	
+		"MUNN, Alasdair (IND)"	4	3	75.00		1	25.00		4	
+		"LACEY, Stephen (GRN)"	23	20	86.96		3	13.04		23	
+		"WILLS, Kevin (IND)"	9	1	11.11		8	88.89		9	
+		"LAING-PEACH, James (IND)"	3	1	33.33		2	66.67		3	
+		"BAKER, Errol (HAN)"	49	27	55.10		22	44.90		49	
+		"PHILLIPS, Barry (PLP)"	5	4	80.00		1	20.00		5	
+		"MARTIN, Ken (CEC)"	3	1	33.33		2	66.67		3	
+		Total	181	591	44.24		745	55.76		1336	
+
+	Empire Bay										
+			1st Prefs	755	35.80		1354	64.20		2109	
+		"KENISCIEHAD, Kaijin (IND)"	18	15	83.33		3	16.67		18	
+		"BOYLE, Harry Ovens (DEM)"	83	52	62.65		31	37.35		83	
+		"HENNIG, Christine (CTA)"	36	6	16.67		30	83.33		36	
+		"MUNN, Alasdair (IND)"	8	3	37.50		5	62.50		8	
+		"LACEY, Stephen (GRN)"	68	48	70.59		20	29.41		68	
+		"WILLS, Kevin (IND)"	34	13	38.24		21	61.76		34	
+		"LAING-PEACH, James (IND)"	14	8	57.14		6	42.86		14	
+		"BAKER, Errol (HAN)"	110	41	37.27		69	62.73		110	
+		"PHILLIPS, Barry (PLP)"	8	6	75.00		2	25.00		8	
+		"MARTIN, Ken (CEC)"	1	0	0.00		1	100.00		1	
+		Total	380	947	38.05		1542	61.95		2489	
+
+	Erina										
+			1st Prefs	1224	35.85		2190	64.15		3414	
+		"KENISCIEHAD, Kaijin (IND)"	32	27	84.38		5	15.63		32	
+		"BOYLE, Harry Ovens (DEM)"	120	86	71.67		34	28.33		120	
+		"HENNIG, Christine (CTA)"	63	14	22.22		49	77.78		63	
+		"MUNN, Alasdair (IND)"	15	6	40.00		9	60.00		15	
+		"LACEY, Stephen (GRN)"	84	55	65.48		29	34.52		84	
+		"WILLS, Kevin (IND)"	36	15	41.67		21	58.33		36	
+		"LAING-PEACH, James (IND)"	14	6	42.86		8	57.14		14	
+		"BAKER, Errol (HAN)"	73	21	28.77		52	71.23		73	
+		"PHILLIPS, Barry (PLP)"	19	14	73.68		5	26.32		19	
+		"MARTIN, Ken (CEC)"	9	5	55.56		4	44.44		9	
+		Total	465	1473	37.97		2406	62.03		3879	
+
+	Erina Heights (Robertson)										
+			1st Prefs	158	26.69		434	73.31		592	
+		"KENISCIEHAD, Kaijin (IND)"	2	2	100.00		0	0.00		2	
+		"BOYLE, Harry Ovens (DEM)"	29	19	65.52		10	34.48		29	
+		"HENNIG, Christine (CTA)"	13	2	15.38		11	84.62		13	
+		"MUNN, Alasdair (IND)"	1	0	0.00		1	100.00		1	
+		"LACEY, Stephen (GRN)"	25	21	84.00		4	16.00		25	
+		"WILLS, Kevin (IND)"	3	1	33.33		2	66.67		3	
+		"LAING-PEACH, James (IND)"	4	1	25.00		3	75.00		4	
+		"BAKER, Errol (HAN)"	12	3	25.00		9	75.00		12	
+		"PHILLIPS, Barry (PLP)"	0	0	0.00		0	0.00		0	
+		"MARTIN, Ken (CEC)"	1	1	100.00		0	0.00		1	
+		Total	90	208	30.50		474	69.50		682	
+
+	Erina South										
+			1st Prefs	269	40.57		394	59.43		663	
+		"KENISCIEHAD, Kaijin (IND)"	4	3	75.00		1	25.00		4	
+		"BOYLE, Harry Ovens (DEM)"	20	13	65.00		7	35.00		20	
+		"HENNIG, Christine (CTA)"	10	2	20.00		8	80.00		10	
+		"MUNN, Alasdair (IND)"	2	2	100.00		0	0.00		2	
+		"LACEY, Stephen (GRN)"	5	5	100.00		0	0.00		5	
+		"WILLS, Kevin (IND)"	2	1	50.00		1	50.00		2	
+		"LAING-PEACH, James (IND)"	10	6	60.00		4	40.00		10	
+		"BAKER, Errol (HAN)"	8	2	25.00		6	75.00		8	
+		"PHILLIPS, Barry (PLP)"	2	2	100.00		0	0.00		2	
+		"MARTIN, Ken (CEC)"	0	0	0.00		0	0.00		0	
+		Total	63	305	42.01		421	57.99		726	
+
+	Ettalong										
+			1st Prefs	1204	47.59		1326	52.41		2530	
+		"KENISCIEHAD, Kaijin (IND)"	32	29	90.63		3	9.38		32	
+		"BOYLE, Harry Ovens (DEM)"	61	50	81.97		11	18.03		61	
+		"HENNIG, Christine (CTA)"	28	12	42.86		16	57.14		28	
+		"MUNN, Alasdair (IND)"	14	10	71.43		4	28.57		14	
+		"LACEY, Stephen (GRN)"	85	62	72.94		23	27.06		85	
+		"WILLS, Kevin (IND)"	38	24	63.16		14	36.84		38	
+		"LAING-PEACH, James (IND)"	10	5	50.00		5	50.00		10	
+		"BAKER, Errol (HAN)"	150	64	42.67		86	57.33		150	
+		"PHILLIPS, Barry (PLP)"	15	11	73.33		4	26.67		15	
+		"MARTIN, Ken (CEC)"	5	0	0.00		5	100.00		5	
+		Total	438	1471	49.56		1497	50.44		2968	
+
+	Ettalong South										
+			1st Prefs	325	55.08		265	44.92		590	
+		"KENISCIEHAD, Kaijin (IND)"	5	5	100.00		0	0.00		5	
+		"BOYLE, Harry Ovens (DEM)"	9	6	66.67		3	33.33		9	
+		"HENNIG, Christine (CTA)"	2	2	100.00		0	0.00		2	
+		"MUNN, Alasdair (IND)"	2	1	50.00		1	50.00		2	
+		"LACEY, Stephen (GRN)"	13	9	69.23		4	30.77		13	
+		"WILLS, Kevin (IND)"	1	1	100.00		0	0.00		1	
+		"LAING-PEACH, James (IND)"	1	0	0.00		1	100.00		1	
+		"BAKER, Errol (HAN)"	22	8	36.36		14	63.64		22	
+		"PHILLIPS, Barry (PLP)"	1	1	100.00		0	0.00		1	
+		"MARTIN, Ken (CEC)"	0	0	0.00		0	0.00		0	
+		Total	56	358	55.42		288	44.58		646	
+
+	Ettalong West										
+			1st Prefs	1165	56.97		880	43.03		2045	
+		"KENISCIEHAD, Kaijin (IND)"	24	22	91.67		2	8.33		24	
+		"BOYLE, Harry Ovens (DEM)"	69	51	73.91		18	26.09		69	
+		"HENNIG, Christine (CTA)"	20	7	35.00		13	65.00		20	
+		"MUNN, Alasdair (IND)"	7	6	85.71		1	14.29		7	
+		"LACEY, Stephen (GRN)"	77	50	64.94		27	35.06		77	
+		"WILLS, Kevin (IND)"	27	15	55.56		12	44.44		27	
+		"LAING-PEACH, James (IND)"	18	12	66.67		6	33.33		18	
+		"BAKER, Errol (HAN)"	86	45	52.33		41	47.67		86	
+		"PHILLIPS, Barry (PLP)"	19	16	84.21		3	15.79		19	
+		"MARTIN, Ken (CEC)"	2	1	50.00		1	50.00		2	
+		Total	349	1390	58.06		1004	41.94		2394	
+
+	Gosford										
+			1st Prefs	445	43.46		579	56.54		1024	
+		"KENISCIEHAD, Kaijin (IND)"	8	7	87.50		1	12.50		8	
+		"BOYLE, Harry Ovens (DEM)"	77	52	67.53		25	32.47		77	
+		"HENNIG, Christine (CTA)"	29	7	24.14		22	75.86		29	
+		"MUNN, Alasdair (IND)"	6	5	83.33		1	16.67		6	
+		"LACEY, Stephen (GRN)"	34	25	73.53		9	26.47		34	
+		"WILLS, Kevin (IND)"	5	4	80.00		1	20.00		5	
+		"LAING-PEACH, James (IND)"	5	3	60.00		2	40.00		5	
+		"BAKER, Errol (HAN)"	27	15	55.56		12	44.44		27	
+		"PHILLIPS, Barry (PLP)"	9	5	55.56		4	44.44		9	
+		"MARTIN, Ken (CEC)"	2	1	50.00		1	50.00		2	
+		Total	202	569	46.41		657	53.59		1226	
+
+	Gosford East										
+			1st Prefs	778	35.35		1423	64.65		2201	
+		"KENISCIEHAD, Kaijin (IND)"	23	19	82.61		4	17.39		23	
+		"BOYLE, Harry Ovens (DEM)"	78	60	76.92		18	23.08		78	
+		"HENNIG, Christine (CTA)"	59	14	23.73		45	76.27		59	
+		"MUNN, Alasdair (IND)"	13	10	76.92		3	23.08		13	
+		"LACEY, Stephen (GRN)"	72	54	75.00		18	25.00		72	
+		"WILLS, Kevin (IND)"	16	5	31.25		11	68.75		16	
+		"LAING-PEACH, James (IND)"	5	1	20.00		4	80.00		5	
+		"BAKER, Errol (HAN)"	65	22	33.85		43	66.15		65	
+		"PHILLIPS, Barry (PLP)"	14	12	85.71		2	14.29		14	
+		"MARTIN, Ken (CEC)"	5	3	60.00		2	40.00		5	
+		Total	350	978	38.34		1573	61.66		2551	
+
+	Gosford West										
+			1st Prefs	358	36.05		635	63.95		993	
+		"KENISCIEHAD, Kaijin (IND)"	12	10	83.33		2	16.67		12	
+		"BOYLE, Harry Ovens (DEM)"	34	28	82.35		6	17.65		34	
+		"HENNIG, Christine (CTA)"	14	4	28.57		10	71.43		14	
+		"MUNN, Alasdair (IND)"	8	5	62.50		3	37.50		8	
+		"LACEY, Stephen (GRN)"	25	13	52.00		12	48.00		25	
+		"WILLS, Kevin (IND)"	11	3	27.27		8	72.73		11	
+		"LAING-PEACH, James (IND)"	11	6	54.55		5	45.45		11	
+		"BAKER, Errol (HAN)"	31	12	38.71		19	61.29		31	
+		"PHILLIPS, Barry (PLP)"	4	4	100.00		0	0.00		4	
+		"MARTIN, Ken (CEC)"	0	0	0.00		0	0.00		0	
+		Total	150	443	38.76		700	61.24		1143	
+
+	Green Point										
+			1st Prefs	231	27.40		612	72.60		843	
+		"KENISCIEHAD, Kaijin (IND)"	6	4	66.67		2	33.33		6	
+		"BOYLE, Harry Ovens (DEM)"	30	24	80.00		6	20.00		30	
+		"HENNIG, Christine (CTA)"	45	6	13.33		39	86.67		45	
+		"MUNN, Alasdair (IND)"	1	1	100.00		0	0.00		1	
+		"LACEY, Stephen (GRN)"	26	20	76.92		6	23.08		26	
+		"WILLS, Kevin (IND)"	5	4	80.00		1	20.00		5	
+		"LAING-PEACH, James (IND)"	5	2	40.00		3	60.00		5	
+		"BAKER, Errol (HAN)"	15	4	26.67		11	73.33		15	
+		"PHILLIPS, Barry (PLP)"	2	1	50.00		1	50.00		2	
+		"MARTIN, Ken (CEC)"	0	0	0.00		0	0.00		0	
+		Total	135	297	30.37		681	69.63		978	
+
+	Hardys Bay										
+			1st Prefs	104	42.11		143	57.89		247	
+		"KENISCIEHAD, Kaijin (IND)"	1	0	0.00		1	100.00		1	
+		"BOYLE, Harry Ovens (DEM)"	14	10	71.43		4	28.57		14	
+		"HENNIG, Christine (CTA)"	1	1	100.00		0	0.00		1	
+		"MUNN, Alasdair (IND)"	0	0	0.00		0	0.00		0	
+		"LACEY, Stephen (GRN)"	28	22	78.57		6	21.43		28	
+		"WILLS, Kevin (IND)"	1	0	0.00		1	100.00		1	
+		"LAING-PEACH, James (IND)"	2	1	50.00		1	50.00		2	
+		"BAKER, Errol (HAN)"	8	5	62.50		3	37.50		8	
+		"PHILLIPS, Barry (PLP)"	0	0	0.00		0	0.00		0	
+		"MARTIN, Ken (CEC)"	0	0	0.00		0	0.00		0	
+		Total	55	143	47.35		159	52.65		302	
+
+	Henry Kendall										
+			1st Prefs	213	42.35		290	57.65		503	
+		"KENISCIEHAD, Kaijin (IND)"	3	2	66.67		1	33.33		3	
+		"BOYLE, Harry Ovens (DEM)"	29	22	75.86		7	24.14		29	
+		"HENNIG, Christine (CTA)"	7	2	28.57		5	71.43		7	
+		"MUNN, Alasdair (IND)"	3	3	100.00		0	0.00		3	
+		"LACEY, Stephen (GRN)"	19	15	78.95		4	21.05		19	
+		"WILLS, Kevin (IND)"	4	2	50.00		2	50.00		4	
+		"LAING-PEACH, James (IND)"	3	3	100.00		0	0.00		3	
+		"BAKER, Errol (HAN)"	28	11	39.29		17	60.71		28	
+		"PHILLIPS, Barry (PLP)"	2	1	50.00		1	50.00		2	
+		"MARTIN, Ken (CEC)"	1	0	0.00		1	100.00		1	
+		Total	99	274	45.51		328	54.49		602	
+
+	Kariong										
+			1st Prefs	782	32.10		1654	67.90		2436	
+		"KENISCIEHAD, Kaijin (IND)"	18	15	83.33		3	16.67		18	
+		"BOYLE, Harry Ovens (DEM)"	119	79	66.39		40	33.61		119	
+		"HENNIG, Christine (CTA)"	30	10	33.33		20	66.67		30	
+		"MUNN, Alasdair (IND)"	26	17	65.38		9	34.62		26	
+		"LACEY, Stephen (GRN)"	50	37	74.00		13	26.00		50	
+		"WILLS, Kevin (IND)"	12	5	41.67		7	58.33		12	
+		"LAING-PEACH, James (IND)"	36	23	63.89		13	36.11		36	
+		"BAKER, Errol (HAN)"	68	31	45.59		37	54.41		68	
+		"PHILLIPS, Barry (PLP)"	16	13	81.25		3	18.75		16	
+		"MARTIN, Ken (CEC)"	6	5	83.33		1	16.67		6	
+		Total	381	1017	36.10		1800	63.90		2817	
+
+	Kincumber										
+			1st Prefs	889	41.66		1245	58.34		2134	
+		"KENISCIEHAD, Kaijin (IND)"	21	19	90.48		2	9.52		21	
+		"BOYLE, Harry Ovens (DEM)"	92	61	66.30		31	33.70		92	
+		"HENNIG, Christine (CTA)"	40	8	20.00		32	80.00		40	
+		"MUNN, Alasdair (IND)"	9	7	77.78		2	22.22		9	
+		"LACEY, Stephen (GRN)"	83	58	69.88		25	30.12		83	
+		"WILLS, Kevin (IND)"	65	33	50.77		32	49.23		65	
+		"LAING-PEACH, James (IND)"	16	11	68.75		5	31.25		16	
+		"BAKER, Errol (HAN)"	79	25	31.65		54	68.35		79	
+		"PHILLIPS, Barry (PLP)"	6	3	50.00		3	50.00		6	
+		"MARTIN, Ken (CEC)"	2	0	0.00		2	100.00		2	
+		Total	413	1114	43.74		1433	56.26		2547	
+
+	Kincumber Central										
+			1st Prefs	454	40.97		654	59.03		1108	
+		"KENISCIEHAD, Kaijin (IND)"	14	14	100.00		0	0.00		14	
+		"BOYLE, Harry Ovens (DEM)"	42	32	76.19		10	23.81		42	
+		"HENNIG, Christine (CTA)"	15	5	33.33		10	66.67		15	
+		"MUNN, Alasdair (IND)"	4	3	75.00		1	25.00		4	
+		"LACEY, Stephen (GRN)"	18	14	77.78		4	22.22		18	
+		"WILLS, Kevin (IND)"	59	29	49.15		30	50.85		59	
+		"LAING-PEACH, James (IND)"	10	5	50.00		5	50.00		10	
+		"BAKER, Errol (HAN)"	38	20	52.63		18	47.37		38	
+		"PHILLIPS, Barry (PLP)"	3	2	66.67		1	33.33		3	
+		"MARTIN, Ken (CEC)"	2	1	50.00		1	50.00		2	
+		Total	205	579	44.10		734	55.90		1313	
+
+	Macmasters Beach										
+			1st Prefs	173	42.82		231	57.18		404	
+		"KENISCIEHAD, Kaijin (IND)"	3	3	100.00		0	0.00		3	
+		"BOYLE, Harry Ovens (DEM)"	26	19	73.08		7	26.92		26	
+		"HENNIG, Christine (CTA)"	16	4	25.00		12	75.00		16	
+		"MUNN, Alasdair (IND)"	0	0	0.00		0	0.00		0	
+		"LACEY, Stephen (GRN)"	36	28	77.78		8	22.22		36	
+		"WILLS, Kevin (IND)"	28	15	53.57		13	46.43		28	
+		"LAING-PEACH, James (IND)"	5	3	60.00		2	40.00		5	
+		"BAKER, Errol (HAN)"	11	4	36.36		7	63.64		11	
+		"PHILLIPS, Barry (PLP)"	0	0	0.00		0	0.00		0	
+		"MARTIN, Ken (CEC)"	0	0	0.00		0	0.00		0	
+		Total	125	249	47.07		280	52.93		529	
+
+	Mangrove Mountain										
+			1st Prefs	100	25.38		294	74.62		394	
+		"KENISCIEHAD, Kaijin (IND)"	5	4	80.00		1	20.00		5	
+		"BOYLE, Harry Ovens (DEM)"	17	11	64.71		6	35.29		17	
+		"HENNIG, Christine (CTA)"	12	1	8.33		11	91.67		12	
+		"MUNN, Alasdair (IND)"	3	2	66.67		1	33.33		3	
+		"LACEY, Stephen (GRN)"	11	9	81.82		2	18.18		11	
+		"WILLS, Kevin (IND)"	6	4	66.67		2	33.33		6	
+		"LAING-PEACH, James (IND)"	5	1	20.00		4	80.00		5	
+		"BAKER, Errol (HAN)"	25	8	32.00		17	68.00		25	
+		"PHILLIPS, Barry (PLP)"	0	0	0.00		0	0.00		0	
+		"MARTIN, Ken (CEC)"	0	0	0.00		0	0.00		0	
+		Total	84	140	29.29		338	70.71		478	
+
+	Mooney Mooney										
+			1st Prefs	74	31.90		158	68.10		232	
+		"KENISCIEHAD, Kaijin (IND)"	2	1	50.00		1	50.00		2	
+		"BOYLE, Harry Ovens (DEM)"	9	7	77.78		2	22.22		9	
+		"HENNIG, Christine (CTA)"	1	0	0.00		1	100.00		1	
+		"MUNN, Alasdair (IND)"	1	1	100.00		0	0.00		1	
+		"LACEY, Stephen (GRN)"	9	5	55.56		4	44.44		9	
+		"WILLS, Kevin (IND)"	0	0	0.00		0	0.00		0	
+		"LAING-PEACH, James (IND)"	0	0	0.00		0	0.00		0	
+		"BAKER, Errol (HAN)"	11	4	36.36		7	63.64		11	
+		"PHILLIPS, Barry (PLP)"	0	0	0.00		0	0.00		0	
+		"MARTIN, Ken (CEC)"	0	0	0.00		0	0.00		0	
+		Total	33	92	34.72		173	65.28		265	
+
+	Mount White										
+			1st Prefs	32	34.04		62	65.96		94	
+		"KENISCIEHAD, Kaijin (IND)"	0	0	0.00		0	0.00		0	
+		"BOYLE, Harry Ovens (DEM)"	5	3	60.00		2	40.00		5	
+		"HENNIG, Christine (CTA)"	0	0	0.00		0	0.00		0	
+		"MUNN, Alasdair (IND)"	1	1	100.00		0	0.00		1	
+		"LACEY, Stephen (GRN)"	2	0	0.00		2	100.00		2	
+		"WILLS, Kevin (IND)"	0	0	0.00		0	0.00		0	
+		"LAING-PEACH, James (IND)"	0	0	0.00		0	0.00		0	
+		"BAKER, Errol (HAN)"	2	1	50.00		1	50.00		2	
+		"PHILLIPS, Barry (PLP)"	1	1	100.00		0	0.00		1	
+		"MARTIN, Ken (CEC)"	0	0	0.00		0	0.00		0	
+		Total	11	38	36.19		67	63.81		105	
+
+	Narara South										
+			1st Prefs	474	37.59		787	62.41		1261	
+		"KENISCIEHAD, Kaijin (IND)"	11	9	81.82		2	18.18		11	
+		"BOYLE, Harry Ovens (DEM)"	71	47	66.20		24	33.80		71	
+		"HENNIG, Christine (CTA)"	71	12	16.90		59	83.10		71	
+		"MUNN, Alasdair (IND)"	8	4	50.00		4	50.00		8	
+		"LACEY, Stephen (GRN)"	44	30	68.18		14	31.82		44	
+		"WILLS, Kevin (IND)"	9	3	33.33		6	66.67		9	
+		"LAING-PEACH, James (IND)"	10	4	40.00		6	60.00		10	
+		"BAKER, Errol (HAN)"	33	19	57.58		14	42.42		33	
+		"PHILLIPS, Barry (PLP)"	5	4	80.00		1	20.00		5	
+		"MARTIN, Ken (CEC)"	8	6	75.00		2	25.00		8	
+		Total	270	612	39.97		919	60.03		1531	
+
+	Niagara Park (Robertson)										
+			1st Prefs	89	35.18		164	64.82		253	
+		"KENISCIEHAD, Kaijin (IND)"	4	3	75.00		1	25.00		4	
+		"BOYLE, Harry Ovens (DEM)"	21	17	80.95		4	19.05		21	
+		"HENNIG, Christine (CTA)"	10	1	10.00		9	90.00		10	
+		"MUNN, Alasdair (IND)"	1	1	100.00		0	0.00		1	
+		"LACEY, Stephen (GRN)"	11	7	63.64		4	36.36		11	
+		"WILLS, Kevin (IND)"	2	2	100.00		0	0.00		2	
+		"LAING-PEACH, James (IND)"	2	1	50.00		1	50.00		2	
+		"BAKER, Errol (HAN)"	7	3	42.86		4	57.14		7	
+		"PHILLIPS, Barry (PLP)"	3	3	100.00		0	0.00		3	
+		"MARTIN, Ken (CEC)"	0	0	0.00		0	0.00		0	
+		Total	61	127	40.45		187	59.55		314	
+
+	Ocean Beach										
+			1st Prefs	991	47.69		1087	52.31		2078	
+		"KENISCIEHAD, Kaijin (IND)"	28	22	78.57		6	21.43		28	
+		"BOYLE, Harry Ovens (DEM)"	79	53	67.09		26	32.91		79	
+		"HENNIG, Christine (CTA)"	19	9	47.37		10	52.63		19	
+		"MUNN, Alasdair (IND)"	26	15	57.69		11	42.31		26	
+		"LACEY, Stephen (GRN)"	99	81	81.82		18	18.18		99	
+		"WILLS, Kevin (IND)"	6	4	66.67		2	33.33		6	
+		"LAING-PEACH, James (IND)"	12	6	50.00		6	50.00		12	
+		"BAKER, Errol (HAN)"	91	40	43.96		51	56.04		91	
+		"PHILLIPS, Barry (PLP)"	16	15	93.75		1	6.25		16	
+		"MARTIN, Ken (CEC)"	5	1	20.00		4	80.00		5	
+		Total	381	1237	50.31		1222	49.69		2459	
+
+	Patonga										
+			1st Prefs	87	43.28		114	56.72		201	
+		"KENISCIEHAD, Kaijin (IND)"	1	1	100.00		0	0.00		1	
+		"BOYLE, Harry Ovens (DEM)"	7	6	85.71		1	14.29		7	
+		"HENNIG, Christine (CTA)"	1	0	0.00		1	100.00		1	
+		"MUNN, Alasdair (IND)"	0	0	0.00		0	0.00		0	
+		"LACEY, Stephen (GRN)"	13	9	69.23		4	30.77		13	
+		"WILLS, Kevin (IND)"	1	0	0.00		1	100.00		1	
+		"LAING-PEACH, James (IND)"	1	1	100.00		0	0.00		1	
+		"BAKER, Errol (HAN)"	4	2	50.00		2	50.00		4	
+		"PHILLIPS, Barry (PLP)"	0	0	0.00		0	0.00		0	
+		"MARTIN, Ken (CEC)"	1	1	100.00		0	0.00		1	
+		Total	29	107	46.52		123	53.48		230	
+
+	Pearl Beach										
+			1st Prefs	94	35.61		170	64.39		264	
+		"KENISCIEHAD, Kaijin (IND)"	2	2	100.00		0	0.00		2	
+		"BOYLE, Harry Ovens (DEM)"	5	4	80.00		1	20.00		5	
+		"HENNIG, Christine (CTA)"	1	0	0.00		1	100.00		1	
+		"MUNN, Alasdair (IND)"	2	2	100.00		0	0.00		2	
+		"LACEY, Stephen (GRN)"	32	28	87.50		4	12.50		32	
+		"WILLS, Kevin (IND)"	1	0	0.00		1	100.00		1	
+		"LAING-PEACH, James (IND)"	0	0	0.00		0	0.00		0	
+		"BAKER, Errol (HAN)"	8	4	50.00		4	50.00		8	
+		"PHILLIPS, Barry (PLP)"	1	1	100.00		0	0.00		1	
+		"MARTIN, Ken (CEC)"	0	0	0.00		0	0.00		0	
+		Total	52	135	42.72		181	57.28		316	
+
+	Peats Ridge										
+			1st Prefs	55	27.23		147	72.77		202	
+		"KENISCIEHAD, Kaijin (IND)"	1	1	100.00		0	0.00		1	
+		"BOYLE, Harry Ovens (DEM)"	3	3	100.00		0	0.00		3	
+		"HENNIG, Christine (CTA)"	1	1	100.00		0	0.00		1	
+		"MUNN, Alasdair (IND)"	1	0	0.00		1	100.00		1	
+		"LACEY, Stephen (GRN)"	6	5	83.33		1	16.67		6	
+		"WILLS, Kevin (IND)"	0	0	0.00		0	0.00		0	
+		"LAING-PEACH, James (IND)"	4	2	50.00		2	50.00		4	
+		"BAKER, Errol (HAN)"	4	3	75.00		1	25.00		4	
+		"PHILLIPS, Barry (PLP)"	1	0	0.00		1	100.00		1	
+		"MARTIN, Ken (CEC)"	0	0	0.00		0	0.00		0	
+		Total	21	70	31.39		153	68.61		223	
+
+	Point Clare										
+			1st Prefs	786	38.36		1263	61.64		2049	
+		"KENISCIEHAD, Kaijin (IND)"	11	7	63.64		4	36.36		11	
+		"BOYLE, Harry Ovens (DEM)"	95	65	68.42		30	31.58		95	
+		"HENNIG, Christine (CTA)"	34	3	8.82		31	91.18		34	
+		"MUNN, Alasdair (IND)"	23	16	69.57		7	30.43		23	
+		"LACEY, Stephen (GRN)"	75	53	70.67		22	29.33		75	
+		"WILLS, Kevin (IND)"	11	5	45.45		6	54.55		11	
+		"LAING-PEACH, James (IND)"	22	8	36.36		14	63.64		22	
+		"BAKER, Errol (HAN)"	58	27	46.55		31	53.45		58	
+		"PHILLIPS, Barry (PLP)"	7	6	85.71		1	14.29		7	
+		"MARTIN, Ken (CEC)"	2	1	50.00		1	50.00		2	
+		Total	338	977	40.93		1410	59.07		2387	
+
+	Pretty Beach										
+			1st Prefs	214	39.85		323	60.15		537	
+		"KENISCIEHAD, Kaijin (IND)"	2	1	50.00		1	50.00		2	
+		"BOYLE, Harry Ovens (DEM)"	27	18	66.67		9	33.33		27	
+		"HENNIG, Christine (CTA)"	3	0	0.00		3	100.00		3	
+		"MUNN, Alasdair (IND)"	2	2	100.00		0	0.00		2	
+		"LACEY, Stephen (GRN)"	72	63	87.50		9	12.50		72	
+		"WILLS, Kevin (IND)"	6	4	66.67		2	33.33		6	
+		"LAING-PEACH, James (IND)"	12	5	41.67		7	58.33		12	
+		"BAKER, Errol (HAN)"	10	6	60.00		4	40.00		10	
+		"PHILLIPS, Barry (PLP)"	2	2	100.00		0	0.00		2	
+		"MARTIN, Ken (CEC)"	1	1	100.00		0	0.00		1	
+		Total	137	316	46.88		358	53.12		674	
+
+	Saratoga										
+			1st Prefs	547	37.29		920	62.71		1467	
+		"KENISCIEHAD, Kaijin (IND)"	16	13	81.25		3	18.75		16	
+		"BOYLE, Harry Ovens (DEM)"	76	52	68.42		24	31.58		76	
+		"HENNIG, Christine (CTA)"	16	3	18.75		13	81.25		16	
+		"MUNN, Alasdair (IND)"	6	3	50.00		3	50.00		6	
+		"LACEY, Stephen (GRN)"	58	42	72.41		16	27.59		58	
+		"WILLS, Kevin (IND)"	23	12	52.17		11	47.83		23	
+		"LAING-PEACH, James (IND)"	8	5	62.50		3	37.50		8	
+		"BAKER, Errol (HAN)"	54	26	48.15		28	51.85		54	
+		"PHILLIPS, Barry (PLP)"	3	2	66.67		1	33.33		3	
+		"MARTIN, Ken (CEC)"	3	0	0.00		3	100.00		3	
+		Total	263	705	40.75		1025	59.25		1730	
+
+	Scaysbrook										
+			1st Prefs	183	28.73		454	71.27		637	
+		"KENISCIEHAD, Kaijin (IND)"	5	5	100.00		0	0.00		5	
+		"BOYLE, Harry Ovens (DEM)"	13	12	92.31		1	7.69		13	
+		"HENNIG, Christine (CTA)"	13	1	7.69		12	92.31		13	
+		"MUNN, Alasdair (IND)"	2	0	0.00		2	100.00		2	
+		"LACEY, Stephen (GRN)"	5	2	40.00		3	60.00		5	
+		"WILLS, Kevin (IND)"	4	1	25.00		3	75.00		4	
+		"LAING-PEACH, James (IND)"	2	1	50.00		1	50.00		2	
+		"BAKER, Errol (HAN)"	12	2	16.67		10	83.33		12	
+		"PHILLIPS, Barry (PLP)"	3	3	100.00		0	0.00		3	
+		"MARTIN, Ken (CEC)"	0	0	0.00		0	0.00		0	
+		Total	59	210	30.17		486	69.83		696	
+
+	Somersby										
+			1st Prefs	96	23.19		318	76.81		414	
+		"KENISCIEHAD, Kaijin (IND)"	3	2	66.67		1	33.33		3	
+		"BOYLE, Harry Ovens (DEM)"	20	12	60.00		8	40.00		20	
+		"HENNIG, Christine (CTA)"	5	1	20.00		4	80.00		5	
+		"MUNN, Alasdair (IND)"	1	0	0.00		1	100.00		1	
+		"LACEY, Stephen (GRN)"	15	12	80.00		3	20.00		15	
+		"WILLS, Kevin (IND)"	3	1	33.33		2	66.67		3	
+		"LAING-PEACH, James (IND)"	25	7	28.00		18	72.00		25	
+		"BAKER, Errol (HAN)"	12	7	58.33		5	41.67		12	
+		"PHILLIPS, Barry (PLP)"	4	2	50.00		2	50.00		4	
+		"MARTIN, Ken (CEC)"	0	0	0.00		0	0.00		0	
+		Total	88	140	27.89		362	72.11		502	
+
+	Spencer										
+			1st Prefs	66	52.38		60	47.62		126	
+		"KENISCIEHAD, Kaijin (IND)"	2	2	100.00		0	0.00		2	
+		"BOYLE, Harry Ovens (DEM)"	8	7	87.50		1	12.50		8	
+		"HENNIG, Christine (CTA)"	1	0	0.00		1	100.00		1	
+		"MUNN, Alasdair (IND)"	0	0	0.00		0	0.00		0	
+		"LACEY, Stephen (GRN)"	6	3	50.00		3	50.00		6	
+		"WILLS, Kevin (IND)"	0	0	0.00		0	0.00		0	
+		"LAING-PEACH, James (IND)"	0	0	0.00		0	0.00		0	
+		"BAKER, Errol (HAN)"	9	1	11.11		8	88.89		9	
+		"PHILLIPS, Barry (PLP)"	0	0	0.00		0	0.00		0	
+		"MARTIN, Ken (CEC)"	1	0	0.00		1	100.00		1	
+		Total	27	79	51.63		74	48.37		153	
+
+	Springfield										
+			1st Prefs	657	45.34		792	54.66		1449	
+		"KENISCIEHAD, Kaijin (IND)"	15	12	80.00		3	20.00		15	
+		"BOYLE, Harry Ovens (DEM)"	65	47	72.31		18	27.69		65	
+		"HENNIG, Christine (CTA)"	29	11	37.93		18	62.07		29	
+		"MUNN, Alasdair (IND)"	9	4	44.44		5	55.56		9	
+		"LACEY, Stephen (GRN)"	46	31	67.39		15	32.61		46	
+		"WILLS, Kevin (IND)"	11	5	45.45		6	54.55		11	
+		"LAING-PEACH, James (IND)"	14	7	50.00		7	50.00		14	
+		"BAKER, Errol (HAN)"	40	23	57.50		17	42.50		40	
+		"PHILLIPS, Barry (PLP)"	17	14	82.35		3	17.65		17	
+		"MARTIN, Ken (CEC)"	4	2	50.00		2	50.00		4	
+		Total	250	813	47.85		886	52.15		1699	
+
+	Sydney (Robertson)										
+			1st Prefs	23	35.94		41	64.06		64	
+		"KENISCIEHAD, Kaijin (IND)"	1	1	100.00		0	0.00		1	
+		"BOYLE, Harry Ovens (DEM)"	2	1	50.00		1	50.00		2	
+		"HENNIG, Christine (CTA)"	1	1	100.00		0	0.00		1	
+		"MUNN, Alasdair (IND)"	1	0	0.00		1	100.00		1	
+		"LACEY, Stephen (GRN)"	7	6	85.71		1	14.29		7	
+		"WILLS, Kevin (IND)"	0	0	0.00		0	0.00		0	
+		"LAING-PEACH, James (IND)"	1	1	100.00		0	0.00		1	
+		"BAKER, Errol (HAN)"	4	3	75.00		1	25.00		4	
+		"PHILLIPS, Barry (PLP)"	0	0	0.00		0	0.00		0	
+		"MARTIN, Ken (CEC)"	1	1	100.00		0	0.00		1	
+		Total	18	37	45.12		45	54.88		82	
+
+	Terrigal (Robertson)										
+			1st Prefs	611	31.29		1342	68.71		1953	
+		"KENISCIEHAD, Kaijin (IND)"	16	12	75.00		4	25.00		16	
+		"BOYLE, Harry Ovens (DEM)"	112	73	65.18		39	34.82		112	
+		"HENNIG, Christine (CTA)"	38	11	28.95		27	71.05		38	
+		"MUNN, Alasdair (IND)"	16	14	87.50		2	12.50		16	
+		"LACEY, Stephen (GRN)"	118	91	77.12		27	22.88		118	
+		"WILLS, Kevin (IND)"	21	9	42.86		12	57.14		21	
+		"LAING-PEACH, James (IND)"	14	8	57.14		6	42.86		14	
+		"BAKER, Errol (HAN)"	33	14	42.42		19	57.58		33	
+		"PHILLIPS, Barry (PLP)"	6	3	50.00		3	50.00		6	
+		"MARTIN, Ken (CEC)"	3	2	66.67		1	33.33		3	
+		Total	377	848	36.39		1482	63.61		2330	
+
+	Terrigal Central										
+			1st Prefs	155	28.70		385	71.30		540	
+		"KENISCIEHAD, Kaijin (IND)"	7	5	71.43		2	28.57		7	
+		"BOYLE, Harry Ovens (DEM)"	32	25	78.13		7	21.88		32	
+		"HENNIG, Christine (CTA)"	5	1	20.00		4	80.00		5	
+		"MUNN, Alasdair (IND)"	0	0	0.00		0	0.00		0	
+		"LACEY, Stephen (GRN)"	19	14	73.68		5	26.32		19	
+		"WILLS, Kevin (IND)"	5	1	20.00		4	80.00		5	
+		"LAING-PEACH, James (IND)"	3	1	33.33		2	66.67		3	
+		"BAKER, Errol (HAN)"	4	2	50.00		2	50.00		4	
+		"PHILLIPS, Barry (PLP)"	2	2	100.00		0	0.00		2	
+		"MARTIN, Ken (CEC)"	0	0	0.00		0	0.00		0	
+		Total	77	206	33.39		411	66.61		617	
+
+	Terrigal West										
+			1st Prefs	248	28.21		631	71.79		879	
+		"KENISCIEHAD, Kaijin (IND)"	7	7	100.00		0	0.00		7	
+		"BOYLE, Harry Ovens (DEM)"	29	19	65.52		10	34.48		29	
+		"HENNIG, Christine (CTA)"	12	5	41.67		7	58.33		12	
+		"MUNN, Alasdair (IND)"	3	1	33.33		2	66.67		3	
+		"LACEY, Stephen (GRN)"	28	23	82.14		5	17.86		28	
+		"WILLS, Kevin (IND)"	2	0	0.00		2	100.00		2	
+		"LAING-PEACH, James (IND)"	6	5	83.33		1	16.67		6	
+		"BAKER, Errol (HAN)"	11	2	18.18		9	81.82		11	
+		"PHILLIPS, Barry (PLP)"	0	0	0.00		0	0.00		0	
+		"MARTIN, Ken (CEC)"	2	2	100.00		0	0.00		2	
+		Total	100	312	31.87		667	68.13		979	
+
+	Umina Bullion St.										
+			1st Prefs	700	50.14		696	49.86		1396	
+		"KENISCIEHAD, Kaijin (IND)"	13	12	92.31		1	7.69		13	
+		"BOYLE, Harry Ovens (DEM)"	27	15	55.56		12	44.44		27	
+		"HENNIG, Christine (CTA)"	16	3	18.75		13	81.25		16	
+		"MUNN, Alasdair (IND)"	4	4	100.00		0	0.00		4	
+		"LACEY, Stephen (GRN)"	34	28	82.35		6	17.65		34	
+		"WILLS, Kevin (IND)"	12	4	33.33		8	66.67		12	
+		"LAING-PEACH, James (IND)"	13	10	76.92		3	23.08		13	
+		"BAKER, Errol (HAN)"	49	19	38.78		30	61.22		49	
+		"PHILLIPS, Barry (PLP)"	5	5	100.00		0	0.00		5	
+		"MARTIN, Ken (CEC)"	2	0	0.00		2	100.00		2	
+		Total	175	800	50.92		771	49.08		1571	
+
+	Umina Central										
+			1st Prefs	854	48.58		904	51.42		1758	
+		"KENISCIEHAD, Kaijin (IND)"	15	12	80.00		3	20.00		15	
+		"BOYLE, Harry Ovens (DEM)"	64	55	85.94		9	14.06		64	
+		"HENNIG, Christine (CTA)"	24	4	16.67		20	83.33		24	
+		"MUNN, Alasdair (IND)"	5	1	20.00		4	80.00		5	
+		"LACEY, Stephen (GRN)"	63	43	68.25		20	31.75		63	
+		"WILLS, Kevin (IND)"	14	10	71.43		4	28.57		14	
+		"LAING-PEACH, James (IND)"	27	18	66.67		9	33.33		27	
+		"BAKER, Errol (HAN)"	88	42	47.73		46	52.27		88	
+		"PHILLIPS, Barry (PLP)"	9	8	88.89		1	11.11		9	
+		"MARTIN, Ken (CEC)"	2	0	0.00		2	100.00		2	
+		Total	311	1047	50.60		1022	49.40		2069	
+
+	Umina Mall										
+			1st Prefs	756	49.06		785	50.94		1541	
+		"KENISCIEHAD, Kaijin (IND)"	22	18	81.82		4	18.18		22	
+		"BOYLE, Harry Ovens (DEM)"	58	47	81.03		11	18.97		58	
+		"HENNIG, Christine (CTA)"	12	3	25.00		9	75.00		12	
+		"MUNN, Alasdair (IND)"	8	7	87.50		1	12.50		8	
+		"LACEY, Stephen (GRN)"	52	36	69.23		16	30.77		52	
+		"WILLS, Kevin (IND)"	9	7	77.78		2	22.22		9	
+		"LAING-PEACH, James (IND)"	15	10	66.67		5	33.33		15	
+		"BAKER, Errol (HAN)"	89	26	29.21		63	70.79		89	
+		"PHILLIPS, Barry (PLP)"	10	8	80.00		2	20.00		10	
+		"MARTIN, Ken (CEC)"	6	1	16.67		5	83.33		6	
+		Total	281	919	50.44		903	49.56		1822	
+
+	Woy Woy										
+			1st Prefs	1140	46.84		1294	53.16		2434	
+		"KENISCIEHAD, Kaijin (IND)"	21	17	80.95		4	19.05		21	
+		"BOYLE, Harry Ovens (DEM)"	78	55	70.51		23	29.49		78	
+		"HENNIG, Christine (CTA)"	38	15	39.47		23	60.53		38	
+		"MUNN, Alasdair (IND)"	27	21	77.78		6	22.22		27	
+		"LACEY, Stephen (GRN)"	75	60	80.00		15	20.00		75	
+		"WILLS, Kevin (IND)"	17	10	58.82		7	41.18		17	
+		"LAING-PEACH, James (IND)"	25	16	64.00		9	36.00		25	
+		"BAKER, Errol (HAN)"	168	50	29.76		118	70.24		168	
+		"PHILLIPS, Barry (PLP)"	24	18	75.00		6	25.00		24	
+		"MARTIN, Ken (CEC)"	3	2	66.67		1	33.33		3	
+		Total	476	1404	48.25		1506	51.75		2910	
+
+	Woy Woy Bay										
+			1st Prefs	74	37.76		122	62.24		196	
+		"KENISCIEHAD, Kaijin (IND)"	1	1	100.00		0	0.00		1	
+		"BOYLE, Harry Ovens (DEM)"	15	6	40.00		9	60.00		15	
+		"HENNIG, Christine (CTA)"	2	2	100.00		0	0.00		2	
+		"MUNN, Alasdair (IND)"	2	1	50.00		1	50.00		2	
+		"LACEY, Stephen (GRN)"	18	13	72.22		5	27.78		18	
+		"WILLS, Kevin (IND)"	3	1	33.33		2	66.67		3	
+		"LAING-PEACH, James (IND)"	2	1	50.00		1	50.00		2	
+		"BAKER, Errol (HAN)"	5	1	20.00		4	80.00		5	
+		"PHILLIPS, Barry (PLP)"	1	1	100.00		0	0.00		1	
+		"MARTIN, Ken (CEC)"	1	0	0.00		1	100.00		1	
+		Total	50	101	41.06		145	58.94		246	
+
+	Woy Woy South										
+			1st Prefs	449	49.45		459	50.55		908	
+		"KENISCIEHAD, Kaijin (IND)"	11	10	90.91		1	9.09		11	
+		"BOYLE, Harry Ovens (DEM)"	40	30	75.00		10	25.00		40	
+		"HENNIG, Christine (CTA)"	12	5	41.67		7	58.33		12	
+		"MUNN, Alasdair (IND)"	6	5	83.33		1	16.67		6	
+		"LACEY, Stephen (GRN)"	28	19	67.86		9	32.14		28	
+		"WILLS, Kevin (IND)"	16	11	68.75		5	31.25		16	
+		"LAING-PEACH, James (IND)"	3	1	33.33		2	66.67		3	
+		"BAKER, Errol (HAN)"	51	24	47.06		27	52.94		51	
+		"PHILLIPS, Barry (PLP)"	3	2	66.67		1	33.33		3	
+		"MARTIN, Ken (CEC)"	3	0	0.00		3	100.00		3	
+		Total	173	556	51.43		525	48.57		1081	
+
+	Wyoming (Robertson)										
+			1st Prefs	442	44.24		557	55.76		999	
+		"KENISCIEHAD, Kaijin (IND)"	13	8	61.54		5	38.46		13	
+		"BOYLE, Harry Ovens (DEM)"	71	53	74.65		18	25.35		71	
+		"HENNIG, Christine (CTA)"	26	6	23.08		20	76.92		26	
+		"MUNN, Alasdair (IND)"	6	1	16.67		5	83.33		6	
+		"LACEY, Stephen (GRN)"	40	30	75.00		10	25.00		40	
+		"WILLS, Kevin (IND)"	9	4	44.44		5	55.56		9	
+		"LAING-PEACH, James (IND)"	10	4	40.00		6	60.00		10	
+		"BAKER, Errol (HAN)"	35	16	45.71		19	54.29		35	
+		"PHILLIPS, Barry (PLP)"	10	9	90.00		1	10.00		10	
+		"MARTIN, Ken (CEC)"	4	2	50.00		2	50.00		4	
+		Total	224	575	47.02		648	52.98		1223	
+
+	Special Hospitals										
+			1st Prefs	200	46.40		231	53.60		431	
+		"KENISCIEHAD, Kaijin (IND)"	9	9	100.00		0	0.00		9	
+		"BOYLE, Harry Ovens (DEM)"	4	4	100.00		0	0.00		4	
+		"HENNIG, Christine (CTA)"	1	0	0.00		1	100.00		1	
+		"MUNN, Alasdair (IND)"	2	1	50.00		1	50.00		2	
+		"LACEY, Stephen (GRN)"	2	1	50.00		1	50.00		2	
+		"WILLS, Kevin (IND)"	3	1	33.33		2	66.67		3	
+		"LAING-PEACH, James (IND)"	0	0	0.00		0	0.00		0	
+		"BAKER, Errol (HAN)"	2	1	50.00		1	50.00		2	
+		"PHILLIPS, Barry (PLP)"	0	0	0.00		0	0.00		0	
+		"MARTIN, Ken (CEC)"	0	0	0.00		0	0.00		0	
+		Total	23	217	47.80		237	52.20		454	
+
+	Total Ordinary										
+			1st Prefs	21485	40.52		31539	59.48		53024	
+		"KENISCIEHAD, Kaijin (IND)"	509	422	82.91		87	17.09		509	
+		"BOYLE, Harry Ovens (DEM)"	2188	1546	70.66		642	29.34		2188	
+		"HENNIG, Christine (CTA)"	898	223	24.83		675	75.17		898	
+		"MUNN, Alasdair (IND)"	296	193	65.20		103	34.80		296	
+		"LACEY, Stephen (GRN)"	1989	1468	73.81		521	26.19		1989	
+		"WILLS, Kevin (IND)"	649	327	50.39		322	49.61		649	
+		"LAING-PEACH, James (IND)"	438	233	53.20		205	46.80		438	
+		"BAKER, Errol (HAN)"	1867	766	41.03		1101	58.97		1867	
+		"PHILLIPS, Barry (PLP)"	270	212	78.52		58	21.48		270	
+		"MARTIN, Ken (CEC)"	93	41	44.09		52	55.91		93	
+		Total	9197	26916	43.26		35305	56.74		62221	
+
+	ABSENT										
+			1st Prefs	1473	39.34		2271	60.66		3744	
+		"KENISCIEHAD, Kaijin (IND)"	76	55	72.37		21	27.63		76	
+		"BOYLE, Harry Ovens (DEM)"	294	206	70.07		88	29.93		294	
+		"HENNIG, Christine (CTA)"	105	25	23.81		80	76.19		105	
+		"MUNN, Alasdair (IND)"	23	16	69.57		7	30.43		23	
+		"LACEY, Stephen (GRN)"	308	221	71.75		87	28.25		308	
+		"WILLS, Kevin (IND)"	33	15	45.45		18	54.55		33	
+		"LAING-PEACH, James (IND)"	37	22	59.46		15	40.54		37	
+		"BAKER, Errol (HAN)"	170	74	43.53		96	56.47		170	
+		"PHILLIPS, Barry (PLP)"	62	49	79.03		13	20.97		62	
+		"MARTIN, Ken (CEC)"	17	6	35.29		11	64.71		17	
+		Total	1125	2162	44.40		2707	55.60		4869	
+
+	POSTAL										
+			1st Prefs	1073	34.36		2050	65.64		3123	
+		"KENISCIEHAD, Kaijin (IND)"	17	10	58.82		7	41.18		17	
+		"BOYLE, Harry Ovens (DEM)"	86	65	75.58		21	24.42		86	
+		"HENNIG, Christine (CTA)"	34	7	20.59		27	79.41		34	
+		"MUNN, Alasdair (IND)"	6	4	66.67		2	33.33		6	
+		"LACEY, Stephen (GRN)"	55	29	52.73		26	47.27		55	
+		"WILLS, Kevin (IND)"	11	1	9.09		10	90.91		11	
+		"LAING-PEACH, James (IND)"	16	12	75.00		4	25.00		16	
+		"BAKER, Errol (HAN)"	107	46	42.99		61	57.01		107	
+		"PHILLIPS, Barry (PLP)"	10	7	70.00		3	30.00		10	
+		"MARTIN, Ken (CEC)"	4	1	25.00		3	75.00		4	
+		Total	346	1255	36.18		2214	63.82		3469	
+
+	PRE_POLL										
+			1st Prefs	1522	39.35		2346	60.65		3868	
+		"KENISCIEHAD, Kaijin (IND)"	45	36	80.00		9	20.00		45	
+		"BOYLE, Harry Ovens (DEM)"	137	109	79.56		28	20.44		137	
+		"HENNIG, Christine (CTA)"	45	15	33.33		30	66.67		45	
+		"MUNN, Alasdair (IND)"	20	12	60.00		8	40.00		20	
+		"LACEY, Stephen (GRN)"	128	94	73.44		34	26.56		128	
+		"WILLS, Kevin (IND)"	47	17	36.17		30	63.83		47	
+		"LAING-PEACH, James (IND)"	28	12	42.86		16	57.14		28	
+		"BAKER, Errol (HAN)"	169	75	44.38		94	55.62		169	
+		"PHILLIPS, Barry (PLP)"	20	18	90.00		2	10.00		20	
+		"MARTIN, Ken (CEC)"	10	3	30.00		7	70.00		10	
+		Total	649	1913	42.35		2604	57.65		4517	
+
+	PROVISIONAL										
+			1st Prefs	236	49.37		242	50.63		478	
+		"KENISCIEHAD, Kaijin (IND)"	10	8	80.00		2	20.00		10	
+		"BOYLE, Harry Ovens (DEM)"	31	15	48.39		16	51.61		31	
+		"HENNIG, Christine (CTA)"	10	4	40.00		6	60.00		10	
+		"MUNN, Alasdair (IND)"	3	1	33.33		2	66.67		3	
+		"LACEY, Stephen (GRN)"	32	25	78.13		7	21.88		32	
+		"WILLS, Kevin (IND)"	4	3	75.00		1	25.00		4	
+		"LAING-PEACH, James (IND)"	6	3	50.00		3	50.00		6	
+		"BAKER, Errol (HAN)"	20	11	55.00		9	45.00		20	
+		"PHILLIPS, Barry (PLP)"	12	10	83.33		2	16.67		12	
+		"MARTIN, Ken (CEC)"	1	0	0.00		1	100.00		1	
+		Total	129	316	52.06		291	47.94		607	
+
+	Division Summary										
+			1st Prefs	25789	40.15		38448	59.85		64237	
+		"KENISCIEHAD, Kaijin (IND)"	657	531	80.82		126	19.18		657	
+		"BOYLE, Harry Ovens (DEM)"	2736	1941	70.94		795	29.06		2736	
+		"HENNIG, Christine (CTA)"	1092	274	25.09		818	74.91		1092	
+		"MUNN, Alasdair (IND)"	348	226	64.94		122	35.06		348	
+		"LACEY, Stephen (GRN)"	2512	1837	73.13		675	26.87		2512	
+		"WILLS, Kevin (IND)"	744	363	48.79		381	51.21		744	
+		"LAING-PEACH, James (IND)"	525	282	53.71		243	46.29		525	
+		"BAKER, Errol (HAN)"	2333	972	41.66		1361	58.34		2333	
+		"PHILLIPS, Barry (PLP)"	374	296	79.14		78	20.86		374	
+		"MARTIN, Ken (CEC)"	125	51	40.80		74	59.20		125	
+		Total	11446	32562	43.02		43121	56.98		75683	

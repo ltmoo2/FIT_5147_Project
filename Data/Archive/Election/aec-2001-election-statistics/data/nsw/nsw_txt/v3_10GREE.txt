@@ -1,0 +1,487 @@
+House of Representatives - 2001 Election: New South Wales											
+Two Candidate Preferred Preference Flow Result											
+By Polling Place by Division											
+											
+Greenway (85876)											
+		Candidate		"MOSSFIELD, Frank"		           	"HOLDER, Rick"		               	Total	
+				ALP		                        	LP		                         		
+				Votes	%	                     	Votes	%	                     		
+	Blacktown Central										
+			1st Prefs	120	65.22		64	34.78		184	
+		"BAWDEN, Bob (CTA)"	6	3	50.00		3	50.00		6	
+		"SHERWOOD, Ted (AFI)"	4	1	25.00		3	75.00		4	
+		"PETTITT, Tony (HAN)"	8	4	50.00		4	50.00		8	
+		"VLATKO, Tony (GRN)"	4	4	100.00		0	0.00		4	
+		"FRANCIS, Joseph (DEM)"	5	3	60.00		2	40.00		5	
+		"TANDA, Amarjit Singh (IND)"	2	2	100.00		0	0.00		2	
+		Total	29	137	64.32		76	35.68		213	
+
+	Blacktown City										
+			1st Prefs	479	62.78		284	37.22		763	
+		"BAWDEN, Bob (CTA)"	65	36	55.38		29	44.62		65	
+		"SHERWOOD, Ted (AFI)"	16	8	50.00		8	50.00		16	
+		"PETTITT, Tony (HAN)"	32	15	46.88		17	53.13		32	
+		"VLATKO, Tony (GRN)"	26	14	53.85		12	46.15		26	
+		"FRANCIS, Joseph (DEM)"	28	20	71.43		8	28.57		28	
+		"TANDA, Amarjit Singh (IND)"	6	4	66.67		2	33.33		6	
+		Total	173	576	61.54		360	38.46		936	
+
+	Blacktown East										
+			1st Prefs	1225	57.35		911	42.65		2136	
+		"BAWDEN, Bob (CTA)"	134	73	54.48		61	45.52		134	
+		"SHERWOOD, Ted (AFI)"	65	43	66.15		22	33.85		65	
+		"PETTITT, Tony (HAN)"	184	60	32.61		124	67.39		184	
+		"VLATKO, Tony (GRN)"	80	56	70.00		24	30.00		80	
+		"FRANCIS, Joseph (DEM)"	111	73	65.77		38	34.23		111	
+		"TANDA, Amarjit Singh (IND)"	26	13	50.00		13	50.00		26	
+		Total	600	1543	56.40		1193	43.60		2736	
+
+	Blacktown Hospital										
+			1st Prefs	182	71.09		74	28.91		256	
+		"BAWDEN, Bob (CTA)"	11	9	81.82		2	18.18		11	
+		"SHERWOOD, Ted (AFI)"	3	2	66.67		1	33.33		3	
+		"PETTITT, Tony (HAN)"	10	4	40.00		6	60.00		10	
+		"VLATKO, Tony (GRN)"	8	5	62.50		3	37.50		8	
+		"FRANCIS, Joseph (DEM)"	12	10	83.33		2	16.67		12	
+		"TANDA, Amarjit Singh (IND)"	3	1	33.33		2	66.67		3	
+		Total	47	213	70.30		90	29.70		303	
+
+	Blacktown North										
+			1st Prefs	638	59.96		426	40.04		1064	
+		"BAWDEN, Bob (CTA)"	108	43	39.81		65	60.19		108	
+		"SHERWOOD, Ted (AFI)"	17	12	70.59		5	29.41		17	
+		"PETTITT, Tony (HAN)"	89	32	35.96		57	64.04		89	
+		"VLATKO, Tony (GRN)"	23	14	60.87		9	39.13		23	
+		"FRANCIS, Joseph (DEM)"	23	18	78.26		5	21.74		23	
+		"TANDA, Amarjit Singh (IND)"	12	8	66.67		4	33.33		12	
+		Total	272	765	57.26		571	42.74		1336	
+
+	Blacktown South										
+			1st Prefs	1001	59.44		683	40.56		1684	
+		"BAWDEN, Bob (CTA)"	108	59	54.63		49	45.37		108	
+		"SHERWOOD, Ted (AFI)"	35	26	74.29		9	25.71		35	
+		"PETTITT, Tony (HAN)"	143	36	25.17		107	74.83		143	
+		"VLATKO, Tony (GRN)"	51	41	80.39		10	19.61		51	
+		"FRANCIS, Joseph (DEM)"	92	65	70.65		27	29.35		92	
+		"TANDA, Amarjit Singh (IND)"	11	7	63.64		4	36.36		11	
+		Total	440	1235	58.15		889	41.85		2124	
+
+	Blacktown West (Greenway)										
+			1st Prefs	571	61.00		365	39.00		936	
+		"BAWDEN, Bob (CTA)"	63	38	60.32		25	39.68		63	
+		"SHERWOOD, Ted (AFI)"	25	14	56.00		11	44.00		25	
+		"PETTITT, Tony (HAN)"	98	30	30.61		68	69.39		98	
+		"VLATKO, Tony (GRN)"	49	35	71.43		14	28.57		49	
+		"FRANCIS, Joseph (DEM)"	45	32	71.11		13	28.89		45	
+		"TANDA, Amarjit Singh (IND)"	6	1	16.67		5	83.33		6	
+		Total	286	721	59.00		501	41.00		1222	
+
+	Dean Park										
+			1st Prefs	863	73.26		315	26.74		1178	
+		"BAWDEN, Bob (CTA)"	90	44	48.89		46	51.11		90	
+		"SHERWOOD, Ted (AFI)"	23	13	56.52		10	43.48		23	
+		"PETTITT, Tony (HAN)"	63	34	53.97		29	46.03		63	
+		"VLATKO, Tony (GRN)"	31	23	74.19		8	25.81		31	
+		"FRANCIS, Joseph (DEM)"	34	23	67.65		11	32.35		34	
+		"TANDA, Amarjit Singh (IND)"	17	11	64.71		6	35.29		17	
+		Total	258	1011	70.40		425	29.60		1436	
+
+	Glenwood										
+			1st Prefs	1216	40.92		1756	59.08		2972	
+		"BAWDEN, Bob (CTA)"	145	51	35.17		94	64.83		145	
+		"SHERWOOD, Ted (AFI)"	48	23	47.92		25	52.08		48	
+		"PETTITT, Tony (HAN)"	107	35	32.71		72	67.29		107	
+		"VLATKO, Tony (GRN)"	72	51	70.83		21	29.17		72	
+		"FRANCIS, Joseph (DEM)"	162	103	63.58		59	36.42		162	
+		"TANDA, Amarjit Singh (IND)"	36	20	55.56		16	44.44		36	
+		Total	570	1499	42.32		2043	57.68		3542	
+
+	Glenwood West										
+			1st Prefs	587	45.08		715	54.92		1302	
+		"BAWDEN, Bob (CTA)"	104	40	38.46		64	61.54		104	
+		"SHERWOOD, Ted (AFI)"	33	17	51.52		16	48.48		33	
+		"PETTITT, Tony (HAN)"	49	27	55.10		22	44.90		49	
+		"VLATKO, Tony (GRN)"	40	28	70.00		12	30.00		40	
+		"FRANCIS, Joseph (DEM)"	45	25	55.56		20	44.44		45	
+		"TANDA, Amarjit Singh (IND)"	9	3	33.33		6	66.67		9	
+		Total	280	727	45.95		855	54.05		1582	
+
+	Grantham										
+			1st Prefs	891	65.61		467	34.39		1358	
+		"BAWDEN, Bob (CTA)"	105	44	41.90		61	58.10		105	
+		"SHERWOOD, Ted (AFI)"	31	20	64.52		11	35.48		31	
+		"PETTITT, Tony (HAN)"	126	34	26.98		92	73.02		126	
+		"VLATKO, Tony (GRN)"	45	37	82.22		8	17.78		45	
+		"FRANCIS, Joseph (DEM)"	53	36	67.92		17	32.08		53	
+		"TANDA, Amarjit Singh (IND)"	7	4	57.14		3	42.86		7	
+		Total	367	1066	61.80		659	38.20		1725	
+
+	Grantham Heights										
+			1st Prefs	636	52.65		572	47.35		1208	
+		"BAWDEN, Bob (CTA)"	93	37	39.78		56	60.22		93	
+		"SHERWOOD, Ted (AFI)"	30	13	43.33		17	56.67		30	
+		"PETTITT, Tony (HAN)"	67	27	40.30		40	59.70		67	
+		"VLATKO, Tony (GRN)"	31	21	67.74		10	32.26		31	
+		"FRANCIS, Joseph (DEM)"	58	43	74.14		15	25.86		58	
+		"TANDA, Amarjit Singh (IND)"	13	10	76.92		3	23.08		13	
+		Total	292	787	52.47		713	47.53		1500	
+
+	Hambledon										
+			1st Prefs	715	44.41		895	55.59		1610	
+		"BAWDEN, Bob (CTA)"	100	42	42.00		58	58.00		100	
+		"SHERWOOD, Ted (AFI)"	42	15	35.71		27	64.29		42	
+		"PETTITT, Tony (HAN)"	68	24	35.29		44	64.71		68	
+		"VLATKO, Tony (GRN)"	40	24	60.00		16	40.00		40	
+		"FRANCIS, Joseph (DEM)"	78	49	62.82		29	37.18		78	
+		"TANDA, Amarjit Singh (IND)"	25	12	48.00		13	52.00		25	
+		Total	353	881	44.88		1082	55.12		1963	
+
+	Kings Langley										
+			1st Prefs	651	38.38		1045	61.62		1696	
+		"BAWDEN, Bob (CTA)"	90	24	26.67		66	73.33		90	
+		"SHERWOOD, Ted (AFI)"	42	24	57.14		18	42.86		42	
+		"PETTITT, Tony (HAN)"	97	23	23.71		74	76.29		97	
+		"VLATKO, Tony (GRN)"	74	50	67.57		24	32.43		74	
+		"FRANCIS, Joseph (DEM)"	131	89	67.94		42	32.06		131	
+		"TANDA, Amarjit Singh (IND)"	9	4	44.44		5	55.56		9	
+		Total	443	865	40.44		1274	59.56		2139	
+
+	Kings Langley North										
+			1st Prefs	777	37.11		1317	62.89		2094	
+		"BAWDEN, Bob (CTA)"	110	48	43.64		62	56.36		110	
+		"SHERWOOD, Ted (AFI)"	33	20	60.61		13	39.39		33	
+		"PETTITT, Tony (HAN)"	150	32	21.33		118	78.67		150	
+		"VLATKO, Tony (GRN)"	57	40	70.18		17	29.82		57	
+		"FRANCIS, Joseph (DEM)"	131	75	57.25		56	42.75		131	
+		"TANDA, Amarjit Singh (IND)"	21	13	61.90		8	38.10		21	
+		Total	502	1005	38.71		1591	61.29		2596	
+
+	Kings Park										
+			1st Prefs	471	50.11		469	49.89		940	
+		"BAWDEN, Bob (CTA)"	62	24	38.71		38	61.29		62	
+		"SHERWOOD, Ted (AFI)"	26	15	57.69		11	42.31		26	
+		"PETTITT, Tony (HAN)"	61	26	42.62		35	57.38		61	
+		"VLATKO, Tony (GRN)"	40	29	72.50		11	27.50		40	
+		"FRANCIS, Joseph (DEM)"	50	39	78.00		11	22.00		50	
+		"TANDA, Amarjit Singh (IND)"	7	3	42.86		4	57.14		7	
+		Total	246	607	51.18		579	48.82		1186	
+
+	Lalor Park										
+			1st Prefs	1176	64.19		656	35.81		1832	
+		"BAWDEN, Bob (CTA)"	110	58	52.73		52	47.27		110	
+		"SHERWOOD, Ted (AFI)"	52	32	61.54		20	38.46		52	
+		"PETTITT, Tony (HAN)"	161	44	27.33		117	72.67		161	
+		"VLATKO, Tony (GRN)"	46	33	71.74		13	28.26		46	
+		"FRANCIS, Joseph (DEM)"	46	24	52.17		22	47.83		46	
+		"TANDA, Amarjit Singh (IND)"	11	5	45.45		6	54.55		11	
+		Total	426	1372	60.76		886	39.24		2258	
+
+	Lawson Park										
+			1st Prefs	828	55.61		661	44.39		1489	
+		"BAWDEN, Bob (CTA)"	128	52	40.63		76	59.38		128	
+		"SHERWOOD, Ted (AFI)"	26	16	61.54		10	38.46		26	
+		"PETTITT, Tony (HAN)"	97	31	31.96		66	68.04		97	
+		"VLATKO, Tony (GRN)"	33	21	63.64		12	36.36		33	
+		"FRANCIS, Joseph (DEM)"	62	33	53.23		29	46.77		62	
+		"TANDA, Amarjit Singh (IND)"	16	10	62.50		6	37.50		16	
+		Total	362	991	53.54		860	46.46		1851	
+
+	Lynwood Park										
+			1st Prefs	555	57.51		410	42.49		965	
+		"BAWDEN, Bob (CTA)"	65	31	47.69		34	52.31		65	
+		"SHERWOOD, Ted (AFI)"	30	12	40.00		18	60.00		30	
+		"PETTITT, Tony (HAN)"	57	36	63.16		21	36.84		57	
+		"VLATKO, Tony (GRN)"	16	9	56.25		7	43.75		16	
+		"FRANCIS, Joseph (DEM)"	28	14	50.00		14	50.00		28	
+		"TANDA, Amarjit Singh (IND)"	10	8	80.00		2	20.00		10	
+		Total	206	665	56.79		506	43.21		1171	
+
+	Marayong (Greenway)										
+			1st Prefs	1097	65.69		573	34.31		1670	
+		"BAWDEN, Bob (CTA)"	98	62	63.27		36	36.73		98	
+		"SHERWOOD, Ted (AFI)"	45	17	37.78		28	62.22		45	
+		"PETTITT, Tony (HAN)"	170	54	31.76		116	68.24		170	
+		"VLATKO, Tony (GRN)"	46	37	80.43		9	19.57		46	
+		"FRANCIS, Joseph (DEM)"	68	42	61.76		26	38.24		68	
+		"TANDA, Amarjit Singh (IND)"	21	11	52.38		10	47.62		21	
+		Total	448	1320	62.32		798	37.68		2118	
+
+	Marayong Heights										
+			1st Prefs	673	67.23		328	32.77		1001	
+		"BAWDEN, Bob (CTA)"	78	39	50.00		39	50.00		78	
+		"SHERWOOD, Ted (AFI)"	33	19	57.58		14	42.42		33	
+		"PETTITT, Tony (HAN)"	59	23	38.98		36	61.02		59	
+		"VLATKO, Tony (GRN)"	34	27	79.41		7	20.59		34	
+		"FRANCIS, Joseph (DEM)"	31	24	77.42		7	22.58		31	
+		"TANDA, Amarjit Singh (IND)"	15	10	66.67		5	33.33		15	
+		Total	250	815	65.15		436	34.85		1251	
+
+	Marayong West (Greenway)										
+			1st Prefs	908	62.58		543	37.42		1451	
+		"BAWDEN, Bob (CTA)"	101	52	51.49		49	48.51		101	
+		"SHERWOOD, Ted (AFI)"	44	28	63.64		16	36.36		44	
+		"PETTITT, Tony (HAN)"	69	32	46.38		37	53.62		69	
+		"VLATKO, Tony (GRN)"	72	55	76.39		17	23.61		72	
+		"FRANCIS, Joseph (DEM)"	41	29	70.73		12	29.27		41	
+		"TANDA, Amarjit Singh (IND)"	16	8	50.00		8	50.00		16	
+		Total	343	1112	61.98		682	38.02		1794	
+
+	Marsden Park										
+			1st Prefs	187	47.46		207	52.54		394	
+		"BAWDEN, Bob (CTA)"	38	21	55.26		17	44.74		38	
+		"SHERWOOD, Ted (AFI)"	22	14	63.64		8	36.36		22	
+		"PETTITT, Tony (HAN)"	43	18	41.86		25	58.14		43	
+		"VLATKO, Tony (GRN)"	13	10	76.92		3	23.08		13	
+		"FRANCIS, Joseph (DEM)"	12	7	58.33		5	41.67		12	
+		"TANDA, Amarjit Singh (IND)"	2	2	100.00		0	0.00		2	
+		Total	130	259	49.43		265	50.57		524	
+
+	Metella Road										
+			1st Prefs	1306	53.63		1129	46.37		2435	
+		"BAWDEN, Bob (CTA)"	183	86	46.99		97	53.01		183	
+		"SHERWOOD, Ted (AFI)"	69	42	60.87		27	39.13		69	
+		"PETTITT, Tony (HAN)"	140	45	32.14		95	67.86		140	
+		"VLATKO, Tony (GRN)"	93	60	64.52		33	35.48		93	
+		"FRANCIS, Joseph (DEM)"	138	92	66.67		46	33.33		138	
+		"TANDA, Amarjit Singh (IND)"	24	9	37.50		15	62.50		24	
+		Total	647	1640	53.21		1442	46.79		3082	
+
+	Oldfield Road										
+			1st Prefs	793	64.95		428	35.05		1221	
+		"BAWDEN, Bob (CTA)"	116	47	40.52		69	59.48		116	
+		"SHERWOOD, Ted (AFI)"	27	15	55.56		12	44.44		27	
+		"PETTITT, Tony (HAN)"	54	26	48.15		28	51.85		54	
+		"VLATKO, Tony (GRN)"	35	31	88.57		4	11.43		35	
+		"FRANCIS, Joseph (DEM)"	41	28	68.29		13	31.71		41	
+		"TANDA, Amarjit Singh (IND)"	11	6	54.55		5	45.45		11	
+		Total	284	946	62.86		559	37.14		1505	
+
+	Prospect										
+			1st Prefs	114	59.07		79	40.93		193	
+		"BAWDEN, Bob (CTA)"	28	8	28.57		20	71.43		28	
+		"SHERWOOD, Ted (AFI)"	6	4	66.67		2	33.33		6	
+		"PETTITT, Tony (HAN)"	12	8	66.67		4	33.33		12	
+		"VLATKO, Tony (GRN)"	9	7	77.78		2	22.22		9	
+		"FRANCIS, Joseph (DEM)"	11	9	81.82		2	18.18		11	
+		"TANDA, Amarjit Singh (IND)"	3	2	66.67		1	33.33		3	
+		Total	69	152	58.02		110	41.98		262	
+
+	Quakers Hill										
+			1st Prefs	1185	63.74		674	36.26		1859	
+		"BAWDEN, Bob (CTA)"	128	60	46.88		68	53.13		128	
+		"SHERWOOD, Ted (AFI)"	38	21	55.26		17	44.74		38	
+		"PETTITT, Tony (HAN)"	114	41	35.96		73	64.04		114	
+		"VLATKO, Tony (GRN)"	62	51	82.26		11	17.74		62	
+		"FRANCIS, Joseph (DEM)"	98	66	67.35		32	32.65		98	
+		"TANDA, Amarjit Singh (IND)"	17	8	47.06		9	52.94		17	
+		Total	457	1432	61.83		884	38.17		2316	
+
+	Quakers Hill East										
+			1st Prefs	1259	48.50		1337	51.50		2596	
+		"BAWDEN, Bob (CTA)"	167	61	36.53		106	63.47		167	
+		"SHERWOOD, Ted (AFI)"	47	26	55.32		21	44.68		47	
+		"PETTITT, Tony (HAN)"	163	48	29.45		115	70.55		163	
+		"VLATKO, Tony (GRN)"	60	44	73.33		16	26.67		60	
+		"FRANCIS, Joseph (DEM)"	156	98	62.82		58	37.18		156	
+		"TANDA, Amarjit Singh (IND)"	23	17	73.91		6	26.09		23	
+		Total	616	1553	48.35		1659	51.65		3212	
+
+	Quakers Hill North										
+			1st Prefs	1020	45.25		1234	54.75		2254	
+		"BAWDEN, Bob (CTA)"	146	55	37.67		91	62.33		146	
+		"SHERWOOD, Ted (AFI)"	45	23	51.11		22	48.89		45	
+		"PETTITT, Tony (HAN)"	91	33	36.26		58	63.74		91	
+		"VLATKO, Tony (GRN)"	57	44	77.19		13	22.81		57	
+		"FRANCIS, Joseph (DEM)"	155	95	61.29		60	38.71		155	
+		"TANDA, Amarjit Singh (IND)"	27	10	37.04		17	62.96		27	
+		Total	521	1280	46.13		1495	53.87		2775	
+
+	Quakers Hill West										
+			1st Prefs	119	67.23		58	32.77		177	
+		"BAWDEN, Bob (CTA)"	17	9	52.94		8	47.06		17	
+		"SHERWOOD, Ted (AFI)"	4	4	100.00		0	0.00		4	
+		"PETTITT, Tony (HAN)"	9	4	44.44		5	55.56		9	
+		"VLATKO, Tony (GRN)"	6	3	50.00		3	50.00		6	
+		"FRANCIS, Joseph (DEM)"	10	8	80.00		2	20.00		10	
+		"TANDA, Amarjit Singh (IND)"	3	2	66.67		1	33.33		3	
+		Total	49	149	65.93		77	34.07		226	
+
+	Riverstone										
+			1st Prefs	645	53.79		554	46.21		1199	
+		"BAWDEN, Bob (CTA)"	76	33	43.42		43	56.58		76	
+		"SHERWOOD, Ted (AFI)"	21	11	52.38		10	47.62		21	
+		"PETTITT, Tony (HAN)"	145	48	33.10		97	66.90		145	
+		"VLATKO, Tony (GRN)"	34	21	61.76		13	38.24		34	
+		"FRANCIS, Joseph (DEM)"	30	20	66.67		10	33.33		30	
+		"TANDA, Amarjit Singh (IND)"	6	6	100.00		0	0.00		6	
+		Total	312	784	51.89		727	48.11		1511	
+
+	Riverstone East										
+			1st Prefs	543	45.94		639	54.06		1182	
+		"BAWDEN, Bob (CTA)"	117	35	29.91		82	70.09		117	
+		"SHERWOOD, Ted (AFI)"	43	26	60.47		17	39.53		43	
+		"PETTITT, Tony (HAN)"	134	53	39.55		81	60.45		134	
+		"VLATKO, Tony (GRN)"	48	26	54.17		22	45.83		48	
+		"FRANCIS, Joseph (DEM)"	46	23	50.00		23	50.00		46	
+		"TANDA, Amarjit Singh (IND)"	5	1	20.00		4	80.00		5	
+		Total	393	707	44.89		868	55.11		1575	
+
+	St Michael's										
+			1st Prefs	631	63.23		367	36.77		998	
+		"BAWDEN, Bob (CTA)"	97	47	48.45		50	51.55		97	
+		"SHERWOOD, Ted (AFI)"	11	6	54.55		5	45.45		11	
+		"PETTITT, Tony (HAN)"	54	22	40.74		32	59.26		54	
+		"VLATKO, Tony (GRN)"	34	24	70.59		10	29.41		34	
+		"FRANCIS, Joseph (DEM)"	38	20	52.63		18	47.37		38	
+		"TANDA, Amarjit Singh (IND)"	14	7	50.00		7	50.00		14	
+		Total	248	757	60.75		489	39.25		1246	
+
+	Schofields										
+			1st Prefs	507	44.51		632	55.49		1139	
+		"BAWDEN, Bob (CTA)"	105	42	40.00		63	60.00		105	
+		"SHERWOOD, Ted (AFI)"	33	20	60.61		13	39.39		33	
+		"PETTITT, Tony (HAN)"	128	39	30.47		89	69.53		128	
+		"VLATKO, Tony (GRN)"	40	25	62.50		15	37.50		40	
+		"FRANCIS, Joseph (DEM)"	40	28	70.00		12	30.00		40	
+		"TANDA, Amarjit Singh (IND)"	9	3	33.33		6	66.67		9	
+		Total	355	664	44.44		830	55.56		1494	
+
+	Seven Hills										
+			1st Prefs	826	63.25		480	36.75		1306	
+		"BAWDEN, Bob (CTA)"	101	50	49.50		51	50.50		101	
+		"SHERWOOD, Ted (AFI)"	38	22	57.89		16	42.11		38	
+		"PETTITT, Tony (HAN)"	126	39	30.95		87	69.05		126	
+		"VLATKO, Tony (GRN)"	47	34	72.34		13	27.66		47	
+		"FRANCIS, Joseph (DEM)"	48	31	64.58		17	35.42		48	
+		"TANDA, Amarjit Singh (IND)"	17	12	70.59		5	29.41		17	
+		Total	377	1014	60.25		669	39.75		1683	
+
+	Seven Hills High										
+			1st Prefs	590	48.56		625	51.44		1215	
+		"BAWDEN, Bob (CTA)"	94	35	37.23		59	62.77		94	
+		"SHERWOOD, Ted (AFI)"	43	25	58.14		18	41.86		43	
+		"PETTITT, Tony (HAN)"	99	51	51.52		48	48.48		99	
+		"VLATKO, Tony (GRN)"	48	39	81.25		9	18.75		48	
+		"FRANCIS, Joseph (DEM)"	77	51	66.23		26	33.77		77	
+		"TANDA, Amarjit Singh (IND)"	12	8	66.67		4	33.33		12	
+		Total	373	799	50.31		789	49.69		1588	
+
+	Seven Hills North										
+			1st Prefs	549	38.72		869	61.28		1418	
+		"BAWDEN, Bob (CTA)"	103	34	33.01		69	66.99		103	
+		"SHERWOOD, Ted (AFI)"	28	14	50.00		14	50.00		28	
+		"PETTITT, Tony (HAN)"	50	19	38.00		31	62.00		50	
+		"VLATKO, Tony (GRN)"	55	32	58.18		23	41.82		55	
+		"FRANCIS, Joseph (DEM)"	59	40	67.80		19	32.20		59	
+		"TANDA, Amarjit Singh (IND)"	10	6	60.00		4	40.00		10	
+		Total	305	694	40.28		1029	59.72		1723	
+
+	Seven Hills West										
+			1st Prefs	961	65.29		511	34.71		1472	
+		"BAWDEN, Bob (CTA)"	78	36	46.15		42	53.85		78	
+		"SHERWOOD, Ted (AFI)"	41	23	56.10		18	43.90		41	
+		"PETTITT, Tony (HAN)"	116	48	41.38		68	58.62		116	
+		"VLATKO, Tony (GRN)"	35	29	82.86		6	17.14		35	
+		"FRANCIS, Joseph (DEM)"	63	48	76.19		15	23.81		63	
+		"TANDA, Amarjit Singh (IND)"	16	10	62.50		6	37.50		16	
+		Total	349	1155	63.43		666	36.57		1821	
+
+	Sydney (Greenway)										
+			1st Prefs	60	60.00		40	40.00		100	
+		"BAWDEN, Bob (CTA)"	3	1	33.33		2	66.67		3	
+		"SHERWOOD, Ted (AFI)"	1	1	100.00		0	0.00		1	
+		"PETTITT, Tony (HAN)"	0	0	0.00		0	0.00		0	
+		"VLATKO, Tony (GRN)"	6	4	66.67		2	33.33		6	
+		"FRANCIS, Joseph (DEM)"	5	4	80.00		1	20.00		5	
+		"TANDA, Amarjit Singh (IND)"	1	0	0.00		1	100.00		1	
+		Total	16	70	60.34		46	39.66		116	
+
+	Vineyard East (Greenway)										
+			1st Prefs	46	43.40		60	56.60		106	
+		"BAWDEN, Bob (CTA)"	12	5	41.67		7	58.33		12	
+		"SHERWOOD, Ted (AFI)"	3	1	33.33		2	66.67		3	
+		"PETTITT, Tony (HAN)"	21	7	33.33		14	66.67		21	
+		"VLATKO, Tony (GRN)"	1	1	100.00		0	0.00		1	
+		"FRANCIS, Joseph (DEM)"	4	2	50.00		2	50.00		4	
+		"TANDA, Amarjit Singh (IND)"	5	3	60.00		2	40.00		5	
+		Total	46	65	42.76		87	57.24		152	
+
+	Walters Road (Greenway)										
+			1st Prefs	530	60.23		350	39.77		880	
+		"BAWDEN, Bob (CTA)"	67	33	49.25		34	50.75		67	
+		"SHERWOOD, Ted (AFI)"	32	24	75.00		8	25.00		32	
+		"PETTITT, Tony (HAN)"	55	28	50.91		27	49.09		55	
+		"VLATKO, Tony (GRN)"	39	25	64.10		14	35.90		39	
+		"FRANCIS, Joseph (DEM)"	31	21	67.74		10	32.26		31	
+		"TANDA, Amarjit Singh (IND)"	12	9	75.00		3	25.00		12	
+		Total	236	670	60.04		446	39.96		1116	
+
+	Special Hospitals										
+			1st Prefs	70	41.18		100	58.82		170	
+		"BAWDEN, Bob (CTA)"	14	10	71.43		4	28.57		14	
+		"SHERWOOD, Ted (AFI)"	1	0	0.00		1	100.00		1	
+		"PETTITT, Tony (HAN)"	1	1	100.00		0	0.00		1	
+		"VLATKO, Tony (GRN)"	1	1	100.00		0	0.00		1	
+		"FRANCIS, Joseph (DEM)"	2	0	0.00		2	100.00		2	
+		"TANDA, Amarjit Singh (IND)"	1	0	0.00		1	100.00		1	
+		Total	20	82	43.16		108	56.84		190	
+
+	Total Ordinary										
+			1st Prefs	28201	54.13		23902	45.87		52103	
+		"BAWDEN, Bob (CTA)"	3664	1617	44.13		2047	55.87		3664	
+		"SHERWOOD, Ted (AFI)"	1256	712	56.69		544	43.31		1256	
+		"PETTITT, Tony (HAN)"	3520	1241	35.26		2279	64.74		3520	
+		"VLATKO, Tony (GRN)"	1641	1165	70.99		476	29.01		1641	
+		"FRANCIS, Joseph (DEM)"	2398	1560	65.05		838	34.95		2398	
+		"TANDA, Amarjit Singh (IND)"	517	289	55.90		228	44.10		517	
+		Total	12996	34785	53.43		30314	46.57		65099	
+
+	ABSENT										
+			1st Prefs	1765	46.28		2049	53.72		3814	
+		"BAWDEN, Bob (CTA)"	323	189	58.51		134	41.49		323	
+		"SHERWOOD, Ted (AFI)"	233	139	59.66		94	40.34		233	
+		"PETTITT, Tony (HAN)"	312	185	59.29		127	40.71		312	
+		"VLATKO, Tony (GRN)"	250	156	62.40		94	37.60		250	
+		"FRANCIS, Joseph (DEM)"	251	152	60.56		99	39.44		251	
+		"TANDA, Amarjit Singh (IND)"	65	33	50.77		32	49.23		65	
+		Total	1434	2619	49.90		2629	50.10		5248	
+
+	POSTAL										
+			1st Prefs	907	50.22		899	49.78		1806	
+		"BAWDEN, Bob (CTA)"	96	31	32.29		65	67.71		96	
+		"SHERWOOD, Ted (AFI)"	35	19	54.29		16	45.71		35	
+		"PETTITT, Tony (HAN)"	120	39	32.50		81	67.50		120	
+		"VLATKO, Tony (GRN)"	25	13	52.00		12	48.00		25	
+		"FRANCIS, Joseph (DEM)"	52	39	75.00		13	25.00		52	
+		"TANDA, Amarjit Singh (IND)"	10	3	30.00		7	70.00		10	
+		Total	338	1051	49.02		1093	50.98		2144	
+
+	PRE_POLL										
+			1st Prefs	1290	54.99		1056	45.01		2346	
+		"BAWDEN, Bob (CTA)"	169	75	44.38		94	55.62		169	
+		"SHERWOOD, Ted (AFI)"	73	46	63.01		27	36.99		73	
+		"PETTITT, Tony (HAN)"	183	58	31.69		125	68.31		183	
+		"VLATKO, Tony (GRN)"	75	53	70.67		22	29.33		75	
+		"FRANCIS, Joseph (DEM)"	107	64	59.81		43	40.19		107	
+		"TANDA, Amarjit Singh (IND)"	25	14	56.00		11	44.00		25	
+		Total	632	1600	53.73		1378	46.27		2978	
+
+	PROVISIONAL										
+			1st Prefs	217	62.18		132	37.82		349	
+		"BAWDEN, Bob (CTA)"	20	9	45.00		11	55.00		20	
+		"SHERWOOD, Ted (AFI)"	11	7	63.64		4	36.36		11	
+		"PETTITT, Tony (HAN)"	20	7	35.00		13	65.00		20	
+		"VLATKO, Tony (GRN)"	11	8	72.73		3	27.27		11	
+		"FRANCIS, Joseph (DEM)"	10	7	70.00		3	30.00		10	
+		"TANDA, Amarjit Singh (IND)"	3	0	0.00		3	100.00		3	
+		Total	75	255	60.14		169	39.86		424	
+
+	Division Summary										
+			1st Prefs	32380	53.59		28038	46.41		60418	
+		"BAWDEN, Bob (CTA)"	4272	1921	44.97		2351	55.03		4272	
+		"SHERWOOD, Ted (AFI)"	1608	923	57.40		685	42.60		1608	
+		"PETTITT, Tony (HAN)"	4155	1530	36.82		2625	63.18		4155	
+		"VLATKO, Tony (GRN)"	2002	1395	69.68		607	30.32		2002	
+		"FRANCIS, Joseph (DEM)"	2818	1822	64.66		996	35.34		2818	
+		"TANDA, Amarjit Singh (IND)"	620	339	54.68		281	45.32		620	
+		Total	15475	40310	53.11		35583	46.89		75893	

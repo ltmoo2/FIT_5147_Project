@@ -1,0 +1,581 @@
+Senate -1996 Election: Victoria			
+Registered Group Voting Tickets			
+
+
+C.I.R. Alliance			
+Ticket	Party/Group Name	Candidate Name	Preferences
+A	C.I.R. Alliance	"BORZATTI, Will"	1
+		"McKAY, Neil"	2
+B	The Australian Greens - Victoria	"SINGER, Peter"	42
+		"ALEXANDER, Karen"	43
+		"LUCAS, Helen"	44
+C	D.L.P. - Democratic Labor Party	"MULHOLLAND, John"	5
+		"CAHILL, Paul"	6
+		"ROWE, Michael"	7
+		"CREA, Pat"	8
+		"CODY, Matthew"	9
+		"DODD, Christine"	10
+D	Liberal/National Party	"ALSTON, Richard K R"	19
+		"KEMP, Rod"	20
+		"PATTERSON, Kay"	21
+		"ETTERY, Robert John"	22
+		"HEAD, Robyne L"	23
+		"FERNANDEZ, Anthony G"	24
+E	Australian Labor Party	"RAY, Robert Francis"	38
+		"COONEY, Barney"	39
+		"GILLARD, Julia"	40
+		"RAYMOND, Melanie"	41
+F	Australians Against Further Immigration	"McCORMACK, Denis"	3
+		"SPENCER, Robyn Marion"	4
+G	Democrats	"ALLISON, Lyn"	34
+		"McLAREN, John"	35
+		"LEVY, Laurie"	36
+		"WHITE, Marj"	37
+H	Natural Law Party	"GRIFFITH, Stephen"	17
+		"MASON, Ngaire"	18
+I	Australian Bill of Rights/Republican  Group	"DAHAN, Paul"	27
+		"BERGEN, Des"	28
+J	"Unendorsed - Toscano, Joe"	"TOSCANO, Joe"	25
+		"ROPER, Steve"	26
+K	Australian Shooters Party	"WOOD, Colin F"	11
+		"SAYERS, Neville"	12
+		"FLIEGNER, Gary"	13
+L	Call to Australia (Fred Nile) Group	"COOK, Ken"	14
+		"CHAPMAN, Christine"	15
+UG	Independent	"RASKOVY, Steve"	29
+UG	Independent	"SMITH, Maurie"	16
+UG	Independent	"GOOD, Michael"	30
+UG	Independent	"GREEN, Neil"	31
+UG	Independent	"ABBOTTO, John M"	32
+UG	Independent	"ARMSTRONG, David"	33
+
+			 
+The Australian Greens - Victoria			
+Ticket	Party/Group Name	Candidate Name	Preferences
+A	C.I.R. Alliance	"BORZATTI, Will"	38
+		"McKAY, Neil"	39
+B	The Australian Greens - Victoria	"SINGER, Peter"	1
+		"ALEXANDER, Karen"	2
+		"LUCAS, Helen"	3
+C	D.L.P. - Democratic Labor Party	"MULHOLLAND, John"	30
+		"CAHILL, Paul"	31
+		"ROWE, Michael"	32
+		"CREA, Pat"	33
+		"CODY, Matthew"	34
+		"DODD, Christine"	35
+D	Liberal/National Party	"ALSTON, Richard K R"	18
+		"KEMP, Rod"	19
+		"PATTERSON, Kay"	20
+		"ETTERY, Robert John"	21
+		"HEAD, Robyne L"	22
+		"FERNANDEZ, Anthony G"	23
+E	Australian Labor Party	"RAY, Robert Francis"	14
+		"COONEY, Barney"	15
+		"GILLARD, Julia"	16
+		"RAYMOND, Melanie"	17
+F	Australians Against Further Immigration	"McCORMACK, Denis"	36
+		"SPENCER, Robyn Marion"	37
+G	Democrats	"ALLISON, Lyn"	8
+		"McLAREN, John"	9
+		"LEVY, Laurie"	10
+		"WHITE, Marj"	11
+H	Natural Law Party	"GRIFFITH, Stephen"	6
+		"MASON, Ngaire"	7
+I	Australian Bill of Rights/Republican  Group	"DAHAN, Paul"	4
+		"BERGEN, Des"	5
+J	"Unendorsed - Toscano, Joe"	"TOSCANO, Joe"	12
+		"ROPER, Steve"	13
+K	Australian Shooters Party	"WOOD, Colin F"	40
+		"SAYERS, Neville"	41
+		"FLIEGNER, Gary"	42
+L	Call to Australia (Fred Nile) Group	"COOK, Ken"	43
+		"CHAPMAN, Christine"	44
+UG	Independent	"RASKOVY, Steve"	24
+UG	Independent	"SMITH, Maurie"	25
+UG	Independent	"GOOD, Michael"	26
+UG	Independent	"GREEN, Neil"	27
+UG	Independent	"ABBOTTO, John M"	28
+UG	Independent	"ARMSTRONG, David"	29
+
+
+D.L.P. - Democratic Labor Party			
+Ticket	Party/Group Name	Candidate Name	Preferences
+A	C.I.R. Alliance	"BORZATTI, Will"	9
+		"McKAY, Neil"	10
+B	The Australian Greens - Victoria	"SINGER, Peter"	44
+		"ALEXANDER, Karen"	43
+		"LUCAS, Helen"	42
+C	D.L.P. - Democratic Labor Party	"MULHOLLAND, John"	1
+		"CAHILL, Paul"	2
+		"ROWE, Michael"	3
+		"CREA, Pat"	4
+		"CODY, Matthew"	5
+		"DODD, Christine"	6
+D	Liberal/National Party	"ALSTON, Richard K R"	22
+		"KEMP, Rod"	23
+		"PATTERSON, Kay"	24
+		"ETTERY, Robert John"	15
+		"HEAD, Robyne L"	25
+		"FERNANDEZ, Anthony G"	26
+E	Australian Labor Party	"RAY, Robert Francis"	27
+		"COONEY, Barney"	28
+		"GILLARD, Julia"	29
+		"RAYMOND, Melanie"	30
+F	Australians Against Further Immigration	"McCORMACK, Denis"	16
+		"SPENCER, Robyn Marion"	17
+G	Democrats	"ALLISON, Lyn"	38
+		"McLAREN, John"	39
+		"LEVY, Laurie"	40
+		"WHITE, Marj"	41
+H	Natural Law Party	"GRIFFITH, Stephen"	31
+		"MASON, Ngaire"	32
+I	Australian Bill of Rights/Republican  Group	"DAHAN, Paul"	18
+		"BERGEN, Des"	19
+J	"Unendorsed - Toscano, Joe"	"TOSCANO, Joe"	20
+		"ROPER, Steve"	21
+K	Australian Shooters Party	"WOOD, Colin F"	12
+		"SAYERS, Neville"	13
+		"FLIEGNER, Gary"	14
+L	Call to Australia (Fred Nile) Group	"COOK, Ken"	7
+		"CHAPMAN, Christine"	8
+UG	Independent	"RASKOVY, Steve"	11
+UG	Independent	"SMITH, Maurie"	33
+UG	Independent	"GOOD, Michael"	34
+UG	Independent	"GREEN, Neil"	35
+UG	Independent	"ABBOTTO, John M"	36
+UG	Independent	"ARMSTRONG, David"	37
+
+
+Liberal/National Party			
+Ticket	Party/Group Name	Candidate Name	Preferences
+A	C.I.R. Alliance	"BORZATTI, Will"	31
+		"McKAY, Neil"	32
+B	The Australian Greens - Victoria	"SINGER, Peter"	21
+		"ALEXANDER, Karen"	22
+		"LUCAS, Helen"	23
+C	D.L.P. - Democratic Labor Party	"MULHOLLAND, John"	9
+		"CAHILL, Paul"	10
+		"ROWE, Michael"	11
+		"CREA, Pat"	12
+		"CODY, Matthew"	13
+		"DODD, Christine"	14
+D	Liberal/National Party	"ALSTON, Richard K R"	1
+		"KEMP, Rod"	2
+		"PATTERSON, Kay"	3
+		"ETTERY, Robert John"	4
+		"HEAD, Robyne L"	5
+		"FERNANDEZ, Anthony G"	6
+E	Australian Labor Party	"RAY, Robert Francis"	41
+		"COONEY, Barney"	42
+		"GILLARD, Julia"	43
+		"RAYMOND, Melanie"	44
+F	Australians Against Further Immigration	"McCORMACK, Denis"	29
+		"SPENCER, Robyn Marion"	30
+G	Democrats	"ALLISON, Lyn"	17
+		"McLAREN, John"	18
+		"LEVY, Laurie"	19
+		"WHITE, Marj"	20
+H	Natural Law Party	"GRIFFITH, Stephen"	15
+		"MASON, Ngaire"	16
+I	Australian Bill of Rights/Republican  Group	"DAHAN, Paul"	24
+		"BERGEN, Des"	25
+J	"Unendorsed - Toscano, Joe"	"TOSCANO, Joe"	33
+		"ROPER, Steve"	34
+K	Australian Shooters Party	"WOOD, Colin F"	26
+		"SAYERS, Neville"	27
+		"FLIEGNER, Gary"	28
+L	Call to Australia (Fred Nile) Group	"COOK, Ken"	7
+		"CHAPMAN, Christine"	8
+UG	Independent	"RASKOVY, Steve"	35
+UG	Independent	"SMITH, Maurie"	36
+UG	Independent	"GOOD, Michael"	37
+UG	Independent	"GREEN, Neil"	38
+UG	Independent	"ABBOTTO, John M"	39
+UG	Independent	"ARMSTRONG, David"	40
+
+
+Australian Labor Party			
+Ticket	Party/Group Name	Candidate Name	Preferences
+A	C.I.R. Alliance	"BORZATTI, Will"	41
+		"McKAY, Neil"	42
+B	The Australian Greens - Victoria	"SINGER, Peter"	9
+		"ALEXANDER, Karen"	10
+		"LUCAS, Helen"	11
+C	D.L.P. - Democratic Labor Party	"MULHOLLAND, John"	29
+		"CAHILL, Paul"	30
+		"ROWE, Michael"	31
+		"CREA, Pat"	32
+		"CODY, Matthew"	33
+		"DODD, Christine"	34
+D	Liberal/National Party	"ALSTON, Richard K R"	35
+		"KEMP, Rod"	36
+		"PATTERSON, Kay"	37
+		"ETTERY, Robert John"	38
+		"HEAD, Robyne L"	39
+		"FERNANDEZ, Anthony G"	40
+E	Australian Labor Party	"RAY, Robert Francis"	1
+		"COONEY, Barney"	2
+		"GILLARD, Julia"	3
+		"RAYMOND, Melanie"	4
+F	Australians Against Further Immigration	"McCORMACK, Denis"	43
+		"SPENCER, Robyn Marion"	44
+G	Democrats	"ALLISON, Lyn"	5
+		"McLAREN, John"	6
+		"LEVY, Laurie"	7
+		"WHITE, Marj"	8
+H	Natural Law Party	"GRIFFITH, Stephen"	12
+		"MASON, Ngaire"	13
+I	Australian Bill of Rights/Republican  Group	"DAHAN, Paul"	17
+		"BERGEN, Des"	18
+J	"Unendorsed - Toscano, Joe"	"TOSCANO, Joe"	19
+		"ROPER, Steve"	20
+K	Australian Shooters Party	"WOOD, Colin F"	14
+		"SAYERS, Neville"	15
+		"FLIEGNER, Gary"	16
+L	Call to Australia (Fred Nile) Group	"COOK, Ken"	27
+		"CHAPMAN, Christine"	28
+UG	Independent	"RASKOVY, Steve"	21
+UG	Independent	"SMITH, Maurie"	22
+UG	Independent	"GOOD, Michael"	23
+UG	Independent	"GREEN, Neil"	24
+UG	Independent	"ABBOTTO, John M"	25
+UG	Independent	"ARMSTRONG, David"	26
+
+
+Australians Against Further Immigration			
+Ticket	Party/Group Name	Candidate Name	Preferences
+A	C.I.R. Alliance	"BORZATTI, Will"	3
+		"McKAY, Neil"	4
+B	The Australian Greens - Victoria	"SINGER, Peter"	43
+		"ALEXANDER, Karen"	42
+		"LUCAS, Helen"	41
+C	D.L.P. - Democratic Labor Party	"MULHOLLAND, John"	24
+		"CAHILL, Paul"	25
+		"ROWE, Michael"	26
+		"CREA, Pat"	27
+		"CODY, Matthew"	28
+		"DODD, Christine"	29
+D	Liberal/National Party	"ALSTON, Richard K R"	40
+		"KEMP, Rod"	38
+		"PATTERSON, Kay"	36
+		"ETTERY, Robert John"	34
+		"HEAD, Robyne L"	33
+		"FERNANDEZ, Anthony G"	32
+E	Australian Labor Party	"RAY, Robert Francis"	44
+		"COONEY, Barney"	39
+		"GILLARD, Julia"	37
+		"RAYMOND, Melanie"	35
+F	Australians Against Further Immigration	"McCORMACK, Denis"	1
+		"SPENCER, Robyn Marion"	2
+G	Democrats	"ALLISON, Lyn"	23
+		"McLAREN, John"	22
+		"LEVY, Laurie"	21
+		"WHITE, Marj"	20
+H	Natural Law Party	"GRIFFITH, Stephen"	18
+		"MASON, Ngaire"	19
+I	Australian Bill of Rights/Republican  Group	"DAHAN, Paul"	30
+		"BERGEN, Des"	31
+J	"Unendorsed - Toscano, Joe"	"TOSCANO, Joe"	16
+		"ROPER, Steve"	17
+K	Australian Shooters Party	"WOOD, Colin F"	5
+		"SAYERS, Neville"	6
+		"FLIEGNER, Gary"	7
+L	Call to Australia (Fred Nile) Group	"COOK, Ken"	8
+		"CHAPMAN, Christine"	9
+UG	Independent	"RASKOVY, Steve"	10
+UG	Independent	"SMITH, Maurie"	11
+UG	Independent	"GOOD, Michael"	12
+UG	Independent	"GREEN, Neil"	13
+UG	Independent	"ABBOTTO, John M"	14	
+UG	Independent	"ARMSTRONG, David"	15	
+
+
+Democrats				
+			Preferences	
+Ticket	Party/Group Name	Candidate Name	Ticket # 1	Ticket # 2
+A	C.I.R. Alliance	"BORZATTI, Will"	18	16
+		"McKAY, Neil"	19	17
+B	The Australian Greens - Victoria	"SINGER, Peter"	7	7
+		"ALEXANDER, Karen"	8	8
+		"LUCAS, Helen"	9	9
+C	D.L.P. - Democratic Labor Party	"MULHOLLAND, John"	26	26
+		"CAHILL, Paul"	27	27
+		"ROWE, Michael"	28	28
+		"CREA, Pat"	29	29
+		"CODY, Matthew"	30	30
+		"DODD, Christine"	31	31
+D	Liberal/National Party	"ALSTON, Richard K R"	12	18
+		"KEMP, Rod"	13	19
+		PATTERSON Kay	14	20
+		"ETTERY, Robert John"	15	21
+		"HEAD, Robyne L"	16	22
+		"FERNANDEZ, Anthony G"	17	23
+E	Australian Labor Party	"RAY, Robert Francis"	20	12
+		"COONEY, Barney"	21	13
+		"GILLARD, Julia"	22	14
+		"RAYMOND, Melanie"	23	15
+F	Australians Against Further Immigration	"McCORMACK, Denis"	43	43
+		"SPENCER, Robyn Marion"	44	44
+G	Democrats	"ALLISON, Lyn"	1	1
+		"McLAREN, John"	2	2
+		"LEVY, Laurie"	3	3
+		"WHITE, Marj"	4	4
+H	Natural Law Party	"GRIFFITH, Stephen"	5	5
+		"MASON, Ngaire"	6	6
+I	Australian Bill of Rights/Republican  Group	"DAHAN, Paul"	24	24
+		"BERGEN, Des"	25	25
+J	"Unendorsed - Toscano, Joe"	"TOSCANO, Joe"	10	10
+		"ROPER, Steve"	11	11
+K	Australian Shooters Party	"WOOD, Colin F"	40	40
+		"SAYERS, Neville"	41	41
+		"FLIEGNER, Gary"	42	42
+L	Call to Australia (Fred Nile) Group	"COOK, Ken"	32	32
+		"CHAPMAN, Christine"	33	33
+UG	Independent	"RASKOVY, Steve"	34	34
+UG	Independent	"SMITH, Maurie"	35	35
+UG	Independent	"GOOD, Michael"	36	36
+UG	Independent	"GREEN, Neil"	37	37
+UG	Independent	"ABBOTTO, John M"	38	38
+UG	Independent	"ARMSTRONG, David"	39	39
+
+
+Natural Law Party				
+Ticket	Party/Group Name	Candidate Name	Preferences	
+A	C.I.R. Alliance	"BORZATTI, Will"	30	
+		"McKAY, Neil"	31	
+B	The Australian Greens - Victoria	"SINGER, Peter"	17	
+		"ALEXANDER, Karen"	18	
+		"LUCAS, Helen"	19	
+C	D.L.P. - Democratic Labor Party	"MULHOLLAND, John"	34	
+		"CAHILL, Paul"	35	
+		"ROWE, Michael"	36	
+		"CREA, Pat"	37	
+		"CODY, Matthew"	38
+		"DODD, Christine"	39
+D	Liberal/National Party	"ALSTON, Richard K R"	7
+		"KEMP, Rod"	8
+		"PATTERSON, Kay"	9
+		"ETTERY, Robert John"	10
+		"HEAD, Robyne L"	11
+		"FERNANDEZ, Anthony G"	12
+E	Australian Labor Party	"RAY, Robert Francis"	13
+		"COONEY, Barney"	14
+		"GILLARD, Julia"	15
+		"RAYMOND, Melanie"	16
+F	Australians Against Further Immigration	"McCORMACK, Denis"	40
+		"SPENCER, Robyn Marion"	41
+G	Democrats	"ALLISON, Lyn"	3
+		"McLAREN, John"	4
+		"LEVY, Laurie"	5
+		"WHITE, Marj"	6
+H	Natural Law Party	"GRIFFITH, Stephen"	1
+		"MASON, Ngaire"	2
+I	Australian Bill of Rights/Republican  Group	"DAHAN, Paul"	32
+		"BERGEN, Des"	33
+J	"Unendorsed - Toscano, Joe"	"TOSCANO, Joe"	22
+		"ROPER, Steve"	23
+K	Australian Shooters Party	"WOOD, Colin F"	42
+		"SAYERS, Neville"	43
+		"FLIEGNER, Gary"	44
+L	Call to Australia (Fred Nile) Group	"COOK, Ken"	20
+		"CHAPMAN, Christine"	21
+UG	Independent	"RASKOVY, Steve"	24
+UG	Independent	"SMITH, Maurie"	25
+UG	Independent	"GOOD, Michael"	26
+UG	Independent	"GREEN, Neil"	27	
+UG	Independent	"ABBOTTO, John M"	28	
+UG	Independent	"ARMSTRONG, David"	29	
+
+
+Australian Bill of Rights/Republican  Group				
+			Preferences	
+Ticket	Party/Group Name	Candidate Name	Ticket # 1	Ticket # 2
+A	C.I.R. Alliance	"BORZATTI, Will"	15	15
+		"McKAY, Neil"	16	16
+B	The Australian Greens - Victoria	"SINGER, Peter"	3	3
+		"ALEXANDER, Karen"	4	4
+		"LUCAS, Helen"	5	5
+C	D.L.P. - Democratic Labor Party	"MULHOLLAND, John"	17	17
+		"CAHILL, Paul"	18	18
+		"ROWE, Michael"	19	19
+		"CREA, Pat"	20	20
+		"CODY, Matthew"	21	21
+		"DODD, Christine"	22	22
+D	Liberal/National Party	"ALSTON, Richard K R"	39	35
+		"KEMP, Rod"	40	36
+		"PATTERSON, Kay"	41	37
+		"ETTERY, Robert John"	42	38
+		"HEAD, Robyne L"	43	39
+		"FERNANDEZ, Anthony G"	44	40
+E	Australian Labor Party	"RAY, Robert Francis"	35	41
+		"COONEY, Barney"	36	42
+		"GILLARD, Julia"	37	43
+		"RAYMOND, Melanie"	38	44
+F	Australians Against Further Immigration	"McCORMACK, Denis"	6	6
+		"SPENCER, Robyn Marion"	7	7
+G	Democrats	"ALLISON, Lyn"	11	11
+		"McLAREN, John"	12	12
+		"LEVY, Laurie"	13	13
+		"WHITE, Marj"	14	14
+H	Natural Law Party	"GRIFFITH, Stephen"	23	23
+		"MASON, Ngaire"	24	24
+I	Australian Bill of Rights/Republican  Group	"DAHAN, Paul"	1	1
+		"BERGEN, Des"	2	2
+J	"Unendorsed - Toscano, Joe"	"TOSCANO, Joe"	25	25
+		"ROPER, Steve"	26	26
+K	Australian Shooters Party	"WOOD, Colin F"	8	8
+		"SAYERS, Neville"	9	9
+		"FLIEGNER, Gary"	10	10
+L	Call to Australia (Fred Nile) Group	"COOK, Ken"	33	33
+		"CHAPMAN, Christine"	34	34
+UG	Independent	"RASKOVY, Steve"	27	27
+UG	Independent	"SMITH, Maurie"	28	28
+UG	Independent	"GOOD, Michael"	29	29
+UG	Independent	"GREEN, Neil"	30	30
+UG	Independent	"ABBOTTO, John M"	31	31
+UG	Independent	"ARMSTRONG, David"	32	32
+
+
+"Unendorsed - Toscano, Joe"				
+			Preferences	
+Ticket	Party/Group Name	Candidate Name	Ticket # 1	Ticket # 2
+A	C.I.R. Alliance	"BORZATTI, Will"	40	42
+		"McKAY, Neil"	37	36
+B	The Australian Greens - Victoria	"SINGER, Peter"	3	7
+		"ALEXANDER, Karen"	4	8
+		"LUCAS, Helen"	5	9
+C	D.L.P. - Democratic Labor Party	"MULHOLLAND, John"	39	41
+		"CAHILL, Paul"	33	35
+		"ROWE, Michael"	32	31
+		"CREA, Pat"	31	29
+		"CODY, Matthew"	30	28
+		"DODD, Christine"	29	27
+D	Liberal/National Party	"ALSTON, Richard K R"	44	44
+		"KEMP, Rod"	20	37
+		"PATTERSON, Kay"	17	34
+		"ETTERY, Robert John"	14	18
+		"HEAD, Robyne L"	11	30
+		"FERNANDEZ, Anthony G"	38	20
+E	Australian Labor Party	"RAY, Robert Francis"	19	43
+		"COONEY, Barney"	28	10
+		"GILLARD, Julia"	27	26
+		"RAYMOND, Melanie"	13	25
+F	Australians Against Further Immigration	"McCORMACK, Denis"	43	40
+		"SPENCER, Robyn Marion"	36	17
+G	Democrats	"ALLISON, Lyn"	6	3
+		"McLAREN, John"	7	4
+		"LEVY, Laurie"	8	5
+		"WHITE, Marj"	9	6
+H	Natural Law Party	"GRIFFITH, Stephen"	24	23
+		"MASON, Ngaire"	25	24
+I	Australian Bill of Rights/Republican  Group	"DAHAN, Paul"	15	12
+		"BERGEN, Des"	26	22
+J	"Unendorsed - Toscano, Joe"	"TOSCANO, Joe"	1	1
+		"ROPER, Steve"	2	2
+K	Australian Shooters Party	"WOOD, Colin F"	41	38
+		"SAYERS, Neville"	16	21
+		"FLIEGNER, Gary"	34	32
+L	Call to Australia (Fred Nile) Group	"COOK, Ken"	42	39
+		"CHAPMAN, Christine"	35	33
+UG	Independent	"RASKOVY, Steve"	21	19
+UG	Independent	"SMITH, Maurie"	10	13
+UG	Independent	"GOOD, Michael"	22	16
+UG	Independent	"GREEN, Neil"	23	14
+UG	Independent	"ABBOTTO, John M"	12	15
+UG	Independent	"ARMSTRONG, David"	18	11
+
+
+Australian Shooters Party				
+Ticket	Party/Group Name	Candidate Name	Preferences	
+A	C.I.R. Alliance	"BORZATTI, Will"	8	
+		"McKAY, Neil"	9	
+B	The Australian Greens - Victoria	"SINGER, Peter"	38	
+		"ALEXANDER, Karen"	39	
+		"LUCAS, Helen"	40	
+C	D.L.P. - Democratic Labor Party	"MULHOLLAND, John"	10	
+		"CAHILL, Paul"	11	
+		"ROWE, Michael"	12
+		"CREA, Pat"	13
+		"CODY, Matthew"	14
+		"DODD, Christine"	15
+D	Liberal/National Party	"ALSTON, Richard K R"	16
+		"KEMP, Rod"	17
+		"PATTERSON, Kay"	18
+		"ETTERY, Robert John"	19
+		"HEAD, Robyne L"	20
+		"FERNANDEZ, Anthony G"	21
+E	Australian Labor Party	"RAY, Robert Francis"	32
+		"COONEY, Barney"	33
+		"GILLARD, Julia"	34
+		"RAYMOND, Melanie"	35
+F	Australians Against Further Immigration	"McCORMACK, Denis"	4
+		"SPENCER, Robyn Marion"	5
+G	Democrats	"ALLISON, Lyn"	41
+		"McLAREN, John"	42
+		"LEVY, Laurie"	43
+		"WHITE, Marj"	44
+H	Natural Law Party	"GRIFFITH, Stephen"	22
+		"MASON, Ngaire"	23
+I	Australian Bill of Rights/Republican  Group	"DAHAN, Paul"	36
+		"BERGEN, Des"	37
+J	"Unendorsed - Toscano, Joe"	"TOSCANO, Joe"	30
+		"ROPER, Steve"	31
+K	Australian Shooters Party	"WOOD, Colin F"	1
+		"SAYERS, Neville"	2
+		"FLIEGNER, Gary"	3
+L	Call to Australia (Fred Nile) Group	"COOK, Ken"	6
+		"CHAPMAN, Christine"	7
+UG	Independent	"RASKOVY, Steve"	24
+UG	Independent	"SMITH, Maurie"	25
+UG	Independent	"GOOD, Michael"	26
+UG	Independent	"GREEN, Neil"	27
+UG	Independent	"ABBOTTO, John M"	28
+UG	Independent	"ARMSTRONG, David"	29
+
+
+Call to Australia (Fred Nile) Group			
+Ticket	Party/Group Name	Candidate Name	Preferences
+A	C.I.R. Alliance	"BORZATTI, Will"	15
+		"McKAY, Neil"	16
+B	The Australian Greens - Victoria	"SINGER, Peter"	44
+		"ALEXANDER, Karen"	43
+		"LUCAS, Helen"	42
+C	D.L.P. - Democratic Labor Party	"MULHOLLAND, John"	3
+		"CAHILL, Paul"	4
+		"ROWE, Michael"	5
+		"CREA, Pat"	6
+		"CODY, Matthew"	7
+		"DODD, Christine"	8
+D	Liberal/National Party	"ALSTON, Richard K R"	10
+		"KEMP, Rod"	11
+		"PATTERSON, Kay"	12
+		"ETTERY, Robert John"	9
+		"HEAD, Robyne L"	13
+		"FERNANDEZ, Anthony G"	14
+E	Australian Labor Party	"RAY, Robert Francis"	20
+		"COONEY, Barney"	21
+		"GILLARD, Julia"	22
+		"RAYMOND, Melanie"	23
+F	Australians Against Further Immigration	"McCORMACK, Denis"	24
+		"SPENCER, Robyn Marion"	25
+G	Democrats	"ALLISON, Lyn"	26
+		"McLAREN, John"	27
+		"LEVY, Laurie"	28
+		"WHITE, Marj"	29
+H	Natural Law Party	"GRIFFITH, Stephen"	30
+		"MASON, Ngaire"	31
+I	Australian Bill of Rights/Republican  Group	"DAHAN, Paul"	33
+		"BERGEN, Des"	32
+J	"Unendorsed - Toscano, Joe"	"TOSCANO, Joe"	34
+		"ROPER, Steve"	35
+K	Australian Shooters Party	"WOOD, Colin F"	17
+		"SAYERS, Neville"	18
+		"FLIEGNER, Gary"	19
+L	Call to Australia (Fred Nile) Group	"COOK, Ken"	1
+		"CHAPMAN, Christine"	2
+UG	Independent	"RASKOVY, Steve"	36
+UG	Independent	"SMITH, Maurie"	37
+UG	Independent	"GOOD, Michael"	38
+UG	Independent	"GREEN, Neil"	39
+UG	Independent	"ABBOTTO, John M"	40
+UG	Independent	"ARMSTRONG, David"	41

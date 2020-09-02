@@ -1,0 +1,944 @@
+House of Representatives- 1996 Election: Australian Capital Territory													
+Two Candidate Preferred Preference Flow Result 													
+By Division by Polling Place													
+
+
+Canberra (71932)													
+
+	Ainslie												
+		Candidate		                  	"MCMULLAN, Bob"		              	"WILCOX, Gwen"		               	Exhausted		Total
+				                           	ALP		                        	LP		                         			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		775	65.07		416	34.93				1191
+		"CHAPLIN, Maryan (NLP)"	24		18	78.26		5	21.74		1		24
+		"MCALLISTER, Gordon (GRN)"	160		127	83.55		25	16.45		8		160
+		"BULL, Sue (IND)"	36		22	66.67		11	33.33		3		36
+		"GRAY-GRZESZKIEWICZ, Jerzy (IND)"	13		3	25		9	75		1		13
+		Total	233		945	66.97		466	33.03		13		1424
+
+	Ainslie North												
+		Candidate		                  	"MCMULLAN, Bob"		              	"WILCOX, Gwen"		               	Exhausted		Total
+				                           	ALP		                        	LP		                         			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		1461	66.38		740	33.62				2201
+		"CHAPLIN, Maryan (NLP)"	32		10	31.25		22	68.75		0		32
+		"MCALLISTER, Gordon (GRN)"	275		225	85.55		38	14.45		12		275
+		"BULL, Sue (IND)"	59		42	72.41		16	27.59		1		59
+		"GRAY-GRZESZKIEWICZ, Jerzy (IND)"	22		12	60		8	40		2		22
+		Total	388		1750	67.99		824	32.01		15		2589
+
+	Baker Gardens												
+		Candidate		                  	"MCMULLAN, Bob"		              	"WILCOX, Gwen"		               	Exhausted		Total
+				                           	ALP		                        	LP		                         			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		374	63.5		215	36.5				589
+		"CHAPLIN, Maryan (NLP)"	2		2	100		0	0		0		2
+		"MCALLISTER, Gordon (GRN)"	79		68	89.47		8	10.53		3		79
+		"BULL, Sue (IND)"	13		8	66.67		4	33.33		1		13
+		"GRAY-GRZESZKIEWICZ, Jerzy (IND)"	8		4	50		4	50		0		8
+		Total	102		456	66.38		231	33.62		4		691
+
+	Campbell												
+		Candidate		                  	"MCMULLAN, Bob"		              	"WILCOX, Gwen"		               	Exhausted		Total
+				                           	ALP		                        	LP		                         			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		965	41.99		1333	58.01				2298
+		"CHAPLIN, Maryan (NLP)"	21		16	76.19		5	23.81		0		21
+		"MCALLISTER, Gordon (GRN)"	167		108	68.79		49	31.21		10		167
+		"BULL, Sue (IND)"	49		28	57.14		21	42.86		0		49
+		"GRAY-GRZESZKIEWICZ, Jerzy (IND)"	21		8	42.11		11	57.89		2		21
+		Total	258		1125	44.22		1419	55.78		12		2556
+
+	Chapman												
+		Candidate		                  	"MCMULLAN, Bob"		              	"WILCOX, Gwen"		               	Exhausted		Total
+				                           	ALP		                        	LP		                         			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		967	45.53		1157	54.47				2124
+		"CHAPLIN, Maryan (NLP)"	23		11	47.83		12	52.17		0		23
+		"MCALLISTER, Gordon (GRN)"	150		83	56.85		63	43.15		4		150
+		"BULL, Sue (IND)"	37		15	45.45		18	54.55		4		37
+		"GRAY-GRZESZKIEWICZ, Jerzy (IND)"	31		18	64.29		10	35.71		3		31
+		Total	241		1094	46.47		1260	53.53		11		2365
+
+	City												
+		Candidate		                  	"MCMULLAN, Bob"		              	"WILCOX, Gwen"		               	Exhausted		Total
+				                           	ALP		                        	LP		                         			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		415	67.48		200	32.52				615
+		"CHAPLIN, Maryan (NLP)"	10		5	50		5	50		0		10
+		"MCALLISTER, Gordon (GRN)"	115		88	81.48		20	18.52		7		115
+		"BULL, Sue (IND)"	41		25	64.1		14	35.9		2		41
+		"GRAY-GRZESZKIEWICZ, Jerzy (IND)"	9		7	77.78		2	22.22		0		9
+		Total	175		540	69.14		241	30.86		9		790
+
+	Curtin												
+		Candidate		                  	"MCMULLAN, Bob"		              	"WILCOX, Gwen"		               	Exhausted		Total
+				                           	ALP		                        	LP		                         			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		1472	56.31		1142	43.69				2614
+		"CHAPLIN, Maryan (NLP)"	24		16	66.67		8	33.33		0		24
+		"MCALLISTER, Gordon (GRN)"	283		179	69.38		79	30.62		25		283
+		"BULL, Sue (IND)"	65		44	74.58		15	25.42		6		65
+		"GRAY-GRZESZKIEWICZ, Jerzy (IND)"	31		10	34.48		19	65.52		2		31
+		Total	403		1721	57.67		1263	42.33		33		3017
+
+	Deakin												
+		Candidate		                  	"MCMULLAN, Bob"		              	"WILCOX, Gwen"		               	Exhausted		Total
+				                           	ALP		                        	LP		                         			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		585	38.11		950	61.89				1535
+		"CHAPLIN, Maryan (NLP)"	12		6	54.55		5	45.45		1		12
+		"MCALLISTER, Gordon (GRN)"	87		63	74.12		22	25.88		2		87
+		"BULL, Sue (IND)"	16		13	81.25		3	18.75		0		16
+		"GRAY-GRZESZKIEWICZ, Jerzy (IND)"	14		4	33.33		8	66.67		2		14
+		Total	129		671	40.45		988	59.55		5		1664
+
+	Dickson												
+		Candidate		                  	"MCMULLAN, Bob"		              	"WILCOX, Gwen"		               	Exhausted		Total
+				                           	ALP		                        	LP		                         			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		527	61.35		332	38.65				859
+		"CHAPLIN, Maryan (NLP)"	15		8	57.14		6	42.86		1		15
+		"MCALLISTER, Gordon (GRN)"	125		101	82.11		22	17.89		2		125
+		"BULL, Sue (IND)"	28		22	84.62		4	15.38		2		28
+		"GRAY-GRZESZKIEWICZ, Jerzy (IND)"	17		11	78.57		3	21.43		3		17
+		Total	185		669	64.58		367	35.42		8		1044
+
+	Downer												
+		Candidate		                  	"MCMULLAN, Bob"		              	"WILCOX, Gwen"		               	Exhausted		Total
+				                           	ALP		                        	LP		                         			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		813	63.86		460	36.14				1273
+		"CHAPLIN, Maryan (NLP)"	17		15	88.24		2	11.76		0		17
+		"MCALLISTER, Gordon (GRN)"	133		100	80		25	20		8		133
+		"BULL, Sue (IND)"	43		31	73.81		11	26.19		1		43
+		"GRAY-GRZESZKIEWICZ, Jerzy (IND)"	14		8	57.14		6	42.86		0		14
+		Total	207		967	65.74		504	34.26		9		1480
+
+	Duffy												
+		Candidate		                  	"MCMULLAN, Bob"		              	"WILCOX, Gwen"		               	Exhausted		Total
+				                           	ALP		                        	LP		                         			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		994	54.35		835	45.65				1829
+		"CHAPLIN, Maryan (NLP)"	21		12	60		8	40		1		21
+		"MCALLISTER, Gordon (GRN)"	182		111	66.47		56	33.53		15		182
+		"BULL, Sue (IND)"	43		18	45		22	55		3		43
+		"GRAY-GRZESZKIEWICZ, Jerzy (IND)"	21		7	36.84		12	63.16		2		21
+		Total	267		1142	55.04		933	44.96		21		2096
+
+	Griffith												
+		Candidate		                  	"MCMULLAN, Bob"		              	"WILCOX, Gwen"		               	Exhausted		Total
+				                           	ALP		                        	LP		                         			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		675	53.61		584	46.39				1259
+		"CHAPLIN, Maryan (NLP)"	9		6	66.67		3	33.33		0		9
+		"MCALLISTER, Gordon (GRN)"	106		70	70.71		29	29.29		7		106
+		"BULL, Sue (IND)"	28		20	71.43		8	28.57		0		28
+		"GRAY-GRZESZKIEWICZ, Jerzy (IND)"	14		3	25		9	75		2		14
+		Total	157		774	55.01		633	44.99		9		1416
+
+	Holder												
+		Candidate		                  	"MCMULLAN, Bob"		              	"WILCOX, Gwen"		               	Exhausted		Total
+				                           	ALP		                        	LP		                         			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		712	51.82		662	48.18				1374
+		"CHAPLIN, Maryan (NLP)"	15		11	73.33		4	26.67		0		15
+		"MCALLISTER, Gordon (GRN)"	123		81	74.31		28	25.69		14		123
+		"BULL, Sue (IND)"	33		19	59.38		13	40.63		1		33
+		"GRAY-GRZESZKIEWICZ, Jerzy (IND)"	23		6	26.09		17	73.91		0		23
+		Total	194		829	53.38		724	46.62		15		1568
+
+	Hughes												
+		Candidate		                  	"MCMULLAN, Bob"		              	"WILCOX, Gwen"		               	Exhausted		Total
+				                           	ALP		                        	LP		                         			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		1330	49.44		1360	50.56				2690
+		"CHAPLIN, Maryan (NLP)"	20		10	55.56		8	44.44		2		20
+		"MCALLISTER, Gordon (GRN)"	209		136	69.04		61	30.96		12		209
+		"BULL, Sue (IND)"	56		41	73.21		15	26.79		0		56
+		"GRAY-GRZESZKIEWICZ, Jerzy (IND)"	43		14	40		21	60		8		43
+		Total	328		1531	51.1		1465	48.9		22		3018
+
+	Lyneham												
+		Candidate		                  	"MCMULLAN, Bob"		              	"WILCOX, Gwen"		               	Exhausted		Total
+				                           	ALP		                        	LP		                         			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		1821	64.9		985	35.1				2806
+		"CHAPLIN, Maryan (NLP)"	54		42	80.77		10	19.23		2		54
+		"MCALLISTER, Gordon (GRN)"	391		293	80.72		70	19.28		28		391
+		"BULL, Sue (IND)"	107		67	69.07		30	30.93		10		107
+		"GRAY-GRZESZKIEWICZ, Jerzy (IND)"	55		29	56.86		22	43.14		4		55
+		Total	607		2252	66.84		1117	33.16		44		3413
+
+	Lyons												
+		Candidate		                  	"MCMULLAN, Bob"		              	"WILCOX, Gwen"		               	Exhausted		Total
+				                           	ALP		                        	LP		                         			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		788	60.24		520	39.76				1308
+		"CHAPLIN, Maryan (NLP)"	29		20	80		5	20		4		29
+		"MCALLISTER, Gordon (GRN)"	113		74	68.52		34	31.48		5		113
+		"BULL, Sue (IND)"	34		14	45.16		17	54.84		3		34
+		"GRAY-GRZESZKIEWICZ, Jerzy (IND)"	23		8	34.78		15	65.22		0		23
+		Total	199		904	60.47		591	39.53		12		1507
+
+	Manuka												
+		Candidate		                  	"MCMULLAN, Bob"		              	"WILCOX, Gwen"		               	Exhausted		Total
+				                           	ALP		                        	LP		                         			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		760	54.79		627	45.21				1387
+		"CHAPLIN, Maryan (NLP)"	16		12	80		3	20		1		16
+		"MCALLISTER, Gordon (GRN)"	87		60	72.29		23	27.71		4		87
+		"BULL, Sue (IND)"	29		18	72		7	28		4		29
+		"GRAY-GRZESZKIEWICZ, Jerzy (IND)"	11		4	36.36		7	63.64		0		11
+		Total	143		854	56.15		667	43.85		9		1530
+
+	Narrabundah												
+		Candidate		                  	"MCMULLAN, Bob"		              	"WILCOX, Gwen"		               	Exhausted		Total
+				                           	ALP		                        	LP		                         			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		1136	65.66		594	34.34				1730
+		"CHAPLIN, Maryan (NLP)"	43		33	76.74		10	23.26		0		43
+		"MCALLISTER, Gordon (GRN)"	118		81	71.68		32	28.32		5		118
+		"BULL, Sue (IND)"	61		36	63.16		21	36.84		4		61
+		"GRAY-GRZESZKIEWICZ, Jerzy (IND)"	22		15	68.18		7	31.82		0		22
+		Total	244		1301	66.21		664	33.79		9		1974
+
+	Oaks Estate												
+		Candidate		                  	"MCMULLAN, Bob"		              	"WILCOX, Gwen"		               	Exhausted		Total
+				                           	ALP		                        	LP		                         			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		92	56.44		71	43.56				163
+		"CHAPLIN, Maryan (NLP)"	2		2	100		0	0		0		2
+		"MCALLISTER, Gordon (GRN)"	21		11	55		9	45		1		21
+		"BULL, Sue (IND)"	4		2	50		2	50		0		4
+		"GRAY-GRZESZKIEWICZ, Jerzy (IND)"	2		1	50		1	50		0		2
+		Total	29		108	56.54		83	43.46		1		192
+
+	Red Hill												
+		Candidate		                  	"MCMULLAN, Bob"		              	"WILCOX, Gwen"		               	Exhausted		Total
+				                           	ALP		                        	LP		                         			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		1134	47		1279	53				2413
+		"CHAPLIN, Maryan (NLP)"	23		16	69.57		7	30.43		0		23
+		"MCALLISTER, Gordon (GRN)"	162		110	71.9		43	28.1		9		162
+		"BULL, Sue (IND)"	39		21	60		14	40		4		39
+		"GRAY-GRZESZKIEWICZ, Jerzy (IND)"	15		12	80		3	20		0		15
+		Total	239		1293	49		1346	51		13		2652
+
+	Reid												
+		Candidate		                  	"MCMULLAN, Bob"		              	"WILCOX, Gwen"		               	Exhausted		Total
+				                           	ALP		                        	LP		                         			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		350	59.93		234	40.07				584
+		"CHAPLIN, Maryan (NLP)"	8		6	75		2	25		0		8
+		"MCALLISTER, Gordon (GRN)"	68		49	75.38		16	24.62		3		68
+		"BULL, Sue (IND)"	9		5	71.43		2	28.57		2		9
+		"GRAY-GRZESZKIEWICZ, Jerzy (IND)"	8		3	37.5		5	62.5		0		8
+		Total	93		413	61.46		259	38.54		5		677
+
+	Rivett												
+		Candidate		                  	"MCMULLAN, Bob"		              	"WILCOX, Gwen"		               	Exhausted		Total
+				                           	ALP		                        	LP		                         			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		1045	56.36		809	43.64				1854
+		"CHAPLIN, Maryan (NLP)"	29		18	62.07		11	37.93		0		29
+		"MCALLISTER, Gordon (GRN)"	164		112	73.2		41	26.8		11		164
+		"BULL, Sue (IND)"	45		24	54.55		20	45.45		1		45
+		"GRAY-GRZESZKIEWICZ, Jerzy (IND)"	30		14	46.67		16	53.33		0		30
+		Total	268		1213	57.49		897	42.51		12		2122
+
+	Turner												
+		Candidate		                  	"MCMULLAN, Bob"		              	"WILCOX, Gwen"		               	Exhausted		Total
+				                           	ALP		                        	LP		                         			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		1001	70.54		418	29.46				1419
+		"CHAPLIN, Maryan (NLP)"	20		14	82.35		3	17.65		3		20
+		"MCALLISTER, Gordon (GRN)"	281		218	84.82		39	15.18		24		281
+		"BULL, Sue (IND)"	59		42	75		14	25		3		59
+		"GRAY-GRZESZKIEWICZ, Jerzy (IND)"	51		28	54.9		23	45.1		0		51
+		Total	411		1303	72.39		497	27.61		30		1830
+
+	Waramanga												
+		Candidate		                  	"MCMULLAN, Bob"		              	"WILCOX, Gwen"		               	Exhausted		Total
+				                           	ALP		                        	LP		                         			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		1768	57.4		1312	42.6				3080
+		"CHAPLIN, Maryan (NLP)"	45		27	62.79		16	37.21		2		45
+		"MCALLISTER, Gordon (GRN)"	286		197	71.64		78	28.36		11		286
+		"BULL, Sue (IND)"	79		29	39.19		45	60.81		5		79
+		"GRAY-GRZESZKIEWICZ, Jerzy (IND)"	53		21	42		29	58		3		53
+		Total	463		2042	57.98		1480	42.02		21		3543
+
+	Watson												
+		Candidate		                  	"MCMULLAN, Bob"		              	"WILCOX, Gwen"		               	Exhausted		Total
+				                           	ALP		                        	LP		                         			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		1302	60.45		852	39.55				2154
+		"CHAPLIN, Maryan (NLP)"	32		21	72.41		8	27.59		3		32
+		"MCALLISTER, Gordon (GRN)"	226		172	80		43	20		11		226
+		"BULL, Sue (IND)"	55		28	53.85		24	46.15		3		55
+		"GRAY-GRZESZKIEWICZ, Jerzy (IND)"	23		6	30		14	70		3		23
+		Total	336		1529	61.9		941	38.1		20		2490
+
+	Weston												
+		Candidate		                  	"MCMULLAN, Bob"		              	"WILCOX, Gwen"		               	Exhausted		Total
+				                           	ALP		                        	LP		                         			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		964	56.34		747	43.66				1711
+		"CHAPLIN, Maryan (NLP)"	30		23	79.31		6	20.69		1		30
+		"MCALLISTER, Gordon (GRN)"	150		95	65.07		51	34.93		4		150
+		"BULL, Sue (IND)"	32		18	60		12	40		2		32
+		"GRAY-GRZESZKIEWICZ, Jerzy (IND)"	22		10	45.45		12	54.55		0		22
+		Total	234		1110	57.28		828	42.72		7		1945
+
+	Woden Valley Hospital												
+		Candidate		                  	"MCMULLAN, Bob"		              	"WILCOX, Gwen"		               	Exhausted		Total
+				                           	ALP		                        	LP		                         			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		408	51.65		382	48.35				790
+		"CHAPLIN, Maryan (NLP)"	9		6	66.67		3	33.33		0		9
+		"MCALLISTER, Gordon (GRN)"	65		47	74.6		16	25.4		2		65
+		"BULL, Sue (IND)"	10		5	50		5	50		0		10
+		"GRAY-GRZESZKIEWICZ, Jerzy (IND)"	9		4	44.44		5	55.56		0		9
+		Total	93		470	53.35		411	46.65		2		883
+
+	Yarralumla												
+		Candidate		                  	"MCMULLAN, Bob"		              	"WILCOX, Gwen"		               	Exhausted		Total
+				                           	ALP		                        	LP		                         			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		859	57		648	43				1507
+		"CHAPLIN, Maryan (NLP)"	16		12	75		4	25		0		16
+		"MCALLISTER, Gordon (GRN)"	145		91	65.94		47	34.06		7		145
+		"BULL, Sue (IND)"	24		13	56.52		10	43.48		1		24
+		"GRAY-GRZESZKIEWICZ, Jerzy (IND)"	24		14	60.87		9	39.13		1		24
+		Total	209		989	57.94		718	42.06		9		1716
+
+	Special Hospitals												
+		Candidate		                  	"MCMULLAN, Bob"		              	"WILCOX, Gwen"		               	Exhausted		Total
+				                           	ALP		                        	LP		                         			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		260	36.31		456	63.69				716
+		"CHAPLIN, Maryan (NLP)"	15		14	100		0	0		1		15
+		"MCALLISTER, Gordon (GRN)"	23		12	57.14		9	42.86		2		23
+		"BULL, Sue (IND)"	5		1	20		4	80		0		5
+		"GRAY-GRZESZKIEWICZ, Jerzy (IND)"	1		0	0		1	100		0		1
+		Total	44		287	37.91		470	62.09		3		760
+
+	Total Ordinary												
+		Candidate		                  	"MCMULLAN, Bob"		              	"WILCOX, Gwen"		               	Exhausted		Total
+				                           	ALP		                        	LP		                         			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		25753	55.9		20320	44.1				46073
+		"CHAPLIN, Maryan (NLP)"	616		412	69.48		181	30.52		23		616
+		"MCALLISTER, Gordon (GRN)"	4494		3162	74.61		1076	25.39		256		4494
+		"BULL, Sue (IND)"	1139		671	62.53		402	37.47		66		1139
+		"GRAY-GRZESZKIEWICZ, Jerzy (IND)"	630		284	47.97		308	52.03		38		630
+		Total	6879		30282	57.6		22287	42.4		383		52952
+
+	ABSENT												
+		Candidate		                  	"MCMULLAN, Bob"		              	"WILCOX, Gwen"		               	Exhausted		Total
+				                           	ALP		                        	LP		                         			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		803	61.86		495	38.14				1298
+		"CHAPLIN, Maryan (NLP)"	27		15	55.56		12	44.44		0		27
+		"MCALLISTER, Gordon (GRN)"	189		131	71.58		52	28.42		6		189
+		"BULL, Sue (IND)"	51		17	37.78		28	62.22		6		51
+		"GRAY-GRZESZKIEWICZ, Jerzy (IND)"	26		10	38.46		16	61.54		0		26
+		Total	293		976	61.81		603	38.19		12		1591
+
+	POSTAL												
+		Candidate		                  	"MCMULLAN, Bob"		              	"WILCOX, Gwen"		               	Exhausted		Total
+				                           	ALP		                        	LP		                         			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		895	44.62		1111	55.38				2006
+		"CHAPLIN, Maryan (NLP)"	13		10	76.92		3	23.08		0		13
+		"MCALLISTER, Gordon (GRN)"	155		101	66.01		52	33.99		2		155
+		"BULL, Sue (IND)"	50		17	34		33	66		0		50
+		"GRAY-GRZESZKIEWICZ, Jerzy (IND)"	32		16	50		16	50		0		32
+		Total	250		1039	46.1		1215	53.9		2		2256
+
+	PRE_POLL												
+		Candidate		                  	"MCMULLAN, Bob"		              	"WILCOX, Gwen"		               	Exhausted		Total
+				                           	ALP		                        	LP		                         			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		4652	56.94		3518	43.06				8170
+		"CHAPLIN, Maryan (NLP)"	101		67	68.37		31	31.63		3		101
+		"MCALLISTER, Gordon (GRN)"	1102		763	72.25		293	27.75		46		1102
+		"BULL, Sue (IND)"	245		113	48.5		120	51.5		12		245
+		"GRAY-GRZESZKIEWICZ, Jerzy (IND)"	94		35	39.33		54	60.67		5		94
+		Total	1542		5630	58.37		4016	41.63		66		9712
+
+	PROVISIONAL												
+		Candidate		                  	"MCMULLAN, Bob"		              	"WILCOX, Gwen"		               	Exhausted		Total
+				                           	ALP		                        	LP		                         			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		302	66.81		150	33.19				452
+		"CHAPLIN, Maryan (NLP)"	21		16	76.19		5	23.81		0		21
+		"MCALLISTER, Gordon (GRN)"	107		77	74.04		27	25.96		3		107
+		"BULL, Sue (IND)"	23		13	56.52		10	43.48		0		23
+		"GRAY-GRZESZKIEWICZ, Jerzy (IND)"	7		3	42.86		4	57.14		0		7
+		Total	158		411	67.71		196	32.29		3		610
+
+	Division Summary												
+		Candidate		                  	"MCMULLAN, Bob"		              	"WILCOX, Gwen"		               	Exhausted		Total
+				                           	ALP		                        	LP		                         			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		32405	55.87		25594	44.13				57999
+		"CHAPLIN, Maryan (NLP)"	778		520	69.15		232	30.85		26		778
+		"MCALLISTER, Gordon (GRN)"	6047		4234	73.84		1500	26.16		313		6047
+		"BULL, Sue (IND)"	1508		831	58.36		593	41.64		84		1508
+		"GRAY-GRZESZKIEWICZ, Jerzy (IND)"	789		348	46.65		398	53.35		43		789
+		Total	9122		38338	57.52		28317	42.48		466		67121
+ 													
+
+
+Fraser (64374)													
+
+	Aranda												
+		Candidate		                  	"HILL, Cheryl"		               	"LANGMORE, John"		             	Exhausted		Total
+				                           	LP		                         	ALP		                        			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		1214	43.7		1564	56.3				2778
+		"KIRSCHBAUM, Miko (GRN)"	423		94	23.15		312	76.85		17		423
+		Total	423		1308	41.08		1876	58.92		17		3201
+
+	Belconnen												
+		Candidate		                  	"HILL, Cheryl"		               	"LANGMORE, John"		             	Exhausted		Total
+				                           	LP		                         	ALP		                        			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		660	41.54		929	58.46				1589
+		"KIRSCHBAUM, Miko (GRN)"	204		62	31.47		135	68.53		7		204
+		Total	204		722	40.43		1064	59.57		7		1793
+
+	Bruce												
+		Candidate		                  	"HILL, Cheryl"		               	"LANGMORE, John"		             	Exhausted		Total
+				                           	LP		                         	ALP		                        			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		160	54.98		131	45.02				291
+		"KIRSCHBAUM, Miko (GRN)"	20		7	36.84		12	63.16		1		20
+		Total	20		167	53.87		143	46.13		1		311
+
+	Charnwood												
+		Candidate		                  	"HILL, Cheryl"		               	"LANGMORE, John"		             	Exhausted		Total
+				                           	LP		                         	ALP		                        			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		1153	40.86		1669	59.14				2822
+		"KIRSCHBAUM, Miko (GRN)"	284		77	28.52		193	71.48		14		284
+		Total	284		1230	39.78		1862	60.22		14		3106
+
+	Evatt												
+		Candidate		                  	"HILL, Cheryl"		               	"LANGMORE, John"		             	Exhausted		Total
+				                           	LP		                         	ALP		                        			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		1188	42.8		1588	57.2				2776
+		"KIRSCHBAUM, Miko (GRN)"	266		77	29.62		183	70.38		6		266
+		Total	266		1265	41.67		1771	58.33		6		3042
+
+	Evatt South												
+		Candidate		                  	"HILL, Cheryl"		               	"LANGMORE, John"		             	Exhausted		Total
+				                           	LP		                         	ALP		                        			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		520	45.41		625	54.59				1145
+		"KIRSCHBAUM, Miko (GRN)"	111		39	36.11		69	63.89		3		111
+		Total	111		559	44.61		694	55.39		3		1256
+
+	Florey												
+		Candidate		                  	"HILL, Cheryl"		               	"LANGMORE, John"		             	Exhausted		Total
+				                           	LP		                         	ALP		                        			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		843	42.34		1148	57.66				1991
+		"KIRSCHBAUM, Miko (GRN)"	184		65	35.91		116	64.09		3		184
+		Total	184		908	41.8		1264	58.2		3		2175
+
+	Flynn												
+		Candidate		                  	"HILL, Cheryl"		               	"LANGMORE, John"		             	Exhausted		Total
+				                           	LP		                         	ALP		                        			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		861	44.91		1056	55.09				1917
+		"KIRSCHBAUM, Miko (GRN)"	185		54	30.17		125	69.83		6		185
+		Total	185		915	43.65		1181	56.35		6		2102
+
+	Giralang												
+		Candidate		                  	"HILL, Cheryl"		               	"LANGMORE, John"		             	Exhausted		Total
+				                           	LP		                         	ALP		                        			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		813	42.1		1118	57.9				1931
+		"KIRSCHBAUM, Miko (GRN)"	212		65	32.02		138	67.98		9		212
+		Total	212		878	41.14		1256	58.86		9		2143
+
+	Hall												
+		Candidate		                  	"HILL, Cheryl"		               	"LANGMORE, John"		             	Exhausted		Total
+				                           	LP		                         	ALP		                        			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		109	51.17		104	48.83				213
+		"KIRSCHBAUM, Miko (GRN)"	36		11	31.43		24	68.57		1		36
+		Total	36		120	48.39		128	51.61		1		249
+
+	Higgins												
+		Candidate		                  	"HILL, Cheryl"		               	"LANGMORE, John"		             	Exhausted		Total
+				                           	LP		                         	ALP		                        			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		981	44.63		1217	55.37				2198
+		"KIRSCHBAUM, Miko (GRN)"	223		75	34.88		140	65.12		8		223
+		Total	223		1056	43.76		1357	56.24		8		2421
+
+	Holt												
+		Candidate		                  	"HILL, Cheryl"		               	"LANGMORE, John"		             	Exhausted		Total
+				                           	LP		                         	ALP		                        			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		834	40.9		1205	59.1				2039
+		"KIRSCHBAUM, Miko (GRN)"	207		48	24.49		148	75.51		11		207
+		Total	207		882	39.46		1353	60.54		11		2246
+
+	Jervis Bay												
+		Candidate		                  	"HILL, Cheryl"		               	"LANGMORE, John"		             	Exhausted		Total
+				                           	LP		                         	ALP		                        			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		69	51.88		64	48.12				133
+		"KIRSCHBAUM, Miko (GRN)"	2		1	50		1	50		0		2
+		Total	2		70	51.85		65	48.15		0		135
+
+	Kaleen												
+		Candidate		                  	"HILL, Cheryl"		               	"LANGMORE, John"		             	Exhausted		Total
+				                           	LP		                         	ALP		                        			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		1145	45.17		1390	54.83				2535
+		"KIRSCHBAUM, Miko (GRN)"	249		79	32.92		161	67.08		9		249
+		Total	249		1224	44.11		1551	55.89		9		2784
+
+	Kaleen South												
+		Candidate		                  	"HILL, Cheryl"		               	"LANGMORE, John"		             	Exhausted		Total
+				                           	LP		                         	ALP		                        			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		665	46.37		769	53.63				1434
+		"KIRSCHBAUM, Miko (GRN)"	152		44	29.93		103	70.07		5		152
+		Total	152		709	44.85		872	55.15		5		1586
+
+	Latham												
+		Candidate		                  	"HILL, Cheryl"		               	"LANGMORE, John"		             	Exhausted		Total
+				                           	LP		                         	ALP		                        			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		852	45.01		1041	54.99				1893
+		"KIRSCHBAUM, Miko (GRN)"	187		62	34.07		120	65.93		5		187
+		Total	187		914	44.05		1161	55.95		5		2080
+
+	Macgregor												
+		Candidate		                  	"HILL, Cheryl"		               	"LANGMORE, John"		             	Exhausted		Total
+				                           	LP		                         	ALP		                        			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		718	42.61		967	57.39				1685
+		"KIRSCHBAUM, Miko (GRN)"	194		61	33.33		122	66.67		11		194
+		Total	194		779	41.7		1089	58.3		11		1879
+
+	Macquarie												
+		Candidate		                  	"HILL, Cheryl"		               	"LANGMORE, John"		             	Exhausted		Total
+				                           	LP		                         	ALP		                        			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		726	43.06		960	56.94				1686
+		"KIRSCHBAUM, Miko (GRN)"	208		48	24.37		149	75.63		11		208
+		Total	208		774	41.1		1109	58.9		11		1894
+
+	Melba												
+		Candidate		                  	"HILL, Cheryl"		               	"LANGMORE, John"		             	Exhausted		Total
+				                           	LP		                         	ALP		                        			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		733	47.26		818	52.74				1551
+		"KIRSCHBAUM, Miko (GRN)"	190		55	30.39		126	69.61		9		190
+		Total	190		788	45.5		944	54.5		9		1741
+
+	Nicholls												
+		Candidate		                  	"HILL, Cheryl"		               	"LANGMORE, John"		             	Exhausted		Total
+				                           	LP		                         	ALP		                        			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		524	44.07		665	55.93				1189
+		"KIRSCHBAUM, Miko (GRN)"	113		39	35.14		72	64.86		2		113
+		Total	113		563	43.31		737	56.69		2		1302
+
+	Page												
+		Candidate		                  	"HILL, Cheryl"		               	"LANGMORE, John"		             	Exhausted		Total
+				                           	LP		                         	ALP		                        			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		626	44.21		790	55.79				1416
+		"KIRSCHBAUM, Miko (GRN)"	132		36	28.13		92	71.88		4		132
+		Total	132		662	42.88		882	57.12		4		1548
+
+	Palmerston												
+		Candidate		                  	"HILL, Cheryl"		               	"LANGMORE, John"		             	Exhausted		Total
+				                           	LP		                         	ALP		                        			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		1473	42.6		1985	57.4				3458
+		"KIRSCHBAUM, Miko (GRN)"	287		109	40.22		162	59.78		16		287
+		Total	287		1582	42.42		2147	57.58		16		3745
+
+	Scullin												
+		Candidate		                  	"HILL, Cheryl"		               	"LANGMORE, John"		             	Exhausted		Total
+				                           	LP		                         	ALP		                        			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		853	42.69		1145	57.31				1998
+		"KIRSCHBAUM, Miko (GRN)"	243		78	33.77		153	66.23		12		243
+		Total	243		931	41.77		1298	58.23		12		2241
+
+	Spence												
+		Candidate		                  	"HILL, Cheryl"		               	"LANGMORE, John"		             	Exhausted		Total
+				                           	LP		                         	ALP		                        			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		656	44.29		825	55.71				1481
+		"KIRSCHBAUM, Miko (GRN)"	161		42	26.58		116	73.42		3		161
+		Total	161		698	42.59		941	57.41		3		1642
+
+	Weetangera												
+		Candidate		                  	"HILL, Cheryl"		               	"LANGMORE, John"		             	Exhausted		Total
+				                           	LP		                         	ALP		                        			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		1395	56.07		1093	43.93				2488
+		"KIRSCHBAUM, Miko (GRN)"	258		63	25.51		184	74.49		11		258
+		Total	258		1458	53.31		1277	46.69		11		2746
+
+	Wreck Bay												
+		Candidate		                  	"HILL, Cheryl"		               	"LANGMORE, John"		             	Exhausted		Total
+				                           	LP		                         	ALP		                        			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		1	1.35		73	98.65				74
+		"KIRSCHBAUM, Miko (GRN)"	4		1	25		3	75		0		4
+		Total	4		2	2.56		76	97.44		0		78
+
+	Special Hospitals												
+		Candidate		                  	"HILL, Cheryl"		               	"LANGMORE, John"		             	Exhausted		Total
+				                           	LP		                         	ALP		                        			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		115	62.5		69	37.5				184
+		"KIRSCHBAUM, Miko (GRN)"	8		3	37.5		5	62.5		0		8
+		Total	8		118	61.46		74	38.54		0		192
+
+	Total Ordinary												
+		Candidate		                  	"HILL, Cheryl"		               	"LANGMORE, John"		             	Exhausted		Total
+				                           	LP		                         	ALP		                        			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		19887	44.3		25008	55.7				44895
+		"KIRSCHBAUM, Miko (GRN)"	4743		1395	30.6		3164	69.4		184		4743
+		Total	4743		21282	43.03		28172	56.97		184		49638
+
+	ABSENT												
+		Candidate		                  	"HILL, Cheryl"		               	"LANGMORE, John"		             	Exhausted		Total
+				                           	LP		                         	ALP		                        			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		546	39.59		833	60.41				1379
+		"KIRSCHBAUM, Miko (GRN)"	218		68	32.54		141	67.46		9		218
+		Total	218		614	38.66		974	61.34		9		1597
+
+	POSTAL												
+		Candidate		                  	"HILL, Cheryl"		               	"LANGMORE, John"		             	Exhausted		Total
+				                           	LP		                         	ALP		                        			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		659	47.27		735	52.73				1394
+		"KIRSCHBAUM, Miko (GRN)"	112		30	27.03		81	72.97		1		112
+		Total	112		689	45.78		816	54.22		1		1506
+
+	PRE_POLL												
+		Candidate		                  	"HILL, Cheryl"		               	"LANGMORE, John"		             	Exhausted		Total
+				                           	LP		                         	ALP		                        			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		2615	41.9		3626	58.1				6241
+		"KIRSCHBAUM, Miko (GRN)"	830		251	31.03		558	68.97		21		830
+		Total	830		2866	40.65		4184	59.35		21		7071
+
+	PROVISIONAL												
+		Candidate		                  	"HILL, Cheryl"		               	"LANGMORE, John"		             	Exhausted		Total
+				                           	LP		                         	ALP		                        			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		170	39.81		257	60.19				427
+		"KIRSCHBAUM, Miko (GRN)"	67		26	39.39		40	60.61		1		67
+		Total	67		196	39.76		297	60.24		1		494
+
+	Division Summary												
+		Candidate		                  	"HILL, Cheryl"		               	"LANGMORE, John"		             	Exhausted		Total
+				                           	LP		                         	ALP		                        			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		23877	43.94		30459	56.06				54336
+		"KIRSCHBAUM, Miko (GRN)"	5970		1770	30.76		3984	69.24		216		5970
+		Total	5970		25647	42.68		34443	57.32		216		60306
+ 													
+
+
+Namadgi (66864)													
+
+	Bonython												
+		Candidate		                  	"ELLIS, Annette"		             	"SMYTH, Brendan"		             	Exhausted		Total
+				                           	ALP		                        	LP		                         			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		822	53.03		728	46.97				1550
+		"RATTENBURY, Shane (GRN)"	104		75	74.26		26	25.74		3		104
+		"ROSBOROUGH, Derek (IND)"	42		19	46.34		22	53.66		1		42
+		Total	146		916	54.14		776	45.86		4		1696
+
+	Calwell												
+		Candidate		                  	"ELLIS, Annette"		             	"SMYTH, Brendan"		             	Exhausted		Total
+				                           	ALP		                        	LP		                         			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		1396	50.38		1375	49.62				2771
+		"RATTENBURY, Shane (GRN)"	190		131	73.6		47	26.4		12		190
+		"ROSBOROUGH, Derek (IND)"	68		35	53.85		30	46.15		3		68
+		Total	258		1562	51.82		1452	48.18		15		3029
+
+	Chifley												
+		Candidate		                  	"ELLIS, Annette"		             	"SMYTH, Brendan"		             	Exhausted		Total
+				                           	ALP		                        	LP		                         			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		623	49.09		646	50.91				1269
+		"RATTENBURY, Shane (GRN)"	124		93	76.86		28	23.14		3		124
+		"ROSBOROUGH, Derek (IND)"	34		9	29.03		22	70.97		3		34
+		Total	158		725	51.02		696	48.98		6		1427
+
+	Chisholm												
+		Candidate		                  	"ELLIS, Annette"		             	"SMYTH, Brendan"		             	Exhausted		Total
+				                           	ALP		                        	LP		                         			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		918	50.92		885	49.08				1803
+		"RATTENBURY, Shane (GRN)"	130		90	73.17		33	26.83		7		130
+		"ROSBOROUGH, Derek (IND)"	53		19	36.54		33	63.46		1		53
+		Total	183		1027	51.92		951	48.08		8		1986
+
+	Conder												
+		Candidate		                  	"ELLIS, Annette"		             	"SMYTH, Brendan"		             	Exhausted		Total
+				                           	ALP		                        	LP		                         			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		1149	58.32		821	41.68				1970
+		"RATTENBURY, Shane (GRN)"	136		85	69.67		37	30.33		14		136
+		"ROSBOROUGH, Derek (IND)"	64		31	49.21		32	50.79		1		64
+		Total	200		1265	58.7		890	41.3		15		2170
+
+	Fadden												
+		Candidate		                  	"ELLIS, Annette"		             	"SMYTH, Brendan"		             	Exhausted		Total
+				                           	ALP		                        	LP		                         			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		875	40.19		1302	59.81				2177
+		"RATTENBURY, Shane (GRN)"	118		92	79.31		24	20.69		2		118
+		"ROSBOROUGH, Derek (IND)"	29		17	58.62		12	41.38		0		29
+		Total	147		984	42.38		1338	57.62		2		2324
+
+	Farrer												
+		Candidate		                  	"ELLIS, Annette"		             	"SMYTH, Brendan"		             	Exhausted		Total
+				                           	ALP		                        	LP		                         			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		1097	38.87		1725	61.13				2822
+		"RATTENBURY, Shane (GRN)"	218		149	73.4		54	26.6		15		218
+		"ROSBOROUGH, Derek (IND)"	55		24	43.64		31	56.36		0		55
+		Total	273		1270	41.23		1810	58.77		15		3095
+
+	Gilmore												
+		Candidate		                  	"ELLIS, Annette"		             	"SMYTH, Brendan"		             	Exhausted		Total
+				                           	ALP		                        	LP		                         			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		1081	51.01		1038	48.99				2119
+		"RATTENBURY, Shane (GRN)"	149		97	67.36		47	32.64		5		149
+		"ROSBOROUGH, Derek (IND)"	62		28	48.28		30	51.72		4		62
+		Total	211		1206	51.96		1115	48.04		9		2330
+
+	Gordon												
+		Candidate		                  	"ELLIS, Annette"		             	"SMYTH, Brendan"		             	Exhausted		Total
+				                           	ALP		                        	LP		                         			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		1797	53.66		1552	46.34				3349
+		"RATTENBURY, Shane (GRN)"	209		152	75.62		49	24.38		8		209
+		"ROSBOROUGH, Derek (IND)"	70		39	57.35		29	42.65		2		70
+		Total	279		1988	54.95		1630	45.05		10		3628
+
+	Gowrie												
+		Candidate		                  	"ELLIS, Annette"		             	"SMYTH, Brendan"		             	Exhausted		Total
+				                           	ALP		                        	LP		                         			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		809	46.71		923	53.29				1732
+		"RATTENBURY, Shane (GRN)"	120		86	79.63		22	20.37		12		120
+		"ROSBOROUGH, Derek (IND)"	42		22	53.66		19	46.34		1		42
+		Total	162		917	48.75		964	51.25		13		1894
+
+	Isabella Plains												
+		Candidate		                  	"ELLIS, Annette"		             	"SMYTH, Brendan"		             	Exhausted		Total
+				                           	ALP		                        	LP		                         			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		1178	50.45		1157	49.55				2335
+		"RATTENBURY, Shane (GRN)"	173		108	64.67		59	35.33		6		173
+		"ROSBOROUGH, Derek (IND)"	54		24	47.06		27	52.94		3		54
+		Total	227		1310	51.31		1243	48.69		9		2562
+
+	Kambah East												
+		Candidate		                  	"ELLIS, Annette"		             	"SMYTH, Brendan"		             	Exhausted		Total
+				                           	ALP		                        	LP		                         			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		871	50.67		848	49.33				1719
+		"RATTENBURY, Shane (GRN)"	164		107	69.93		46	30.07		11		164
+		"ROSBOROUGH, Derek (IND)"	64		22	36.67		38	63.33		4		64
+		Total	228		1000	51.76		932	48.24		15		1947
+
+	Kambah North												
+		Candidate		                  	"ELLIS, Annette"		             	"SMYTH, Brendan"		             	Exhausted		Total
+				                           	ALP		                        	LP		                         			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		727	49.49		742	50.51				1469
+		"RATTENBURY, Shane (GRN)"	138		84	65.12		45	34.88		9		138
+		"ROSBOROUGH, Derek (IND)"	45		18	42.86		24	57.14		3		45
+		Total	183		829	50.55		811	49.45		12		1652
+
+	Kambah South												
+		Candidate		                  	"ELLIS, Annette"		             	"SMYTH, Brendan"		             	Exhausted		Total
+				                           	ALP		                        	LP		                         			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		866	53.66		748	46.34				1614
+		"RATTENBURY, Shane (GRN)"	160		114	73.55		41	26.45		5		160
+		"ROSBOROUGH, Derek (IND)"	49		19	41.3		27	58.7		3		49
+		Total	209		999	55.04		816	44.96		8		1823
+
+	Kambah West												
+		Candidate		                  	"ELLIS, Annette"		             	"SMYTH, Brendan"		             	Exhausted		Total
+				                           	ALP		                        	LP		                         			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		1544	50.44		1517	49.56				3061
+		"RATTENBURY, Shane (GRN)"	294		212	75.18		70	24.82		12		294
+		"ROSBOROUGH, Derek (IND)"	92		39	46.43		45	53.57		8		92
+		Total	386		1795	52.38		1632	47.62		20		3447
+
+	Mawson												
+		Candidate		                  	"ELLIS, Annette"		             	"SMYTH, Brendan"		             	Exhausted		Total
+				                           	ALP		                        	LP		                         			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		929	48.46		988	51.54				1917
+		"RATTENBURY, Shane (GRN)"	139		90	66.67		45	33.33		4		139
+		"ROSBOROUGH, Derek (IND)"	41		16	44.44		20	55.56		5		41
+		Total	180		1035	49.57		1053	50.43		9		2097
+
+	Monash												
+		Candidate		                  	"ELLIS, Annette"		             	"SMYTH, Brendan"		             	Exhausted		Total
+				                           	ALP		                        	LP		                         			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		1347	50.3		1331	49.7				2678
+		"RATTENBURY, Shane (GRN)"	191		130	72.63		49	27.37		12		191
+		"ROSBOROUGH, Derek (IND)"	67		39	60		26	40		2		67
+		Total	258		1516	51.88		1406	48.12		14		2936
+
+	Pearce												
+		Candidate		                  	"ELLIS, Annette"		             	"SMYTH, Brendan"		             	Exhausted		Total
+				                           	ALP		                        	LP		                         			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		969	43.47		1260	56.53				2229
+		"RATTENBURY, Shane (GRN)"	216		164	78.1		46	21.9		6		216
+		"ROSBOROUGH, Derek (IND)"	47		15	33.33		30	66.67		2		47
+		Total	263		1148	46.22		1336	53.78		8		2492
+
+	Richardson												
+		Candidate		                  	"ELLIS, Annette"		             	"SMYTH, Brendan"		             	Exhausted		Total
+				                           	ALP		                        	LP		                         			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		840	54.19		710	45.81				1550
+		"RATTENBURY, Shane (GRN)"	107		80	77.67		23	22.33		4		107
+		"ROSBOROUGH, Derek (IND)"	56		27	50		27	50		2		56
+		Total	163		947	55.48		760	44.52		6		1713
+
+	Tharwa												
+		Candidate		                  	"ELLIS, Annette"		             	"SMYTH, Brendan"		             	Exhausted		Total
+				                           	ALP		                        	LP		                         			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		55	46.61		63	53.39				118
+		"RATTENBURY, Shane (GRN)"	15		11	73.33		4	26.67		0		15
+		"ROSBOROUGH, Derek (IND)"	2		1	100		0	0		1		2
+		Total	17		67	50		67	50		1		135
+
+	Theodore												
+		Candidate		                  	"ELLIS, Annette"		             	"SMYTH, Brendan"		             	Exhausted		Total
+				                           	ALP		                        	LP		                         			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		731	55.21		593	44.79				1324
+		"RATTENBURY, Shane (GRN)"	84		58	72.5		22	27.5		4		84
+		"ROSBOROUGH, Derek (IND)"	43		20	48.78		21	51.22		2		43
+		Total	127		809	55.99		636	44.01		6		1451
+
+	Uriarra												
+		Candidate		                  	"ELLIS, Annette"		             	"SMYTH, Brendan"		             	Exhausted		Total
+				                           	ALP		                        	LP		                         			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		21	67.74		10	32.26				31
+		"RATTENBURY, Shane (GRN)"	2		2	100		0	0		0		2
+		"ROSBOROUGH, Derek (IND)"	2		2	100		0	0		0		2
+		Total	4		25	71.43		10	28.57		0		35
+
+	Wanniassa												
+		Candidate		                  	"ELLIS, Annette"		             	"SMYTH, Brendan"		             	Exhausted		Total
+				                           	ALP		                        	LP		                         			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		1519	54.25		1281	45.75				2800
+		"RATTENBURY, Shane (GRN)"	240		174	77.33		51	22.67		15		240
+		"ROSBOROUGH, Derek (IND)"	79		40	51.95		37	48.05		2		79
+		Total	319		1733	55.87		1369	44.13		17		3119
+
+	Wanniassa Hills												
+		Candidate		                  	"ELLIS, Annette"		             	"SMYTH, Brendan"		             	Exhausted		Total
+				                           	ALP		                        	LP		                         			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		1189	48.95		1240	51.05				2429
+		"RATTENBURY, Shane (GRN)"	201		138	72.63		52	27.37		11		201
+		"ROSBOROUGH, Derek (IND)"	63		38	63.33		22	36.67		3		63
+		Total	264		1365	50.95		1314	49.05		14		2693
+
+	Special Hospitals												
+		Candidate		                  	"ELLIS, Annette"		             	"SMYTH, Brendan"		             	Exhausted		Total
+				                           	ALP		                        	LP		                         			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		23	28.4		58	71.6				81
+		"RATTENBURY, Shane (GRN)"	2		1	50		1	50		0		2
+		"ROSBOROUGH, Derek (IND)"	2		1	50		1	50		0		2
+		Total	4		25	29.41		60	70.59		0		85
+
+	Total Ordinary												
+		Candidate		                  	"ELLIS, Annette"		             	"SMYTH, Brendan"		             	Exhausted		Total
+				                           	ALP		                        	LP		                         			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		23376	49.82		23541	50.18				46917
+		"RATTENBURY, Shane (GRN)"	3624		2523	73.26		921	26.74		180		3624
+		"ROSBOROUGH, Derek (IND)"	1225		564	48.25		605	51.75		56		1225
+		Total	4849		26463	51.35		25067	48.65		236		51766
+
+	ABSENT												
+		Candidate		                  	"ELLIS, Annette"		             	"SMYTH, Brendan"		             	Exhausted		Total
+				                           	ALP		                        	LP		                         			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		843	56.16		658	43.84				1501
+		"RATTENBURY, Shane (GRN)"	176		130	75.58		42	24.42		4		176
+		"ROSBOROUGH, Derek (IND)"	83		40	50		40	50		3		83
+		Total	259		1013	57.79		740	42.21		7		1760
+
+	POSTAL												
+		Candidate		                  	"ELLIS, Annette"		             	"SMYTH, Brendan"		             	Exhausted		Total
+				                           	ALP		                        	LP		                         			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		592	43.24		777	56.76				1369
+		"RATTENBURY, Shane (GRN)"	129		92	71.88		36	28.13		1		129
+		"ROSBOROUGH, Derek (IND)"	51		22	44		28	56		1		51
+		Total	180		706	45.64		841	54.36		2		1549
+
+	PRE_POLL												
+		Candidate		                  	"ELLIS, Annette"		             	"SMYTH, Brendan"		             	Exhausted		Total
+				                           	ALP		                        	LP		                         			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		3457	49.88		3473	50.12				6930
+		"RATTENBURY, Shane (GRN)"	601		412	70.19		175	29.81		14		601
+		"ROSBOROUGH, Derek (IND)"	259		131	51.98		121	48.02		7		259
+		Total	860		4000	51.49		3769	48.51		21		7790
+
+	PROVISIONAL												
+		Candidate		                  	"ELLIS, Annette"		             	"SMYTH, Brendan"		             	Exhausted		Total
+				                           	ALP		                        	LP		                         			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		315	62.5		189	37.5				504
+		"RATTENBURY, Shane (GRN)"	49		37	75.51		12	24.49		0		49
+		"ROSBOROUGH, Derek (IND)"	18		8	44.44		10	55.56		0		18
+		Total	67		360	63.05		211	36.95		0		571
+
+	Division Summary												
+		Candidate		                  	"ELLIS, Annette"		             	"SMYTH, Brendan"		             	Exhausted		Total
+				                           	ALP		                        	LP		                         			
+				                           	Votes	%	                     	Votes	%	                     	Votes		
+			1st Prefs		28583	49.95		28638	50.05				57221
+		"RATTENBURY, Shane (GRN)"	4579		3194	72.92		1186	27.08		199		4579
+		"ROSBOROUGH, Derek (IND)"	1636		765	48.76		804	51.24		67		1636
+		Total	6215		32542	51.51		30628	48.49		266		63436
+ 													
+ 													

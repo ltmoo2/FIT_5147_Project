@@ -1,0 +1,91 @@
+House of Representatives: Election 2001 - National							
+House of Representatives - Two Party Preferred Statistics							
+(listed in descending order)							
+							
+	ALP					Coalition	
+Division	State	TPP%			Division	State	TPP%
+Batman	VIC	75.08			Murray (LP)	VIC	73.93
+Gellibrand	VIC	71.78			Mitchell (LP)	NSW	71.32
+Fowler	NSW	71.49			Bradfield (LP)	NSW	71.16
+Grayndler	NSW	71.29			Mallee (NP)	VIC	69.93
+Melbourne	VIC	70.09			Riverina (NP)	NSW	69.87
+Wills	VIC	69.42			O'Connor (LP)	WA	69.09
+Scullin	VIC	69.19			Mackellar (LP)	NSW	66.87
+Calwell	VIC	67.73			Farrer (LP)	NSW	66.37
+Maribyrnong	VIC	67.38			Maranoa (NP)	QLD	66.01
+Watson	NSW	67.31			Barker (LP)	SA	65.69
+Reid	NSW	66.87			Berowra (LP)	NSW	65.65
+Lalor	VIC	65.63			Moncrieff (LP)	QLD	65.42
+Chifley	NSW	65.29			Groom (LP)	QLD	65.09
+Blaxland	NSW	65.21			Gwydir (NP)	NSW	64.88
+Throsby	NSW	65.10			Gilmore (LP)	NSW	64.63
+Sydney	NSW	65.04			Wakefield (LP)	SA	64.56
+Port Adelaide	SA	64.65			Cook (LP)	NSW	64.00
+Denison	TAS	64.26			Curtin (LP)	WA	63.91
+Holt	VIC	63.32			New England (NP)	NSW	63.85
+Prospect	NSW	62.81			North Sydney (LP)	NSW	63.22
+Fraser	ACT	62.69			Mayo (LP)	SA	62.87
+Perth	WA	61.21			Warringah (LP)	NSW	62.66
+Hotham	VIC	61.02			McPherson (LP)	QLD	62.55
+Hunter	NSW	60.86			Fadden (LP)	QLD	62.29
+Fremantle	WA	60.67			Fisher (LP)	QLD	62.06
+Cunningham	NSW	60.65			Lyne (NP)	NSW	61.24
+Bonython	SA	60.42			Indi (LP)	VIC	61.15
+Brand	WA	60.05			Kooyong (LP)	VIC	60.94
+Canberra	ACT	59.44			Wide Bay (NP)	QLD	60.73
+Kingsford Smith	NSW	58.90			Grey (LP)	SA	60.56
+Shortland	NSW	58.78			Hughes (LP)	NSW	60.41
+Corio	VIC	58.70			Hume (LP)	NSW	59.79
+Werriwa	NSW	58.49			Wannon (LP)	VIC	59.61
+Lyons	TAS	58.17			Goldstein (LP)	VIC	59.48
+Oxley	QLD	58.14			Fairfax (LP)	QLD	59.21
+Franklin	TAS	58.04			Kennedy (NP)	QLD	58.95
+Newcastle	NSW	56.91			Menzies (LP)	VIC	58.94
+Capricornia	QLD	56.86			Parkes (NP)	NSW	58.74
+Rankin	QLD	56.68			Macquarie (LP)	NSW	58.67
+Charlton	NSW	56.66			Ryan (LP)	QLD	58.62
+Barton	NSW	56.02			Blair (LP)	QLD	58.50
+Braddon	TAS	55.96			Higgins (LP)	VIC	58.39
+Melbourne Ports	VIC	55.69			Sturt (LP)	SA	58.18
+Griffith	QLD	55.66			Gippsland (NP)	VIC	58.05
+Jagajaga	VIC	55.64			Dawson (NP)	QLD	57.99
+Bruce	VIC	55.55			Tangney (LP)	WA	57.97
+Cowan	WA	55.51			Wentworth (LP)	NSW	57.86
+Burke	VIC	55.51			Bennelong (LP)	NSW	57.71
+Lingiari	NT	55.29			Flinders (LP)	VIC	57.62
+Lilley	QLD	54.83			Forrest (LP)	WA	57.61
+Lowe	NSW	53.81			Forde (LP)	QLD	57.38
+Bendigo	VIC	53.57			Boothby (LP)	SA	57.35
+Brisbane	QLD	53.13			Casey (LP)	VIC	57.16
+Greenway	NSW	53.11			Robertson (LP)	NSW	56.98
+Banks	NSW	52.89			Macarthur (LP)	NSW	56.96
+Isaacs	VIC	52.81			Pearce (LP)	WA	56.88
+Chisholm	VIC	52.77			Leichhardt (LP)	QLD	56.39
+Ballarat	VIC	52.73			Aston (LP)	VIC	56.17
+McMillan	VIC	52.46			Moore (LP)	WA	56.04
+Kingston	SA	52.42			Dickson (LP)	QLD	55.97
+Bass	TAS	52.06			Corangamite (LP)	VIC	55.67
+Swan	WA	52.04			Lindsay (LP)	NSW	55.47
+Hasluck	WA	51.78			Dunkley (LP)	VIC	55.42
+Stirling	WA	51.58			Cowper (NP)	NSW	54.73
+Bowman	QLD	51.42			Kalgoorlie (LP)	WA	54.34
+					Moreton (LP)	QLD	54.21
+					Makin (LP)	SA	53.76
+					La Trobe (LP)	VIC	53.67
+					Petrie (LP)	QLD	53.42
+					Page (NP)	NSW	52.77
+					Longman (LP)	QLD	52.72
+					Hindmarsh (LP)	SA	51.86
+					Deakin (LP)	VIC	51.74
+					Calare (NP)	NSW	51.73
+					Eden-Monaro (LP)	NSW	51.69
+					Richmond (NP)	NSW	51.68
+					Herbert (LP)	QLD	51.62
+					Paterson (LP)	NSW	51.42
+					McEwen (LP)	VIC	51.20
+					Parramatta (LP)	NSW	51.15
+					Canning (LP)	WA	50.38
+					Dobell (LP)	NSW	50.38
+					Adelaide (LP)	SA	50.22
+					Solomon (CLP)	NT	50.09
+					Hinkler (NP)	QLD	50.04

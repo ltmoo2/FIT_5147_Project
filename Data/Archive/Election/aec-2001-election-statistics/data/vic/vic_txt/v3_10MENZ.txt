@@ -1,0 +1,279 @@
+House of Representatives - 2001 Election: Victoria												
+Two Candidate Preferred Preference Flow Result												
+By Polling Place by Division												
+Menzies (84613)												
+		Candidate		                  	"ANDREWS, Kevin"		             	"VASILOPOULOS, Olga"		         	Total	
+				                           	LP		                         	ALP		                        		
+				                           	Votes	%	                     	Votes	%	                     		
+	Beverley Hills											
+			1st Prefs		1404	55.47		1127	44.53		2531	
+		"WATSON, Barry (GRN)"	178		57	32.02		121	67.98		178	
+		"GRIFFIN, Brendan (NGST)"	52		17	32.69		35	67.31		52	
+		"RYAN, Michael (DEM)"	195		96	49.23		99	50.77		195	
+		Total	425		1574	53.25		1382	46.75		2956	
+
+	Bulleen											
+			1st Prefs		1518	49.14		1571	50.86		3089	
+		"WATSON, Barry (GRN)"	207		62	29.95		145	70.05		207
+		"GRIFFIN, Brendan (NGST)"	49		25	51.02		24	48.98		49
+		"RYAN, Michael (DEM)"	179		71	39.66		108	60.34		179
+		Total	435		1676	47.56		1848	52.44		3524
+
+	Bulleen West										
+			1st Prefs		348	46.71		397	53.29		745
+		"WATSON, Barry (GRN)"	38		14	36.84		24	63.16		38
+		"GRIFFIN, Brendan (NGST)"	11		3	27.27		8	72.73		11
+		"RYAN, Michael (DEM)"	37		11	29.73		26	70.27		37
+		Total	86		376	45.25		455	54.75		831
+
+	Donburn										
+			1st Prefs		604	63.11		353	36.89		957
+		"WATSON, Barry (GRN)"	46		20	43.48		26	56.52		46
+		"GRIFFIN, Brendan (NGST)"	14		4	28.57		10	71.43		14
+		"RYAN, Michael (DEM)"	56		21	37.50		35	62.50		56
+		Total	116		649	60.48		424	39.52		1073
+
+	Doncaster										
+			1st Prefs		1201	54.52		1002	45.48		2203
+		"WATSON, Barry (GRN)"	127		32	25.20		95	74.80		127
+		"GRIFFIN, Brendan (NGST)"	29		16	55.17		13	44.83		29
+		"RYAN, Michael (DEM)"	184		85	46.20		99	53.80		184
+		Total	340		1334	52.46		1209	47.54		2543
+
+	Doncaster Central										
+			1st Prefs		1429	53.40		1247	46.60		2676
+		"WATSON, Barry (GRN)"	137		50	36.50		87	63.50		137
+		"GRIFFIN, Brendan (NGST)"	46		17	36.96		29	63.04		46
+		"RYAN, Michael (DEM)"	160		55	34.38		105	65.63		160
+		Total	343		1551	51.37		1468	48.63		3019
+
+	Doncaster East										
+			1st Prefs		2608	54.71		2159	45.29		4767
+		"WATSON, Barry (GRN)"	191		69	36.13		122	63.87		191
+		"GRIFFIN, Brendan (NGST)"	74		27	36.49		47	63.51		74
+		"RYAN, Michael (DEM)"	394		224	56.85		170	43.15		394
+		Total	659		2928	53.96		2498	46.04		5426
+
+	Doncaster Gardens										
+			1st Prefs		823	52.12		756	47.88		1579
+		"WATSON, Barry (GRN)"	71		22	30.99		49	69.01		71
+		"GRIFFIN, Brendan (NGST)"	30		9	30.00		21	70.00		30
+		"RYAN, Michael (DEM)"	105		54	51.43		51	48.57		105
+		Total	206		908	50.87		877	49.13		1785
+
+	Doncaster Heights										
+			1st Prefs		680	57.34		506	42.66		1186
+		"WATSON, Barry (GRN)"	47		14	29.79		33	70.21		47
+		"GRIFFIN, Brendan (NGST)"	14		7	50.00		7	50.00		14
+		"RYAN, Michael (DEM)"	67		20	29.85		47	70.15		67
+		Total	128		721	54.87		593	45.13		1314
+
+	Doncaster Park										
+			1st Prefs		340	53.04		301	46.96		641
+		"WATSON, Barry (GRN)"	31		8	25.81		23	74.19		31
+		"GRIFFIN, Brendan (NGST)"	11		4	36.36		7	63.64		11
+		"RYAN, Michael (DEM)"	40		13	32.50		27	67.50		40
+		Total	82		365	50.48		358	49.52		723
+
+	Doncaster South										
+			1st Prefs		667	55.44		536	44.56		1203
+		"WATSON, Barry (GRN)"	63		24	38.10		39	61.90		63
+		"GRIFFIN, Brendan (NGST)"	8		3	37.50		5	62.50		8
+		"RYAN, Michael (DEM)"	90		41	45.56		49	54.44		90
+		Total	161		735	53.89		629	46.11		1364
+
+	Doncaster West										
+			1st Prefs		822	48.27		881	51.73		1703
+		"WATSON, Barry (GRN)"	107		36	33.64		71	66.36		107
+		"GRIFFIN, Brendan (NGST)"	17		9	52.94		8	47.06		17
+		"RYAN, Michael (DEM)"	105		47	44.76		58	55.24		105
+		Total	229		914	47.31		1018	52.69		1932
+
+	Donvale										
+			1st Prefs		2140	72.05		830	27.95		2970
+		"WATSON, Barry (GRN)"	112		44	39.29		68	60.71		112
+		"GRIFFIN, Brendan (NGST)"	30		16	53.33		14	46.67		30
+		"RYAN, Michael (DEM)"	235		142	60.43		93	39.57		235
+		Total	377		2342	69.97		1005	30.03		3347
+
+	Gumnut Gully										
+			1st Prefs		545	64.57		299	35.43		844
+		"WATSON, Barry (GRN)"	34		16	47.06		18	52.94		34
+		"GRIFFIN, Brendan (NGST)"	11		6	54.55		5	45.45		11
+		"RYAN, Michael (DEM)"	63		17	26.98		46	73.02		63
+		Total	108		584	61.34		368	38.66		952
+
+	Lower Templestowe										
+			1st Prefs		721	51.68		674	48.32		1395
+		"WATSON, Barry (GRN)"	93		38	40.86		55	59.14		93
+		"GRIFFIN, Brendan (NGST)"	25		12	48.00		13	52.00		25
+		"RYAN, Michael (DEM)"	114		56	49.12		58	50.88		114
+		Total	232		827	50.83		800	49.17		1627
+
+	Manningham										
+			1st Prefs		754	63.58		432	36.42		1186
+		"WATSON, Barry (GRN)"	53		17	32.08		36	67.92		53
+		"GRIFFIN, Brendan (NGST)"	25		15	60.00		10	40.00		25
+		"RYAN, Michael (DEM)"	52		24	46.15		28	53.85		52
+		Total	130		810	61.55		506	38.45		1316
+
+	Melbourne (Menzies)										
+			1st Prefs		46	67.65		22	32.35		68
+		"WATSON, Barry (GRN)"	9		3	33.33		6	66.67		9
+		"GRIFFIN, Brendan (NGST)"	2		0	0.00		2	100.00		2
+		"RYAN, Michael (DEM)"	5		2	40.00		3	60.00		5
+		Total	16		51	60.71		33	39.29		84
+
+	Milgate										
+			1st Prefs		1386	64.29		770	35.71		2156
+		"WATSON, Barry (GRN)"	101		44	43.56		57	56.44		101
+		"GRIFFIN, Brendan (NGST)"	26		16	61.54		10	38.46		26
+		"RYAN, Michael (DEM)"	166		78	46.99		88	53.01		166
+		Total	293		1524	62.23		925	37.77		2449
+
+	Park Orchards										
+			1st Prefs		1353	74.38		466	25.62		1819
+		"WATSON, Barry (GRN)"	212		52	24.53		160	75.47		212
+		"GRIFFIN, Brendan (NGST)"	18		8	44.44		10	55.56		18
+		"RYAN, Michael (DEM)"	151		91	60.26		60	39.74		151
+		Total	381		1504	68.36		696	31.64		2200
+
+	Ringwood North (Menzies)										
+			1st Prefs		613	75.77		196	24.23		809
+		"WATSON, Barry (GRN)"	70		28	40.00		42	60.00		70
+		"GRIFFIN, Brendan (NGST)"	11		8	72.73		3	27.27		11
+		"RYAN, Michael (DEM)"	78		39	50.00		39	50.00		78
+		Total	159		688	71.07		280	28.93		968
+
+	Serpell										
+			1st Prefs		1850	65.53		973	34.47		2823
+		"WATSON, Barry (GRN)"	130		46	35.38		84	64.62		130
+		"GRIFFIN, Brendan (NGST)"	45		17	37.78		28	62.22		45
+		"RYAN, Michael (DEM)"	131		52	39.69		79	60.31		131
+		Total	306		1965	62.80		1164	37.20		3129
+
+	Templestowe										
+			1st Prefs		1025	66.56		515	33.44		1540
+		"WATSON, Barry (GRN)"	93		33	35.48		60	64.52		93
+		"GRIFFIN, Brendan (NGST)"	13		9	69.23		4	30.77		13
+		"RYAN, Michael (DEM)"	112		53	47.32		59	52.68		112
+		Total	218		1120	63.71		638	36.29		1758
+
+	Templestowe Heights										
+			1st Prefs		2566	59.79		1726	40.21		4292
+		"WATSON, Barry (GRN)"	322		98	30.43		224	69.57		322
+		"GRIFFIN, Brendan (NGST)"	55		28	50.91		27	49.09		55
+		"RYAN, Michael (DEM)"	367		212	57.77		155	42.23		367
+		Total	744		2904	57.66		2132	42.34		5036
+
+	Templestowe Park										
+			1st Prefs		1607	69.39		709	30.61		2316
+		"WATSON, Barry (GRN)"	80		20	25.00		60	75.00		80
+		"GRIFFIN, Brendan (NGST)"	27		14	51.85		13	48.15		27
+		"RYAN, Michael (DEM)"	224		131	58.48		93	41.52		224
+		Total	331		1772	66.94		875	33.06		2647
+
+	Templestowe Valley										
+			1st Prefs		812	57.34		604	42.66		1416
+		"WATSON, Barry (GRN)"	109		38	34.86		71	65.14		109
+		"GRIFFIN, Brendan (NGST)"	15		9	60.00		6	40.00		15
+		"RYAN, Michael (DEM)"	87		35	40.23		52	59.77		87
+		Total	211		894	54.95		733	45.05		1627
+
+	The Pines										
+			1st Prefs		942	65.92		487	34.08		1429
+		"WATSON, Barry (GRN)"	57		19	33.33		38	66.67		57
+		"GRIFFIN, Brendan (NGST)"	20		11	55.00		9	45.00		20
+		"RYAN, Michael (DEM)"	78		26	33.33		52	66.67		78
+		Total	155		998	63.01		586	36.99		1584
+
+	Tunstall										
+			1st Prefs		728	58.90		508	41.10		1236
+		"WATSON, Barry (GRN)"	80		32	40.00		48	60.00		80
+		"GRIFFIN, Brendan (NGST)"	19		8	42.11		11	57.89		19
+		"RYAN, Michael (DEM)"	67		25	37.31		42	62.69		67
+		Total	166		793	56.56		609	43.44		1402
+
+	Warrandyte										
+			1st Prefs		1332	65.88		690	34.12		2022
+		"WATSON, Barry (GRN)"	342		70	20.47		272	79.53		342
+		"GRIFFIN, Brendan (NGST)"	28		14	50.00		14	50.00		28
+		"RYAN, Michael (DEM)"	210		100	47.62		110	52.38		210
+		Total	580		1516	58.26		1086	41.74		2602
+
+	Warrandyte South										
+			1st Prefs		264	75.00		88	25.00		352
+		"WATSON, Barry (GRN)"	38		14	36.84		24	63.16		38
+		"GRIFFIN, Brendan (NGST)"	9		3	33.33		6	66.67		9
+		"RYAN, Michael (DEM)"	23		11	47.83		12	52.17		23
+		Total	70		292	69.19		130	30.81		422
+
+	Warranwood										
+			1st Prefs		1240	66.95		612	33.05		1852
+		"WATSON, Barry (GRN)"	137		44	32.12		93	67.88		137
+		"GRIFFIN, Brendan (NGST)"	25		14	56.00		11	44.00		25
+		"RYAN, Michael (DEM)"	197		110	55.84		87	44.16		197
+		Total	359		1408	63.68		803	36.32		2211
+
+	Wonga Park										
+			1st Prefs		1181	77.75		338	22.25		1519
+		"WATSON, Barry (GRN)"	121		50	41.32		71	58.68		121
+		"GRIFFIN, Brendan (NGST)"	28		13	46.43		15	53.57		28
+		"RYAN, Michael (DEM)"	124		77	62.10		47	37.90		124
+		Total	273		1321	73.72		471	26.28		1792
+
+	Yarraleen										
+			1st Prefs		996	57.27		743	42.73		1739
+		"WATSON, Barry (GRN)"	102		45	44.12		57	55.88		102
+		"GRIFFIN, Brendan (NGST)"	28		12	42.86		16	57.14		28
+		"RYAN, Michael (DEM)"	114		57	50.00		57	50.00		114
+		Total	244		1110	55.98		873	44.02		1983
+
+	Special Hospitals										
+			1st Prefs		462	76.74		140	23.26		602
+		"WATSON, Barry (GRN)"	26		14	53.85		12	46.15		26
+		"GRIFFIN, Brendan (NGST)"	11		3	27.27		8	72.73		11
+		"RYAN, Michael (DEM)"	12		6	50.00		6	50.00		12
+		Total	49		485	74.50		166	25.50		651
+
+	Total Ordinary										
+			1st Prefs		35007	60.71		22658	39.29		57665
+		"WATSON, Barry (GRN)"	3564		1173	32.91		2391	67.09		3564
+		"GRIFFIN, Brendan (NGST)"	826		377	45.64		449	54.36		826
+		"RYAN, Michael (DEM)"	4222		2082	49.31		2140	50.69		4222
+		Total	8612		38639	58.30		27638	41.70		66277
+
+	ABSENT										
+			1st Prefs		2384	64.64		1304	35.36		3688
+		"WATSON, Barry (GRN)"	421		152	36.10		269	63.90		421
+		"GRIFFIN, Brendan (NGST)"	154		71	46.10		83	53.90		154
+		"RYAN, Michael (DEM)"	476		197	41.39		279	58.61		476
+		Total	1051		2804	59.17		1935	40.83		4739
+
+	POSTAL										
+			1st Prefs		2076	73.02		767	26.98		2843
+		"WATSON, Barry (GRN)"	116		56	48.28		60	51.72		116
+		"GRIFFIN, Brendan (NGST)"	59		23	38.98		36	61.02		59
+		"RYAN, Michael (DEM)"	171		65	38.01		106	61.99		171
+		Total	346		2220	69.61		969	30.39		3189
+
+	PRE_POLL										
+			1st Prefs		1951	64.69		1065	35.31		3016
+		"WATSON, Barry (GRN)"	187		67	35.83		120	64.17		187
+		"GRIFFIN, Brendan (NGST)"	92		42	45.65		50	54.35		92
+		"RYAN, Michael (DEM)"	223		88	39.46		135	60.54		223
+		Total	502		2148	61.06		1370	38.94		3518
+
+	PROVISIONAL										
+			1st Prefs		147	59.27		101	40.73		248
+		"WATSON, Barry (GRN)"	13		7	53.85		6	46.15		13
+		"GRIFFIN, Brendan (NGST)"	4		2	50.00		2	50.00		4
+		"RYAN, Michael (DEM)"	21		10	47.62		11	52.38		21
+		Total	38		166	58.04		120	41.96		286
+
+	Division Summary											
+			1st Prefs		41565	61.61		25895	38.39		67460	
+		"WATSON, Barry (GRN)"	4301		1455	33.83		2846	66.17		4301	
+		"GRIFFIN, Brendan (NGST)"	1135		515	45.37		620	54.63		1135	
+		"RYAN, Michael (DEM)"	5113		2442	47.76		2671	52.24		5113	
+		Total	10549		45977	58.94		32032	41.06		78009	

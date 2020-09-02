@@ -1,0 +1,1187 @@
+House of Representatives - 1998 Election: Australian Capital Territory											
+Two Candidate Preferred Preference Flow Result											
+By Polling Place by Division 											
+
+
+Canberra (105359)											
+
+	Bonython										
+		Candidate		                  	"ELLIS, Annette"		             	"MORISON, Ian"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		843	65		454	35		1297
+		"ULASOWSKI, Nikki (DSL)"	30		20	66.67		10	33.33		30
+		"ELLERMAN, Sue (GRN)"	45		32	71.11		13	28.89		45
+		"DOBLE, Burl (HAN)"	84		48	57.14		36	42.86		84
+		"ENGLAND, Maryan (NLP)"	4		3	75		1	25		4
+		"ONSMAN, Yulia (DEM)"	109		63	57.8		46	42.2		109
+		Total	272		1009	64.31		560	35.69		1569
+
+	Calwell										
+		Candidate		                  	"ELLIS, Annette"		             	"MORISON, Ian"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		1202	61.64		748	38.36		1950
+		"ULASOWSKI, Nikki (DSL)"	31		22	70.97		9	29.03		31
+		"ELLERMAN, Sue (GRN)"	60		46	76.67		14	23.33		60
+		"DOBLE, Burl (HAN)"	138		58	42.03		80	57.97		138
+		"ENGLAND, Maryan (NLP)"	5		2	40		3	60		5
+		"ONSMAN, Yulia (DEM)"	169		108	63.91		61	36.09		169
+		Total	403		1438	61.11		915	38.89		2353
+
+	Canberra Hospital										
+		Candidate		                  	"ELLIS, Annette"		             	"MORISON, Ian"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		363	59.9		243	40.1		606
+		"ULASOWSKI, Nikki (DSL)"	13		8	61.54		5	38.46		13
+		"ELLERMAN, Sue (GRN)"	35		26	74.29		9	25.71		35
+		"DOBLE, Burl (HAN)"	25		16	64		9	36		25
+		"ENGLAND, Maryan (NLP)"	4		3	75		1	25		4
+		"ONSMAN, Yulia (DEM)"	60		38	63.33		22	36.67		60
+		Total	137		454	61.1		289	38.9		743
+
+	Chapman										
+		Candidate		                  	"ELLIS, Annette"		             	"MORISON, Ian"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		866	52.04		798	47.96		1664
+		"ULASOWSKI, Nikki (DSL)"	24		16	66.67		8	33.33		24
+		"ELLERMAN, Sue (GRN)"	77		60	77.92		17	22.08		77
+		"DOBLE, Burl (HAN)"	80		18	22.5		62	77.5		80
+		"ENGLAND, Maryan (NLP)"	5		1	20		4	80		5
+		"ONSMAN, Yulia (DEM)"	174		120	68.97		54	31.03		174
+		Total	360		1081	53.41		943	46.59		2024
+
+	Chifley										
+		Candidate		                  	"ELLIS, Annette"		             	"MORISON, Ian"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		653	63.83		370	36.17		1023
+		"ULASOWSKI, Nikki (DSL)"	23		16	69.57		7	30.43		23
+		"ELLERMAN, Sue (GRN)"	55		49	89.09		6	10.91		55
+		"DOBLE, Burl (HAN)"	64		29	45.31		35	54.69		64
+		"ENGLAND, Maryan (NLP)"	1		1	100		0	0		1
+		"ONSMAN, Yulia (DEM)"	87		59	67.82		28	32.18		87
+		Total	230		807	64.41		446	35.59		1253
+
+	Chisholm										
+		Candidate		                  	"ELLIS, Annette"		             	"MORISON, Ian"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		859	62.2		522	37.8		1381
+		"ULASOWSKI, Nikki (DSL)"	29		19	65.52		10	34.48		29
+		"ELLERMAN, Sue (GRN)"	43		34	79.07		9	20.93		43
+		"DOBLE, Burl (HAN)"	103		50	48.54		53	51.46		103
+		"ENGLAND, Maryan (NLP)"	2		2	100		0	0		2
+		"ONSMAN, Yulia (DEM)"	115		70	60.87		45	39.13		115
+		Total	292		1034	61.81		639	38.19		1673
+
+	Conder										
+		Candidate		                  	"ELLIS, Annette"		             	"MORISON, Ian"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		1203	65.63		630	34.37		1833
+		"ULASOWSKI, Nikki (DSL)"	45		30	66.67		15	33.33		45
+		"ELLERMAN, Sue (GRN)"	71		50	70.42		21	29.58		71
+		"DOBLE, Burl (HAN)"	145		78	53.79		67	46.21		145
+		"ENGLAND, Maryan (NLP)"	6		4	66.67		2	33.33		6
+		"ONSMAN, Yulia (DEM)"	168		105	62.5		63	37.5		168
+		Total	435		1470	64.81		798	35.19		2268
+
+	Curtin										
+		Candidate		                  	"ELLIS, Annette"		             	"MORISON, Ian"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		1295	59.87		868	40.13		2163
+		"ULASOWSKI, Nikki (DSL)"	47		39	82.98		8	17.02		47
+		"ELLERMAN, Sue (GRN)"	117		93	79.49		24	20.51		117
+		"DOBLE, Burl (HAN)"	135		60	44.44		75	55.56		135
+		"ENGLAND, Maryan (NLP)"	8		6	75		2	25		8
+		"ONSMAN, Yulia (DEM)"	203		135	66.5		68	33.5		203
+		Total	510		1628	60.91		1045	39.09		2673
+
+	Deakin										
+		Candidate		                  	"ELLIS, Annette"		             	"MORISON, Ian"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		418	41.43		591	58.57		1009
+		"ULASOWSKI, Nikki (DSL)"	14		10	71.43		4	28.57		14
+		"ELLERMAN, Sue (GRN)"	37		24	64.86		13	35.14		37
+		"DOBLE, Burl (HAN)"	53		13	24.53		40	75.47		53
+		"ENGLAND, Maryan (NLP)"	3		2	66.67		1	33.33		3
+		"ONSMAN, Yulia (DEM)"	103		63	61.17		40	38.83		103
+		Total	210		530	43.48		689	56.52		1219
+
+	Duffy										
+		Candidate		                  	"ELLIS, Annette"		             	"MORISON, Ian"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		880	63.17		513	36.83		1393
+		"ULASOWSKI, Nikki (DSL)"	23		18	78.26		5	21.74		23
+		"ELLERMAN, Sue (GRN)"	108		84	77.78		24	22.22		108
+		"DOBLE, Burl (HAN)"	95		46	48.42		49	51.58		95
+		"ENGLAND, Maryan (NLP)"	4		3	75		1	25		4
+		"ONSMAN, Yulia (DEM)"	133		70	52.63		63	47.37		133
+		Total	363		1101	62.7		655	37.3		1756
+
+	Fadden										
+		Candidate		                  	"ELLIS, Annette"		             	"MORISON, Ian"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		806	50.6		787	49.4		1593
+		"ULASOWSKI, Nikki (DSL)"	20		14	70		6	30		20
+		"ELLERMAN, Sue (GRN)"	45		30	66.67		15	33.33		45
+		"DOBLE, Burl (HAN)"	69		24	34.78		45	65.22		69
+		"ENGLAND, Maryan (NLP)"	4		1	25		3	75		4
+		"ONSMAN, Yulia (DEM)"	142		93	65.49		49	34.51		142
+		Total	280		968	51.68		905	48.32		1873
+
+	Farrer										
+		Candidate		                  	"ELLIS, Annette"		             	"MORISON, Ian"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		1047	51.65		980	48.35		2027
+		"ULASOWSKI, Nikki (DSL)"	33		24	72.73		9	27.27		33
+		"ELLERMAN, Sue (GRN)"	75		59	78.67		16	21.33		75
+		"DOBLE, Burl (HAN)"	120		48	40		72	60		120
+		"ENGLAND, Maryan (NLP)"	4		3	75		1	25		4
+		"ONSMAN, Yulia (DEM)"	185		106	57.3		79	42.7		185
+		Total	417		1287	52.66		1157	47.34		2444
+
+	Gilmore										
+		Candidate		                  	"ELLIS, Annette"		             	"MORISON, Ian"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		910	60.34		598	39.66		1508
+		"ULASOWSKI, Nikki (DSL)"	20		14	70		6	30		20
+		"ELLERMAN, Sue (GRN)"	60		39	65		21	35		60
+		"DOBLE, Burl (HAN)"	131		58	44.27		73	55.73		131
+		"ENGLAND, Maryan (NLP)"	3		1	33.33		2	66.67		3
+		"ONSMAN, Yulia (DEM)"	166		99	59.64		67	40.36		166
+		Total	380		1121	59.38		767	40.63		1888
+
+	Gordon										
+		Candidate		                  	"ELLIS, Annette"		             	"MORISON, Ian"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		1632	61.45		1024	38.55		2656
+		"ULASOWSKI, Nikki (DSL)"	28		18	64.29		10	35.71		28
+		"ELLERMAN, Sue (GRN)"	88		54	61.36		34	38.64		88
+		"DOBLE, Burl (HAN)"	177		86	48.59		91	51.41		177
+		"ENGLAND, Maryan (NLP)"	9		5	55.56		4	44.44		9
+		"ONSMAN, Yulia (DEM)"	202		115	56.93		87	43.07		202
+		Total	504		1910	60.44		1250	39.56		3160
+
+	Gowrie										
+		Candidate		                  	"ELLIS, Annette"		             	"MORISON, Ian"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		829	59.94		554	40.06		1383
+		"ULASOWSKI, Nikki (DSL)"	20		15	75		5	25		20
+		"ELLERMAN, Sue (GRN)"	40		26	65		14	35		40
+		"DOBLE, Burl (HAN)"	81		38	46.91		43	53.09		81
+		"ENGLAND, Maryan (NLP)"	4		3	75		1	25		4
+		"ONSMAN, Yulia (DEM)"	143		94	65.73		49	34.27		143
+		Total	288		1005	60.14		666	39.86		1671
+
+	Holder										
+		Candidate		                  	"ELLIS, Annette"		             	"MORISON, Ian"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		699	60.94		448	39.06		1147
+		"ULASOWSKI, Nikki (DSL)"	18		14	77.78		4	22.22		18
+		"ELLERMAN, Sue (GRN)"	43		32	74.42		11	25.58		43
+		"DOBLE, Burl (HAN)"	50		20	40		30	60		50
+		"ENGLAND, Maryan (NLP)"	4		2	50		2	50		4
+		"ONSMAN, Yulia (DEM)"	106		68	64.15		38	35.85		106
+		Total	221		835	61.04		533	38.96		1368
+
+	Hughes										
+		Candidate		                  	"ELLIS, Annette"		             	"MORISON, Ian"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		1196	56.55		919	43.45		2115
+		"ULASOWSKI, Nikki (DSL)"	32		26	81.25		6	18.75		32
+		"ELLERMAN, Sue (GRN)"	119		93	78.15		26	21.85		119
+		"DOBLE, Burl (HAN)"	68		18	26.47		50	73.53		68
+		"ENGLAND, Maryan (NLP)"	5		2	40		3	60		5
+		"ONSMAN, Yulia (DEM)"	186		131	70.43		55	29.57		186
+		Total	410		1466	58.06		1059	41.94		2525
+
+	Isabella Plains										
+		Candidate		                  	"ELLIS, Annette"		             	"MORISON, Ian"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		1111	63.78		631	36.22		1742
+		"ULASOWSKI, Nikki (DSL)"	30		16	53.33		14	46.67		30
+		"ELLERMAN, Sue (GRN)"	53		33	62.26		20	37.74		53
+		"DOBLE, Burl (HAN)"	108		54	50		54	50		108
+		"ENGLAND, Maryan (NLP)"	6		5	83.33		1	16.67		6
+		"ONSMAN, Yulia (DEM)"	154		80	51.95		74	48.05		154
+		Total	351		1299	62.06		794	37.94		2093
+
+	Kambah East										
+		Candidate		                  	"ELLIS, Annette"		             	"MORISON, Ian"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		861	62.76		511	37.24		1372
+		"ULASOWSKI, Nikki (DSL)"	22		17	77.27		5	22.73		22
+		"ELLERMAN, Sue (GRN)"	59		38	64.41		21	35.59		59
+		"DOBLE, Burl (HAN)"	101		46	45.54		55	54.46		101
+		"ENGLAND, Maryan (NLP)"	5		2	40		3	60		5
+		"ONSMAN, Yulia (DEM)"	115		68	59.13		47	40.87		115
+		Total	302		1032	61.65		642	38.35		1674
+
+	Kambah North										
+		Candidate		                  	"ELLIS, Annette"		             	"MORISON, Ian"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		728	62.76		432	37.24		1160
+		"ULASOWSKI, Nikki (DSL)"	18		12	66.67		6	33.33		18
+		"ELLERMAN, Sue (GRN)"	68		50	73.53		18	26.47		68
+		"DOBLE, Burl (HAN)"	99		48	48.48		51	51.52		99
+		"ENGLAND, Maryan (NLP)"	6		4	66.67		2	33.33		6
+		"ONSMAN, Yulia (DEM)"	100		58	58		42	42		100
+		Total	291		900	62.03		551	37.97		1451
+
+	Kambah South										
+		Candidate		                  	"ELLIS, Annette"		             	"MORISON, Ian"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		796	66.17		407	33.83		1203
+		"ULASOWSKI, Nikki (DSL)"	15		11	73.33		4	26.67		15
+		"ELLERMAN, Sue (GRN)"	56		40	71.43		16	28.57		56
+		"DOBLE, Burl (HAN)"	50		34	68		16	32		50
+		"ENGLAND, Maryan (NLP)"	11		7	63.64		4	36.36		11
+		"ONSMAN, Yulia (DEM)"	89		52	58.43		37	41.57		89
+		Total	221		940	66.01		484	33.99		1424
+
+	Kambah West										
+		Candidate		                  	"ELLIS, Annette"		             	"MORISON, Ian"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		1606	65.07		862	34.93		2468
+		"ULASOWSKI, Nikki (DSL)"	73		58	79.45		15	20.55		73
+		"ELLERMAN, Sue (GRN)"	122		89	72.95		33	27.05		122
+		"DOBLE, Burl (HAN)"	197		108	54.82		89	45.18		197
+		"ENGLAND, Maryan (NLP)"	7		4	57.14		3	42.86		7
+		"ONSMAN, Yulia (DEM)"	216		146	67.59		70	32.41		216
+		Total	615		2011	65.23		1072	34.77		3083
+
+	Lyons										
+		Candidate		                  	"ELLIS, Annette"		             	"MORISON, Ian"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		651	68.96		293	31.04		944
+		"ULASOWSKI, Nikki (DSL)"	24		20	83.33		4	16.67		24
+		"ELLERMAN, Sue (GRN)"	82		68	82.93		14	17.07		82
+		"DOBLE, Burl (HAN)"	83		42	50.6		41	49.4		83
+		"ENGLAND, Maryan (NLP)"	2		1	50		1	50		2
+		"ONSMAN, Yulia (DEM)"	116		79	68.1		37	31.9		116
+		Total	307		861	68.82		390	31.18		1251
+
+	Mawson										
+		Candidate		                  	"ELLIS, Annette"		             	"MORISON, Ian"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		1158	57.41		859	42.59		2017
+		"ULASOWSKI, Nikki (DSL)"	38		27	71.05		11	28.95		38
+		"ELLERMAN, Sue (GRN)"	68		55	80.88		13	19.12		68
+		"DOBLE, Burl (HAN)"	116		51	43.97		65	56.03		116
+		"ENGLAND, Maryan (NLP)"	6		3	50		3	50		6
+		"ONSMAN, Yulia (DEM)"	137		88	64.23		49	35.77		137
+		Total	365		1382	58.02		1000	41.98		2382
+
+	Monash										
+		Candidate		                  	"ELLIS, Annette"		             	"MORISON, Ian"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		1230	61.01		786	38.99		2016
+		"ULASOWSKI, Nikki (DSL)"	49		31	63.27		18	36.73		49
+		"ELLERMAN, Sue (GRN)"	64		43	67.19		21	32.81		64
+		"DOBLE, Burl (HAN)"	108		61	56.48		47	43.52		108
+		"ENGLAND, Maryan (NLP)"	6		5	83.33		1	16.67		6
+		"ONSMAN, Yulia (DEM)"	180		111	61.67		69	38.33		180
+		Total	407		1481	61.12		942	38.88		2423
+
+	Oaks Estate										
+		Candidate		                  	"ELLIS, Annette"		             	"MORISON, Ian"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		83	71.55		33	28.45		116
+		"ULASOWSKI, Nikki (DSL)"	1		1	100		0	0		1
+		"ELLERMAN, Sue (GRN)"	4		4	100		0	0		4
+		"DOBLE, Burl (HAN)"	19		12	63.16		7	36.84		19
+		"ENGLAND, Maryan (NLP)"	0		0	0		0	0		0
+		"ONSMAN, Yulia (DEM)"	8		1	12.5		7	87.5		8
+		Total	32		101	68.24		47	31.76		148
+
+	Pearce										
+		Candidate		                  	"ELLIS, Annette"		             	"MORISON, Ian"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		925	56.03		726	43.97		1651
+		"ULASOWSKI, Nikki (DSL)"	30		22	73.33		8	26.67		30
+		"ELLERMAN, Sue (GRN)"	65		56	86.15		9	13.85		65
+		"DOBLE, Burl (HAN)"	104		45	43.27		59	56.73		104
+		"ENGLAND, Maryan (NLP)"	9		7	77.78		2	22.22		9
+		"ONSMAN, Yulia (DEM)"	144		95	65.97		49	34.03		144
+		Total	352		1150	57.41		853	42.59		2003
+
+	Red Hill										
+		Candidate		                  	"ELLIS, Annette"		             	"MORISON, Ian"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		603	48.71		635	51.29		1238
+		"ULASOWSKI, Nikki (DSL)"	24		20	83.33		4	16.67		24
+		"ELLERMAN, Sue (GRN)"	75		59	78.67		16	21.33		75
+		"DOBLE, Burl (HAN)"	54		17	31.48		37	68.52		54
+		"ENGLAND, Maryan (NLP)"	3		2	66.67		1	33.33		3
+		"ONSMAN, Yulia (DEM)"	102		62	60.78		40	39.22		102
+		Total	258		763	51		733	49		1496
+
+	Richardson										
+		Candidate		                  	"ELLIS, Annette"		             	"MORISON, Ian"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		781	65.96		403	34.04		1184
+		"ULASOWSKI, Nikki (DSL)"	28		20	71.43		8	28.57		28
+		"ELLERMAN, Sue (GRN)"	57		41	71.93		16	28.07		57
+		"DOBLE, Burl (HAN)"	103		56	54.37		47	45.63		103
+		"ENGLAND, Maryan (NLP)"	4		4	100		0	0		4
+		"ONSMAN, Yulia (DEM)"	74		39	52.7		35	47.3		74
+		Total	266		941	64.9		509	35.1		1450
+
+	Rivett										
+		Candidate		                  	"ELLIS, Annette"		             	"MORISON, Ian"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		923	64.1		517	35.9		1440
+		"ULASOWSKI, Nikki (DSL)"	34		24	70.59		10	29.41		34
+		"ELLERMAN, Sue (GRN)"	61		46	75.41		15	24.59		61
+		"DOBLE, Burl (HAN)"	125		60	48		65	52		125
+		"ENGLAND, Maryan (NLP)"	5		3	60		2	40		5
+		"ONSMAN, Yulia (DEM)"	158		94	59.49		64	40.51		158
+		Total	383		1150	63.08		673	36.92		1823
+
+	Tharwa										
+		Candidate		                  	"ELLIS, Annette"		             	"MORISON, Ian"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		60	63.83		34	36.17		94
+		"ULASOWSKI, Nikki (DSL)"	0		0	0		0	0		0
+		"ELLERMAN, Sue (GRN)"	10		7	70		3	30		10
+		"DOBLE, Burl (HAN)"	5		3	60		2	40		5
+		"ENGLAND, Maryan (NLP)"	0		0	0		0	0		0
+		"ONSMAN, Yulia (DEM)"	2		2	100		0	0		2
+		Total	17		72	64.86		39	35.14		111
+
+	Theodore										
+		Candidate		                  	"ELLIS, Annette"		             	"MORISON, Ian"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		719	65.3		382	34.7		1101
+		"ULASOWSKI, Nikki (DSL)"	22		17	77.27		5	22.73		22
+		"ELLERMAN, Sue (GRN)"	47		27	57.45		20	42.55		47
+		"DOBLE, Burl (HAN)"	68		40	58.82		28	41.18		68
+		"ENGLAND, Maryan (NLP)"	0		0	0		0	0		0
+		"ONSMAN, Yulia (DEM)"	93		54	58.06		39	41.94		93
+		Total	230		857	64.39		474	35.61		1331
+
+	Uriarra										
+		Candidate		                  	"ELLIS, Annette"		             	"MORISON, Ian"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		15	83.33		3	16.67		18
+		"ULASOWSKI, Nikki (DSL)"	1		1	100		0	0		1
+		"ELLERMAN, Sue (GRN)"	1		1	100		0	0		1
+		"DOBLE, Burl (HAN)"	1		1	100		0	0		1
+		"ENGLAND, Maryan (NLP)"	0		0	0		0	0		0
+		"ONSMAN, Yulia (DEM)"	0		0	0		0	0		0
+		Total	3		18	85.71		3	14.29		21
+
+	Wanniassa										
+		Candidate		                  	"ELLIS, Annette"		             	"MORISON, Ian"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		1389	65.8		722	34.2		2111
+		"ULASOWSKI, Nikki (DSL)"	39		29	74.36		10	25.64		39
+		"ELLERMAN, Sue (GRN)"	76		49	64.47		27	35.53		76
+		"DOBLE, Burl (HAN)"	143		76	53.15		67	46.85		143
+		"ENGLAND, Maryan (NLP)"	5		2	40		3	60		5
+		"ONSMAN, Yulia (DEM)"	184		108	58.7		76	41.3		184
+		Total	447		1653	64.62		905	35.38		2558
+
+	Wanniassa Hills										
+		Candidate		                  	"ELLIS, Annette"		             	"MORISON, Ian"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		1140	57.6		839	42.4		1979
+		"ULASOWSKI, Nikki (DSL)"	32		25	78.13		7	21.88		32
+		"ELLERMAN, Sue (GRN)"	75		58	77.33		17	22.67		75
+		"DOBLE, Burl (HAN)"	115		44	38.26		71	61.74		115
+		"ENGLAND, Maryan (NLP)"	6		5	83.33		1	16.67		6
+		"ONSMAN, Yulia (DEM)"	172		107	62.21		65	37.79		172
+		Total	400		1379	57.97		1000	42.03		2379
+
+	Waramanga										
+		Candidate		                  	"ELLIS, Annette"		             	"MORISON, Ian"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		1514	63.11		885	36.89		2399
+		"ULASOWSKI, Nikki (DSL)"	67		51	76.12		16	23.88		67
+		"ELLERMAN, Sue (GRN)"	127		110	86.61		17	13.39		127
+		"DOBLE, Burl (HAN)"	150		73	48.67		77	51.33		150
+		"ENGLAND, Maryan (NLP)"	10		8	80		2	20		10
+		"ONSMAN, Yulia (DEM)"	246		155	63.01		91	36.99		246
+		Total	600		1911	63.72		1088	36.28		2999
+
+	Weston										
+		Candidate		                  	"ELLIS, Annette"		             	"MORISON, Ian"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		826	62.15		503	37.85		1329
+		"ULASOWSKI, Nikki (DSL)"	14		12	85.71		2	14.29		14
+		"ELLERMAN, Sue (GRN)"	85		71	83.53		14	16.47		85
+		"DOBLE, Burl (HAN)"	89		43	48.31		46	51.69		89
+		"ENGLAND, Maryan (NLP)"	5		4	80		1	20		5
+		"ONSMAN, Yulia (DEM)"	151		90	59.6		61	40.4		151
+		Total	344		1046	62.52		627	37.48		1673
+
+	Yarralumla										
+		Candidate		                  	"ELLIS, Annette"		             	"MORISON, Ian"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		729	58		528	42		1257
+		"ULASOWSKI, Nikki (DSL)"	13		9	69.23		4	30.77		13
+		"ELLERMAN, Sue (GRN)"	77		62	80.52		15	19.48		77
+		"DOBLE, Burl (HAN)"	57		21	36.84		36	63.16		57
+		"ENGLAND, Maryan (NLP)"	10		6	60		4	40		10
+		"ONSMAN, Yulia (DEM)"	113		77	68.14		36	31.86		113
+		Total	270		904	59.2		623	40.8		1527
+
+	Special Hospitals										
+		Candidate		                  	"ELLIS, Annette"		             	"MORISON, Ian"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		182	31.82		390	68.18		572
+		"ULASOWSKI, Nikki (DSL)"	19		16	84.21		3	15.79		19
+		"ELLERMAN, Sue (GRN)"	13		8	61.54		5	38.46		13
+		"DOBLE, Burl (HAN)"	17		6	35.29		11	64.71		17
+		"ENGLAND, Maryan (NLP)"	2		1	50		1	50		2
+		"ONSMAN, Yulia (DEM)"	38		16	42.11		22	57.89		38
+		Total	89		229	34.64		432	65.36		661
+
+	Total Ordinary										
+		Candidate		                  	"ELLIS, Annette"		             	"MORISON, Ian"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		33731	60.06		22428	39.94		56159
+		"ULASOWSKI, Nikki (DSL)"	1043		762	73.06		281	26.94		1043
+		"ELLERMAN, Sue (GRN)"	2463		1846	74.95		617	25.05		2463
+		"DOBLE, Burl (HAN)"	3530		1649	46.71		1881	53.29		3530
+		"ENGLAND, Maryan (NLP)"	183		117	63.93		66	36.07		183
+		"ONSMAN, Yulia (DEM)"	5043		3119	61.85		1924	38.15		5043
+		Total	12262		41224	60.25		27197	39.75		68421
+
+	ABSENT										
+		Candidate		                  	"ELLIS, Annette"		             	"MORISON, Ian"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		891	61.92		548	38.08		1439
+		"ULASOWSKI, Nikki (DSL)"	76		50	65.79		26	34.21		76
+		"ELLERMAN, Sue (GRN)"	133		112	84.21		21	15.79		133
+		"DOBLE, Burl (HAN)"	80		40	50		40	50		80
+		"ENGLAND, Maryan (NLP)"	15		7	46.67		8	53.33		15
+		"ONSMAN, Yulia (DEM)"	151		106	70.2		45	29.8		151
+		Total	455		1206	63.67		688	36.33		1894
+
+	POSTAL										
+		Candidate		                  	"ELLIS, Annette"		             	"MORISON, Ian"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		1926	49.65		1953	50.35		3879
+		"ULASOWSKI, Nikki (DSL)"	28		23	82.14		5	17.86		28
+		"ELLERMAN, Sue (GRN)"	167		118	70.66		49	29.34		167
+		"DOBLE, Burl (HAN)"	285		134	47.02		151	52.98		285
+		"ENGLAND, Maryan (NLP)"	14		4	28.57		10	71.43		14
+		"ONSMAN, Yulia (DEM)"	361		193	53.46		168	46.54		361
+		Total	855		2398	50.65		2336	49.35		4734
+
+	PRE_POLL										
+		Candidate		                  	"ELLIS, Annette"		             	"MORISON, Ian"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		11246	60.6		7313	39.4		18559
+		"ULASOWSKI, Nikki (DSL)"	269		202	75.09		67	24.91		269
+		"ELLERMAN, Sue (GRN)"	994		730	73.44		264	26.56		994
+		"DOBLE, Burl (HAN)"	1198		586	48.91		612	51.09		1198
+		"ENGLAND, Maryan (NLP)"	67		35	52.24		32	47.76		67
+		"ONSMAN, Yulia (DEM)"	1658		1070	64.54		588	35.46		1658
+		Total	4186		13869	60.98		8876	39.02		22745
+
+	PROVISIONAL										
+		Candidate		                  	"ELLIS, Annette"		             	"MORISON, Ian"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		221	70.16		94	29.84		315
+		"ULASOWSKI, Nikki (DSL)"	11		9	81.82		2	18.18		11
+		"ELLERMAN, Sue (GRN)"	17		11	64.71		6	35.29		17
+		"DOBLE, Burl (HAN)"	29		16	55.17		13	44.83		29
+		"ENGLAND, Maryan (NLP)"	2		1	50		1	50		2
+		"ONSMAN, Yulia (DEM)"	24		17	70.83		7	29.17		24
+		Total	83		275	69.1		123	30.9		398
+
+	Division Summary										
+		Candidate		                  	"ELLIS, Annette"		             	"MORISON, Ian"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		48015	59.76		32336	40.24		80351
+		"ULASOWSKI, Nikki (DSL)"	1427		1046	73.3		381	26.7		1427
+		"ELLERMAN, Sue (GRN)"	3774		2817	74.64		957	25.36		3774
+		"DOBLE, Burl (HAN)"	5122		2425	47.34		2697	52.66		5122
+		"ENGLAND, Maryan (NLP)"	281		164	58.36		117	41.64		281
+		"ONSMAN, Yulia (DEM)"	7237		4505	62.25		2732	37.75		7237
+		Total	17841		58972	60.06		39220	39.94		98192
+
+
+
+Fraser (104177)											
+
+	Ainslie										
+		Candidate		                  	"MCMULLAN, Bob"		              	"SMITH, Peter"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		758	71.44		303	28.56		1061
+		"SPENCE, Chris (HAN)"	44		26	59.09		18	40.91		44
+		"BULL, Sue (DSL)"	24		16	66.67		8	33.33		24
+		"CLARKE, Joanne (IND)"	11		6	54.55		5	45.45		11
+		"MCALLISTER, Gordon (GRN)"	79		73	92.41		6	7.59		79
+		"SEATON, David (NLP)"	4		2	50		2	50		4
+		"WOOD, Jason (DEM)"	89		61	68.54		28	31.46		89
+		Total	251		942	71.8		370	28.2		1312
+
+	Ainslie North										
+		Candidate		                  	"MCMULLAN, Bob"		              	"SMITH, Peter"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		1357	73.55		488	26.45		1845
+		"SPENCE, Chris (HAN)"	89		45	50.56		44	49.44		89
+		"BULL, Sue (DSL)"	31		28	90.32		3	9.68		31
+		"CLARKE, Joanne (IND)"	22		16	72.73		6	27.27		22
+		"MCALLISTER, Gordon (GRN)"	167		145	86.83		22	13.17		167
+		"SEATON, David (NLP)"	5		1	20		4	80		5
+		"WOOD, Jason (DEM)"	155		111	71.61		44	28.39		155
+		Total	469		1703	73.6		611	26.4		2314
+
+	Aranda										
+		Candidate		                  	"MCMULLAN, Bob"		              	"SMITH, Peter"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		1384	69.41		610	30.59		1994
+		"SPENCE, Chris (HAN)"	59		23	38.98		36	61.02		59
+		"BULL, Sue (DSL)"	33		29	87.88		4	12.12		33
+		"CLARKE, Joanne (IND)"	20		5	25		15	75		20
+		"MCALLISTER, Gordon (GRN)"	144		124	86.11		20	13.89		144
+		"SEATON, David (NLP)"	4		4	100		0	0		4
+		"WOOD, Jason (DEM)"	208		145	69.71		63	30.29		208
+		Total	468		1714	69.62		748	30.38		2462
+
+	Baker Gardens										
+		Candidate		                  	"MCMULLAN, Bob"		              	"SMITH, Peter"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		410	75.09		136	24.91		546
+		"SPENCE, Chris (HAN)"	28		8	28.57		20	71.43		28
+		"BULL, Sue (DSL)"	17		16	94.12		1	5.88		17
+		"CLARKE, Joanne (IND)"	6		1	16.67		5	83.33		6
+		"MCALLISTER, Gordon (GRN)"	49		43	87.76		6	12.24		49
+		"SEATON, David (NLP)"	3		1	33.33		2	66.67		3
+		"WOOD, Jason (DEM)"	29		24	82.76		5	17.24		29
+		Total	132		503	74.19		175	25.81		678
+
+	Barton										
+		Candidate		                  	"MCMULLAN, Bob"		              	"SMITH, Peter"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		596	55.65		475	44.35		1071
+		"SPENCE, Chris (HAN)"	44		15	34.09		29	65.91		44
+		"BULL, Sue (DSL)"	13		10	76.92		3	23.08		13
+		"CLARKE, Joanne (IND)"	11		7	63.64		4	36.36		11
+		"MCALLISTER, Gordon (GRN)"	60		50	83.33		10	16.67		60
+		"SEATON, David (NLP)"	2		2	100		0	0		2
+		"WOOD, Jason (DEM)"	67		42	62.69		25	37.31		67
+		Total	197		722	56.94		546	43.06		1268
+
+	Belconnen										
+		Candidate		                  	"MCMULLAN, Bob"		              	"SMITH, Peter"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		993	67.05		488	32.95		1481
+		"SPENCE, Chris (HAN)"	55		25	45.45		30	54.55		55
+		"BULL, Sue (DSL)"	27		18	66.67		9	33.33		27
+		"CLARKE, Joanne (IND)"	28		14	50		14	50		28
+		"MCALLISTER, Gordon (GRN)"	83		57	68.67		26	31.33		83
+		"SEATON, David (NLP)"	4		2	50		2	50		4
+		"WOOD, Jason (DEM)"	192		118	61.46		74	38.54		192
+		Total	389		1227	65.61		643	34.39		1870
+
+	Bruce										
+		Candidate		                  	"MCMULLAN, Bob"		              	"SMITH, Peter"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		126	52.07		116	47.93		242
+		"SPENCE, Chris (HAN)"	8		3	37.5		5	62.5		8
+		"BULL, Sue (DSL)"	3		2	66.67		1	33.33		3
+		"CLARKE, Joanne (IND)"	5		4	80		1	20		5
+		"MCALLISTER, Gordon (GRN)"	11		10	90.91		1	9.09		11
+		"SEATON, David (NLP)"	0		0	0		0	0		0
+		"WOOD, Jason (DEM)"	20		14	70		6	30		20
+		Total	47		159	55.02		130	44.98		289
+
+	Campbell										
+		Candidate		                  	"MCMULLAN, Bob"		              	"SMITH, Peter"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		747	47.28		833	52.72		1580
+		"SPENCE, Chris (HAN)"	88		25	28.41		63	71.59		88
+		"BULL, Sue (DSL)"	14		11	78.57		3	21.43		14
+		"CLARKE, Joanne (IND)"	23		11	47.83		12	52.17		23
+		"MCALLISTER, Gordon (GRN)"	75		57	76		18	24		75
+		"SEATON, David (NLP)"	6		2	33.33		4	66.67		6
+		"WOOD, Jason (DEM)"	137		84	61.31		53	38.69		137
+		Total	343		937	48.73		986	51.27		1923
+
+	Charnwood										
+		Candidate		                  	"MCMULLAN, Bob"		              	"SMITH, Peter"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		1708	68.98		768	31.02		2476
+		"SPENCE, Chris (HAN)"	246		141	57.32		105	42.68		246
+		"BULL, Sue (DSL)"	55		41	74.55		14	25.45		55
+		"CLARKE, Joanne (IND)"	51		29	56.86		22	43.14		51
+		"MCALLISTER, Gordon (GRN)"	115		86	74.78		29	25.22		115
+		"SEATON, David (NLP)"	3		1	33.33		2	66.67		3
+		"WOOD, Jason (DEM)"	211		143	67.77		68	32.23		211
+		Total	681		2149	68.07		1008	31.93		3157
+
+	City										
+		Candidate		                  	"MCMULLAN, Bob"		              	"SMITH, Peter"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		434	70.8		179	29.2		613
+		"SPENCE, Chris (HAN)"	26		16	61.54		10	38.46		26
+		"BULL, Sue (DSL)"	24		20	83.33		4	16.67		24
+		"CLARKE, Joanne (IND)"	8		3	37.5		5	62.5		8
+		"MCALLISTER, Gordon (GRN)"	49		39	79.59		10	20.41		49
+		"SEATON, David (NLP)"	1		1	100		0	0		1
+		"WOOD, Jason (DEM)"	82		58	70.73		24	29.27		82
+		Total	190		571	71.11		232	28.89		803
+
+	Dickson										
+		Candidate		                  	"MCMULLAN, Bob"		              	"SMITH, Peter"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		647	71.02		264	28.98		911
+		"SPENCE, Chris (HAN)"	41		19	46.34		22	53.66		41
+		"BULL, Sue (DSL)"	22		19	86.36		3	13.64		22
+		"CLARKE, Joanne (IND)"	13		7	53.85		6	46.15		13
+		"MCALLISTER, Gordon (GRN)"	73		62	84.93		11	15.07		73
+		"SEATON, David (NLP)"	1		0	0		1	100		1
+		"WOOD, Jason (DEM)"	96		65	67.71		31	32.29		96
+		Total	246		819	70.79		338	29.21		1157
+
+	Downer										
+		Candidate		                  	"MCMULLAN, Bob"		              	"SMITH, Peter"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		776	72.25		298	27.75		1074
+		"SPENCE, Chris (HAN)"	67		36	53.73		31	46.27		67
+		"BULL, Sue (DSL)"	12		12	100		0	0		12
+		"CLARKE, Joanne (IND)"	11		6	54.55		5	45.45		11
+		"MCALLISTER, Gordon (GRN)"	69		65	94.2		4	5.8		69
+		"SEATON, David (NLP)"	1		1	100		0	0		1
+		"WOOD, Jason (DEM)"	52		27	51.92		25	48.08		52
+		Total	212		923	71.77		363	28.23		1286
+
+	Evatt										
+		Candidate		                  	"MCMULLAN, Bob"		              	"SMITH, Peter"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		1372	65.9		710	34.1		2082
+		"SPENCE, Chris (HAN)"	169		101	59.76		68	40.24		169
+		"BULL, Sue (DSL)"	21		13	61.9		8	38.1		21
+		"CLARKE, Joanne (IND)"	44		15	34.09		29	65.91		44
+		"MCALLISTER, Gordon (GRN)"	70		47	67.14		23	32.86		70
+		"SEATON, David (NLP)"	11		4	36.36		7	63.64		11
+		"WOOD, Jason (DEM)"	211		133	63.03		78	36.97		211
+		Total	526		1685	64.61		923	35.39		2608
+
+	Evatt South										
+		Candidate		                  	"MCMULLAN, Bob"		              	"SMITH, Peter"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		604	63.98		340	36.02		944
+		"SPENCE, Chris (HAN)"	46		21	45.65		25	54.35		46
+		"BULL, Sue (DSL)"	6		4	66.67		2	33.33		6
+		"CLARKE, Joanne (IND)"	5		3	60		2	40		5
+		"MCALLISTER, Gordon (GRN)"	29		21	72.41		8	27.59		29
+		"SEATON, David (NLP)"	2		2	100		0	0		2
+		"WOOD, Jason (DEM)"	84		51	60.71		33	39.29		84
+		Total	172		706	63.26		410	36.74		1116
+
+	Florey										
+		Candidate		                  	"MCMULLAN, Bob"		              	"SMITH, Peter"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		1057	65.25		563	34.75		1620
+		"SPENCE, Chris (HAN)"	96		52	54.17		44	45.83		96
+		"BULL, Sue (DSL)"	19		18	94.74		1	5.26		19
+		"CLARKE, Joanne (IND)"	18		7	38.89		11	61.11		18
+		"MCALLISTER, Gordon (GRN)"	57		38	66.67		19	33.33		57
+		"SEATON, David (NLP)"	7		4	57.14		3	42.86		7
+		"WOOD, Jason (DEM)"	135		69	51.11		66	48.89		135
+		Total	332		1245	63.78		707	36.22		1952
+
+	Flynn										
+		Candidate		                  	"MCMULLAN, Bob"		              	"SMITH, Peter"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		909	64.88		492	35.12		1401
+		"SPENCE, Chris (HAN)"	97		42	43.3		55	56.7		97
+		"BULL, Sue (DSL)"	29		19	65.52		10	34.48		29
+		"CLARKE, Joanne (IND)"	12		5	41.67		7	58.33		12
+		"MCALLISTER, Gordon (GRN)"	69		51	73.91		18	26.09		69
+		"SEATON, David (NLP)"	6		1	16.67		5	83.33		6
+		"WOOD, Jason (DEM)"	109		75	68.81		34	31.19		109
+		Total	322		1102	63.96		621	36.04		1723
+
+	Giralang										
+		Candidate		                  	"MCMULLAN, Bob"		              	"SMITH, Peter"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		988	64.91		534	35.09		1522
+		"SPENCE, Chris (HAN)"	92		48	52.17		44	47.83		92
+		"BULL, Sue (DSL)"	17		10	58.82		7	41.18		17
+		"CLARKE, Joanne (IND)"	27		12	44.44		15	55.56		27
+		"MCALLISTER, Gordon (GRN)"	55		46	83.64		9	16.36		55
+		"SEATON, David (NLP)"	4		3	75		1	25		4
+		"WOOD, Jason (DEM)"	127		77	60.63		50	39.37		127
+		Total	322		1184	64.21		660	35.79		1844
+
+	Griffith										
+		Candidate		                  	"MCMULLAN, Bob"		              	"SMITH, Peter"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		759	62.52		455	37.48		1214
+		"SPENCE, Chris (HAN)"	44		17	38.64		27	61.36		44
+		"BULL, Sue (DSL)"	8		5	62.5		3	37.5		8
+		"CLARKE, Joanne (IND)"	7		2	28.57		5	71.43		7
+		"MCALLISTER, Gordon (GRN)"	53		42	79.25		11	20.75		53
+		"SEATON, David (NLP)"	2		0	0		2	100		2
+		"WOOD, Jason (DEM)"	81		54	66.67		27	33.33		81
+		Total	195		879	62.38		530	37.62		1409
+
+	Hall										
+		Candidate		                  	"MCMULLAN, Bob"		              	"SMITH, Peter"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		127	58.26		91	41.74		218
+		"SPENCE, Chris (HAN)"	17		6	35.29		11	64.71		17
+		"BULL, Sue (DSL)"	5		4	80		1	20		5
+		"CLARKE, Joanne (IND)"	1		0	0		1	100		1
+		"MCALLISTER, Gordon (GRN)"	12		7	58.33		5	41.67		12
+		"SEATON, David (NLP)"	1		1	100		0	0		1
+		"WOOD, Jason (DEM)"	25		18	72		7	28		25
+		Total	61		163	58.42		116	41.58		279
+
+	Higgins										
+		Candidate		                  	"MCMULLAN, Bob"		              	"SMITH, Peter"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		1087	67.73		518	32.27		1605
+		"SPENCE, Chris (HAN)"	116		56	48.28		60	51.72		116
+		"BULL, Sue (DSL)"	13		10	76.92		3	23.08		13
+		"CLARKE, Joanne (IND)"	34		17	50		17	50		34
+		"MCALLISTER, Gordon (GRN)"	59		49	83.05		10	16.95		59
+		"SEATON, David (NLP)"	7		7	100		0	0		7
+		"WOOD, Jason (DEM)"	158		94	59.49		64	40.51		158
+		Total	387		1320	66.27		672	33.73		1992
+
+	Holt										
+		Candidate		                  	"MCMULLAN, Bob"		              	"SMITH, Peter"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		1105	68.17		516	31.83		1621
+		"SPENCE, Chris (HAN)"	126		62	49.21		64	50.79		126
+		"BULL, Sue (DSL)"	26		19	73.08		7	26.92		26
+		"CLARKE, Joanne (IND)"	24		14	58.33		10	41.67		24
+		"MCALLISTER, Gordon (GRN)"	82		68	82.93		14	17.07		82
+		"SEATON, David (NLP)"	2		0	0		2	100		2
+		"WOOD, Jason (DEM)"	164		93	56.71		71	43.29		164
+		Total	424		1361	66.55		684	33.45		2045
+
+	Jervis Bay										
+		Candidate		                  	"MCMULLAN, Bob"		              	"SMITH, Peter"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		64	54.24		54	45.76		118
+		"SPENCE, Chris (HAN)"	8		4	50		4	50		8
+		"BULL, Sue (DSL)"	0		0	0		0	0		0
+		"CLARKE, Joanne (IND)"	1		1	100		0	0		1
+		"MCALLISTER, Gordon (GRN)"	4		2	50		2	50		4
+		"SEATON, David (NLP)"	1		1	100		0	0		1
+		"WOOD, Jason (DEM)"	2		2	100		0	0		2
+		Total	16		74	55.22		60	44.78		134
+
+	Kaleen										
+		Candidate		                  	"MCMULLAN, Bob"		              	"SMITH, Peter"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		1301	65.91		673	34.09		1974
+		"SPENCE, Chris (HAN)"	147		88	59.86		59	40.14		147
+		"BULL, Sue (DSL)"	27		18	66.67		9	33.33		27
+		"CLARKE, Joanne (IND)"	23		11	47.83		12	52.17		23
+		"MCALLISTER, Gordon (GRN)"	75		51	68		24	32		75
+		"SEATON, David (NLP)"	4		3	75		1	25		4
+		"WOOD, Jason (DEM)"	160		95	59.38		65	40.63		160
+		Total	436		1567	65.02		843	34.98		2410
+
+	Kaleen South										
+		Candidate		                  	"MCMULLAN, Bob"		              	"SMITH, Peter"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		742	63.8		421	36.2		1163
+		"SPENCE, Chris (HAN)"	68		45	66.18		23	33.82		68
+		"BULL, Sue (DSL)"	16		12	75		4	25		16
+		"CLARKE, Joanne (IND)"	20		9	45		11	55		20
+		"MCALLISTER, Gordon (GRN)"	55		31	56.36		24	43.64		55
+		"SEATON, David (NLP)"	3		1	33.33		2	66.67		3
+		"WOOD, Jason (DEM)"	129		58	44.96		71	55.04		129
+		Total	291		898	61.76		556	38.24		1454
+
+	Latham										
+		Candidate		                  	"MCMULLAN, Bob"		              	"SMITH, Peter"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		910	63.99		512	36.01		1422
+		"SPENCE, Chris (HAN)"	139		67	48.2		72	51.8		139
+		"BULL, Sue (DSL)"	20		12	60		8	40		20
+		"CLARKE, Joanne (IND)"	18		8	44.44		10	55.56		18
+		"MCALLISTER, Gordon (GRN)"	57		39	68.42		18	31.58		57
+		"SEATON, David (NLP)"	5		4	80		1	20		5
+		"WOOD, Jason (DEM)"	132		82	62.12		50	37.88		132
+		Total	371		1122	62.58		671	37.42		1793
+
+	Lyneham										
+		Candidate		                  	"MCMULLAN, Bob"		              	"SMITH, Peter"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		1833	74.36		632	25.64		2465
+		"SPENCE, Chris (HAN)"	120		57	47.5		63	52.5		120
+		"BULL, Sue (DSL)"	51		44	86.27		7	13.73		51
+		"CLARKE, Joanne (IND)"	13		6	46.15		7	53.85		13
+		"MCALLISTER, Gordon (GRN)"	188		170	90.43		18	9.57		188
+		"SEATON, David (NLP)"	6		2	33.33		4	66.67		6
+		"WOOD, Jason (DEM)"	220		159	72.27		61	27.73		220
+		Total	598		2271	74.14		792	25.86		3063
+
+	Macgregor										
+		Candidate		                  	"MCMULLAN, Bob"		              	"SMITH, Peter"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		818	68.86		370	31.14		1188
+		"SPENCE, Chris (HAN)"	91		47	51.65		44	48.35		91
+		"BULL, Sue (DSL)"	20		12	60		8	40		20
+		"CLARKE, Joanne (IND)"	18		12	66.67		6	33.33		18
+		"MCALLISTER, Gordon (GRN)"	57		42	73.68		15	26.32		57
+		"SEATON, David (NLP)"	4		1	25		3	75		4
+		"WOOD, Jason (DEM)"	119		74	62.18		45	37.82		119
+		Total	309		1006	67.2		491	32.8		1497
+
+	Macquarie										
+		Candidate		                  	"MCMULLAN, Bob"		              	"SMITH, Peter"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		832	68.09		390	31.91		1222
+		"SPENCE, Chris (HAN)"	97		42	43.3		55	56.7		97
+		"BULL, Sue (DSL)"	18		14	77.78		4	22.22		18
+		"CLARKE, Joanne (IND)"	14		8	57.14		6	42.86		14
+		"MCALLISTER, Gordon (GRN)"	73		62	84.93		11	15.07		73
+		"SEATON, David (NLP)"	4		1	25		3	75		4
+		"WOOD, Jason (DEM)"	120		75	62.5		45	37.5		120
+		Total	326		1034	66.8		514	33.2		1548
+
+	Melba										
+		Candidate		                  	"MCMULLAN, Bob"		              	"SMITH, Peter"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		770	63.37		445	36.63		1215
+		"SPENCE, Chris (HAN)"	71		32	45.07		39	54.93		71
+		"BULL, Sue (DSL)"	12		6	50		6	50		12
+		"CLARKE, Joanne (IND)"	15		6	40		9	60		15
+		"MCALLISTER, Gordon (GRN)"	55		49	89.09		6	10.91		55
+		"SEATON, David (NLP)"	4		1	25		3	75		4
+		"WOOD, Jason (DEM)"	117		63	53.85		54	46.15		117
+		Total	274		927	62.26		562	37.74		1489
+
+	Narrabundah										
+		Candidate		                  	"MCMULLAN, Bob"		              	"SMITH, Peter"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		1042	72.71		391	27.29		1433
+		"SPENCE, Chris (HAN)"	86		51	59.3		35	40.7		86
+		"BULL, Sue (DSL)"	24		22	91.67		2	8.33		24
+		"CLARKE, Joanne (IND)"	21		16	76.19		5	23.81		21
+		"MCALLISTER, Gordon (GRN)"	84		70	83.33		14	16.67		84
+		"SEATON, David (NLP)"	1		0	0		1	100		1
+		"WOOD, Jason (DEM)"	92		60	65.22		32	34.78		92
+		Total	308		1261	72.43		480	27.57		1741
+
+	Ngunnawal										
+		Candidate		                  	"MCMULLAN, Bob"		              	"SMITH, Peter"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		1144	61.74		709	38.26		1853
+		"SPENCE, Chris (HAN)"	99		45	45.45		54	54.55		99
+		"BULL, Sue (DSL)"	24		18	75		6	25		24
+		"CLARKE, Joanne (IND)"	15		5	33.33		10	66.67		15
+		"MCALLISTER, Gordon (GRN)"	67		44	65.67		23	34.33		67
+		"SEATON, David (NLP)"	6		3	50		3	50		6
+		"WOOD, Jason (DEM)"	202		109	53.96		93	46.04		202
+		Total	413		1368	60.37		898	39.63		2266
+
+	Nicholls										
+		Candidate		                  	"MCMULLAN, Bob"		              	"SMITH, Peter"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		995	57.68		730	42.32		1725
+		"SPENCE, Chris (HAN)"	69		35	50.72		34	49.28		69
+		"BULL, Sue (DSL)"	25		16	64		9	36		25
+		"CLARKE, Joanne (IND)"	21		9	42.86		12	57.14		21
+		"MCALLISTER, Gordon (GRN)"	38		25	65.79		13	34.21		38
+		"SEATON, David (NLP)"	10		6	60		4	40		10
+		"WOOD, Jason (DEM)"	181		101	55.8		80	44.2		181
+		Total	344		1187	57.37		882	42.63		2069
+
+	Page										
+		Candidate		                  	"MCMULLAN, Bob"		              	"SMITH, Peter"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		720	66.67		360	33.33		1080
+		"SPENCE, Chris (HAN)"	73		42	57.53		31	42.47		73
+		"BULL, Sue (DSL)"	24		17	70.83		7	29.17		24
+		"CLARKE, Joanne (IND)"	7		3	42.86		4	57.14		7
+		"MCALLISTER, Gordon (GRN)"	57		43	75.44		14	24.56		57
+		"SEATON, David (NLP)"	8		4	50		4	50		8
+		"WOOD, Jason (DEM)"	117		63	53.85		54	46.15		117
+		Total	286		892	65.3		474	34.7		1366
+
+	Palmerston										
+		Candidate		                  	"MCMULLAN, Bob"		              	"SMITH, Peter"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		1525	62.07		932	37.93		2457
+		"SPENCE, Chris (HAN)"	132		67	50.76		65	49.24		132
+		"BULL, Sue (DSL)"	37		27	72.97		10	27.03		37
+		"CLARKE, Joanne (IND)"	25		12	48		13	52		25
+		"MCALLISTER, Gordon (GRN)"	72		47	65.28		25	34.72		72
+		"SEATON, David (NLP)"	7		6	85.71		1	14.29		7
+		"WOOD, Jason (DEM)"	193		119	61.66		74	38.34		193
+		Total	466		1803	61.68		1120	38.32		2923
+
+	Reid										
+		Candidate		                  	"MCMULLAN, Bob"		              	"SMITH, Peter"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		338	67.74		161	32.26		499
+		"SPENCE, Chris (HAN)"	13		7	53.85		6	46.15		13
+		"BULL, Sue (DSL)"	8		7	87.5		1	12.5		8
+		"CLARKE, Joanne (IND)"	5		2	40		3	60		5
+		"MCALLISTER, Gordon (GRN)"	29		23	79.31		6	20.69		29
+		"SEATON, David (NLP)"	3		1	33.33		2	66.67		3
+		"WOOD, Jason (DEM)"	48		31	64.58		17	35.42		48
+		Total	106		409	67.6		196	32.4		605
+
+	Scullin										
+		Candidate		                  	"MCMULLAN, Bob"		              	"SMITH, Peter"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		902	66.37		457	33.63		1359
+		"SPENCE, Chris (HAN)"	129		74	57.36		55	42.64		129
+		"BULL, Sue (DSL)"	27		19	70.37		8	29.63		27
+		"CLARKE, Joanne (IND)"	17		11	64.71		6	35.29		17
+		"MCALLISTER, Gordon (GRN)"	61		46	75.41		15	24.59		61
+		"SEATON, David (NLP)"	5		4	80		1	20		5
+		"WOOD, Jason (DEM)"	138		85	61.59		53	38.41		138
+		Total	377		1141	65.73		595	34.27		1736
+
+	Spence										
+		Candidate		                  	"MCMULLAN, Bob"		              	"SMITH, Peter"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		743	65.64		389	34.36		1132
+		"SPENCE, Chris (HAN)"	90		46	51.11		44	48.89		90
+		"BULL, Sue (DSL)"	10		7	70		3	30		10
+		"CLARKE, Joanne (IND)"	17		7	41.18		10	58.82		17
+		"MCALLISTER, Gordon (GRN)"	49		36	73.47		13	26.53		49
+		"SEATON, David (NLP)"	3		1	33.33		2	66.67		3
+		"WOOD, Jason (DEM)"	111		69	62.16		42	37.84		111
+		Total	280		909	64.38		503	35.62		1412
+
+	Turner										
+		Candidate		                  	"MCMULLAN, Bob"		              	"SMITH, Peter"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		965	78.65		262	21.35		1227
+		"SPENCE, Chris (HAN)"	49		30	61.22		19	38.78		49
+		"BULL, Sue (DSL)"	41		37	90.24		4	9.76		41
+		"CLARKE, Joanne (IND)"	15		8	53.33		7	46.67		15
+		"MCALLISTER, Gordon (GRN)"	163		143	87.73		20	12.27		163
+		"SEATON, David (NLP)"	6		4	66.67		2	33.33		6
+		"WOOD, Jason (DEM)"	115		84	73.04		31	26.96		115
+		Total	389		1271	78.65		345	21.35		1616
+
+	Watson										
+		Candidate		                  	"MCMULLAN, Bob"		              	"SMITH, Peter"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		1252	69.87		540	30.13		1792
+		"SPENCE, Chris (HAN)"	132		52	39.39		80	60.61		132
+		"BULL, Sue (DSL)"	28		28	100		0	0		28
+		"CLARKE, Joanne (IND)"	20		10	50		10	50		20
+		"MCALLISTER, Gordon (GRN)"	117		99	84.62		18	15.38		117
+		"SEATON, David (NLP)"	5		3	60		2	40		5
+		"WOOD, Jason (DEM)"	143		102	71.33		41	28.67		143
+		Total	445		1546	69.11		691	30.89		2237
+
+	Weetangera										
+		Candidate		                  	"MCMULLAN, Bob"		              	"SMITH, Peter"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		997	53.37		871	46.63		1868
+		"SPENCE, Chris (HAN)"	73		23	31.51		50	68.49		73
+		"BULL, Sue (DSL)"	17		14	82.35		3	17.65		17
+		"CLARKE, Joanne (IND)"	18		10	55.56		8	44.44		18
+		"MCALLISTER, Gordon (GRN)"	91		65	71.43		26	28.57		91
+		"SEATON, David (NLP)"	5		3	60		2	40		5
+		"WOOD, Jason (DEM)"	178		116	65.17		62	34.83		178
+		Total	382		1228	54.58		1022	45.42		2250
+
+	Wreck Bay										
+		Candidate		                  	"MCMULLAN, Bob"		              	"SMITH, Peter"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		59	98.33		1	1.67		60
+		"SPENCE, Chris (HAN)"	1		1	100		0	0		1
+		"BULL, Sue (DSL)"	2		2	100		0	0		2
+		"CLARKE, Joanne (IND)"	0		0	0		0	0		0
+		"MCALLISTER, Gordon (GRN)"	0		0	0		0	0		0
+		"SEATON, David (NLP)"	0		0	0		0	0		0
+		"WOOD, Jason (DEM)"	1		1	100		0	0		1
+		Total	4		63	98.44		1	1.56		64
+
+	Prison Mobiles										
+		Candidate		                  	"MCMULLAN, Bob"		              	"SMITH, Peter"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		0	0		0	0		0
+		"SPENCE, Chris (HAN)"	0		0	0		0	0		0
+		"BULL, Sue (DSL)"	0		0	0		0	0		0
+		"CLARKE, Joanne (IND)"	0		0	0		0	0		0
+		"MCALLISTER, Gordon (GRN)"	0		0	0		0	0		0
+		"SEATON, David (NLP)"	0		0	0		0	0		0
+		"WOOD, Jason (DEM)"	0		0	0		0	0		0
+		Total	0		0	0		0	0		0
+
+	Special Hospitals										
+		Candidate		                  	"MCMULLAN, Bob"		              	"SMITH, Peter"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		252	53.39		220	46.61		472
+		"SPENCE, Chris (HAN)"	7		5	71.43		2	28.57		7
+		"BULL, Sue (DSL)"	4		3	75		1	25		4
+		"CLARKE, Joanne (IND)"	5		2	40		3	60		5
+		"MCALLISTER, Gordon (GRN)"	6		6	100		0	0		6
+		"SEATON, David (NLP)"	0		0	0		0	0		0
+		"WOOD, Jason (DEM)"	11		5	45.45		6	54.55		11
+		Total	33		273	54.06		232	45.94		505
+
+	Total Ordinary										
+		Candidate		                  	"MCMULLAN, Bob"		              	"SMITH, Peter"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		36148	65.91		18697	34.09		54845
+		"SPENCE, Chris (HAN)"	3292		1647	50.03		1645	49.97		3292
+		"BULL, Sue (DSL)"	854		659	77.17		195	22.83		854
+		"CLARKE, Joanne (IND)"	689		340	49.35		349	50.65		689
+		"MCALLISTER, Gordon (GRN)"	2858		2273	79.53		585	20.47		2858
+		"SEATON, David (NLP)"	166		88	53.01		78	46.99		166
+		"WOOD, Jason (DEM)"	4961		3109	62.67		1852	37.33		4961
+		Total	12820		44264	65.42		23401	34.58		67665
+
+	ABSENT										
+		Candidate		                  	"MCMULLAN, Bob"		              	"SMITH, Peter"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		908	64.35		503	35.65		1411
+		"SPENCE, Chris (HAN)"	83		44	53.01		39	46.99		83
+		"BULL, Sue (DSL)"	30		22	73.33		8	26.67		30
+		"CLARKE, Joanne (IND)"	17		8	47.06		9	52.94		17
+		"MCALLISTER, Gordon (GRN)"	113		99	87.61		14	12.39		113
+		"SEATON, David (NLP)"	10		2	20		8	80		10
+		"WOOD, Jason (DEM)"	132		76	57.58		56	42.42		132
+		Total	385		1159	64.53		637	35.47		1796
+
+	POSTAL										
+		Candidate		                  	"MCMULLAN, Bob"		              	"SMITH, Peter"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		2172	53.47		1890	46.53		4062
+		"SPENCE, Chris (HAN)"	366		158	43.17		208	56.83		366
+		"BULL, Sue (DSL)"	57		32	56.14		25	43.86		57
+		"CLARKE, Joanne (IND)"	72		30	41.67		42	58.33		72
+		"MCALLISTER, Gordon (GRN)"	220		180	81.82		40	18.18		220
+		"SEATON, David (NLP)"	11		2	18.18		9	81.82		11
+		"WOOD, Jason (DEM)"	395		250	63.29		145	36.71		395
+		Total	1121		2824	54.49		2359	45.51		5183
+
+	PRE_POLL										
+		Candidate		                  	"MCMULLAN, Bob"		              	"SMITH, Peter"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		11080	65.21		5911	34.79		16991
+		"SPENCE, Chris (HAN)"	1014		510	50.3		504	49.7		1014
+		"BULL, Sue (DSL)"	262		200	76.34		62	23.66		262
+		"CLARKE, Joanne (IND)"	273		144	52.75		129	47.25		273
+		"MCALLISTER, Gordon (GRN)"	1140		937	82.19		203	17.81		1140
+		"SEATON, David (NLP)"	66		42	63.64		24	36.36		66
+		"WOOD, Jason (DEM)"	1630		1067	65.46		563	34.54		1630
+		Total	4385		13980	65.4		7396	34.6		21376
+
+	PROVISIONAL										
+		Candidate		                  	"MCMULLAN, Bob"		              	"SMITH, Peter"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		265	75.28		87	24.72		352
+		"SPENCE, Chris (HAN)"	18		13	72.22		5	27.78		18
+		"BULL, Sue (DSL)"	11		7	63.64		4	36.36		11
+		"CLARKE, Joanne (IND)"	6		4	66.67		2	33.33		6
+		"MCALLISTER, Gordon (GRN)"	40		35	87.5		5	12.5		40
+		"SEATON, David (NLP)"	5		5	100		0	0		5
+		"WOOD, Jason (DEM)"	39		24	61.54		15	38.46		39
+		Total	119		353	74.95		118	25.05		471
+
+	Division Summary										
+		Candidate		                  	"MCMULLAN, Bob"		              	"SMITH, Peter"			Total
+				                           	ALP		                        	LP			
+				                           	Votes	%	                     	Votes	%		
+			1st Prefs		50573	65.12		27088	34.88		77661
+		"SPENCE, Chris (HAN)"	4773		2372	49.7		2401	50.3		4773
+		"BULL, Sue (DSL)"	1214		920	75.78		294	24.22		1214
+		"CLARKE, Joanne (IND)"	1057		526	49.76		531	50.24		1057
+		"MCALLISTER, Gordon (GRN)"	4371		3524	80.62		847	19.38		4371
+		"SEATON, David (NLP)"	258		139	53.88		119	46.12		258
+		"WOOD, Jason (DEM)"	7157		4526	63.24		2631	36.76		7157
+		Total	18830		62580	64.86		33911	35.14		96491

@@ -1,0 +1,447 @@
+Senate - 1998 Election: Western Australia																					
+Result of the Transfer and Distribution of Preferences																					
+Election of 6 Senators																					
+																					
+Quota = 1064078 +1 =  152012																					
+	         6+1																				
+																					
+				First			Count 2			Count 3			Count 4								
+				Preference		Votes	Progress		Votes	Progress		Votes	Progress								
+	Candidate			Votes	Status	Transfd	Totals	Status 	Transfd	Totals	Status	 Transfd	Totals	Status							
+																					
+A	"FISCHER, John"	HAN		109658		98	109756		91	109847		17	109864								
+A	"TINCKNELL, Colin"	HAN		413		2	415		2	417		2	419								
+A	"SUTER, Martin"	HAN		223		0	223		1	224		0	224								
+																					
+B	"MOTTERAM, Raymond William"	ASP		3727		5	3732		11	3743		2	3745								
+B	"TAYLOR, Ken"	ASP		27		0	27		1	28		0	28		
+															
+C	"MORGAN, Beryle"	NP		13305		35	13340		4	13344		7	13351		
+C	"MASLEN, Dudley"	NP		124		1	125		0	125		2	127		
+															
+D	"KAILIS, George"	NLP		2121		11	2132		3	2135		2	2137		
+D	"D'CRUZ, Cathryn"	NLP		40		1	41		0	41		0	41		
+															
+E	"ELLISON, Christopher"	LP		405655	Elected	-253643	152012	Elected 	0	152012	Elected	0	152012	Elected	
+E	"CAMPBELL, Ian Gordon"	LP		880		253226	254106	Elected 	0	254106	Elected	-102094	152012	Elected	
+E	"KNOWLES, Sue"	LP		1911		133	2044		5	2049		101981	104030		
+E	"IVANKOVIC, Ivan"	LP		302		13	315		0	315		37	352		
+															
+F	"BATESON, Alan"	TPS		541		3	544		1	545		1	546		
+F	"FINNEY, Rick"	TPS		8		0	8		0	8		0	8		
+															
+G	"WILKES, Ted"	UNI		2212		1	2213		6	2219		0	2219		
+G	"LEUNG, Mai-Yie"	UNI		44		0	44		1	45		1	46		
+G	"CAREY, Michael John"	UNI		15		0	15		0	15		0	15		
+															
+H	"GRIFFIN, Brendan"	ACS		1933		6	1939		5	1944		0	1944		
+H	"JOHNSON, Sam"	ACS		10		1	11		1	12		0	12		
+															
+I	"DRAKE, Tony"	CEC		1477		1	1478		4	1482		0	1482		
+I	"ROBINSON, Jean"	CEC		19		0	19		2	21		0	21		
+															
+J	"COOK, Peter"	ALP		366922	Elected	0	366922	Elected	-214910	152012	Elected	0	152012	Elected	
+J	"EVANS, Chris"	ALP		547		5	552		214262	214814	Elected	0	214814	Elected	
+J	"GRIFFITHS, Rhonda"	ALP		576		0	576		145	721		4	725		
+J	"ELLERY, Sue"	ALP		344		0	344		53	397		1	398		
+J	"ANDERSON, Lois"	ALP		138		1	139		14	153		0	153		
+J	"FOO, Chilip"	ALP		351		1	352		39	391		0	391		
+															
+K	"STEPHEN, Sarah"	DSL		4218		10	4228		24	4252		1	4253		
+K	"JORQUERA, Roberto"	DSL		21		0	21		1	22		0	22		
+															
+L	"MOSELEY, Justin"	CDP		10170		7	10177		8	10185		2	10187		
+L	"JOHNSON, Peter"	CDP		94		0	94		0	94		0	94		
+															
+M	"MARGETTS, Dee"	GWA		60676		26	60702		118	60820		8	60828		
+M	"DAVIES, Kayt"	GWA		155		1	156		0	156		0	156		
+M	"XAMON, Alison"	GWA		232		0	232		2	234		0	234		
+															
+N	"HOBBS, Kate"			4255		0	4255		1	4256		1	4257		
+N	"BESSANT, Morris"			19		0	19		0	19		0	19		
+															
+O	"TORR, Joan"			1171		3	1174		4	1178		0	1178		
+O	"PRATT, C Roger"			38		0	38		0	38		0	38		
+															
+P	"GREIG, Brian"	DEM		66652		24	66676		65	66741		7	66748		
+P	"CRABBE, Stephen G."	DEM		202		0	202		1	203		0	203		
+P	"CLIFFORD, Margot"	DEM		1241		1	1242		4	1246		1	1247		
+															
+Q	"O'DONNELL, Michael"	RPA		1003		0	1003		3	1006		0	1006		
+Q	"McNALLY, Kerry"	RPA		21		0	21		0	21		0	21		
+															
+UG	"GARCIA, Rod"	IND		387		0	387		1	388		0	388		
+															
+	Exhausted Votes			0		10	10		11	21		3	24		
+	Loss by Fraction			0		17	17		16	33		14	47		
+															
+	Total Votes			1064078		253643	1064078		214910	1064078		102094	1064078		
+															
+	Notes		Candidates Elected			Surplus Distributed			Surplus Distributed			Surplus Distributed			
+			"1. ELLISON, C."			"ELLISON, C."			"COOK, P."			"CAMPBELL, I.G."			
+			"2. COOK, P."												
+						Candidate Elected 			Candidate Elected						
+						"3. CAMPBELL, I.G."			"4. EVANS, C."						
+															
+															
+															
+				Count 5			Count 6-10			Count 11-15			Count 16-20		
+			Votes	Progress		Votes	Progress		Votes	Progress		Votes	Progress		
+	Candidate		Transfd	Totals	Status	Transfd	Totals	Status 	Transfd	Totals	Status	 Transfd	Totals	Status	
+A	"FISCHER, John"	HAN	6	109870		8030	117900		313	118213		834	119047		
+A	"TINCKNELL, Colin"	HAN	0	419		-419	0	Excluded	0	0	Excluded	0	0	Excluded	
+A	"SUTER, Martin"	HAN	0	224		-224	0	Excluded	0	0	Excluded	0	0	Excluded	
+															
+B	"MOTTERAM, Raymond William"	ASP	0	3745		-3745	0	Excluded	0	0	Excluded	0	0	Excluded	
+B	"TAYLOR, Ken"	ASP	0	28		-28	0	Excluded	0	0	Excluded	0	0	Excluded	
+															
+C	"MORGAN, Beryle"	NP	0	13351		555	13906		-13906	0	Excluded	0	0	Excluded	
+C	"MASLEN, Dudley"	NP	0	127		-127	0	Excluded	0	0	Excluded	0	0	Excluded	
+															
+D	"KAILIS, George"	NLP	0	2137		-2137	0	Excluded	0	0	Excluded	0	0	Excluded	
+D	"D'CRUZ, Cathryn"	NLP	0	41		-41	0	Excluded	0	0	Excluded	0	0	Excluded	
+															
+E	"ELLISON, Christopher"	LP	0	152012	Elected	0	152012	Elected	0	152012	Elected	0	152012	Elected	
+E	"CAMPBELL, Ian Gordon"	LP	0	152012	Elected	0	152012	Elected	0	152012	Elected	0	152012	Elected	
+E	"KNOWLES, Sue"	LP	2	104032		1823	105855		13259	119114		949	120063		
+E	"IVANKOVIC, Ivan"	LP	0	352		-352	0	Excluded	0	0	Excluded	0	0	Excluded	
+															
+F	"BATESON, Alan"	TPS	0	546		-546	0	Excluded	0	0	Excluded	0	0	Excluded	
+F	"FINNEY, Rick"	TPS	0	8		-8	0	Excluded	0	0	Excluded	0	0	Excluded	
+															
+G	"WILKES, Ted"	UNI	0	2219		-2219	0	Excluded	0	0	Excluded	0	0	Excluded	
+G	"LEUNG, Mai-Yie"	UNI	0	46		-46	0	Excluded	0	0	Excluded	0	0	Excluded	
+G	"CAREY, Michael John"	UNI	0	15		-15	0	Excluded	0	0	Excluded	0	0	Excluded	
+															
+H	"GRIFFIN, Brendan"	ACS	1	1945		-1945	0	Excluded	0	0	Excluded	0	0	Excluded	
+H	"JOHNSON, Sam"	ACS	0	12		-12	0	Excluded	0	0	Excluded	0	0	Excluded	
+															
+I	"DRAKE, Tony"	CEC	0	1482		-1482	0	Excluded	0	0	Excluded	0	0	Excluded	
+I	"ROBINSON, Jean"	CEC	0	21		-21	0	Excluded	0	0	Excluded	0	0	Excluded	
+															
+J	"COOK, Peter"	ALP	0	152012	Elected	0	152012	Elected	0	152012	Elected	0	152012	Elected	
+J	"EVANS, Chris"	ALP	-62802	152012	Elected	0	152012	Elected	0	152012	Elected	0	152012	Elected	
+J	"GRIFFITHS, Rhonda"	ALP	62700	63425		10546	73971		55	74026		7226	81252		
+J	"ELLERY, Sue"	ALP	31	429		-429	0	Excluded	0	0	Excluded	0	0	Excluded	
+J	"ANDERSON, Lois"	ALP	9	162		-162	0	Excluded	0	0	Excluded	0	0	Excluded	
+J	"FOO, Chilip"	ALP	12	403		-403	0	Excluded	0	0	Excluded	0	0	Excluded	
+															
+K	"STEPHEN, Sarah"	DSL	2	4255		-4255	0	Excluded	0	0	Excluded	0	0	Excluded	
+K	"JORQUERA, Roberto"	DSL	0	22		-22	0	Excluded	0	0	Excluded	0	0	Excluded	
+															
+L	"MOSELEY, Justin"	CDP	0	10187		-10187	0	Excluded	0	0	Excluded	0	0	Excluded	
+L	"JOHNSON, Peter"	CDP	0	94		-94	0	Excluded	0	0	Excluded	0	0	Excluded	
+															
+M	"MARGETTS, Dee"	GWA	15	60843		8242	69085		134	69219		-69219	0	Excluded	
+M	"DAVIES, Kayt"	GWA	0	156		-156	0	Excluded	0	0	Excluded	0	0	Excluded	
+M	"XAMON, Alison"	GWA	0	234		-234	0	Excluded	0	0	Excluded	0	0	Excluded	
+															
+N	"HOBBS, Kate"		0	4257		-4257	0	Excluded	0	0	Excluded	0	0	Excluded	
+N	"BESSANT, Morris"		0	19		-19	0	Excluded	0	0	Excluded	0	0	Excluded	
+															
+O	"TORR, Joan"		0	1178		-1178	0	Excluded	0	0	Excluded	0	0	Excluded	
+O	"PRATT, C Roger"		0	38		-38	0	Excluded	0	0	Excluded	0	0	Excluded	
+															
+P	"GREIG, Brian"	DEM	10	66758		8428	75186		132	75318		60105	135423		
+P	"CRABBE, Stephen G."	DEM	0	203		-203	0	Excluded	0	0	Excluded	0	0	Excluded	
+P	"CLIFFORD, Margot"	DEM	0	1247		-1247	0	Excluded	0	0	Excluded	0	0	Excluded	
+															
+Q	"O'DONNELL, Michael"	RPA	0	1006		-1006	0	Excluded	0	0	Excluded	0	0	Excluded	
+Q	"McNALLY, Kerry"	RPA	0	21		-21	0	Excluded	0	0	Excluded	0	0	Excluded	
+															
+UG	"GARCIA, Rod"	IND	0	388		-388	0	Excluded	0	0	Excluded	0	0	Excluded	
+															
+	Exhausted Votes		1	25		78	103		8	111		103	214		
+	Loss by Fraction		13	60		-36	24		5	29		2	31		
+															
+	Total Votes		62802	1064078		37666	1064078		13906	1064078		69219	1064078		
+															
+	Notes		Surplus Distributed			Candidates Excluded				Candidate Excluded			Candidate Excluded		
+	Excluded		"EVANS, C."			"TINCKNELL, C."				"MORGAN, B. "			"MARGETTS, D."		
+						"SUTER, M."									
+						"MOTTERAM, R."									
+						"TAYLOR, K."									
+						"MASLEN, D."									
+						"KAILIS, G."									
+						"D'CRUZ, C."									
+						"IVANKOVIC, I."									
+						"BATESON, A."									
+						"FINNEY, R."									
+						"WILKES, T."									
+						"LEUNG, M."									
+						"CAREY, M.J."									
+						"GRIFFIN, B."									
+						"JOHNSON, S."									
+						"DRAKE, T."									
+						"ROBINSON, J."									
+						"ELLERY, S."									
+						"ANDERSON, L."									
+						"FOO, C."									
+						"STEPHEN, S."									
+						"JORQUERA, R."									
+						"MOSELEY, J."									
+						"JOHNSON, P."									
+						"DAVIES, K."									
+						"XAMON, A."									
+						"HOBBS, K."									
+						"BESSANT, M."									
+						"TORR, J."									
+						"PRATT, C.R."									
+						"CRABBE, S.G."									
+						"CLIFFORD, M."									
+						"O'DONNELL, M."									
+						"McNALLY, K."									
+						"GARCIA, R."									
+															
+															
+															
+				Count 21-25			Count 26								
+			Votes	Progress		Votes	Progress								
+	Candidate		Transfd	Totals	Status	Transfd	Totals	Status 							
+A	"FISCHER, John"	HAN	9409	128456		737	129193								
+A	"TINCKNELL, Colin"	HAN	0	0	Excluded	0	0	Excluded							
+A	"SUTER, Martin"	HAN	0	0	Excluded	0	0	Excluded							
+				0			0								
+B	"MOTTERAM, Raymond William"	ASP	0	0	Excluded	0	0	Excluded							
+B	"TAYLOR, Ken"	ASP	0	0	Excluded	0	0	Excluded							
+				0			0								
+C	"MORGAN, Beryle"	NP	0	0	Excluded	0	0	Excluded							
+C	"MASLEN, Dudley"	NP	0	0	Excluded	0	0	Excluded							
+				0			0								
+D	"KAILIS, George"	NLP	0	0	Excluded	0	0	Excluded							
+D	"D'CRUZ, Cathryn"	NLP	0	0	Excluded	0	0	Excluded							
+				0			0								
+E	"ELLISON, Christopher"	LP	0	152012	Elected	0	152012	Elected							
+E	"CAMPBELL, Ian Gordon"	LP	0	152012	Elected	0	152012	Elected							
+E	"KNOWLES, Sue"	LP	690	120753		53616	174369	Elected							
+E	"IVANKOVIC, Ivan"	LP	0	0	Excluded	0	0	Excluded							
+				0			0								
+F	"BATESON, Alan"	TPS	0	0	Excluded	0	0	Excluded							
+F	"FINNEY, Rick"	TPS	0	0	Excluded	0	0	Excluded							
+				0			0								
+G	"WILKES, Ted"	UNI	0	0	Excluded	0	0	Excluded							
+G	"LEUNG, Mai-Yie"	UNI	0	0	Excluded	0	0	Excluded							
+G	"CAREY, Michael John"	UNI	0	0	Excluded	0	0	Excluded							
+				0			0								
+H	"GRIFFIN, Brendan"	ACS	0	0	Excluded	0	0	Excluded							
+H	"JOHNSON, Sam"	ACS	0	0	Excluded	0	0	Excluded							
+				0			0								
+I	"DRAKE, Tony"	CEC	0	0	Excluded	0	0	Excluded							
+I	"ROBINSON, Jean"	CEC	0	0	Excluded	0	0	Excluded							
+				0			0								
+J	"COOK, Peter"	ALP	0	152012	Elected	0	152012	Elected							
+J	"EVANS, Chris"	ALP	0	152012	Elected	0	152012	Elected							
+J	"GRIFFITHS, Rhonda"	ALP	-81252	0	Excluded	0	0	Excluded							
+J	"ELLERY, Sue"	ALP	0	0	Excluded	0	0	Excluded							
+J	"ANDERSON, Lois"	ALP	0	0	Excluded	0	0	Excluded							
+J	"FOO, Chilip"	ALP	0	0	Excluded	0	0	Excluded							
+				0			0								
+K	"STEPHEN, Sarah"	DSL	0	0	Excluded	0	0	Excluded							
+K	"JORQUERA, Roberto"	DSL	0	0	Excluded	0	0	Excluded							
+				0			0								
+L	"MOSELEY, Justin"	CDP	0	0	Excluded	0	0	Excluded							
+L	"JOHNSON, Peter"	CDP	0	0	Excluded	0	0	Excluded							
+				0			0								
+M	"MARGETTS, Dee"	GWA	0	0	Excluded	0	0	Excluded							
+M	"DAVIES, Kayt"	GWA	0	0	Excluded	0	0	Excluded							
+M	"XAMON, Alison"	GWA	0	0	Excluded	0	0	Excluded							
+				0			0								
+N	"HOBBS, Kate"		0	0	Excluded	0	0	Excluded							
+N	"BESSANT, Morris"		0	0	Excluded	0	0	Excluded							
+				0			0								
+O	"TORR, Joan"		0	0	Excluded	0	0	Excluded							
+O	"PRATT, C Roger"		0	0	Excluded	0	0	Excluded							
+				0			0								
+P	"GREIG, Brian"	DEM	71030	206453		-54441	152012	Elected							
+P	"CRABBE, Stephen G."	DEM	0	0	Excluded	0	0	Excluded							
+P	"CLIFFORD, Margot"	DEM	0	0	Excluded	0	0	Excluded							
+				0			0								
+Q	"O'DONNELL, Michael"	RPA	0	0	Excluded	0	0	Excluded							
+Q	"McNALLY, Kerry"	RPA	0	0	Excluded	0	0	Excluded							
+				0			0								
+UG	"GARCIA, Rod"	IND	0	0	Excluded	0	0	Excluded							
+				0			0								
+	Exhausted Votes		123	337		86	423								
+	Loss by Fraction		0	31		2	33								
+															
+	Total Votes		81252	1064078		54441	1064078								
+															
+	Notes			Candidate Excluded 			Surplus Distributed								
+				"GRIFFITHS, R. "			"GREIG, B."								
+															
+				Candidate Elected 			Candidate Elected								
+				"5. GREIG, B."			"6. KNOWLES, S."								
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															

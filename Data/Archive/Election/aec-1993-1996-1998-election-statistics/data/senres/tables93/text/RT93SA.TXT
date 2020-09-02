@@ -1,0 +1,494 @@
+Senate - 1993 Election: South Australia					
+Registered Group Voting Tickets					
+ 					
+ 					
+Republican Party of Australia					
+ 			Preferences		
+Ticket	Party/Group Name	Candidate Name	Ticket # 1	Ticket # 2	Ticket # 3
+A	Republican Party of Australia	"NASRULLAH, Bilal"	1	1	1
+		"HILL, Peter"	2	2	2
+B	The Green Party South Australia	"FRICKER, Ally"	3	3	3
+		"WEISSMANN, Gerhard"	4	4	4
+C	National Party	"McCALLUM, Nola"	27	35	31
+		"BRADSHAW, Michael"	28	36	32
+D	Call to Australia (Fred Nile) Group	"RODWAY, David"	25	25	25
+		"SQUIRRELL, David"	26	26	26
+E	Australian Labor Party	"BOLKUS, Nick"	29	27	33
+		"FOREMAN, Dominic"	30	28	34
+		"MAGUIRE, Graham"	31	29	35
+		"McDONALD, Rosalie Ann"	32	30	36
+F	"Unendorsed - Liew, Dr Alex"	"LIEW, Dr Alex"	17	17	17
+		"SCHIRRIPA, Douglas"	18	18	18
+G	Australian Democrats	"LEES, Meg"	5	5	5
+		"SWIFT, Stephen"	6	6	6
+		"STOTT DESPOJA, Natasha"	7	7	7
+		"TICKLE, Patricia"	8	8	8
+H	Natural Law Party	"WELLS, Dr Geoff"	11	11	11
+		"MARTIN, Anne"	12	12	12
+		"MORRIS, Dulcie"	13	13	13
+I	Independent EFF	"DWYER, David"	14	14	14
+		"GIDDINGS, Douglas"	15	15	15
+		"GIDDINGS, Vanessa"	16	16	16
+J	Grey Power	"HOLDER, Jack"	19	19	19
+		"PRESTON, Betty"	20	20	20
+		"BOTTAM, Glen"	21	21	21
+K	Australians Against Further Immigration	"MOORE, Evonne"	9	9	9
+		"SMITH, Joe"	10	10	10
+L	Liberal	"VANSTONE, Amanda"	33	31	27
+		"MINCHIN, Nick"	34	32	28
+		"FERGUSON, Alan"	35	33	29
+		"GUPTA, Satish"	36	34	30
+UG	Independent	"RICE, Mark"	22	22	22
+UG	Independent	"BROOM, Bernard William"	23	23	23
+UG	Independent	"SMITH, E.C. (Ean)"	24	24	24
+
+
+The Green Party South Australia					
+
+Ticket	Party/Group Name	Candidate Name	Preferences		
+A	Republican Party of Australia	"NASRULLAH, Bilal"	3
+		"HILL, Peter"	4
+B	The Green Party South Australia	"FRICKER, Ally"	1
+		"WEISSMANN, Gerhard"	2
+C	National Party	"McCALLUM, Nola"	35
+		"BRADSHAW, Michael"	36
+D	Call to Australia (Fred Nile) Group	"RODWAY, David"	33
+		"SQUIRRELL, David"	34
+E	Australian Labor Party	"BOLKUS, Nick"	19
+		"FOREMAN, Dominic"	20
+		"MAGUIRE, Graham"	21
+		"McDONALD, Rosalie Ann"	22
+F	"Unendorsed - Liew, Dr Alex"	"LIEW, Dr Alex"	14
+		"SCHIRRIPA, Douglas"	15
+G	Australian Democrats	"LEES, Meg"	5
+		"SWIFT, Stephen"	6
+		"STOTT DESPOJA, Natasha"	7
+		"TICKLE, Patricia"	8
+H	Natural Law Party	"WELLS, Dr Geoff"	11
+		"MARTIN, Anne"	12
+		"MORRIS, Dulcie"	13
+I	Independent EFF	"DWYER, David"	30
+		"GIDDINGS, Douglas"	31
+		"GIDDINGS, Vanessa"	32
+J	Grey Power	"HOLDER, Jack"	27
+		"PRESTON, Betty"	28
+		"BOTTAM, Glen"	29
+K	Australians Against Further Immigration	"MOORE, Evonne"	9
+		"SMITH, Joe"	10
+L	Liberal	"VANSTONE, Amanda"	23
+		"MINCHIN, Nick"	24
+		"FERGUSON, Alan"	25
+		"GUPTA, Satish"	26
+UG	Independent	"RICE, Mark"	16
+UG	Independent	"BROOM, Bernard William"	17
+UG	Independent	"SMITH, E.C. (Ean)"	18
+
+
+National Party			
+
+Ticket	Party/Group Name	Candidate Name	Preferences
+A	Republican Party of Australia	"NASRULLAH, Bilal"	35
+		"HILL, Peter"	36
+B	The Green Party South Australia	"FRICKER, Ally"	27
+		"WEISSMANN, Gerhard"	28
+C	National Party	"McCALLUM, Nola"	1
+		"BRADSHAW, Michael"	2
+D	Call to Australia (Fred Nile) Group	"RODWAY, David"	7
+		"SQUIRRELL, David"	8
+E	Australian Labor Party	"BOLKUS, Nick"	31
+		"FOREMAN, Dominic"	32
+		"MAGUIRE, Graham"	33
+		"McDONALD, Rosalie Ann"	34
+F	"Unendorsed - Liew, Dr Alex"	"LIEW, Dr Alex"	22
+		"SCHIRRIPA, Douglas"	23
+G	Australian Democrats	"LEES, Meg"	18
+		"SWIFT, Stephen"	19
+		"STOTT DESPOJA, Natasha"	20
+		"TICKLE, Patricia"	21
+H	Natural Law Party	"WELLS, Dr Geoff"	24
+		"MARTIN, Anne"	25
+		"MORRIS, Dulcie"	26
+I	Independent EFF	"DWYER, David"	9
+		"GIDDINGS, Douglas"	10
+		"GIDDINGS, Vanessa"	11
+J	Grey Power	"HOLDER, Jack"	12
+		"PRESTON, Betty"	13
+		"BOTTAM, Glen"	14
+K	Australians Against Further Immigration	"MOORE, Evonne"	29
+		"SMITH, Joe"	30
+L	Liberal	"VANSTONE, Amanda"	3
+		"MINCHIN, Nick"	4
+		"FERGUSON, Alan"	5
+		"GUPTA, Satish"	6
+UG	Independent	"RICE, Mark"	15
+UG	Independent	"BROOM, Bernard William"	16
+UG	Independent	"SMITH, E.C. (Ean)"	17
+
+
+Call to Australia (Fred Nile) Group			
+
+Ticket	Party/Group Name	Candidate Name	Preferences
+A	Republican Party of Australia	"NASRULLAH, Bilal"	32
+		"HILL, Peter"	33
+B	The Green Party South Australia	"FRICKER, Ally"	30
+		"WEISSMANN, Gerhard"	31
+C	National Party	"McCALLUM, Nola"	7
+		"BRADSHAW, Michael"	8
+D	Call to Australia (Fred Nile) Group	"RODWAY, David"	1
+		"SQUIRRELL, David"	2
+E	Australian Labor Party	"BOLKUS, Nick"	26
+		"FOREMAN, Dominic"	27
+		"MAGUIRE, Graham"	28
+		"McDONALD, Rosalie Ann"	29
+F	"Unendorsed - Liew, Dr Alex"	"LIEW, Dr Alex"	17
+		"SCHIRRIPA, Douglas"	18
+G	Australian Democrats	"LEES, Meg"	22
+		"SWIFT, Stephen"	23
+		"STOTT DESPOJA, Natasha"	24
+		"TICKLE, Patricia"	25
+H	Natural Law Party	"WELLS, Dr Geoff"	19
+		"MARTIN, Anne"	20
+		"MORRIS, Dulcie"	21
+I	Independent EFF	"DWYER, David"	12
+		"GIDDINGS, Douglas"	13
+		"GIDDINGS, Vanessa"	14
+J	Grey Power	"HOLDER, Jack"	9
+		"PRESTON, Betty"	10
+		"BOTTAM, Glen"	11
+K	Australians Against Further Immigration	"MOORE, Evonne"	15
+		"SMITH, Joe"	16
+L	Liberal	"VANSTONE, Amanda"	3
+		"MINCHIN, Nick"	4
+		"FERGUSON, Alan"	5
+		"GUPTA, Satish"	6
+UG	Independent	"RICE, Mark"	34
+UG	Independent	"BROOM, Bernard William"	35
+UG	Independent	"SMITH, E.C. (Ean)"	36
+
+
+Australian Labor Party			
+
+Ticket	Party/Group Name	Candidate Name	Preferences
+A	Republican Party of Australia	"NASRULLAH, Bilal"	14
+		"HILL, Peter"	15
+B	The Green Party South Australia	"FRICKER, Ally"	9
+		"WEISSMANN, Gerhard"	10
+C	National Party	"McCALLUM, Nola"	26
+		"BRADSHAW, Michael"	27
+D	Call to Australia (Fred Nile) Group	"RODWAY, David"	16
+		"SQUIRRELL, David"	17
+E	Australian Labor Party	"BOLKUS, Nick"	1
+		"FOREMAN, Dominic"	2
+		"MAGUIRE, Graham"	3
+		"McDONALD, Rosalie Ann"	4
+F	"Unendorsed - Liew, Dr Alex"	"LIEW, Dr Alex"	24
+		"SCHIRRIPA, Douglas"	25
+G	Australian Democrats	"LEES, Meg"	5
+		"SWIFT, Stephen"	6
+		"STOTT DESPOJA, Natasha"	7
+		"TICKLE, Patricia"	8
+H	Natural Law Party	"WELLS, Dr Geoff"	18
+		"MARTIN, Anne"	19
+		"MORRIS, Dulcie"	20
+I	Independent EFF	"DWYER, David"	21
+		"GIDDINGS, Douglas"	22
+		"GIDDINGS, Vanessa"	23
+J	Grey Power	"HOLDER, Jack"	11
+		"PRESTON, Betty"	12
+		"BOTTAM, Glen"	13
+K	Australians Against Further Immigration	"MOORE, Evonne"	28
+		"SMITH, Joe"	29
+L	Liberal	"VANSTONE, Amanda"	30
+		"MINCHIN, Nick"	31
+		"FERGUSON, Alan"	32
+		"GUPTA, Satish"	33
+UG	Independent	"RICE, Mark"	34
+UG	Independent	"BROOM, Bernard William"	35
+UG	Independent	"SMITH, E.C. (Ean)"	36
+
+
+"Unendorsed - Liew, Dr Alex"			
+
+Ticket	Party/Group Name	Candidate Name	Preferences
+A	Republican Party of Australia	"NASRULLAH, Bilal"	26
+		"HILL, Peter"	25
+B	The Green Party South Australia	"FRICKER, Ally"	28
+		"WEISSMANN, Gerhard"	27
+C	National Party	"McCALLUM, Nola"	12
+		"BRADSHAW, Michael"	11
+D	Call to Australia (Fred Nile) Group	"RODWAY, David"	30
+		"SQUIRRELL, David"	29
+E	Australian Labor Party	"BOLKUS, Nick"	10
+		"FOREMAN, Dominic"	7
+		"MAGUIRE, Graham"	6
+		"McDONALD, Rosalie Ann"	3
+F	"Unendorsed - Liew, Dr Alex"	"LIEW, Dr Alex"	1
+		"SCHIRRIPA, Douglas"	2
+G	Australian Democrats	"LEES, Meg"	36
+		"SWIFT, Stephen"	35
+		"STOTT DESPOJA, Natasha"	34
+		"TICKLE, Patricia"	33
+H	Natural Law Party	"WELLS, Dr Geoff"	21
+		"MARTIN, Anne"	20
+		"MORRIS, Dulcie"	19
+I	Independent EFF	"DWYER, David"	24
+		"GIDDINGS, Douglas"	23
+		"GIDDINGS, Vanessa"	22
+J	Grey Power	"HOLDER, Jack"	15
+		"PRESTON, Betty"	14
+		"BOTTAM, Glen"	13
+K	Australians Against Further Immigration	"MOORE, Evonne"	32
+		"SMITH, Joe"	31	
+L	Liberal	"VANSTONE, Amanda"	9	
+		"MINCHIN, Nick"	8	
+		"FERGUSON, Alan"	5	
+		"GUPTA, Satish"	4	
+UG	Independent	"RICE, Mark"	18	
+UG	Independent	"BROOM, Bernard William"	17	
+UG	Independent	"SMITH, E.C. (Ean)"	16	
+
+
+Australian Democrats				
+			Preferences	
+Ticket	Party/Group Name	Candidate Name	Ticket # 1	Ticket # 2
+A	Republican Party of Australia	"NASRULLAH, Bilal"	10	10
+		"HILL, Peter"	11	11
+B	The Green Party South Australia	"FRICKER, Ally"	5	8
+		"WEISSMANN, Gerhard"	6	9
+C	National Party	"McCALLUM, Nola"	23	19
+		"BRADSHAW, Michael"	24	20
+D	Call to Australia (Fred Nile) Group	"RODWAY, David"	32	29
+		"SQUIRRELL, David"	33	30
+E	Australian Labor Party	"BOLKUS, Nick"	12	21
+		"FOREMAN, Dominic"	13	22
+		"MAGUIRE, Graham"	14	23
+		"McDONALD, Rosalie Ann"	15	24
+F	"Unendorsed - Liew, Dr Alex"	"LIEW, Dr Alex"	25	25
+		"SCHIRRIPA, Douglas"	26	26
+G	Australian Democrats	"LEES, Meg"	1	1
+		"SWIFT, Stephen"	2	2
+		"STOTT DESPOJA, Natasha"	3	3
+		"TICKLE, Patricia"	4	4
+H	Natural Law Party	"WELLS, Dr Geoff"	7	5
+		"MARTIN, Anne"	8	6
+		"MORRIS, Dulcie"	9	7
+I	Independent EFF	"DWYER, David"	29	31
+		"GIDDINGS, Douglas"	30	32
+		"GIDDINGS, Vanessa"	31	33
+J	Grey Power	"HOLDER, Jack"	16	12
+		"PRESTON, Betty"	17	13
+		"BOTTAM, Glen"	18	14
+K	Australians Against Further Immigration	"MOORE, Evonne"	27	27
+		"SMITH, Joe"	28	28
+L	Liberal	"VANSTONE, Amanda"	19	15
+		"MINCHIN, Nick"	20	16
+		"FERGUSON, Alan"	21	17
+		"GUPTA, Satish"	22	18
+UG	Independent	"RICE, Mark"	34	34
+UG	Independent	"BROOM, Bernard William"	35	35
+UG	Independent	"SMITH, E.C. (Ean)"	36	36
+
+
+Natural Law Party				
+			Preferences	
+Ticket	Party/Group Name	Candidate Name	Ticket # 1	Ticket # 2
+A	Republican Party of Australia	"NASRULLAH, Bilal"	23	23
+		"HILL, Peter"	24	24
+B	The Green Party South Australia	"FRICKER, Ally"	8	4
+		"WEISSMANN, Gerhard"	9	5
+C	National Party	"McCALLUM, Nola"	28	28
+		"BRADSHAW, Michael"	29	29
+D	Call to Australia (Fred Nile) Group	"RODWAY, David"	35	35
+		"SQUIRRELL, David"	36	36
+E	Australian Labor Party	"BOLKUS, Nick"	10	10
+		"FOREMAN, Dominic"	11	11
+		"MAGUIRE, Graham"	12	12
+		"McDONALD, Rosalie Ann"	13	13
+F	"Unendorsed - Liew, Dr Alex"	"LIEW, Dr Alex"	21	21
+		"SCHIRRIPA, Douglas"	22	22
+G	Australian Democrats	"LEES, Meg"	4	6
+		"SWIFT, Stephen"	5	7
+		"STOTT DESPOJA, Natasha"	6	8
+		"TICKLE, Patricia"	7	9
+H	Natural Law Party	"WELLS, Dr Geoff"	1	1
+		"MARTIN, Anne"	2	2
+		"MORRIS, Dulcie"	3	3
+I	Independent EFF	"DWYER, David"	25	25
+		"GIDDINGS, Douglas"	26	26
+		"GIDDINGS, Vanessa"	27	27
+J	Grey Power	"HOLDER, Jack"	14	14
+		"PRESTON, Betty"	15	15
+		"BOTTAM, Glen"	16	16
+K	Australians Against Further Immigration	"MOORE, Evonne"	33	33
+		"SMITH, Joe"	34	34
+L	Liberal	"VANSTONE, Amanda"	17	17
+		"MINCHIN, Nick"	18	18
+		"FERGUSON, Alan"	19	19
+		"GUPTA, Satish"	20	20
+UG	Independent	"RICE, Mark"	30	30
+UG	Independent	"BROOM, Bernard William"	31	31
+UG	Independent	"SMITH, E.C. (Ean)"	32	32
+
+
+Independent EFF				
+
+Ticket	Party/Group Name	Candidate Name	Preferences	
+A	Republican Party of Australia	"NASRULLAH, Bilal"	35	
+		"HILL, Peter"	36
+B	The Green Party South Australia	"FRICKER, Ally"	33
+		"WEISSMANN, Gerhard"	34
+C	National Party	"McCALLUM, Nola"	6
+		"BRADSHAW, Michael"	7
+D	Call to Australia (Fred Nile) Group	"RODWAY, David"	4
+		"SQUIRRELL, David"	5
+E	Australian Labor Party	"BOLKUS, Nick"	29
+		"FOREMAN, Dominic"	30
+		"MAGUIRE, Graham"	31
+		"McDONALD, Rosalie Ann"	32
+F	"Unendorsed - Liew, Dr Alex"	"LIEW, Dr Alex"	20
+		"SCHIRRIPA, Douglas"	21
+G	Australian Democrats	"LEES, Meg"	25
+		"SWIFT, Stephen"	26
+		"STOTT DESPOJA, Natasha"	27
+		"TICKLE, Patricia"	28
+H	Natural Law Party	"WELLS, Dr Geoff"	22
+		"MARTIN, Anne"	23
+		"MORRIS, Dulcie"	24
+I	Independent EFF	"DWYER, David"	1
+		"GIDDINGS, Douglas"	2
+		"GIDDINGS, Vanessa"	3
+J	Grey Power	"HOLDER, Jack"	8
+		"PRESTON, Betty"	9
+		"BOTTAM, Glen"	10
+K	Australians Against Further Immigration	"MOORE, Evonne"	11
+		"SMITH, Joe"	12
+L	Liberal	"VANSTONE, Amanda"	13
+		"MINCHIN, Nick"	14
+		"FERGUSON, Alan"	15
+		"GUPTA, Satish"	16
+UG	Independent	"RICE, Mark"	17	
+UG	Independent	"BROOM, Bernard William"	18	
+UG	Independent	"SMITH, E.C. (Ean)"	19	
+
+
+Grey Power				
+			Preferences	
+Ticket	Party/Group Name	Candidate Name	Ticket # 1	Ticket # 2
+A	Republican Party of Australia	"NASRULLAH, Bilal"	17	17
+		"HILL, Peter"	18	18
+B	The Green Party South Australia	"FRICKER, Ally"	19	19
+		"WEISSMANN, Gerhard"	20	20
+C	National Party	"McCALLUM, Nola"	21	21
+		"BRADSHAW, Michael"	22	22
+D	Call to Australia (Fred Nile) Group	"RODWAY, David"	31	31
+		"SQUIRRELL, David"	32	32
+E	Australian Labor Party	"BOLKUS, Nick"	33	33
+		"FOREMAN, Dominic"	34	34
+		"MAGUIRE, Graham"	35	35
+		"McDONALD, Rosalie Ann"	36	36
+F	"Unendorsed - Liew, Dr Alex"	"LIEW, Dr Alex"	7	7
+		"SCHIRRIPA, Douglas"	8	8
+G	Australian Democrats	"LEES, Meg"	27	23
+		"SWIFT, Stephen"	28	24
+		"STOTT DESPOJA, Natasha"	29	25
+		"TICKLE, Patricia"	30	26
+H	Natural Law Party	"WELLS, Dr Geoff"	12	12
+		"MARTIN, Anne"	13	13
+		"MORRIS, Dulcie"	14	14
+I	Independent EFF	"DWYER, David"	9	9
+		"GIDDINGS, Douglas"	10	10
+		"GIDDINGS, Vanessa"	11	11
+J	Grey Power	"HOLDER, Jack"	1	1
+		"PRESTON, Betty"	2	2
+		"BOTTAM, Glen"	3	3
+K	Australians Against Further Immigration	"MOORE, Evonne"	15	15
+		"SMITH, Joe"	16	16
+L	Liberal	"VANSTONE, Amanda"	23	27
+		"MINCHIN, Nick"	24	28
+		"FERGUSON, Alan"	25	29
+		"GUPTA, Satish"	26	30
+UG	Independent	"RICE, Mark"	4	4
+UG	Independent	"BROOM, Bernard William"	5	5
+UG	Independent	"SMITH, E.C. (Ean)"	6	6
+
+
+Australians Against Further Immigration				
+
+Ticket	Party/Group Name	Candidate Name	Preferences
+A	Republican Party of Australia	"NASRULLAH, Bilal"	8
+		"HILL, Peter"	9
+B	The Green Party South Australia	"FRICKER, Ally"	6
+		"WEISSMANN, Gerhard"	7
+C	National Party	"McCALLUM, Nola"	12
+		"BRADSHAW, Michael"	13
+D	Call to Australia (Fred Nile) Group	"RODWAY, David"	10
+		"SQUIRRELL, David"	11
+E	Australian Labor Party	"BOLKUS, Nick"	33
+		"FOREMAN, Dominic"	34
+		"MAGUIRE, Graham"	35
+		"McDONALD, Rosalie Ann"	36
+F	"Unendorsed - Liew, Dr Alex"	"LIEW, Dr Alex"	31
+		"SCHIRRIPA, Douglas"	32
+G	Australian Democrats	"LEES, Meg"	20
+		"SWIFT, Stephen"	21
+		"STOTT DESPOJA, Natasha"	22
+		"TICKLE, Patricia"	23
+H	Natural Law Party	"WELLS, Dr Geoff"	17
+		"MARTIN, Anne"	18
+		"MORRIS, Dulcie"	19
+I	Independent EFF	"DWYER, David"	3
+		"GIDDINGS, Douglas"	4
+		"GIDDINGS, Vanessa"	5
+J	Grey Power	"HOLDER, Jack"	14
+		"PRESTON, Betty"	15
+		"BOTTAM, Glen"	16
+K	Australians Against Further Immigration	"MOORE, Evonne"	1
+		"SMITH, Joe"	2
+L	Liberal	"VANSTONE, Amanda"	24
+		"MINCHIN, Nick"	25
+		"FERGUSON, Alan"	26
+		"GUPTA, Satish"	27
+UG	Independent	"RICE, Mark"	28
+UG	Independent	"BROOM, Bernard William"	29
+UG	Independent	"SMITH, E.C. (Ean)"	30
+
+
+Liberal			
+
+Ticket	Party/Group Name	Candidate Name	Preferences
+A	Republican Party of Australia	"NASRULLAH, Bilal"	20
+		"HILL, Peter"	21
+B	The Green Party South Australia	"FRICKER, Ally"	18
+		"WEISSMANN, Gerhard"	19
+C	National Party	"McCALLUM, Nola"	5
+		"BRADSHAW, Michael"	6
+D	Call to Australia (Fred Nile) Group	"RODWAY, David"	10
+		"SQUIRRELL, David"	11
+E	Australian Labor Party	"BOLKUS, Nick"	33
+		"FOREMAN, Dominic"	34
+		"MAGUIRE, Graham"	35
+		"McDONALD, Rosalie Ann"	36
+F	"Unendorsed - Liew, Dr Alex"	"LIEW, Dr Alex"	29
+		"SCHIRRIPA, Douglas"	30
+G	Australian Democrats	"LEES, Meg"	25
+		"SWIFT, Stephen"	26
+		"STOTT DESPOJA, Natasha"	27
+		"TICKLE, Patricia"	28
+H	Natural Law Party	"WELLS, Dr Geoff"	15
+		"MARTIN, Anne"	16
+		"MORRIS, Dulcie"	17
+I	Independent EFF	"DWYER, David"	7
+		"GIDDINGS, Douglas"	8
+		"GIDDINGS, Vanessa"	9
+J	Grey Power	"HOLDER, Jack"	12
+		"PRESTON, Betty"	13
+		"BOTTAM, Glen"	14
+K	Australians Against Further Immigration	"MOORE, Evonne"	31
+		"SMITH, Joe"	32
+L	Liberal	"VANSTONE, Amanda"	1
+		"MINCHIN, Nick"	2
+		"FERGUSON, Alan"	3
+		"GUPTA, Satish"	4
+UG	Independent	"RICE, Mark"	22
+UG	Independent	"BROOM, Bernard William"	23
+UG	Independent	"SMITH, E.C. (Ean)"	24

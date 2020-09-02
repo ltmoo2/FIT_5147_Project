@@ -1,0 +1,794 @@
+Senate - 1996 Election: Victoria														
+Result of the Transfer and Distribution of Preferences														
+Election of 6 Senators														
+														
+Quota = 2767485  +  1 =  395356														
+6+1														
+														
+				First			Count 2			Count 3			Count 4	
+				Preference		Votes	Progress		Votes	Progress		Votes	Progress	
+	Candidates			Votes	Status	Transfd	Totals	Status	Transfd	Totals	Status	Transfd	Totals	Status
+A	"BORZATTI, Will"	CIR		8912		34	8946		59	9005		2	9007	
+A	"McKAY, Neil"	CIR		128		5	133		5	138		0	138	
+														
+B	"SINGER, Peter"	AGV		79910		62	79972		143	80115		18	80133	
+B	"ALEXANDER, Karen"	AGV		880		2	882		5	887		1	888	
+B	"LUCAS, Helen"	AGV		483		0	483		1	484		0	484	
+														
+C	"MULHOLLAND, John"	DLP		35720		60	35780		77	35857		8	35865	
+C	"CAHILL, Paul"	DLP		138		7	145		12	157		1	158	
+C	"ROWE, Michael"	DLP		71		1	72		5	77		1	78	
+C	"CREA, Pat"	DLP		47		0	47		3	50		0	50	
+C	"CODY, Matthew"	DLP		29		0	29		3	32		0	32	
+C	"DODD, Christine"	DLP		151		3	154		1	155		0	155	
+														
+D	"ALSTON, Richard K R"	LP		1143270	Elected	-747914	395356	Elected	0	395356	Elected	0	395356	Elected
+D	"KEMP, Rod"	LP		932		747109	748041	Elected	0	748041	Elected	-352685	395356	Elected
+D	"PATTERSON, Kay"	LP		1135		183	1318		29	1347		352440	353787	
+D	"ETTERY, Robert John"	NP		668		47	715		1	716		71	787	
+D	"HEAD, Robyne L"	LP		252		22	274		1	275		23	298	
+D	"FERNANDEZ, Anthony G"	LP		398		26	424		2	426		20	446	
+ 	 													
+E	"RAY, Robert Francis"	ALP		1097129	Elected	0	1097129	Elected	-701773	395356	Elected	0	395356	Elected
+E	"COONEY, Barney"	ALP		947		37	984		700338	701322	Elected	0	701322	Elected
+E	"GILLARD, Julia"	ALP		2099		5	2104		431	2535		6	2541	
+E	"RAYMOND, Melanie"	ALP		1322		3	1325		161	1486		0	1486	
+														
+F	"McCORMACK, Denis"	AFI		40265		71	40336		67	40403		16	40419	
+F	"SPENCER, Robyn Marion"	AFI		342		2	344		9	353		0	353	
+ 														
+G	"ALLISON, Lyn"	DEM		299191		149	299340		325	299665		45	299710	
+G	"McLAREN, John"	DEM		444		4	448		12	460		1	461	
+G	"LEVY, Laurie"	DEM		645		2	647		12	659		1	660	
+G	"WHITE, Marj"	DEM		568		1	569		1	570		0	570	
+														
+H	"GRIFFITH, Stephen"	NLP		6593		9	6602		6	6608		1	6609	
+H	"MASON, Ngaire"	NLP		88		0	88		1	89		0	89	
+														
+I	"DAHAN, Paul"	RPA		2207		1	2208		3	2211		0	2211	
+I	"BERGEN, Des"	ABR		42		0	42		0	42		0	42	
+														
+J	"TOSCANO, Joe"			1998		1	1999		1	2000		0	2000	
+J	"ROPER, Steve"			40		0	40		0	40		0	40	
+														
+K	"WOOD, Colin F"	ASP		19433		18	19451		14	19465		4	19469	
+K	"SAYERS, Neville"	ASP		85		0	85		0	85		0	85	
+K	"FLIEGNER, Gary"	ASP		55		0	55		0	55		0	55	
+														
+L	"COOK, Ken"	CTA		16349		15	16364		6	16370		5	16375	
+L	"CHAPMAN, Christine"	CTA		148		0	148		0	148		0	148	
+														
+Ungrouped														
+	"RASKOVY, Steve"	IND		619		1	620		1	621		0	621	
+ 	"SMITH, Maurie"	IND		150		0	150		0	150		0	150	
+ 	"GOOD, Michael"	IND		110		0	110		0	110		0	110	
+	"GREEN, Neil"	IND		75		0	75		0	75		0	75	
+ 	"ABBOTTO, John M"	IND		96		0	96		0	96		0	96	
+ 	"ARMSTRONG, David"	IND		3321		2	3323		7	3330		0	3330	
+														
+	Exhausted Votes			0		11	11		14	25		6	31	
+	Loss by Fraction			0		21	21		17	38		15	53	
+														
+	Total Votes			2767485		747914	2767485		701773	2767485		352685	2767485	
+														
+	Notes		Candidates Elected:			Surplus Distributed			Surplus Distributed			Surplus Distributed		
+			"1. Alston, R"			"Alston, R"			"Ray, R"			"Kemp, R"		
+			"2. Ray, R"											
+						Candidate Elected			Candidate Elected					
+						"3. Kemp, R"			"4. Cooney, B"					
+														
+														
+														
+				Count 5			Count 6-8			Count 9-10			Count 11-13	
+			Votes 	Progress		Votes	Progress		Votes	Progress		Votes	Progress	
+	Candidates		Transfd	Total	Status	Transfd	Totals	Status	Transfd	Totals	Status	Transfd	Totals	Status
+A	"BORZATTI, Will"	CIR	2	9009		0	9009		0	9009		0	9009	
+A	"McKAY, Neil"	CIR	0	138		1	139		1	140		0	140	
+														
+B	"SINGER, Peter"	AGV	24	80157		1	80158		0	80158		5	80163	
+B	"ALEXANDER, Karen"	AGV	1	889		1	890		0	890		0	890	
+B	"LUCAS, Helen"	AGV	0	484		1	485		0	485		0	485	
+														
+C	"MULHOLLAND, John"	DLP	11	35876		6	35882		0	35882		0	35882	
+C	"CAHILL, Paul"	DLP	3	161		5	166		1	167		0	167	
+C	"ROWE, Michael"	DLP	1	79		0	79		0	79		0	79	
+C	"CREA, Pat"	DLP	0	50		3	53		0	53		0	53	
+C	"CODY, Matthew"	DLP	0	32		-32	0	Excluded	0	0	Excluded	0	0	Excluded
+C	"DODD, Christine"	DLP	0	155		9	164		0	164		0	164	
+														
+D	"ALSTON, Richard K R"	LP	0	395356	Elected	0	395356	Elected	0	395356	Elected	0	395356	Elected
+D	"KEMP, Rod"	LP	0	395356	Elected	0	395356	Elected	0	395356	Elected	0	395356	Elected
+D	"PATTERSON, Kay"	LP	19	353806		0	353806		1	353807		2	353809	
+D	"ETTERY, Robert John"	NP	0	787		0	787		0	787		0	787	
+D	"HEAD, Robyne L"	LP	0	298		0	298		0	298		0	298	
+D	"FERNANDEZ, Anthony G"	LP	1	447		0	447		0	447		0	447	
+ 	 													
+E	"RAY, Robert Francis"	ALP	0	395356	Elected	0	395356	Elected	0	395356	Elected	0	395356	Elected
+E	"COONEY, Barney"	ALP	-305966	395356	Elected	0	395356	Elected	0	395356	Elected	0	395356	Elected
+E	"GILLARD, Julia"	ALP	305727	308268		1	308269		2	308271		1	308272	
+E	"RAYMOND, Melanie"	ALP	68	1554		0	1554		0	1554		0	1554	
+														
+F	"McCORMACK, Denis"	AFI	13	40432		1	40433		0	40433		0	40433	
+F	"SPENCER, Robyn Marion"	AFI	1	354		0	354		0	354		0	354	
+ 														
+G	"ALLISON, Lyn"	DEM	65	299775		0	299775		1	299776		2	299778	
+G	"McLAREN, John"	DEM	1	462		0	462		0	462		1	463	
+G	"LEVY, Laurie"	DEM	2	662		0	662		0	662		1	663	
+G	"WHITE, Marj"	DEM	0	570		0	570		0	570		0	570	
+														
+H	"GRIFFITH, Stephen"	NLP	1	6610		0	6610		0	6610		1	6611	
+H	"MASON, Ngaire"	NLP	0	89		1	90		0	90		0	90	
+														
+I	"DAHAN, Paul"	RPA	1	2212		0	2212		0	2212		25	2237	
+I	"BERGEN, Des"	ABR	0	42		0	42		0	42		-42	0	Excluded
+														
+J	"TOSCANO, Joe"		0	2000		0	2000		30	2030		4	2034	
+J	"ROPER, Steve"		0	40		0	40		-40	0	Excluded	0	0	Excluded
+														
+K	"WOOD, Colin F"	ASP	3	19472		0	19472		3	19475		0	19475	
+K	"SAYERS, Neville"	ASP	0	85		0	85		0	85		0	85	
+K	"FLIEGNER, Gary"	ASP	0	55		0	55		0	55		0	55	
+														
+L	"COOK, Ken"	CTA	2	16377		0	16377		1	16378		0	16378	
+L	"CHAPMAN, Christine"	CTA	0	148		0	148		0	148		0	148	
+														
+Ungrouped														
+	"RASKOVY, Steve"	IND	0	621		0	621		0	621		0	621	
+ 	"SMITH, Maurie"	IND	0	150		0	150		0	150		0	150	
+ 	"GOOD, Michael"	IND	0	110		0	110		0	110		0	110	
+	"GREEN, Neil"	IND	0	75		0	75		0	75		0	75	
+ 	"ABBOTTO, John M"	IND	0	96		0	96		0	96		0	96	
+ 	"ARMSTRONG, David"	IND	1	3331		0	3331		0	3331		0	3331	
+														
+	Exhausted Votes		4	35		0	35		0	35		0	35	
+	Loss by Fraction		15	68		2	70		0	70		0	70	
+														
+	Total Votes		305966	2767485		32	2767485		40	2767485		42	2767485	
+														
+	Notes		Surplus Distributed			Candidate Excluded			Candidate Excluded			Candidate Excluded		
+			"Cooney, B"			"Cody, M"			"Roper, S"			"Bergen, D"		
+														
+														
+														
+				Count 14-16			Count 17-19			Count 20-22			Count 23-25	
+			Votes 	Progress		Votes	Progress		Votes	Progress		Votes	Progress	
+	Candidates		Transfd	Total	Status	Transfd	Totals	Status	Transfd	Totals	Status	Transfd	Totals	Status
+A	"BORZATTI, Will"	CIR	2	9011		0	9011		0	9011		1	9012	
+A	"McKAY, Neil"	CIR	0	140		0	140		0	140		0	140	
+														
+B	"SINGER, Peter"	AGV	0	80163		1	80164		1	80165		3	80168	
+B	"ALEXANDER, Karen"	AGV	1	891		0	891		1	892		1	893	
+B	"LUCAS, Helen"	AGV	0	485		0	485		2	487		1	488	
+														
+C	"MULHOLLAND, John"	DLP	10	35892		0	35892		1	35893		0	35893	
+C	"CAHILL, Paul"	DLP	2	169		0	169		0	169		0	169	
+C	"ROWE, Michael"	DLP	13	92		0	92		0	92		0	92	
+C	"CREA, Pat"	DLP	-53	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+C	"CODY, Matthew"	DLP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+C	"DODD, Christine"	DLP	12	176		0	176		0	176		0	176	
+														
+D	"ALSTON, Richard K R"	LP	0	395356	Elected	0	395356	Elected	0	395356	Elected	0	395356	Elected
+D	"KEMP, Rod"	LP	0	395356	Elected	0	395356	Elected	0	395356	Elected	0	395356	Elected
+D	"PATTERSON, Kay"	LP	4	353813		2	353815		2	353817		1	353818	
+D	"ETTERY, Robert John"	NP	1	788		0	788		0	788		0	788	
+D	"HEAD, Robyne L"	LP	0	298		0	298		0	298		0	298	
+D	"FERNANDEZ, Anthony G"	LP	1	448		0	448		0	448		0	448	
+ 	 													
+E	"RAY, Robert Francis"	ALP	0	395356	Elected	0	395356	Elected	0	395356	Elected	0	395356	Elected
+E	"COONEY, Barney"	ALP	0	395356	Elected	0	395356	Elected	0	395356	Elected	0	395356	Elected
+E	"GILLARD, Julia"	ALP	0	308272		1	308273		0	308273		3	308276	
+E	"RAYMOND, Melanie"	ALP	1	1555		1	1556		1	1557		0	1557	
+														
+F	"McCORMACK, Denis"	AFI	1	40434		1	40435		1	40436		1	40437	
+F	"SPENCER, Robyn Marion"	AFI	0	354		1	355		1	356		2	358	
+ 														
+G	"ALLISON, Lyn"	DEM	2	299780		0	299780		1	299781		1	299782	
+G	"McLAREN, John"	DEM	0	463		0	463		1	464		0	464	
+G	"LEVY, Laurie"	DEM	0	663		0	663		1	664		1	665	
+G	"WHITE, Marj"	DEM	0	570		1	571		0	571		1	572	
+														
+H	"GRIFFITH, Stephen"	NLP	0	6611		0	6611		0	6611		67	6678	
+H	"MASON, Ngaire"	NLP	0	90		0	90		0	90		-90	0	Excluded
+														
+I	"DAHAN, Paul"	RPA	0	2237		0	2237		0	2237		2	2239	
+I	"BERGEN, Des"	ABR	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+J	"TOSCANO, Joe"		0	2034		1	2035		0	2035		1	2036	
+J	"ROPER, Steve"		0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+K	"WOOD, Colin F"	ASP	0	19475		4	19479		0	19479		1	19480	
+K	"SAYERS, Neville"	ASP	0	85		40	125		0	125		0	125	
+K	"FLIEGNER, Gary"	ASP	0	55		-55	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+L	"COOK, Ken"	CTA	0	16378		2	16380		0	16380		0	16380	
+L	"CHAPMAN, Christine"	CTA	0	148		0	148		1	149		0	149	
+														
+Ungrouped														
+	"RASKOVY, Steve"	IND	1	622		0	622		1	623		1	624	
+ 	"SMITH, Maurie"	IND	0	150		0	150		10	160		0	160	
+ 	"GOOD, Michael"	IND	0	110		0	110		23	133		1	134	
+	"GREEN, Neil"	IND	0	75		0	75		-75	0	Excluded	0	0	Excluded
+ 	"ABBOTTO, John M"	IND	0	96		0	96		15	111		0	111	
+ 	"ARMSTRONG, David"	IND	0	3331		0	3331		12	3343		0	3343	
+														
+	Exhausted Votes		0	35		0	35		0	35		0	35	
+	Loss by Fraction		2	72		0	72		0	72		1	73	
+														
+	Total Votes		53	2767485		55	2767485		75	2767485		90	2767485	
+														
+	Notes		Candidate Excluded			Candidate Excluded			Candidate Excluded			Candidate Excluded		
+			"Crea, P"			"Fliegner, G"			"Green, N"			"Mason, N"		
+														
+														
+														
+				Count 26-30			Count 31-33			Count 34-36			Count 37-40	
+			Votes 	Progress		Votes	Progress		Votes	Progress		Votes	Progress	
+	Candidates		Transfd	Total	Status	Transfd	Totals	Status	Transfd	Totals	Status	Transfd	Totals	Status
+A	"BORZATTI, Will"	CIR	3	9015		1	9016		0	9016		1	9017	
+A	"McKAY, Neil"	CIR	2	142		1	143		0	143		2	145	
+														
+B	"SINGER, Peter"	AGV	2	80170		2	80172		1	80173		2	80175	
+B	"ALEXANDER, Karen"	AGV	4	897		0	897		0	897		2	899	
+B	"LUCAS, Helen"	AGV	1	489		0	489		0	489		1	490	
+														
+C	"MULHOLLAND, John"	DLP	11	35904		1	35905		0	35905		1	35906	
+C	"CAHILL, Paul"	DLP	38	207		0	207		0	207		0	207	
+C	"ROWE, Michael"	DLP	-92	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+C	"CREA, Pat"	DLP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+C	"CODY, Matthew"	DLP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+C	"DODD, Christine"	DLP	11	187		1	188		0	188		1	189	
+														
+D	"ALSTON, Richard K R"	LP	0	395356	Elected	0	395356	Elected	0	395356	Elected	0	395356	Elected
+D	"KEMP, Rod"	LP	0	395356	Elected	0	395356	Elected	0	395356	Elected	0	395356	Elected
+D	"PATTERSON, Kay"	LP	4	353822		13	353835		1	353836		3	353839	
+D	"ETTERY, Robert John"	NP	0	788		0	788		1	789		0	789	
+D	"HEAD, Robyne L"	LP	0	298		0	298		0	298		0	298	
+D	"FERNANDEZ, Anthony G"	LP	0	448		0	448		0	448		1	449	
+ 	 													
+E	"RAY, Robert Francis"	ALP	0	395356	Elected	0	395356	Elected	0	395356	Elected	0	395356	Elected
+E	"COONEY, Barney"	ALP	0	395356	Elected	0	395356	Elected	0	395356	Elected	0	395356	Elected
+E	"GILLARD, Julia"	ALP	6	308282		4	308286		0	308286		2	308288	
+E	"RAYMOND, Melanie"	ALP	0	1557		1	1558		1	1559		0	1559	
+														
+F	"McCORMACK, Denis"	AFI	2	40439		1	40440		0	40440		1	40441	
+F	"SPENCER, Robyn Marion"	AFI	0	358		0	358		0	358		1	359	
+ 														
+G	"ALLISON, Lyn"	DEM	1	299783		3	299786		1	299787		4	299791	
+G	"McLAREN, John"	DEM	2	466		0	466		0	466		2	468	
+G	"LEVY, Laurie"	DEM	0	665		1	666		0	666		1	667	
+G	"WHITE, Marj"	DEM	0	572		1	573		0	573		1	574	
+														
+H	"GRIFFITH, Stephen"	NLP	0	6678		2	6680		1	6681		2	6683	
+H	"MASON, Ngaire"	NLP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+I	"DAHAN, Paul"	RPA	0	2239		0	2239		0	2239		1	2240	
+I	"BERGEN, Des"	ABR	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+J	"TOSCANO, Joe"		0	2036		1	2037		1	2038		4	2042	
+J	"ROPER, Steve"		0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+K	"WOOD, Colin F"	ASP	0	19480		3	19483		116	19599		3	19602	
+K	"SAYERS, Neville"	ASP	0	125		0	125		-125	0	Excluded	0	0	Excluded
+K	"FLIEGNER, Gary"	ASP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+L	"COOK, Ken"	CTA	0	16380		2	16382		1	16383		1	16384	
+L	"CHAPMAN, Christine"	CTA	0	149		0	149		1	150		2	152	
+														
+Ungrouped														
+	"RASKOVY, Steve"	IND	0	624		8	632		1	633		20	653	
+ 	"SMITH, Maurie"	IND	0	160		5	165		0	165		43	208	
+ 	"GOOD, Michael"	IND	0	134		9	143		0	143		-143	0	Excluded
+	"GREEN, Neil"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+ 	"ABBOTTO, John M"	IND	0	111		-111	0	Excluded	0	0	Excluded	0	0	Excluded
+ 	"ARMSTRONG, David"	IND	0	3343		51	3394		0	3394		41	3435	
+														
+	Exhausted Votes		1	36		0	36		0	36		0	36	
+	Loss by Fraction		4	77		0	77		-1	76		0	76	
+														
+	Total Votes		92	2767485		111	2767485		125	2767485		143	2767485	
+														
+	Notes		Candidate Excluded			Candidate Excluded			Candidate Excluded			Candidate Excluded		
+			"Rowe, M"			"Abbotto, J"			"Sayers, N"			"Good, M"		
+														
+														
+														
+				Count 41-43			Count 44-47			Count 48-52			Count 53-55	
+			Votes 	Progress		Votes	Progress		Votes	Progress		Votes	Progress	
+	Candidates		Transfd	Total	Status	Transfd	Totals	Status	Transfd	Totals	Status	Transfd	Totals	Status
+A	"BORZATTI, Will"	CIR	97	9114		0	9114		6	9120		3	9123	
+A	"McKAY, Neil"	CIR	-145	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+B	"SINGER, Peter"	AGV	17	80192		1	80193		3	80196		0	80196	
+B	"ALEXANDER, Karen"	AGV	0	899		1	900		6	906		2	908	
+B	"LUCAS, Helen"	AGV	5	495		0	495		6	501		2	503	
+														
+C	"MULHOLLAND, John"	DLP	1	35907		1	35908		46	35954		1	35955	
+C	"CAHILL, Paul"	DLP	6	213		0	213		86	299		0	299	
+C	"ROWE, Michael"	DLP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+C	"CREA, Pat"	DLP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+C	"CODY, Matthew"	DLP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+C	"DODD, Christine"	DLP	0	189		1	190		-190	0	Excluded	0	0	Excluded
+														
+D	"ALSTON, Richard K R"	LP	0	395356	Elected	0	395356	Elected	0	395356	Elected	0	395356	Elected
+D	"KEMP, Rod"	LP	0	395356	Elected	0	395356	Elected	0	395356	Elected	0	395356	Elected
+D	"PATTERSON, Kay"	LP	3	353842		2	353844		7	353851		20	353871	
+D	"ETTERY, Robert John"	NP	1	790		0	790		3	793		4	797	
+D	"HEAD, Robyne L"	LP	0	298		0	298		1	299		0	299	
+D	"FERNANDEZ, Anthony G"	LP	0	449		0	449		0	449		1	450	
+ 	 													
+E	"RAY, Robert Francis"	ALP	0	395356	Elected	0	395356	Elected	0	395356	Elected	0	395356	Elected
+E	"COONEY, Barney"	ALP	0	395356	Elected	0	395356	Elected	0	395356	Elected	0	395356	Elected
+E	"GILLARD, Julia"	ALP	1	308289		1	308290		5	308295		4	308299	
+E	"RAYMOND, Melanie"	ALP	1	1560		0	1560		2	1562		2	1564	
+														
+F	"McCORMACK, Denis"	AFI	0	40441		0	40441		1	40442		8	40450	
+F	"SPENCER, Robyn Marion"	AFI	0	359		0	359		1	360		1	361	
+ 														
+G	"ALLISON, Lyn"	DEM	2	299793		2	299795		3	299798		10	299808	
+G	"McLAREN, John"	DEM	0	468		0	468		1	469		4	473	
+G	"LEVY, Laurie"	DEM	1	668		0	668		0	668		2	670	
+G	"WHITE, Marj"	DEM	1	575		1	576		1	577		1	578	
+														
+H	"GRIFFITH, Stephen"	NLP	1	6684		0	6684		3	6687		2	6689	
+H	"MASON, Ngaire"	NLP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+I	"DAHAN, Paul"	RPA	1	2241		1	2242		1	2243		1	2244	
+I	"BERGEN, Des"	ABR	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+J	"TOSCANO, Joe"		0	2042		3	2045		0	2045		0	2045	
+J	"ROPER, Steve"		0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+K	"WOOD, Colin F"	ASP	2	19604		3	19607		0	19607		3	19610	
+K	"SAYERS, Neville"	ASP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+K	"FLIEGNER, Gary"	ASP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+L	"COOK, Ken"	CTA	1	16385		132	16517		0	16517		1	16518	
+L	"CHAPMAN, Christine"	CTA	0	152		-152	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+Ungrouped														
+	"RASKOVY, Steve"	IND	0	653		2	655		0	655		75	730	
+ 	"SMITH, Maurie"	IND	0	208		1	209		1	210		-210	0	Excluded
+ 	"GOOD, Michael"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+	"GREEN, Neil"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+ 	"ABBOTTO, John M"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+ 	"ARMSTRONG, David"	IND	0	3435		0	3435		2	3437		63	3500	
+														
+	Exhausted Votes		1	37		0	37		3	40		0	40	
+	Loss by Fraction		3	79		0	79		2	81		0	81	
+														
+	Total Votes		145	2767485		152	2767485		190	2767485		210	2767485	
+														
+	Notes		Candidate Excluded			Candidate Excluded			Candidate Excluded			Candidate Excluded		
+			"McKay, N"			"Chapman, C"			"Dodd, C"			"Smith, M"		
+														
+														
+														
+				Count 56-60			Count 61-64			Count 65-69			Count 70-74	
+			Votes 	Progress		Votes	Progress		Votes	Progress		Votes	Progress	
+	Candidates		Transfd	Total	Status	Transfd	Totals	Status	Transfd	Totals	Status	Transfd	Totals	Status
+A	"BORZATTI, Will"	CIR	7	9130		0	9130		8	9138		0	9138	
+A	"McKAY, Neil"	CIR	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+B	"SINGER, Peter"	AGV	13	80209		0	80209		1	80210		10	80220	
+B	"ALEXANDER, Karen"	AGV	4	912		1	913		2	915		2	917	
+B	"LUCAS, Helen"	AGV	5	508		1	509		5	514		0	514	
+														
+C	"MULHOLLAND, John"	DLP	213	36168		1	36169		4	36173		2	36175	
+C	"CAHILL, Paul"	DLP	-299	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+C	"ROWE, Michael"	DLP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+C	"CREA, Pat"	DLP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+C	"CODY, Matthew"	DLP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+C	"DODD, Christine"	DLP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+D	"ALSTON, Richard K R"	LP	0	395356	Elected	0	395356	Elected	0	395356	Elected	0	395356	Elected
+D	"KEMP, Rod"	LP	0	395356	Elected	0	395356	Elected	0	395356	Elected	0	395356	Elected
+D	"PATTERSON, Kay"	LP	8	353879		145	354024		14	354038		7	354045	
+D	"ETTERY, Robert John"	NP	2	799		40	839		2	841		2	843	
+D	"HEAD, Robyne L"	LP	0	299		-299	0	Excluded	0	0	Excluded	0	0	Excluded
+D	"FERNANDEZ, Anthony G"	LP	3	453		87	540		2	542		1	543	
+ 	 													
+E	"RAY, Robert Francis"	ALP	0	395356	Elected	0	395356	Elected	0	395356	Elected	0	395356	Elected
+E	"COONEY, Barney"	ALP	0	395356	Elected	0	395356	Elected	0	395356	Elected	0	395356	Elected
+E	"GILLARD, Julia"	ALP	15	308314		2	308316		5	308321		8	308329	
+E	"RAYMOND, Melanie"	ALP	6	1570		1	1571		0	1571		3	1574	
+														
+F	"McCORMACK, Denis"	AFI	2	40452		3	40455		276	40731		8	40739	
+F	"SPENCER, Robyn Marion"	AFI	1	362		0	362		-362	0	Excluded	0	0	Excluded
+ 														
+G	"ALLISON, Lyn"	DEM	4	299812		9	299821		6	299827		261	300088	
+G	"McLAREN, John"	DEM	1	474		2	476		6	482		-482	0	Excluded
+G	"LEVY, Laurie"	DEM	0	670		0	670		2	672		111	783	
+G	"WHITE, Marj"	DEM	1	579		0	579		4	583		40	623	
+														
+H	"GRIFFITH, Stephen"	NLP	1	6690		1	6691		6	6697		6	6703	
+H	"MASON, Ngaire"	NLP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+I	"DAHAN, Paul"	RPA	2	2246		0	2246		0	2246		3	2249	
+I	"BERGEN, Des"	ABR	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+J	"TOSCANO, Joe"		0	2045		0	2045		0	2045		1	2046	
+J	"ROPER, Steve"		0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+K	"WOOD, Colin F"	ASP	1	19611		0	19611		4	19615		2	19617	
+K	"SAYERS, Neville"	ASP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+K	"FLIEGNER, Gary"	ASP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+L	"COOK, Ken"	CTA	0	16518		0	16518		1	16519		1	16520	
+L	"CHAPMAN, Christine"	CTA	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+Ungrouped														
+	"RASKOVY, Steve"	IND	0	730		0	730		3	733		1	734	
+ 	"SMITH, Maurie"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+ 	"GOOD, Michael"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+	"GREEN, Neil"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+ 	"ABBOTTO, John M"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+ 	"ARMSTRONG, David"	IND	0	3500		1	3501		2	3503		4	3507	
+														
+	Exhausted Votes		2	42		1	43		4	47		2	49	
+	Loss by Fraction		8	89		4	93		5	98		7	105	
+														
+	Total Votes		299	2767485		299	2767485		362	2767485		482	2767485	
+														
+	Notes		Candidate Excluded			Candidate Excluded			Candidate Excluded			Candidate Excluded		
+			"Cahill, P"			"Head, R"			"Spencer, R"			"McLaren, J"		
+														
+														
+														
+				Count 75-79			Count 80-84			Count 85-89			Count 90-94	
+			Votes 	Progress		Votes	Progress		Votes	Progress		Votes	Progress	
+	Candidates		Transfd	Total	Status	Transfd	Totals	Status	Transfd	Totals	Status	Transfd	Totals	Status
+A	"BORZATTI, Will"	CIR	8	9146		6	9152		1	9153		3	9156	
+A	"McKAY, Neil"	CIR	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+B	"SINGER, Peter"	AGV	55	80275		3	80278		9	80287		3	80290	
+B	"ALEXANDER, Karen"	AGV	408	1325		0	1325		5	1330		1	1331	
+B	"LUCAS, Helen"	AGV	-514	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+C	"MULHOLLAND, John"	DLP	1	36176		2	36178		0	36178		7	36185	
+C	"CAHILL, Paul"	DLP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+C	"ROWE, Michael"	DLP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+C	"CREA, Pat"	DLP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+C	"CODY, Matthew"	DLP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+C	"DODD, Christine"	DLP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+D	"ALSTON, Richard K R"	LP	0	395356	Elected	0	395356	Elected	0	395356	Elected	0	395356	Elected
+D	"KEMP, Rod"	LP	0	395356	Elected	0	395356	Elected	0	395356	Elected	0	395356	Elected
+D	"PATTERSON, Kay"	LP	3	354048		150	354198		6	354204		13	354217	
+D	"ETTERY, Robert John"	NP	0	843		337	1180		3	1183		3	1186	
+D	"HEAD, Robyne L"	LP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+D	"FERNANDEZ, Anthony G"	LP	2	545		-545	0	Excluded	0	0	Excluded	0	0	Excluded
+ 	 													
+E	"RAY, Robert Francis"	ALP	0	395356	Elected	0	395356	Elected	0	395356	Elected	0	395356	Elected
+E	"COONEY, Barney"	ALP	0	395356	Elected	0	395356	Elected	0	395356	Elected	0	395356	Elected
+E	"GILLARD, Julia"	ALP	7	308336		6	308342		7	308349		8	308357	
+E	"RAYMOND, Melanie"	ALP	4	1578		8	1586		12	1598		1	1599	
+														
+F	"McCORMACK, Denis"	AFI	0	40739		3	40742		6	40748		7	40755	
+F	"SPENCER, Robyn Marion"	AFI	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+ 														
+G	"ALLISON, Lyn"	DEM	13	300101		5	300106		249	300355		14	300369	
+G	"McLAREN, John"	DEM	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+G	"LEVY, Laurie"	DEM	1	784		3	787		318	1105		2	1107	
+G	"WHITE, Marj"	DEM	2	625		5	630		-630	0	Excluded	0	0	Excluded
+														
+H	"GRIFFITH, Stephen"	NLP	3	6706		1	6707		1	6708		2	6710	
+H	"MASON, Ngaire"	NLP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+I	"DAHAN, Paul"	RPA	0	2249		0	2249		1	2250		3	2253	
+I	"BERGEN, Des"	ABR	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+J	"TOSCANO, Joe"		2	2048		1	2049		1	2050		12	2062	
+J	"ROPER, Steve"		0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+K	"WOOD, Colin F"	ASP	0	19617		2	19619		2	19621		8	19629	
+K	"SAYERS, Neville"	ASP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+K	"FLIEGNER, Gary"	ASP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+L	"COOK, Ken"	CTA	0	16520		0	16520		0	16520		15	16535	
+L	"CHAPMAN, Christine"	CTA	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+Ungrouped														
+	"RASKOVY, Steve"	IND	0	734		2	736		1	737		-737	0	Excluded
+ 	"SMITH, Maurie"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+ 	"GOOD, Michael"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+	"GREEN, Neil"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+ 	"ABBOTTO, John M"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+ 	"ARMSTRONG, David"	IND	2	3509		0	3509		5	3514		630	4144	
+														
+	Exhausted Votes		2	51		2	53		1	54		4	58	
+	Loss by Fraction		1	106		9	115		2	117		1	118	
+														
+	Total Votes		514	2767485		545	2767485		630	2767485		737	2767485	
+														
+	Notes		Candidate Excluded			Candidate Excluded			Candidate Excluded			Candidate Excluded		
+			"Lucas, H"			"Fernandez, A"			"White, M"			"Raskovy, S"		
+														
+														
+														
+				Count 95-99			Count 100-104			Count 105-109			Count 110-114	
+			Votes 	Progress		Votes	Progress		Votes	Progress		Votes	Progress	
+	Candidates		Transfd	Total	Status	Transfd	Totals	Status	Transfd	Totals	Status	Transfd	Totals	Status
+A	"BORZATTI, Will"	CIR	2	9158		2	9160		17	9177		8	9185	
+A	"McKAY, Neil"	CIR	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+B	"SINGER, Peter"	AGV	83	80373		11	80384		1017	81401		24	81425	
+B	"ALEXANDER, Karen"	AGV	16	1347		2	1349		-1349	0	Excluded	0	0	Excluded
+B	"LUCAS, Helen"	AGV	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+C	"MULHOLLAND, John"	DLP	4	36189		15	36204		20	36224		10	36234	
+C	"CAHILL, Paul"	DLP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+C	"ROWE, Michael"	DLP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+C	"CREA, Pat"	DLP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+C	"CODY, Matthew"	DLP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+C	"DODD, Christine"	DLP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+D	"ALSTON, Richard K R"	LP	0	395356	Elected	0	395356	Elected	0	395356	Elected	0	395356	Elected
+D	"KEMP, Rod"	LP	0	395356	Elected	0	395356	Elected	0	395356	Elected	0	395356	Elected
+D	"PATTERSON, Kay"	LP	16	354233		1016	355249		43	355292		13	355305	
+D	"ETTERY, Robert John"	NP	3	1189		-1189	0	Excluded	0	0	Excluded	0	0	Excluded
+D	"HEAD, Robyne L"	LP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+D	"FERNANDEZ, Anthony G"	LP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+ 	 													
+E	"RAY, Robert Francis"	ALP	0	395356	Elected	0	395356	Elected	0	395356	Elected	0	395356	Elected
+E	"COONEY, Barney"	ALP	0	395356	Elected	0	395356	Elected	0	395356	Elected	0	395356	Elected
+E	"GILLARD, Julia"	ALP	37	308394		7	308401		48	308449		1472	309921	
+E	"RAYMOND, Melanie"	ALP	7	1606		3	1609		10	1619		-1619	0	Excluded
+														
+F	"McCORMACK, Denis"	AFI	7	40762		36	40798		13	40811		11	40822	
+F	"SPENCER, Robyn Marion"	AFI	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+ 														
+G	"ALLISON, Lyn"	DEM	896	301265		39	301304		144	301448		45	301493	
+G	"McLAREN, John"	DEM	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+G	"LEVY, Laurie"	DEM	-1107	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+G	"WHITE, Marj"	DEM	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+H	"GRIFFITH, Stephen"	NLP	10	6720		3	6723		9	6732		6	6738	
+H	"MASON, Ngaire"	NLP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+I	"DAHAN, Paul"	RPA	2	2255		1	2256		4	2260		10	2270	
+I	"BERGEN, Des"	ABR	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+J	"TOSCANO, Joe"		3	2065		3	2068		2	2070		2	2072	
+J	"ROPER, Steve"		0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+K	"WOOD, Colin F"	ASP	4	19633		12	19645		3	19648		6	19654	
+K	"SAYERS, Neville"	ASP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+K	"FLIEGNER, Gary"	ASP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+L	"COOK, Ken"	CTA	3	16538		18	16556		3	16559		3	16562	
+L	"CHAPMAN, Christine"	CTA	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+Ungrouped														
+	"RASKOVY, Steve"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+ 	"SMITH, Maurie"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+ 	"GOOD, Michael"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+	"GREEN, Neil"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+ 	"ABBOTTO, John M"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+ 	"ARMSTRONG, David"	IND	6	4150		6	4156		7	4163		4	4167	
+														
+	Exhausted Votes		2	60		5	65		6	71		1	72	
+	Loss by Fraction		6	124		10	134		3	137		4	141	
+														
+	Total Votes		1107	2767485		1189	2767485		1349	2767485		1619	2767485	
+														
+	Notes		Candidate Excluded			Candidate Excluded			Candidate Excluded			Candidate Excluded		
+			"Levy, L"			"Ettery, R"			"Alexander, K"			"Raymond, M"		
+														
+														
+														
+				Count 115-119			Count 120-124			Count 125-129			Count 130-134	
+			Votes 	Progress		Votes	Progress		Votes	Progress		Votes	Progress	
+	Candidates		Transfd	Total	Status	Transfd	Totals	Status	Transfd	Totals	Status	Transfd	Totals	Status
+A	"BORZATTI, Will"	CIR	11	9196		7	9203		94	9297		-9297	0	Excluded
+A	"McKAY, Neil"	CIR	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+B	"SINGER, Peter"	AGV	932	82357		1977	84334		372	84706		2484	87190	
+B	"ALEXANDER, Karen"	AGV	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+B	"LUCAS, Helen"	AGV	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+C	"MULHOLLAND, John"	DLP	3	36237		14	36251		126	36377		141	36518	
+C	"CAHILL, Paul"	DLP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+C	"ROWE, Michael"	DLP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+C	"CREA, Pat"	DLP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+C	"CODY, Matthew"	DLP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+C	"DODD, Christine"	DLP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+D	"ALSTON, Richard K R"	LP	0	395356	Elected	0	395356	Elected	0	395356	Elected	0	395356	Elected
+D	"KEMP, Rod"	LP	0	395356	Elected	0	395356	Elected	0	395356	Elected	0	395356	Elected
+D	"PATTERSON, Kay"	LP	19	355324		33	355357		744	356101		187	356288	
+D	"ETTERY, Robert John"	NP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+D	"HEAD, Robyne L"	LP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+D	"FERNANDEZ, Anthony G"	LP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+ 	 													
+E	"RAY, Robert Francis"	ALP	0	395356	Elected	0	395356	Elected	0	395356	Elected	0	395356	Elected
+E	"COONEY, Barney"	ALP	0	395356	Elected	0	395356	Elected	0	395356	Elected	0	395356	Elected
+E	"GILLARD, Julia"	ALP	17	309938		66	310004		739	310743		141	310884	
+E	"RAYMOND, Melanie"	ALP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+F	"McCORMACK, Denis"	AFI	21	40843		29	40872		238	41110		6853	47963	
+F	"SPENCER, Robyn Marion"	AFI	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+ 														
+G	"ALLISON, Lyn"	DEM	936	302429		73	302502		954	303456		6155	309611	
+G	"McLAREN, John"	DEM	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+G	"LEVY, Laurie"	DEM	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+G	"WHITE, Marj"	DEM	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+H	"GRIFFITH, Stephen"	NLP	20	6758		28	6786		141	6927		-6927	0	Excluded
+H	"MASON, Ngaire"	NLP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+I	"DAHAN, Paul"	RPA	20	2290		-2290	0	Excluded	0	0	Excluded	0	0	Excluded
+I	"BERGEN, Des"	ABR	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+J	"TOSCANO, Joe"		-2072	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+J	"ROPER, Steve"		0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+K	"WOOD, Colin F"	ASP	23	19677		29	19706		265	19971		105	20076	
+K	"SAYERS, Neville"	ASP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+K	"FLIEGNER, Gary"	ASP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+L	"COOK, Ken"	CTA	10	16572		9	16581		544	17125		88	17213	
+L	"CHAPMAN, Christine"	CTA	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+Ungrouped														
+	"RASKOVY, Steve"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+ 	"SMITH, Maurie"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+ 	"GOOD, Michael"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+	"GREEN, Neil"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+ 	"ABBOTTO, John M"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+ 	"ARMSTRONG, David"	IND	55	4222		18	4240		-4240	0	Excluded	0	0	Excluded
+														
+	Exhausted Votes		3	75		6	81		22	103		79	182	
+	Loss by Fraction		2	143		1	144		1	145		-9	136	
+														
+	Total Votes		2072	2767485		2290	2767485		4240	2767485		16224	2767485	
+														
+	Notes		Candidate Excluded			Candidate Excluded			Candidate Excluded			Candidates Excluded		
+			"Toscano, J"			"Dahan, P"			"Armstrong, D"			"Borzatti, W"		
+												"Griffith, S"		
+									 					
+														
+														
+				Count 135-139			Count 140-144			Count 145-149			Count 150-154	
+			Votes 	Progress		Votes	Progress		Votes	Progress		Votes	Progress	
+	Candidates		Transfd	Total	Status	Transfd	Totals	Status	Transfd	Totals	Status	Transfd	Totals	Status
+A	"BORZATTI, Will"	CIR	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+A	"McKAY, Neil"	CIR	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+B	"SINGER, Peter"	AGV	273	87463		179	87642		813	88455		-88455	0	Excluded
+B	"ALEXANDER, Karen"	AGV	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+B	"LUCAS, Helen"	AGV	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+C	"MULHOLLAND, John"	DLP	13190	49708		105	49813		-49813	0	Excluded	0	0	Excluded
+C	"CAHILL, Paul"	DLP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+C	"ROWE, Michael"	DLP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+C	"CREA, Pat"	DLP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+C	"CODY, Matthew"	DLP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+C	"DODD, Christine"	DLP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+D	"ALSTON, Richard K R"	LP	0	395356	Elected	0	395356	Elected	0	395356	Elected	0	395356	Elected
+D	"KEMP, Rod"	LP	0	395356	Elected	0	395356	Elected	0	395356	Elected	0	395356	Elected
+D	"PATTERSON, Kay"	LP	1859	358147		1038	359185		14029	373214		3647	376861	
+D	"ETTERY, Robert John"	NP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+D	"HEAD, Robyne L"	LP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+D	"FERNANDEZ, Anthony G"	LP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+ 	 													
+E	"RAY, Robert Francis"	ALP	0	395356	Elected	0	395356	Elected	0	395356	Elected	0	395356	Elected
+E	"COONEY, Barney"	ALP	0	395356	Elected	0	395356	Elected	0	395356	Elected	0	395356	Elected
+E	"GILLARD, Julia"	ALP	279	311163		368	311531		636	312167		4052	316219	
+E	"RAYMOND, Melanie"	ALP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+F	"McCORMACK, Denis"	AFI	391	48354		18072	66426		33685	100111		3047	103158	
+F	"SPENCER, Robyn Marion"	AFI	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+ 														
+G	"ALLISON, Lyn"	DEM	613	310224		856	311080		581	311661		77518	389179	
+G	"McLAREN, John"	DEM	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+G	"LEVY, Laurie"	DEM	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+G	"WHITE, Marj"	DEM	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+H	"GRIFFITH, Stephen"	NLP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+H	"MASON, Ngaire"	NLP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+I	"DAHAN, Paul"	RPA	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+I	"BERGEN, Des"	ABR	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+J	"TOSCANO, Joe"		0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+J	"ROPER, Steve"		0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+K	"WOOD, Colin F"	ASP	593	20669		-20669	0	Excluded	0	0	Excluded	0	0	Excluded
+K	"SAYERS, Neville"	ASP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+K	"FLIEGNER, Gary"	ASP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+L	"COOK, Ken"	CTA	-17213	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+L	"CHAPMAN, Christine"	CTA	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+Ungrouped														
+	"RASKOVY, Steve"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+ 	"SMITH, Maurie"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+ 	"GOOD, Michael"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+	"GREEN, Neil"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+ 	"ABBOTTO, John M"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+ 	"ARMSTRONG, David"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+	Exhausted Votes		10	192		48	240		80	320		207	527	
+	Loss by Fraction		5	141		3	144		-11	133		-16	117	
+														
+	Total Votes		17213	2767485		20669	2767485		49813	2767485		88455	2767485	
+														
+	Notes		Candidate Excluded			Candidate Excluded			Candidate Excluded			Candidate Excluded		
+			"Cook, K"			"Wood, C"			"Mulholland, J"			"Singer, P"		
+												 		
+														
+														
+				Count 155										
+			Votes 	Progress										
+	Candidates		Transfd	Total	Status									
+A	"BORZATTI, Will"	CIR	0	0	Excluded									
+A	"McKAY, Neil"	CIR	0	0	Excluded									
+														
+B	"SINGER, Peter"	AGV	0	0	Excluded									
+B	"ALEXANDER, Karen"	AGV	0	0	Excluded									
+B	"LUCAS, Helen"	AGV	0	0	Excluded									
+														
+C	"MULHOLLAND, John"	DLP	0	0	Excluded									
+C	"CAHILL, Paul"	DLP	0	0	Excluded									
+C	"ROWE, Michael"	DLP	0	0	Excluded									
+C	"CREA, Pat"	DLP	0	0	Excluded									
+C	"CODY, Matthew"	DLP	0	0	Excluded									
+C	"DODD, Christine"	DLP	0	0	Excluded									
+														
+D	"ALSTON, Richard K R"	LP	0	395356	Elected									
+D	"KEMP, Rod"	LP	0	395356	Elected									
+D	"PATTERSON, Kay"	LP	61076	437937	Elected									
+D	"ETTERY, Robert John"	NP	0	0	Excluded									
+D	"HEAD, Robyne L"	LP	0	0	Excluded									
+D	"FERNANDEZ, Anthony G"	LP	0	0	Excluded									
+ 	 													
+E	"RAY, Robert Francis"	ALP	0	395356	Elected									
+E	"COONEY, Barney"	ALP	0	395356	Elected									
+E	"GILLARD, Julia"	ALP	1367	317586										
+E	"RAYMOND, Melanie"	ALP	0	0	Excluded									
+														
+F	"McCORMACK, Denis"	AFI	-102888	270	Excluded									
+F	"SPENCER, Robyn Marion"	AFI	0	0	Excluded									
+ 														
+G	"ALLISON, Lyn"	DEM	40372	429551	Elected									
+G	"McLAREN, John"	DEM	0	0	Excluded									
+G	"LEVY, Laurie"	DEM	0	0	Excluded									
+G	"WHITE, Marj"	DEM	0	0	Excluded									
+														
+H	"GRIFFITH, Stephen"	NLP	0	0	Excluded									
+H	"MASON, Ngaire"	NLP	0	0	Excluded									
+														
+I	"DAHAN, Paul"	RPA	0	0	Excluded									
+I	"BERGEN, Des"	ABR	0	0	Excluded									
+														
+J	"TOSCANO, Joe"		0	0	Excluded									
+J	"ROPER, Steve"		0	0	Excluded									
+														
+K	"WOOD, Colin F"	ASP	0	0	Excluded									
+K	"SAYERS, Neville"	ASP	0	0	Excluded									
+K	"FLIEGNER, Gary"	ASP	0	0	Excluded									
+														
+L	"COOK, Ken"	CTA	0	0	Excluded									
+L	"CHAPMAN, Christine"	CTA	0	0	Excluded									
+														
+Ungrouped														
+	"RASKOVY, Steve"	IND	0	0	Excluded									
+ 	"SMITH, Maurie"	IND	0	0	Excluded									
+ 	"GOOD, Michael"	IND	0	0	Excluded									
+	"GREEN, Neil"	IND	0	0	Excluded									
+ 	"ABBOTTO, John M"	IND	0	0	Excluded									
+ 	"ARMSTRONG, David"	IND	0	0	Excluded									
+														
+	Exhausted Votes		73	600										
+	Loss by Fraction		0	117										
+														
+	Total Votes		102888	2767485										
+														
+	Notes		Candidate Partially Excluded											
+			"McCormack, D"											
+														
+			Candidates Elected											
+			"5. Patterson, K"											
+			"6. Allison, L"											
+														

@@ -1,0 +1,151 @@
+Senate - 1993 Election: Tasmania  															
+Result of the Transfer and Distribution of Preferences															
+Election of 6 Senators															
+															
+Quota = 308763  +  1 =  44110															
+	     6+1														
+															
+				First			Count 2			Count 3			Count 4		
+				Preference		Votes	Progress		Votes	Progress		Votes	Progress		
+	Candidates			Votes	Status	Transfd	Totals	Status	Transfd	Totals	Status	Transfd	Totals	Status	
+A	"HARRADINE, Brian"	HAR		32202		472	32674		199	32873		85	32958		
+															
+B	"TATE, Michael"	ALP		125176	Elected	-81066	44110	Elected	0	44110	Elected	0	44110	Elected	
+B	"COATES, John"	ALP		2886		78063	80949	Elected	0	80949	Elected	-36839	44110	Elected	
+B	"MURPHY, Shayne"	ALP		1229		691	1920		8	1928		35792	37720		
+B	"AULICH, Terry"	ALP		2585		1325	3910		11	3921		829	4750		
+										0					
+C	"SPROULE, Alan"	TST		2549		33	2582		12	2594		8	2602		
+C	"McSHANE, Frances"	TST		266		8	274		7	281		3	284		
+															
+D	"HENDERSON, Judy"	TG		20752		281	21033		26	21059		75	21134		
+D	"JONES, Peter"	TG		174		9	183		3	186		5	191		
+D	"FRY, Marion"	TG		161		1	162		3	165		1	166		
+															
+E	"HOPSON, Philip"	CTA		1477		4	1481		11	1492		0	1492		
+E	"HOPSON, Janelle"	CTA		42		0	42		0	42		0	42		
+															
+F	"BROSZCZYK, Greg"	LAW		426		3	429		0	429		0	429		
+F	"DAVIES, Caroline"	LAW		64		2	66		2	68		0	68		
+															
+G	"HARMSEN, Patsy"	AD		5023		58	5081		22	5103		15	5118		
+G	"STEPHEN, David"	AD		139		1	140		7	147		1	148		
+															
+H	"ARCHER, Brian"	LP		109142	Elected	0	109142	Elected	-65032	44110	Elected	0	44110	Elected	
+H	"GIBSON, Brian"	LP		2374		55	2429		63981	66410	Elected	0	66410	Elected	
+H	"ABETZ, Eric"	LP		1831		9	1840		701	2541		8	2549		
+															
+NOT GROUPED															
+	"JAMIESON, Ian"	IND		265		6	271		8	279		2	281		
+															
+	Exhausted Votes			0		34	34		23	57		6	63		
+	Loss by Fraction			0		11	11		8	19		9	28		
+															
+	Total Votes			308763		81066	308763		65032	308763		36839	308763		
+															
+	Notes		Candidates Elected:			Surplus Distributed			Surplus Distributed			Surplus Distributed			
+			"1. Tate, M"			"Tate, M"			" Archer, B"			"Coates, J"			
+			"2. Archer, B"												
+						Candidate Elected			Candidate Elected						
+						"3. Coates, J"			"4. Gibson, B"						
+															
+															
+															
+				Count 5			Count 6-10			Count 11-15			Count 16-20		
+			Votes	Progress		Votes	Progress		Votes	Progress		Votes	Progress		
+	Candidate		Transfrd	Total	Status	Transfrd	Totals	Status	Transfrd	Totals	Status	Transfrd	Totals	Status	
+A	"HARRADINE, Brian"	HAR	65	33023		3037	36060		292	36352		1015	37367		
+															
+B	"TATE, Michael"	ALP	0	44110	Elected	0	44110	Elected	0	44110	Elected	0	44110	Elected	
+B	"COATES, John"	ALP	0	44110	Elected	0	44110	Elected	0	44110	Elected	0	44110	Elected	
+B	"MURPHY, Shayne"	ALP	4	37724		214	37938		4279	42217		386	42603		
+B	"AULICH, Terry"	ALP	6	4756		84	4840		-4840	0	Excluded	0	0	Excluded	
+															
+C	"SPROULE, Alan"	TST	10	2612		-2612	0	Excluded	0	0	Excluded	0	0	Excluded	
+C	"McSHANE, Frances"	TST	2	286		-286	0	Excluded	0	0	Excluded	0	0	Excluded	
+															
+D	"HENDERSON, Judy"	TG	12	21146		875	22021		153	22174		4415	26589		
+D	"JONES, Peter"	TG	2	193		-193	0	Excluded	0	0	Excluded	0	0	Excluded	
+D	"FRY, Marion"	TG	0	166		-166	0	Excluded	0	0	Excluded	0	0	Excluded	
+															
+E	"HOPSON, Philip"	CTA	1	1493		-1493	0	Excluded	0	0	Excluded	0	0	Excluded	
+E	"HOPSON, Janelle"	CTA	0	42		-42	0	Excluded	0	0	Excluded	0	0	Excluded	
+															
+F	"BROSZCZYK, Greg"	LAW	0	429		-429	0	Excluded	0	0	Excluded	0	0	Excluded	
+F	"DAVIES, Caroline"	LAW	0	68		-68	0	Excluded	0	0	Excluded	0	0	Excluded	
+															
+G	"HARMSEN, Patsy"	AD	9	5127		891	6018		39	6057		-6057	0	Excluded	
+G	"STEPHEN, David"	AD	2	150		-150	0	Excluded	0	0	Excluded	0	0	Excluded	
+															
+H	"ARCHER, Brian"	LP	0	44110	Elected	0	44110	Elected	0	44110	Elected	0	44110	Elected	
+H	"GIBSON, Brian"	LP	-22300	44110	Elected	0	44110	Elected	0	44110	Elected	0	44110	Elected	
+H	"ABETZ, Eric"	LP	22164	24713		612	25325		27	25352		221	25573		
+															
+NOT GROUPED															
+	"JAMIESON, Ian"	IND	4	285		-285	0	Excluded	0	0	Excluded	0	0	Excluded	
+															
+	Exhausted Votes		10	73		19	92		43	135		14	149		
+	Loss by Fraction		9	37		-8	29		7	36		6	42		
+															
+	Total Votes		22300	308763		5724	308763		4840	308763		6057	308763		
+															
+	Notes		Surplus Distributed:			Candidates Excluded:			Candidate Excluded:			Candidate Excluded:			
+			"Gibson, B"			"Hopson, J"	"Davies, C"		"Aulich, T"			"Harmsen, P"			
+						"Stephen, D"	"Fry, M"								
+						"Jones, P"	"Jamieson, I"								
+						"McShane, F"	"Broszczyk, G"								
+						"Hopson, P"	"Sproule, A"								
+															
+															
+															
+				Count 21-25			Count 26								
+			Votes	Progress 		Votes	Progress								
+	Candidates		Transfrd	Totals	Status	Transfrd	Totals	Satus							
+A	"HARRADINE, Brian"	HAR	23657	61024	Elected	-16914	44110	Elected							
+															
+B	"TATE, Michael"	ALP	0	44110	Elected	0	44110	Elected							
+B	"COATES, John"	ALP	0	44110	Elected	0	44110	Elected							
+B	"MURPHY, Shayne"	ALP	730	43333		4131	47464	Elected							
+B	"AULICH, Terry"	ALP	0	0	Excluded	0	0	Excluded							
+															
+C	"SPROULE, Alan"	TST	0	0	Excluded	0	0	Excluded							
+C	"McSHANE, Frances"	TST	0	0	Excluded	0	0	Excluded							
+															
+D	"HENDERSON, Judy"	TG	1104	27693		12741	40434								
+D	"JONES, Peter"	TG	0	0	Excluded	0	0	Excluded							
+D	"FRY, Marion"	TG	0	0	Excluded	0	0	Excluded							
+															
+E	"HOPSON, Philip"	CTA	0	0	Excluded	0	0	Excluded							
+E	"HOPSON, Janelle"	CTA	0	0	Excluded	0	0	Excluded							
+															
+F	"BROSZCZYK, Greg"	LAW	0	0	Excluded	0	0	Excluded							
+F	"DAVIES, Caroline"	LAW	0	0	Excluded	0	0	Excluded							
+															
+G	"HARMSEN, Patsy"	AD	0	0	Excluded	0	0	Excluded							
+G	"STEPHEN, David"	AD	0	0	Excluded	0	0	Excluded							
+															
+H	"ARCHER, Brian"	LP	0	44110	Elected	0	44110	Elected							
+H	"GIBSON, Brian"	LP	0	44110	Elected	0	44110	Elected							
+H	"ABETZ, Eric"	LP	-25573	0	Excluded	0	0	Excluded							
+															
+Ungrouped															
+	"JAMIESON, Ian"	IND	0	0	Excluded	0	0	Excluded							
+															
+	Exhausted Votes		82	231		41	272								
+	Loss by Fraction		0	42		1	43								
+															
+	Total Votes		25573	308970		16914	308970								
+															
+	Notes		Candidate Excluded:			Surplus Distributed:									
+			"Abetz, E"			"Harradine, B"									
+															
+			Candidate Elected:			Candidate Elected:									
+			"5. Harradine, B"			"6. Murphy, S"									
+															
+															
+															
+															
+															
+															
+															
+															

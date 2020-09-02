@@ -1,0 +1,493 @@
+House of Representatives - 2001 Election: Western Australia												
+Two Candidate Preferred Preference Flow Result 												
+By Polling Place												
+												
+Curtin (82561)												
+		Candidate		                  	"BISHOP, Julie"		              	"FOWLER, Trish"			Total	
+				                           	LP		                         	ALP				
+				                           	Votes	%	                     	Votes	%			
+	Churchlands											
+			1st Prefs		724	76.61		221	23.39		945	
+		"BUCKLE, Ashley (DEM)"	66		26	39.39		40	60.61		66	
+		"GILMOUR, Neil (HAN)"	25		11	44.00		14	56.00		25	
+		"WALKER, Steve (GWA)"	77		20	25.97		57	74.03		77	
+		"WOOD, G (LFF)"	26		19	73.08		7	26.92		26	
+		"MCDONALD, Karen (CTA)"	19		16	84.21		3	15.79		19	
+		Total	213		816	70.47		342	29.53		1158	
+
+	City Beach										
+			1st Prefs		1323	80.13		328	19.87		1651
+		"BUCKLE, Ashley (DEM)"	96		50	52.08		46	47.92		96
+		"GILMOUR, Neil (HAN)"	50		37	74.00		13	26.00		50
+		"WALKER, Steve (GWA)"	116		26	22.41		90	77.59		116
+		"WOOD, G (LFF)"	48		36	75.00		12	25.00		48
+		"MCDONALD, Karen (CTA)"	15		10	66.67		5	33.33		15
+		Total	325		1482	75.00		494	25.00		1976
+
+	City Beach North										
+			1st Prefs		1130	80.60		272	19.40		1402
+		"BUCKLE, Ashley (DEM)"	66		29	43.94		37	56.06		66
+		"GILMOUR, Neil (HAN)"	40		36	90.00		4	10.00		40
+		"WALKER, Steve (GWA)"	67		31	46.27		36	53.73		67
+		"WOOD, G (LFF)"	37		28	75.68		9	24.32		37
+		"MCDONALD, Karen (CTA)"	18		8	44.44		10	55.56		18
+		Total	228		1262	77.42		368	22.58		1630
+
+	Claremont										
+			1st Prefs		1641	79.78		416	20.22		2057
+		"BUCKLE, Ashley (DEM)"	128		58	45.31		70	54.69		128
+		"GILMOUR, Neil (HAN)"	59		41	69.49		18	30.51		59
+		"WALKER, Steve (GWA)"	258		62	24.03		196	75.97		258
+		"WOOD, G (LFF)"	70		51	72.86		19	27.14		70
+		"MCDONALD, Karen (CTA)"	16		13	81.25		3	18.75		16
+		Total	531		1866	72.10		722	27.90		2588
+
+	Claremont East										
+			1st Prefs		442	73.67		158	26.33		600
+		"BUCKLE, Ashley (DEM)"	56		25	44.64		31	55.36		56
+		"GILMOUR, Neil (HAN)"	17		12	70.59		5	29.41		17
+		"WALKER, Steve (GWA)"	86		20	23.26		66	76.74		86
+		"WOOD, G (LFF)"	34		23	67.65		11	32.35		34
+		"MCDONALD, Karen (CTA)"	5		2	40.00		3	60.00		5
+		Total	198		524	65.66		274	34.34		798
+
+	Cottesloe										
+			1st Prefs		1489	78.37		411	21.63		1900
+		"BUCKLE, Ashley (DEM)"	119		47	39.50		72	60.50		119
+		"GILMOUR, Neil (HAN)"	65		49	75.38		16	24.62		65
+		"WALKER, Steve (GWA)"	271		75	27.68		196	72.32		271
+		"WOOD, G (LFF)"	80		54	67.50		26	32.50		80
+		"MCDONALD, Karen (CTA)"	10		4	40.00		6	60.00		10
+		Total	545		1718	70.27		727	29.73		2445
+
+	Cottesloe East										
+			1st Prefs		1124	78.49		308	21.51		1432
+		"BUCKLE, Ashley (DEM)"	124		62	50.00		62	50.00		124
+		"GILMOUR, Neil (HAN)"	38		23	60.53		15	39.47		38
+		"WALKER, Steve (GWA)"	185		43	23.24		142	76.76		185
+		"WOOD, G (LFF)"	49		37	75.51		12	24.49		49
+		"MCDONALD, Karen (CTA)"	11		4	36.36		7	63.64		11
+		Total	407		1293	70.31		546	29.69		1839
+
+	Cottesloe South										
+			1st Prefs		688	83.19		139	16.81		827
+		"BUCKLE, Ashley (DEM)"	37		19	51.35		18	48.65		37
+		"GILMOUR, Neil (HAN)"	20		15	75.00		5	25.00		20
+		"WALKER, Steve (GWA)"	99		29	29.29		70	70.71		99
+		"WOOD, G (LFF)"	22		18	81.82		4	18.18		22
+		"MCDONALD, Karen (CTA)"	8		5	62.50		3	37.50		8
+		Total	186		774	76.41		239	23.59		1013
+
+	Dalkeith										
+			1st Prefs		1685	86.10		272	13.90		1957
+		"BUCKLE, Ashley (DEM)"	84		37	44.05		47	55.95		84
+		"GILMOUR, Neil (HAN)"	35		23	65.71		12	34.29		35
+		"WALKER, Steve (GWA)"	169		50	29.59		119	70.41		169
+		"WOOD, G (LFF)"	56		38	67.86		18	32.14		56
+		"MCDONALD, Karen (CTA)"	19		15	78.95		4	21.05		19
+		Total	363		1848	79.66		472	20.34		2320
+
+	Doubleview (Curtin)										
+			1st Prefs		334	68.44		154	31.56		488
+		"BUCKLE, Ashley (DEM)"	52		23	44.23		29	55.77		52
+		"GILMOUR, Neil (HAN)"	18		11	61.11		7	38.89		18
+		"WALKER, Steve (GWA)"	39		12	30.77		27	69.23		39
+		"WOOD, G (LFF)"	17		15	88.24		2	11.76		17
+		"MCDONALD, Karen (CTA)"	2		2	100.00		0	0.00		2
+		Total	128		397	64.45		219	35.55		616
+
+	Floreat										
+			1st Prefs		1350	77.05		402	22.95		1752
+		"BUCKLE, Ashley (DEM)"	92		35	38.04		57	61.96		92
+		"GILMOUR, Neil (HAN)"	38		22	57.89		16	42.11		38
+		"WALKER, Steve (GWA)"	142		32	22.54		110	77.46		142
+		"WOOD, G (LFF)"	39		29	74.36		10	25.64		39
+		"MCDONALD, Karen (CTA)"	15		15	100.00		0	0.00		15
+		Total	326		1483	71.37		595	28.63		2078
+
+	Floreat East										
+			1st Prefs		987	72.57		373	27.43		1360
+		"BUCKLE, Ashley (DEM)"	58		29	50.00		29	50.00		58
+		"GILMOUR, Neil (HAN)"	24		17	70.83		7	29.17		24
+		"WALKER, Steve (GWA)"	134		34	25.37		100	74.63		134
+		"WOOD, G (LFF)"	26		18	69.23		8	30.77		26
+		"MCDONALD, Karen (CTA)"	16		10	62.50		6	37.50		16
+		Total	258		1095	67.68		523	32.32		1618
+
+	Graylands										
+			1st Prefs		1672	73.66		598	26.34		2270
+		"BUCKLE, Ashley (DEM)"	172		82	47.67		90	52.33		172
+		"GILMOUR, Neil (HAN)"	83		53	63.86		30	36.14		83
+		"WALKER, Steve (GWA)"	187		54	28.88		133	71.12		187
+		"WOOD, G (LFF)"	60		50	83.33		10	16.67		60
+		"MCDONALD, Karen (CTA)"	16		11	68.75		5	31.25		16
+		Total	518		1922	68.94		866	31.06		2788
+
+	Jolimont										
+			1st Prefs		649	66.22		331	33.78		980
+		"BUCKLE, Ashley (DEM)"	95		41	43.16		54	56.84		95
+		"GILMOUR, Neil (HAN)"	35		25	71.43		10	28.57		35
+		"WALKER, Steve (GWA)"	142		32	22.54		110	77.46		142
+		"WOOD, G (LFF)"	32		24	75.00		8	25.00		32
+		"MCDONALD, Karen (CTA)"	7		6	85.71		1	14.29		7
+		Total	311		777	60.19		514	39.81		1291
+
+	Joondanna										
+			1st Prefs		700	51.70		654	48.30		1354
+		"BUCKLE, Ashley (DEM)"	97		36	37.11		61	62.89		97
+		"GILMOUR, Neil (HAN)"	62		34	54.84		28	45.16		62
+		"WALKER, Steve (GWA)"	129		25	19.38		104	80.62		129
+		"WOOD, G (LFF)"	17		13	76.47		4	23.53		17
+		"MCDONALD, Karen (CTA)"	24		14	58.33		10	41.67		24
+		Total	329		822	48.84		861	51.16		1683
+
+	King Edward Memorial Hospital										
+			1st Prefs		213	64.55		117	35.45		330
+		"BUCKLE, Ashley (DEM)"	34		18	52.94		16	47.06		34
+		"GILMOUR, Neil (HAN)"	7		3	42.86		4	57.14		7
+		"WALKER, Steve (GWA)"	60		8	13.33		52	86.67		60
+		"WOOD, G (LFF)"	6		4	66.67		2	33.33		6
+		"MCDONALD, Karen (CTA)"	2		2	100.00		0	0.00		2
+		Total	109		248	56.49		191	43.51		439
+
+	Leederville										
+			1st Prefs		380	53.82		326	46.18		706
+		"BUCKLE, Ashley (DEM)"	106		47	44.34		59	55.66		106
+		"GILMOUR, Neil (HAN)"	16		8	50.00		8	50.00		16
+		"WALKER, Steve (GWA)"	136		34	25.00		102	75.00		136
+		"WOOD, G (LFF)"	12		10	83.33		2	16.67		12
+		"MCDONALD, Karen (CTA)"	5		3	60.00		2	40.00		5
+		Total	275		482	49.13		499	50.87		981
+
+	Leederville North										
+			1st Prefs		503	51.75		469	48.25		972
+		"BUCKLE, Ashley (DEM)"	103		35	33.98		68	66.02		103
+		"GILMOUR, Neil (HAN)"	18		10	55.56		8	44.44		18
+		"WALKER, Steve (GWA)"	131		20	15.27		111	84.73		131
+		"WOOD, G (LFF)"	17		11	64.71		6	35.29		17
+		"MCDONALD, Karen (CTA)"	10		10	100.00		0	0.00		10
+		Total	279		589	47.08		662	52.92		1251
+
+	Leederville West										
+			1st Prefs		908	64.21		506	35.79		1414
+		"BUCKLE, Ashley (DEM)"	121		40	33.06		81	66.94		121
+		"GILMOUR, Neil (HAN)"	28		16	57.14		12	42.86		28
+		"WALKER, Steve (GWA)"	174		35	20.11		139	79.89		174
+		"WOOD, G (LFF)"	39		29	74.36		10	25.64		39
+		"MCDONALD, Karen (CTA)"	21		11	52.38		10	47.62		21
+		Total	383		1039	57.82		758	42.18		1797
+
+	Mosman Park										
+			1st Prefs		1141	63.35		660	36.65		1801
+		"BUCKLE, Ashley (DEM)"	154		58	37.66		96	62.34		154
+		"GILMOUR, Neil (HAN)"	81		50	61.73		31	38.27		81
+		"WALKER, Steve (GWA)"	267		61	22.85		206	77.15		267
+		"WOOD, G (LFF)"	48		39	81.25		9	18.75		48
+		"MCDONALD, Karen (CTA)"	19		15	78.95		4	21.05		19
+		Total	569		1364	57.55		1006	42.45		2370
+
+	Mosman Park South										
+			1st Prefs		506	71.07		206	28.93		712
+		"BUCKLE, Ashley (DEM)"	29		14	48.28		15	51.72		29
+		"GILMOUR, Neil (HAN)"	30		20	66.67		10	33.33		30
+		"WALKER, Steve (GWA)"	62		20	32.26		42	67.74		62
+		"WOOD, G (LFF)"	9		9	100.00		0	0.00		9
+		"MCDONALD, Karen (CTA)"	10		6	60.00		4	40.00		10
+		Total	140		575	67.49		277	32.51		852
+
+	Mount Hawthorn										
+			1st Prefs		677	50.26		670	49.74		1347
+		"BUCKLE, Ashley (DEM)"	141		51	36.17		90	63.83		141
+		"GILMOUR, Neil (HAN)"	31		18	58.06		13	41.94		31
+		"WALKER, Steve (GWA)"	192		30	15.63		162	84.38		192
+		"WOOD, G (LFF)"	26		20	76.92		6	23.08		26
+		"MCDONALD, Karen (CTA)"	14		9	64.29		5	35.71		14
+		Total	404		805	45.97		946	54.03		1751
+
+	Mount Hawthorn East										
+			1st Prefs		462	52.20		423	47.80		885
+		"BUCKLE, Ashley (DEM)"	76		33	43.42		43	56.58		76
+		"GILMOUR, Neil (HAN)"	23		13	56.52		10	43.48		23
+		"WALKER, Steve (GWA)"	107		15	14.02		92	85.98		107
+		"WOOD, G (LFF)"	12		11	91.67		1	8.33		12
+		"MCDONALD, Karen (CTA)"	15		8	53.33		7	46.67		15
+		Total	233		542	48.48		576	51.52		1118
+
+	Mount Hawthorn West										
+			1st Prefs		342	52.70		307	47.30		649
+		"BUCKLE, Ashley (DEM)"	75		29	38.67		46	61.33		75
+		"GILMOUR, Neil (HAN)"	37		24	64.86		13	35.14		37
+		"WALKER, Steve (GWA)"	72		17	23.61		55	76.39		72
+		"WOOD, G (LFF)"	8		7	87.50		1	12.50		8
+		"MCDONALD, Karen (CTA)"	11		6	54.55		5	45.45		11
+		Total	203		425	49.88		427	50.12		852
+
+	Nedlands Central										
+			1st Prefs		256	61.99		157	38.01		413
+		"BUCKLE, Ashley (DEM)"	62		11	17.74		51	82.26		62
+		"GILMOUR, Neil (HAN)"	16		8	50.00		8	50.00		16
+		"WALKER, Steve (GWA)"	93		15	16.13		78	83.87		93
+		"WOOD, G (LFF)"	12		9	75.00		3	25.00		12
+		"MCDONALD, Karen (CTA)"	8		3	37.50		5	62.50		8
+		Total	191		302	50.00		302	50.00		604
+
+	Nedlands East										
+			1st Prefs		881	80.60		212	19.40		1093
+		"BUCKLE, Ashley (DEM)"	87		42	48.28		45	51.72		87
+		"GILMOUR, Neil (HAN)"	25		19	76.00		6	24.00		25
+		"WALKER, Steve (GWA)"	141		31	21.99		110	78.01		141
+		"WOOD, G (LFF)"	49		37	75.51		12	24.49		49
+		"MCDONALD, Karen (CTA)"	11		9	81.82		2	18.18		11
+		Total	313		1019	72.48		387	27.52		1406
+
+	Nedlands North										
+			1st Prefs		692	69.55		303	30.45		995
+		"BUCKLE, Ashley (DEM)"	107		39	36.45		68	63.55		107
+		"GILMOUR, Neil (HAN)"	22		14	63.64		8	36.36		22
+		"WALKER, Steve (GWA)"	158		31	19.62		127	80.38		158
+		"WOOD, G (LFF)"	43		35	81.40		8	18.60		43
+		"MCDONALD, Karen (CTA)"	5		3	60.00		2	40.00		5
+		Total	335		814	61.20		516	38.80		1330
+
+	Nedlands South										
+			1st Prefs		1059	73.75		377	26.25		1436
+		"BUCKLE, Ashley (DEM)"	143		56	39.16		87	60.84		143
+		"GILMOUR, Neil (HAN)"	23		15	65.22		8	34.78		23
+		"WALKER, Steve (GWA)"	171		35	20.47		136	79.53		171
+		"WOOD, G (LFF)"	62		43	69.35		19	30.65		62
+		"MCDONALD, Karen (CTA)"	33		30	90.91		3	9.09		33
+		Total	432		1238	66.27		630	33.73		1868
+
+	Peppermint Grove										
+			1st Prefs		362	87.44		52	12.56		414
+		"BUCKLE, Ashley (DEM)"	11		6	54.55		5	45.45		11
+		"GILMOUR, Neil (HAN)"	8		5	62.50		3	37.50		8
+		"WALKER, Steve (GWA)"	31		8	25.81		23	74.19		31
+		"WOOD, G (LFF)"	14		11	78.57		3	21.43		14
+		"MCDONALD, Karen (CTA)"	6		6	100.00		0	0.00		6
+		Total	70		398	82.23		86	17.77		484
+
+	Perth (Curtin)										
+			1st Prefs		77	50.99		74	49.01		151
+		"BUCKLE, Ashley (DEM)"	35		13	37.14		22	62.86		35
+		"GILMOUR, Neil (HAN)"	6		5	83.33		1	16.67		6
+		"WALKER, Steve (GWA)"	35		8	22.86		27	77.14		35
+		"WOOD, G (LFF)"	5		4	80.00		1	20.00		5
+		"MCDONALD, Karen (CTA)"	5		3	60.00		2	40.00		5
+		Total	86		110	46.41		127	53.59		237
+
+	Rottnest (Curtin)										
+			1st Prefs		129	78.18		36	21.82		165
+		"BUCKLE, Ashley (DEM)"	9		5	55.56		4	44.44		9
+		"GILMOUR, Neil (HAN)"	1		1	100.00		0	0.00		1
+		"WALKER, Steve (GWA)"	21		7	33.33		14	66.67		21
+		"WOOD, G (LFF)"	9		5	55.56		4	44.44		9
+		"MCDONALD, Karen (CTA)"	1		1	100.00		0	0.00		1
+		Total	41		148	71.84		58	28.16		206
+
+	Shenton Park East										
+			1st Prefs		361	62.24		219	37.76		580
+		"BUCKLE, Ashley (DEM)"	67		21	31.34		46	68.66		67
+		"GILMOUR, Neil (HAN)"	13		8	61.54		5	38.46		13
+		"WALKER, Steve (GWA)"	121		24	19.83		97	80.17		121
+		"WOOD, G (LFF)"	17		11	64.71		6	35.29		17
+		"MCDONALD, Karen (CTA)"	10		4	40.00		6	60.00		10
+		Total	228		429	53.09		379	46.91		808
+
+	Shenton Park West										
+			1st Prefs		654	62.46		393	37.54		1047
+		"BUCKLE, Ashley (DEM)"	106		32	30.19		74	69.81		106
+		"GILMOUR, Neil (HAN)"	25		14	56.00		11	44.00		25
+		"WALKER, Steve (GWA)"	228		34	14.91		194	85.09		228
+		"WOOD, G (LFF)"	44		31	70.45		13	29.55		44
+		"MCDONALD, Karen (CTA)"	6		6	100.00		0	0.00		6
+		Total	409		771	52.95		685	47.05		1456
+
+	Sir Charles Gairdner Hospital										
+			1st Prefs		74	61.16		47	38.84		121
+		"BUCKLE, Ashley (DEM)"	11		5	45.45		6	54.55		11
+		"GILMOUR, Neil (HAN)"	3		3	100.00		0	0.00		3
+		"WALKER, Steve (GWA)"	19		3	15.79		16	84.21		19
+		"WOOD, G (LFF)"	6		3	50.00		3	50.00		6
+		"MCDONALD, Karen (CTA)"	2		2	100.00		0	0.00		2
+		Total	41		90	55.56		72	44.44		162
+
+	Subiaco										
+			1st Prefs		1184	65.81		615	34.19		1799
+		"BUCKLE, Ashley (DEM)"	206		71	34.47		135	65.53		206
+		"GILMOUR, Neil (HAN)"	49		37	75.51		12	24.49		49
+		"WALKER, Steve (GWA)"	309		47	15.21		262	84.79		309
+		"WOOD, G (LFF)"	74		59	79.73		15	20.27		74
+		"MCDONALD, Karen (CTA)"	18		14	77.78		4	22.22		18
+		Total	656		1412	57.52		1043	42.48		2455
+
+	Subiaco North										
+			1st Prefs		208	61.90		128	38.10		336
+		"BUCKLE, Ashley (DEM)"	40		14	35.00		26	65.00		40
+		"GILMOUR, Neil (HAN)"	11		8	72.73		3	27.27		11
+		"WALKER, Steve (GWA)"	57		10	17.54		47	82.46		57
+		"WOOD, G (LFF)"	7		5	71.43		2	28.57		7
+		"MCDONALD, Karen (CTA)"	5		4	80.00		1	20.00		5
+		Total	120		249	54.61		207	45.39		456
+
+	Swanbourne										
+			1st Prefs		1024	77.75		293	22.25		1317
+		"BUCKLE, Ashley (DEM)"	96		42	43.75		54	56.25		96
+		"GILMOUR, Neil (HAN)"	44		27	61.36		17	38.64		44
+		"WALKER, Steve (GWA)"	154		38	24.68		116	75.32		154
+		"WOOD, G (LFF)"	31		23	74.19		8	25.81		31
+		"MCDONALD, Karen (CTA)"	14		10	71.43		4	28.57		14
+		Total	339		1164	70.29		492	29.71		1656
+
+	Tuart Hill (Curtin)										
+			1st Prefs		79	52.32		72	47.68		151
+		"BUCKLE, Ashley (DEM)"	17		9	52.94		8	47.06		17
+		"GILMOUR, Neil (HAN)"	5		3	60.00		2	40.00		5
+		"WALKER, Steve (GWA)"	30		11	36.67		19	63.33		30
+		"WOOD, G (LFF)"	5		5	100.00		0	0.00		5
+		"MCDONALD, Karen (CTA)"	1		0	0.00		1	100.00		1
+		Total	58		107	51.20		102	48.80		209
+
+	Wembley Central										
+			1st Prefs		470	73.21		172	26.79		642
+		"BUCKLE, Ashley (DEM)"	38		15	39.47		23	60.53		38
+		"GILMOUR, Neil (HAN)"	29		21	72.41		8	27.59		29
+		"WALKER, Steve (GWA)"	52		7	13.46		45	86.54		52
+		"WOOD, G (LFF)"	13		7	53.85		6	46.15		13
+		"MCDONALD, Karen (CTA)"	10		8	80.00		2	20.00		10
+		Total	142		528	67.35		256	32.65		784
+
+	Wembley Downs										
+			1st Prefs		1365	73.03		504	26.97		1869
+		"BUCKLE, Ashley (DEM)"	120		41	34.17		79	65.83		120
+		"GILMOUR, Neil (HAN)"	68		48	70.59		20	29.41		68
+		"WALKER, Steve (GWA)"	166		44	26.51		122	73.49		166
+		"WOOD, G (LFF)"	44		37	84.09		7	15.91		44
+		"MCDONALD, Karen (CTA)"	49		45	91.84		4	8.16		49
+		Total	447		1580	68.22		736	31.78		2316
+
+	Wembley North										
+			1st Prefs		794	56.63		608	43.37		1402
+		"BUCKLE, Ashley (DEM)"	149		65	43.62		84	56.38		149
+		"GILMOUR, Neil (HAN)"	70		43	61.43		27	38.57		70
+		"WALKER, Steve (GWA)"	152		38	25.00		114	75.00		152
+		"WOOD, G (LFF)"	18		10	55.56		8	44.44		18
+		"MCDONALD, Karen (CTA)"	16		12	75.00		4	25.00		16
+		Total	405		962	53.24		845	46.76		1807
+
+	Wembley South										
+			1st Prefs		357	73.31		130	26.69		487
+		"BUCKLE, Ashley (DEM)"	46		15	32.61		31	67.39		46
+		"GILMOUR, Neil (HAN)"	15		10	66.67		5	33.33		15
+		"WALKER, Steve (GWA)"	58		13	22.41		45	77.59		58
+		"WOOD, G (LFF)"	7		3	42.86		4	57.14		7
+		"MCDONALD, Karen (CTA)"	8		5	62.50		3	37.50		8
+		Total	134		403	64.90		218	35.10		621
+
+	Wembley West										
+			1st Prefs		1103	63.72		628	36.28		1731
+		"BUCKLE, Ashley (DEM)"	186		75	40.32		111	59.68		186
+		"GILMOUR, Neil (HAN)"	57		40	70.18		17	29.82		57
+		"WALKER, Steve (GWA)"	161		36	22.36		125	77.64		161
+		"WOOD, G (LFF)"	42		33	78.57		9	21.43		42
+		"MCDONALD, Karen (CTA)"	38		24	63.16		14	36.84		38
+		Total	484		1311	59.19		904	40.81		2215
+
+	West Perth (Curtin)										
+			1st Prefs		199	53.35		174	46.65		373
+		"BUCKLE, Ashley (DEM)"	50		12	24.00		38	76.00		50
+		"GILMOUR, Neil (HAN)"	11		5	45.45		6	54.55		11
+		"WALKER, Steve (GWA)"	78		16	20.51		62	79.49		78
+		"WOOD, G (LFF)"	6		5	83.33		1	16.67		6
+		"MCDONALD, Karen (CTA)"	7		4	57.14		3	42.86		7
+		Total	152		241	45.90		284	54.10		525
+
+	West Perth Central										
+			1st Prefs		206	71.03		84	28.97		290
+		"BUCKLE, Ashley (DEM)"	32		15	46.88		17	53.13		32
+		"GILMOUR, Neil (HAN)"	10		7	70.00		3	30.00		10
+		"WALKER, Steve (GWA)"	34		10	29.41		24	70.59		34
+		"WOOD, G (LFF)"	8		8	100.00		0	0.00		8
+		"MCDONALD, Karen (CTA)"	4		3	75.00		1	25.00		4
+		Total	88		249	65.87		129	34.13		378
+
+	Woodlands										
+			1st Prefs		1316	70.87		541	29.13		1857
+		"BUCKLE, Ashley (DEM)"	95		43	45.26		52	54.74		95
+		"GILMOUR, Neil (HAN)"	59		45	76.27		14	23.73		59
+		"WALKER, Steve (GWA)"	128		35	27.34		93	72.66		128
+		"WOOD, G (LFF)"	34		12	35.29		22	64.71		34
+		"MCDONALD, Karen (CTA)"	42		33	78.57		9	21.43		42
+		Total	358		1484	67.00		731	33.00		2215
+
+	Woodlands North										
+			1st Prefs		434	69.22		193	30.78		627
+		"BUCKLE, Ashley (DEM)"	31		13	41.94		18	58.06		31
+		"GILMOUR, Neil (HAN)"	35		22	62.86		13	37.14		35
+		"WALKER, Steve (GWA)"	56		8	14.29		48	85.71		56
+		"WOOD, G (LFF)"	18		15	83.33		3	16.67		18
+		"MCDONALD, Karen (CTA)"	12		8	66.67		4	33.33		12
+		Total	152		500	64.18		279	35.82		779
+
+	Special Hospitals										
+			1st Prefs		934	78.42		257	21.58		1191
+		"BUCKLE, Ashley (DEM)"	48		33	68.75		15	31.25		48
+		"GILMOUR, Neil (HAN)"	25		19	76.00		6	24.00		25
+		"WALKER, Steve (GWA)"	24		8	33.33		16	66.67		24
+		"WOOD, G (LFF)"	21		17	80.95		4	19.05		21
+		"MCDONALD, Karen (CTA)"	16		10	62.50		6	37.50		16
+		Total	134		1021	77.06		304	22.94		1325
+
+	Total Ordinary										
+			1st Prefs		35288	70.19		14990	29.81		50278
+		"BUCKLE, Ashley (DEM)"	3973		1617	40.70		2356	59.30		3973
+		"GILMOUR, Neil (HAN)"	1510		998	66.09		512	33.91		1510
+		"WALKER, Steve (GWA)"	5779		1302	22.53		4477	77.47		5779
+		"WOOD, G (LFF)"	1379		1021	74.04		358	25.96		1379
+		"MCDONALD, Karen (CTA)"	635		452	71.18		183	28.82		635
+		Total	13276		40678	64.01		22876	35.99		63554
+
+	ABSENT										
+			1st Prefs		2454	66.98		1210	33.02		3664
+		"BUCKLE, Ashley (DEM)"	431		176	40.84		255	59.16		431
+		"GILMOUR, Neil (HAN)"	155		98	63.23		57	36.77		155
+		"WALKER, Steve (GWA)"	690		174	25.22		516	74.78		690
+		"WOOD, G (LFF)"	169		126	74.56		43	25.44		169
+		"MCDONALD, Karen (CTA)"	72		48	66.67		24	33.33		72
+		Total	1517		3076	59.37		2105	40.63		5181
+
+	POSTAL										
+			1st Prefs		1811	72.70		680	27.30		2491
+		"BUCKLE, Ashley (DEM)"	133		60	45.11		73	54.89		133
+		"GILMOUR, Neil (HAN)"	88		52	59.09		36	40.91		88
+		"WALKER, Steve (GWA)"	158		36	22.78		122	77.22		158
+		"WOOD, G (LFF)"	73		62	84.93		11	15.07		73
+		"MCDONALD, Karen (CTA)"	25		22	88.00		3	12.00		25
+		Total	477		2043	68.83		925	31.17		2968
+
+	PRE_POLL										
+			1st Prefs		2087	72.39		796	27.61		2883
+		"BUCKLE, Ashley (DEM)"	269		103	38.29		166	61.71		269
+		"GILMOUR, Neil (HAN)"	83		54	65.06		29	34.94		83
+		"WALKER, Steve (GWA)"	331		82	24.77		249	75.23		331
+		"WOOD, G (LFF)"	117		92	78.63		25	21.37		117
+		"MCDONALD, Karen (CTA)"	26		12	46.15		14	53.85		26
+		Total	826		2430	65.52		1279	34.48		3709
+
+	PROVISIONAL										
+			1st Prefs		223	66.37		113	33.63		336
+		"BUCKLE, Ashley (DEM)"	57		23	40.35		34	59.65		57
+		"GILMOUR, Neil (HAN)"	4		2	50.00		2	50.00		4
+		"WALKER, Steve (GWA)"	61		17	27.87		44	72.13		61	
+		"WOOD, G (LFF)"	12		6	50.00		6	50.00		12	
+		"MCDONALD, Karen (CTA)"	5		4	80.00		1	20.00		5	
+		Total	139		275	57.89		200	42.11		475	
+
+	Division Summary											
+			1st Prefs		41863	70.18		17789	29.82		59652	
+		"BUCKLE, Ashley (DEM)"	4863		1979	40.70		2884	59.30		4863	
+		"GILMOUR, Neil (HAN)"	1840		1204	65.43		636	34.57		1840	
+		"WALKER, Steve (GWA)"	7019		1611	22.95		5408	77.05		7019	
+		"WOOD, G (LFF)"	1750		1307	74.69		443	25.31		1750	
+		"MCDONALD, Karen (CTA)"	763		538	70.51		225	29.49		763	
+		Total	16235		48502	63.91		27385	36.09		75887	

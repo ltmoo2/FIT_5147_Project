@@ -1,0 +1,496 @@
+House of Representatives - 2001 Election: Victoria												
+Two Candidate Preferred Preference Flow Result												
+By Polling Place by Division												
+La Trobe (88269)												
+		Candidate		                  	"CHARLES, Bob"		               	"STAINDL, Philip"		            	Total	
+				                           	LP		                         	ALP		                        		
+				                           	Votes	%	                     	Votes	%	                     		
+	Bayswater East											
+			1st Prefs		367	53.97		313	46.03		680	
+		"SMITH, Craig (GRN)"	38		13	34.21		25	65.79		38	
+		"HOLLAND, Tony (DEM)"	60		21	35.00		39	65.00		60	
+		"VOIGT, Wolfgang (CTA)"	17		13	76.47		4	23.53		17	
+		"SCOTT, June (HAN)"	17		10	58.82		7	41.18		17	
+		"DEAN, Frank (IND)"	4		3	75.00		1	25.00		4	
+		"ALLEN, Jason (IND)"	3		1	33.33		2	66.67		3	
+		Total	139		428	52.26		391	47.74		819	
+
+	Beaconsfield										
+			1st Prefs		891	66.25		454	33.75		1345
+		"SMITH, Craig (GRN)"	88		32	36.36		56	63.64		88
+		"HOLLAND, Tony (DEM)"	109		50	45.87		59	54.13		109
+		"VOIGT, Wolfgang (CTA)"	22		17	77.27		5	22.73		22
+		"SCOTT, June (HAN)"	29		15	51.72		14	48.28		29
+		"DEAN, Frank (IND)"	12		3	25.00		9	75.00		12
+		"ALLEN, Jason (IND)"	6		5	83.33		1	16.67		6
+		Total	266		1013	62.88		598	37.12		1611
+
+	Beaconsfield Upper										
+			1st Prefs		967	70.53		404	29.47		1371
+		"SMITH, Craig (GRN)"	114		29	25.44		85	74.56		114
+		"HOLLAND, Tony (DEM)"	121		61	50.41		60	49.59		121
+		"VOIGT, Wolfgang (CTA)"	11		8	72.73		3	27.27		11
+		"SCOTT, June (HAN)"	23		13	56.52		10	43.48		23
+		"DEAN, Frank (IND)"	5		4	80.00		1	20.00		5
+		"ALLEN, Jason (IND)"	11		0	0.00		11	100.00		11
+		Total	285		1082	65.34		574	34.66		1656
+
+	Belgrave										
+			1st Prefs		445	45.88		525	54.12		970
+		"SMITH, Craig (GRN)"	212		30	14.15		182	85.85		212
+		"HOLLAND, Tony (DEM)"	138		58	42.03		80	57.97		138
+		"VOIGT, Wolfgang (CTA)"	24		16	66.67		8	33.33		24
+		"SCOTT, June (HAN)"	25		10	40.00		15	60.00		25
+		"DEAN, Frank (IND)"	7		4	57.14		3	42.86		7
+		"ALLEN, Jason (IND)"	17		7	41.18		10	58.82		17
+		Total	423		570	40.92		823	59.08		1393
+
+	Belgrave South										
+			1st Prefs		960	57.94		697	42.06		1657
+		"SMITH, Craig (GRN)"	197		37	18.78		160	81.22		197
+		"HOLLAND, Tony (DEM)"	186		77	41.40		109	58.60		186
+		"VOIGT, Wolfgang (CTA)"	37		32	86.49		5	13.51		37
+		"SCOTT, June (HAN)"	33		14	42.42		19	57.58		33
+		"DEAN, Frank (IND)"	4		3	75.00		1	25.00		4
+		"ALLEN, Jason (IND)"	16		10	62.50		6	37.50		16
+		Total	473		1133	53.19		997	46.81		2130
+
+	Berwick										
+			1st Prefs		2946	72.14		1138	27.86		4084
+		"SMITH, Craig (GRN)"	185		48	25.95		137	74.05		185
+		"HOLLAND, Tony (DEM)"	307		149	48.53		158	51.47		307
+		"VOIGT, Wolfgang (CTA)"	36		30	83.33		6	16.67		36
+		"SCOTT, June (HAN)"	54		30	55.56		24	44.44		54
+		"DEAN, Frank (IND)"	12		6	50.00		6	50.00		12
+		"ALLEN, Jason (IND)"	13		8	61.54		5	38.46		13
+		Total	607		3217	68.58		1474	31.42		4691
+
+	Berwick Lodge										
+			1st Prefs		1267	58.88		885	41.12		2152
+		"SMITH, Craig (GRN)"	66		23	34.85		43	65.15		66
+		"HOLLAND, Tony (DEM)"	175		81	46.29		94	53.71		175
+		"VOIGT, Wolfgang (CTA)"	42		32	76.19		10	23.81		42
+		"SCOTT, June (HAN)"	26		16	61.54		10	38.46		26
+		"DEAN, Frank (IND)"	10		5	50.00		5	50.00		10
+		"ALLEN, Jason (IND)"	17		9	52.94		8	47.06		17
+		Total	336		1433	57.60		1055	42.40		2488
+
+	Berwick South										
+			1st Prefs		1794	61.12		1141	38.88		2935
+		"SMITH, Craig (GRN)"	110		31	28.18		79	71.82		110
+		"HOLLAND, Tony (DEM)"	289		155	53.63		134	46.37		289
+		"VOIGT, Wolfgang (CTA)"	49		37	75.51		12	24.49		49
+		"SCOTT, June (HAN)"	53		28	52.83		25	47.17		53
+		"DEAN, Frank (IND)"	17		12	70.59		5	29.41		17
+		"ALLEN, Jason (IND)"	19		12	63.16		7	36.84		19
+		Total	537		2069	59.59		1403	40.41		3472
+
+	Boronia										
+			1st Prefs		876	51.35		830	48.65		1706
+		"SMITH, Craig (GRN)"	105		23	21.90		82	78.10		105
+		"HOLLAND, Tony (DEM)"	171		73	42.69		98	57.31		171
+		"VOIGT, Wolfgang (CTA)"	24		18	75.00		6	25.00		24
+		"SCOTT, June (HAN)"	29		17	58.62		12	41.38		29
+		"DEAN, Frank (IND)"	5		2	40.00		3	60.00		5
+		"ALLEN, Jason (IND)"	16		5	31.25		11	68.75		16
+		Total	350		1014	49.32		1042	50.68		2056
+
+	Boronia Central										
+			1st Prefs		554	53.22		487	46.78		1041
+		"SMITH, Craig (GRN)"	95		12	12.63		83	87.37		95
+		"HOLLAND, Tony (DEM)"	79		35	44.30		44	55.70		79
+		"VOIGT, Wolfgang (CTA)"	13		10	76.92		3	23.08		13
+		"SCOTT, June (HAN)"	23		14	60.87		9	39.13		23
+		"DEAN, Frank (IND)"	2		0	0.00		2	100.00		2
+		"ALLEN, Jason (IND)"	12		4	33.33		8	66.67		12
+		Total	224		629	49.72		636	50.28		1265
+
+	Boronia East										
+			1st Prefs		724	49.05		752	50.95		1476
+		"SMITH, Craig (GRN)"	127		40	31.50		87	68.50		127
+		"HOLLAND, Tony (DEM)"	141		54	38.30		87	61.70		141
+		"VOIGT, Wolfgang (CTA)"	24		14	58.33		10	41.67		24
+		"SCOTT, June (HAN)"	34		20	58.82		14	41.18		34
+		"DEAN, Frank (IND)"	9		3	33.33		6	66.67		9
+		"ALLEN, Jason (IND)"	10		6	60.00		4	40.00		10
+		Total	345		861	47.28		960	52.72		1821
+
+	Boronia North										
+			1st Prefs		1130	54.27		952	45.73		2082
+		"SMITH, Craig (GRN)"	156		30	19.23		126	80.77		156
+		"HOLLAND, Tony (DEM)"	204		102	50.00		102	50.00		204
+		"VOIGT, Wolfgang (CTA)"	25		17	68.00		8	32.00		25
+		"SCOTT, June (HAN)"	36		16	44.44		20	55.56		36
+		"DEAN, Frank (IND)"	15		4	26.67		11	73.33		15
+		"ALLEN, Jason (IND)"	18		11	61.11		7	38.89		18
+		Total	454		1310	51.66		1226	48.34		2536
+
+	Clematis										
+			1st Prefs		164	56.16		128	43.84		292
+		"SMITH, Craig (GRN)"	39		5	12.82		34	87.18		39
+		"HOLLAND, Tony (DEM)"	16		9	56.25		7	43.75		16
+		"VOIGT, Wolfgang (CTA)"	0		0	0.00		0	0.00		0
+		"SCOTT, June (HAN)"	5		1	20.00		4	80.00		5
+		"DEAN, Frank (IND)"	3		2	66.67		1	33.33		3
+		"ALLEN, Jason (IND)"	2		0	0.00		2	100.00		2
+		Total	65		181	50.70		176	49.30		357
+
+	Cockatoo										
+			1st Prefs		722	50.42		710	49.58		1432
+		"SMITH, Craig (GRN)"	209		32	15.31		177	84.69		209
+		"HOLLAND, Tony (DEM)"	190		76	40.00		114	60.00		190
+		"VOIGT, Wolfgang (CTA)"	15		10	66.67		5	33.33		15
+		"SCOTT, June (HAN)"	33		20	60.61		13	39.39		33
+		"DEAN, Frank (IND)"	14		6	42.86		8	57.14		14
+		"ALLEN, Jason (IND)"	11		4	36.36		7	63.64		11
+		Total	472		870	45.69		1034	54.31		1904
+
+	Emerald										
+			1st Prefs		1463	59.02		1016	40.98		2479
+		"SMITH, Craig (GRN)"	369		74	20.05		295	79.95		369
+		"HOLLAND, Tony (DEM)"	325		151	46.46		174	53.54		325
+		"VOIGT, Wolfgang (CTA)"	32		25	78.13		7	21.88		32
+		"SCOTT, June (HAN)"	46		29	63.04		17	36.96		46
+		"DEAN, Frank (IND)"	16		6	37.50		10	62.50		16
+		"ALLEN, Jason (IND)"	13		6	46.15		7	53.85		13
+		Total	801		1754	53.48		1526	46.52		3280
+
+	Fairhills										
+			1st Prefs		847	48.18		911	51.82		1758
+		"SMITH, Craig (GRN)"	96		21	21.88		75	78.13		96
+		"HOLLAND, Tony (DEM)"	162		64	39.51		98	60.49		162
+		"VOIGT, Wolfgang (CTA)"	13		9	69.23		4	30.77		13
+		"SCOTT, June (HAN)"	27		9	33.33		18	66.67		27
+		"DEAN, Frank (IND)"	11		5	45.45		6	54.55		11
+		"ALLEN, Jason (IND)"	16		3	18.75		13	81.25		16
+		Total	325		958	45.99		1125	54.01		2083
+
+	Ferntree Gully										
+			1st Prefs		700	52.28		639	47.72		1339
+		"SMITH, Craig (GRN)"	106		19	17.92		87	82.08		106
+		"HOLLAND, Tony (DEM)"	119		57	47.90		62	52.10		119
+		"VOIGT, Wolfgang (CTA)"	10		6	60.00		4	40.00		10
+		"SCOTT, June (HAN)"	28		17	60.71		11	39.29		28
+		"DEAN, Frank (IND)"	8		5	62.50		3	37.50		8
+		"ALLEN, Jason (IND)"	14		4	28.57		10	71.43		14
+		Total	285		808	49.75		816	50.25		1624
+
+	Ferntree Gully North										
+			1st Prefs		926	55.58		740	44.42		1666
+		"SMITH, Craig (GRN)"	170		31	18.24		139	81.76		170
+		"HOLLAND, Tony (DEM)"	191		83	43.46		108	56.54		191
+		"VOIGT, Wolfgang (CTA)"	25		14	56.00		11	44.00		25
+		"SCOTT, June (HAN)"	44		19	43.18		25	56.82		44
+		"DEAN, Frank (IND)"	10		4	40.00		6	60.00		10
+		"ALLEN, Jason (IND)"	34		16	47.06		18	52.94		34
+		Total	474		1093	51.07		1047	48.93		2140
+
+	Ferntree Gully Upper										
+			1st Prefs		636	49.57		647	50.43		1283
+		"SMITH, Craig (GRN)"	186		24	12.90		162	87.10		186
+		"HOLLAND, Tony (DEM)"	155		56	36.13		99	63.87		155
+		"VOIGT, Wolfgang (CTA)"	15		14	93.33		1	6.67		15
+		"SCOTT, June (HAN)"	40		24	60.00		16	40.00		40
+		"DEAN, Frank (IND)"	3		0	0.00		3	100.00		3
+		"ALLEN, Jason (IND)"	8		3	37.50		5	62.50		8
+		Total	407		757	44.79		933	55.21		1690
+
+	Ferntree Gully West										
+			1st Prefs		1197	52.73		1073	47.27		2270
+		"SMITH, Craig (GRN)"	135		32	23.70		103	76.30		135
+		"HOLLAND, Tony (DEM)"	224		92	41.07		132	58.93		224
+		"VOIGT, Wolfgang (CTA)"	21		14	66.67		7	33.33		21
+		"SCOTT, June (HAN)"	42		17	40.48		25	59.52		42
+		"DEAN, Frank (IND)"	13		4	30.77		9	69.23		13
+		"ALLEN, Jason (IND)"	30		13	43.33		17	56.67		30
+		Total	465		1369	50.05		1366	49.95		2735
+
+	Ferny Creek										
+			1st Prefs		311	54.37		261	45.63		572
+		"SMITH, Craig (GRN)"	108		15	13.89		93	86.11		108
+		"HOLLAND, Tony (DEM)"	66		28	42.42		38	57.58		66
+		"VOIGT, Wolfgang (CTA)"	5		5	100.00		0	0.00		5
+		"SCOTT, June (HAN)"	6		5	83.33		1	16.67		6
+		"DEAN, Frank (IND)"	3		2	66.67		1	33.33		3
+		"ALLEN, Jason (IND)"	5		2	40.00		3	60.00		5
+		Total	193		368	48.10		397	51.90		765
+
+	Gembrook										
+			1st Prefs		401	53.90		343	46.10		744
+		"SMITH, Craig (GRN)"	65		3	4.62		62	95.38		65
+		"HOLLAND, Tony (DEM)"	64		28	43.75		36	56.25		64
+		"VOIGT, Wolfgang (CTA)"	7		5	71.43		2	28.57		7
+		"SCOTT, June (HAN)"	27		13	48.15		14	51.85		27
+		"DEAN, Frank (IND)"	3		2	66.67		1	33.33		3
+		"ALLEN, Jason (IND)"	8		3	37.50		5	62.50		8
+		Total	174		455	49.56		463	50.44		918
+
+	Hallam Valley										
+			1st Prefs		1201	52.17		1101	47.83		2302
+		"SMITH, Craig (GRN)"	81		20	24.69		61	75.31		81
+		"HOLLAND, Tony (DEM)"	184		93	50.54		91	49.46		184
+		"VOIGT, Wolfgang (CTA)"	32		22	68.75		10	31.25		32
+		"SCOTT, June (HAN)"	38		20	52.63		18	47.37		38
+		"DEAN, Frank (IND)"	7		2	28.57		5	71.43		7
+		"ALLEN, Jason (IND)"	11		6	54.55		5	45.45		11
+		Total	353		1364	51.37		1291	48.63		2655
+
+	Harkaway										
+			1st Prefs		385	75.49		125	24.51		510
+		"SMITH, Craig (GRN)"	45		13	28.89		32	71.11		45
+		"HOLLAND, Tony (DEM)"	25		16	64.00		9	36.00		25
+		"VOIGT, Wolfgang (CTA)"	11		11	100.00		0	0.00		11
+		"SCOTT, June (HAN)"	10		3	30.00		7	70.00		10
+		"DEAN, Frank (IND)"	2		1	50.00		1	50.00		2
+		"ALLEN, Jason (IND)"	3		2	66.67		1	33.33		3
+		Total	96		431	71.12		175	28.88		606
+
+	Kallista (La Trobe)										
+			1st Prefs		102	65.38		54	34.62		156
+		"SMITH, Craig (GRN)"	42		8	19.05		34	80.95		42
+		"HOLLAND, Tony (DEM)"	13		3	23.08		10	76.92		13
+		"VOIGT, Wolfgang (CTA)"	0		0	0.00		0	0.00		0
+		"SCOTT, June (HAN)"	0		0	0.00		0	0.00		0
+		"DEAN, Frank (IND)"	0		0	0.00		0	0.00		0
+		"ALLEN, Jason (IND)"	0		0	0.00		0	0.00		0
+		Total	55		113	53.55		98	46.45		211
+
+	Macclesfield										
+			1st Prefs		317	61.32		200	38.68		517
+		"SMITH, Craig (GRN)"	46		4	8.70		42	91.30		46
+		"HOLLAND, Tony (DEM)"	76		29	38.16		47	61.84		76
+		"VOIGT, Wolfgang (CTA)"	6		6	100.00		0	0.00		6
+		"SCOTT, June (HAN)"	11		9	81.82		2	18.18		11
+		"DEAN, Frank (IND)"	2		0	0.00		2	100.00		2
+		"ALLEN, Jason (IND)"	1		0	0.00		1	100.00		1
+		Total	142		365	55.39		294	44.61		659
+
+	Melbourne (La Trobe)										
+			1st Prefs		18	56.25		14	43.75		32
+		"SMITH, Craig (GRN)"	6		2	33.33		4	66.67		6
+		"HOLLAND, Tony (DEM)"	9		2	22.22		7	77.78		9
+		"VOIGT, Wolfgang (CTA)"	0		0	0.00		0	0.00		0
+		"SCOTT, June (HAN)"	0		0	0.00		0	0.00		0
+		"DEAN, Frank (IND)"	1		1	100.00		0	0.00		1
+		"ALLEN, Jason (IND)"	0		0	0.00		0	0.00		0
+		Total	16		23	47.92		25	52.08		48
+
+	Menzies Creek										
+			1st Prefs		216	58.38		154	41.62		370
+		"SMITH, Craig (GRN)"	58		12	20.69		46	79.31		58
+		"HOLLAND, Tony (DEM)"	38		17	44.74		21	55.26		38
+		"VOIGT, Wolfgang (CTA)"	4		2	50.00		2	50.00		4
+		"SCOTT, June (HAN)"	3		2	66.67		1	33.33		3
+		"DEAN, Frank (IND)"	3		2	66.67		1	33.33		3
+		"ALLEN, Jason (IND)"	2		1	50.00		1	50.00		2
+		Total	108		252	52.72		226	47.28		478
+
+	Mount Dandenong (La Trobe)										
+			1st Prefs		200	59.00		139	41.00		339
+		"SMITH, Craig (GRN)"	100		13	13.00		87	87.00		100
+		"HOLLAND, Tony (DEM)"	28		9	32.14		19	67.86		28
+		"VOIGT, Wolfgang (CTA)"	2		1	50.00		1	50.00		2
+		"SCOTT, June (HAN)"	8		2	25.00		6	75.00		8
+		"DEAN, Frank (IND)"	0		0	0.00		0	0.00		0
+		"ALLEN, Jason (IND)"	2		2	100.00		0	0.00		2
+		Total	140		227	47.39		252	52.61		479
+
+	Narre Warren (La Trobe)										
+			1st Prefs		1062	52.76		951	47.24		2013
+		"SMITH, Craig (GRN)"	78		17	21.79		61	78.21		78
+		"HOLLAND, Tony (DEM)"	130		49	37.69		81	62.31		130
+		"VOIGT, Wolfgang (CTA)"	26		19	73.08		7	26.92		26
+		"SCOTT, June (HAN)"	34		20	58.82		14	41.18		34
+		"DEAN, Frank (IND)"	11		6	54.55		5	45.45		11
+		"ALLEN, Jason (IND)"	16		6	37.50		10	62.50		16
+		Total	295		1179	51.08		1129	48.92		2308
+
+	Narre Warren East										
+			1st Prefs		242	77.07		72	22.93		314
+		"SMITH, Craig (GRN)"	16		4	25.00		12	75.00		16
+		"HOLLAND, Tony (DEM)"	15		7	46.67		8	53.33		15
+		"VOIGT, Wolfgang (CTA)"	1		1	100.00		0	0.00		1
+		"SCOTT, June (HAN)"	5		5	100.00		0	0.00		5
+		"DEAN, Frank (IND)"	0		0	0.00		0	0.00		0
+		"ALLEN, Jason (IND)"	2		0	0.00		2	100.00		2
+		Total	39		259	73.37		94	26.63		353
+
+	Narre Warren North										
+			1st Prefs		577	66.71		288	33.29		865
+		"SMITH, Craig (GRN)"	31		13	41.94		18	58.06		31
+		"HOLLAND, Tony (DEM)"	90		48	53.33		42	46.67		90
+		"VOIGT, Wolfgang (CTA)"	15		13	86.67		2	13.33		15
+		"SCOTT, June (HAN)"	13		9	69.23		4	30.77		13
+		"DEAN, Frank (IND)"	7		3	42.86		4	57.14		7
+		"ALLEN, Jason (IND)"	1		0	0.00		1	100.00		1
+		Total	157		663	64.87		359	35.13		1022
+
+	Oatlands										
+			1st Prefs		956	51.23		910	48.77		1866
+		"SMITH, Craig (GRN)"	61		19	31.15		42	68.85		61
+		"HOLLAND, Tony (DEM)"	169		73	43.20		96	56.80		169
+		"VOIGT, Wolfgang (CTA)"	26		21	80.77		5	19.23		26
+		"SCOTT, June (HAN)"	32		14	43.75		18	56.25		32
+		"DEAN, Frank (IND)"	11		4	36.36		7	63.64		11
+		"ALLEN, Jason (IND)"	8		2	25.00		6	75.00		8
+		Total	307		1089	50.12		1084	49.88		2173
+
+	Officer										
+			1st Prefs		413	75.50		134	24.50		547
+		"SMITH, Craig (GRN)"	25		3	12.00		22	88.00		25
+		"HOLLAND, Tony (DEM)"	34		20	58.82		14	41.18		34
+		"VOIGT, Wolfgang (CTA)"	3		2	66.67		1	33.33		3
+		"SCOTT, June (HAN)"	17		11	64.71		6	35.29		17
+		"DEAN, Frank (IND)"	5		4	80.00		1	20.00		5
+		"ALLEN, Jason (IND)"	7		1	14.29		6	85.71		7
+		Total	91		454	71.16		184	28.84		638
+
+	Olinda										
+			1st Prefs		240	61.38		151	38.62		391
+		"SMITH, Craig (GRN)"	96		12	12.50		84	87.50		96
+		"HOLLAND, Tony (DEM)"	39		18	46.15		21	53.85		39
+		"VOIGT, Wolfgang (CTA)"	2		2	100.00		0	0.00		2
+		"SCOTT, June (HAN)"	3		1	33.33		2	66.67		3
+		"DEAN, Frank (IND)"	0		0	0.00		0	0.00		0
+		"ALLEN, Jason (IND)"	5		2	40.00		3	60.00		5
+		Total	145		275	51.31		261	48.69		536
+
+	Pakenham Upper (La Trobe)										
+			1st Prefs		97	70.80		40	29.20		137
+		"SMITH, Craig (GRN)"	8		6	75.00		2	25.00		8
+		"HOLLAND, Tony (DEM)"	9		5	55.56		4	44.44		9
+		"VOIGT, Wolfgang (CTA)"	3		2	66.67		1	33.33		3
+		"SCOTT, June (HAN)"	9		4	44.44		5	55.56		9
+		"DEAN, Frank (IND)"	3		3	100.00		0	0.00		3
+		"ALLEN, Jason (IND)"	4		3	75.00		1	25.00		4
+		Total	36		120	69.36		53	30.64		173
+
+	Sassafras										
+			1st Prefs		317	55.81		251	44.19		568
+		"SMITH, Craig (GRN)"	120		18	15.00		102	85.00		120
+		"HOLLAND, Tony (DEM)"	68		30	44.12		38	55.88		68
+		"VOIGT, Wolfgang (CTA)"	2		2	100.00		0	0.00		2
+		"SCOTT, June (HAN)"	9		5	55.56		4	44.44		9
+		"DEAN, Frank (IND)"	6		1	16.67		5	83.33		6
+		"ALLEN, Jason (IND)"	5		2	40.00		3	60.00		5
+		Total	210		375	48.20		403	51.80		778
+
+	Selby										
+			1st Prefs		260	39.82		393	60.18		653
+		"SMITH, Craig (GRN)"	141		22	15.60		119	84.40		141
+		"HOLLAND, Tony (DEM)"	69		29	42.03		40	57.97		69
+		"VOIGT, Wolfgang (CTA)"	5		4	80.00		1	20.00		5
+		"SCOTT, June (HAN)"	8		6	75.00		2	25.00		8
+		"DEAN, Frank (IND)"	2		1	50.00		1	50.00		2
+		"ALLEN, Jason (IND)"	4		4	100.00		0	0.00		4
+		Total	229		326	36.96		556	63.04		882
+
+	Tecoma										
+			1st Prefs		646	47.12		725	52.88		1371
+		"SMITH, Craig (GRN)"	257		49	19.07		208	80.93		257
+		"HOLLAND, Tony (DEM)"	188		71	37.77		117	62.23		188
+		"VOIGT, Wolfgang (CTA)"	10		6	60.00		4	40.00		10
+		"SCOTT, June (HAN)"	21		9	42.86		12	57.14		21
+		"DEAN, Frank (IND)"	6		4	66.67		2	33.33		6
+		"ALLEN, Jason (IND)"	22		10	45.45		12	54.55		22
+		Total	504		795	42.40		1080	57.60		1875
+
+	The Basin										
+			1st Prefs		1157	55.79		917	44.21		2074
+		"SMITH, Craig (GRN)"	200		46	23.00		154	77.00		200
+		"HOLLAND, Tony (DEM)"	259		102	39.38		157	60.62		259
+		"VOIGT, Wolfgang (CTA)"	13		11	84.62		2	15.38		13
+		"SCOTT, June (HAN)"	37		21	56.76		16	43.24		37
+		"DEAN, Frank (IND)"	9		3	33.33		6	66.67		9
+		"ALLEN, Jason (IND)"	18		7	38.89		11	61.11		18
+		Total	536		1347	51.61		1263	48.39		2610
+
+	Timbarra										
+			1st Prefs		1062	58.93		740	41.07		1802
+		"SMITH, Craig (GRN)"	70		19	27.14		51	72.86		70
+		"HOLLAND, Tony (DEM)"	169		65	38.46		104	61.54		169
+		"VOIGT, Wolfgang (CTA)"	33		23	69.70		10	30.30		33
+		"SCOTT, June (HAN)"	30		20	66.67		10	33.33		30
+		"DEAN, Frank (IND)"	13		6	46.15		7	53.85		13
+		"ALLEN, Jason (IND)"	8		3	37.50		5	62.50		8
+		Total	323		1198	56.38		927	43.62		2125
+
+	Upwey										
+			1st Prefs		1369	51.68		1280	48.32		2649
+		"SMITH, Craig (GRN)"	431		73	16.94		358	83.06		431
+		"HOLLAND, Tony (DEM)"	351		139	39.60		212	60.40		351
+		"VOIGT, Wolfgang (CTA)"	36		26	72.22		10	27.78		36
+		"SCOTT, June (HAN)"	55		27	49.09		28	50.91		55
+		"DEAN, Frank (IND)"	19		7	36.84		12	63.16		19
+		"ALLEN, Jason (IND)"	22		10	45.45		12	54.55		22
+		Total	914		1651	46.34		1912	53.66		3563
+
+	Special Hospitals										
+			1st Prefs		331	65.94		171	34.06		502
+		"SMITH, Craig (GRN)"	3		1	33.33		2	66.67		3
+		"HOLLAND, Tony (DEM)"	14		6	42.86		8	57.14		14
+		"VOIGT, Wolfgang (CTA)"	2		2	100.00		0	0.00		2
+		"SCOTT, June (HAN)"	2		2	100.00		0	0.00		2
+		"DEAN, Frank (IND)"	5		5	100.00		0	0.00		5
+		"ALLEN, Jason (IND)"	0		0	0.00		0	0.00		0
+		Total	26		347	65.72		181	34.28		528
+
+	Total Ordinary										
+			1st Prefs		31456	56.87		23856	43.13		55312
+		"SMITH, Craig (GRN)"	4891		978	20.00		3913	80.00		4891
+		"HOLLAND, Tony (DEM)"	5469		2391	43.72		3078	56.28		5469
+		"VOIGT, Wolfgang (CTA)"	699		522	74.68		177	25.32		699
+		"SCOTT, June (HAN)"	1025		547	53.37		478	46.63		1025
+		"DEAN, Frank (IND)"	298		138	46.31		160	53.69		298
+		"ALLEN, Jason (IND)"	440		193	43.86		247	56.14		440
+		Total	12822		36225	53.17		31909	46.83		68134
+
+	ABSENT										
+			1st Prefs		2437	58.67		1717	41.33		4154
+		"SMITH, Craig (GRN)"	493		140	28.40		353	71.60		493
+		"HOLLAND, Tony (DEM)"	509		200	39.29		309	60.71		509
+		"VOIGT, Wolfgang (CTA)"	90		60	66.67		30	33.33		90
+		"SCOTT, June (HAN)"	116		63	54.31		53	45.69		116
+		"DEAN, Frank (IND)"	50		21	42.00		29	58.00		50
+		"ALLEN, Jason (IND)"	58		29	50.00		29	50.00		58
+		Total	1316		2950	53.93		2520	46.07		5470
+
+	POSTAL										
+			1st Prefs		2054	61.02		1312	38.98		3366
+		"SMITH, Craig (GRN)"	156		37	23.72		119	76.28		156
+		"HOLLAND, Tony (DEM)"	208		81	38.94		127	61.06		208
+		"VOIGT, Wolfgang (CTA)"	29		21	72.41		8	27.59		29
+		"SCOTT, June (HAN)"	72		36	50.00		36	50.00		72
+		"DEAN, Frank (IND)"	21		8	38.10		13	61.90		21
+		"ALLEN, Jason (IND)"	16		7	43.75		9	56.25		16
+		Total	502		2244	58.01		1624	41.99		3868
+
+	PRE_POLL										
+			1st Prefs		1503	62.42		905	37.58		2408
+		"SMITH, Craig (GRN)"	177		60	33.90		117	66.10		177
+		"HOLLAND, Tony (DEM)"	203		72	35.47		131	64.53		203
+		"VOIGT, Wolfgang (CTA)"	42		28	66.67		14	33.33		42
+		"SCOTT, June (HAN)"	82		45	54.88		37	45.12		82
+		"DEAN, Frank (IND)"	15		8	53.33		7	46.67		15
+		"ALLEN, Jason (IND)"	13		7	53.85		6	46.15		13
+		Total	532		1723	58.61		1217	41.39		2940
+
+	PROVISIONAL										
+			1st Prefs		191	61.02		122	38.98		313
+		"SMITH, Craig (GRN)"	23		8	34.78		15	65.22		23
+		"HOLLAND, Tony (DEM)"	35		15	42.86		20	57.14		35	
+		"VOIGT, Wolfgang (CTA)"	1		1	100.00		0	0.00		1	
+		"SCOTT, June (HAN)"	9		5	55.56		4	44.44		9	
+		"DEAN, Frank (IND)"	2		1	50.00		1	50.00		2	
+		"ALLEN, Jason (IND)"	3		3	100.00		0	0.00		3	
+		Total	73		224	58.03		162	41.97		386	
+
+	Division Summary											
+			1st Prefs		37641	57.42		27912	42.58		65553	
+		"SMITH, Craig (GRN)"	5740		1223	21.31		4517	78.69		5740	
+		"HOLLAND, Tony (DEM)"	6424		2759	42.95		3665	57.05		6424	
+		"VOIGT, Wolfgang (CTA)"	861		632	73.40		229	26.60		861	
+		"SCOTT, June (HAN)"	1304		696	53.37		608	46.63		1304	
+		"DEAN, Frank (IND)"	386		176	45.60		210	54.40		386	
+		"ALLEN, Jason (IND)"	530		239	45.09		291	54.91		530	
+		Total	15245		43366	53.67		37432	46.33		80798	

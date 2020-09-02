@@ -1,0 +1,127 @@
+Senate - 1996 Election: South Australia  																				
+Result of the Transfer and Distribution of Preferences																				
+Election of 6 Senators																				
+																				
+Quota = 933776   +   1 =  133397																				
+	  6+1																			
+																				
+				First			Count 2			Count 3			Count 4							
+				Preference		Votes	Progress		Votes	Progress		Votes	Progress							
+	Candidates			Votes	Status	Transfd	Totals	Status	Transfd	Totals	Status	Transfd	Totals	Status						
+A	"ALDERSEY, Haydon"	ASP		8888		33	8921		34	8955		0	8955							
+A	"LOW, Robert"	ASP		85		4	89		2	91		0	91							
+																				
+B	"GILBEY-RILEY, Emily"	GRY		8174		34	8208		28	8236		0	8236							
+B	"DARBISHIRE, Gratton"	GRY		54		2	56		1	57		0	57							
+																				
+C	"SPENCE, Stephen"	GRN		19054		32	19086		90	19176		1	19177	
+C	"McDOUGALL, Meryl"	GRN		387		2	389		6	395		0	395	
+														
+D	"CROWLEY, Rosemary"	ALP		299317	Elected	0	299317	Elected	-165920	133397	Elected	0	133397	Elected
+D	"SCHACHT, Chris"	ALP		1220		18	1238		165281	166519	Elected	0	166519	Elected
+D	"TEDMANSON, Deirdre"	ALP		557		5	562		288	850		2	852	
+														
+E	"RODWAY, David"	CTA		6779		24	6803		22	6825		0	6825	
+E	"RODWAY, Brett"	CTA		38		0	38		3	41		0	41	
+														
+F	"WOHLTMANN, Michael"			1053		1	1054		4	1058		0	1058	
+F	"WOHLTMANN, Jeanette"			28		0	28		2	30		0	30	
+														
+G	"JOY, Bert"	AFI		9300		36	9336		15	9351		0	9351	
+G	"WIKBLOM, Stephen"	AFI		124		2	126		2	128		0	128	
+														
+H	"DWYER, David"	EFF		2386		15	2401		4	2405		0	2405	
+H	"WALKER, Alfred"	EFF		44		0	44		1	45		0	45	
+														
+I	"McCULLOCH, Deborah"	AWP		5557		20	5577		24	5601		0	5601	
+I	"McHUGH, Marg"	AWP		62		1	63		1	64		0	64	
+I	"TZUMLI, Denise"	AWP		39		0	39		0	39		0	39	
+														
+J	"NICHOLSON, Kenneth S"			6192		28	6220		4	6224		0	6224	
+J	"SHEARING, Colin"			94		1	95		1	96		0	96	
+														
+K	"HILL, Robert"	LP		426361	Elected	-292964	133397	Elected	0	133397	Elected	0	133397	Elected
+K	"CHAPMAN, Grant"	LP		778		292358	293136	Elected	0	293136	Elected	0	293136	Elected
+K	"FERRIS, Jeannie"	LP		532		155	687		6	693		1	694	
+K	"KOURTESIS, Maria"	LP		382		71	453		1	454		0	454	
+														
+L	"STOTT DESPOJA, Natasha"	DEM		133782	Elected	0	133782	Elected	0	133782	Elected	-385	133397	Elected
+L	"GILFILLAN, Ian"	DEM		1448		70	1518		56	1574		374	1948				
+L	"SMITH, Judy"	DEM		371		4	375		7	382		3	385				
+L	"TSAGATOS, Desea"	DEM		129		0	129		1	130		0	130				
+																	
+Ungrouped																	
+	"WELLS, Geoffrey A"	NLP		561		22	583		5	588		0	588				
+																	
+	Exhausted Votes					11	11		17	28		0	28				
+	Loss by Fraction					15	15		14	29		4	33				
+																	
+	Total Votes			933776		292964	933776		165920	933776		385	933776				
+																	
+	Notes		Candidates Elected:			Surplus Distributed			Surplus Distributed			Surplus Distributed					
+			"1. Hill, R"			"Hill, R"			"Crowley, R"			"Stott Despoja, N"					
+			"2. Crowley, R"														
+			"3. Stott Despoja, N"			Candidate Elected			Candidate Elected								
+						"4. Chapman, G"			"5. Schacht, C"					
+														
+														
+														
+				Count 5										
+			Votes	Progress										
+	Candidates		Transfd	Totals	Status									
+A	"ALDERSEY, Haydon"	ASP	10	8965										
+A	"LOW, Robert"	ASP	0	91										
+														
+B	"GILBEY-RILEY, Emily"	GRY	11	8247										
+B	"DARBISHIRE, Gratton"	GRY	1	58										
+														
+C	"SPENCE, Stephen"	GRN	6	19183										
+C	"McDOUGALL, Meryl"	GRN	0	395										
+														
+D	"CROWLEY, Rosemary"	ALP	0	133397	Elected									
+D	"SCHACHT, Chris"	ALP	0	166519	Elected									
+D	"TEDMANSON, Deirdre"	ALP	3	855										
+														
+E	"RODWAY, David"	CTA	15	6840										
+E	"RODWAY, Brett"	CTA	0	41										
+														
+F	"WOHLTMANN, Michael"		0	1058										
+F	"WOHLTMANN, Jeanette"		0	30										
+														
+G	"JOY, Bert"	AFI	7	9358										
+G	"WIKBLOM, Stephen"	AFI	1	129										
+														
+H	"DWYER, David"	EFF	2	2407										
+H	"WALKER, Alfred"	EFF	0	45										
+														
+I	"McCULLOCH, Deborah"	AWP	3	5604										
+I	"McHUGH, Marg"	AWP	0	64										
+I	"TZUMLI, Denise"	AWP	0	39										
+														
+J	"NICHOLSON, Kenneth S"		6	6230										
+J	"SHEARING, Colin"		1	97										
+														
+K	"HILL, Robert"	LP	0	133397	Elected									
+K	"CHAPMAN, Grant"	LP	-159739	133397	Elected									
+K	"FERRIS, Jeannie"	LP	159494	160188	Elected									
+K	"KOURTESIS, Maria"	LP	69	523										
+														
+L	"STOTT DESPOJA, Natasha"	DEM	0	133397	Elected									
+L	"GILFILLAN, Ian"	DEM	87	2035										
+L	"SMITH, Judy"	DEM	5	390										
+L	"TSAGATOS, Desea"	DEM	0	130										
+														
+Ungrouped														
+	"WELLS, Geoffrey A"	NLP	3	591										
+														
+	Exhausted Votes		4	32										
+	Loss by Fraction		11	44										
+														
+	Total Votes		159739	933776										
+														
+	Notes		Surplus Distributed											
+			"Chapman, G"											
+														
+			Candidate Elected											
+			"6. Ferris, J"											
+														

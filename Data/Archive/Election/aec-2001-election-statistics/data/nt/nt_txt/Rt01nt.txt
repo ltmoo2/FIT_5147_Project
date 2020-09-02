@@ -1,0 +1,109 @@
+Senate- 2001 Election: Northern Territory				
+Registered Group voting Tickets				
+
+Northern Territory Country Liberal Party				
+				
+Ticket	Party/Group Name	Candidate Name	Preferences	
+ A	CLP	"SCULLION, N.G."	1	
+		"LOPES, J."	2	
+ B	HAN	"PHILLIPS, R."	12	
+		"KING, J."	13	
+ C	GRN	"ROSS, M."	5	
+		"McCABE, C."	6	
+ D	Unendorsed- Mills J	"MILLS, J."	7	
+		"MEYERHOFF, G."	8	
+ E	DEM	"CURTIS, D."	3	
+		"FAGGION, J."	4	
+ F	ALP	"CROSSIN, T."	9	
+		"HAVNEN, O."	10	
+UG	CEC	"FLYNN, P."	11	
+				
+				
+Pauline Hanson's One Nation				
+				
+Ticket	Party/Group Name	Candidate Name	Preferences	
+ A	CLP	"SCULLION, N.G."	6	
+		"LOPES, J."	5	
+ B	HAN	"PHILLIPS, R."	1	
+		"KING, J."	2	
+ C	GRN	"ROSS, M."	9	
+		"McCABE, C."	8	
+ D	Unendorsed- Mills J	"MILLS, J."	4	
+		"MEYERHOFF, G."	3	
+ E	DEM	"CURTIS, D."	10	
+		"FAGGION, J."	11	
+ F	ALP	"CROSSIN, T."	13	
+		"HAVNEN, O."	12	
+UG	CEC	"FLYNN, P."	7	
+				
+				
+Australian Greens				
+				
+Ticket	Party/Group Name	Candidate Name	Preferences	
+ A	CLP	"SCULLION, N.G."	9	
+		"LOPES, J."	10	
+ B	HAN	"PHILLIPS, R."	12	
+		"KING, J."	13	
+ C	GRN	"ROSS, M."	1	
+		"McCABE, C."	2	
+ D	Unendorsed- Mills J	"MILLS, J."	3	
+		"MEYERHOFF, G."	4	
+ E	DEM	"CURTIS, D."	5	
+		"FAGGION, J."	6	
+ F	ALP	"CROSSIN, T."	7	
+		"HAVNEN, O."	8	
+UG	CEC	"FLYNN, P."	11	
+				
+				
+Unendorsed- Mills J				
+				
+Ticket	Party/Group Name	Candidate Name	Preferences	
+ A	CLP	"SCULLION, N.G."	9	
+		"LOPES, J."	10	
+ B	HAN	"PHILLIPS, R."	12	
+		"KING, J."	13	
+ C	GRN	"ROSS, M."	3	
+		"McCABE, C."	4	
+ D	Unendorsed- Mills J	"MILLS, J."	1	
+		"MEYERHOFF, G."	2	
+ E	DEM	"CURTIS, D."	7	
+		"FAGGION, J."	8	
+ F	ALP	"CROSSIN, T."	5	
+		"HAVNEN, O."	6	
+UG	CEC	"FLYNN, P."	11	
+				
+				
+Australian Democrats				
+			Preferences	
+Ticket	Party/Group Name	Candidate Name	Ticket No#1	Ticket No#2
+ A	CLP	"SCULLION, N.G."	7	9
+		"LOPES, J."	8	10
+ B	HAN	"PHILLIPS, R."	12	12
+		"KING, J."	13	13
+ C	GRN	"ROSS, M."	3	3
+		"McCABE, C."	4	4
+ D	Unendorsed- Mills J	"MILLS, J."	5	5
+		"MEYERHOFF, G."	6	6
+ E	DEM	"CURTIS, D."	1	1
+		"FAGGION, J."	2	2
+ F	ALP	"CROSSIN, T."	9	7
+		"HAVNEN, O."	10	8
+UG	CEC	"FLYNN, P."	11	11
+				
+				
+Australian Labor Party				
+				
+Ticket	Party/Group Name	Candidate Name	Preferences	
+ A	CLP	"SCULLION, N.G."	9
+		"LOPES, J."	10
+ B	HAN	"PHILLIPS, R."	12
+		"KING, J."	13
+ C	GRN	"ROSS, M."	5
+		"McCABE, C."	6
+ D	Unendorsed- Mills J	"MILLS, J."	7
+		"MEYERHOFF, G."	8
+ E	DEM	"CURTIS, D."	3
+		"FAGGION, J."	4
+ F	ALP	"CROSSIN, T."	1
+		"HAVNEN, O."	2
+UG	CEC	"FLYNN, P."	11

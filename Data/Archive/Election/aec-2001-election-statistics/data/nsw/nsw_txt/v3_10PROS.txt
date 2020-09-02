@@ -1,0 +1,407 @@
+House of Representatives - 2001 Election: New South Wales											
+Two Candidate Preferred Preference Flow Result											
+By Polling Place by Division											
+											
+Prospect (86641)											
+		Candidate		"PERKINS, Gareth"		            	"CROSIO, Janice"		             	Total	
+				LP		                         	ALP		                        		
+				Votes	%	                     	Votes	%	                     		
+	Abbotsbury										
+			1st Prefs	607	47.98		658	52.02		1265	
+		"FILIPCZYK, Rebecca (GRN)"	55	22	40.00		33	60.00		55	
+		"HUTCHINSON, John Robert (HAN)"	35	22	62.86		13	37.14		35	
+		"OATES, Garry A (AFI)"	20	14	70.00		6	30.00		20	
+		"HAROON, Lewis (CTA)"	19	11	57.89		8	42.11		19	
+		"PEACOCK, Thomas (DEM)"	40	25	62.50		15	37.50		40	
+		"TAI, Kek (UNI)"	11	5	45.45		6	54.55		11	
+		Total	180	706	48.86		739	51.14		1445	
+
+	Banks Drive										
+			1st Prefs	1256	40.94		1812	59.06		3068	
+		"FILIPCZYK, Rebecca (GRN)"	180	88	48.89		92	51.11		180	
+		"HUTCHINSON, John Robert (HAN)"	254	183	72.05		71	27.95		254	
+		"OATES, Garry A (AFI)"	89	60	67.42		29	32.58		89	
+		"HAROON, Lewis (CTA)"	72	48	66.67		24	33.33		72	
+		"PEACOCK, Thomas (DEM)"	102	44	43.14		58	56.86		102	
+		"TAI, Kek (UNI)"	9	1	11.11		8	88.89		9	
+		Total	706	1680	44.52		2094	55.48		3774	
+
+	Blackwell										
+			1st Prefs	837	42.40		1137	57.60		1974	
+		"FILIPCZYK, Rebecca (GRN)"	80	47	58.75		33	41.25		80	
+		"HUTCHINSON, John Robert (HAN)"	185	118	63.78		67	36.22		185	
+		"OATES, Garry A (AFI)"	70	45	64.29		25	35.71		70	
+		"HAROON, Lewis (CTA)"	43	31	72.09		12	27.91		43	
+		"PEACOCK, Thomas (DEM)"	71	25	35.21		46	64.79		71	
+		"TAI, Kek (UNI)"	9	4	44.44		5	55.56		9	
+		Total	458	1107	45.52		1325	54.48		2432	
+
+	Bossley Park										
+			1st Prefs	757	29.77		1786	70.23		2543	
+		"FILIPCZYK, Rebecca (GRN)"	115	67	58.26		48	41.74		115	
+		"HUTCHINSON, John Robert (HAN)"	91	56	61.54		35	38.46		91	
+		"OATES, Garry A (AFI)"	31	17	54.84		14	45.16		31	
+		"HAROON, Lewis (CTA)"	137	94	68.61		43	31.39		137	
+		"PEACOCK, Thomas (DEM)"	62	24	38.71		38	61.29		62	
+		"TAI, Kek (UNI)"	38	7	18.42		31	81.58		38	
+		Total	474	1022	33.87		1995	66.13		3017	
+
+	Bossley Park High										
+			1st Prefs	490	32.78		1005	67.22		1495	
+		"FILIPCZYK, Rebecca (GRN)"	87	55	63.22		32	36.78		87	
+		"HUTCHINSON, John Robert (HAN)"	51	39	76.47		12	23.53		51	
+		"OATES, Garry A (AFI)"	33	24	72.73		9	27.27		33	
+		"HAROON, Lewis (CTA)"	55	33	60.00		22	40.00		55	
+		"PEACOCK, Thomas (DEM)"	42	18	42.86		24	57.14		42	
+		"TAI, Kek (UNI)"	22	3	13.64		19	86.36		22	
+		Total	290	662	37.09		1123	62.91		1785	
+
+	Clairgate										
+			1st Prefs	812	45.11		988	54.89		1800	
+		"FILIPCZYK, Rebecca (GRN)"	68	45	66.18		23	33.82		68	
+		"HUTCHINSON, John Robert (HAN)"	123	80	65.04		43	34.96		123	
+		"OATES, Garry A (AFI)"	54	34	62.96		20	37.04		54	
+		"HAROON, Lewis (CTA)"	63	41	65.08		22	34.92		63	
+		"PEACOCK, Thomas (DEM)"	72	28	38.89		44	61.11		72	
+		"TAI, Kek (UNI)"	8	5	62.50		3	37.50		8	
+		Total	388	1045	47.76		1143	52.24		2188	
+
+	Erskine Park										
+			1st Prefs	1151	43.47		1497	56.53		2648	
+		"FILIPCZYK, Rebecca (GRN)"	128	82	64.06		46	35.94		128	
+		"HUTCHINSON, John Robert (HAN)"	248	196	79.03		52	20.97		248	
+		"OATES, Garry A (AFI)"	68	33	48.53		35	51.47		68	
+		"HAROON, Lewis (CTA)"	73	48	65.75		25	34.25		73	
+		"PEACOCK, Thomas (DEM)"	80	33	41.25		47	58.75		80	
+		"TAI, Kek (UNI)"	13	6	46.15		7	53.85		13	
+		Total	610	1549	47.54		1709	52.46		3258	
+
+	Fairfield										
+			1st Prefs	153	12.78		1044	87.22		1197	
+		"FILIPCZYK, Rebecca (GRN)"	84	59	70.24		25	29.76		84	
+		"HUTCHINSON, John Robert (HAN)"	28	12	42.86		16	57.14		28	
+		"OATES, Garry A (AFI)"	23	13	56.52		10	43.48		23	
+		"HAROON, Lewis (CTA)"	127	96	75.59		31	24.41		127	
+		"PEACOCK, Thomas (DEM)"	20	6	30.00		14	70.00		20	
+		"TAI, Kek (UNI)"	13	2	15.38		11	84.62		13	
+		Total	295	341	22.86		1151	77.14		1492	
+
+	Fairfield Central										
+			1st Prefs	136	14.27		817	85.73		953	
+		"FILIPCZYK, Rebecca (GRN)"	45	28	62.22		17	37.78		45	
+		"HUTCHINSON, John Robert (HAN)"	17	12	70.59		5	29.41		17	
+		"OATES, Garry A (AFI)"	5	3	60.00		2	40.00		5	
+		"HAROON, Lewis (CTA)"	39	21	53.85		18	46.15		39	
+		"PEACOCK, Thomas (DEM)"	12	4	33.33		8	66.67		12	
+		"TAI, Kek (UNI)"	13	2	15.38		11	84.62		13	
+		Total	131	206	19.00		878	81.00		1084	
+
+	Fairfield East (Prospect)										
+			1st Prefs	139	21.35		512	78.65		651	
+		"FILIPCZYK, Rebecca (GRN)"	32	12	37.50		20	62.50		32	
+		"HUTCHINSON, John Robert (HAN)"	17	14	82.35		3	17.65		17	
+		"OATES, Garry A (AFI)"	15	8	53.33		7	46.67		15	
+		"HAROON, Lewis (CTA)"	15	9	60.00		6	40.00		15	
+		"PEACOCK, Thomas (DEM)"	13	4	30.77		9	69.23		13	
+		"TAI, Kek (UNI)"	21	1	4.76		20	95.24		21	
+		Total	113	187	24.48		577	75.52		764	
+
+	Fairfield Heights										
+			1st Prefs	751	25.74		2167	74.26		2918	
+		"FILIPCZYK, Rebecca (GRN)"	152	85	55.92		67	44.08		152	
+		"HUTCHINSON, John Robert (HAN)"	114	79	69.30		35	30.70		114	
+		"OATES, Garry A (AFI)"	44	26	59.09		18	40.91		44	
+		"HAROON, Lewis (CTA)"	75	53	70.67		22	29.33		75	
+		"PEACOCK, Thomas (DEM)"	58	19	32.76		39	67.24		58	
+		"TAI, Kek (UNI)"	80	14	17.50		66	82.50		80	
+		Total	523	1027	29.85		2414	70.15		3441	
+
+	Fairfield North										
+			1st Prefs	228	17.10		1105	82.90		1333	
+		"FILIPCZYK, Rebecca (GRN)"	75	46	61.33		29	38.67		75	
+		"HUTCHINSON, John Robert (HAN)"	25	15	60.00		10	40.00		25	
+		"OATES, Garry A (AFI)"	10	4	40.00		6	60.00		10	
+		"HAROON, Lewis (CTA)"	37	22	59.46		15	40.54		37	
+		"PEACOCK, Thomas (DEM)"	25	7	28.00		18	72.00		25	
+		"TAI, Kek (UNI)"	56	7	12.50		49	87.50		56	
+		Total	228	329	21.08		1232	78.92		1561	
+
+	Fairfield South										
+			1st Prefs	402	22.67		1371	77.33		1773	
+		"FILIPCZYK, Rebecca (GRN)"	89	49	55.06		40	44.94		89	
+		"HUTCHINSON, John Robert (HAN)"	68	37	54.41		31	45.59		68	
+		"OATES, Garry A (AFI)"	24	17	70.83		7	29.17		24	
+		"HAROON, Lewis (CTA)"	28	17	60.71		11	39.29		28	
+		"PEACOCK, Thomas (DEM)"	43	13	30.23		30	69.77		43	
+		"TAI, Kek (UNI)"	96	12	12.50		84	87.50		96	
+		Total	348	547	25.79		1574	74.21		2121	
+
+	Fairfield West										
+			1st Prefs	523	20.64		2011	79.36		2534	
+		"FILIPCZYK, Rebecca (GRN)"	168	98	58.33		70	41.67		168	
+		"HUTCHINSON, John Robert (HAN)"	109	75	68.81		34	31.19		109	
+		"OATES, Garry A (AFI)"	40	24	60.00		16	40.00		40	
+		"HAROON, Lewis (CTA)"	111	71	63.96		40	36.04		111	
+		"PEACOCK, Thomas (DEM)"	54	17	31.48		37	68.52		54	
+		"TAI, Kek (UNI)"	57	9	15.79		48	84.21		57	
+		Total	539	817	26.59		2256	73.41		3073	
+
+	Fairvale High										
+			1st Prefs	286	22.45		988	77.55		1274	
+		"FILIPCZYK, Rebecca (GRN)"	86	51	59.30		35	40.70		86	
+		"HUTCHINSON, John Robert (HAN)"	69	43	62.32		26	37.68		69	
+		"OATES, Garry A (AFI)"	14	6	42.86		8	57.14		14	
+		"HAROON, Lewis (CTA)"	38	26	68.42		12	31.58		38	
+		"PEACOCK, Thomas (DEM)"	20	8	40.00		12	60.00		20	
+		"TAI, Kek (UNI)"	42	6	14.29		36	85.71		42	
+		Total	269	426	27.61		1117	72.39		1543	
+
+	Governor Philip King										
+			1st Prefs	370	24.17		1161	75.83		1531	
+		"FILIPCZYK, Rebecca (GRN)"	93	62	66.67		31	33.33		93	
+		"HUTCHINSON, John Robert (HAN)"	57	39	68.42		18	31.58		57	
+		"OATES, Garry A (AFI)"	22	12	54.55		10	45.45		22	
+		"HAROON, Lewis (CTA)"	46	25	54.35		21	45.65		46	
+		"PEACOCK, Thomas (DEM)"	38	16	42.11		22	57.89		38	
+		"TAI, Kek (UNI)"	43	10	23.26		33	76.74		43	
+		Total	299	534	29.18		1296	70.82		1830	
+
+	Greystanes										
+			1st Prefs	1223	44.78		1508	55.22		2731	
+		"FILIPCZYK, Rebecca (GRN)"	143	69	48.25		74	51.75		143	
+		"HUTCHINSON, John Robert (HAN)"	158	119	75.32		39	24.68		158	
+		"OATES, Garry A (AFI)"	51	35	68.63		16	31.37		51	
+		"HAROON, Lewis (CTA)"	86	74	86.05		12	13.95		86	
+		"PEACOCK, Thomas (DEM)"	100	36	36.00		64	64.00		100	
+		"TAI, Kek (UNI)"	10	3	30.00		7	70.00		10	
+		Total	548	1559	47.54		1720	52.46		3279	
+
+	Greystanes North										
+			1st Prefs	573	35.90		1023	64.10		1596	
+		"FILIPCZYK, Rebecca (GRN)"	94	65	69.15		29	30.85		94	
+		"HUTCHINSON, John Robert (HAN)"	103	72	69.90		31	30.10		103	
+		"OATES, Garry A (AFI)"	31	21	67.74		10	32.26		31	
+		"HAROON, Lewis (CTA)"	32	25	78.13		7	21.88		32	
+		"PEACOCK, Thomas (DEM)"	50	18	36.00		32	64.00		50	
+		"TAI, Kek (UNI)"	10	3	30.00		7	70.00		10	
+		Total	320	777	40.55		1139	59.45		1916	
+
+	Holroyd										
+			1st Prefs	395	42.47		535	57.53		930	
+		"FILIPCZYK, Rebecca (GRN)"	42	27	64.29		15	35.71		42	
+		"HUTCHINSON, John Robert (HAN)"	71	46	64.79		25	35.21		71	
+		"OATES, Garry A (AFI)"	22	11	50.00		11	50.00		22	
+		"HAROON, Lewis (CTA)"	11	6	54.55		5	45.45		11	
+		"PEACOCK, Thomas (DEM)"	37	16	43.24		21	56.76		37	
+		"TAI, Kek (UNI)"	2	2	100.00		0	0.00		2	
+		Total	185	503	45.11		612	54.89		1115	
+
+	Horsley Park										
+			1st Prefs	616	59.00		428	41.00		1044	
+		"FILIPCZYK, Rebecca (GRN)"	80	51	63.75		29	36.25		80	
+		"HUTCHINSON, John Robert (HAN)"	81	69	85.19		12	14.81		81	
+		"OATES, Garry A (AFI)"	24	15	62.50		9	37.50		24	
+		"HAROON, Lewis (CTA)"	14	13	92.86		1	7.14		14	
+		"PEACOCK, Thomas (DEM)"	23	10	43.48		13	56.52		23	
+		"TAI, Kek (UNI)"	4	3	75.00		1	25.00		4	
+		Total	226	777	61.18		493	38.82		1270	
+
+	Kemps Creek (Prospect)										
+			1st Prefs	266	67.34		129	32.66		395	
+		"FILIPCZYK, Rebecca (GRN)"	24	19	79.17		5	20.83		24	
+		"HUTCHINSON, John Robert (HAN)"	52	46	88.46		6	11.54		52	
+		"OATES, Garry A (AFI)"	11	6	54.55		5	45.45		11	
+		"HAROON, Lewis (CTA)"	6	6	100.00		0	0.00		6	
+		"PEACOCK, Thomas (DEM)"	9	6	66.67		3	33.33		9	
+		"TAI, Kek (UNI)"	8	8	100.00		0	0.00		8	
+		Total	110	357	70.69		148	29.31		505	
+
+	Pendle Hill South										
+			1st Prefs	594	43.71		765	56.29		1359	
+		"FILIPCZYK, Rebecca (GRN)"	70	41	58.57		29	41.43		70	
+		"HUTCHINSON, John Robert (HAN)"	72	45	62.50		27	37.50		72	
+		"OATES, Garry A (AFI)"	33	15	45.45		18	54.55		33	
+		"HAROON, Lewis (CTA)"	36	31	86.11		5	13.89		36	
+		"PEACOCK, Thomas (DEM)"	44	18	40.91		26	59.09		44	
+		"TAI, Kek (UNI)"	11	4	36.36		7	63.64		11	
+		Total	266	748	46.03		877	53.97		1625	
+
+	Prairievale										
+			1st Prefs	524	24.43		1621	75.57		2145	
+		"FILIPCZYK, Rebecca (GRN)"	124	74	59.68		50	40.32		124	
+		"HUTCHINSON, John Robert (HAN)"	51	25	49.02		26	50.98		51	
+		"OATES, Garry A (AFI)"	20	14	70.00		6	30.00		20	
+		"HAROON, Lewis (CTA)"	69	34	49.28		35	50.72		69	
+		"PEACOCK, Thomas (DEM)"	38	11	28.95		27	71.05		38	
+		"TAI, Kek (UNI)"	64	6	9.38		58	90.63		64	
+		Total	366	688	27.40		1823	72.60		2511	
+
+	Ringrose										
+			1st Prefs	781	42.06		1076	57.94		1857	
+		"FILIPCZYK, Rebecca (GRN)"	95	46	48.42		49	51.58		95	
+		"HUTCHINSON, John Robert (HAN)"	106	65	61.32		41	38.68		106	
+		"OATES, Garry A (AFI)"	42	24	57.14		18	42.86		42	
+		"HAROON, Lewis (CTA)"	43	32	74.42		11	25.58		43	
+		"PEACOCK, Thomas (DEM)"	45	17	37.78		28	62.22		45	
+		"TAI, Kek (UNI)"	14	5	35.71		9	64.29		14	
+		Total	345	970	44.05		1232	55.95		2202	
+
+	St Clair										
+			1st Prefs	532	42.42		722	57.58		1254	
+		"FILIPCZYK, Rebecca (GRN)"	58	30	51.72		28	48.28		58	
+		"HUTCHINSON, John Robert (HAN)"	97	73	75.26		24	24.74		97	
+		"OATES, Garry A (AFI)"	49	29	59.18		20	40.82		49	
+		"HAROON, Lewis (CTA)"	29	19	65.52		10	34.48		29	
+		"PEACOCK, Thomas (DEM)"	45	17	37.78		28	62.22		45	
+		"TAI, Kek (UNI)"	2	1	50.00		1	50.00		2	
+		Total	280	701	45.70		833	54.30		1534	
+
+	St Johns Park High										
+			1st Prefs	444	21.84		1589	78.16		2033	
+		"FILIPCZYK, Rebecca (GRN)"	98	55	56.12		43	43.88		98	
+		"HUTCHINSON, John Robert (HAN)"	53	35	66.04		18	33.96		53	
+		"OATES, Garry A (AFI)"	24	16	66.67		8	33.33		24	
+		"HAROON, Lewis (CTA)"	91	52	57.14		39	42.86		91	
+		"PEACOCK, Thomas (DEM)"	57	18	31.58		39	68.42		57	
+		"TAI, Kek (UNI)"	79	11	13.92		68	86.08		79	
+		Total	402	631	25.91		1804	74.09		2435	
+
+	Smithfield										
+			1st Prefs	448	26.43		1247	73.57		1695	
+		"FILIPCZYK, Rebecca (GRN)"	86	51	59.30		35	40.70		86	
+		"HUTCHINSON, John Robert (HAN)"	79	50	63.29		29	36.71		79	
+		"OATES, Garry A (AFI)"	28	19	67.86		9	32.14		28	
+		"HAROON, Lewis (CTA)"	41	27	65.85		14	34.15		41	
+		"PEACOCK, Thomas (DEM)"	35	14	40.00		21	60.00		35	
+		"TAI, Kek (UNI)"	21	3	14.29		18	85.71		21	
+		Total	290	612	30.83		1373	69.17		1985	
+
+	Smithfield East										
+			1st Prefs	376	26.17		1061	73.83		1437	
+		"FILIPCZYK, Rebecca (GRN)"	54	24	44.44		30	55.56		54	
+		"HUTCHINSON, John Robert (HAN)"	65	42	64.62		23	35.38		65	
+		"OATES, Garry A (AFI)"	28	14	50.00		14	50.00		28	
+		"HAROON, Lewis (CTA)"	26	12	46.15		14	53.85		26	
+		"PEACOCK, Thomas (DEM)"	31	12	38.71		19	61.29		31	
+		"TAI, Kek (UNI)"	5	3	60.00		2	40.00		5	
+		Total	209	483	29.34		1163	70.66		1646	
+
+	Smithfield West										
+			1st Prefs	827	28.83		2042	71.17		2869	
+		"FILIPCZYK, Rebecca (GRN)"	171	83	48.54		88	51.46		171	
+		"HUTCHINSON, John Robert (HAN)"	195	153	78.46		42	21.54		195	
+		"OATES, Garry A (AFI)"	53	33	62.26		20	37.74		53	
+		"HAROON, Lewis (CTA)"	92	62	67.39		30	32.61		92	
+		"PEACOCK, Thomas (DEM)"	63	24	38.10		39	61.90		63	
+		"TAI, Kek (UNI)"	41	10	24.39		31	75.61		41	
+		Total	615	1192	34.21		2292	65.79		3484	
+
+	Sydney (Prospect)										
+			1st Prefs	27	32.93		55	67.07		82	
+		"FILIPCZYK, Rebecca (GRN)"	3	2	66.67		1	33.33		3	
+		"HUTCHINSON, John Robert (HAN)"	3	2	66.67		1	33.33		3	
+		"OATES, Garry A (AFI)"	1	0	0.00		1	100.00		1	
+		"HAROON, Lewis (CTA)"	1	1	100.00		0	0.00		1	
+		"PEACOCK, Thomas (DEM)"	5	2	40.00		3	60.00		5	
+		"TAI, Kek (UNI)"	2	0	0.00		2	100.00		2	
+		Total	15	34	35.05		63	64.95		97	
+
+	Wakeley (Prospect)										
+			1st Prefs	347	24.47		1071	75.53		1418	
+		"FILIPCZYK, Rebecca (GRN)"	83	59	71.08		24	28.92		83	
+		"HUTCHINSON, John Robert (HAN)"	45	31	68.89		14	31.11		45	
+		"OATES, Garry A (AFI)"	21	13	61.90		8	38.10		21	
+		"HAROON, Lewis (CTA)"	80	41	51.25		39	48.75		80	
+		"PEACOCK, Thomas (DEM)"	25	10	40.00		15	60.00		25	
+		"TAI, Kek (UNI)"	37	9	24.32		28	75.68		37	
+		Total	291	510	29.84		1199	70.16		1709	
+
+	Widemere										
+			1st Prefs	603	45.41		725	54.59		1328	
+		"FILIPCZYK, Rebecca (GRN)"	73	40	54.79		33	45.21		73	
+		"HUTCHINSON, John Robert (HAN)"	91	64	70.33		27	29.67		91	
+		"OATES, Garry A (AFI)"	31	22	70.97		9	29.03		31	
+		"HAROON, Lewis (CTA)"	21	15	71.43		6	28.57		21	
+		"PEACOCK, Thomas (DEM)"	44	20	45.45		24	54.55		44	
+		"TAI, Kek (UNI)"	3	0	0.00		3	100.00		3	
+		Total	263	764	48.02		827	51.98		1591	
+
+	William Stimson										
+			1st Prefs	737	29.80		1736	70.20		2473	
+		"FILIPCZYK, Rebecca (GRN)"	113	63	55.75		50	44.25		113	
+		"HUTCHINSON, John Robert (HAN)"	85	49	57.65		36	42.35		85	
+		"OATES, Garry A (AFI)"	37	20	54.05		17	45.95		37	
+		"HAROON, Lewis (CTA)"	73	54	73.97		19	26.03		73	
+		"PEACOCK, Thomas (DEM)"	62	22	35.48		40	64.52		62	
+		"TAI, Kek (UNI)"	37	2	5.41		35	94.59		37	
+		Total	407	947	32.88		1933	67.12		2880	
+
+	Special Hospitals										
+			1st Prefs	1	10.00		9	90.00		10	
+		"FILIPCZYK, Rebecca (GRN)"	1	0	0.00		1	100.00		1	
+		"HUTCHINSON, John Robert (HAN)"	1	1	100.00		0	0.00		1	
+		"OATES, Garry A (AFI)"	0	0	0.00		0	0.00		0	
+		"HAROON, Lewis (CTA)"	0	0	0.00		0	0.00		0	
+		"PEACOCK, Thomas (DEM)"	0	0	0.00		0	0.00		0	
+		"TAI, Kek (UNI)"	1	0	0.00		1	100.00		1	
+		Total	3	2	15.38		11	84.62		13	
+
+	Total Ordinary										
+			1st Prefs	18212	32.75		37401	67.25		55613	
+		"FILIPCZYK, Rebecca (GRN)"	2949	1695	57.48		1254	42.52		2949	
+		"HUTCHINSON, John Robert (HAN)"	2899	2007	69.23		892	30.77		2899	
+		"OATES, Garry A (AFI)"	1068	647	60.58		421	39.42		1068	
+		"HAROON, Lewis (CTA)"	1729	1150	66.51		579	33.49		1729	
+		"PEACOCK, Thomas (DEM)"	1465	562	38.36		903	61.64		1465	
+		"TAI, Kek (UNI)"	882	167	18.93		715	81.07		882	
+		Total	10992	24440	36.69		42165	63.31		66605	
+
+	ABSENT										
+			1st Prefs	1415	38.96		2217	61.04		3632	
+		"FILIPCZYK, Rebecca (GRN)"	366	199	54.37		167	45.63		366	
+		"HUTCHINSON, John Robert (HAN)"	277	173	62.45		104	37.55		277	
+		"OATES, Garry A (AFI)"	123	73	59.35		50	40.65		123	
+		"HAROON, Lewis (CTA)"	111	71	63.96		40	36.04		111	
+		"PEACOCK, Thomas (DEM)"	164	50	30.49		114	69.51		164	
+		"TAI, Kek (UNI)"	83	22	26.51		61	73.49		83	
+		Total	1124	2003	42.12		2753	57.88		4756	
+
+	POSTAL										
+			1st Prefs	554	39.26		857	60.74		1411	
+		"FILIPCZYK, Rebecca (GRN)"	34	17	50.00		17	50.00		34	
+		"HUTCHINSON, John Robert (HAN)"	123	61	49.59		62	50.41		123	
+		"OATES, Garry A (AFI)"	32	17	53.13		15	46.88		32	
+		"HAROON, Lewis (CTA)"	26	19	73.08		7	26.92		26	
+		"PEACOCK, Thomas (DEM)"	24	9	37.50		15	62.50		24	
+		"TAI, Kek (UNI)"	18	6	33.33		12	66.67		18	
+		Total	257	683	40.95		985	59.05		1668	
+
+	PRE_POLL										
+			1st Prefs	533	37.12		903	62.88		1436	
+		"FILIPCZYK, Rebecca (GRN)"	70	40	57.14		30	42.86		70	
+		"HUTCHINSON, John Robert (HAN)"	68	39	57.35		29	42.65		68	
+		"OATES, Garry A (AFI)"	44	28	63.64		16	36.36		44	
+		"HAROON, Lewis (CTA)"	37	26	70.27		11	29.73		37	
+		"PEACOCK, Thomas (DEM)"	64	23	35.94		41	64.06		64	
+		"TAI, Kek (UNI)"	36	13	36.11		23	63.89		36	
+		Total	319	702	40.00		1053	60.00		1755	
+
+	PROVISIONAL										
+			1st Prefs	62	22.14		218	77.86		280	
+		"FILIPCZYK, Rebecca (GRN)"	20	17	85.00		3	15.00		20	
+		"HUTCHINSON, John Robert (HAN)"	13	11	84.62		2	15.38		13	
+		"OATES, Garry A (AFI)"	7	4	57.14		3	42.86		7	
+		"HAROON, Lewis (CTA)"	24	17	70.83		7	29.17		24	
+		"PEACOCK, Thomas (DEM)"	6	3	50.00		3	50.00		6	
+		"TAI, Kek (UNI)"	8	3	37.50		5	62.50		8	
+		Total	78	117	32.68		241	67.32		358	
+
+	Division Summary										
+			1st Prefs	20776	33.31		41596	66.69		62372	
+		"FILIPCZYK, Rebecca (GRN)"	3439	1968	57.23		1471	42.77		3439	
+		"HUTCHINSON, John Robert (HAN)"	3380	2291	67.78		1089	32.22		3380	
+		"OATES, Garry A (AFI)"	1274	769	60.36		505	39.64		1274	
+		"HAROON, Lewis (CTA)"	1927	1283	66.58		644	33.42		1927	
+		"PEACOCK, Thomas (DEM)"	1723	647	37.55		1076	62.45		1723	
+		"TAI, Kek (UNI)"	1027	211	20.55		816	79.45		1027	
+		Total	12770	27945	37.19		47197	62.81		75142	

@@ -1,0 +1,383 @@
+House of Representatives - 2001 Election: New South Wales											
+Two Candidate Preferred Preference Flow Result											
+By Polling Place by Division											
+											
+Hughes (85741)											
+		Candidate		"VALE, Danna"		                	"HAWKINS, Christine"		         	Total	
+				LP		                         	ALP		                        		
+				Votes	%	                     	Votes	%	                     		
+	Alfords Point										
+			1st Prefs	1091	67.64		522	32.36		1613	
+		"HEEMSTRA, Simon (GRN)"	64	15	23.44		49	76.56		64	
+		"RYAN, William (CTA)"	28	15	53.57		13	46.43		28	
+		"OZ, Susan (HAN)"	46	24	52.17		22	47.83		46	
+		"VAN DE WEG, Bruce (DEM)"	48	19	39.58		29	60.42		48	
+		Total	186	1164	64.70		635	35.30		1799	
+
+	Bangor										
+			1st Prefs	2669	71.02		1089	28.98		3758	
+		"HEEMSTRA, Simon (GRN)"	181	62	34.25		119	65.75		181	
+		"RYAN, William (CTA)"	140	115	82.14		25	17.86		140	
+		"OZ, Susan (HAN)"	160	90	56.25		70	43.75		160	
+		"VAN DE WEG, Bruce (DEM)"	154	63	40.91		91	59.09		154	
+		Total	635	2999	68.27		1394	31.73		4393	
+
+	Barden Ridge										
+			1st Prefs	852	65.74		444	34.26		1296	
+		"HEEMSTRA, Simon (GRN)"	56	18	32.14		38	67.86		56	
+		"RYAN, William (CTA)"	52	44	84.62		8	15.38		52	
+		"OZ, Susan (HAN)"	65	32	49.23		33	50.77		65	
+		"VAN DE WEG, Bruce (DEM)"	47	22	46.81		25	53.19		47	
+		Total	220	968	63.85		548	36.15		1516	
+
+	Bonnet Bay										
+			1st Prefs	878	70.81		362	29.19		1240	
+		"HEEMSTRA, Simon (GRN)"	86	20	23.26		66	76.74		86	
+		"RYAN, William (CTA)"	22	15	68.18		7	31.82		22	
+		"OZ, Susan (HAN)"	50	28	56.00		22	44.00		50	
+		"VAN DE WEG, Bruce (DEM)"	54	21	38.89		33	61.11		54	
+		Total	212	962	66.25		490	33.75		1452	
+
+	Caravan Head										
+			1st Prefs	398	66.67		199	33.33		597	
+		"HEEMSTRA, Simon (GRN)"	30	10	33.33		20	66.67		30	
+		"RYAN, William (CTA)"	10	9	90.00		1	10.00		10	
+		"OZ, Susan (HAN)"	34	15	44.12		19	55.88		34	
+		"VAN DE WEG, Bruce (DEM)"	16	7	43.75		9	56.25		16	
+		Total	90	439	63.90		248	36.10		687	
+
+	Chipping Norton										
+			1st Prefs	1318	59.48		898	40.52		2216	
+		"HEEMSTRA, Simon (GRN)"	97	40	41.24		57	58.76		97	
+		"RYAN, William (CTA)"	41	27	65.85		14	34.15		41	
+		"OZ, Susan (HAN)"	129	61	47.29		68	52.71		129	
+		"VAN DE WEG, Bruce (DEM)"	87	28	32.18		59	67.82		87	
+		Total	354	1474	57.35		1096	42.65		2570	
+
+	Como										
+			1st Prefs	383	55.03		313	44.97		696	
+		"HEEMSTRA, Simon (GRN)"	64	14	21.88		50	78.13		64	
+		"RYAN, William (CTA)"	6	3	50.00		3	50.00		6	
+		"OZ, Susan (HAN)"	20	14	70.00		6	30.00		20	
+		"VAN DE WEG, Bruce (DEM)"	34	11	32.35		23	67.65		34	
+		Total	124	425	51.83		395	48.17		820	
+
+	Como West										
+			1st Prefs	972	60.34		639	39.66		1611	
+		"HEEMSTRA, Simon (GRN)"	114	22	19.30		92	80.70		114	
+		"RYAN, William (CTA)"	43	34	79.07		9	20.93		43	
+		"OZ, Susan (HAN)"	83	42	50.60		41	49.40		83	
+		"VAN DE WEG, Bruce (DEM)"	64	24	37.50		40	62.50		64	
+		Total	304	1094	57.13		821	42.87		1915	
+
+	Engadine										
+			1st Prefs	1690	61.97		1037	38.03		2727	
+		"HEEMSTRA, Simon (GRN)"	140	41	29.29		99	70.71		140	
+		"RYAN, William (CTA)"	71	59	83.10		12	16.90		71	
+		"OZ, Susan (HAN)"	185	83	44.86		102	55.14		185	
+		"VAN DE WEG, Bruce (DEM)"	150	47	31.33		103	68.67		150	
+		Total	546	1920	58.66		1353	41.34		3273	
+
+	Engadine East										
+			1st Prefs	349	61.88		215	38.12		564	
+		"HEEMSTRA, Simon (GRN)"	29	9	31.03		20	68.97		29	
+		"RYAN, William (CTA)"	12	11	91.67		1	8.33		12	
+		"OZ, Susan (HAN)"	22	9	40.91		13	59.09		22	
+		"VAN DE WEG, Bruce (DEM)"	18	3	16.67		15	83.33		18	
+		Total	81	381	59.07		264	40.93		645	
+
+	Engadine South										
+			1st Prefs	764	61.02		488	38.98		1252	
+		"HEEMSTRA, Simon (GRN)"	61	15	24.59		46	75.41		61	
+		"RYAN, William (CTA)"	40	33	82.50		7	17.50		40	
+		"OZ, Susan (HAN)"	70	34	48.57		36	51.43		70	
+		"VAN DE WEG, Bruce (DEM)"	56	22	39.29		34	60.71		56	
+		Total	227	868	58.69		611	41.31		1479	
+
+	Engadine West										
+			1st Prefs	1596	64.75		869	35.25		2465	
+		"HEEMSTRA, Simon (GRN)"	152	43	28.29		109	71.71		152	
+		"RYAN, William (CTA)"	64	57	89.06		7	10.94		64	
+		"OZ, Susan (HAN)"	178	87	48.88		91	51.12		178	
+		"VAN DE WEG, Bruce (DEM)"	102	36	35.29		66	64.71		102	
+		Total	496	1819	61.43		1142	38.57		2961	
+
+	Hammondville										
+			1st Prefs	850	59.86		570	40.14		1420	
+		"HEEMSTRA, Simon (GRN)"	60	19	31.67		41	68.33		60	
+		"RYAN, William (CTA)"	19	16	84.21		3	15.79		19	
+		"OZ, Susan (HAN)"	106	41	38.68		65	61.32		106	
+		"VAN DE WEG, Bruce (DEM)"	42	15	35.71		27	64.29		42	
+		Total	227	941	57.13		706	42.87		1647	
+
+	Heathcote										
+			1st Prefs	1050	62.69		625	37.31		1675	
+		"HEEMSTRA, Simon (GRN)"	95	27	28.42		68	71.58		95	
+		"RYAN, William (CTA)"	54	52	96.30		2	3.70		54	
+		"OZ, Susan (HAN)"	122	46	37.70		76	62.30		122	
+		"VAN DE WEG, Bruce (DEM)"	86	25	29.07		61	70.93		86	
+		Total	357	1200	59.06		832	40.94		2032	
+
+	Heathcote East										
+			1st Prefs	646	62.66		385	37.34		1031	
+		"HEEMSTRA, Simon (GRN)"	63	13	20.63		50	79.37		63	
+		"RYAN, William (CTA)"	45	35	77.78		10	22.22		45	
+		"OZ, Susan (HAN)"	90	49	54.44		41	45.56		90	
+		"VAN DE WEG, Bruce (DEM)"	45	11	24.44		34	75.56		45	
+		Total	243	754	59.18		520	40.82		1274	
+
+	Holsworthy										
+			1st Prefs	783	61.17		497	38.83		1280	
+		"HEEMSTRA, Simon (GRN)"	73	28	38.36		45	61.64		73	
+		"RYAN, William (CTA)"	16	15	93.75		1	6.25		16	
+		"OZ, Susan (HAN)"	93	55	59.14		38	40.86		93	
+		"VAN DE WEG, Bruce (DEM)"	47	20	42.55		27	57.45		47	
+		Total	229	901	59.71		608	40.29		1509	
+
+	Illawong										
+			1st Prefs	1878	71.71		741	28.29		2619	
+		"HEEMSTRA, Simon (GRN)"	131	41	31.30		90	68.70		131	
+		"RYAN, William (CTA)"	50	39	78.00		11	22.00		50	
+		"OZ, Susan (HAN)"	118	60	50.85		58	49.15		118	
+		"VAN DE WEG, Bruce (DEM)"	99	46	46.46		53	53.54		99	
+		Total	398	2064	68.41		953	31.59		3017	
+
+	Jannali East										
+			1st Prefs	739	55.73		587	44.27		1326	
+		"HEEMSTRA, Simon (GRN)"	71	24	33.80		47	66.20		71	
+		"RYAN, William (CTA)"	28	21	75.00		7	25.00		28	
+		"OZ, Susan (HAN)"	106	49	46.23		57	53.77		106	
+		"VAN DE WEG, Bruce (DEM)"	51	22	43.14		29	56.86		51	
+		Total	256	855	54.05		727	45.95		1582	
+
+	Jannali West										
+			1st Prefs	516	57.91		375	42.09		891	
+		"HEEMSTRA, Simon (GRN)"	59	19	32.20		40	67.80		59	
+		"RYAN, William (CTA)"	30	22	73.33		8	26.67		30	
+		"OZ, Susan (HAN)"	50	23	46.00		27	54.00		50	
+		"VAN DE WEG, Bruce (DEM)"	39	13	33.33		26	66.67		39	
+		Total	178	593	55.47		476	44.53		1069	
+
+	Loftus										
+			1st Prefs	1168	61.47		732	38.53		1900	
+		"HEEMSTRA, Simon (GRN)"	104	20	19.23		84	80.77		104	
+		"RYAN, William (CTA)"	79	62	78.48		17	21.52		79	
+		"OZ, Susan (HAN)"	138	68	49.28		70	50.72		138	
+		"VAN DE WEG, Bruce (DEM)"	88	22	25.00		66	75.00		88	
+		Total	409	1340	58.03		969	41.97		2309	
+
+	Marton										
+			1st Prefs	1113	67.09		546	32.91		1659	
+		"HEEMSTRA, Simon (GRN)"	81	31	38.27		50	61.73		81	
+		"RYAN, William (CTA)"	33	24	72.73		9	27.27		33	
+		"OZ, Susan (HAN)"	121	63	52.07		58	47.93		121	
+		"VAN DE WEG, Bruce (DEM)"	52	16	30.77		36	69.23		52	
+		Total	287	1247	64.08		699	35.92		1946	
+
+	Menai										
+			1st Prefs	1082	60.21		715	39.79		1797	
+		"HEEMSTRA, Simon (GRN)"	106	29	27.36		77	72.64		106	
+		"RYAN, William (CTA)"	58	42	72.41		16	27.59		58	
+		"OZ, Susan (HAN)"	90	42	46.67		48	53.33		90	
+		"VAN DE WEG, Bruce (DEM)"	84	32	38.10		52	61.90		84	
+		Total	338	1227	57.47		908	42.53		2135	
+
+	Menai Central										
+			1st Prefs	967	62.15		589	37.85		1556	
+		"HEEMSTRA, Simon (GRN)"	66	16	24.24		50	75.76		66	
+		"RYAN, William (CTA)"	39	26	66.67		13	33.33		39	
+		"OZ, Susan (HAN)"	40	15	37.50		25	62.50		40	
+		"VAN DE WEG, Bruce (DEM)"	58	17	29.31		41	70.69		58	
+		Total	203	1041	59.18		718	40.82		1759	
+
+	Menai North										
+			1st Prefs	794	65.89		411	34.11		1205	
+		"HEEMSTRA, Simon (GRN)"	55	20	36.36		35	63.64		55	
+		"RYAN, William (CTA)"	24	14	58.33		10	41.67		24	
+		"OZ, Susan (HAN)"	37	19	51.35		18	48.65		37	
+		"VAN DE WEG, Bruce (DEM)"	55	21	38.18		34	61.82		55	
+		Total	171	868	63.08		508	36.92		1376	
+
+	Moorebank										
+			1st Prefs	1857	58.07		1341	41.93		3198	
+		"HEEMSTRA, Simon (GRN)"	123	56	45.53		67	54.47		123	
+		"RYAN, William (CTA)"	38	23	60.53		15	39.47		38	
+		"OZ, Susan (HAN)"	238	91	38.24		147	61.76		238	
+		"VAN DE WEG, Bruce (DEM)"	135	46	34.07		89	65.93		135	
+		Total	534	2073	55.55		1659	44.45		3732	
+
+	Newbridge Heights										
+			1st Prefs	1032	60.14		684	39.86		1716	
+		"HEEMSTRA, Simon (GRN)"	81	37	45.68		44	54.32		81	
+		"RYAN, William (CTA)"	38	31	81.58		7	18.42		38	
+		"OZ, Susan (HAN)"	117	52	44.44		65	55.56		117	
+		"VAN DE WEG, Bruce (DEM)"	59	12	20.34		47	79.66		59	
+		Total	295	1164	57.88		847	42.12		2011	
+
+	Oyster Bay										
+			1st Prefs	1212	65.58		636	34.42		1848	
+		"HEEMSTRA, Simon (GRN)"	112	24	21.43		88	78.57		112	
+		"RYAN, William (CTA)"	35	26	74.29		9	25.71		35	
+		"OZ, Susan (HAN)"	91	49	53.85		42	46.15		91	
+		"VAN DE WEG, Bruce (DEM)"	89	35	39.33		54	60.67		89	
+		Total	327	1346	61.89		829	38.11		2175	
+
+	Prince Edward Park										
+			1st Prefs	335	66.47		169	33.53		504	
+		"HEEMSTRA, Simon (GRN)"	62	14	22.58		48	77.42		62	
+		"RYAN, William (CTA)"	8	4	50.00		4	50.00		8	
+		"OZ, Susan (HAN)"	23	13	56.52		10	43.48		23	
+		"VAN DE WEG, Bruce (DEM)"	11	5	45.45		6	54.55		11	
+		Total	104	371	61.02		237	38.98		608	
+
+	Sandy Point										
+			1st Prefs	208	73.76		74	26.24		282	
+		"HEEMSTRA, Simon (GRN)"	12	3	25.00		9	75.00		12	
+		"RYAN, William (CTA)"	3	3	100.00		0	0.00		3	
+		"OZ, Susan (HAN)"	16	13	81.25		3	18.75		16	
+		"VAN DE WEG, Bruce (DEM)"	9	3	33.33		6	66.67		9	
+		Total	40	230	71.43		92	28.57		322	
+
+	Sutherland										
+			1st Prefs	1047	56.56		804	43.44		1851	
+		"HEEMSTRA, Simon (GRN)"	122	32	26.23		90	73.77		122	
+		"RYAN, William (CTA)"	61	53	86.89		8	13.11		61	
+		"OZ, Susan (HAN)"	97	40	41.24		57	58.76		97	
+		"VAN DE WEG, Bruce (DEM)"	86	24	27.91		62	72.09		86	
+		Total	366	1196	53.95		1021	46.05		2217	
+
+	Sutherland East										
+			1st Prefs	460	55.83		364	44.17		824	
+		"HEEMSTRA, Simon (GRN)"	57	21	36.84		36	63.16		57	
+		"RYAN, William (CTA)"	32	23	71.88		9	28.13		32	
+		"OZ, Susan (HAN)"	40	19	47.50		21	52.50		40	
+		"VAN DE WEG, Bruce (DEM)"	25	9	36.00		16	64.00		25	
+		Total	154	532	54.40		446	45.60		978	
+
+	Sutherland North (Hughes)										
+			1st Prefs	442	60.05		294	39.95		736	
+		"HEEMSTRA, Simon (GRN)"	27	10	37.04		17	62.96		27	
+		"RYAN, William (CTA)"	16	11	68.75		5	31.25		16	
+		"OZ, Susan (HAN)"	32	20	62.50		12	37.50		32	
+		"VAN DE WEG, Bruce (DEM)"	32	16	50.00		16	50.00		32	
+		Total	107	499	59.19		344	40.81		843	
+
+	Sutherland West										
+			1st Prefs	304	57.14		228	42.86		532	
+		"HEEMSTRA, Simon (GRN)"	35	8	22.86		27	77.14		35	
+		"RYAN, William (CTA)"	7	3	42.86		4	57.14		7	
+		"OZ, Susan (HAN)"	37	18	48.65		19	51.35		37	
+		"VAN DE WEG, Bruce (DEM)"	23	6	26.09		17	73.91		23	
+		Total	102	339	53.47		295	46.53		634	
+
+	Sydney (Hughes)										
+			1st Prefs	39	54.17		33	45.83		72	
+		"HEEMSTRA, Simon (GRN)"	8	4	50.00		4	50.00		8	
+		"RYAN, William (CTA)"	2	1	50.00		1	50.00		2	
+		"OZ, Susan (HAN)"	3	1	33.33		2	66.67		3	
+		"VAN DE WEG, Bruce (DEM)"	5	2	40.00		3	60.00		5	
+		Total	18	47	52.22		43	47.78		90	
+
+	Waterfall										
+			1st Prefs	122	59.80		82	40.20		204	
+		"HEEMSTRA, Simon (GRN)"	33	8	24.24		25	75.76		33	
+		"RYAN, William (CTA)"	10	6	60.00		4	40.00		10	
+		"OZ, Susan (HAN)"	27	7	25.93		20	74.07		27	
+		"VAN DE WEG, Bruce (DEM)"	7	1	14.29		6	85.71		7	
+		Total	77	144	51.25		137	48.75		281	
+
+	Wattle Grove										
+			1st Prefs	1749	57.65		1285	42.35		3034	
+		"HEEMSTRA, Simon (GRN)"	103	35	33.98		68	66.02		103	
+		"RYAN, William (CTA)"	95	81	85.26		14	14.74		95	
+		"OZ, Susan (HAN)"	138	75	54.35		63	45.65		138	
+		"VAN DE WEG, Bruce (DEM)"	153	50	32.68		103	67.32		153	
+		Total	489	1990	56.49		1533	43.51		3523	
+
+	Wattle Grove South										
+			1st Prefs	400	60.42		262	39.58		662	
+		"HEEMSTRA, Simon (GRN)"	27	8	29.63		19	70.37		27	
+		"RYAN, William (CTA)"	10	7	70.00		3	30.00		10	
+		"OZ, Susan (HAN)"	26	11	42.31		15	57.69		26	
+		"VAN DE WEG, Bruce (DEM)"	20	11	55.00		9	45.00		20	
+		Total	83	437	58.66		308	41.34		745	
+
+	Woronora Heights										
+			1st Prefs	582	69.45		256	30.55		838	
+		"HEEMSTRA, Simon (GRN)"	38	9	23.68		29	76.32		38	
+		"RYAN, William (CTA)"	24	18	75.00		6	25.00		24	
+		"OZ, Susan (HAN)"	35	21	60.00		14	40.00		35	
+		"VAN DE WEG, Bruce (DEM)"	32	11	34.38		21	65.63		32	
+		Total	129	641	66.29		326	33.71		967	
+
+	Woronora River										
+			1st Prefs	264	66.84		131	33.16		395	
+		"HEEMSTRA, Simon (GRN)"	45	10	22.22		35	77.78		45	
+		"RYAN, William (CTA)"	5	2	40.00		3	60.00		5	
+		"OZ, Susan (HAN)"	29	20	68.97		9	31.03		29	
+		"VAN DE WEG, Bruce (DEM)"	17	7	41.18		10	58.82		17	
+		Total	96	303	61.71		188	38.29		491	
+
+	Yarrawarrah										
+			1st Prefs	860	62.41		518	37.59		1378	
+		"HEEMSTRA, Simon (GRN)"	63	21	33.33		42	66.67		63	
+		"RYAN, William (CTA)"	26	21	80.77		5	19.23		26	
+		"OZ, Susan (HAN)"	88	37	42.05		51	57.95		88	
+		"VAN DE WEG, Bruce (DEM)"	57	24	42.11		33	57.89		57	
+		Total	234	963	59.74		649	40.26		1612	
+
+	Special Hospitals										
+			1st Prefs	189	62.17		115	37.83		304	
+		"HEEMSTRA, Simon (GRN)"	1	1	100.00		0	0.00		1	
+		"RYAN, William (CTA)"	4	4	100.00		0	0.00		4	
+		"OZ, Susan (HAN)"	6	4	66.67		2	33.33		6	
+		"VAN DE WEG, Bruce (DEM)"	0	0	0.00		0	0.00		0	
+		Total	11	198	62.86		117	37.14		315	
+
+	Total Ordinary										
+			1st Prefs	35648	62.79		21124	37.21		56772	
+		"HEEMSTRA, Simon (GRN)"	2987	897	30.03		2090	69.97		2987	
+		"RYAN, William (CTA)"	1418	1107	78.07		311	21.93		1418	
+		"OZ, Susan (HAN)"	3196	1540	48.19		1656	51.81		3196	
+		"VAN DE WEG, Bruce (DEM)"	2336	825	35.32		1511	64.68		2336	
+		Total	9937	40017	59.99		26692	40.01		66709	
+
+	ABSENT										
+			1st Prefs	2774	62.80		1643	37.20		4417	
+		"HEEMSTRA, Simon (GRN)"	371	165	44.47		206	55.53		371	
+		"RYAN, William (CTA)"	152	118	77.63		34	22.37		152	
+		"OZ, Susan (HAN)"	285	153	53.68		132	46.32		285	
+		"VAN DE WEG, Bruce (DEM)"	243	93	38.27		150	61.73		243	
+		Total	1051	3303	60.41		2165	39.59		5468	
+
+	POSTAL										
+			1st Prefs	1652	68.86		747	31.14		2399	
+		"HEEMSTRA, Simon (GRN)"	72	31	43.06		41	56.94		72	
+		"RYAN, William (CTA)"	37	35	94.59		2	5.41		37	
+		"OZ, Susan (HAN)"	142	82	57.75		60	42.25		142	
+		"VAN DE WEG, Bruce (DEM)"	76	30	39.47		46	60.53		76	
+		Total	327	1830	67.13		896	32.87		2726	
+
+	PRE_POLL										
+			1st Prefs	2149	66.31		1092	33.69		3241	
+		"HEEMSTRA, Simon (GRN)"	152	56	36.84		96	63.16		152	
+		"RYAN, William (CTA)"	64	47	73.44		17	26.56		64	
+		"OZ, Susan (HAN)"	244	121	49.59		123	50.41		244	
+		"VAN DE WEG, Bruce (DEM)"	145	55	37.93		90	62.07		145	
+		Total	605	2428	63.13		1418	36.87		3846	
+
+	PROVISIONAL										
+			1st Prefs	170	62.96		100	37.04		270	
+		"HEEMSTRA, Simon (GRN)"	22	9	40.91		13	59.09		22	
+		"RYAN, William (CTA)"	5	2	40.00		3	60.00		5	
+		"OZ, Susan (HAN)"	18	9	50.00		9	50.00		18	
+		"VAN DE WEG, Bruce (DEM)"	11	5	45.45		6	54.55		11	
+		Total	56	195	59.82		131	40.18		326	
+
+	Division Summary										
+			1st Prefs	42393	63.18		24706	36.82		67099	
+		"HEEMSTRA, Simon (GRN)"	3604	1158	32.13		2446	67.87		3604	
+		"RYAN, William (CTA)"	1676	1309	78.10		367	21.90		1676	
+		"OZ, Susan (HAN)"	3885	1905	49.03		1980	50.97		3885	
+		"VAN DE WEG, Bruce (DEM)"	2811	1008	35.86		1803	64.14		2811	
+		Total	11976	47773	60.41		31302	39.59		79075	

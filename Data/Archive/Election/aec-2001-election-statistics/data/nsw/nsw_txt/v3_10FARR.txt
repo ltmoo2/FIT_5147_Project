@@ -1,0 +1,1393 @@
+House of Representatives - 2001 Election: New South Wales											
+Two Candidate Preferred Preference Flow Result 											
+By Polling Place											
+											
+Farrer (84423)											
+		Candidate		"BOTT, Bill"		                 	"LEY, Sussan"			Total	
+				NP		                         	LP				
+				Votes	%	                     	Votes	%			
+	Adelong										
+			1st Prefs	117	29.77		276	70.23		393	
+		"SOBEY, Chris (GRN)"	25	18	72.00		7	28.00		25	
+		"WEYRICH, Tom (IND)"	5	4	80.00		1	20.00		5	
+		"WILKINSON, Max (HAN)"	58	30	51.72		28	48.28		58	
+		"WATSON, Stuart (IND)"	51	32	62.75		19	37.25		51	
+		"KREUTZBERGER, Keith"	7	6	85.71		1	14.29		7	
+		"MILLEN, Frank (CLR)"	184	143	77.72		41	22.28		184	
+		"CORBETT, David (IND)"	2	2	100.00		0	0.00		2	
+		"PATERSON, Brett (DEM)"	14	9	64.29		5	35.71		14	
+		"TAYLOR, Sue (IND)"	8	6	75.00		2	25.00		8	
+		"GIBSON, Andrew (IND)"	2	0	0.00		2	100.00		2	
+		Total	356	367	49.00		382	51.00		749	
+
+	Albury										
+			1st Prefs	331	28.24		841	71.76		1172	
+		"SOBEY, Chris (GRN)"	165	78	47.27		87	52.73		165	
+		"WEYRICH, Tom (IND)"	14	11	78.57		3	21.43		14	
+		"WILKINSON, Max (HAN)"	83	24	28.92		59	71.08		83	
+		"WATSON, Stuart (IND)"	22	10	45.45		12	54.55		22	
+		"KREUTZBERGER, Keith"	19	9	47.37		10	52.63		19	
+		"MILLEN, Frank (CLR)"	479	380	79.33		99	20.67		479	
+		"CORBETT, David (IND)"	18	12	66.67		6	33.33		18	
+		"PATERSON, Brett (DEM)"	129	52	40.31		77	59.69		129	
+		"TAYLOR, Sue (IND)"	21	11	52.38		10	47.62		21	
+		"GIBSON, Andrew (IND)"	10	6	60.00		4	40.00		10	
+		Total	960	924	43.34		1208	56.66		2132	
+
+	Albury East										
+			1st Prefs	184	29.39		442	70.61		626	
+		"SOBEY, Chris (GRN)"	38	16	42.11		22	57.89		38	
+		"WEYRICH, Tom (IND)"	5	3	60.00		2	40.00		5	
+		"WILKINSON, Max (HAN)"	57	28	49.12		29	50.88		57	
+		"WATSON, Stuart (IND)"	13	6	46.15		7	53.85		13	
+		"KREUTZBERGER, Keith"	16	8	50.00		8	50.00		16	
+		"MILLEN, Frank (CLR)"	243	192	79.01		51	20.99		243	
+		"CORBETT, David (IND)"	8	4	50.00		4	50.00		8	
+		"PATERSON, Brett (DEM)"	30	15	50.00		15	50.00		30	
+		"TAYLOR, Sue (IND)"	11	6	54.55		5	45.45		11	
+		"GIBSON, Andrew (IND)"	5	3	60.00		2	40.00		5	
+		Total	426	465	44.20		587	55.80		1052	
+
+	Albury High School										
+			1st Prefs	310	23.34		1018	76.66		1328	
+		"SOBEY, Chris (GRN)"	197	95	48.22		102	51.78		197	
+		"WEYRICH, Tom (IND)"	9	5	55.56		4	44.44		9	
+		"WILKINSON, Max (HAN)"	75	24	32.00		51	68.00		75	
+		"WATSON, Stuart (IND)"	13	5	38.46		8	61.54		13	
+		"KREUTZBERGER, Keith"	16	4	25.00		12	75.00		16	
+		"MILLEN, Frank (CLR)"	402	325	80.85		77	19.15		402	
+		"CORBETT, David (IND)"	10	8	80.00		2	20.00		10	
+		"PATERSON, Brett (DEM)"	136	62	45.59		74	54.41		136	
+		"TAYLOR, Sue (IND)"	27	13	48.15		14	51.85		27	
+		"GIBSON, Andrew (IND)"	6	3	50.00		3	50.00		6	
+		Total	891	854	38.49		1365	61.51		2219	
+
+	Albury Mercy Hospital										
+			1st Prefs	15	27.78		39	72.22		54	
+		"SOBEY, Chris (GRN)"	3	1	33.33		2	66.67		3	
+		"WEYRICH, Tom (IND)"	0	0	0.00		0	0.00		0	
+		"WILKINSON, Max (HAN)"	3	1	33.33		2	66.67		3	
+		"WATSON, Stuart (IND)"	1	0	0.00		1	100.00		1	
+		"KREUTZBERGER, Keith"	0	0	0.00		0	0.00		0	
+		"MILLEN, Frank (CLR)"	24	20	83.33		4	16.67		24	
+		"CORBETT, David (IND)"	0	0	0.00		0	0.00		0	
+		"PATERSON, Brett (DEM)"	2	1	50.00		1	50.00		2	
+		"TAYLOR, Sue (IND)"	1	0	0.00		1	100.00		1	
+		"GIBSON, Andrew (IND)"	1	0	0.00		1	100.00		1	
+		Total	35	38	42.70		51	57.30		89	
+
+	Albury North										
+			1st Prefs	285	30.16		660	69.84		945	
+		"SOBEY, Chris (GRN)"	85	51	60.00		34	40.00		85	
+		"WEYRICH, Tom (IND)"	11	11	100.00		0	0.00		11	
+		"WILKINSON, Max (HAN)"	101	39	38.61		62	61.39		101	
+		"WATSON, Stuart (IND)"	21	16	76.19		5	23.81		21	
+		"KREUTZBERGER, Keith"	26	20	76.92		6	23.08		26	
+		"MILLEN, Frank (CLR)"	355	276	77.75		79	22.25		355	
+		"CORBETT, David (IND)"	14	11	78.57		3	21.43		14	
+		"PATERSON, Brett (DEM)"	81	45	55.56		36	44.44		81	
+		"TAYLOR, Sue (IND)"	24	15	62.50		9	37.50		24	
+		"GIBSON, Andrew (IND)"	16	8	50.00		8	50.00		16	
+		Total	734	777	46.28		902	53.72		1679	
+
+	Albury North Central										
+			1st Prefs	199	28.07		510	71.93		709	
+		"SOBEY, Chris (GRN)"	38	28	73.68		10	26.32		38	
+		"WEYRICH, Tom (IND)"	12	9	75.00		3	25.00		12	
+		"WILKINSON, Max (HAN)"	96	42	43.75		54	56.25		96	
+		"WATSON, Stuart (IND)"	17	9	52.94		8	47.06		17	
+		"KREUTZBERGER, Keith"	18	9	50.00		9	50.00		18	
+		"MILLEN, Frank (CLR)"	363	313	86.23		50	13.77		363	
+		"CORBETT, David (IND)"	10	7	70.00		3	30.00		10	
+		"PATERSON, Brett (DEM)"	42	21	50.00		21	50.00		42	
+		"TAYLOR, Sue (IND)"	18	8	44.44		10	55.56		18	
+		"GIBSON, Andrew (IND)"	9	3	33.33		6	66.67		9	
+		Total	623	648	48.65		684	51.35		1332	
+
+	Albury South										
+			1st Prefs	211	26.15		596	73.85		807	
+		"SOBEY, Chris (GRN)"	61	34	55.74		27	44.26		61	
+		"WEYRICH, Tom (IND)"	6	5	83.33		1	16.67		6	
+		"WILKINSON, Max (HAN)"	67	32	47.76		35	52.24		67	
+		"WATSON, Stuart (IND)"	16	10	62.50		6	37.50		16	
+		"KREUTZBERGER, Keith"	19	10	52.63		9	47.37		19	
+		"MILLEN, Frank (CLR)"	323	277	85.76		46	14.24		323	
+		"CORBETT, David (IND)"	7	5	71.43		2	28.57		7	
+		"PATERSON, Brett (DEM)"	55	24	43.64		31	56.36		55	
+		"TAYLOR, Sue (IND)"	12	9	75.00		3	25.00		12	
+		"GIBSON, Andrew (IND)"	14	6	42.86		8	57.14		14	
+		Total	580	623	44.92		764	55.08		1387	
+
+	Albury West										
+			1st Prefs	312	28.86		769	71.14		1081	
+		"SOBEY, Chris (GRN)"	96	44	45.83		52	54.17		96	
+		"WEYRICH, Tom (IND)"	11	11	100.00		0	0.00		11	
+		"WILKINSON, Max (HAN)"	57	23	40.35		34	59.65		57	
+		"WATSON, Stuart (IND)"	14	8	57.14		6	42.86		14	
+		"KREUTZBERGER, Keith"	9	4	44.44		5	55.56		9	
+		"MILLEN, Frank (CLR)"	356	274	76.97		82	23.03		356	
+		"CORBETT, David (IND)"	7	3	42.86		4	57.14		7	
+		"PATERSON, Brett (DEM)"	81	34	41.98		47	58.02		81	
+		"TAYLOR, Sue (IND)"	18	10	55.56		8	44.44		18	
+		"GIBSON, Andrew (IND)"	6	4	66.67		2	33.33		6	
+		Total	655	727	41.88		1009	58.12		1736	
+
+	Balldale										
+			1st Prefs	44	49.44		45	50.56		89	
+		"SOBEY, Chris (GRN)"	4	3	75.00		1	25.00		4	
+		"WEYRICH, Tom (IND)"	1	1	100.00		0	0.00		1	
+		"WILKINSON, Max (HAN)"	6	5	83.33		1	16.67		6	
+		"WATSON, Stuart (IND)"	0	0	0.00		0	0.00		0	
+		"KREUTZBERGER, Keith"	1	1	100.00		0	0.00		1	
+		"MILLEN, Frank (CLR)"	13	10	76.92		3	23.08		13	
+		"CORBETT, David (IND)"	2	2	100.00		0	0.00		2	
+		"PATERSON, Brett (DEM)"	0	0	0.00		0	0.00		0	
+		"TAYLOR, Sue (IND)"	1	1	100.00		0	0.00		1	
+		"GIBSON, Andrew (IND)"	0	0	0.00		0	0.00		0	
+		Total	28	67	57.26		50	42.74		117	
+
+	Balranald										
+			1st Prefs	102	25.63		296	74.37		398	
+		"SOBEY, Chris (GRN)"	17	11	64.71		6	35.29		17	
+		"WEYRICH, Tom (IND)"	4	4	100.00		0	0.00		4	
+		"WILKINSON, Max (HAN)"	80	27	33.75		53	66.25		80	
+		"WATSON, Stuart (IND)"	3	2	66.67		1	33.33		3	
+		"KREUTZBERGER, Keith"	1	1	100.00		0	0.00		1	
+		"MILLEN, Frank (CLR)"	233	208	89.27		25	10.73		233	
+		"CORBETT, David (IND)"	1	0	0.00		1	100.00		1	
+		"PATERSON, Brett (DEM)"	10	6	60.00		4	40.00		10	
+		"TAYLOR, Sue (IND)"	6	2	33.33		4	66.67		6	
+		"GIBSON, Andrew (IND)"	3	1	33.33		2	66.67		3	
+		Total	358	364	48.15		392	51.85		756	
+
+	Barham										
+			1st Prefs	267	38.70		423	61.30		690	
+		"SOBEY, Chris (GRN)"	24	17	70.83		7	29.17		24	
+		"WEYRICH, Tom (IND)"	3	3	100.00		0	0.00		3	
+		"WILKINSON, Max (HAN)"	68	13	19.12		55	80.88		68	
+		"WATSON, Stuart (IND)"	11	8	72.73		3	27.27		11	
+		"KREUTZBERGER, Keith"	0	0	0.00		0	0.00		0	
+		"MILLEN, Frank (CLR)"	164	133	81.10		31	18.90		164	
+		"CORBETT, David (IND)"	5	3	60.00		2	40.00		5	
+		"PATERSON, Brett (DEM)"	17	10	58.82		7	41.18		17	
+		"TAYLOR, Sue (IND)"	10	4	40.00		6	60.00		10	
+		"GIBSON, Andrew (IND)"	18	13	72.22		5	27.78		18	
+		Total	320	471	46.63		539	53.37		1010	
+
+	Barooga										
+			1st Prefs	195	34.03		378	65.97		573	
+		"SOBEY, Chris (GRN)"	26	16	61.54		10	38.46		26	
+		"WEYRICH, Tom (IND)"	3	3	100.00		0	0.00		3	
+		"WILKINSON, Max (HAN)"	30	19	63.33		11	36.67		30	
+		"WATSON, Stuart (IND)"	2	0	0.00		2	100.00		2	
+		"KREUTZBERGER, Keith"	4	3	75.00		1	25.00		4	
+		"MILLEN, Frank (CLR)"	206	182	88.35		24	11.65		206	
+		"CORBETT, David (IND)"	1	1	100.00		0	0.00		1	
+		"PATERSON, Brett (DEM)"	12	8	66.67		4	33.33		12	
+		"TAYLOR, Sue (IND)"	20	4	20.00		16	80.00		20	
+		"GIBSON, Andrew (IND)"	4	0	0.00		4	100.00		4	
+		Total	308	431	48.92		450	51.08		881	
+
+	Batlow										
+			1st Prefs	117	31.62		253	68.38		370	
+		"SOBEY, Chris (GRN)"	38	28	73.68		10	26.32		38	
+		"WEYRICH, Tom (IND)"	3	2	66.67		1	33.33		3	
+		"WILKINSON, Max (HAN)"	89	29	32.58		60	67.42		89	
+		"WATSON, Stuart (IND)"	45	29	64.44		16	35.56		45	
+		"KREUTZBERGER, Keith"	4	4	100.00		0	0.00		4	
+		"MILLEN, Frank (CLR)"	294	253	86.05		41	13.95		294	
+		"CORBETT, David (IND)"	2	2	100.00		0	0.00		2	
+		"PATERSON, Brett (DEM)"	6	3	50.00		3	50.00		6	
+		"TAYLOR, Sue (IND)"	8	3	37.50		5	62.50		8	
+		"GIBSON, Andrew (IND)"	2	1	50.00		1	50.00		2	
+		Total	491	471	54.70		390	45.30		861	
+
+	Berrigan										
+			1st Prefs	420	67.74		200	32.26		620	
+		"SOBEY, Chris (GRN)"	18	17	94.44		1	5.56		18	
+		"WEYRICH, Tom (IND)"	1	1	100.00		0	0.00		1	
+		"WILKINSON, Max (HAN)"	66	35	53.03		31	46.97		66	
+		"WATSON, Stuart (IND)"	11	8	72.73		3	27.27		11	
+		"KREUTZBERGER, Keith"	1	1	100.00		0	0.00		1	
+		"MILLEN, Frank (CLR)"	105	84	80.00		21	20.00		105	
+		"CORBETT, David (IND)"	2	2	100.00		0	0.00		2	
+		"PATERSON, Brett (DEM)"	4	2	50.00		2	50.00		4	
+		"TAYLOR, Sue (IND)"	22	7	31.82		15	68.18		22	
+		"GIBSON, Andrew (IND)"	3	1	33.33		2	66.67		3	
+		Total	233	578	67.76		275	32.24		853	
+
+	Blighty										
+			1st Prefs	66	40.74		96	59.26		162	
+		"SOBEY, Chris (GRN)"	0	0	0.00		0	0.00		0	
+		"WEYRICH, Tom (IND)"	0	0	0.00		0	0.00		0	
+		"WILKINSON, Max (HAN)"	6	5	83.33		1	16.67		6	
+		"WATSON, Stuart (IND)"	2	2	100.00		0	0.00		2	
+		"KREUTZBERGER, Keith"	0	0	0.00		0	0.00		0	
+		"MILLEN, Frank (CLR)"	6	5	83.33		1	16.67		6	
+		"CORBETT, David (IND)"	1	1	100.00		0	0.00		1	
+		"PATERSON, Brett (DEM)"	0	0	0.00		0	0.00		0	
+		"TAYLOR, Sue (IND)"	4	2	50.00		2	50.00		4	
+		"GIBSON, Andrew (IND)"	3	1	33.33		2	66.67		3	
+		Total	22	82	44.57		102	55.43		184	
+
+	Boree Creek										
+			1st Prefs	79	71.17		32	28.83		111	
+		"SOBEY, Chris (GRN)"	2	1	50.00		1	50.00		2	
+		"WEYRICH, Tom (IND)"	0	0	0.00		0	0.00		0	
+		"WILKINSON, Max (HAN)"	7	4	57.14		3	42.86		7	
+		"WATSON, Stuart (IND)"	1	1	100.00		0	0.00		1	
+		"KREUTZBERGER, Keith"	0	0	0.00		0	0.00		0	
+		"MILLEN, Frank (CLR)"	18	13	72.22		5	27.78		18	
+		"CORBETT, David (IND)"	0	0	0.00		0	0.00		0	
+		"PATERSON, Brett (DEM)"	3	2	66.67		1	33.33		3	
+		"TAYLOR, Sue (IND)"	2	0	0.00		2	100.00		2	
+		"GIBSON, Andrew (IND)"	0	0	0.00		0	0.00		0	
+		Total	33	100	69.44		44	30.56		144	
+
+	Brocklesby										
+			1st Prefs	60	68.18		28	31.82		88	
+		"SOBEY, Chris (GRN)"	1	1	100.00		0	0.00		1	
+		"WEYRICH, Tom (IND)"	2	2	100.00		0	0.00		2	
+		"WILKINSON, Max (HAN)"	7	4	57.14		3	42.86		7	
+		"WATSON, Stuart (IND)"	1	1	100.00		0	0.00		1	
+		"KREUTZBERGER, Keith"	0	0	0.00		0	0.00		0	
+		"MILLEN, Frank (CLR)"	16	11	68.75		5	31.25		16	
+		"CORBETT, David (IND)"	0	0	0.00		0	0.00		0	
+		"PATERSON, Brett (DEM)"	2	1	50.00		1	50.00		2	
+		"TAYLOR, Sue (IND)"	0	0	0.00		0	0.00		0	
+		"GIBSON, Andrew (IND)"	2	0	0.00		2	100.00		2	
+		Total	31	80	67.23		39	32.77		119	
+
+	Brungle										
+			1st Prefs	19	38.78		30	61.22		49	
+		"SOBEY, Chris (GRN)"	4	1	25.00		3	75.00		4	
+		"WEYRICH, Tom (IND)"	0	0	0.00		0	0.00		0	
+		"WILKINSON, Max (HAN)"	5	1	20.00		4	80.00		5	
+		"WATSON, Stuart (IND)"	5	3	60.00		2	40.00		5	
+		"KREUTZBERGER, Keith"	0	0	0.00		0	0.00		0	
+		"MILLEN, Frank (CLR)"	26	23	88.46		3	11.54		26	
+		"CORBETT, David (IND)"	0	0	0.00		0	0.00		0	
+		"PATERSON, Brett (DEM)"	2	2	100.00		0	0.00		2	
+		"TAYLOR, Sue (IND)"	1	1	100.00		0	0.00		1	
+		"GIBSON, Andrew (IND)"	0	0	0.00		0	0.00		0	
+		Total	43	50	54.35		42	45.65		92	
+
+	Bunnaloo										
+			1st Prefs	93	64.14		52	35.86		145	
+		"SOBEY, Chris (GRN)"	3	3	100.00		0	0.00		3	
+		"WEYRICH, Tom (IND)"	4	1	25.00		3	75.00		4	
+		"WILKINSON, Max (HAN)"	8	3	37.50		5	62.50		8	
+		"WATSON, Stuart (IND)"	1	1	100.00		0	0.00		1	
+		"KREUTZBERGER, Keith"	1	0	0.00		1	100.00		1	
+		"MILLEN, Frank (CLR)"	11	7	63.64		4	36.36		11	
+		"CORBETT, David (IND)"	3	0	0.00		3	100.00		3	
+		"PATERSON, Brett (DEM)"	1	0	0.00		1	100.00		1	
+		"TAYLOR, Sue (IND)"	3	2	66.67		1	33.33		3	
+		"GIBSON, Andrew (IND)"	1	1	100.00		0	0.00		1	
+		Total	36	111	61.33		70	38.67		181	
+
+	Buronga										
+			1st Prefs	206	42.83		275	57.17		481	
+		"SOBEY, Chris (GRN)"	25	16	64.00		9	36.00		25	
+		"WEYRICH, Tom (IND)"	4	2	50.00		2	50.00		4	
+		"WILKINSON, Max (HAN)"	140	43	30.71		97	69.29		140	
+		"WATSON, Stuart (IND)"	6	5	83.33		1	16.67		6	
+		"KREUTZBERGER, Keith"	4	2	50.00		2	50.00		4	
+		"MILLEN, Frank (CLR)"	101	88	87.13		13	12.87		101	
+		"CORBETT, David (IND)"	5	3	60.00		2	40.00		5	
+		"PATERSON, Brett (DEM)"	13	7	53.85		6	46.15		13	
+		"TAYLOR, Sue (IND)"	6	4	66.67		2	33.33		6	
+		"GIBSON, Andrew (IND)"	2	0	0.00		2	100.00		2	
+		Total	306	376	47.78		411	52.22		787	
+
+	Burrumbuttock										
+			1st Prefs	47	32.64		97	67.36		144	
+		"SOBEY, Chris (GRN)"	6	5	83.33		1	16.67		6	
+		"WEYRICH, Tom (IND)"	0	0	0.00		0	0.00		0	
+		"WILKINSON, Max (HAN)"	10	6	60.00		4	40.00		10	
+		"WATSON, Stuart (IND)"	2	1	50.00		1	50.00		2	
+		"KREUTZBERGER, Keith"	8	1	12.50		7	87.50		8	
+		"MILLEN, Frank (CLR)"	14	10	71.43		4	28.57		14	
+		"CORBETT, David (IND)"	0	0	0.00		0	0.00		0	
+		"PATERSON, Brett (DEM)"	0	0	0.00		0	0.00		0	
+		"TAYLOR, Sue (IND)"	0	0	0.00		0	0.00		0	
+		"GIBSON, Andrew (IND)"	0	0	0.00		0	0.00		0	
+		Total	40	70	38.04		114	61.96		184	
+
+	Conargo										
+			1st Prefs	42	56.76		32	43.24		74	
+		"SOBEY, Chris (GRN)"	2	1	50.00		1	50.00		2	
+		"WEYRICH, Tom (IND)"	1	1	100.00		0	0.00		1	
+		"WILKINSON, Max (HAN)"	6	5	83.33		1	16.67		6	
+		"WATSON, Stuart (IND)"	1	1	100.00		0	0.00		1	
+		"KREUTZBERGER, Keith"	0	0	0.00		0	0.00		0	
+		"MILLEN, Frank (CLR)"	8	6	75.00		2	25.00		8	
+		"CORBETT, David (IND)"	0	0	0.00		0	0.00		0	
+		"PATERSON, Brett (DEM)"	0	0	0.00		0	0.00		0	
+		"TAYLOR, Sue (IND)"	4	0	0.00		4	100.00		4	
+		"GIBSON, Andrew (IND)"	2	1	50.00		1	50.00		2	
+		Total	24	57	58.16		41	41.84		98	
+
+	Corowa										
+			1st Prefs	735	62.45		442	37.55		1177	
+		"SOBEY, Chris (GRN)"	40	37	92.50		3	7.50		40	
+		"WEYRICH, Tom (IND)"	5	5	100.00		0	0.00		5	
+		"WILKINSON, Max (HAN)"	90	51	56.67		39	43.33		90	
+		"WATSON, Stuart (IND)"	11	6	54.55		5	45.45		11	
+		"KREUTZBERGER, Keith"	23	13	56.52		10	43.48		23	
+		"MILLEN, Frank (CLR)"	376	327	86.97		49	13.03		376	
+		"CORBETT, David (IND)"	12	6	50.00		6	50.00		12	
+		"PATERSON, Brett (DEM)"	34	16	47.06		18	52.94		34	
+		"TAYLOR, Sue (IND)"	8	5	62.50		3	37.50		8	
+		"GIBSON, Andrew (IND)"	9	4	44.44		5	55.56		9	
+		Total	608	1205	67.51		580	32.49		1785	
+
+	Corowa Hospital										
+			1st Prefs	443	65.82		230	34.18		673	
+		"SOBEY, Chris (GRN)"	15	13	86.67		2	13.33		15	
+		"WEYRICH, Tom (IND)"	1	0	0.00		1	100.00		1	
+		"WILKINSON, Max (HAN)"	41	27	65.85		14	34.15		41	
+		"WATSON, Stuart (IND)"	5	3	60.00		2	40.00		5	
+		"KREUTZBERGER, Keith"	11	9	81.82		2	18.18		11	
+		"MILLEN, Frank (CLR)"	233	194	83.26		39	16.74		233	
+		"CORBETT, David (IND)"	3	2	66.67		1	33.33		3	
+		"PATERSON, Brett (DEM)"	7	3	42.86		4	57.14		7	
+		"TAYLOR, Sue (IND)"	8	5	62.50		3	37.50		8	
+		"GIBSON, Andrew (IND)"	1	0	0.00		1	100.00		1	
+		Total	325	699	70.04		299	29.96		998	
+
+	Corowa South										
+			1st Prefs	252	63.80		143	36.20		395	
+		"SOBEY, Chris (GRN)"	6	5	83.33		1	16.67		6	
+		"WEYRICH, Tom (IND)"	1	1	100.00		0	0.00		1	
+		"WILKINSON, Max (HAN)"	19	9	47.37		10	52.63		19	
+		"WATSON, Stuart (IND)"	3	1	33.33		2	66.67		3	
+		"KREUTZBERGER, Keith"	6	4	66.67		2	33.33		6	
+		"MILLEN, Frank (CLR)"	132	118	89.39		14	10.61		132	
+		"CORBETT, David (IND)"	1	1	100.00		0	0.00		1	
+		"PATERSON, Brett (DEM)"	8	6	75.00		2	25.00		8	
+		"TAYLOR, Sue (IND)"	3	0	0.00		3	100.00		3	
+		"GIBSON, Andrew (IND)"	1	1	100.00		0	0.00		1	
+		Total	180	398	69.22		177	30.78		575	
+
+	Culcairn										
+			1st Prefs	178	33.40		355	66.60		533	
+		"SOBEY, Chris (GRN)"	25	18	72.00		7	28.00		25	
+		"WEYRICH, Tom (IND)"	4	2	50.00		2	50.00		4	
+		"WILKINSON, Max (HAN)"	41	23	56.10		18	43.90		41	
+		"WATSON, Stuart (IND)"	12	7	58.33		5	41.67		12	
+		"KREUTZBERGER, Keith"	8	4	50.00		4	50.00		8	
+		"MILLEN, Frank (CLR)"	193	170	88.08		23	11.92		193	
+		"CORBETT, David (IND)"	4	1	25.00		3	75.00		4	
+		"PATERSON, Brett (DEM)"	19	11	57.89		8	42.11		19	
+		"TAYLOR, Sue (IND)"	15	7	46.67		8	53.33		15	
+		"GIBSON, Andrew (IND)"	2	2	100.00		0	0.00		2	
+		Total	323	423	49.42		433	50.58		856	
+
+	Curlwaa										
+			1st Prefs	72	63.16		42	36.84		114	
+		"SOBEY, Chris (GRN)"	8	7	87.50		1	12.50		8	
+		"WEYRICH, Tom (IND)"	1	0	0.00		1	100.00		1	
+		"WILKINSON, Max (HAN)"	33	7	21.21		26	78.79		33	
+		"WATSON, Stuart (IND)"	7	2	28.57		5	71.43		7	
+		"KREUTZBERGER, Keith"	0	0	0.00		0	0.00		0	
+		"MILLEN, Frank (CLR)"	13	13	100.00		0	0.00		13	
+		"CORBETT, David (IND)"	0	0	0.00		0	0.00		0	
+		"PATERSON, Brett (DEM)"	3	2	66.67		1	33.33		3	
+		"TAYLOR, Sue (IND)"	1	0	0.00		1	100.00		1	
+		"GIBSON, Andrew (IND)"	2	2	100.00		0	0.00		2	
+		Total	68	105	57.69		77	42.31		182	
+
+	Dareton										
+			1st Prefs	195	56.69		149	43.31		344	
+		"SOBEY, Chris (GRN)"	10	10	100.00		0	0.00		10	
+		"WEYRICH, Tom (IND)"	1	0	0.00		1	100.00		1	
+		"WILKINSON, Max (HAN)"	149	32	21.48		117	78.52		149	
+		"WATSON, Stuart (IND)"	3	2	66.67		1	33.33		3	
+		"KREUTZBERGER, Keith"	1	1	100.00		0	0.00		1	
+		"MILLEN, Frank (CLR)"	121	87	71.90		34	28.10		121	
+		"CORBETT, David (IND)"	1	1	100.00		0	0.00		1	
+		"PATERSON, Brett (DEM)"	3	3	100.00		0	0.00		3	
+		"TAYLOR, Sue (IND)"	6	6	100.00		0	0.00		6	
+		"GIBSON, Andrew (IND)"	7	0	0.00		7	100.00		7	
+		Total	302	337	52.17		309	47.83		646	
+
+	Daysdale										
+			1st Prefs	59	75.64		19	24.36		78	
+		"SOBEY, Chris (GRN)"	0	0	0.00		0	0.00		0	
+		"WEYRICH, Tom (IND)"	0	0	0.00		0	0.00		0	
+		"WILKINSON, Max (HAN)"	5	1	20.00		4	80.00		5	
+		"WATSON, Stuart (IND)"	1	1	100.00		0	0.00		1	
+		"KREUTZBERGER, Keith"	3	3	100.00		0	0.00		3	
+		"MILLEN, Frank (CLR)"	6	3	50.00		3	50.00		6	
+		"CORBETT, David (IND)"	0	0	0.00		0	0.00		0	
+		"PATERSON, Brett (DEM)"	1	0	0.00		1	100.00		1	
+		"TAYLOR, Sue (IND)"	0	0	0.00		0	0.00		0	
+		"GIBSON, Andrew (IND)"	0	0	0.00		0	0.00		0	
+		Total	16	67	71.28		27	28.72		94	
+
+	Deniliquin										
+			1st Prefs	294	37.64		487	62.36		781	
+		"SOBEY, Chris (GRN)"	30	21	70.00		9	30.00		30	
+		"WEYRICH, Tom (IND)"	11	6	54.55		5	45.45		11	
+		"WILKINSON, Max (HAN)"	71	18	25.35		53	74.65		71	
+		"WATSON, Stuart (IND)"	14	6	42.86		8	57.14		14	
+		"KREUTZBERGER, Keith"	18	9	50.00		9	50.00		18	
+		"MILLEN, Frank (CLR)"	241	196	81.33		45	18.67		241	
+		"CORBETT, David (IND)"	10	6	60.00		4	40.00		10	
+		"PATERSON, Brett (DEM)"	23	13	56.52		10	43.48		23	
+		"TAYLOR, Sue (IND)"	93	38	40.86		55	59.14		93	
+		"GIBSON, Andrew (IND)"	8	2	25.00		6	75.00		8	
+		Total	519	609	46.85		691	53.15		1300	
+
+	Deniliquin Hospital										
+			1st Prefs	100	41.32		142	58.68		242	
+		"SOBEY, Chris (GRN)"	9	4	44.44		5	55.56		9	
+		"WEYRICH, Tom (IND)"	2	2	100.00		0	0.00		2	
+		"WILKINSON, Max (HAN)"	15	8	53.33		7	46.67		15	
+		"WATSON, Stuart (IND)"	2	2	100.00		0	0.00		2	
+		"KREUTZBERGER, Keith"	4	2	50.00		2	50.00		4	
+		"MILLEN, Frank (CLR)"	79	70	88.61		9	11.39		79	
+		"CORBETT, David (IND)"	1	0	0.00		1	100.00		1	
+		"PATERSON, Brett (DEM)"	6	1	16.67		5	83.33		6	
+		"TAYLOR, Sue (IND)"	24	8	33.33		16	66.67		24	
+		"GIBSON, Andrew (IND)"	3	0	0.00		3	100.00		3	
+		Total	145	197	50.90		190	49.10		387	
+
+	Deniliquin North										
+			1st Prefs	241	37.19		407	62.81		648	
+		"SOBEY, Chris (GRN)"	16	12	75.00		4	25.00		16	
+		"WEYRICH, Tom (IND)"	10	9	90.00		1	10.00		10	
+		"WILKINSON, Max (HAN)"	73	45	61.64		28	38.36		73	
+		"WATSON, Stuart (IND)"	3	2	66.67		1	33.33		3	
+		"KREUTZBERGER, Keith"	8	2	25.00		6	75.00		8	
+		"MILLEN, Frank (CLR)"	183	145	79.23		38	20.77		183	
+		"CORBETT, David (IND)"	4	3	75.00		1	25.00		4	
+		"PATERSON, Brett (DEM)"	12	7	58.33		5	41.67		12	
+		"TAYLOR, Sue (IND)"	60	30	50.00		30	50.00		60	
+		"GIBSON, Andrew (IND)"	3	1	33.33		2	66.67		3	
+		Total	372	497	48.73		523	51.27		1020	
+
+	Deniliquin South										
+			1st Prefs	142	31.00		316	69.00		458	
+		"SOBEY, Chris (GRN)"	8	4	50.00		4	50.00		8	
+		"WEYRICH, Tom (IND)"	6	3	50.00		3	50.00		6	
+		"WILKINSON, Max (HAN)"	32	13	40.63		19	59.38		32	
+		"WATSON, Stuart (IND)"	1	0	0.00		1	100.00		1	
+		"KREUTZBERGER, Keith"	9	7	77.78		2	22.22		9	
+		"MILLEN, Frank (CLR)"	136	105	77.21		31	22.79		136	
+		"CORBETT, David (IND)"	2	2	100.00		0	0.00		2	
+		"PATERSON, Brett (DEM)"	11	4	36.36		7	63.64		11	
+		"TAYLOR, Sue (IND)"	57	23	40.35		34	59.65		57	
+		"GIBSON, Andrew (IND)"	6	4	66.67		2	33.33		6	
+		Total	268	307	42.29		419	57.71		726	
+
+	Deniliquin West										
+			1st Prefs	279	36.86		478	63.14		757	
+		"SOBEY, Chris (GRN)"	32	21	65.63		11	34.38		32	
+		"WEYRICH, Tom (IND)"	13	8	61.54		5	38.46		13	
+		"WILKINSON, Max (HAN)"	81	34	41.98		47	58.02		81	
+		"WATSON, Stuart (IND)"	11	5	45.45		6	54.55		11	
+		"KREUTZBERGER, Keith"	9	3	33.33		6	66.67		9	
+		"MILLEN, Frank (CLR)"	272	216	79.41		56	20.59		272	
+		"CORBETT, David (IND)"	7	4	57.14		3	42.86		7	
+		"PATERSON, Brett (DEM)"	16	12	75.00		4	25.00		16	
+		"TAYLOR, Sue (IND)"	131	60	45.80		71	54.20		131	
+		"GIBSON, Andrew (IND)"	12	5	41.67		7	58.33		12	
+		Total	584	647	48.25		694	51.75		1341	
+
+	Emery										
+			1st Prefs	86	64.66		47	35.34		133	
+		"SOBEY, Chris (GRN)"	0	0	0.00		0	0.00		0	
+		"WEYRICH, Tom (IND)"	0	0	0.00		0	0.00		0	
+		"WILKINSON, Max (HAN)"	11	7	63.64		4	36.36		11	
+		"WATSON, Stuart (IND)"	0	0	0.00		0	0.00		0	
+		"KREUTZBERGER, Keith"	0	0	0.00		0	0.00		0	
+		"MILLEN, Frank (CLR)"	5	4	80.00		1	20.00		5	
+		"CORBETT, David (IND)"	0	0	0.00		0	0.00		0	
+		"PATERSON, Brett (DEM)"	3	1	33.33		2	66.67		3	
+		"TAYLOR, Sue (IND)"	1	0	0.00		1	100.00		1	
+		"GIBSON, Andrew (IND)"	0	0	0.00		0	0.00		0	
+		Total	20	98	64.05		55	35.95		153	
+
+	Euston										
+			1st Prefs	102	42.50		138	57.50		240	
+		"SOBEY, Chris (GRN)"	11	8	72.73		3	27.27		11	
+		"WEYRICH, Tom (IND)"	4	3	75.00		1	25.00		4	
+		"WILKINSON, Max (HAN)"	64	30	46.88		34	53.13		64	
+		"WATSON, Stuart (IND)"	5	3	60.00		2	40.00		5	
+		"KREUTZBERGER, Keith"	2	1	50.00		1	50.00		2	
+		"MILLEN, Frank (CLR)"	54	41	75.93		13	24.07		54	
+		"CORBETT, David (IND)"	1	1	100.00		0	0.00		1	
+		"PATERSON, Brett (DEM)"	3	1	33.33		2	66.67		3	
+		"TAYLOR, Sue (IND)"	0	0	0.00		0	0.00		0	
+		"GIBSON, Andrew (IND)"	6	1	16.67		5	83.33		6	
+		Total	150	191	48.97		199	51.03		390	
+
+	Finley										
+			1st Prefs	552	47.79		603	52.21		1155	
+		"SOBEY, Chris (GRN)"	32	21	65.63		11	34.38		32	
+		"WEYRICH, Tom (IND)"	2	1	50.00		1	50.00		2	
+		"WILKINSON, Max (HAN)"	56	38	67.86		18	32.14		56	
+		"WATSON, Stuart (IND)"	14	9	64.29		5	35.71		14	
+		"KREUTZBERGER, Keith"	3	1	33.33		2	66.67		3	
+		"MILLEN, Frank (CLR)"	237	191	80.59		46	19.41		237	
+		"CORBETT, David (IND)"	2	0	0.00		2	100.00		2	
+		"PATERSON, Brett (DEM)"	26	14	53.85		12	46.15		26	
+		"TAYLOR, Sue (IND)"	33	18	54.55		15	45.45		33	
+		"GIBSON, Andrew (IND)"	10	5	50.00		5	50.00		10	
+		Total	415	850	54.14		720	45.86		1570	
+
+	Gerogery										
+			1st Prefs	60	31.58		130	68.42		190	
+		"SOBEY, Chris (GRN)"	7	5	71.43		2	28.57		7	
+		"WEYRICH, Tom (IND)"	0	0	0.00		0	0.00		0	
+		"WILKINSON, Max (HAN)"	20	13	65.00		7	35.00		20	
+		"WATSON, Stuart (IND)"	4	0	0.00		4	100.00		4	
+		"KREUTZBERGER, Keith"	9	5	55.56		4	44.44		9	
+		"MILLEN, Frank (CLR)"	33	26	78.79		7	21.21		33	
+		"CORBETT, David (IND)"	2	2	100.00		0	0.00		2	
+		"PATERSON, Brett (DEM)"	9	7	77.78		2	22.22		9	
+		"TAYLOR, Sue (IND)"	1	1	100.00		0	0.00		1	
+		"GIBSON, Andrew (IND)"	1	0	0.00		1	100.00		1	
+		Total	86	119	43.12		157	56.88		276	
+
+	Glenroy										
+			1st Prefs	333	27.73		868	72.27		1201	
+		"SOBEY, Chris (GRN)"	90	53	58.89		37	41.11		90	
+		"WEYRICH, Tom (IND)"	10	6	60.00		4	40.00		10	
+		"WILKINSON, Max (HAN)"	133	56	42.11		77	57.89		133	
+		"WATSON, Stuart (IND)"	19	11	57.89		8	42.11		19	
+		"KREUTZBERGER, Keith"	32	22	68.75		10	31.25		32	
+		"MILLEN, Frank (CLR)"	490	388	79.18		102	20.82		490	
+		"CORBETT, David (IND)"	17	7	41.18		10	58.82		17	
+		"PATERSON, Brett (DEM)"	103	52	50.49		51	49.51		103	
+		"TAYLOR, Sue (IND)"	17	8	47.06		9	52.94		17	
+		"GIBSON, Andrew (IND)"	17	13	76.47		4	23.53		17	
+		Total	928	949	44.57		1180	55.43		2129	
+
+	Gol Gol										
+			1st Prefs	192	60.57		125	39.43		317	
+		"SOBEY, Chris (GRN)"	8	6	75.00		2	25.00		8	
+		"WEYRICH, Tom (IND)"	1	1	100.00		0	0.00		1	
+		"WILKINSON, Max (HAN)"	81	20	24.69		61	75.31		81	
+		"WATSON, Stuart (IND)"	2	0	0.00		2	100.00		2	
+		"KREUTZBERGER, Keith"	0	0	0.00		0	0.00		0	
+		"MILLEN, Frank (CLR)"	69	62	89.86		7	10.14		69	
+		"CORBETT, David (IND)"	2	1	50.00		1	50.00		2	
+		"PATERSON, Brett (DEM)"	8	1	12.50		7	87.50		8	
+		"TAYLOR, Sue (IND)"	1	0	0.00		1	100.00		1	
+		"GIBSON, Andrew (IND)"	1	0	0.00		1	100.00		1	
+		Total	173	283	57.76		207	42.24		490	
+
+	Hatfield										
+			1st Prefs	28	73.68		10	26.32		38	
+		"SOBEY, Chris (GRN)"	0	0	0.00		0	0.00		0	
+		"WEYRICH, Tom (IND)"	0	0	0.00		0	0.00		0	
+		"WILKINSON, Max (HAN)"	1	0	0.00		1	100.00		1	
+		"WATSON, Stuart (IND)"	0	0	0.00		0	0.00		0	
+		"KREUTZBERGER, Keith"	0	0	0.00		0	0.00		0	
+		"MILLEN, Frank (CLR)"	2	2	100.00		0	0.00		2	
+		"CORBETT, David (IND)"	0	0	0.00		0	0.00		0	
+		"PATERSON, Brett (DEM)"	0	0	0.00		0	0.00		0	
+		"TAYLOR, Sue (IND)"	0	0	0.00		0	0.00		0	
+		"GIBSON, Andrew (IND)"	0	0	0.00		0	0.00		0	
+		Total	3	30	73.17		11	26.83		41	
+
+	Henty										
+			1st Prefs	241	48.30		258	51.70		499	
+		"SOBEY, Chris (GRN)"	17	9	52.94		8	47.06		17	
+		"WEYRICH, Tom (IND)"	1	1	100.00		0	0.00		1	
+		"WILKINSON, Max (HAN)"	55	33	60.00		22	40.00		55	
+		"WATSON, Stuart (IND)"	9	3	33.33		6	66.67		9	
+		"KREUTZBERGER, Keith"	5	4	80.00		1	20.00		5	
+		"MILLEN, Frank (CLR)"	121	100	82.64		21	17.36		121	
+		"CORBETT, David (IND)"	1	1	100.00		0	0.00		1	
+		"PATERSON, Brett (DEM)"	7	2	28.57		5	71.43		7	
+		"TAYLOR, Sue (IND)"	6	2	33.33		4	66.67		6	
+		"GIBSON, Andrew (IND)"	6	2	33.33		4	66.67		6	
+		Total	228	398	54.75		329	45.25		727	
+
+	Holbrook										
+			1st Prefs	283	38.19		458	61.81		741	
+		"SOBEY, Chris (GRN)"	23	11	47.83		12	52.17		23	
+		"WEYRICH, Tom (IND)"	4	2	50.00		2	50.00		4	
+		"WILKINSON, Max (HAN)"	67	33	49.25		34	50.75		67	
+		"WATSON, Stuart (IND)"	18	13	72.22		5	27.78		18	
+		"KREUTZBERGER, Keith"	14	7	50.00		7	50.00		14	
+		"MILLEN, Frank (CLR)"	234	195	83.33		39	16.67		234	
+		"CORBETT, David (IND)"	3	0	0.00		3	100.00		3	
+		"PATERSON, Brett (DEM)"	12	4	33.33		8	66.67		12	
+		"TAYLOR, Sue (IND)"	7	3	42.86		4	57.14		7	
+		"GIBSON, Andrew (IND)"	1	1	100.00		0	0.00		1	
+		Total	383	552	49.11		572	50.89		1124	
+
+	Howlong										
+			1st Prefs	253	34.66		477	65.34		730	
+		"SOBEY, Chris (GRN)"	50	29	58.00		21	42.00		50	
+		"WEYRICH, Tom (IND)"	7	7	100.00		0	0.00		7	
+		"WILKINSON, Max (HAN)"	70	28	40.00		42	60.00		70	
+		"WATSON, Stuart (IND)"	11	6	54.55		5	45.45		11	
+		"KREUTZBERGER, Keith"	26	17	65.38		9	34.62		26	
+		"MILLEN, Frank (CLR)"	353	313	88.67		40	11.33		353	
+		"CORBETT, David (IND)"	12	5	41.67		7	58.33		12	
+		"PATERSON, Brett (DEM)"	27	20	74.07		7	25.93		27	
+		"TAYLOR, Sue (IND)"	17	12	70.59		5	29.41		17	
+		"GIBSON, Andrew (IND)"	12	6	50.00		6	50.00		12	
+		Total	585	696	52.93		619	47.07		1315	
+
+	Hume										
+			1st Prefs	209	25.27		618	74.73		827	
+		"SOBEY, Chris (GRN)"	38	28	73.68		10	26.32		38	
+		"WEYRICH, Tom (IND)"	11	7	63.64		4	36.36		11	
+		"WILKINSON, Max (HAN)"	69	32	46.38		37	53.62		69	
+		"WATSON, Stuart (IND)"	22	13	59.09		9	40.91		22	
+		"KREUTZBERGER, Keith"	18	10	55.56		8	44.44		18	
+		"MILLEN, Frank (CLR)"	365	307	84.11		58	15.89		365	
+		"CORBETT, David (IND)"	9	3	33.33		6	66.67		9	
+		"PATERSON, Brett (DEM)"	47	27	57.45		20	42.55		47	
+		"TAYLOR, Sue (IND)"	19	13	68.42		6	31.58		19	
+		"GIBSON, Andrew (IND)"	7	2	28.57		5	71.43		7	
+		Total	605	651	45.46		781	54.54		1432	
+
+	Jerilderie										
+			1st Prefs	184	43.71		237	56.29		421	
+		"SOBEY, Chris (GRN)"	9	9	100.00		0	0.00		9	
+		"WEYRICH, Tom (IND)"	0	0	0.00		0	0.00		0	
+		"WILKINSON, Max (HAN)"	44	19	43.18		25	56.82		44	
+		"WATSON, Stuart (IND)"	6	3	50.00		3	50.00		6	
+		"KREUTZBERGER, Keith"	3	2	66.67		1	33.33		3	
+		"MILLEN, Frank (CLR)"	134	114	85.07		20	14.93		134	
+		"CORBETT, David (IND)"	2	1	50.00		1	50.00		2	
+		"PATERSON, Brett (DEM)"	6	2	33.33		4	66.67		6	
+		"TAYLOR, Sue (IND)"	10	4	40.00		6	60.00		10	
+		"GIBSON, Andrew (IND)"	1	0	0.00		1	100.00		1	
+		Total	215	338	53.14		298	46.86		636	
+
+	Jindera										
+			1st Prefs	170	28.01		437	71.99		607	
+		"SOBEY, Chris (GRN)"	40	21	52.50		19	47.50		40	
+		"WEYRICH, Tom (IND)"	2	2	100.00		0	0.00		2	
+		"WILKINSON, Max (HAN)"	62	33	53.23		29	46.77		62	
+		"WATSON, Stuart (IND)"	8	7	87.50		1	12.50		8	
+		"KREUTZBERGER, Keith"	19	7	36.84		12	63.16		19	
+		"MILLEN, Frank (CLR)"	153	131	85.62		22	14.38		153	
+		"CORBETT, David (IND)"	7	6	85.71		1	14.29		7	
+		"PATERSON, Brett (DEM)"	25	11	44.00		14	56.00		25	
+		"TAYLOR, Sue (IND)"	16	7	43.75		9	56.25		16	
+		"GIBSON, Andrew (IND)"	1	1	100.00		0	0.00		1	
+		Total	333	396	42.13		544	57.87		940	
+
+	Jingellic										
+			1st Prefs	23	31.51		50	68.49		73	
+		"SOBEY, Chris (GRN)"	3	3	100.00		0	0.00		3	
+		"WEYRICH, Tom (IND)"	0	0	0.00		0	0.00		0	
+		"WILKINSON, Max (HAN)"	13	5	38.46		8	61.54		13	
+		"WATSON, Stuart (IND)"	0	0	0.00		0	0.00		0	
+		"KREUTZBERGER, Keith"	7	2	28.57		5	71.43		7	
+		"MILLEN, Frank (CLR)"	11	9	81.82		2	18.18		11	
+		"CORBETT, David (IND)"	0	0	0.00		0	0.00		0	
+		"PATERSON, Brett (DEM)"	0	0	0.00		0	0.00		0	
+		"TAYLOR, Sue (IND)"	3	3	100.00		0	0.00		3	
+		"GIBSON, Andrew (IND)"	0	0	0.00		0	0.00		0	
+		Total	37	45	40.91		65	59.09		110	
+
+	Khancoban										
+			1st Prefs	46	37.70		76	62.30		122	
+		"SOBEY, Chris (GRN)"	4	1	25.00		3	75.00		4	
+		"WEYRICH, Tom (IND)"	1	1	100.00		0	0.00		1	
+		"WILKINSON, Max (HAN)"	17	4	23.53		13	76.47		17	
+		"WATSON, Stuart (IND)"	1	0	0.00		1	100.00		1	
+		"KREUTZBERGER, Keith"	2	0	0.00		2	100.00		2	
+		"MILLEN, Frank (CLR)"	74	66	89.19		8	10.81		74	
+		"CORBETT, David (IND)"	1	1	100.00		0	0.00		1	
+		"PATERSON, Brett (DEM)"	16	5	31.25		11	68.75		16	
+		"TAYLOR, Sue (IND)"	12	8	66.67		4	33.33		12	
+		"GIBSON, Andrew (IND)"	0	0	0.00		0	0.00		0	
+		Total	128	132	52.80		118	47.20		250	
+
+	Koraleigh										
+			1st Prefs	36	25.71		104	74.29		140	
+		"SOBEY, Chris (GRN)"	5	3	60.00		2	40.00		5	
+		"WEYRICH, Tom (IND)"	1	1	100.00		0	0.00		1	
+		"WILKINSON, Max (HAN)"	24	13	54.17		11	45.83		24	
+		"WATSON, Stuart (IND)"	1	0	0.00		1	100.00		1	
+		"KREUTZBERGER, Keith"	2	1	50.00		1	50.00		2	
+		"MILLEN, Frank (CLR)"	27	23	85.19		4	14.81		27	
+		"CORBETT, David (IND)"	2	1	50.00		1	50.00		2	
+		"PATERSON, Brett (DEM)"	6	4	66.67		2	33.33		6	
+		"TAYLOR, Sue (IND)"	2	1	50.00		1	50.00		2	
+		"GIBSON, Andrew (IND)"	8	6	75.00		2	25.00		8	
+		Total	78	89	40.83		129	59.17		218	
+
+	Lacmalac										
+			1st Prefs	26	25.00		78	75.00		104	
+		"SOBEY, Chris (GRN)"	7	4	57.14		3	42.86		7	
+		"WEYRICH, Tom (IND)"	1	1	100.00		0	0.00		1	
+		"WILKINSON, Max (HAN)"	11	5	45.45		6	54.55		11	
+		"WATSON, Stuart (IND)"	8	6	75.00		2	25.00		8	
+		"KREUTZBERGER, Keith"	0	0	0.00		0	0.00		0	
+		"MILLEN, Frank (CLR)"	17	11	64.71		6	35.29		17	
+		"CORBETT, David (IND)"	1	1	100.00		0	0.00		1	
+		"PATERSON, Brett (DEM)"	2	2	100.00		0	0.00		2	
+		"TAYLOR, Sue (IND)"	1	0	0.00		1	100.00		1	
+		"GIBSON, Andrew (IND)"	0	0	0.00		0	0.00		0	
+		Total	48	56	36.84		96	63.16		152	
+
+	Lavington										
+			1st Prefs	475	29.80		1119	70.20		1594	
+		"SOBEY, Chris (GRN)"	112	66	58.93		46	41.07		112	
+		"WEYRICH, Tom (IND)"	30	20	66.67		10	33.33		30	
+		"WILKINSON, Max (HAN)"	217	77	35.48		140	64.52		217	
+		"WATSON, Stuart (IND)"	32	18	56.25		14	43.75		32	
+		"KREUTZBERGER, Keith"	36	22	61.11		14	38.89		36	
+		"MILLEN, Frank (CLR)"	684	572	83.63		112	16.37		684	
+		"CORBETT, David (IND)"	17	10	58.82		7	41.18		17	
+		"PATERSON, Brett (DEM)"	93	46	49.46		47	50.54		93	
+		"TAYLOR, Sue (IND)"	36	21	58.33		15	41.67		36	
+		"GIBSON, Andrew (IND)"	18	11	61.11		7	38.89		18	
+		Total	1275	1338	46.64		1531	53.36		2869	
+
+	Lavington East										
+			1st Prefs	309	27.56		812	72.44		1121	
+		"SOBEY, Chris (GRN)"	64	39	60.94		25	39.06		64	
+		"WEYRICH, Tom (IND)"	7	6	85.71		1	14.29		7	
+		"WILKINSON, Max (HAN)"	127	53	41.73		74	58.27		127	
+		"WATSON, Stuart (IND)"	28	12	42.86		16	57.14		28	
+		"KREUTZBERGER, Keith"	27	17	62.96		10	37.04		27	
+		"MILLEN, Frank (CLR)"	455	372	81.76		83	18.24		455	
+		"CORBETT, David (IND)"	10	8	80.00		2	20.00		10	
+		"PATERSON, Brett (DEM)"	69	26	37.68		43	62.32		69	
+		"TAYLOR, Sue (IND)"	26	15	57.69		11	42.31		26	
+		"GIBSON, Andrew (IND)"	7	5	71.43		2	28.57		7	
+		Total	820	862	44.41		1079	55.59		1941	
+
+	Lockhart										
+			1st Prefs	290	54.21		245	45.79		535	
+		"SOBEY, Chris (GRN)"	11	7	63.64		4	36.36		11	
+		"WEYRICH, Tom (IND)"	1	0	0.00		1	100.00		1	
+		"WILKINSON, Max (HAN)"	44	15	34.09		29	65.91		44	
+		"WATSON, Stuart (IND)"	11	7	63.64		4	36.36		11	
+		"KREUTZBERGER, Keith"	6	4	66.67		2	33.33		6	
+		"MILLEN, Frank (CLR)"	142	129	90.85		13	9.15		142	
+		"CORBETT, David (IND)"	5	2	40.00		3	60.00		5	
+		"PATERSON, Brett (DEM)"	8	3	37.50		5	62.50		8	
+		"TAYLOR, Sue (IND)"	9	6	66.67		3	33.33		9	
+		"GIBSON, Andrew (IND)"	2	1	50.00		1	50.00		2	
+		Total	239	464	59.95		310	40.05		774	
+
+	Lowesdale										
+			1st Prefs	90	78.95		24	21.05		114	
+		"SOBEY, Chris (GRN)"	2	2	100.00		0	0.00		2	
+		"WEYRICH, Tom (IND)"	0	0	0.00		0	0.00		0	
+		"WILKINSON, Max (HAN)"	5	3	60.00		2	40.00		5	
+		"WATSON, Stuart (IND)"	0	0	0.00		0	0.00		0	
+		"KREUTZBERGER, Keith"	1	1	100.00		0	0.00		1	
+		"MILLEN, Frank (CLR)"	5	4	80.00		1	20.00		5	
+		"CORBETT, David (IND)"	0	0	0.00		0	0.00		0	
+		"PATERSON, Brett (DEM)"	0	0	0.00		0	0.00		0	
+		"TAYLOR, Sue (IND)"	1	1	100.00		0	0.00		1	
+		"GIBSON, Andrew (IND)"	0	0	0.00		0	0.00		0	
+		Total	14	101	78.91		27	21.09		128	
+
+	Mathoura										
+			1st Prefs	127	45.85		150	54.15		277	
+		"SOBEY, Chris (GRN)"	8	4	50.00		4	50.00		8	
+		"WEYRICH, Tom (IND)"	42	29	69.05		13	30.95		42	
+		"WILKINSON, Max (HAN)"	34	17	50.00		17	50.00		34	
+		"WATSON, Stuart (IND)"	4	1	25.00		3	75.00		4	
+		"KREUTZBERGER, Keith"	4	4	100.00		0	0.00		4	
+		"MILLEN, Frank (CLR)"	141	117	82.98		24	17.02		141	
+		"CORBETT, David (IND)"	2	1	50.00		1	50.00		2	
+		"PATERSON, Brett (DEM)"	4	2	50.00		2	50.00		4	
+		"TAYLOR, Sue (IND)"	13	6	46.15		7	53.85		13	
+		"GIBSON, Andrew (IND)"	4	2	50.00		2	50.00		4	
+		Total	256	310	58.16		223	41.84		533	
+
+	Mayrung										
+			1st Prefs	58	58.00		42	42.00		100	
+		"SOBEY, Chris (GRN)"	2	2	100.00		0	0.00		2	
+		"WEYRICH, Tom (IND)"	0	0	0.00		0	0.00		0	
+		"WILKINSON, Max (HAN)"	6	4	66.67		2	33.33		6	
+		"WATSON, Stuart (IND)"	0	0	0.00		0	0.00		0	
+		"KREUTZBERGER, Keith"	0	0	0.00		0	0.00		0	
+		"MILLEN, Frank (CLR)"	3	1	33.33		2	66.67		3	
+		"CORBETT, David (IND)"	1	0	0.00		1	100.00		1	
+		"PATERSON, Brett (DEM)"	3	3	100.00		0	0.00		3	
+		"TAYLOR, Sue (IND)"	3	2	66.67		1	33.33		3	
+		"GIBSON, Andrew (IND)"	0	0	0.00		0	0.00		0	
+		Total	18	70	59.32		48	40.68		118	
+
+	Moama										
+			1st Prefs	476	34.47		905	65.53		1381	
+		"SOBEY, Chris (GRN)"	50	33	66.00		17	34.00		50	
+		"WEYRICH, Tom (IND)"	80	52	65.00		28	35.00		80	
+		"WILKINSON, Max (HAN)"	85	36	42.35		49	57.65		85	
+		"WATSON, Stuart (IND)"	19	7	36.84		12	63.16		19	
+		"KREUTZBERGER, Keith"	6	1	16.67		5	83.33		6	
+		"MILLEN, Frank (CLR)"	428	378	88.32		50	11.68		428	
+		"CORBETT, David (IND)"	8	7	87.50		1	12.50		8	
+		"PATERSON, Brett (DEM)"	33	18	54.55		15	45.45		33	
+		"TAYLOR, Sue (IND)"	30	16	53.33		14	46.67		30	
+		"GIBSON, Andrew (IND)"	14	11	78.57		3	21.43		14	
+		Total	753	1035	48.50		1099	51.50		2134	
+
+	Morundah										
+			1st Prefs	7	29.17		17	70.83		24	
+		"SOBEY, Chris (GRN)"	2	2	100.00		0	0.00		2	
+		"WEYRICH, Tom (IND)"	0	0	0.00		0	0.00		0	
+		"WILKINSON, Max (HAN)"	3	1	33.33		2	66.67		3	
+		"WATSON, Stuart (IND)"	0	0	0.00		0	0.00		0	
+		"KREUTZBERGER, Keith"	1	0	0.00		1	100.00		1	
+		"MILLEN, Frank (CLR)"	8	6	75.00		2	25.00		8	
+		"CORBETT, David (IND)"	0	0	0.00		0	0.00		0	
+		"PATERSON, Brett (DEM)"	0	0	0.00		0	0.00		0	
+		"TAYLOR, Sue (IND)"	0	0	0.00		0	0.00		0	
+		"GIBSON, Andrew (IND)"	0	0	0.00		0	0.00		0	
+		Total	14	16	42.11		22	57.89		38	
+
+	Morven										
+			1st Prefs	9	18.75		39	81.25		48	
+		"SOBEY, Chris (GRN)"	1	1	100.00		0	0.00		1	
+		"WEYRICH, Tom (IND)"	0	0	0.00		0	0.00		0	
+		"WILKINSON, Max (HAN)"	5	1	20.00		4	80.00		5	
+		"WATSON, Stuart (IND)"	0	0	0.00		0	0.00		0	
+		"KREUTZBERGER, Keith"	0	0	0.00		0	0.00		0	
+		"MILLEN, Frank (CLR)"	7	5	71.43		2	28.57		7	
+		"CORBETT, David (IND)"	0	0	0.00		0	0.00		0	
+		"PATERSON, Brett (DEM)"	1	0	0.00		1	100.00		1	
+		"TAYLOR, Sue (IND)"	1	1	100.00		0	0.00		1	
+		"GIBSON, Andrew (IND)"	0	0	0.00		0	0.00		0	
+		Total	15	17	26.98		46	73.02		63	
+
+	Moulamein										
+			1st Prefs	107	40.84		155	59.16		262	
+		"SOBEY, Chris (GRN)"	2	2	100.00		0	0.00		2	
+		"WEYRICH, Tom (IND)"	0	0	0.00		0	0.00		0	
+		"WILKINSON, Max (HAN)"	31	21	67.74		10	32.26		31	
+		"WATSON, Stuart (IND)"	2	0	0.00		2	100.00		2	
+		"KREUTZBERGER, Keith"	3	1	33.33		2	66.67		3	
+		"MILLEN, Frank (CLR)"	80	69	86.25		11	13.75		80	
+		"CORBETT, David (IND)"	1	0	0.00		1	100.00		1	
+		"PATERSON, Brett (DEM)"	4	3	75.00		1	25.00		4	
+		"TAYLOR, Sue (IND)"	4	1	25.00		3	75.00		4	
+		"GIBSON, Andrew (IND)"	1	0	0.00		1	100.00		1	
+		Total	128	204	52.31		186	47.69		390	
+
+	Mullengandra										
+			1st Prefs	34	45.33		41	54.67		75	
+		"SOBEY, Chris (GRN)"	6	3	50.00		3	50.00		6	
+		"WEYRICH, Tom (IND)"	0	0	0.00		0	0.00		0	
+		"WILKINSON, Max (HAN)"	15	8	53.33		7	46.67		15	
+		"WATSON, Stuart (IND)"	1	1	100.00		0	0.00		1	
+		"KREUTZBERGER, Keith"	2	2	100.00		0	0.00		2	
+		"MILLEN, Frank (CLR)"	11	10	90.91		1	9.09		11	
+		"CORBETT, David (IND)"	1	0	0.00		1	100.00		1	
+		"PATERSON, Brett (DEM)"	2	1	50.00		1	50.00		2	
+		"TAYLOR, Sue (IND)"	2	2	100.00		0	0.00		2	
+		"GIBSON, Andrew (IND)"	0	0	0.00		0	0.00		0	
+		Total	40	61	53.04		54	46.96		115	
+
+	Mulwala										
+			1st Prefs	453	56.41		350	43.59		803	
+		"SOBEY, Chris (GRN)"	14	12	85.71		2	14.29		14	
+		"WEYRICH, Tom (IND)"	3	2	66.67		1	33.33		3	
+		"WILKINSON, Max (HAN)"	39	15	38.46		24	61.54		39	
+		"WATSON, Stuart (IND)"	5	2	40.00		3	60.00		5	
+		"KREUTZBERGER, Keith"	5	4	80.00		1	20.00		5	
+		"MILLEN, Frank (CLR)"	292	265	90.75		27	9.25		292	
+		"CORBETT, David (IND)"	2	1	50.00		1	50.00		2	
+		"PATERSON, Brett (DEM)"	16	12	75.00		4	25.00		16	
+		"TAYLOR, Sue (IND)"	3	2	66.67		1	33.33		3	
+		"GIBSON, Andrew (IND)"	2	1	50.00		1	50.00		2	
+		Total	381	769	64.95		415	35.05		1184	
+
+	Murray Downs										
+			1st Prefs	73	40.56		107	59.44		180	
+		"SOBEY, Chris (GRN)"	3	3	100.00		0	0.00		3	
+		"WEYRICH, Tom (IND)"	2	1	50.00		1	50.00		2	
+		"WILKINSON, Max (HAN)"	10	6	60.00		4	40.00		10	
+		"WATSON, Stuart (IND)"	0	0	0.00		0	0.00		0	
+		"KREUTZBERGER, Keith"	0	0	0.00		0	0.00		0	
+		"MILLEN, Frank (CLR)"	25	22	88.00		3	12.00		25	
+		"CORBETT, David (IND)"	0	0	0.00		0	0.00		0	
+		"PATERSON, Brett (DEM)"	0	0	0.00		0	0.00		0	
+		"TAYLOR, Sue (IND)"	1	1	100.00		0	0.00		1	
+		"GIBSON, Andrew (IND)"	2	1	50.00		1	50.00		2	
+		Total	43	107	47.98		116	52.02		223	
+
+	Oaklands										
+			1st Prefs	101	57.06		76	42.94		177	
+		"SOBEY, Chris (GRN)"	4	1	25.00		3	75.00		4	
+		"WEYRICH, Tom (IND)"	0	0	0.00		0	0.00		0	
+		"WILKINSON, Max (HAN)"	11	5	45.45		6	54.55		11	
+		"WATSON, Stuart (IND)"	1	1	100.00		0	0.00		1	
+		"KREUTZBERGER, Keith"	2	2	100.00		0	0.00		2	
+		"MILLEN, Frank (CLR)"	32	28	87.50		4	12.50		32	
+		"CORBETT, David (IND)"	1	1	100.00		0	0.00		1	
+		"PATERSON, Brett (DEM)"	0	0	0.00		0	0.00		0	
+		"TAYLOR, Sue (IND)"	3	1	33.33		2	66.67		3	
+		"GIBSON, Andrew (IND)"	0	0	0.00		0	0.00		0	
+		Total	54	140	60.61		91	39.39		231	
+
+	Pleasant Hills										
+			1st Prefs	105	71.92		41	28.08		146	
+		"SOBEY, Chris (GRN)"	1	1	100.00		0	0.00		1	
+		"WEYRICH, Tom (IND)"	0	0	0.00		0	0.00		0	
+		"WILKINSON, Max (HAN)"	1	1	100.00		0	0.00		1	
+		"WATSON, Stuart (IND)"	0	0	0.00		0	0.00		0	
+		"KREUTZBERGER, Keith"	2	2	100.00		0	0.00		2	
+		"MILLEN, Frank (CLR)"	7	5	71.43		2	28.57		7	
+		"CORBETT, David (IND)"	0	0	0.00		0	0.00		0	
+		"PATERSON, Brett (DEM)"	0	0	0.00		0	0.00		0	
+		"TAYLOR, Sue (IND)"	2	1	50.00		1	50.00		2	
+		"GIBSON, Andrew (IND)"	0	0	0.00		0	0.00		0	
+		Total	13	115	72.33		44	27.67		159	
+
+	Pooncarie										
+			1st Prefs	70	72.16		27	27.84		97	
+		"SOBEY, Chris (GRN)"	1	1	100.00		0	0.00		1	
+		"WEYRICH, Tom (IND)"	3	3	100.00		0	0.00		3	
+		"WILKINSON, Max (HAN)"	13	2	15.38		11	84.62		13	
+		"WATSON, Stuart (IND)"	1	1	100.00		0	0.00		1	
+		"KREUTZBERGER, Keith"	0	0	0.00		0	0.00		0	
+		"MILLEN, Frank (CLR)"	7	6	85.71		1	14.29		7	
+		"CORBETT, David (IND)"	1	1	100.00		0	0.00		1	
+		"PATERSON, Brett (DEM)"	2	0	0.00		2	100.00		2	
+		"TAYLOR, Sue (IND)"	1	1	100.00		0	0.00		1	
+		"GIBSON, Andrew (IND)"	0	0	0.00		0	0.00		0	
+		Total	29	85	67.46		41	32.54		126	
+
+	Pretty Pine										
+			1st Prefs	35	49.30		36	50.70		71	
+		"SOBEY, Chris (GRN)"	1	1	100.00		0	0.00		1	
+		"WEYRICH, Tom (IND)"	1	0	0.00		1	100.00		1	
+		"WILKINSON, Max (HAN)"	3	2	66.67		1	33.33		3	
+		"WATSON, Stuart (IND)"	2	1	50.00		1	50.00		2	
+		"KREUTZBERGER, Keith"	0	0	0.00		0	0.00		0	
+		"MILLEN, Frank (CLR)"	6	4	66.67		2	33.33		6	
+		"CORBETT, David (IND)"	0	0	0.00		0	0.00		0	
+		"PATERSON, Brett (DEM)"	0	0	0.00		0	0.00		0	
+		"TAYLOR, Sue (IND)"	2	1	50.00		1	50.00		2	
+		"GIBSON, Andrew (IND)"	0	0	0.00		0	0.00		0	
+		Total	15	44	51.16		42	48.84		86	
+
+	Rand										
+			1st Prefs	48	31.58		104	68.42		152	
+		"SOBEY, Chris (GRN)"	0	0	0.00		0	0.00		0	
+		"WEYRICH, Tom (IND)"	1	0	0.00		1	100.00		1	
+		"WILKINSON, Max (HAN)"	3	0	0.00		3	100.00		3	
+		"WATSON, Stuart (IND)"	0	0	0.00		0	0.00		0	
+		"KREUTZBERGER, Keith"	11	7	63.64		4	36.36		11	
+		"MILLEN, Frank (CLR)"	12	9	75.00		3	25.00		12	
+		"CORBETT, David (IND)"	0	0	0.00		0	0.00		0	
+		"PATERSON, Brett (DEM)"	1	1	100.00		0	0.00		1	
+		"TAYLOR, Sue (IND)"	3	0	0.00		3	100.00		3	
+		"GIBSON, Andrew (IND)"	0	0	0.00		0	0.00		0	
+		Total	31	65	35.52		118	64.48		183	
+
+	Rosewood										
+			1st Prefs	53	38.69		84	61.31		137	
+		"SOBEY, Chris (GRN)"	8	6	75.00		2	25.00		8	
+		"WEYRICH, Tom (IND)"	0	0	0.00		0	0.00		0	
+		"WILKINSON, Max (HAN)"	13	5	38.46		8	61.54		13	
+		"WATSON, Stuart (IND)"	3	2	66.67		1	33.33		3	
+		"KREUTZBERGER, Keith"	1	0	0.00		1	100.00		1	
+		"MILLEN, Frank (CLR)"	21	21	100.00		0	0.00		21	
+		"CORBETT, David (IND)"	0	0	0.00		0	0.00		0	
+		"PATERSON, Brett (DEM)"	3	2	66.67		1	33.33		3	
+		"TAYLOR, Sue (IND)"	3	2	66.67		1	33.33		3	
+		"GIBSON, Andrew (IND)"	0	0	0.00		0	0.00		0	
+		Total	52	91	48.15		98	51.85		189	
+
+	Springdale Heights										
+			1st Prefs	85	25.99		242	74.01		327	
+		"SOBEY, Chris (GRN)"	24	15	62.50		9	37.50		24	
+		"WEYRICH, Tom (IND)"	2	2	100.00		0	0.00		2	
+		"WILKINSON, Max (HAN)"	40	15	37.50		25	62.50		40	
+		"WATSON, Stuart (IND)"	9	6	66.67		3	33.33		9	
+		"KREUTZBERGER, Keith"	5	3	60.00		2	40.00		5	
+		"MILLEN, Frank (CLR)"	174	148	85.06		26	14.94		174	
+		"CORBETT, David (IND)"	5	3	60.00		2	40.00		5	
+		"PATERSON, Brett (DEM)"	22	14	63.64		8	36.36		22	
+		"TAYLOR, Sue (IND)"	9	3	33.33		6	66.67		9	
+		"GIBSON, Andrew (IND)"	6	1	16.67		5	83.33		6	
+		Total	296	295	47.35		328	52.65		623	
+
+	Sydney (Farrer)										
+			1st Prefs	6	54.55		5	45.45		11	
+		"SOBEY, Chris (GRN)"	3	1	33.33		2	66.67		3	
+		"WEYRICH, Tom (IND)"	0	0	0.00		0	0.00		0	
+		"WILKINSON, Max (HAN)"	0	0	0.00		0	0.00		0	
+		"WATSON, Stuart (IND)"	0	0	0.00		0	0.00		0	
+		"KREUTZBERGER, Keith"	0	0	0.00		0	0.00		0	
+		"MILLEN, Frank (CLR)"	4	3	75.00		1	25.00		4	
+		"CORBETT, David (IND)"	0	0	0.00		0	0.00		0	
+		"PATERSON, Brett (DEM)"	1	1	100.00		0	0.00		1	
+		"TAYLOR, Sue (IND)"	0	0	0.00		0	0.00		0	
+		"GIBSON, Andrew (IND)"	0	0	0.00		0	0.00		0	
+		Total	8	11	57.89		8	42.11		19	
+
+	Table Top										
+			1st Prefs	50	23.36		164	76.64		214	
+		"SOBEY, Chris (GRN)"	13	8	61.54		5	38.46		13	
+		"WEYRICH, Tom (IND)"	2	1	50.00		1	50.00		2	
+		"WILKINSON, Max (HAN)"	13	2	15.38		11	84.62		13	
+		"WATSON, Stuart (IND)"	2	1	50.00		1	50.00		2	
+		"KREUTZBERGER, Keith"	3	1	33.33		2	66.67		3	
+		"MILLEN, Frank (CLR)"	28	23	82.14		5	17.86		28	
+		"CORBETT, David (IND)"	1	0	0.00		1	100.00		1	
+		"PATERSON, Brett (DEM)"	9	5	55.56		4	44.44		9	
+		"TAYLOR, Sue (IND)"	3	2	66.67		1	33.33		3	
+		"GIBSON, Andrew (IND)"	0	0	0.00		0	0.00		0	
+		Total	74	93	32.29		195	67.71		288	
+
+	Talbingo										
+			1st Prefs	18	24.66		55	75.34		73	
+		"SOBEY, Chris (GRN)"	6	5	83.33		1	16.67		6	
+		"WEYRICH, Tom (IND)"	1	1	100.00		0	0.00		1	
+		"WILKINSON, Max (HAN)"	12	8	66.67		4	33.33		12	
+		"WATSON, Stuart (IND)"	8	3	37.50		5	62.50		8	
+		"KREUTZBERGER, Keith"	0	0	0.00		0	0.00		0	
+		"MILLEN, Frank (CLR)"	62	51	82.26		11	17.74		62	
+		"CORBETT, David (IND)"	0	0	0.00		0	0.00		0	
+		"PATERSON, Brett (DEM)"	5	3	60.00		2	40.00		5	
+		"TAYLOR, Sue (IND)"	5	3	60.00		2	40.00		5	
+		"GIBSON, Andrew (IND)"	2	1	50.00		1	50.00		2	
+		Total	101	93	53.45		81	46.55		174	
+
+	The Retreat										
+			1st Prefs	26	39.39		40	60.61		66	
+		"SOBEY, Chris (GRN)"	1	1	100.00		0	0.00		1	
+		"WEYRICH, Tom (IND)"	0	0	0.00		0	0.00		0	
+		"WILKINSON, Max (HAN)"	4	3	75.00		1	25.00		4	
+		"WATSON, Stuart (IND)"	0	0	0.00		0	0.00		0	
+		"KREUTZBERGER, Keith"	0	0	0.00		0	0.00		0	
+		"MILLEN, Frank (CLR)"	1	1	100.00		0	0.00		1	
+		"CORBETT, David (IND)"	1	1	100.00		0	0.00		1	
+		"PATERSON, Brett (DEM)"	0	0	0.00		0	0.00		0	
+		"TAYLOR, Sue (IND)"	1	0	0.00		1	100.00		1	
+		"GIBSON, Andrew (IND)"	1	1	100.00		0	0.00		1	
+		Total	9	33	44.00		42	56.00		75	
+
+	The Rock										
+			1st Prefs	131	38.30		211	61.70		342	
+		"SOBEY, Chris (GRN)"	26	15	57.69		11	42.31		26	
+		"WEYRICH, Tom (IND)"	3	1	33.33		2	66.67		3	
+		"WILKINSON, Max (HAN)"	46	28	60.87		18	39.13		46	
+		"WATSON, Stuart (IND)"	8	7	87.50		1	12.50		8	
+		"KREUTZBERGER, Keith"	4	2	50.00		2	50.00		4	
+		"MILLEN, Frank (CLR)"	180	152	84.44		28	15.56		180	
+		"CORBETT, David (IND)"	4	2	50.00		2	50.00		4	
+		"PATERSON, Brett (DEM)"	17	10	58.82		7	41.18		17	
+		"TAYLOR, Sue (IND)"	9	8	88.89		1	11.11		9	
+		"GIBSON, Andrew (IND)"	3	1	33.33		2	66.67		3	
+		Total	300	357	55.61		285	44.39		642	
+
+	Thurgoona										
+			1st Prefs	275	25.63		798	74.37		1073	
+		"SOBEY, Chris (GRN)"	75	40	53.33		35	46.67		75	
+		"WEYRICH, Tom (IND)"	9	3	33.33		6	66.67		9	
+		"WILKINSON, Max (HAN)"	90	34	37.78		56	62.22		90	
+		"WATSON, Stuart (IND)"	28	19	67.86		9	32.14		28	
+		"KREUTZBERGER, Keith"	24	13	54.17		11	45.83		24	
+		"MILLEN, Frank (CLR)"	379	318	83.91		61	16.09		379	
+		"CORBETT, David (IND)"	14	6	42.86		8	57.14		14	
+		"PATERSON, Brett (DEM)"	76	38	50.00		38	50.00		76	
+		"TAYLOR, Sue (IND)"	20	10	50.00		10	50.00		20	
+		"GIBSON, Andrew (IND)"	9	7	77.78		2	22.22		9	
+		Total	724	763	42.46		1034	57.54		1797	
+
+	Tocumwal										
+			1st Prefs	372	47.57		410	52.43		782	
+		"SOBEY, Chris (GRN)"	27	21	77.78		6	22.22		27	
+		"WEYRICH, Tom (IND)"	4	3	75.00		1	25.00		4	
+		"WILKINSON, Max (HAN)"	65	18	27.69		47	72.31		65	
+		"WATSON, Stuart (IND)"	12	7	58.33		5	41.67		12	
+		"KREUTZBERGER, Keith"	12	4	33.33		8	66.67		12	
+		"MILLEN, Frank (CLR)"	266	239	89.85		27	10.15		266	
+		"CORBETT, David (IND)"	0	0	0.00		0	0.00		0	
+		"PATERSON, Brett (DEM)"	15	9	60.00		6	40.00		15	
+		"TAYLOR, Sue (IND)"	18	13	72.22		5	27.78		18	
+		"GIBSON, Andrew (IND)"	3	1	33.33		2	66.67		3	
+		Total	422	687	57.06		517	42.94		1204	
+
+	Tooleybuc										
+			1st Prefs	71	41.04		102	58.96		173	
+		"SOBEY, Chris (GRN)"	3	3	100.00		0	0.00		3	
+		"WEYRICH, Tom (IND)"	2	2	100.00		0	0.00		2	
+		"WILKINSON, Max (HAN)"	28	6	21.43		22	78.57		28	
+		"WATSON, Stuart (IND)"	4	2	50.00		2	50.00		4	
+		"KREUTZBERGER, Keith"	2	0	0.00		2	100.00		2	
+		"MILLEN, Frank (CLR)"	44	39	88.64		5	11.36		44	
+		"CORBETT, David (IND)"	2	2	100.00		0	0.00		2	
+		"PATERSON, Brett (DEM)"	0	0	0.00		0	0.00		0	
+		"TAYLOR, Sue (IND)"	2	1	50.00		1	50.00		2	
+		"GIBSON, Andrew (IND)"	1	1	100.00		0	0.00		1	
+		Total	88	127	48.66		134	51.34		261	
+
+	Tooma										
+			1st Prefs	43	43.00		57	57.00		100	
+		"SOBEY, Chris (GRN)"	4	4	100.00		0	0.00		4	
+		"WEYRICH, Tom (IND)"	0	0	0.00		0	0.00		0	
+		"WILKINSON, Max (HAN)"	2	2	100.00		0	0.00		2	
+		"WATSON, Stuart (IND)"	2	0	0.00		2	100.00		2	
+		"KREUTZBERGER, Keith"	0	0	0.00		0	0.00		0	
+		"MILLEN, Frank (CLR)"	2	2	100.00		0	0.00		2	
+		"CORBETT, David (IND)"	0	0	0.00		0	0.00		0	
+		"PATERSON, Brett (DEM)"	1	0	0.00		1	100.00		1	
+		"TAYLOR, Sue (IND)"	0	0	0.00		0	0.00		0	
+		"GIBSON, Andrew (IND)"	0	0	0.00		0	0.00		0	
+		Total	11	51	45.95		60	54.05		111	
+
+	Tumbarumba										
+			1st Prefs	165	25.58		480	74.42		645	
+		"SOBEY, Chris (GRN)"	49	40	81.63		9	18.37		49	
+		"WEYRICH, Tom (IND)"	3	0	0.00		3	100.00		3	
+		"WILKINSON, Max (HAN)"	102	27	26.47		75	73.53		102	
+		"WATSON, Stuart (IND)"	33	26	78.79		7	21.21		33	
+		"KREUTZBERGER, Keith"	10	8	80.00		2	20.00		10	
+		"MILLEN, Frank (CLR)"	376	320	85.11		56	14.89		376	
+		"CORBETT, David (IND)"	2	2	100.00		0	0.00		2	
+		"PATERSON, Brett (DEM)"	21	14	66.67		7	33.33		21	
+		"TAYLOR, Sue (IND)"	16	7	43.75		9	56.25		16	
+		"GIBSON, Andrew (IND)"	5	3	60.00		2	40.00		5	
+		Total	617	612	48.49		650	51.51		1262	
+
+	Tumut										
+			1st Prefs	298	21.83		1067	78.17		1365	
+		"SOBEY, Chris (GRN)"	87	63	72.41		24	27.59		87	
+		"WEYRICH, Tom (IND)"	11	9	81.82		2	18.18		11	
+		"WILKINSON, Max (HAN)"	128	48	37.50		80	62.50		128	
+		"WATSON, Stuart (IND)"	159	86	54.09		73	45.91		159	
+		"KREUTZBERGER, Keith"	14	5	35.71		9	64.29		14	
+		"MILLEN, Frank (CLR)"	691	571	82.63		120	17.37		691	
+		"CORBETT, David (IND)"	7	3	42.86		4	57.14		7	
+		"PATERSON, Brett (DEM)"	34	20	58.82		14	41.18		34	
+		"TAYLOR, Sue (IND)"	25	10	40.00		15	60.00		25	
+		"GIBSON, Andrew (IND)"	10	4	40.00		6	60.00		10	
+		Total	1166	1117	44.13		1414	55.87		2531	
+
+	Tumut East										
+			1st Prefs	137	23.66		442	76.34		579	
+		"SOBEY, Chris (GRN)"	49	38	77.55		11	22.45		49	
+		"WEYRICH, Tom (IND)"	5	3	60.00		2	40.00		5	
+		"WILKINSON, Max (HAN)"	73	27	36.99		46	63.01		73	
+		"WATSON, Stuart (IND)"	67	38	56.72		29	43.28		67	
+		"KREUTZBERGER, Keith"	9	5	55.56		4	44.44		9	
+		"MILLEN, Frank (CLR)"	400	337	84.25		63	15.75		400	
+		"CORBETT, David (IND)"	1	1	100.00		0	0.00		1	
+		"PATERSON, Brett (DEM)"	20	14	70.00		6	30.00		20	
+		"TAYLOR, Sue (IND)"	9	6	66.67		3	33.33		9	
+		"GIBSON, Andrew (IND)"	5	1	20.00		4	80.00		5	
+		Total	638	607	49.88		610	50.12		1217	
+
+	Urana										
+			1st Prefs	64	43.84		82	56.16		146	
+		"SOBEY, Chris (GRN)"	3	3	100.00		0	0.00		3	
+		"WEYRICH, Tom (IND)"	0	0	0.00		0	0.00		0	
+		"WILKINSON, Max (HAN)"	21	9	42.86		12	57.14		21	
+		"WATSON, Stuart (IND)"	4	4	100.00		0	0.00		4	
+		"KREUTZBERGER, Keith"	1	1	100.00		0	0.00		1	
+		"MILLEN, Frank (CLR)"	95	87	91.58		8	8.42		95	
+		"CORBETT, David (IND)"	0	0	0.00		0	0.00		0	
+		"PATERSON, Brett (DEM)"	0	0	0.00		0	0.00		0	
+		"TAYLOR, Sue (IND)"	3	3	100.00		0	0.00		3	
+		"GIBSON, Andrew (IND)"	0	0	0.00		0	0.00		0	
+		Total	127	171	62.64		102	37.36		273	
+
+	Wakool										
+			1st Prefs	128	49.04		133	50.96		261	
+		"SOBEY, Chris (GRN)"	6	5	83.33		1	16.67		6	
+		"WEYRICH, Tom (IND)"	1	0	0.00		1	100.00		1	
+		"WILKINSON, Max (HAN)"	24	8	33.33		16	66.67		24	
+		"WATSON, Stuart (IND)"	5	3	60.00		2	40.00		5	
+		"KREUTZBERGER, Keith"	1	1	100.00		0	0.00		1	
+		"MILLEN, Frank (CLR)"	30	18	60.00		12	40.00		30	
+		"CORBETT, David (IND)"	1	0	0.00		1	100.00		1	
+		"PATERSON, Brett (DEM)"	4	3	75.00		1	25.00		4	
+		"TAYLOR, Sue (IND)"	10	6	60.00		4	40.00		10	
+		"GIBSON, Andrew (IND)"	4	2	50.00		2	50.00		4	
+		Total	86	174	50.14		173	49.86		347	
+
+	Walbundrie										
+			1st Prefs	55	38.19		89	61.81		144	
+		"SOBEY, Chris (GRN)"	2	1	50.00		1	50.00		2	
+		"WEYRICH, Tom (IND)"	0	0	0.00		0	0.00		0	
+		"WILKINSON, Max (HAN)"	9	6	66.67		3	33.33		9	
+		"WATSON, Stuart (IND)"	2	1	50.00		1	50.00		2	
+		"KREUTZBERGER, Keith"	5	3	60.00		2	40.00		5	
+		"MILLEN, Frank (CLR)"	7	7	100.00		0	0.00		7	
+		"CORBETT, David (IND)"	1	1	100.00		0	0.00		1	
+		"PATERSON, Brett (DEM)"	0	0	0.00		0	0.00		0	
+		"TAYLOR, Sue (IND)"	1	0	0.00		1	100.00		1	
+		"GIBSON, Andrew (IND)"	0	0	0.00		0	0.00		0	
+		Total	27	74	43.27		97	56.73		171	
+
+	Walla Walla										
+			1st Prefs	142	40.57		208	59.43		350	
+		"SOBEY, Chris (GRN)"	9	6	66.67		3	33.33		9	
+		"WEYRICH, Tom (IND)"	0	0	0.00		0	0.00		0	
+		"WILKINSON, Max (HAN)"	19	9	47.37		10	52.63		19	
+		"WATSON, Stuart (IND)"	8	0	0.00		8	100.00		8	
+		"KREUTZBERGER, Keith"	8	5	62.50		3	37.50		8	
+		"MILLEN, Frank (CLR)"	62	53	85.48		9	14.52		62	
+		"CORBETT, David (IND)"	1	1	100.00		0	0.00		1	
+		"PATERSON, Brett (DEM)"	11	5	45.45		6	54.55		11	
+		"TAYLOR, Sue (IND)"	9	5	55.56		4	44.44		9	
+		"GIBSON, Andrew (IND)"	1	0	0.00		1	100.00		1	
+		Total	128	226	47.28		252	52.72		478	
+
+	Wanganella										
+			1st Prefs	15	42.86		20	57.14		35	
+		"SOBEY, Chris (GRN)"	0	0	0.00		0	0.00		0	
+		"WEYRICH, Tom (IND)"	0	0	0.00		0	0.00		0	
+		"WILKINSON, Max (HAN)"	2	0	0.00		2	100.00		2	
+		"WATSON, Stuart (IND)"	2	2	100.00		0	0.00		2	
+		"KREUTZBERGER, Keith"	1	0	0.00		1	100.00		1	
+		"MILLEN, Frank (CLR)"	1	1	100.00		0	0.00		1	
+		"CORBETT, David (IND)"	0	0	0.00		0	0.00		0	
+		"PATERSON, Brett (DEM)"	0	0	0.00		0	0.00		0	
+		"TAYLOR, Sue (IND)"	4	2	50.00		2	50.00		4	
+		"GIBSON, Andrew (IND)"	0	0	0.00		0	0.00		0	
+		Total	10	20	44.44		25	55.56		45	
+
+	Wentworth										
+			1st Prefs	282	52.13		259	47.87		541	
+		"SOBEY, Chris (GRN)"	31	25	80.65		6	19.35		31	
+		"WEYRICH, Tom (IND)"	5	2	40.00		3	60.00		5	
+		"WILKINSON, Max (HAN)"	185	53	28.65		132	71.35		185	
+		"WATSON, Stuart (IND)"	4	3	75.00		1	25.00		4	
+		"KREUTZBERGER, Keith"	9	2	22.22		7	77.78		9	
+		"MILLEN, Frank (CLR)"	188	157	83.51		31	16.49		188	
+		"CORBETT, David (IND)"	4	2	50.00		2	50.00		4	
+		"PATERSON, Brett (DEM)"	12	5	41.67		7	58.33		12	
+		"TAYLOR, Sue (IND)"	6	3	50.00		3	50.00		6	
+		"GIBSON, Andrew (IND)"	6	5	83.33		1	16.67		6	
+		Total	450	539	54.39		452	45.61		991	
+
+	Woomargama										
+			1st Prefs	28	37.84		46	62.16		74	
+		"SOBEY, Chris (GRN)"	5	2	40.00		3	60.00		5	
+		"WEYRICH, Tom (IND)"	0	0	0.00		0	0.00		0	
+		"WILKINSON, Max (HAN)"	11	7	63.64		4	36.36		11	
+		"WATSON, Stuart (IND)"	1	1	100.00		0	0.00		1	
+		"KREUTZBERGER, Keith"	0	0	0.00		0	0.00		0	
+		"MILLEN, Frank (CLR)"	11	8	72.73		3	27.27		11	
+		"CORBETT, David (IND)"	2	0	0.00		2	100.00		2	
+		"PATERSON, Brett (DEM)"	3	2	66.67		1	33.33		3	
+		"TAYLOR, Sue (IND)"	0	0	0.00		0	0.00		0	
+		"GIBSON, Andrew (IND)"	0	0	0.00		0	0.00		0	
+		Total	33	48	44.86		59	55.14		107	
+
+	Yerong Creek										
+			1st Prefs	54	47.79		59	52.21		113	
+		"SOBEY, Chris (GRN)"	4	4	100.00		0	0.00		4	
+		"WEYRICH, Tom (IND)"	0	0	0.00		0	0.00		0	
+		"WILKINSON, Max (HAN)"	18	8	44.44		10	55.56		18	
+		"WATSON, Stuart (IND)"	2	1	50.00		1	50.00		2	
+		"KREUTZBERGER, Keith"	0	0	0.00		0	0.00		0	
+		"MILLEN, Frank (CLR)"	34	32	94.12		2	5.88		34	
+		"CORBETT, David (IND)"	0	0	0.00		0	0.00		0	
+		"PATERSON, Brett (DEM)"	2	2	100.00		0	0.00		2	
+		"TAYLOR, Sue (IND)"	1	1	100.00		0	0.00		1	
+		"GIBSON, Andrew (IND)"	0	0	0.00		0	0.00		0	
+		Total	61	102	58.62		72	41.38		174	
+
+	Special Hospitals										
+			1st Prefs	71	36.41		124	63.59		195	
+		"SOBEY, Chris (GRN)"	3	3	100.00		0	0.00		3	
+		"WEYRICH, Tom (IND)"	4	3	75.00		1	25.00		4	
+		"WILKINSON, Max (HAN)"	4	2	50.00		2	50.00		4	
+		"WATSON, Stuart (IND)"	1	1	100.00		0	0.00		1	
+		"KREUTZBERGER, Keith"	1	1	100.00		0	0.00		1	
+		"MILLEN, Frank (CLR)"	80	65	81.25		15	18.75		80	
+		"CORBETT, David (IND)"	0	0	0.00		0	0.00		0	
+		"PATERSON, Brett (DEM)"	3	2	66.67		1	33.33		3	
+		"TAYLOR, Sue (IND)"	3	1	33.33		2	66.67		3	
+		"GIBSON, Andrew (IND)"	0	0	0.00		0	0.00		0	
+		Total	99	149	50.68		145	49.32		294	
+
+	Total Ordinary										
+			1st Prefs	14971	37.66		24779	62.34		39750	
+		"SOBEY, Chris (GRN)"	2143	1337	62.39		806	37.61		2143	
+		"WEYRICH, Tom (IND)"	421	291	69.12		130	30.88		421	
+		"WILKINSON, Max (HAN)"	4134	1671	40.42		2463	59.58		4134	
+		"WATSON, Stuart (IND)"	930	533	57.31		397	42.69		930	
+		"KREUTZBERGER, Keith"	612	340	55.56		272	44.44		612	
+		"MILLEN, Frank (CLR)"	13789	11515	83.51		2274	16.49		13789	
+		"CORBETT, David (IND)"	300	177	59.00		123	41.00		300	
+		"PATERSON, Brett (DEM)"	1578	799	50.63		779	49.37		1578	
+		"TAYLOR, Sue (IND)"	1076	534	49.63		542	50.37		1076	
+		"GIBSON, Andrew (IND)"	340	170	50.00		170	50.00		340	
+		Total	25323	32338	49.69		32735	50.31		65073	
+
+	ABSENT										
+			1st Prefs	466	40.84		675	59.16		1141	
+		"SOBEY, Chris (GRN)"	135	90	66.67		45	33.33		135	
+		"WEYRICH, Tom (IND)"	13	8	61.54		5	38.46		13	
+		"WILKINSON, Max (HAN)"	115	67	58.26		48	41.74		115	
+		"WATSON, Stuart (IND)"	39	24	61.54		15	38.46		39	
+		"KREUTZBERGER, Keith"	11	10	90.91		1	9.09		11	
+		"MILLEN, Frank (CLR)"	378	266	70.37		112	29.63		378	
+		"CORBETT, David (IND)"	9	4	44.44		5	55.56		9	
+		"PATERSON, Brett (DEM)"	99	52	52.53		47	47.47		99	
+		"TAYLOR, Sue (IND)"	43	23	53.49		20	46.51		43	
+		"GIBSON, Andrew (IND)"	24	11	45.83		13	54.17		24	
+		Total	866	1021	50.87		986	49.13		2007	
+
+	POSTAL										
+			1st Prefs	1197	50.38		1179	49.62		2376	
+		"SOBEY, Chris (GRN)"	69	44	63.77		25	36.23		69	
+		"WEYRICH, Tom (IND)"	19	12	63.16		7	36.84		19	
+		"WILKINSON, Max (HAN)"	258	126	48.84		132	51.16		258	
+		"WATSON, Stuart (IND)"	51	31	60.78		20	39.22		51	
+		"KREUTZBERGER, Keith"	25	12	48.00		13	52.00		25	
+		"MILLEN, Frank (CLR)"	696	497	71.41		199	28.59		696	
+		"CORBETT, David (IND)"	17	9	52.94		8	47.06		17	
+		"PATERSON, Brett (DEM)"	76	32	42.11		44	57.89		76	
+		"TAYLOR, Sue (IND)"	53	29	54.72		24	45.28		53	
+		"GIBSON, Andrew (IND)"	14	8	57.14		6	42.86		14	
+		Total	1278	1997	54.65		1657	45.35		3654	
+
+	PRE_POLL										
+			1st Prefs	924	35.51		1678	64.49		2602	
+		"SOBEY, Chris (GRN)"	215	142	66.05		73	33.95		215	
+		"WEYRICH, Tom (IND)"	26	16	61.54		10	38.46		26	
+		"WILKINSON, Max (HAN)"	254	122	48.03		132	51.97		254	
+		"WATSON, Stuart (IND)"	42	21	50.00		21	50.00		42	
+		"KREUTZBERGER, Keith"	36	18	50.00		18	50.00		36	
+		"MILLEN, Frank (CLR)"	843	644	76.39		199	23.61		843	
+		"CORBETT, David (IND)"	25	15	60.00		10	40.00		25	
+		"PATERSON, Brett (DEM)"	188	106	56.38		82	43.62		188	
+		"TAYLOR, Sue (IND)"	64	26	40.63		38	59.38		64	
+		"GIBSON, Andrew (IND)"	34	18	52.94		16	47.06		34	
+		Total	1727	2052	47.40		2277	52.60		4329	
+
+	PROVISIONAL										
+			1st Prefs	83	37.56		138	62.44		221	
+		"SOBEY, Chris (GRN)"	21	16	76.19		5	23.81		21	
+		"WEYRICH, Tom (IND)"	6	4	66.67		2	33.33		6	
+		"WILKINSON, Max (HAN)"	34	13	38.24		21	61.76		34	
+		"WATSON, Stuart (IND)"	6	4	66.67		2	33.33		6	
+		"KREUTZBERGER, Keith"	12	7	58.33		5	41.67		12	
+		"MILLEN, Frank (CLR)"	124	98	79.03		26	20.97		124	
+		"CORBETT, David (IND)"	5	5	100.00		0	0.00		5	
+		"PATERSON, Brett (DEM)"	18	12	66.67		6	33.33		18	
+		"TAYLOR, Sue (IND)"	18	10	55.56		8	44.44		18	
+		"GIBSON, Andrew (IND)"	4	3	75.00		1	25.00		4	
+		Total	248	255	54.37		214	45.63		469	
+
+	Division Summary										
+			1st Prefs	17641	38.28		28449	61.72		46090	
+		"SOBEY, Chris (GRN)"	2583	1629	63.07		954	36.93		2583	
+		"WEYRICH, Tom (IND)"	485	331	68.25		154	31.75		485	
+		"WILKINSON, Max (HAN)"	4795	1999	41.69		2796	58.31		4795	
+		"WATSON, Stuart (IND)"	1068	613	57.40		455	42.60		1068	
+		"KREUTZBERGER, Keith"	696	387	55.60		309	44.40		696	
+		"MILLEN, Frank (CLR)"	15830	13020	82.25		2810	17.75		15830	
+		"CORBETT, David (IND)"	356	210	58.99		146	41.01		356	
+		"PATERSON, Brett (DEM)"	1959	1001	51.10		958	48.90		1959	
+		"TAYLOR, Sue (IND)"	1254	622	49.60		632	50.40		1254	
+		"GIBSON, Andrew (IND)"	416	210	50.48		206	49.52		416	
+		Total	29442	37663	49.86		37869	50.14		75532	

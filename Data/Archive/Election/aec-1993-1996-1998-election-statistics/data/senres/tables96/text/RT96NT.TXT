@@ -1,0 +1,35 @@
+Senate - 1996 Election: Northern Territory			
+Registered Group Voting Tickets			
+
+
+Country Liberal - The Territory Party			
+Ticket	Party/Group Name	Candidate Name	Preferences
+A	Country Liberal - The Territory Party	"TAMBLING, Grant"	1
+		"COOK, Kym"	2
+B	The Greens	"FRIEL, Margie"	3
+		"ELDRIDGE, Ilana"	4
+C	A.L.P.	"COLLINS, Bob"	5
+		"BRADLEY, Susan"	6
+UG	Democrats	"CARR, Geoff"	7
+
+
+The Greens			
+Ticket	Party/Group Name	Candidate Name	Preferences
+A	Country Liberal - The Territory Party	"TAMBLING, Grant"	6
+		"COOK, Kym"	7
+B	The Greens	"FRIEL, Margie"	1
+		"ELDRIDGE, Ilana"	2
+C	A.L.P.	"COLLINS, Bob"	4
+		"BRADLEY, Susan"	5
+UG	Democrats	"CARR, Geoff"	3
+
+
+A.L.P.			
+Ticket	Party/Group Name	Candidate Name	Preferences
+A	Country Liberal - The Territory Party	"TAMBLING, Grant"	6
+		"COOK, Kym"	7
+B	The Greens	"FRIEL, Margie"	3
+		"ELDRIDGE, Ilana"	4
+C		"COLLINS, Bob"	1
+		"BRADLEY, Susan"	2
+UG	Democrats	"CARR, Geoff"	5

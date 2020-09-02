@@ -1,0 +1,302 @@
+Senate -1996 Election: Western Australia				
+Use of Group Voting Tickets				
+
+
+Australian Women's Party				
+			Preferences	
+Ticket	Party/Group Name	Candidate Name	Ticket # 1	Ticket # 2
+A	Australian Women's Party	"TURNBULL, Mattie"	1	1
+		"MUDFORD, Kate"	2	2
+B	Liberal	"CRANE, Winston"	14	10
+		"PANIZZA, John H"	15	11
+		"EGGLESTON, Alan"	16	12
+		"HUSTON, Michael"	17	13
+		"SIRNA, Enzo"	18	14
+		"THOMPSON, Clare Helen"	19	15
+C	"Unendorsed - Drake, Tony"	"DRAKE, Tony"	8	8
+		"ROBINSON, Jean H"	9	9
+D	Call to Australia (Fred Nile) Group	"JACKSON, Don"	28	28
+		"LAURIE, Marj"	29	29
+E	National Party	"McANUFF, Kevin"	20	20
+		"ANDERSON, Lynley"	21	21
+F	Australians Against Further Immigration	"HAYE, Richard T"	26	26
+		"HAMMOND, Robert K"	27	27
+G	Australian Labor Party	"McKIERNAN, Jim"	10	16
+		"BISHOP, Mark"	11	17
+		"BEAHAN, Michael"	12	18
+		"CRAWFORD, Catherine"	13	19
+H	The Greens (WA)	"CHAMARETTE, Christabel"	3	6
+		"CHAPPLE, Robin"	4	7
+I	Australian Democrats	"MURRAY, Andrew J M"	5	3
+		"MILLAR, Don"	6	4
+		"de la HUNTY, Shirley"	7	5
+UG	Independent	"BRADSHAW, Craig"	25	25
+UG	Independent	"MACKINTOSH, Craig Alan"	24	24
+UG	Independent	"COOPER, Vin"	23	23
+UG	Natural Law Party	"WHITE, Ros"	22	22
+
+
+Liberal				
+Ticket	Party/Group Name	Candidate Name	Preferences	
+A	Australian Women's Party	"TURNBULL, Mattie"	16	
+		"MUDFORD, Kate"	17	
+B	Liberal	"CRANE, Winston"	1	
+		"PANIZZA, John H"	2	
+		"EGGLESTON, Alan"	3	
+		"HUSTON, Michael"	4	
+		"SIRNA, Enzo"	5	
+		"THOMPSON, Clare Helen"	6	
+C	"Unendorsed - Drake, Tony"	"DRAKE, Tony"	18
+		"ROBINSON, Jean H"	19
+D	Call to Australia (Fred Nile) Group	"JACKSON, Don"	9
+		"LAURIE, Marj"	10
+E	National Party	"McANUFF, Kevin"	7
+		"ANDERSON, Lynley"	8
+F	Australians Against Further Immigration	"HAYE, Richard T"	20
+		"HAMMOND, Robert K"	21
+G	Australian Labor Party	"McKIERNAN, Jim"	26
+		"BISHOP, Mark"	27
+		"BEAHAN, Michael"	28
+		"CRAWFORD, Catherine"	29
+H	The Greens (WA)	"CHAMARETTE, Christabel"	14
+		"CHAPPLE, Robin"	15
+I	Australian Democrats	"MURRAY, Andrew J M"	11
+		"MILLAR, Don"	12
+		"de la HUNTY, Shirley"	13
+UG	Independent	"BRADSHAW, Craig"	22
+UG	Independent	"MACKINTOSH, Craig Alan"	23
+UG	Independent	"COOPER, Vin"	24
+UG	Natural Law Party	"WHITE, Ros"	25
+
+
+"Unendorsed - Drake, Tony"			
+Ticket	Party/Group Name	Candidate Name	Preferences
+A	Australian Women's Party	"TURNBULL, Mattie"	8
+		"MUDFORD, Kate"	9
+B	Liberal	"CRANE, Winston"	18
+		"PANIZZA, John H"	19
+		"EGGLESTON, Alan"	20
+		"HUSTON, Michael"	21
+		"SIRNA, Enzo"	22
+		"THOMPSON, Clare Helen"	23
+C	"Unendorsed - Drake, Tony"	"DRAKE, Tony"	1
+		"ROBINSON, Jean H"	2
+D	Call to Australia (Fred Nile) Group	"JACKSON, Don"	14
+		"LAURIE, Marj"	15
+E	National Party	"McANUFF, Kevin"	16
+		"ANDERSON, Lynley"	17
+F	Australians Against Further Immigration	"HAYE, Richard T"	6
+		"HAMMOND, Robert K"	7
+G	Australian Labor Party	"McKIERNAN, Jim"	24
+		"BISHOP, Mark"	25
+		"BEAHAN, Michael"	26
+		"CRAWFORD, Catherine"	27
+H	The Greens (WA)	"CHAMARETTE, Christabel"	28
+		"CHAPPLE, Robin"	29
+I	Australian Democrats	"MURRAY, Andrew J M"	3
+		"MILLAR, Don"	4
+		"de la HUNTY, Shirley"	5
+UG	Independent	"BRADSHAW, Craig"	10
+UG	Independent	"MACKINTOSH, Craig Alan"	11
+UG	Independent	"COOPER, Vin"	12
+UG	Natural Law Party	"WHITE, Ros"	13
+
+
+Call to Australia (Fred Nile) Group			
+Ticket	Party/Group Name	Candidate Name	Preferences
+A	Australian Women's Party	"TURNBULL, Mattie"	24
+		"MUDFORD, Kate"	25
+B	Liberal	"CRANE, Winston"	5
+		"PANIZZA, John H"	6
+		"EGGLESTON, Alan"	7
+		"HUSTON, Michael"	8
+		"SIRNA, Enzo"	9
+		"THOMPSON, Clare Helen"	10
+C	"Unendorsed - Drake, Tony"	"DRAKE, Tony"	11
+		"ROBINSON, Jean H"	12
+D	Call to Australia (Fred Nile) Group	"JACKSON, Don"	1
+		"LAURIE, Marj"	2
+E	National Party	"McANUFF, Kevin"	3
+		"ANDERSON, Lynley"	4
+F	Australians Against Further Immigration	"HAYE, Richard T"	13
+		"HAMMOND, Robert K"	14
+G	Australian Labor Party	"McKIERNAN, Jim"	15
+		"BISHOP, Mark"	16
+		"BEAHAN, Michael"	17
+		"CRAWFORD, Catherine"	18
+H	The Greens (WA)	"CHAMARETTE, Christabel"	22
+		"CHAPPLE, Robin"	23
+I	Australian Democrats	"MURRAY, Andrew J M"	19
+		"MILLAR, Don"	20
+		"de la HUNTY, Shirley"	21
+UG	Independent	"BRADSHAW, Craig"	26
+UG	Independent	"MACKINTOSH, Craig Alan"	27
+UG	Independent	"COOPER, Vin"	28
+UG	Natural Law Party	"WHITE, Ros"	29
+
+
+National Party			
+Ticket	Party/Group Name	Candidate Name	Preferences
+A	Australian Women's Party	"TURNBULL, Mattie"	14
+		"MUDFORD, Kate"	15
+B	Liberal	"CRANE, Winston"	3
+		"PANIZZA, John H"	4
+		"EGGLESTON, Alan"	5
+		"HUSTON, Michael"	6
+		"SIRNA, Enzo"	7
+		"THOMPSON, Clare Helen"	8
+C	"Unendorsed - Drake, Tony"	"DRAKE, Tony"	22
+		"ROBINSON, Jean H"	23
+D	Call to Australia (Fred Nile) Group	"JACKSON, Don"	9
+		"LAURIE, Marj"	10
+E	National Party	"McANUFF, Kevin"	1
+		"ANDERSON, Lynley"	2
+F	Australians Against Further Immigration	"HAYE, Richard T"	20
+		"HAMMOND, Robert K"	21
+G	Australian Labor Party	"McKIERNAN, Jim"	26
+		"BISHOP, Mark"	27
+		"BEAHAN, Michael"	28
+		"CRAWFORD, Catherine"	29
+H	The Greens (WA)	"CHAMARETTE, Christabel"	24
+		"CHAPPLE, Robin"	25
+I	Australian Democrats	"MURRAY, Andrew J M"	11
+		"MILLAR, Don"	12
+		"de la HUNTY, Shirley"	13
+UG	Independent	"BRADSHAW, Craig"	16
+UG	Independent	"MACKINTOSH, Craig Alan"	17
+UG	Independent	"COOPER, Vin"	18
+UG	Natural Law Party	"WHITE, Ros"	19
+
+
+Australians Against Further Immigration			
+Ticket	Party/Group Name	Candidate Name	Preferences
+A	Australian Women's Party	"TURNBULL, Mattie"	23
+		"MUDFORD, Kate"	24
+B	Liberal	"CRANE, Winston"	9
+		"PANIZZA, John H"	10
+		"EGGLESTON, Alan"	11
+		"HUSTON, Michael"	18
+		"SIRNA, Enzo"	19
+		"THOMPSON, Clare Helen"	20
+C	"Unendorsed - Drake, Tony"	"DRAKE, Tony"	12
+		"ROBINSON, Jean H"	13
+D	Call to Australia (Fred Nile) Group	"JACKSON, Don"	25
+		"LAURIE, Marj"	26
+E	National Party	"McANUFF, Kevin"	7
+		"ANDERSON, Lynley"	8
+F	Australians Against Further Immigration	"HAYE, Richard T"	1
+		"HAMMOND, Robert K"	2
+G	Australian Labor Party	"McKIERNAN, Jim"	27
+		"BISHOP, Mark"	28
+		"BEAHAN, Michael"	6
+		"CRAWFORD, Catherine"	29
+H	The Greens (WA)	"CHAMARETTE, Christabel"	21
+		"CHAPPLE, Robin"	22
+I	Australian Democrats	"MURRAY, Andrew J M"	3
+		"MILLAR, Don"	4
+		"de la HUNTY, Shirley"	5
+UG	Independent	"BRADSHAW, Craig"	14
+UG	Independent	"MACKINTOSH, Craig Alan"	15
+UG	Independent	"COOPER, Vin"	16
+UG	Natural Law Party	"WHITE, Ros"	17
+
+
+Australian Labor Party			
+Ticket	Party/Group Name	Candidate Name	Preferences
+A	Australian Women's Party	"TURNBULL, Mattie"	10
+		"MUDFORD, Kate"	11
+B	Liberal	"CRANE, Winston"	20
+		"PANIZZA, John H"	21
+		"EGGLESTON, Alan"	22
+		"HUSTON, Michael"	23
+		"SIRNA, Enzo"	24
+		"THOMPSON, Clare Helen"	25
+C	"Unendorsed - Drake, Tony"	"DRAKE, Tony"	12
+		"ROBINSON, Jean H"	13
+D	Call to Australia (Fred Nile) Group	"JACKSON, Don"	26
+		"LAURIE, Marj"	27
+E	National Party	"McANUFF, Kevin"	18
+		"ANDERSON, Lynley"	19
+F	Australians Against Further Immigration	"HAYE, Richard T"	28
+		"HAMMOND, Robert K"	29
+G	Australian Labor Party	"McKIERNAN, Jim"	1
+		"BISHOP, Mark"	2
+		"BEAHAN, Michael"	3
+		"CRAWFORD, Catherine"	4	
+H	The Greens (WA)	"CHAMARETTE, Christabel"	5	
+		"CHAPPLE, Robin"	6	
+I	Australian Democrats	"MURRAY, Andrew J M"	7	
+		"MILLAR, Don"	8	
+		"de la HUNTY, Shirley"	9	
+UG	Independent	"BRADSHAW, Craig"	14	
+UG	Independent	"MACKINTOSH, Craig Alan"	15	
+UG	Independent	"COOPER, Vin"	16	
+UG	Natural Law Party	"WHITE, Ros"	17	
+
+
+The Greens (WA)				
+			Preferences	
+Ticket	Party/Group Name	Candidate Name	Ticket # 1	Ticket # 2
+A	Australian Women's Party	"TURNBULL, Mattie"	3	6
+		"MUDFORD, Kate"	4	7
+B	Liberal	"CRANE, Winston"	18	18
+		"PANIZZA, John H"	21	21
+		"EGGLESTON, Alan"	14	14
+		"HUSTON, Michael"	22	22
+		"SIRNA, Enzo"	17	17
+		"THOMPSON, Clare Helen"	15	15
+C	"Unendorsed - Drake, Tony"	"DRAKE, Tony"	26	26
+		"ROBINSON, Jean H"	27	27
+D	Call to Australia (Fred Nile) Group	"JACKSON, Don"	28	28
+		"LAURIE, Marj"	29	29
+E	National Party	"McANUFF, Kevin"	20	20
+		"ANDERSON, Lynley"	16	16
+F	Australians Against Further Immigration	"HAYE, Richard T"	24	24
+		"HAMMOND, Robert K"	25	25
+G	Australian Labor Party	"McKIERNAN, Jim"	23	23
+		"BISHOP, Mark"	19	19
+		"BEAHAN, Michael"	13	13
+		"CRAWFORD, Catherine"	12	12
+H	The Greens (WA)	"CHAMARETTE, Christabel"	1	1
+		"CHAPPLE, Robin"	2	2
+I	Australian Democrats	"MURRAY, Andrew J M"	5	3
+		"MILLAR, Don"	6	4
+		"de la HUNTY, Shirley"	7	5
+UG	Independent	"BRADSHAW, Craig"	8	8
+UG	Independent	"MACKINTOSH, Craig Alan"	9	9
+UG	Independent	"COOPER, Vin"	10	10
+UG	Natural Law Party	"WHITE, Ros"	11	11
+
+
+Australian Democrats				
+			Preferences	
+Ticket	Party/Group Name	Candidate Name	Ticket # 1	Ticket # 2
+A	Australian Women's Party	"TURNBULL, Mattie"	6	4
+		"MUDFORD, Kate"	7	5
+B	Liberal	"CRANE, Winston"	15	11
+		"PANIZZA, John H"	16	12
+		"EGGLESTON, Alan"	17	13
+		"HUSTON, Michael"	18	14
+		"SIRNA, Enzo"	19	15
+		"THOMPSON, Clare Helen"	20	16
+C	"Unendorsed - Drake, Tony"	"DRAKE, Tony"	26	26
+		"ROBINSON, Jean H"	27	27
+D	Call to Australia (Fred Nile) Group	"JACKSON, Don"	28	28
+		"LAURIE, Marj"	29	29
+E	National Party	"McANUFF, Kevin"	13	9
+		"ANDERSON, Lynley"	14	10
+F	Australians Against Further Immigration	"HAYE, Richard T"	21	21
+		"HAMMOND, Robert K"	22	22
+G	Australian Labor Party	"McKIERNAN, Jim"	10	18
+		"BISHOP, Mark"	12	20
+		"BEAHAN, Michael"	9	17
+		"CRAWFORD, Catherine"	11	19
+H	The Greens (WA)	"CHAMARETTE, Christabel"	4	6
+		"CHAPPLE, Robin"	5	7
+I	Australian Democrats	"MURRAY, Andrew J M"	1	1
+		"MILLAR, Don"	2	2
+		"de la HUNTY, Shirley"	3	3
+UG	Independent	"BRADSHAW, Craig"	25	25
+UG	Independent	"MACKINTOSH, Craig Alan"	24	24
+UG	Independent	"COOPER, Vin"	23	23
+UG	Natural Law Party	"WHITE, Ros"	8	8

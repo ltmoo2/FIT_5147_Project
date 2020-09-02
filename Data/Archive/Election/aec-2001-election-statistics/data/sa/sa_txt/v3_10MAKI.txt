@@ -1,0 +1,280 @@
+House of Representatives - 2001 Election: South Australia												
+Two Candidate Preferred Preference Flow Result												
+By Polling Place by Division												
+												
+Makin (88248)												
+		Candidate		                  	"DRAPER, Trish"		              	"WOODMAN, Julie"		             	Total	
+				                           	LP		                         	ALP		                        		
+				                           	Votes	%	                     	Votes	%	                     		
+	Adelaide (Makin)											
+			1st Prefs		65	63.73		37	36.27		102	
+		"KOWALD, Rod (HAN)"	5		4	80.00		1	20.00		5	
+		"POSTA, Christine (DEM)"	25		9	36.00		16	64.00		25	
+		"REEVES, Allon (GRN)"	5		2	40.00		3	60.00		5	
+		Total	35		80	58.39		57	41.61		137	
+
+	Banksia Park											
+			1st Prefs		1124	62.10		686	37.90		1810
+		"KOWALD, Rod (HAN)"	103		58	56.31		45	43.69		103
+		"POSTA, Christine (DEM)"	237		94	39.66		143	60.34		237
+		"REEVES, Allon (GRN)"	60		25	41.67		35	58.33		60
+		Total	400		1301	58.87		909	41.13		2210
+
+	Enfield North (Makin)										
+			1st Prefs		219	45.25		265	54.75		484
+		"KOWALD, Rod (HAN)"	40		20	50.00		20	50.00		40
+		"POSTA, Christine (DEM)"	45		16	35.56		29	64.44		45
+		"REEVES, Allon (GRN)"	14		3	21.43		11	78.57		14
+		Total	99		258	44.25		325	55.75		583
+
+	Fairview Park										
+			1st Prefs		1012	68.98		455	31.02		1467
+		"KOWALD, Rod (HAN)"	68		49	72.06		19	27.94		68
+		"POSTA, Christine (DEM)"	202		85	42.08		117	57.92		202
+		"REEVES, Allon (GRN)"	37		9	24.32		28	75.68		37
+		Total	307		1155	65.11		619	34.89		1774
+
+	Golden Grove										
+			1st Prefs		257	69.65		112	30.35		369
+		"KOWALD, Rod (HAN)"	34		20	58.82		14	41.18		34
+		"POSTA, Christine (DEM)"	34		13	38.24		21	61.76		34
+		"REEVES, Allon (GRN)"	4		1	25.00		3	75.00		4
+		Total	72		291	65.99		150	34.01		441
+
+	Golden Grove Central										
+			1st Prefs		1190	58.28		852	41.72		2042
+		"KOWALD, Rod (HAN)"	70		48	68.57		22	31.43		70
+		"POSTA, Christine (DEM)"	242		110	45.45		132	54.55		242
+		"REEVES, Allon (GRN)"	32		16	50.00		16	50.00		32
+		Total	344		1364	57.17		1022	42.83		2386
+
+	Golden Grove East										
+			1st Prefs		1002	61.43		629	38.57		1631
+		"KOWALD, Rod (HAN)"	60		43	71.67		17	28.33		60
+		"POSTA, Christine (DEM)"	172		75	43.60		97	56.40		172
+		"REEVES, Allon (GRN)"	37		17	45.95		20	54.05		37
+		Total	269		1137	59.84		763	40.16		1900
+
+	Greenwith										
+			1st Prefs		2160	60.71		1398	39.29		3558
+		"KOWALD, Rod (HAN)"	128		72	56.25		56	43.75		128
+		"POSTA, Christine (DEM)"	427		190	44.50		237	55.50		427
+		"REEVES, Allon (GRN)"	65		27	41.54		38	58.46		65
+		Total	620		2449	58.62		1729	41.38		4178
+
+	Holden Hill North										
+			1st Prefs		637	54.12		540	45.88		1177
+		"KOWALD, Rod (HAN)"	47		28	59.57		19	40.43		47
+		"POSTA, Christine (DEM)"	129		50	38.76		79	61.24		129
+		"REEVES, Allon (GRN)"	31		15	48.39		16	51.61		31
+		Total	207		730	52.75		654	47.25		1384
+
+	Hope Valley										
+			1st Prefs		555	55.44		446	44.56		1001
+		"KOWALD, Rod (HAN)"	50		25	50.00		25	50.00		50
+		"POSTA, Christine (DEM)"	135		60	44.44		75	55.56		135
+		"REEVES, Allon (GRN)"	31		16	51.61		15	48.39		31
+		Total	216		656	53.90		561	46.10		1217
+
+	Ingle Farm										
+			1st Prefs		1380	44.09		1750	55.91		3130
+		"KOWALD, Rod (HAN)"	223		96	43.05		127	56.95		223
+		"POSTA, Christine (DEM)"	385		172	44.68		213	55.32		385
+		"REEVES, Allon (GRN)"	99		31	31.31		68	68.69		99
+		Total	707		1679	43.76		2158	56.24		3837
+
+	Ingle Farm North										
+			1st Prefs		298	37.02		507	62.98		805
+		"KOWALD, Rod (HAN)"	53		32	60.38		21	39.62		53
+		"POSTA, Christine (DEM)"	119		42	35.29		77	64.71		119
+		"REEVES, Allon (GRN)"	22		8	36.36		14	63.64		22
+		Total	194		380	38.04		619	61.96		999
+
+	Modbury Central										
+			1st Prefs		946	55.45		760	44.55		1706
+		"KOWALD, Rod (HAN)"	102		58	56.86		44	43.14		102
+		"POSTA, Christine (DEM)"	226		86	38.05		140	61.95		226
+		"REEVES, Allon (GRN)"	60		26	43.33		34	56.67		60
+		Total	388		1116	53.30		978	46.70		2094
+
+	Modbury Heights										
+			1st Prefs		1509	56.64		1155	43.36		2664
+		"KOWALD, Rod (HAN)"	134		68	50.75		66	49.25		134
+		"POSTA, Christine (DEM)"	391		170	43.48		221	56.52		391
+		"REEVES, Allon (GRN)"	74		27	36.49		47	63.51		74
+		Total	599		1774	54.37		1489	45.63		3263
+
+	Modbury North										
+			1st Prefs		1206	55.40		971	44.60		2177
+		"KOWALD, Rod (HAN)"	122		64	52.46		58	47.54		122
+		"POSTA, Christine (DEM)"	244		99	40.57		145	59.43		244
+		"REEVES, Allon (GRN)"	73		25	34.25		48	65.75		73
+		Total	439		1394	53.29		1222	46.71		2616
+
+	Modbury West										
+			1st Prefs		1338	55.24		1084	44.76		2422
+		"KOWALD, Rod (HAN)"	128		79	61.72		49	38.28		128
+		"POSTA, Christine (DEM)"	314		129	41.08		185	58.92		314
+		"REEVES, Allon (GRN)"	59		26	44.07		33	55.93		59
+		Total	501		1572	53.78		1351	46.22		2923
+
+	Para Hills										
+			1st Prefs		1456	49.95		1459	50.05		2915
+		"KOWALD, Rod (HAN)"	189		94	49.74		95	50.26		189
+		"POSTA, Christine (DEM)"	358		132	36.87		226	63.13		358
+		"REEVES, Allon (GRN)"	96		28	29.17		68	70.83		96
+		Total	643		1710	48.06		1848	51.94		3558
+
+	Para Hills East										
+			1st Prefs		609	49.15		630	50.85		1239
+		"KOWALD, Rod (HAN)"	78		40	51.28		38	48.72		78
+		"POSTA, Christine (DEM)"	157		68	43.31		89	56.69		157
+		"REEVES, Allon (GRN)"	21		8	38.10		13	61.90		21
+		Total	256		725	48.49		770	51.51		1495
+
+	Para Hills West										
+			1st Prefs		584	44.01		743	55.99		1327
+		"KOWALD, Rod (HAN)"	93		60	64.52		33	35.48		93
+		"POSTA, Christine (DEM)"	181		63	34.81		118	65.19		181
+		"REEVES, Allon (GRN)"	27		10	37.04		17	62.96		27
+		Total	301		717	44.04		911	55.96		1628
+
+	Para Vista										
+			1st Prefs		1221	49.88		1227	50.12		2448
+		"KOWALD, Rod (HAN)"	183		83	45.36		100	54.64		183
+		"POSTA, Christine (DEM)"	317		124	39.12		193	60.88		317
+		"REEVES, Allon (GRN)"	80		27	33.75		53	66.25		80
+		Total	580		1455	48.05		1573	51.95		3028
+
+	Pooraka										
+			1st Prefs		1205	40.48		1772	59.52		2977
+		"KOWALD, Rod (HAN)"	199		94	47.24		105	52.76		199
+		"POSTA, Christine (DEM)"	305		125	40.98		180	59.02		305
+		"REEVES, Allon (GRN)"	71		26	36.62		45	63.38		71
+		Total	575		1450	40.82		2102	59.18		3552
+
+	Redwood Park										
+			1st Prefs		1122	60.32		738	39.68		1860
+		"KOWALD, Rod (HAN)"	77		43	55.84		34	44.16		77
+		"POSTA, Christine (DEM)"	284		120	42.25		164	57.75		284
+		"REEVES, Allon (GRN)"	48		17	35.42		31	64.58		48
+		Total	409		1302	57.38		967	42.62		2269
+
+	Ridgehaven										
+			1st Prefs		1500	58.53		1063	41.47		2563
+		"KOWALD, Rod (HAN)"	165		96	58.18		69	41.82		165
+		"POSTA, Christine (DEM)"	348		145	41.67		203	58.33		348
+		"REEVES, Allon (GRN)"	79		34	43.04		45	56.96		79
+		Total	592		1775	56.26		1380	43.74		3155
+
+	St Agnes										
+			1st Prefs		1445	61.57		902	38.43		2347
+		"KOWALD, Rod (HAN)"	110		66	60.00		44	40.00		110
+		"POSTA, Christine (DEM)"	276		121	43.84		155	56.16		276
+		"REEVES, Allon (GRN)"	89		28	31.46		61	68.54		89
+		Total	475		1660	58.82		1162	41.18		2822
+
+	St Agnes West										
+			1st Prefs		809	60.78		522	39.22		1331
+		"KOWALD, Rod (HAN)"	64		44	68.75		20	31.25		64
+		"POSTA, Christine (DEM)"	154		62	40.26		92	59.74		154
+		"REEVES, Allon (GRN)"	38		11	28.95		27	71.05		38
+		Total	256		926	58.35		661	41.65		1587
+
+	Salisbury East										
+			1st Prefs		1109	51.39		1049	48.61		2158
+		"KOWALD, Rod (HAN)"	139		75	53.96		64	46.04		139
+		"POSTA, Christine (DEM)"	257		91	35.41		166	64.59		257
+		"REEVES, Allon (GRN)"	47		18	38.30		29	61.70		47
+		Total	443		1293	49.71		1308	50.29		2601
+
+	Salisbury East Central										
+			1st Prefs		903	51.87		838	48.13		1741
+		"KOWALD, Rod (HAN)"	119		64	53.78		55	46.22		119
+		"POSTA, Christine (DEM)"	226		100	44.25		126	55.75		226
+		"REEVES, Allon (GRN)"	44		24	54.55		20	45.45		44
+		Total	389		1091	51.22		1039	48.78		2130
+
+	Salisbury Heights (Makin)										
+			1st Prefs		201	71.79		79	28.21		280
+		"KOWALD, Rod (HAN)"	21		14	66.67		7	33.33		21
+		"POSTA, Christine (DEM)"	32		15	46.88		17	53.13		32
+		"REEVES, Allon (GRN)"	4		0	0.00		4	100.00		4
+		Total	57		230	68.25		107	31.75		337
+
+	Surrey Downs										
+			1st Prefs		1142	59.73		770	40.27		1912
+		"KOWALD, Rod (HAN)"	122		76	62.30		46	37.70		122
+		"POSTA, Christine (DEM)"	259		104	40.15		155	59.85		259
+		"REEVES, Allon (GRN)"	54		27	50.00		27	50.00		54
+		Total	435		1349	57.48		998	42.52		2347
+
+	Tea Tree Gully										
+			1st Prefs		754	63.79		428	36.21		1182
+		"KOWALD, Rod (HAN)"	64		35	54.69		29	45.31		64
+		"POSTA, Christine (DEM)"	162		78	48.15		84	51.85		162
+		"REEVES, Allon (GRN)"	33		13	39.39		20	60.61		33
+		Total	259		880	61.07		561	38.93		1441
+
+	Valley View										
+			1st Prefs		570	51.40		539	48.60		1109
+		"KOWALD, Rod (HAN)"	66		33	50.00		33	50.00		66
+		"POSTA, Christine (DEM)"	142		53	37.32		89	62.68		142
+		"REEVES, Allon (GRN)"	38		12	31.58		26	68.42		38
+		Total	246		668	49.30		687	50.70		1355
+
+	Wynn Vale										
+			1st Prefs		2277	60.16		1508	39.84		3785
+		"KOWALD, Rod (HAN)"	174		103	59.20		71	40.80		174
+		"POSTA, Christine (DEM)"	410		172	41.95		238	58.05		410
+		"REEVES, Allon (GRN)"	73		28	38.36		45	61.64		73
+		Total	657		2580	58.08		1862	41.92		4442
+
+	Special Hospitals										
+			1st Prefs		92	61.33		58	38.67		150
+		"KOWALD, Rod (HAN)"	7		5	71.43		2	28.57		7
+		"POSTA, Christine (DEM)"	4		1	25.00		3	75.00		4
+		"REEVES, Allon (GRN)"	1		0	0.00		1	100.00		1
+		Total	12		98	60.49		64	39.51		162
+
+	Total Ordinary										
+			1st Prefs		31897	55.12		25972	44.88		57869
+		"KOWALD, Rod (HAN)"	3237		1789	55.27		1448	44.73		3237
+		"POSTA, Christine (DEM)"	7199		2974	41.31		4225	58.69		7199
+		"REEVES, Allon (GRN)"	1546		585	37.84		961	62.16		1546
+		Total	11982		37245	53.32		32606	46.68		69851
+
+	ABSENT										
+			1st Prefs		2145	56.06		1681	43.94		3826
+		"KOWALD, Rod (HAN)"	257		157	61.09		100	38.91		257
+		"POSTA, Christine (DEM)"	630		268	42.54		362	57.46		630
+		"REEVES, Allon (GRN)"	195		80	41.03		115	58.97		195
+		Total	1082		2650	53.99		2258	46.01		4908
+
+	POSTAL										
+			1st Prefs		1565	62.40		943	37.60		2508
+		"KOWALD, Rod (HAN)"	124		70	56.45		54	43.55		124
+		"POSTA, Christine (DEM)"	200		83	41.50		117	58.50		200
+		"REEVES, Allon (GRN)"	42		22	52.38		20	47.62		42
+		Total	366		1740	60.54		1134	39.46		2874
+
+	PRE_POLL										
+			1st Prefs		1191	60.49		778	39.51		1969
+		"KOWALD, Rod (HAN)"	130		72	55.38		58	44.62		130
+		"POSTA, Christine (DEM)"	255		118	46.27		137	53.73		255
+		"REEVES, Allon (GRN)"	53		21	39.62		32	60.38		53
+		Total	438		1402	58.25		1005	41.75		2407
+
+	PROVISIONAL										
+			1st Prefs		181	52.31		165	47.69		346
+		"KOWALD, Rod (HAN)"	31		13	41.94		18	58.06		31
+		"POSTA, Christine (DEM)"	59		29	49.15		30	50.85		59
+		"REEVES, Allon (GRN)"	14		11	78.57		3	21.43		14
+		Total	104		234	52.00		216	48.00		450	
+
+	Division Summary											
+			1st Prefs		36979	55.59		29539	44.41		66518	
+		"KOWALD, Rod (HAN)"	3779		2101	55.60		1678	44.40		3779	
+		"POSTA, Christine (DEM)"	8343		3472	41.62		4871	58.38		8343	
+		"REEVES, Allon (GRN)"	1850		719	38.86		1131	61.14		1850	
+		Total	13972		43271	53.76		37219	46.24		80490	

@@ -1,0 +1,17 @@
+General Information: Election 2001 - National							
+Numbers of Polling Places and Staff 							
+
+
+Polling Places							Polling Staff
+State	Statics	Hospital Teams	Remote Teams	Prison Teams	Pre- Poll*	Overseas	Total
+NSW	2662	144	0 	4	106	-	20298
+VIC	1762	88	0 	1	51	-	15389
+QLD	1384	77	3 	0	51	-	11323
+WA	795	55	13 	9	49	-	6442
+SA	651	54	6 	0	29	-	5318
+TAS	322	17	0 	0	13	-	1795
+ACT	80	4	0 	1	5	-	863
+NT	47	6	25 	2	23	-	566
+Overseas	-	-	-	-	-	99	n/a
+NAT TOTAL	7703	445	47	17	327	99	61994
+*Includes AEC Divisional Offices			

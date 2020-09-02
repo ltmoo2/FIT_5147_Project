@@ -1,0 +1,19 @@
+General Information - 1996 Election							
+Numbers of Polling Places  							
+							
+
+	Polling Places						
+		Hospital	Remote 	Prison			
+State	Statics	Teams	Teams	Teams	Pre Poll*	Overseas	
+NSW	2677	169	4	7	149	0	
+VIC	1832	82	0	1	72	0	
+QLD	1393	87	3	8	78	0	
+WA	911	54	13	4	56	0	
+SA	646	58	6	2	33	0	
+TAS	328	21	0	0	9	0	
+ACT	78	4	0	0	8	0	
+NT	40	6	25	2	15	0	
+O/Seas	0	0	0	0	0	99	
+National Total	7905	481	51	24	420	99	
+
+* includes AEC Divisional Offices							

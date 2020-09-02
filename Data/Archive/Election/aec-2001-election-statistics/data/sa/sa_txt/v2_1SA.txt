@@ -1,0 +1,266 @@
+House of Representatives - 2001 Election: South Australia						
+First Preference Votes and TCP						
+By Candidate by Division						
+						
+Adelaide (86538)						
+						
+Candidates		Party	Votes	%	Swing	
+	"OSBORN, Lynne"	GRN	4638	5.98	2.82	
+	"STANLEY, Tim"	ALP	28732	37.07	-0.08	
+#	"WORTH, Trish"	LP	34258	44.20	0.80	
+	"PEACOCK, Lee"	HAN	1630	2.10	-3.34	
+	"MANN, Sue"	DEM	8255	10.65	0.93	
+	.....	NLP			-0.48	
+	.....	OTH			-0.64	
+		FORMAL	77513	94.91	-0.70	
+		INFORMAL	4156	5.09	0.70	
+		TOTAL	81669	94.37	-0.04	
+						
+Full Distribution of Preferences		Party	Votes	%	Swing	
+	"STANLEY, Tim"	ALP	38585	49.78	0.43	
+#	"WORTH, Trish"	LP	38928	50.22	-0.43	
+						
+						
+						
+Barker (87836)						
+						
+Candidates		Party	Votes	%	Swing	
+	"DETCHON, David"	ALP	18968	23.74	2.04	
+	"RIGNEY, Matt"	GRN	2629	3.29	3.29	
+	"BALLINGER, Liz"	IND	2538	3.18	3.18	
+	"WRIGHT, Dona"	HAN	5900	7.38	-5.62	
+	"CORNISH, Philip"	IND	1167	1.46	1.46	
+	"MILLER, Louise"	DEM	5504	6.89	0.55	
+#	"SECKER, Patrick"	LP	43201	54.06	7.20	
+	.....	FST			-0.92	
+	.....	CTA			-2.78	
+	.....	NP			-2.25	
+	.....	OTH			-6.15	
+		FORMAL	79907	94.50	-0.42	
+		INFORMAL	4653	5.50	0.42	
+		TOTAL	84560	96.27	-0.25	
+						
+Full Distribution of Preferences		Party	Votes	%	Swing	
+	"DETCHON, David"	ALP	27416	34.31	-1.65	
+#	"SECKER, Patrick"	LP	52491	65.69	1.65	
+						
+						
+						
+Bonython (85484)						
+						
+Candidates		Party	Votes	%	Swing	
+	"HUNT, Rita"	NGST	3066	4.05	4.05	
+	"BLAKE, Lisa"	GRN	2102	2.78	2.78	
+	"CHOMEL, Brenton"	LP	21822	28.86	3.81	
+	"DENNIS, Mark A"	DEM	7984	10.56	1.26	
+#	"EVANS, Martyn"	ALP	35813	47.36	-2.42	
+	"MAHONEY, John"	HAN	4825	6.38	-8.23	
+	.....	FST			-1.20	
+	.....	NLP			-0.03	
+	.....	OTH			-0.04	
+		FORMAL	75612	92.67	-1.87	
+		INFORMAL	5984	7.33	1.87	
+		TOTAL	81596	95.45	-0.24	
+						
+Full Distribution of Preferences		Party	Votes	%	Swing	
+	"CHOMEL, Brenton"	LP	29924	39.58	2.88	
+#	"EVANS, Martyn"	ALP	45688	60.42	-2.88	
+						
+						
+						
+Boothby (89617)						
+						
+Candidates		Party	Votes	%	Swing	
+	"MURPHY, Jim"	ALP	20976	25.61	-4.82	
+	"STARLING, Paul"	IND	468	0.57	0.57	
+	"PRIDE, Jo"	DEM	15951	19.47	5.92	
+	"MANFIELD, William"		154	0.19	0.19	
+	"DRUMMOND, Michelle"	GRN	2516	3.07	3.07	
+	"PIECHNICK, Daniel"	HAN	2151	2.63	-4.13	
+	"KING, Jack"	IND	441	0.54	0.54	
+#	"SOUTHCOTT, Andrew"	LP	39258	47.93	-0.53	
+	.....	NLP			-0.68	
+	.....	CTA			-0.10	
+	.....	OTH			-0.04	
+		FORMAL	81915	95.48	-1.49	
+		INFORMAL	3880	4.52	1.49	
+		TOTAL	85795	95.74	-0.07	
+						
+Full Distribution of Preferences		Party	Votes	%	Swing	
+	"MURPHY, Jim"	ALP	34933	42.65	0.25	
+#	"SOUTHCOTT, Andrew"	LP	46982	57.35	-0.25	
+						
+						
+						
+Grey (85745)						
+						
+Candidates		Party	Votes	%	Swing	
+	"O'NEILL, Con"	ALP	24345	31.45	0.83	
+	"ROBERTSON, Gil John"	DEM	3672	4.74	-0.41	
+	"HOLLAND, Sylvia"	HAN	5276	6.82	-6.19	
+	"MARTIN, Felicity"	GRN	1845	2.38	2.38	
+#	"WAKELIN, Barry"	LP	42270	54.61	6.91	
+	.....	NP			-2.09	
+	.....	NLP			-0.41	
+	.....	OTH			-1.01	
+		FORMAL	77408	95.43	-0.31	
+		INFORMAL	3708	4.57	0.31	
+		TOTAL	81116	94.60	-0.03	
+						
+Full Distribution of Preferences		Party	Votes	%	Swing	
+	"O'NEILL, Con"	ALP	30532	39.44	-1.53	
+#	"WAKELIN, Barry"	LP	46876	60.56	1.53	
+						
+						
+						
+Hindmarsh (84806)						
+						
+Candidates		Party	Votes	%	Swing	
+	"FITZPATRICK, Peter"	HAN	2458	3.22	-3.80	
+	"GEORGANAS, Steve"	ALP	29187	38.26	-0.93	
+#	"GALLUS, Chris"	LP	35117	46.04	2.76	
+	"CASHEL, Deb"	GRN	2757	3.61	0.92	
+	"DOWD, Caroline"	DEM	6764	8.87	1.45	
+	.....	NLP			-0.40	
+		FORMAL	76283	94.22	-1.21	
+		INFORMAL	4677	5.78	1.21	
+		TOTAL	80960	95.46	-0.17	
+						
+Full Distribution of Preferences		Party	Votes	%	Swing	
+	"GEORGANAS, Steve"	ALP	36719	48.14	-0.64	
+#	"GALLUS, Chris"	LP	39564	51.86	0.64	
+						
+						
+						
+Kingston (85398)						
+						
+Candidates		Party	Votes	%	Swing	
+	"HERSEY, Dean"	LP	30080	38.82	0.56	
+	"ARANDELOVIC, Gordon"	NGST	1136	1.47	1.47	
+	"McCORMACK, Charlie"	HAN	3634	4.69	-4.59	
+	"GUILDNER, Deborah"	GRN	2437	3.14	3.14	
+	"PRATT, Graham"	DEM	9076	11.71	2.22	
+#	"COX, David"	ALP	31127	40.17	0.66	
+	.....	EFF			-0.65	
+	.....	NLP			-0.49	
+	.....	CTA			0.00	
+	.....	OTH			-2.32	
+		FORMAL	77490	94.50	-0.81	
+		INFORMAL	4511	5.50	0.81	
+		TOTAL	82001	96.02	-0.20	
+						
+Full Distribution of Preferences		Party	Votes	%	Swing	
+	"HERSEY, Dean"	LP	36872	47.58	-0.54	
+#	"COX, David"	ALP	40618	52.42	0.54	
+						
+						
+						
+Makin (88248)						
+						
+Candidates		Party	Votes	%	Swing	
+	"KOWALD, Rod"	HAN	3779	4.69	-4.95	
+	"POSTA, Christine"	DEM	8343	10.37	0.14	
+	"REEVES, Allon"	GRN	1850	2.30	2.30	
+#	"DRAPER, Trish"	LP	36979	45.94	5.35	
+	"WOODMAN, Julie"	ALP	29539	36.70	-1.14	
+	.....	NLP			-0.47	
+	.....	OTH			-1.23	
+		FORMAL	80490	94.79	-0.92	
+		INFORMAL	4420	5.21	0.92	
+		TOTAL	84910	96.22	-0.09	
+						
+Full Distribution of Preferences		Party	Votes	%	Swing	
+#	"DRAPER, Trish"	LP	43271	53.76	2.98	
+	"WOODMAN, Julie"	ALP	37219	46.24	-2.98	
+						
+						
+						
+Mayo (86319)						
+						
+Candidates		Party	Votes	%	Swing	
+	"McLAREN, John"	DEM	11607	14.84	-6.98	
+	"SPRAGG, Bill"	IND	2307	2.95	2.95	
+#	"DOWNER, Alexander"	LP	41259	52.76	6.45	
+	"CLARK, Dave"	GRN	4084	5.22	5.22	
+	"THOMAS, Mike"	HAN	2366	3.03	-4.52	
+	"COOMBE, Howie F"	IND	310	0.40	-0.25	
+	"BRENNAN, Delia"	ALP	16269	20.80	-0.73	
+	.....	CTA			-1.51	
+	.....	NLP			-0.45	
+	.....	EFF			-0.03	
+	.....	OTH			-0.15	
+		FORMAL	78202	94.51	-1.59	
+		INFORMAL	4544	5.49	1.59	
+		TOTAL	82746	95.86	-0.05	
+						
+Full Distribution of Preferences		Party	Votes	%	Swing	
+#	"DOWNER, Alexander"	LP	49162	62.87		
+	"BRENNAN, Delia"	ALP	29040	37.13		
+						
+						
+						
+Port Adelaide (86297)						
+						
+Candidates		Party	Votes	%	Swing	
+	"PHILLIPS, Andrew"	HAN	3932	5.15	-3.83	
+	"BAWDEN, Matilda"	DEM	7313	9.57	0.62	
+	"NOONE, Brian"	GRN	3210	4.20	4.08	
+#	"SAWFORD, Rod"	ALP	38783	50.77	-2.33	
+	"PERTH, Michael"		672	0.88	-0.16	
+	"KRIEG, Josh"	LP	22474	29.42	3.61	
+	.....	NLP			-0.01	
+	.....	FST			0.00	
+	.....	OTH			-1.99	
+		FORMAL	76384	93.14	-1.25	
+		INFORMAL	5627	6.86	1.25	
+		TOTAL	82011	95.03	-0.59	
+						
+Full Distribution of Preferences		Party	Votes	%	Swing	
+#	"SAWFORD, Rod"	ALP	49379	64.65	-1.07	
+	"KRIEG, Josh"	LP	27005	35.35	1.07	
+						
+						
+						
+Sturt (86359)						
+						
+Candidates		Party	Votes	%	Swing	
+	"RICHARDS, Brian"	HAN	2451	3.15	-2.87	
+#	"PYNE, Christopher"	LP	39508	50.73	2.84	
+	"AITCHISON, Neil"	IND	1081	1.39	1.39	
+	"SIMMONS, Lindsay"	ALP	23143	29.72	-2.03	
+	"FARROW, Tim"	DEM	8438	10.83	-1.25	
+	"CULLEN, Mark"	GRN	3257	4.18	4.18	
+	.....	NLP			-1.14	
+	.....	CTA			-0.17	
+	.....	OTH			-0.96	
+		FORMAL	77878	94.74	-0.86	
+		INFORMAL	4322	5.26	0.86	
+		TOTAL	82200	95.18	-0.02	
+						
+Full Distribution of Preferences		Party	Votes	%	Swing	
+#	"PYNE, Christopher"	LP	45310	58.18	0.46	
+	"SIMMONS, Lindsay"	ALP	32568	41.82	-0.46	
+						
+						
+						
+Wakefield (86378)						
+						
+Candidates		Party	Votes	%	Swing	
+	"ROWBOTTOM, Tim"	ALP	19480	24.78	2.81	
+#	"ANDREW, Neil"	LP	44215	56.24	6.27	
+	"RESEIGH, Marcus"	DEM	5942	7.56	-0.14	
+	"DWYER, David"	HAN	6172	7.85	-8.59	
+	"KELLY, Pam"	GRN	2816	3.58	3.58	
+	.....	NP			-1.82	
+	.....	FST			0.00	
+	.....	CTA			-0.01	
+	.....	OTH			-2.10	
+		FORMAL	78625	94.52	-0.57	
+		INFORMAL	4558	5.48	0.57	
+		TOTAL	83183	96.30	0.43	
+						
+Full Distribution of Preferences		Party	Votes	%	Swing	
+	"ROWBOTTOM, Tim"	ALP	27861	35.44	2.08	
+#	"ANDREW, Neil"	LP	50764	64.56	-2.08	
+						
+						

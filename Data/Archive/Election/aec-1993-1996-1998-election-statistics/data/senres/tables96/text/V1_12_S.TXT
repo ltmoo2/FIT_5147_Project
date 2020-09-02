@@ -1,0 +1,213 @@
+Senate - 1996 Election		
+Informality Statistics		
+By Division		
+		
+National Summary		
+State		Informality %
+New South Wales		3.75
+Victoria		3.55
+Queensland		3.27
+Western Australia		3.49
+South Australia		3.27
+Tasmania		3.16
+Australian Capital Territory		2.47
+Northern Territory		2.75
+National Average		3.5
+		
+		
+New South Wales		
+Division		Informality %
+Banks		4.25
+Barton		4.29
+Bennelong		3.82
+Berowra		2.81
+Blaxland		7.34
+Bradfield		2.93
+Calare		2.23
+Charlton		3.45
+Chifley		5.26
+Cook		2.48
+Cowper		2.30
+Cunningham		3.61
+Dobell		2.94
+Eden-Monaro		2.99
+Farrer		3.41
+Fowler		8.07
+Gilmore		2.35
+Grayndler		5.44
+Greenway		5.30
+Gwydir		2.54
+Hughes		2.73
+Hume		2.60
+Hunter		2.66
+Kingsford-Smith		5.05
+Lindsay		3.64
+Lowe		5.23
+Lyne		2.51
+Macarthur		3.52
+Mackellar		3.29
+Macquarie		3.94
+Mitchell		2.98
+Newcastle		2.84
+New England		2.29
+North Sydney		2.55
+Page		1.95
+Parkes		2.88
+Parramatta		3.86
+Paterson		2.26
+Prospect		5.77
+Reid		5.35
+Richmond		2.09
+Riverina		3.23
+Robertson		2.82
+Shortland		2.80
+Sydney		4.52
+Throsby		3.88
+Warringah		2.89
+Watson		5.12
+Wentworth		3.45
+Werriwa		5.09
+New South Wales Average		3.75
+		
+		
+
+Victoria		
+Division		Informality %
+Aston		2.40
+Ballarat		2.11
+Batman		5.08
+Bendigo		2.05
+Bruce		2.96
+Burke		2.96
+Calwell		3.76
+Casey		2.76
+Chisholm		2.56
+Corangamite		2.22
+Corio		3.03
+Deakin		2.87
+Dunkley		2.49
+Flinders		2.85
+Gellibrand		5.43
+Gippsland		2.55
+Goldstein		2.28
+Higgins		2.02
+Holt		4.54
+Hotham		2.98
+Indi		2.31
+Isaacs		2.80
+Jagajaga		2.57
+Kooyong		2.00
+Lalor		3.40
+La Trobe		2.53
+McEwen		2.55
+McMillan		2.71
+Mallee		2.60
+Maribyrnong		4.59
+Melbourne		3.37
+Melbourne Ports		2.76
+Menzies		2.47
+Murray		2.67
+Scullin		3.54
+Wannon		2.00
+Wills		3.65
+Victorian Average		3.55
+		
+		
+
+Queensland		
+Division		Informality %
+Bowman		2.18
+Brisbane		2.41
+Capricornia		2.17
+Dawson		2.24
+Dickson		2.43
+Fadden		2.43
+Fairfax		2.24
+Fisher		2.55
+Forde		2.74
+Griffith		2.41
+Groom		2.29
+Herbert		2.58
+Hinkler		2.41
+Kennedy		2.87
+Leichhardt		2.88
+Lilley		2.04
+Longman		2.67
+McPherson		2.82
+Maranoa		2.98
+Moncrieff		3.11
+Moreton		2.84
+Oxley		2.85
+Petrie		2.49
+Rankin		3.39
+Ryan		1.74
+Wide Bay		2.91
+Queensland Average		3.27
+		
+		
+
+Western Australia		
+Division		Informality %
+Brand		3.36
+Canning		3.61
+Cowan		3.65
+Curtin		2.03
+Forrest		2.65
+Fremantle		3.50
+Kalgoorlie		2.77
+Moore		2.44
+O'Connor		3.08
+Pearce		3.07
+Perth		3.83
+Stirling		3.73
+Swan		3.55
+Tangney		2.94
+Western Australian Average		3.49
+		
+		
+
+South Australia		
+Division		Informality %
+Adelaide		4.69
+Barker		3.42
+Bonython		4.85
+Boothby		2.73
+Grey		3.46
+Hindmarsh		4.09
+Kingston		4.49
+Makin		5.00
+Mayo		3.11
+Port Adelaide		5.56
+Sturt		3.84
+Wakefield		3.80
+South Australian Average		3.27
+		
+		
+		
+Tasmania		
+Division		Informality %
+Bass		2.09
+Braddon		2.58
+Denison		2.14
+Franklin		2.26
+Lyons		2.67
+Tasmanian Average		3.16
+		
+		
+		
+Australian Capital Territory		
+Division		Informality %
+Canberra		2.67
+Fraser		5.92
+Namadgi		2.57
+Australian Capital Territory Average		2.47
+		
+		
+
+Northern Territory		
+Division		Informality %
+Northern Territory		3.39
+Northern Territory Average		3.39
+
+
+National Average		3.50

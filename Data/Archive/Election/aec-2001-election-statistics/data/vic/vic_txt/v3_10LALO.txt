@@ -1,0 +1,234 @@
+House of Representatives - 2001 Election: Lalor												
+Two Candidate Preferred Preference Flow Result												
+By Polling Place by Division												
+Lalor (89277)												
+		Candidate		                  	"MCCONNELL, David V"		         	"GILLARD, Julia"		             	Total	
+				                           	LP		                         	ALP		                        		
+				                           	Votes	%	                     	Votes	%	                     		
+	Altona											
+			1st Prefs		1035	38.90		1626	61.10		2661	
+		"HOWE, Roger (DEM)"	274		103	37.59		171	62.41		274	
+		"BRIFFA, Tony (GRN)"	155		32	20.65		123	79.35		155	
+		Total	429		1170	37.86		1920	62.14		3090	
+
+	Altona Bay											
+			1st Prefs		1058	26.59		2921	73.41		3979	
+		"HOWE, Roger (DEM)"	387		93	24.03		294	75.97		387	
+		"BRIFFA, Tony (GRN)"	179		38	21.23		141	78.77		179
+		Total	566		1189	26.16		3356	73.84		4545
+
+	Altona Meadows										
+			1st Prefs		797	23.60		2580	76.40		3377
+		"HOWE, Roger (DEM)"	287		110	38.33		177	61.67		287
+		"BRIFFA, Tony (GRN)"	125		37	29.60		88	70.40		125
+		Total	412		944	24.91		2845	75.09		3789
+
+	Altona West										
+			1st Prefs		553	34.07		1070	65.93		1623
+		"HOWE, Roger (DEM)"	154		55	35.71		99	64.29		154
+		"BRIFFA, Tony (GRN)"	95		29	30.53		66	69.47		95
+		Total	249		637	34.03		1235	65.97		1872
+
+	Ardeer East (Lalor)										
+			1st Prefs		60	19.35		250	80.65		310
+		"HOWE, Roger (DEM)"	24		12	50.00		12	50.00		24
+		"BRIFFA, Tony (GRN)"	5		1	20.00		4	80.00		5
+		Total	29		73	21.53		266	78.47		339
+
+	Ardeer South										
+			1st Prefs		385	18.41		1706	81.59		2091
+		"HOWE, Roger (DEM)"	206		85	41.26		121	58.74		206
+		"BRIFFA, Tony (GRN)"	45		14	31.11		31	68.89		45
+		Total	251		484	20.67		1858	79.33		2342
+
+	Bellbridge										
+			1st Prefs		1270	33.42		2530	66.58		3800
+		"HOWE, Roger (DEM)"	392		158	40.31		234	59.69		392
+		"BRIFFA, Tony (GRN)"	192		48	25.00		144	75.00		192
+		Total	584		1476	33.67		2908	66.33		4384
+
+	Cambridge										
+			1st Prefs		933	36.26		1640	63.74		2573
+		"HOWE, Roger (DEM)"	254		113	44.49		141	55.51		254
+		"BRIFFA, Tony (GRN)"	108		29	26.85		79	73.15		108
+		Total	362		1075	36.63		1860	63.37		2935
+
+	Derrimut Heath										
+			1st Prefs		853	42.02		1177	57.98		2030
+		"HOWE, Roger (DEM)"	182		33	18.13		149	81.87		182
+		"BRIFFA, Tony (GRN)"	115		26	22.61		89	77.39		115
+		Total	297		912	39.19		1415	60.81		2327
+
+	Exford										
+			1st Prefs		59	50.43		58	49.57		117
+		"HOWE, Roger (DEM)"	7		2	28.57		5	71.43		7
+		"BRIFFA, Tony (GRN)"	6		1	16.67		5	83.33		6
+		Total	13		62	47.69		68	52.31		130
+
+	Galvin Park										
+			1st Prefs		1047	35.47		1905	64.53		2952
+		"HOWE, Roger (DEM)"	289		112	38.75		177	61.25		289
+		"BRIFFA, Tony (GRN)"	152		29	19.08		123	80.92		152
+		Total	441		1188	35.01		2205	64.99		3393
+
+	Glengala (Lalor)										
+			1st Prefs		386	18.96		1650	81.04		2036
+		"HOWE, Roger (DEM)"	102		56	54.90		46	45.10		102
+		"BRIFFA, Tony (GRN)"	74		18	24.32		56	75.68		74
+		Total	176		460	20.80		1752	79.20		2212
+
+	Glengala South										
+			1st Prefs		278	16.51		1406	83.49		1684
+		"HOWE, Roger (DEM)"	81		41	50.62		40	49.38		81
+		"BRIFFA, Tony (GRN)"	54		16	29.63		38	70.37		54
+		Total	135		335	18.42		1484	81.58		1819
+
+	Glenorden										
+			1st Prefs		532	25.64		1543	74.36		2075
+		"HOWE, Roger (DEM)"	165		74	44.85		91	55.15		165
+		"BRIFFA, Tony (GRN)"	99		43	43.43		56	56.57		99
+		Total	264		649	27.75		1690	72.25		2339
+
+	Iramoo										
+			1st Prefs		966	32.65		1993	67.35		2959
+		"HOWE, Roger (DEM)"	291		103	35.40		188	64.60		291
+		"BRIFFA, Tony (GRN)"	130		43	33.08		87	66.92		130
+		Total	421		1112	32.90		2268	67.10		3380
+
+	Laverton										
+			1st Prefs		265	24.93		798	75.07		1063
+		"HOWE, Roger (DEM)"	82		39	47.56		43	52.44		82
+		"BRIFFA, Tony (GRN)"	33		16	48.48		17	51.52		33
+		Total	115		320	27.16		858	72.84		1178
+
+	Laverton North										
+			1st Prefs		443	24.69		1351	75.31		1794
+		"HOWE, Roger (DEM)"	132		53	40.15		79	59.85		132
+		"BRIFFA, Tony (GRN)"	68		13	19.12		55	80.88		68
+		Total	200		509	25.53		1485	74.47		1994
+
+	Little River										
+			1st Prefs		181	52.31		165	47.69		346
+		"HOWE, Roger (DEM)"	25		9	36.00		16	64.00		25
+		"BRIFFA, Tony (GRN)"	28		5	17.86		23	82.14		28
+		Total	53		195	48.87		204	51.13		399
+
+	Manorvale										
+			1st Prefs		969	41.73		1353	58.27		2322
+		"HOWE, Roger (DEM)"	231		80	34.63		151	65.37		231
+		"BRIFFA, Tony (GRN)"	78		26	33.33		52	66.67		78
+		Total	309		1075	40.86		1556	59.14		2631
+
+	Melbourne (Lalor)										
+			1st Prefs		27	44.26		34	55.74		61
+		"HOWE, Roger (DEM)"	9		3	33.33		6	66.67		9
+		"BRIFFA, Tony (GRN)"	11		3	27.27		8	72.73		11
+		Total	20		33	40.74		48	59.26		81
+
+	Mossfiel										
+			1st Prefs		1333	35.87		2383	64.13		3716
+		"HOWE, Roger (DEM)"	329		120	36.47		209	63.53		329
+		"BRIFFA, Tony (GRN)"	164		42	25.61		122	74.39		164
+		Total	493		1495	35.52		2714	64.48		4209
+
+	Point Cook										
+			1st Prefs		40	50.63		39	49.37		79
+		"HOWE, Roger (DEM)"	7		3	42.86		4	57.14		7
+		"BRIFFA, Tony (GRN)"	8		6	75.00		2	25.00		8
+		Total	15		49	52.13		45	47.87		94
+
+	Seabrook										
+			1st Prefs		1118	35.71		2013	64.29		3131
+		"HOWE, Roger (DEM)"	252		116	46.03		136	53.97		252
+		"BRIFFA, Tony (GRN)"	99		32	32.32		67	67.68		99
+		Total	351		1266	36.36		2216	63.64		3482
+
+	Seaholme										
+			1st Prefs		830	38.99		1299	61.01		2129
+		"HOWE, Roger (DEM)"	192		69	35.94		123	64.06		192
+		"BRIFFA, Tony (GRN)"	185		40	21.62		145	78.38		185
+		Total	377		939	37.47		1567	62.53		2506
+
+	The Grange										
+			1st Prefs		702	34.50		1333	65.50		2035
+		"HOWE, Roger (DEM)"	132		65	49.24		67	50.76		132
+		"BRIFFA, Tony (GRN)"	72		21	29.17		51	70.83		72
+		Total	204		788	35.19		1451	64.81		2239
+
+	Thomas Chirnside										
+			1st Prefs		564	37.28		949	62.72		1513
+		"HOWE, Roger (DEM)"	96		40	41.67		56	58.33		96
+		"BRIFFA, Tony (GRN)"	45		12	26.67		33	73.33		45
+		Total	141		616	37.24		1038	62.76		1654
+
+	Werribee										
+			1st Prefs		1371	50.22		1359	49.78		2730
+		"HOWE, Roger (DEM)"	249		109	43.78		140	56.22		249
+		"BRIFFA, Tony (GRN)"	137		43	31.39		94	68.61		137
+		Total	386		1523	48.88		1593	51.12		3116
+
+	Werribee Central										
+			1st Prefs		956	47.23		1068	52.77		2024
+		"HOWE, Roger (DEM)"	177		80	45.20		97	54.80		177
+		"BRIFFA, Tony (GRN)"	110		34	30.91		76	69.09		110
+		Total	287		1070	46.30		1241	53.70		2311
+
+	Werribee South										
+			1st Prefs		486	62.31		294	37.69		780
+		"HOWE, Roger (DEM)"	48		26	54.17		22	45.83		48
+		"BRIFFA, Tony (GRN)"	27		9	33.33		18	66.67		27
+		Total	75		521	60.94		334	39.06		855
+
+	Westgrove										
+			1st Prefs		471	29.33		1135	70.67		1606
+		"HOWE, Roger (DEM)"	145		61	42.07		84	57.93		145
+		"BRIFFA, Tony (GRN)"	58		19	32.76		39	67.24		58
+		Total	203		551	30.46		1258	69.54		1809
+
+	Woodville										
+			1st Prefs		1013	38.26		1635	61.74		2648
+		"HOWE, Roger (DEM)"	236		88	37.29		148	62.71		236
+		"BRIFFA, Tony (GRN)"	119		28	23.53		91	76.47		119
+		Total	355		1129	37.60		1874	62.40		3003
+
+	Special Hospitals										
+			1st Prefs		6	40.00		9	60.00		15
+		"HOWE, Roger (DEM)"	3		2	66.67		1	33.33		3
+		"BRIFFA, Tony (GRN)"	1		1	100.00		0	0.00		1
+		Total	4		9	47.37		10	52.63		19
+
+	Total Ordinary										
+			1st Prefs		20987	33.71		41272	66.29		62259
+		"HOWE, Roger (DEM)"	5440		2113	38.84		3327	61.16		5440
+		"BRIFFA, Tony (GRN)"	2777		754	27.15		2023	72.85		2777
+		Total	8217		23854	33.85		46622	66.15		70476
+
+	ABSENT										
+			1st Prefs		1189	35.66		2145	64.34		3334
+		"HOWE, Roger (DEM)"	385		192	49.87		193	50.13		385
+		"BRIFFA, Tony (GRN)"	261		86	32.95		175	67.05		261
+		Total	646		1467	36.86		2513	63.14		3980
+
+	POSTAL										
+			1st Prefs		682	37.07		1158	62.93		1840
+		"HOWE, Roger (DEM)"	104		42	40.38		62	59.62		104
+		"BRIFFA, Tony (GRN)"	81		35	43.21		46	56.79		81
+		Total	185		759	37.48		1266	62.52		2025
+
+	PRE_POLL										
+			1st Prefs		1639	38.67		2599	61.33		4238
+		"HOWE, Roger (DEM)"	325		145	44.62		180	55.38		325
+		"BRIFFA, Tony (GRN)"	171		66	38.60		105	61.40		171
+		Total	496		1850	39.08		2884	60.92		4734
+
+	PROVISIONAL										
+			1st Prefs		137	30.24		316	69.76		453	
+		"HOWE, Roger (DEM)"	43		20	46.51		23	53.49		43	
+		"BRIFFA, Tony (GRN)"	31		11	35.48		20	64.52		31	
+		Total	74		168	31.88		359	68.12		527	
+
+	Division Summary											
+			1st Prefs		24634	34.16		47490	65.84		72124	
+		"HOWE, Roger (DEM)"	6297		2512	39.89		3785	60.11		6297	
+		"BRIFFA, Tony (GRN)"	3321		952	28.67		2369	71.33		3321	
+		Total	9618		28098	34.37		53644	65.63		81742	

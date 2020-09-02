@@ -1,0 +1,391 @@
+House of Representatives - 2001 Election: Victoria														
+Two Candidate Preferred Preference Flow Result														
+By Polling Place														
+Calwell (98330)														
+		Candidate		                  	"VAMVAKINOU, Maria"		          	"BULLER, Darren"		             			Total	
+				                           	ALP		                        	LP		                         				
+				                           	Votes	%	                     	Votes	%	                     				
+	Bethal													
+			1st Prefs		1528	84.94		271	15.06				1799	
+		"ABBOTTO, John (NGST)"	108		86	79.63		22	20.37				108	
+		"THEOPHANOUS, Andrew (IND)"	185		160	86.49		25	13.51				185	
+		"BOCHI, Mohamed Walid ()"	19		17	89.47		2	10.53				19	
+		"LIVESAY, Robert (DEM)"	39		29	74.36		10	25.64				39	
+		"YOHANNA, Sleiman (CEC)"	27		13	48.15		14	51.85				27	
+		"BARKER, Bee (GRN)"	32		19	59.38		13	40.63				32	
+		"DERVISH, D (IND)"	90		70	77.78		20	22.22				90	
+		Total	500		1922	83.60		377	16.40				2299
+
+	Broadmeadows												
+			1st Prefs		1160	83.51		229	16.49				1389
+		"ABBOTTO, John (NGST)"	76		58	76.32		18	23.68				76
+		"THEOPHANOUS, Andrew (IND)"	194		161	82.99		33	17.01				194
+		"BOCHI, Mohamed Walid ()"	28		20	71.43		8	28.57				28
+		"LIVESAY, Robert (DEM)"	36		21	58.33		15	41.67				36
+		"YOHANNA, Sleiman (CEC)"	10		8	80.00		2	20.00				10
+		"BARKER, Bee (GRN)"	34		28	82.35		6	17.65				34
+		"DERVISH, D (IND)"	49		14	28.57		35	71.43				49
+		Total	427		1470	80.95		346	19.05				1816
+
+	Broadmeadows North												
+			1st Prefs		2045	79.51		527	20.49				2572
+		"ABBOTTO, John (NGST)"	99		73	73.74		26	26.26				99
+		"THEOPHANOUS, Andrew (IND)"	289		229	79.24		60	20.76				289
+		"BOCHI, Mohamed Walid ()"	49		44	89.80		5	10.20				49
+		"LIVESAY, Robert (DEM)"	87		55	63.22		32	36.78				87
+		"YOHANNA, Sleiman (CEC)"	59		22	37.29		37	62.71				59
+		"BARKER, Bee (GRN)"	66		50	75.76		16	24.24				66
+		"DERVISH, D (IND)"	175		94	53.71		81	46.29				175
+		Total	824		2612	76.91		784	23.09				3396
+
+	Bulla												
+			1st Prefs		123	43.62		159	56.38				282
+		"ABBOTTO, John (NGST)"	9		7	77.78		2	22.22				9
+		"THEOPHANOUS, Andrew (IND)"	33		15	45.45		18	54.55				33
+		"BOCHI, Mohamed Walid ()"	1		0	0.00		1	100.00				1
+		"LIVESAY, Robert (DEM)"	13		6	46.15		7	53.85				13
+		"YOHANNA, Sleiman (CEC)"	0		0	0.00		0	0.00				0
+		"BARKER, Bee (GRN)"	8		4	50.00		4	50.00				8
+		"DERVISH, D (IND)"	0		0	0.00		0	0.00				0
+		Total	64		155	44.80		191	55.20				346
+
+	Campbellfield												
+			1st Prefs		1327	83.30		266	16.70				1593
+		"ABBOTTO, John (NGST)"	63		53	84.13		10	15.87				63
+		"THEOPHANOUS, Andrew (IND)"	170		143	84.12		27	15.88				170
+		"BOCHI, Mohamed Walid ()"	43		37	86.05		6	13.95				43
+		"LIVESAY, Robert (DEM)"	49		29	59.18		20	40.82				49
+		"YOHANNA, Sleiman (CEC)"	44		30	68.18		14	31.82				44
+		"BARKER, Bee (GRN)"	22		19	86.36		3	13.64				22
+		"DERVISH, D (IND)"	27		17	62.96		10	37.04				27
+		Total	418		1655	82.30		356	17.70				2011
+
+	Coolaroo												
+			1st Prefs		1068	80.12		265	19.88				1333
+		"ABBOTTO, John (NGST)"	52		43	82.69		9	17.31				52
+		"THEOPHANOUS, Andrew (IND)"	149		116	77.85		33	22.15				149
+		"BOCHI, Mohamed Walid ()"	25		19	76.00		6	24.00				25
+		"LIVESAY, Robert (DEM)"	48		33	68.75		15	31.25				48
+		"YOHANNA, Sleiman (CEC)"	12		6	50.00		6	50.00				12
+		"BARKER, Bee (GRN)"	34		25	73.53		9	26.47				34
+		"DERVISH, D (IND)"	114		55	48.25		59	51.75				114
+		Total	434		1365	77.25		402	22.75				1767
+
+	Delahey												
+			1st Prefs		2564	82.76		534	17.24				3098
+		"ABBOTTO, John (NGST)"	140		95	67.86		45	32.14				140
+		"THEOPHANOUS, Andrew (IND)"	466		343	73.61		123	26.39				466
+		"BOCHI, Mohamed Walid ()"	23		19	82.61		4	17.39				23
+		"LIVESAY, Robert (DEM)"	79		58	73.42		21	26.58				79
+		"YOHANNA, Sleiman (CEC)"	8		5	62.50		3	37.50				8
+		"BARKER, Bee (GRN)"	49		29	59.18		20	40.82				49
+		"DERVISH, D (IND)"	33		21	63.64		12	36.36				33
+		Total	798		3134	80.44		762	19.56				3896
+
+	Diggers Rest												
+			1st Prefs		521	59.47		355	40.53				876
+		"ABBOTTO, John (NGST)"	31		24	77.42		7	22.58				31
+		"THEOPHANOUS, Andrew (IND)"	83		42	50.60		41	49.40				83
+		"BOCHI, Mohamed Walid ()"	1		1	100.00		0	0.00				1
+		"LIVESAY, Robert (DEM)"	42		29	69.05		13	30.95				42
+		"YOHANNA, Sleiman (CEC)"	2		1	50.00		1	50.00				2
+		"BARKER, Bee (GRN)"	26		14	53.85		12	46.15				26
+		"DERVISH, D (IND)"	11		5	45.45		6	54.55				11
+		Total	196		637	59.42		435	40.58				1072
+
+	Gladstone Park												
+			1st Prefs		2015	63.11		1178	36.89				3193
+		"ABBOTTO, John (NGST)"	113		88	77.88		25	22.12				113
+		"THEOPHANOUS, Andrew (IND)"	363		224	61.71		139	38.29				363
+		"BOCHI, Mohamed Walid ()"	6		3	50.00		3	50.00				6
+		"LIVESAY, Robert (DEM)"	172		116	67.44		56	32.56				172
+		"YOHANNA, Sleiman (CEC)"	20		10	50.00		10	50.00				20
+		"BARKER, Bee (GRN)"	136		104	76.47		32	23.53				136
+		"DERVISH, D (IND)"	57		29	50.88		28	49.12				57
+		Total	867		2589	63.77		1471	36.23				4060
+
+	Gladstone Views												
+			1st Prefs		1386	64.41		766	35.59				2152
+		"ABBOTTO, John (NGST)"	86		67	77.91		19	22.09				86
+		"THEOPHANOUS, Andrew (IND)"	326		240	73.62		86	26.38				326
+		"BOCHI, Mohamed Walid ()"	8		5	62.50		3	37.50				8
+		"LIVESAY, Robert (DEM)"	100		70	70.00		30	30.00				100
+		"YOHANNA, Sleiman (CEC)"	9		8	88.89		1	11.11				9
+		"BARKER, Bee (GRN)"	53		34	64.15		19	35.85				53
+		"DERVISH, D (IND)"	54		14	25.93		40	74.07				54
+		Total	636		1824	65.42		964	34.58				2788
+
+	Glenroy West												
+			1st Prefs		1362	62.91		803	37.09				2165
+		"ABBOTTO, John (NGST)"	99		82	82.83		17	17.17				99
+		"THEOPHANOUS, Andrew (IND)"	236		155	65.68		81	34.32				236
+		"BOCHI, Mohamed Walid ()"	11		7	63.64		4	36.36				11
+		"LIVESAY, Robert (DEM)"	89		66	74.16		23	25.84				89
+		"YOHANNA, Sleiman (CEC)"	12		2	16.67		10	83.33				12
+		"BARKER, Bee (GRN)"	109		86	78.90		23	21.10				109
+		"DERVISH, D (IND)"	37		21	56.76		16	43.24				37
+		Total	593		1781	64.58		977	35.42				2758
+
+	Greenvale												
+			1st Prefs		1944	51.91		1801	48.09				3745
+		"ABBOTTO, John (NGST)"	129		94	72.87		35	27.13				129
+		"THEOPHANOUS, Andrew (IND)"	354		248	70.06		106	29.94				354
+		"BOCHI, Mohamed Walid ()"	15		13	86.67		2	13.33				15
+		"LIVESAY, Robert (DEM)"	226		150	66.37		76	33.63				226
+		"YOHANNA, Sleiman (CEC)"	11		8	72.73		3	27.27				11
+		"BARKER, Bee (GRN)"	70		43	61.43		27	38.57				70
+		"DERVISH, D (IND)"	48		31	64.58		17	35.42				48
+		Total	853		2531	55.05		2067	44.95				4598
+
+	Jacana												
+			1st Prefs		827	73.91		292	26.09				1119
+		"ABBOTTO, John (NGST)"	54		41	75.93		13	24.07				54
+		"THEOPHANOUS, Andrew (IND)"	156		128	82.05		28	17.95				156
+		"BOCHI, Mohamed Walid ()"	8		6	75.00		2	25.00				8
+		"LIVESAY, Robert (DEM)"	57		44	77.19		13	22.81				57
+		"YOHANNA, Sleiman (CEC)"	10		5	50.00		5	50.00				10
+		"BARKER, Bee (GRN)"	25		18	72.00		7	28.00				25
+		"DERVISH, D (IND)"	30		25	83.33		5	16.67				30
+		Total	340		1094	74.98		365	25.02				1459
+
+	Keilor												
+			1st Prefs		1205	41.70		1685	58.30				2890
+		"ABBOTTO, John (NGST)"	81		23	28.40		58	71.60				81
+		"THEOPHANOUS, Andrew (IND)"	405		242	59.75		163	40.25				405
+		"BOCHI, Mohamed Walid ()"	2		1	50.00		1	50.00				2
+		"LIVESAY, Robert (DEM)"	114		73	64.04		41	35.96				114
+		"YOHANNA, Sleiman (CEC)"	4		2	50.00		2	50.00				4
+		"BARKER, Bee (GRN)"	200		152	76.00		48	24.00				200
+		"DERVISH, D (IND)"	21		10	47.62		11	52.38				21
+		Total	827		1708	45.95		2009	54.05				3717
+
+	Keilor Downs												
+			1st Prefs		1376	66.57		691	33.43				2067
+		"ABBOTTO, John (NGST)"	79		60	75.95		19	24.05				79
+		"THEOPHANOUS, Andrew (IND)"	367		237	64.58		130	35.42				367
+		"BOCHI, Mohamed Walid ()"	18		15	83.33		3	16.67				18
+		"LIVESAY, Robert (DEM)"	153		99	64.71		54	35.29				153
+		"YOHANNA, Sleiman (CEC)"	8		6	75.00		2	25.00				8
+		"BARKER, Bee (GRN)"	80		55	68.75		25	31.25				80
+		"DERVISH, D (IND)"	32		17	53.13		15	46.88				32
+		Total	737		1865	66.51		939	33.49				2804
+
+	Meadow Fair												
+			1st Prefs		718	83.59		141	16.41				859
+		"ABBOTTO, John (NGST)"	39		34	87.18		5	12.82				39
+		"THEOPHANOUS, Andrew (IND)"	124		110	88.71		14	11.29				124
+		"BOCHI, Mohamed Walid ()"	8		5	62.50		3	37.50				8
+		"LIVESAY, Robert (DEM)"	30		22	73.33		8	26.67				30
+		"YOHANNA, Sleiman (CEC)"	8		6	75.00		2	25.00				8
+		"BARKER, Bee (GRN)"	16		11	68.75		5	31.25				16
+		"DERVISH, D (IND)"	72		39	54.17		33	45.83				72
+		Total	297		945	81.75		211	18.25				1156
+
+	Meadow Heights												
+			1st Prefs		2646	84.83		473	15.17				3119
+		"ABBOTTO, John (NGST)"	99		69	69.70		30	30.30				99
+		"THEOPHANOUS, Andrew (IND)"	353		291	82.44		62	17.56				353
+		"BOCHI, Mohamed Walid ()"	61		46	75.41		15	24.59				61
+		"LIVESAY, Robert (DEM)"	127		98	77.17		29	22.83				127
+		"YOHANNA, Sleiman (CEC)"	69		49	71.01		20	28.99				69
+		"BARKER, Bee (GRN)"	87		72	82.76		15	17.24				87
+		"DERVISH, D (IND)"	401		229	57.11		172	42.89				401
+		Total	1197		3500	81.09		816	18.91				4316
+
+	Melbourne (Calwell)												
+			1st Prefs		31	59.62		21	40.38				52
+		"ABBOTTO, John (NGST)"	8		8	100.00		0	0.00				8
+		"THEOPHANOUS, Andrew (IND)"	10		6	60.00		4	40.00				10
+		"BOCHI, Mohamed Walid ()"	1		1	100.00		0	0.00				1
+		"LIVESAY, Robert (DEM)"	8		4	50.00		4	50.00				8
+		"YOHANNA, Sleiman (CEC)"	0		0	0.00		0	0.00				0
+		"BARKER, Bee (GRN)"	5		2	40.00		3	60.00				5
+		"DERVISH, D (IND)"	1		1	100.00		0	0.00				1
+		Total	33		53	62.35		32	37.65				85
+
+	Melbourne Airport												
+			1st Prefs		97	68.79		44	31.21				141
+		"ABBOTTO, John (NGST)"	8		6	75.00		2	25.00				8
+		"THEOPHANOUS, Andrew (IND)"	7		4	57.14		3	42.86				7
+		"BOCHI, Mohamed Walid ()"	1		1	100.00		0	0.00				1
+		"LIVESAY, Robert (DEM)"	8		7	87.50		1	12.50				8
+		"YOHANNA, Sleiman (CEC)"	0		0	0.00		0	0.00				0
+		"BARKER, Bee (GRN)"	4		1	25.00		3	75.00				4
+		"DERVISH, D (IND)"	1		1	100.00		0	0.00				1
+		Total	29		117	68.82		53	31.18				170
+
+	Monmia												
+			1st Prefs		2234	73.34		812	26.66				3046
+		"ABBOTTO, John (NGST)"	137		108	78.83		29	21.17				137
+		"THEOPHANOUS, Andrew (IND)"	451		304	67.41		147	32.59				451
+		"BOCHI, Mohamed Walid ()"	21		16	76.19		5	23.81				21
+		"LIVESAY, Robert (DEM)"	137		79	57.66		58	42.34				137
+		"YOHANNA, Sleiman (CEC)"	9		5	55.56		4	44.44				9
+		"BARKER, Bee (GRN)"	62		44	70.97		18	29.03				62
+		"DERVISH, D (IND)"	42		32	76.19		10	23.81				42
+		Total	859		2822	72.27		1083	27.73				3905
+
+	Oak Park												
+			1st Prefs		832	55.99		654	44.01				1486
+		"ABBOTTO, John (NGST)"	44		35	79.55		9	20.45				44
+		"THEOPHANOUS, Andrew (IND)"	193		115	59.59		78	40.41				193
+		"BOCHI, Mohamed Walid ()"	7		6	85.71		1	14.29				7
+		"LIVESAY, Robert (DEM)"	66		41	62.12		25	37.88				66
+		"YOHANNA, Sleiman (CEC)"	3		1	33.33		2	66.67				3
+		"BARKER, Bee (GRN)"	61		51	83.61		10	16.39				61
+		"DERVISH, D (IND)"	55		11	20.00		44	80.00				55
+		Total	429		1092	57.02		823	42.98				1915
+
+	Roxburgh Park (Calwell)												
+			1st Prefs		1493	73.26		545	26.74				2038
+		"ABBOTTO, John (NGST)"	73		62	84.93		11	15.07				73
+		"THEOPHANOUS, Andrew (IND)"	265		222	83.77		43	16.23				265
+		"BOCHI, Mohamed Walid ()"	22		19	86.36		3	13.64				22
+		"LIVESAY, Robert (DEM)"	96		67	69.79		29	30.21				96
+		"YOHANNA, Sleiman (CEC)"	18		9	50.00		9	50.00				18
+		"BARKER, Bee (GRN)"	52		42	80.77		10	19.23				52
+		"DERVISH, D (IND)"	77		43	55.84		34	44.16				77
+		Total	603		1957	74.10		684	25.90				2641
+
+	Sydenham												
+			1st Prefs		2947	63.71		1679	36.29				4626
+		"ABBOTTO, John (NGST)"	194		163	84.02		31	15.98				194
+		"THEOPHANOUS, Andrew (IND)"	702		445	63.39		257	36.61				702
+		"BOCHI, Mohamed Walid ()"	27		25	92.59		2	7.41				27
+		"LIVESAY, Robert (DEM)"	305		215	70.49		90	29.51				305
+		"YOHANNA, Sleiman (CEC)"	11		7	63.64		4	36.36				11
+		"BARKER, Bee (GRN)"	173		131	75.72		42	24.28				173
+		"DERVISH, D (IND)"	64		22	34.38		42	65.63				64
+		Total	1476		3955	64.81		2147	35.19				6102
+
+	Sydenham East												
+			1st Prefs		550	67.48		265	32.52				815
+		"ABBOTTO, John (NGST)"	30		24	80.00		6	20.00				30
+		"THEOPHANOUS, Andrew (IND)"	157		94	59.87		63	40.13				157
+		"BOCHI, Mohamed Walid ()"	1		0	0.00		1	100.00				1
+		"LIVESAY, Robert (DEM)"	33		25	75.76		8	24.24				33
+		"YOHANNA, Sleiman (CEC)"	1		0	0.00		1	100.00				1
+		"BARKER, Bee (GRN)"	11		7	63.64		4	36.36				11
+		"DERVISH, D (IND)"	23		7	30.43		16	69.57				23
+		Total	256		707	66.01		364	33.99				1071
+
+	Taylors Lakes												
+			1st Prefs		2560	59.38		1751	40.62				4311
+		"ABBOTTO, John (NGST)"	160		120	75.00		40	25.00				160
+		"THEOPHANOUS, Andrew (IND)"	688		426	61.92		262	38.08				688
+		"BOCHI, Mohamed Walid ()"	17		13	76.47		4	23.53				17
+		"LIVESAY, Robert (DEM)"	339		231	68.14		108	31.86				339
+		"YOHANNA, Sleiman (CEC)"	11		7	63.64		4	36.36				11
+		"BARKER, Bee (GRN)"	118		88	74.58		30	25.42				118
+		"DERVISH, D (IND)"	45		27	60.00		18	40.00				45
+		Total	1378		3472	61.03		2217	38.97				5689
+
+	Taylors Lakes North												
+			1st Prefs		875	61.62		545	38.38				1420
+		"ABBOTTO, John (NGST)"	46		39	84.78		7	15.22				46
+		"THEOPHANOUS, Andrew (IND)"	233		141	60.52		92	39.48				233
+		"BOCHI, Mohamed Walid ()"	7		4	57.14		3	42.86				7
+		"LIVESAY, Robert (DEM)"	70		47	67.14		23	32.86				70
+		"YOHANNA, Sleiman (CEC)"	5		3	60.00		2	40.00				5
+		"BARKER, Bee (GRN)"	28		17	60.71		11	39.29				28
+		"DERVISH, D (IND)"	13		6	46.15		7	53.85				13
+		Total	402		1132	62.13		690	37.87				1822
+
+	Tullamarine												
+			1st Prefs		1886	64.79		1025	35.21				2911
+		"ABBOTTO, John (NGST)"	154		119	77.27		35	22.73				154
+		"THEOPHANOUS, Andrew (IND)"	322		227	70.50		95	29.50				322
+		"BOCHI, Mohamed Walid ()"	8		7	87.50		1	12.50				8
+		"LIVESAY, Robert (DEM)"	123		77	62.60		46	37.40				123
+		"YOHANNA, Sleiman (CEC)"	9		7	77.78		2	22.22				9
+		"BARKER, Bee (GRN)"	90		68	75.56		22	24.44				90
+		"DERVISH, D (IND)"	38		13	34.21		25	65.79				38
+		Total	744		2404	65.77		1251	34.23				3655
+
+	Upfield												
+			1st Prefs		1050	84.68		190	15.32				1240
+		"ABBOTTO, John (NGST)"	41		36	87.80		5	12.20				41
+		"THEOPHANOUS, Andrew (IND)"	115		94	81.74		21	18.26				115
+		"BOCHI, Mohamed Walid ()"	19		17	89.47		2	10.53				19
+		"LIVESAY, Robert (DEM)"	37		29	78.38		8	21.62				37
+		"YOHANNA, Sleiman (CEC)"	6		4	66.67		2	33.33				6
+		"BARKER, Bee (GRN)"	29		19	65.52		10	34.48				29
+		"DERVISH, D (IND)"	152		96	63.16		56	36.84				152
+		Total	399		1345	82.06		294	17.94				1639
+
+	Westmeadows												
+			1st Prefs		1723	66.40		872	33.60				2595
+		"ABBOTTO, John (NGST)"	124		98	79.03		26	20.97				124
+		"THEOPHANOUS, Andrew (IND)"	285		242	84.91		43	15.09				285
+		"BOCHI, Mohamed Walid ()"	17		11	64.71		6	35.29				17
+		"LIVESAY, Robert (DEM)"	114		79	69.30		35	30.70				114
+		"YOHANNA, Sleiman (CEC)"	14		11	78.57		3	21.43				14
+		"BARKER, Bee (GRN)"	79		66	83.54		13	16.46				79
+		"DERVISH, D (IND)"	63		24	38.10		39	61.90				63
+		Total	696		2254	68.49		1037	31.51				3291
+
+	Total Ordinary												
+			1st Prefs		40093	68.03		18839	31.97				58932
+		"ABBOTTO, John (NGST)"	2376		1815	76.39		561	23.61				2376
+		"THEOPHANOUS, Andrew (IND)"	7681		5404	70.36		2277	29.64				7681
+		"BOCHI, Mohamed Walid ()"	474		378	79.75		96	20.25				474
+		"LIVESAY, Robert (DEM)"	2797		1899	67.89		898	32.11				2797
+		"YOHANNA, Sleiman (CEC)"	400		235	58.75		165	41.25				400
+		"BARKER, Bee (GRN)"	1759		1299	73.85		460	26.15				1759
+		"DERVISH, D (IND)"	1825		974	53.37		851	46.63				1825
+		Total	17312		52097	68.33		24147	31.67				76244
+
+	ABSENT												
+			1st Prefs		2218	63.39		1281	36.61				3499
+		"ABBOTTO, John (NGST)"	416		319	76.68		97	23.32				416
+		"THEOPHANOUS, Andrew (IND)"	287		200	69.69		87	30.31				287
+		"BOCHI, Mohamed Walid ()"	40		32	80.00		8	20.00				40
+		"LIVESAY, Robert (DEM)"	302		218	72.19		84	27.81				302
+		"YOHANNA, Sleiman (CEC)"	29		16	55.17		13	44.83				29
+		"BARKER, Bee (GRN)"	200		134	67.00		66	33.00				200
+		"DERVISH, D (IND)"	66		46	69.70		20	30.30				66
+		Total	1340		3183	65.78		1656	34.22				4839
+
+	POSTAL												
+			1st Prefs		939	55.86		742	44.14				1681
+		"ABBOTTO, John (NGST)"	73		62	84.93		11	15.07				73
+		"THEOPHANOUS, Andrew (IND)"	106		69	65.09		37	34.91				106
+		"BOCHI, Mohamed Walid ()"	14		12	85.71		2	14.29				14
+		"LIVESAY, Robert (DEM)"	99		74	74.75		25	25.25				99
+		"YOHANNA, Sleiman (CEC)"	8		2	25.00		6	75.00				8
+		"BARKER, Bee (GRN)"	35		20	57.14		15	42.86				35
+		"DERVISH, D (IND)"	28		13	46.43		15	53.57				28
+		Total	363		1191	58.27		853	41.73				2044
+
+	PRE_POLL												
+			1st Prefs		1597	60.52		1042	39.48				2639
+		"ABBOTTO, John (NGST)"	165		117	70.91		48	29.09				165
+		"THEOPHANOUS, Andrew (IND)"	253		158	62.45		95	37.55				253
+		"BOCHI, Mohamed Walid ()"	20		15	75.00		5	25.00				20
+		"LIVESAY, Robert (DEM)"	141		94	66.67		47	33.33				141
+		"YOHANNA, Sleiman (CEC)"	5		2	40.00		3	60.00				5
+		"BARKER, Bee (GRN)"	86		64	74.42		22	25.58				86
+		"DERVISH, D (IND)"	66		36	54.55		30	45.45				66
+		Total	736		2083	61.72		1292	38.28				3375
+
+	PROVISIONAL												
+			1st Prefs		356	75.42		116	24.58				472
+		"ABBOTTO, John (NGST)"	44		30	68.18		14	31.82				44
+		"THEOPHANOUS, Andrew (IND)"	65		44	67.69		21	32.31				65
+		"BOCHI, Mohamed Walid ()"	7		5	71.43		2	28.57				7
+		"LIVESAY, Robert (DEM)"	17		11	64.71		6	35.29				17
+		"YOHANNA, Sleiman (CEC)"	23		9	39.13		14	60.87				23
+		"BARKER, Bee (GRN)"	25		23	92.00		2	8.00				25
+		"DERVISH, D (IND)"	18		12	66.67		6	33.33				18
+		Total	199		490	73.03		181	26.97				671
+
+	Division Summary												
+			1st Prefs		45203	67.24		22020	32.76				67223
+		"ABBOTTO, John (NGST)"	3074		2343	76.22		731	23.78				3074
+		"THEOPHANOUS, Andrew (IND)"	8392		5875	70.01		2517	29.99				8392	
+		"BOCHI, Mohamed Walid ()"	555		442	79.64		113	20.36				555	
+		"LIVESAY, Robert (DEM)"	3356		2296	68.41		1060	31.59				3356	
+		"YOHANNA, Sleiman (CEC)"	465		264	56.77		201	43.23				465	
+		"BARKER, Bee (GRN)"	2105		1540	73.16		565	26.84				2105	
+		"DERVISH, D (IND)"	2003		1081	53.97		922	46.03				2003	
+		Total	19950		59044	67.73		28129	32.27				87173	

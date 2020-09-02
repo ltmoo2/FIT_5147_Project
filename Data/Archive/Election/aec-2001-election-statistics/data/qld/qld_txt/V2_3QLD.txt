@@ -1,0 +1,472 @@
+House of Representatives - 2001 Election: Queensland																																								
+Distribution of Preferences																																								
+By Division																																								
+																																								
+																																								
+																																								
+Blair																																								
+				KYSON			THOMPSON			MCKENZIE			TURNER			RYAN			WENDT			JOHNSTON			COSGROVE															
+				Phil			Cameron P			Neal R			Gary			Dan			Wayne			Selwyn			Lindsay David															
+				(GRN)			(LP)			(DEM)			(HAN)			(IND)			(ALP)			(IND)			(CEC)															
+Count			Votes	%		Votes	%		Votes	%		Votes	%		Votes	%		Votes	%		Votes	%		Votes	%		Total													
+FIRST			2273	3.26		31933	45.87		2284	3.28		10467	15.03		921	1.32		19397	27.86		2131	3.06		215	0.31		69621													
+SECOND			32	14.88		15	6.98		13	6.05		21	9.77		17	7.91		29	13.49		88	40.93			Excluded		215													
+	TOTAL		2305	3.31		31948	45.89		2297	3.30		10488	15.06		938	1.35		19426	27.90		2219	3.19					69621													
+THIRD			85	9.06		96	10.23		47	5.01		167	17.80			Excluded		129	13.75		414	44.14					938													
+	TOTAL		2390	3.43		32044	46.03		2344	3.37		10655	15.30					19555	28.09		2633	3.78					69621													
+FOURTH			926	39.51		423	18.05			Excluded		235	10.03					512	21.84		248	10.58					2344													
+	TOTAL		3316	4.76		32467	46.63					10890	15.64					20067	28.82		2881	4.14					69621													
+FIFTH			607	21.07		547	18.99					1182	41.03					545	18.92			Excluded					2881													
+	TOTAL		3923	5.63		33014	47.42					12072	17.34					20612	29.61								69621													
+SIXTH				Excluded		1603	40.86					690	17.59					1630	41.55								3923													
+	TOTAL					34617	49.72					12762	18.33					22242	31.95								69621													
+SEVENTH						6110	47.88						Excluded					6652	52.12								12762													
+	TOTAL					40727	58.50											28894	41.50								69621													
+							Elected																																	
+																																								
+Bowman																																								
+				LAMING			MYATT			SMITH			SMITH			SCIACCA																								
+				Andrew			Barry Robert			Fay Mary			Chad			Con																								
+				(LP)			(HAN)			(GRN)			(DEM)			(ALP)																								
+Count			Votes	%		Votes	%		Votes	%		Votes	%		Votes	%		Total																						
+FIRST			34121	43.06		3862	4.87		2164	2.73		3873	4.89		35213	44.44		79233																						
+SECOND			275	12.71		226	10.44			Excluded		1061	49.03		602	27.82		2164																						
+	TOTAL		34396	43.41		4088	5.16					4934	6.23		35815	45.20		79233																						
+THIRD			2054	50.24			Excluded					964	23.58		1070	26.17		4088																						
+	TOTAL		36450	46.00								5898	7.44		36885	46.55		79233																						
+FOURTH			2041	34.60									Excluded		3857	65.40		5898																						
+	TOTAL		38491	48.58											40742	51.42		79233																						
+																Elected																								
+																																								
+Brisbane																																								
+				MONSOUR			JANSEN			NIELSEN			LAVELLE			EKERT			DEWAR			BEVIS																		
+				Seb			P R			Richard			Ashley			Sue			Damian			Arch																		
+				(LP)			(HAN)			(GRN)						(NP)			(DEM)			(ALP)																		
+Count			Votes	%		Votes	%		Votes	%		Votes	%		Votes	%		Votes	%		Votes	%		Total																
+FIRST			33704	39.32		1878	2.19		6702	7.82		864	1.01		1863	2.17		7947	9.27		32770	38.23		85728																
+SECOND			59	6.83		56	6.48		490	56.71			Excluded		47	5.44		107	12.38		105	12.15		864																
+	TOTAL		33763	39.38		1934	2.26		7192	8.39					1910	2.23		8054	9.39		32875	38.35		85728																
+THIRD			1484	77.70		71	3.72		88	4.61						Excluded		148	7.75		119	6.23		1910																
+	TOTAL		35247	41.11		2005	2.34		7280	8.49								8202	9.57		32994	38.49		85728																
+FOURTH			901	44.94			Excluded		473	23.59								233	11.62		398	19.85		2005																
+	TOTAL		36148	42.17					7753	9.04								8435	9.84		33392	38.95		85728																
+FIFTH			849	10.95						Excluded								4685	60.43		2219	28.62		7753																
+	TOTAL		36997	43.16														13120	15.30		35611	41.54		85728																
+SIXTH			3183	24.26															Excluded		9937	75.74		13120																
+	TOTAL		40180	46.87																	45548	53.13		85728																
+																						Elected																		
+																																								
+Capricornia																																								
+				GILLHAM			CLARKE			LEVER			SCHUBACK			MURPHY			JOHNS			TAYLOR			MUIR			LIVERMORE												
+				Ray			Herb			John			Peter			John Joseph			Naomi			Lea			Bob			Kirsten												
+				(CEC)			(HAN)			(NP)			(IND)			(IND)			(DEM)			(LP)			(GRN)			(ALP)												
+Count			Votes	%		Votes	%		Votes	%		Votes	%		Votes	%		Votes	%		Votes	%		Votes	%		Votes	%		Total										
+FIRST			476	0.64		5364	7.18		15889	21.26		512	0.69		343	0.46		1334	1.79		13159	17.61		1068	1.43		36580	48.95		74725										
+SECOND			18	5.25		27	7.87		52	15.16		118	34.40			Excluded		34	9.91		30	8.75		21	6.12		43	12.54		343										
+	TOTAL		494	0.66		5391	7.21		15941	21.33		630	0.84					1368	1.83		13189	17.65		1089	1.46		36623	49.01		74725										
+THIRD				Excluded		311	62.96		72	14.57		33	6.68					8	1.62		13	2.63		12	2.43		45	9.11		494										
+	TOTAL					5702	7.63		16013	21.43		663	0.89					1376	1.84		13202	17.67		1101	1.47		36668	49.07		74725										
+FOURTH						183	27.60		145	21.87			Excluded					113	17.04		53	7.99		67	10.11		102	15.38		663										
+	TOTAL					5885	7.88		16158	21.62								1489	1.99		13255	17.74		1168	1.56		36770	49.21		74725										
+FIFTH						106	9.08		113	9.67								380	32.53		117	10.02			Excluded		452	38.70		1168										
+	TOTAL					5991	8.02		16271	21.77								1869	2.50		13372	17.89					37222	49.81		74725										
+SIXTH						211	11.29		339	18.14									Excluded		268	14.34					1051	56.23		1869										
+	TOTAL					6202	8.30		16610	22.23											13640	18.25					38273	51.22		74725										
+SEVENTH							Excluded		2571	41.45											1863	30.04					1768	28.51		6202										
+	TOTAL								19181	25.67											15503	20.75					40041	53.58		74725										
+EIGHTH									13052	84.19												Excluded					2451	15.81		15503										
+	TOTAL								32233	43.14																	42492	56.86		74725										
+																												Elected												
+																																								
+Dawson																																								
+				PUKALLUS			JONES			KELLY			FEENEY			ELLUL			OFFIELD			ROBINSON																		
+				Jan			Barry			De-Anne			Cherry			Andrew Bernard			Karen			Rob																		
+				(CEC)			(GRN)			(NP)			(ALP)			(IND)			(DEM)			(HAN)																		
+Count			Votes	%		Votes	%		Votes	%		Votes	%		Votes	%		Votes	%		Votes	%		Total																
+FIRST			692	0.87		1940	2.45		39827	50.22		26782	33.77		1050	1.32		2195	2.77		6814	8.59		79300																
+SECOND				Excluded		370	53.47		124	17.92		63	9.10		43	6.21		29	4.19		63	9.10		692																
+	TOTAL					2310	2.91		39951	50.38		26845	33.85		1093	1.38		2224	2.80		6877	8.67		79300																
+THIRD						186	17.02		250	22.87		201	18.39			Excluded		239	21.87		217	19.85		1093																
+	TOTAL					2496	3.15		40201	50.69		27046	34.11					2463	3.11		7094	8.95		79300																
+FOURTH						931	37.80		519	21.07		667	27.08						Excluded		346	14.05		2463																
+	TOTAL					3427	4.32		40720	51.35		27713	34.95								7440	9.38		79300																
+FIFTH							Excluded		1386	40.44		1509	44.03								532	15.52		3427																
+	TOTAL								42106	53.10		29222	36.85								7972	10.05		79300																
+SIXTH									3881	48.68		4091	51.32									Excluded		7972																
+	TOTAL								45987	57.99		33313	42.01											79300																
+										Elected																														
+																																								
+Dickson																																								
+				HYLAND			KERNOT			TURNER			DUTTON			KIMLIN			WHITNEY			KRAMER			KESSELS			BARNES												
+				Terry			Cheryl			Shayne			Peter			Gary			Wayne			Paul			Colin			J F												
+				(IND)			(ALP)			(DEM)			(LP)			(ORP)			(HAN)			(GRN)			(IND)			(IND)												
+Count			Votes	%		Votes	%		Votes	%		Votes	%		Votes	%		Votes	%		Votes	%		Votes	%		Votes	%		Total										
+FIRST			1220	1.53		26557	33.26		4296	5.38		36390	45.58		485	0.61		2575	3.23		2812	3.52		5203	6.52		305	0.38		79843										
+SECOND			49	16.07		12	3.93		8	2.62		15	4.92		6	1.97		5	1.64		26	8.52		184	60.33			Excluded		305										
+	TOTAL		1269	1.59		26569	33.28		4304	5.39		36405	45.60		491	0.61		2580	3.23		2838	3.55		5387	6.75					79843										
+THIRD			57	11.61		49	9.98		34	6.92		69	14.05			Excluded		72	14.66		107	21.79		103	20.98					491										
+	TOTAL		1326	1.66		26618	33.34		4338	5.43		36474	45.68					2652	3.32		2945	3.69		5490	6.88					79843										
+FOURTH				Excluded		394	29.71		201	15.16		165	12.44					91	6.86		102	7.69		373	28.13					1326										
+	TOTAL					27012	33.83		4539	5.68		36639	45.89					2743	3.44		3047	3.82		5863	7.34					79843										
+FIFTH						414	15.09		182	6.64		725	26.43						Excluded		420	15.31		1002	36.53					2743										
+	TOTAL					27426	34.35		4721	5.91		37364	46.80								3467	4.34		6865	8.60					79843										
+SIXTH						831	23.97		962	27.75		433	12.49									Excluded		1241	35.79					3467										
+	TOTAL					28257	35.39		5683	7.12		37797	47.34											8106	10.15					79843										
+SEVENTH						2705	47.60			Excluded		1289	22.68											1689	29.72					5683										
+	TOTAL					30962	38.78					39086	48.95											9795	12.27					79843										
+EIGHTH						4193	42.81					5602	57.19												Excluded					9795										
+	TOTAL					35155	44.03					44688	55.97																	79843										
+													Elected																											
+																																								
+Fadden																																								
+				MERLEHAN			WOOLFORD			JULL			COTTER			COYLE																								
+				Ray			Julian			David Francis			Neil			Chris																								
+				(ALP)			(GRN)			(LP)			(DEM)			(HAN)																								
+Count			Votes	%		Votes	%		Votes	%		Votes	%		Votes	%		Total																						
+FIRST			23434	30.51		2305	3.00		42856	55.80		3308	4.31		4897	6.38		76800																						
+SECOND			692	30.02			Excluded		431	18.70		959	41.61		223	9.67		2305																						
+	TOTAL		24126	31.41					43287	56.36		4267	5.56		5120	6.67		76800																						
+THIRD			2234	52.36					1391	32.60			Excluded		642	15.05		4267																						
+	TOTAL		26360	34.32					44678	58.17					5762	7.50		76800																						
+FOURTH			2602	45.16					3160	54.84						Excluded		5762																						
+	TOTAL		28962	37.71					47838	62.29								76800																						
+										Elected																														
+																																								
+Fairfax																																								
+				SOMLYAY			JACKSON			MACKELLAR			RINGROSE			HENDERSON			PAULGER																					
+				Alex			Karen			Jim			Joy			John			Shane Peter Stanley																					
+				(LP)			(DEM)			(HAN)			(GRN)			(ALP)			(IND)																					
+Count			Votes	%		Votes	%		Votes	%		Votes	%		Votes	%		Votes	%		Total																			
+FIRST			35868	47.05		3670	4.81		6281	8.24		3791	4.97		19101	25.06		7519	9.86		76230																			
+SECOND			580	15.80			Excluded		210	5.72		1646	44.85		773	21.06		461	12.56		3670																			
+	TOTAL		36448	47.81					6491	8.52		5437	7.13		19874	26.07		7980	10.47		76230																			
+THIRD			666	12.25					307	5.65			Excluded		2298	42.27		2166	39.84		5437																			
+	TOTAL		37114	48.69					6798	8.92					22172	29.09		10146	13.31		76230																			
+FOURTH			1681	24.73						Excluded					1118	16.45		3999	58.83		6798																			
+	TOTAL		38795	50.89											23290	30.55		14145	18.56		76230																			
+FIFTH			6340	44.82											7805	55.18			Excluded		14145																			
+	TOTAL		45135	59.21											31095	40.79					76230																			
+				Elected																																				
+																																								
+Fisher																																								
+				TANNOCK			ARMSTRONG			O'DONNELL			MCLEOD			SLIPPER			HOURIGAN																					
+				Bruce			Geoff			Ray			Tony			Peter			Ros																					
+				(HAN)			(DEM)			(ALP)			(GRN)			(LP)			(IND)																					
+Count			Votes	%		Votes	%		Votes	%		Votes	%		Votes	%		Votes	%		Total																			
+FIRST			5838	7.55		2872	3.71		19406	25.10		3032	3.92		40173	51.95		6002	7.76		77323																			
+SECOND			211	7.35			Excluded		715	24.90		1085	37.78		447	15.56		414	14.42		2872																			
+	TOTAL		6049	7.82					20121	26.02		4117	5.32		40620	52.53		6416	8.30		77323																			
+THIRD			282	6.85					1838	44.64			Excluded		606	14.72		1391	33.79		4117																			
+	TOTAL		6331	8.19					21959	28.40					41226	53.32		7807	10.10		77323																			
+FOURTH				Excluded					2675	42.25					1552	24.51		2104	33.23		6331																			
+	TOTAL								24634	31.86					42778	55.32		9911	12.82		77323																			
+FIFTH									4701	47.43					5210	52.57			Excluded		9911																			
+	TOTAL								29335	37.94					47988	62.06					77323																			
+																Elected																								
+																																								
+Forde																																								
+				SMITH			ELSON			DICKSON			NGAHOORO			CLYNE																								
+				Val			Kay			Alan			Alice			Rose																								
+				(ALP)			(LP)			(DEM)			(HAN)			(GRN)																								
+Count			Votes	%		Votes	%		Votes	%		Votes	%		Votes	%		Total																						
+FIRST			25424	33.00		38263	49.67		3620	4.70		7372	9.57		2363	3.07		77042																						
+SECOND			582	24.63		357	15.11		988	41.81		436	18.45			Excluded		2363																						
+	TOTAL		26006	33.76		38620	50.13		4608	5.98		7808	10.13					77042																						
+THIRD			2408	52.26		1426	30.95			Excluded		774	16.80					4608																						
+	TOTAL		28414	36.88		40046	51.98					8582	11.14					77042																						
+FOURTH			4421	51.51		4161	48.49						Excluded					8582																						
+	TOTAL		32835	42.62		44207	57.38											77042																						
+							Elected																																	
+																																								
+Griffith																																								
+				ROOKE			MCMAHON			WILSON			VASTA			RENDELL			GRAHAM			RUDD																		
+				Joseph			Edmund Gavin			Rob			Ross			David			Ann			Kevin																		
+							(HAN)			(GRN)			(LP)			(DEM)			(NP)			(ALP)																		
+Count			Votes	%		Votes	%		Votes	%		Votes	%		Votes	%		Votes	%		Votes	%		Total																
+FIRST			547	0.65		2220	2.65		2671	3.19		32249	38.48		3829	4.57		1591	1.90		40707	48.57		83814																
+SECOND				Excluded		235	42.96		115	21.02		55	10.05		60	10.97		27	4.94		55	10.05		547																
+	TOTAL					2455	2.93		2786	3.32		32304	38.54		3889	4.64		1618	1.93		40762	48.63		83814																
+THIRD						83	5.13		64	3.96		1218	75.28		95	5.87			Excluded		158	9.77		1618																
+	TOTAL					2538	3.03		2850	3.40		33522	40.00		3984	4.75					40920	48.82		83814																
+FOURTH							Excluded		871	34.32		880	34.67		207	8.16					580	22.85		2538																
+	TOTAL								3721	4.44		34402	41.05		4191	5.00					41500	49.51		83814																
+FIFTH										Excluded		786	21.12		1763	47.38					1172	31.50		3721															
+	TOTAL											35188	41.98		5954	7.10					42672	50.91		83814															
+SIXTH												1972	33.12			Excluded					3982	66.88		5954															
+	TOTAL											37160	44.34								46654	55.66		83814															
+																						Elected																	
+																																							
+Groom																																							
+				KANE			WUERSCHING			HOY			MACFARLANE			KING			BERRY			EYRES																	
+				Michael			Barbara			David			Ian			Leeann			Rob			Stephen																	
+				(GRN)			(NP)			(HAN)			(LP)			(ALP)			(IND)			(DEM)																	
+Count			Votes	%		Votes	%		Votes	%		Votes	%		Votes	%		Votes	%		Votes	%		Total															
+FIRST			2774	3.55		8563	10.97		6958	8.92		36573	46.86		18467	23.66		2192	2.81		2521	3.23		78048															
+SECOND			272	12.41		310	14.14		519	23.68		298	13.59		381	17.38			Excluded		412	18.80		2192															
+	TOTAL		3046	3.90		8873	11.37		7477	9.58		36871	47.24		18848	24.15					2933	3.76		78048															
+THIRD			1216	41.46		251	8.56		228	7.77		433	14.76		805	27.45						Excluded		2933															
+	TOTAL		4262	5.46		9124	11.69		7705	9.87		37304	47.80		19653	25.18								78048															
+FOURTH				Excluded		1002	23.51		588	13.80		707	16.59		1965	46.11								4262																
+	TOTAL					10126	12.97		8293	10.63		38011	48.70		21618	27.70								78048																
+FIFTH						3232	38.97			Excluded		2122	25.59		2939	35.44								8293																
+	TOTAL					13358	17.12					40133	51.42		24557	31.46								78048																
+SIXTH							Excluded					10669	79.87		2689	20.13								13358																
+	TOTAL											50802	65.09		27246	34.91								78048																
+													Elected																											
+																																								
+Herbert																																								
+				WEIL			HOOLIHAN			BOWN			HILL			LINDSAY			GODDARD																					
+				Anthony John			Richard			Conway			Jenny			Peter			Anne																					
+				(HAN)			(DEM)			(IND)			(ALP)			(LP)			(GRN)																					
+Count			Votes	%		Votes	%		Votes	%		Votes	%		Votes	%		Votes	%		Total																			
+FIRST			5827	7.08		2494	3.03		6473	7.87		29897	36.35		35349	42.98		2205	2.68		82245																			
+SECOND			160	7.26		775	35.15		396	17.96		604	27.39		270	12.24			Excluded		2205																			
+	TOTAL		5987	7.28		3269	3.97		6869	8.35		30501	37.09		35619	43.31					82245																			
+THIRD			258	7.89			Excluded		944	28.88		1620	49.56		447	13.67					3269																		
+	TOTAL		6245	7.59					7813	9.50		32121	39.06		36066	43.85					82245																		
+FOURTH				Excluded					3678	58.90		1168	18.70		1399	22.40					6245																		
+	TOTAL								11491	13.97		33289	40.48		37465	45.55					82245																		
+FIFTH										Excluded		6501	56.57		4990	43.43					11491																		
+	TOTAL											39790	48.38		42455	51.62					82245																		
+																Elected																							
+																																							
+Hinkler																																							
+				BATES			MELVILLE			WHITE			DORRON			NEVILLE			JANKE																				
+				Theresa			Peter			Lisa			Cheryl			Paul			Martin																				
+				(GRN)			(IND)			(DEM)			(ALP)			(NP)			(HAN)																				
+Count			Votes	%		Votes	%		Votes	%		Votes	%		Votes	%		Votes	%		Total																		
+FIRST			1904	2.55		7147	9.57		1393	1.86		28483	38.12		29231	39.12		6562	8.78		74720																		
+SECOND			392	28.14		337	24.19			Excluded		398	28.57		177	12.71		89	6.39		1393																		
+	TOTAL		2296	3.07		7484	10.02					28881	38.65		29408	39.36		6651	8.90		74720																		
+THIRD				Excluded		1089	47.43					749	32.62		246	10.71		212	9.23		2296																			
+	TOTAL					8573	11.47					29630	39.65		29654	39.69		6863	9.18		74720																			
+FOURTH						3496	50.94					1406	20.49		1961	28.57			Excluded		6863																			
+	TOTAL					12069	16.15					31036	41.54		31615	42.31					74720																			
+FIFTH							Excluded					6292	52.13		5777	47.87					12069																			
+	TOTAL											37328	49.96		37392	50.04					74720																			
+																Elected																								
+																																								
+Kennedy																																								
+				WALL			RIVAS			NEILAN			LYLE			HARRIS			KATTER			BURNETT																		
+				Jo			Cherie			Alan			Mary			Judith			Bob			Jerry																		
+				(DEM)			(GRN)			(ALP)			(NP)			(CEC)			(IND)			(HAN)																		
+Count			Votes	%		Votes	%		Votes	%		Votes	%		Votes	%		Votes	%		Votes	%		Total																
+FIRST			2307	3.06		1601	2.12		17613	23.33		10718	14.20		229	0.30		35555	47.10		7460	9.88		75483																
+SECOND			25	10.92		24	10.48		22	9.61		57	24.89			Excluded		72	31.44		29	12.66		229																
+	TOTAL		2332	3.09		1625	2.15		17635	23.36		10775	14.27					35627	47.20		7489	9.92		75483																
+THIRD			728	44.80			Excluded		413	25.42		131	8.06					238	14.65		115	7.08		1625																
+	TOTAL		3060	4.05					18048	23.91		10906	14.45					35865	47.51		7604	10.07		75483																
+FOURTH				Excluded					1705	55.72		578	18.89					575	18.79		202	6.60		3060																
+	TOTAL								19753	26.17		11484	15.21					36440	48.28		7806	10.34		75483																
+FIFTH									984	12.61		815	10.44					6007	76.95			Excluded		7806																
+	TOTAL								20737	27.47		12299	16.29					42447	56.23					75483																
+SIXTH									2144	17.43			Excluded					10155	82.57					12299																
+	TOTAL								22881	30.31								52602	69.69					75483																
+																			Elected																					
+																																								
+Leichhardt																																								
+				EAST			ENTSCH			TREZISE			METCALFE			PUGH			SALIER																					
+				Thomas James			Warren			Matt			Jonathan			Rata Hami			Harold																					
+				(HAN)			(LP)			(ALP)			(GRN)			(IND)			(DEM)																					
+Count			Votes	%		Votes	%		Votes	%		Votes	%		Votes	%		Votes	%		Total																			
+FIRST			6324	8.51		36215	48.76		24636	33.17		3890	5.24		561	0.76		2643	3.56		74269																			
+SECOND			101	18.00		106	18.89		80	14.26		156	27.81			Excluded		118	21.03		561																			
+	TOTAL		6425	8.65		36321	48.90		24716	33.28		4046	5.45					2761	3.72		74269																			
+THIRD			197	7.14		444	16.08		706	25.57		1414	51.21						Excluded		2761																			
+	TOTAL		6622	8.92		36765	49.50		25422	34.23		5460	7.35								74269																			
+FOURTH			620	11.36		1147	21.01		3693	67.64			Excluded								5460																			
+	TOTAL		7242	9.75		37912	51.05		29115	39.20											74269																			
+FIFTH				Excluded		3972	54.85		3270	45.15											7242																			
+	TOTAL					41884	56.39		32385	43.61											74269																			
+							Elected																																	
+																																								
+Lilley																																								
+				MCDONOUGH			ROSS			BOCQUEE			MEEHAN			SWAN																								
+				Rod			David			Pierre			Sue			Wayne																								
+				(DEM)			(LP)			(HAN)			(GRN)			(ALP)																								
+Count			Votes	%		Votes	%		Votes	%		Votes	%		Votes	%		Total																						
+FIRST			4565	5.70		31855	39.79		2914	3.64		3011	3.76		37713	47.11		80058																						
+SECOND			365	12.53		1298	44.54			Excluded		565	19.39		686	23.54		2914																						
+	TOTAL		4930	6.16		33153	41.41					3576	4.47		38399	47.96		80058																						
+THIRD			1782	49.83		516	14.43						Excluded		1278	35.74		3576																						
+	TOTAL		6712	8.38		33669	42.06								39677	49.56		80058																						
+FOURTH				Excluded		2490	37.10								4222	62.90		6712																						
+	TOTAL					36159	45.17								43899	54.83		80058																						
+																Elected																								
+																																								
+Longman																																								
+				BECKETT			SCOPES			PATRICK			BROUGH			HALLAM			HARDWICK			BOWDEN																		
+				Stephen			Eve			Bronwyn			Mal			Brian			Leslie Vernon			Bert																		
+				(ALP)			(GRN)			(DEM)			(LP)			(IND)			(CEC)			(HAN)																		
+Count			Votes	%		Votes	%		Votes	%		Votes	%		Votes	%		Votes	%		Votes	%		Total																
+FIRST			27629	36.62		2556	3.39		2992	3.97		34229	45.37		1665	2.21		148	0.20		6223	8.25		75442																
+SECOND			10	6.76		20	13.51		6	4.05		14	9.46		49	33.11			Excluded		49	33.11		148																
+	TOTAL		27639	36.64		2576	3.41		2998	3.97		34243	45.39		1714	2.27					6272	8.31		75442																
+THIRD			259	15.11		247	14.41		205	11.96		381	22.23			Excluded					622	36.29		1714															
+	TOTAL		27898	36.98		2823	3.74		3203	4.25		34624	45.89								6894	9.14		75442															
+FOURTH			899	31.85			Excluded		1217	43.11		377	13.35								330	11.69		2823															
+	TOTAL		28797	38.17					4420	5.86		35001	46.39								7224	9.58		75442															
+FIFTH			2679	60.61						Excluded		1119	25.32								622	14.07		4420															
+	TOTAL		31476	41.72								36120	47.88								7846	10.40		75442															
+SIXTH			4192	53.43								3654	46.57									Excluded		7846															
+	TOTAL		35668	47.28								39774	52.72											75442															
+													Elected																										
+																																							
+McPherson																																							
+				LIGHT			LEWIS			MAY			BRADLEY			TRIGGER			GOODWIN			WHITE																	
+				Inge			Paul			Margaret			Ronald			Kellie			Kevin Patrick			Russell V																	
+				(GRN)			(HAN)			(LP)			(IND)			(ALP)			(IND)			(DEM)																	
+Count			Votes	%		Votes	%		Votes	%		Votes	%		Votes	%		Votes	%		Votes	%		Total															
+FIRST			4220	5.00		4989	5.91		46641	55.21		607	0.72		24055	28.47		481	0.57		3485	4.13		84478															
+SECOND			48	9.98		32	6.65		54	11.23		201	41.79		57	11.85			Excluded		89	18.50		481																
+	TOTAL		4268	5.05		5021	5.94		46695	55.27		808	0.96		24112	28.54					3574	4.23		84478																
+THIRD			175	21.66		144	17.82		211	26.11			Excluded		129	15.97					149	18.44		808																
+	TOTAL		4443	5.26		5165	6.11		46906	55.52					24241	28.70					3723	4.41		84478																
+FOURTH			1835	49.29		201	5.40		649	17.43					1038	27.88						Excluded		3723																
+	TOTAL		6278	7.43		5366	6.35		47555	56.29					25279	29.92								84478																
+FIFTH			2377	44.30			Excluded		1870	34.85					1119	20.85								5366																
+	TOTAL		8655	10.25					49425	58.51					26398	31.25								84478																
+SIXTH				Excluded					3414	39.45					5241	60.55								8655																
+	TOTAL								52839	62.55					31639	37.45								84478																
+										Elected																														
+																																								
+Maranoa																																								
+				WILSON			BOWDEN			ROLLS			MCNICHOL			SCOTT			NEMETH																					
+				Rhonda			David L			Cindy			Mark			Bruce			Noel																					
+				(DEM)			(ALP)			(CEC)			(HAN)			(NP)			(GRN)																					
+Count			Votes	%		Votes	%		Votes	%		Votes	%		Votes	%		Votes	%		Total																			
+FIRST			2977	3.92		17696	23.32		600	0.79		11429	15.06		41685	54.92		1512	1.99		75899																			
+SECOND			147	24.50		114	19.00			Excluded		155	25.83		131	21.83		53	8.83		600																			
+	TOTAL		3124	4.12		17810	23.47					11584	15.26		41816	55.09		1565	2.06		75899																			
+THIRD			607	38.79		327	20.89					225	14.38		406	25.94			Excluded		1565																			
+	TOTAL		3731	4.92		18137	23.90					11809	15.56		42222	55.63					75899																			
+FOURTH				Excluded		2038	54.62					533	14.29		1160	31.09					3731																			
+	TOTAL					20175	26.58					12342	16.26		43382	57.16					75899																			
+FIFTH						5621	45.54						Excluded		6721	54.46					12342																			
+	TOTAL					25796	33.99								50103	66.01					75899																			
+																Elected																								
+																																								
+Moncrieff																																								
+				TOBIAS			CARROLL			CIOBO			DOUGLAS			CHATTERJEE			ALECKSON			MILLAR			DERRICK			HEPBURN												
+				Josephine			Maurie			Steven			Susie			Victoria			Maxwell A			Lesley			Kari			Dean												
+				(IND)			(IND)			(LP)			(NP)			(ALP)			(IND)			(HAN)			(DEM)			(GRN)												
+Count			Votes	%		Votes	%		Votes	%		Votes	%		Votes	%		Votes	%		Votes	%		Votes	%		Votes	%		Total									
+FIRST			2286	2.94		360	0.46		39586	50.91		4914	6.32		19158	24.64		549	0.71		4458	5.73		3439	4.42		3014	3.88		77764									
+SECOND			185	51.39			Excluded		50	13.89		47	13.06		29	8.06		24	6.67		9	2.50		7	1.94		9	2.50		360									
+	TOTAL		2471	3.18					39636	50.97		4961	6.38		19187	24.67		573	0.74		4467	5.74		3446	4.43		3023	3.89		77764									
+THIRD			135	23.56					58	10.12		55	9.60		51	8.90			Excluded		201	35.08		37	6.46		36	6.28		573									
+	TOTAL		2606	3.35					39694	51.04		5016	6.45		19238	24.74					4668	6.00		3483	4.48		3059	3.93		77764									
+FOURTH				Excluded					1107	42.48		371	14.24		216	8.29					166	6.37		463	17.77		283	10.86		2606									
+	TOTAL								40801	52.47		5387	6.93		19454	25.02					4834	6.22		3946	5.07		3342	4.30		77764									
+FIFTH									509	15.23		212	6.34		616	18.43					404	12.09		1601	47.91			Excluded		3342									
+	TOTAL								41310	53.12		5599	7.20		20070	25.81					5238	6.74		5547	7.13					77764									
+SIXTH									1439	27.47		804	15.35		972	18.56						Excluded		2023	38.62					5238									
+	TOTAL								42749	54.97		6403	8.23		21042	27.06								7570	9.73					77764									
+SEVENTH									4811	75.14			Excluded		668	10.43								924	14.43					6403									
+	TOTAL								47560	61.16					21710	27.92								8494	10.92					77764									
+EIGHTH									3316	39.04					5178	60.96									Excluded					8494									
+	TOTAL								50876	65.42					26888	34.58														77764									
+										Elected																														
+																																								
+Moreton																																								
+				HARDGRAVE			LAMB			TAYLOR			BROOKES			COMANS			WEEDON																					
+				Gary			Andrew			Lenore			Kathleen			Tracy Anne			Barry																					
+				(LP)			(IND)			(GRN)			(ALP)			(DEM)			(HAN)																					
+Count			Votes	%		Votes	%		Votes	%		Votes	%		Votes	%		Votes	%		Total																			
+FIRST			39148	48.74		1385	1.72		3677	4.58		29144	36.29		4525	5.63		2433	3.03		80312																			
+SECOND			647	46.71			Excluded		246	17.76		179	12.92		147	10.61		166	11.99		1385																			
+	TOTAL		39795	49.55					3923	4.88		29323	36.51		4672	5.82		2599	3.24		80312																			
+THIRD			986	37.94					447	17.20		478	18.39		688	26.47			Excluded		2599																			
+	TOTAL		40781	50.78					4370	5.44		29801	37.11		5360	6.67					80312																			
+FOURTH			718	16.43						Excluded		1355	31.01		2297	52.56					4370																			
+	TOTAL		41499	51.67								31156	38.79		7657	9.53					80312																			
+FIFTH			2036	26.59								5621	73.41			Excluded					7657																			
+	TOTAL		43535	54.21								36777	45.79								80312																			
+				Elected																																				
+																																								
+Oxley																																								
+				ARMSTRONG			KUNZELMANN			MCKEON			PARER			RIPOLL																								
+				Thomas John			Kate			John			Kevin			Bernie																								
+				(HAN)			(DEM)			(GRN)			(LP)			(ALP)																								
+Count			Votes	%		Votes	%		Votes	%		Votes	%		Votes	%		Total																						
+FIRST			8085	10.58		4282	5.60		2433	3.18		23818	31.17		37797	49.46		76415																						
+SECOND			355	14.59		1075	44.18			Excluded		390	16.03		613	25.20		2433																						
+	TOTAL		8440	11.04		5357	7.01					24208	31.68		38410	50.27		76415																						
+THIRD			1085	20.25			Excluded					1570	29.31		2702	50.44		5357																						
+	TOTAL		9525	12.46								25778	33.73		41112	53.80		76415																						
+FOURTH				Excluded								6210	65.20		3315	34.80		9525																						
+	TOTAL											31988	41.86		44427	58.14		76415																						
+																Elected																								
+																																								
+Petrie																																								
+				GRIFFITHS			PANTANO			BLACK			HUME			EATON			GAMBARO																					
+				Owen			Kim			Bill			Rosemary			Ron			Teresa																					
+				(DEM)			(GRN)			(HAN)			(ALP)			(IND)			(LP)																					
+Count			Votes	%		Votes	%		Votes	%		Votes	%		Votes	%		Votes	%		Total																			
+FIRST			4284	5.24		2254	2.76		3463	4.23		31044	37.96		1319	1.61		39411	48.19		81775																			
+SECOND			248	18.80		291	22.06		237	17.97		226	17.13			Excluded		317	24.03		1319																			
+	TOTAL		4532	5.54		2545	3.11		3700	4.52		31270	38.24					39728	48.58		81775																			
+THIRD			1316	51.71			Excluded		270	10.61		619	24.32					340	13.36		2545																			
+	TOTAL		5848	7.15					3970	4.85		31889	39.00					40068	49.00		81775																			
+FOURTH			1492	37.58						Excluded		1094	27.56					1384	34.86		3970																			
+	TOTAL		7340	8.98								32983	40.33					41452	50.69		81775																			
+FIFTH				Excluded								5110	69.62					2230	30.38		7340																			
+	TOTAL											38093	46.58					43682	53.42		81775																			
+																			Elected																					
+																																								
+Rankin																																								
+				EMERSON			WOOD			MACKENZIE			LLOYD			DOBSON																								
+				Craig			Paul John			Mark			Daniel			Darryl																								
+				(ALP)			(LP)			(HAN)			(GRN)			(DEM)																								
+Count			Votes	%		Votes	%		Votes	%		Votes	%		Votes	%		Total																						
+FIRST			36875	49.45		27524	36.91		4724	6.33		1875	2.51		3572	4.79		74570																						
+SECOND			434	23.15		246	13.12		270	14.40			Excluded		925	49.33		1875																						
+	TOTAL		37309	50.03		27770	37.24		4994	6.70					4497	6.03		74570																						
+THIRD			2417	53.75		1238	27.53		842	18.72						Excluded		4497																						
+	TOTAL		39726	53.27		29008	38.90		5836	7.83								74570																						
+FOURTH			2541	43.54		3295	56.46			Excluded								5836																						
+	TOTAL		42267	56.68		32303	43.32											74570																						
+				Elected																																				
+																																								
+Ryan																																								
+				GILLIES			JOHNSON			LANGENAUER			STASSE			DREW			SHORT			BRAZIER			ALLEN-ANKINS															
+				Stewart			Michael			Jason			Mike			John			Leonie			Clive			Stephen															
+				(NP)			(LP)			(DEM)			(GRN)			(HAN)			(ALP)			(HMP)			(IND)															
+Count			Votes	%		Votes	%		Votes	%		Votes	%		Votes	%		Votes	%		Votes	%		Votes	%		Total													
+FIRST			5049	6.18		38894	47.57		4742	5.80		4035	4.94		1339	1.64		25603	31.32		1084	1.33		1010	1.24		81756													
+SECOND			141	13.96		244	24.16		143	14.16		142	14.06		67	6.63		147	14.55		126	12.48			Excluded		1010													
+	TOTAL		5190	6.35		39138	47.87		4885	5.98		4177	5.11		1406	1.72		25750	31.50		1210	1.48					81756													
+THIRD			59	4.88		162	13.39		114	9.42		527	43.55		98	8.10		250	20.66			Excluded					1210													
+	TOTAL		5249	6.42		39300	48.07		4999	6.11		4704	5.75		1504	1.84		26000	31.80								81756													
+FOURTH			350	23.27		425	28.26		127	8.44		284	18.88			Excluded		318	21.14								1504													
+	TOTAL		5599	6.85		39725	48.59		5126	6.27		4988	6.10					26318	32.19								81756													
+FIFTH			298	5.97		582	11.67		2506	50.24			Excluded					1602	32.12								4988													
+	TOTAL		5897	7.21		40307	49.30		7632	9.34								27920	34.15								81756													
+SIXTH				Excluded		4885	82.84		589	9.99								423	7.17								5897													
+	TOTAL					45192	55.28		8221	10.06								28343	34.67								81756													
+SEVENTH						2736	33.28			Excluded								5485	66.72								8221													
+	TOTAL					47928	58.62											33828	41.38								81756													
+							Elected																																	
+																																								
+Wide Bay																																								
+				WICKS			HETHERINGTON			TRUSS			DWYER			JANSEN			PITT			TREMLIN			SMITH			DALGLEISH												
+				Graeme			Maurice			Warren			Jim			Paul			A R			Russ			Althea			David												
+				(IND)			(CEC)			(NP)			(HAN)			(GRN)			(IND)			(ALP)			(DEM)			(IND)												
+Count			Votes	%		Votes	%		Votes	%		Votes	%		Votes	%		Votes	%		Votes	%		Votes	%		Votes	%		Total										
+FIRST			3380	4.61		489	0.67		33124	45.15		8176	11.15		1385	1.89		2650	3.61		19733	26.90		1230	1.68		3192	4.35		73359										
+SECOND			136	27.81			Excluded		121	24.74		103	21.06		26	5.32		34	6.95		29	5.93		8	1.64		32	6.54		489										
+	TOTAL		3516	4.79					33245	45.32		8279	11.29		1411	1.92		2684	3.66		19762	26.94		1238	1.69		3224	4.39		73359										
+THIRD			100	8.08					180	14.54		61	4.93		333	26.90		56	4.52		328	26.49			Excluded		180	14.54		1238										
+	TOTAL		3616	4.93					33425	45.56		8340	11.37		1744	2.38		2740	3.74		20090	27.39					3404	4.64		73359										
+FOURTH			269	15.42					264	15.14		162	9.29			Excluded		207	11.87		651	37.33					191	10.95		1744										
+	TOTAL		3885	5.30					33689	45.92		8502	11.59					2947	4.02		20741	28.27					3595	4.90		73359										
+FIFTH			1483	50.32					285	9.67		456	15.47						Excluded		240	8.14					483	16.39		2947										
+	TOTAL		5368	7.32					33974	46.31		8958	12.21								20981	28.60					4078	5.56		73359										
+SIXTH			1505	36.91					745	18.27		1212	29.72								616	15.11						Excluded		4078										
+	TOTAL		6873	9.37					34719	47.33		10170	13.86								21597	29.44								73359										
+SEVENTH				Excluded					2406	35.01		3473	50.53								994	14.46								6873										
+	TOTAL								37125	50.61		13643	18.60								22591	30.80								73359										
+EIGHTH									7423	54.41			Excluded								6220	45.59								13643										
+	TOTAL								44548	60.73											28811	39.27								73359										
+										Elected																														
+																																								

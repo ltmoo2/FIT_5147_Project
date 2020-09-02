@@ -1,0 +1,681 @@
+House of Representatives - 2001 Election: Victoria												
+Two Candidate Preferred Preference Flow Result												
+By Polling Place by Division												
+McMillan (85551)												
+		Candidate		                  	"FORBES, Jim"		                	"ZAHRA, Christian"		           	Total	
+				                           	LP		                         	ALP		                        		
+				                           	Votes	%	                     	Votes	%	                     		
+	Bona Vista											
+			1st Prefs		115	72.78		43	27.22		158	
+		"HOWELL, Betty ()"	1		0	0.00		1	100.00		1	
+		"ROBERTS, David (NP)"	14		14	100.00		0	0.00		14	
+		"WALL, David (DEM)"	6		2	33.33		4	66.67		6	
+		"FARRAR, Jenny (GRN)"	10		4	40.00		6	60.00		10	
+		"HOLTMAN, John F (HAN)"	7		5	71.43		2	28.57		7	
+		Total	38		140	71.43		56	28.57		196	
+
+	Boolarra										
+			1st Prefs		233	44.64		289	55.36		522
+		"HOWELL, Betty ()"	4		2	50.00		2	50.00		4
+		"ROBERTS, David (NP)"	37		37	100.00		0	0.00		37
+		"WALL, David (DEM)"	23		4	17.39		19	82.61		23
+		"FARRAR, Jenny (GRN)"	56		5	8.93		51	91.07		56
+		"HOLTMAN, John F (HAN)"	25		13	52.00		12	48.00		25
+		Total	145		294	44.08		373	55.92		667
+
+	Buln Buln										
+			1st Prefs		197	66.11		101	33.89		298
+		"HOWELL, Betty ()"	2		1	50.00		1	50.00		2
+		"ROBERTS, David (NP)"	23		22	95.65		1	4.35		23
+		"WALL, David (DEM)"	16		5	31.25		11	68.75		16
+		"FARRAR, Jenny (GRN)"	22		3	13.64		19	86.36		22
+		"HOLTMAN, John F (HAN)"	16		11	68.75		5	31.25		16
+		Total	79		239	63.40		138	36.60		377
+
+	Bunyip										
+			1st Prefs		659	59.37		451	40.63		1110
+		"HOWELL, Betty ()"	12		9	75.00		3	25.00		12
+		"ROBERTS, David (NP)"	22		20	90.91		2	9.09		22
+		"WALL, David (DEM)"	51		16	31.37		35	68.63		51
+		"FARRAR, Jenny (GRN)"	46		14	30.43		32	69.57		46
+		"HOLTMAN, John F (HAN)"	46		28	60.87		18	39.13		46
+		Total	177		746	57.96		541	42.04		1287
+
+	Churchill										
+			1st Prefs		736	30.33		1691	69.67		2427
+		"HOWELL, Betty ()"	89		28	31.46		61	68.54		89
+		"ROBERTS, David (NP)"	48		43	89.58		5	10.42		48
+		"WALL, David (DEM)"	121		23	19.01		98	80.99		121
+		"FARRAR, Jenny (GRN)"	165		25	15.15		140	84.85		165
+		"HOLTMAN, John F (HAN)"	149		94	63.09		55	36.91		149
+		Total	572		949	31.64		2050	68.36		2999
+
+	Cloverlea										
+			1st Prefs		78	70.27		33	29.73		111
+		"HOWELL, Betty ()"	0		0	0.00		0	0.00		0
+		"ROBERTS, David (NP)"	10		10	100.00		0	0.00		10
+		"WALL, David (DEM)"	5		2	40.00		3	60.00		5
+		"FARRAR, Jenny (GRN)"	4		0	0.00		4	100.00		4
+		"HOLTMAN, John F (HAN)"	9		9	100.00		0	0.00		9
+		Total	28		99	71.22		40	28.78		139
+
+	Cora Lynn										
+			1st Prefs		99	81.82		22	18.18		121
+		"HOWELL, Betty ()"	0		0	0.00		0	0.00		0
+		"ROBERTS, David (NP)"	5		4	80.00		1	20.00		5
+		"WALL, David (DEM)"	4		1	25.00		3	75.00		4
+		"FARRAR, Jenny (GRN)"	1		0	0.00		1	100.00		1
+		"HOLTMAN, John F (HAN)"	8		5	62.50		3	37.50		8
+		Total	18		109	78.42		30	21.58		139
+
+	Darnum										
+			1st Prefs		200	70.18		85	29.82		285
+		"HOWELL, Betty ()"	5		3	60.00		2	40.00		5
+		"ROBERTS, David (NP)"	18		17	94.44		1	5.56		18
+		"WALL, David (DEM)"	15		9	60.00		6	40.00		15
+		"FARRAR, Jenny (GRN)"	10		2	20.00		8	80.00		10
+		"HOLTMAN, John F (HAN)"	17		11	64.71		6	35.29		17
+		Total	65		242	69.14		108	30.86		350
+
+	Drouin										
+			1st Prefs		1944	62.21		1181	37.79		3125
+		"HOWELL, Betty ()"	52		41	78.85		11	21.15		52
+		"ROBERTS, David (NP)"	89		81	91.01		8	8.99		89
+		"WALL, David (DEM)"	165		50	30.30		115	69.70		165
+		"FARRAR, Jenny (GRN)"	127		32	25.20		95	74.80		127
+		"HOLTMAN, John F (HAN)"	159		111	69.81		48	30.19		159
+		Total	592		2259	60.77		1458	39.23		3717
+
+	Drouin South										
+			1st Prefs		318	74.47		109	25.53		427
+		"HOWELL, Betty ()"	3		3	100.00		0	0.00		3
+		"ROBERTS, David (NP)"	32		31	96.88		1	3.13		32
+		"WALL, David (DEM)"	26		14	53.85		12	46.15		26
+		"FARRAR, Jenny (GRN)"	10		4	40.00		6	60.00		10
+		"HOLTMAN, John F (HAN)"	29		25	86.21		4	13.79		29
+		Total	100		395	74.95		132	25.05		527
+
+	Drouin West										
+			1st Prefs		151	65.09		81	34.91		232
+		"HOWELL, Betty ()"	5		4	80.00		1	20.00		5
+		"ROBERTS, David (NP)"	15		15	100.00		0	0.00		15
+		"WALL, David (DEM)"	13		5	38.46		8	61.54		13
+		"FARRAR, Jenny (GRN)"	9		2	22.22		7	77.78		9
+		"HOLTMAN, John F (HAN)"	16		13	81.25		3	18.75		16
+		Total	58		190	65.52		100	34.48		290
+
+	Ellinbank										
+			1st Prefs		169	69.55		74	30.45		243
+		"HOWELL, Betty ()"	1		0	0.00		1	100.00		1
+		"ROBERTS, David (NP)"	16		16	100.00		0	0.00		16
+		"WALL, David (DEM)"	8		8	100.00		0	0.00		8
+		"FARRAR, Jenny (GRN)"	10		2	20.00		8	80.00		10
+		"HOLTMAN, John F (HAN)"	11		11	100.00		0	0.00		11
+		Total	46		206	71.28		83	28.72		289
+
+	Erica										
+			1st Prefs		59	38.82		93	61.18		152
+		"HOWELL, Betty ()"	5		4	80.00		1	20.00		5
+		"ROBERTS, David (NP)"	10		10	100.00		0	0.00		10
+		"WALL, David (DEM)"	3		2	66.67		1	33.33		3
+		"FARRAR, Jenny (GRN)"	14		5	35.71		9	64.29		14
+		"HOLTMAN, John F (HAN)"	19		8	42.11		11	57.89		19
+		Total	51		88	43.35		115	56.65		203
+
+	Garfield										
+			1st Prefs		368	63.34		213	36.66		581
+		"HOWELL, Betty ()"	6		5	83.33		1	16.67		6
+		"ROBERTS, David (NP)"	5		4	80.00		1	20.00		5
+		"WALL, David (DEM)"	17		6	35.29		11	64.71		17
+		"FARRAR, Jenny (GRN)"	21		6	28.57		15	71.43		21
+		"HOLTMAN, John F (HAN)"	22		15	68.18		7	31.82		22
+		Total	71		404	61.96		248	38.04		652
+
+	Hallora										
+			1st Prefs		55	84.62		10	15.38		65
+		"HOWELL, Betty ()"	0		0	0.00		0	0.00		0
+		"ROBERTS, David (NP)"	8		7	87.50		1	12.50		8
+		"WALL, David (DEM)"	2		1	50.00		1	50.00		2
+		"FARRAR, Jenny (GRN)"	1		0	0.00		1	100.00		1
+		"HOLTMAN, John F (HAN)"	2		2	100.00		0	0.00		2
+		Total	13		65	83.33		13	16.67		78
+
+	Hazelwood North										
+			1st Prefs		273	49.64		277	50.36		550
+		"HOWELL, Betty ()"	6		3	50.00		3	50.00		6
+		"ROBERTS, David (NP)"	42		41	97.62		1	2.38		42
+		"WALL, David (DEM)"	26		4	15.38		22	84.62		26
+		"FARRAR, Jenny (GRN)"	20		9	45.00		11	55.00		20
+		"HOLTMAN, John F (HAN)"	24		16	66.67		8	33.33		24
+		Total	118		346	51.80		322	48.20		668
+
+	Hill End										
+			1st Prefs		59	59.00		41	41.00		100
+		"HOWELL, Betty ()"	0		0	0.00		0	0.00		0
+		"ROBERTS, David (NP)"	5		5	100.00		0	0.00		5
+		"WALL, David (DEM)"	7		3	42.86		4	57.14		7
+		"FARRAR, Jenny (GRN)"	3		0	0.00		3	100.00		3
+		"HOLTMAN, John F (HAN)"	3		2	66.67		1	33.33		3
+		Total	18		69	58.47		49	41.53		118
+
+	Iona										
+			1st Prefs		57	63.33		33	36.67		90
+		"HOWELL, Betty ()"	0		0	0.00		0	0.00		0
+		"ROBERTS, David (NP)"	5		5	100.00		0	0.00		5
+		"WALL, David (DEM)"	4		1	25.00		3	75.00		4
+		"FARRAR, Jenny (GRN)"	2		0	0.00		2	100.00		2
+		"HOLTMAN, John F (HAN)"	0		0	0.00		0	0.00		0
+		Total	11		63	62.38		38	37.62		101
+
+	Jindivick										
+			1st Prefs		137	62.27		83	37.73		220
+		"HOWELL, Betty ()"	6		6	100.00		0	0.00		6
+		"ROBERTS, David (NP)"	12		12	100.00		0	0.00		12
+		"WALL, David (DEM)"	6		3	50.00		3	50.00		6
+		"FARRAR, Jenny (GRN)"	23		5	21.74		18	78.26		23
+		"HOLTMAN, John F (HAN)"	10		4	40.00		6	60.00		10
+		Total	57		167	60.29		110	39.71		277
+
+	Labertouche										
+			1st Prefs		126	65.97		65	34.03		191
+		"HOWELL, Betty ()"	3		1	33.33		2	66.67		3
+		"ROBERTS, David (NP)"	10		9	90.00		1	10.00		10
+		"WALL, David (DEM)"	6		2	33.33		4	66.67		6
+		"FARRAR, Jenny (GRN)"	6		2	33.33		4	66.67		6
+		"HOLTMAN, John F (HAN)"	7		2	28.57		5	71.43		7
+		Total	32		142	63.68		81	36.32		223
+
+	Lillico										
+			1st Prefs		170	75.89		54	24.11		224
+		"HOWELL, Betty ()"	4		1	25.00		3	75.00		4
+		"ROBERTS, David (NP)"	6		6	100.00		0	0.00		6
+		"WALL, David (DEM)"	9		3	33.33		6	66.67		9
+		"FARRAR, Jenny (GRN)"	4		2	50.00		2	50.00		4
+		"HOLTMAN, John F (HAN)"	9		5	55.56		4	44.44		9
+		Total	32		187	73.05		69	26.95		256
+
+	Longwarry										
+			1st Prefs		328	55.31		265	44.69		593
+		"HOWELL, Betty ()"	11		9	81.82		2	18.18		11
+		"ROBERTS, David (NP)"	40		37	92.50		3	7.50		40
+		"WALL, David (DEM)"	23		10	43.48		13	56.52		23
+		"FARRAR, Jenny (GRN)"	23		10	43.48		13	56.52		23
+		"HOLTMAN, John F (HAN)"	29		14	48.28		15	51.72		29
+		Total	126		408	56.75		311	43.25		719
+
+	Maryknoll										
+			1st Prefs		167	62.08		102	37.92		269
+		"HOWELL, Betty ()"	2		1	50.00		1	50.00		2
+		"ROBERTS, David (NP)"	7		7	100.00		0	0.00		7
+		"WALL, David (DEM)"	12		6	50.00		6	50.00		12
+		"FARRAR, Jenny (GRN)"	14		4	28.57		10	71.43		14
+		"HOLTMAN, John F (HAN)"	9		8	88.89		1	11.11		9
+		Total	44		193	61.66		120	38.34		313
+
+	Melbourne (McMillan)										
+			1st Prefs		12	44.44		15	55.56		27
+		"HOWELL, Betty ()"	1		0	0.00		1	100.00		1
+		"ROBERTS, David (NP)"	0		0	0.00		0	0.00		0
+		"WALL, David (DEM)"	4		1	25.00		3	75.00		4
+		"FARRAR, Jenny (GRN)"	6		1	16.67		5	83.33		6
+		"HOLTMAN, John F (HAN)"	0		0	0.00		0	0.00		0
+		Total	11		14	36.84		24	63.16		38
+
+	Moe										
+			1st Prefs		837	28.64		2085	71.36		2922
+		"HOWELL, Betty ()"	83		62	74.70		21	25.30		83
+		"ROBERTS, David (NP)"	34		28	82.35		6	17.65		34
+		"WALL, David (DEM)"	115		26	22.61		89	77.39		115
+		"FARRAR, Jenny (GRN)"	108		23	21.30		85	78.70		108
+		"HOLTMAN, John F (HAN)"	114		70	61.40		44	38.60		114
+		Total	454		1046	30.98		2330	69.02		3376
+
+	Moe Central										
+			1st Prefs		286	20.66		1098	79.34		1384
+		"HOWELL, Betty ()"	29		20	68.97		9	31.03		29
+		"ROBERTS, David (NP)"	24		22	91.67		2	8.33		24
+		"WALL, David (DEM)"	63		13	20.63		50	79.37		63
+		"FARRAR, Jenny (GRN)"	33		5	15.15		28	84.85		33
+		"HOLTMAN, John F (HAN)"	55		33	60.00		22	40.00		55
+		Total	204		379	23.87		1209	76.13		1588
+
+	Moe West										
+			1st Prefs		258	29.42		619	70.58		877
+		"HOWELL, Betty ()"	11		9	81.82		2	18.18		11
+		"ROBERTS, David (NP)"	16		14	87.50		2	12.50		16
+		"WALL, David (DEM)"	51		13	25.49		38	74.51		51
+		"FARRAR, Jenny (GRN)"	34		7	20.59		27	79.41		34
+		"HOLTMAN, John F (HAN)"	50		35	70.00		15	30.00		50
+		Total	162		336	32.34		703	67.66		1039
+
+	Morwell										
+			1st Prefs		469	37.76		773	62.24		1242
+		"HOWELL, Betty ()"	54		41	75.93		13	24.07		54
+		"ROBERTS, David (NP)"	32		27	84.38		5	15.63		32
+		"WALL, David (DEM)"	71		17	23.94		54	76.06		71
+		"FARRAR, Jenny (GRN)"	41		5	12.20		36	87.80		41
+		"HOLTMAN, John F (HAN)"	62		35	56.45		27	43.55		62
+		Total	260		594	39.55		908	60.45		1502
+
+	Morwell Central										
+			1st Prefs		738	30.11		1713	69.89		2451
+		"HOWELL, Betty ()"	85		61	71.76		24	28.24		85
+		"ROBERTS, David (NP)"	49		41	83.67		8	16.33		49
+		"WALL, David (DEM)"	148		31	20.95		117	79.05		148
+		"FARRAR, Jenny (GRN)"	95		14	14.74		81	85.26		95
+		"HOLTMAN, John F (HAN)"	98		46	46.94		52	53.06		98
+		Total	475		931	31.82		1995	68.18		2926
+
+	Morwell Estate										
+			1st Prefs		661	30.46		1509	69.54		2170
+		"HOWELL, Betty ()"	57		40	70.18		17	29.82		57
+		"ROBERTS, David (NP)"	54		47	87.04		7	12.96		54
+		"WALL, David (DEM)"	95		19	20.00		76	80.00		95
+		"FARRAR, Jenny (GRN)"	74		10	13.51		64	86.49		74
+		"HOLTMAN, John F (HAN)"	47		20	42.55		27	57.45		47
+		Total	327		797	31.92		1700	68.08		2497
+
+	Morwell North										
+			1st Prefs		100	27.17		268	72.83		368
+		"HOWELL, Betty ()"	9		4	44.44		5	55.56		9
+		"ROBERTS, David (NP)"	9		8	88.89		1	11.11		9
+		"WALL, David (DEM)"	14		0	0.00		14	100.00		14
+		"FARRAR, Jenny (GRN)"	21		3	14.29		18	85.71		21
+		"HOLTMAN, John F (HAN)"	19		9	47.37		10	52.63		19
+		Total	72		124	28.18		316	71.82		440
+
+	Nar Nar Goon										
+			1st Prefs		310	61.14		197	38.86		507
+		"HOWELL, Betty ()"	5		2	40.00		3	60.00		5
+		"ROBERTS, David (NP)"	17		17	100.00		0	0.00		17
+		"WALL, David (DEM)"	22		6	27.27		16	72.73		22
+		"FARRAR, Jenny (GRN)"	12		1	8.33		11	91.67		12
+		"HOLTMAN, John F (HAN)"	18		11	61.11		7	38.89		18
+		Total	74		347	59.72		234	40.28		581
+
+	Nar Nar Goon North										
+			1st Prefs		156	66.10		80	33.90		236
+		"HOWELL, Betty ()"	1		1	100.00		0	0.00		1
+		"ROBERTS, David (NP)"	1		1	100.00		0	0.00		1
+		"WALL, David (DEM)"	5		1	20.00		4	80.00		5
+		"FARRAR, Jenny (GRN)"	11		5	45.45		6	54.55		11
+		"HOLTMAN, John F (HAN)"	9		4	44.44		5	55.56		9
+		Total	27		168	63.88		95	36.12		263
+
+	Narracan										
+			1st Prefs		69	52.67		62	47.33		131
+		"HOWELL, Betty ()"	4		1	25.00		3	75.00		4
+		"ROBERTS, David (NP)"	23		23	100.00		0	0.00		23
+		"WALL, David (DEM)"	6		2	33.33		4	66.67		6
+		"FARRAR, Jenny (GRN)"	11		1	9.09		10	90.91		11
+		"HOLTMAN, John F (HAN)"	16		12	75.00		4	25.00		16
+		Total	60		108	56.54		83	43.46		191
+
+	Neerim Junction										
+			1st Prefs		118	65.19		63	34.81		181
+		"HOWELL, Betty ()"	5		2	40.00		3	60.00		5
+		"ROBERTS, David (NP)"	5		5	100.00		0	0.00		5
+		"WALL, David (DEM)"	7		3	42.86		4	57.14		7
+		"FARRAR, Jenny (GRN)"	13		1	7.69		12	92.31		13
+		"HOLTMAN, John F (HAN)"	7		4	57.14		3	42.86		7
+		Total	37		133	61.01		85	38.99		218
+
+	Neerim South										
+			1st Prefs		405	63.18		236	36.82		641
+		"HOWELL, Betty ()"	8		6	75.00		2	25.00		8
+		"ROBERTS, David (NP)"	24		23	95.83		1	4.17		24
+		"WALL, David (DEM)"	26		7	26.92		19	73.08		26
+		"FARRAR, Jenny (GRN)"	31		14	45.16		17	54.84		31
+		"HOLTMAN, John F (HAN)"	26		17	65.38		9	34.62		26
+		Total	115		472	62.43		284	37.57		756
+
+	Newborough										
+			1st Prefs		596	29.79		1405	70.21		2001
+		"HOWELL, Betty ()"	32		18	56.25		14	43.75		32
+		"ROBERTS, David (NP)"	24		20	83.33		4	16.67		24
+		"WALL, David (DEM)"	105		27	25.71		78	74.29		105
+		"FARRAR, Jenny (GRN)"	64		7	10.94		57	89.06		64
+		"HOLTMAN, John F (HAN)"	59		31	52.54		28	47.46		59
+		Total	284		699	30.59		1586	69.41		2285
+
+	Newborough East										
+			1st Prefs		270	22.56		927	77.44		1197
+		"HOWELL, Betty ()"	20		11	55.00		9	45.00		20
+		"ROBERTS, David (NP)"	9		8	88.89		1	11.11		9
+		"WALL, David (DEM)"	46		2	4.35		44	95.65		46
+		"FARRAR, Jenny (GRN)"	29		7	24.14		22	75.86		29
+		"HOLTMAN, John F (HAN)"	37		15	40.54		22	59.46		37
+		Total	141		313	23.39		1025	76.61		1338
+
+	Nilma										
+			1st Prefs		122	65.59		64	34.41		186
+		"HOWELL, Betty ()"	0		0	0.00		0	0.00		0
+		"ROBERTS, David (NP)"	13		12	92.31		1	7.69		13
+		"WALL, David (DEM)"	8		1	12.50		7	87.50		8
+		"FARRAR, Jenny (GRN)"	10		1	10.00		9	90.00		10
+		"HOLTMAN, John F (HAN)"	11		7	63.64		4	36.36		11
+		Total	42		143	62.72		85	37.28		228
+
+	Noojee										
+			1st Prefs		55	51.40		52	48.60		107
+		"HOWELL, Betty ()"	2		1	50.00		1	50.00		2
+		"ROBERTS, David (NP)"	3		2	66.67		1	33.33		3
+		"WALL, David (DEM)"	5		1	20.00		4	80.00		5
+		"FARRAR, Jenny (GRN)"	13		0	0.00		13	100.00		13
+		"HOLTMAN, John F (HAN)"	12		6	50.00		6	50.00		12
+		Total	35		65	45.77		77	54.23		142
+
+	Pakenham										
+			1st Prefs		1215	54.27		1024	45.73		2239
+		"HOWELL, Betty ()"	34		28	82.35		6	17.65		34
+		"ROBERTS, David (NP)"	32		25	78.13		7	21.88		32
+		"WALL, David (DEM)"	111		45	40.54		66	59.46		111
+		"FARRAR, Jenny (GRN)"	134		20	14.93		114	85.07		134
+		"HOLTMAN, John F (HAN)"	100		79	79.00		21	21.00		100
+		Total	411		1412	53.28		1238	46.72		2650
+
+	Pakenham Central										
+			1st Prefs		1146	59.04		795	40.96		1941
+		"HOWELL, Betty ()"	30		20	66.67		10	33.33		30
+		"ROBERTS, David (NP)"	39		31	79.49		8	20.51		39
+		"WALL, David (DEM)"	58		19	32.76		39	67.24		58
+		"FARRAR, Jenny (GRN)"	82		23	28.05		59	71.95		82
+		"HOLTMAN, John F (HAN)"	62		36	58.06		26	41.94		62
+		Total	271		1275	57.64		937	42.36		2212
+
+	Pakenham North										
+			1st Prefs		517	56.07		405	43.93		922
+		"HOWELL, Betty ()"	13		6	46.15		7	53.85		13
+		"ROBERTS, David (NP)"	19		17	89.47		2	10.53		19
+		"WALL, David (DEM)"	39		18	46.15		21	53.85		39
+		"FARRAR, Jenny (GRN)"	21		5	23.81		16	76.19		21
+		"HOLTMAN, John F (HAN)"	31		25	80.65		6	19.35		31
+		Total	123		588	56.27		457	43.73		1045
+
+	Pakenham South										
+			1st Prefs		66	62.86		39	37.14		105
+		"HOWELL, Betty ()"	1		1	100.00		0	0.00		1
+		"ROBERTS, David (NP)"	4		4	100.00		0	0.00		4
+		"WALL, David (DEM)"	6		4	66.67		2	33.33		6
+		"FARRAR, Jenny (GRN)"	9		3	33.33		6	66.67		9
+		"HOLTMAN, John F (HAN)"	7		7	100.00		0	0.00		7
+		Total	27		85	64.39		47	35.61		132
+
+	Pakenham Upper (McMillan)										
+			1st Prefs		194	65.99		100	34.01		294
+		"HOWELL, Betty ()"	3		3	100.00		0	0.00		3
+		"ROBERTS, David (NP)"	8		8	100.00		0	0.00		8
+		"WALL, David (DEM)"	13		4	30.77		9	69.23		13
+		"FARRAR, Jenny (GRN)"	23		3	13.04		20	86.96		23
+		"HOLTMAN, John F (HAN)"	5		1	20.00		4	80.00		5
+		Total	52		213	61.56		133	38.44		346
+
+	Rawson										
+			1st Prefs		59	46.09		69	53.91		128
+		"HOWELL, Betty ()"	3		1	33.33		2	66.67		3
+		"ROBERTS, David (NP)"	6		6	100.00		0	0.00		6
+		"WALL, David (DEM)"	4		1	25.00		3	75.00		4
+		"FARRAR, Jenny (GRN)"	9		1	11.11		8	88.89		9
+		"HOLTMAN, John F (HAN)"	5		4	80.00		1	20.00		5
+		Total	27		72	46.45		83	53.55		155
+
+	Ripplebrook										
+			1st Prefs		74	84.09		14	15.91		88
+		"HOWELL, Betty ()"	0		0	0.00		0	0.00		0
+		"ROBERTS, David (NP)"	4		4	100.00		0	0.00		4
+		"WALL, David (DEM)"	4		1	25.00		3	75.00		4
+		"FARRAR, Jenny (GRN)"	6		1	16.67		5	83.33		6
+		"HOLTMAN, John F (HAN)"	5		3	60.00		2	40.00		5
+		Total	19		83	77.57		24	22.43		107
+
+	Rokeby										
+			1st Prefs		102	62.58		61	37.42		163
+		"HOWELL, Betty ()"	2		1	50.00		1	50.00		2
+		"ROBERTS, David (NP)"	2		2	100.00		0	0.00		2
+		"WALL, David (DEM)"	11		4	36.36		7	63.64		11
+		"FARRAR, Jenny (GRN)"	9		1	11.11		8	88.89		9
+		"HOLTMAN, John F (HAN)"	10		5	50.00		5	50.00		10
+		Total	34		115	58.38		82	41.62		197
+
+	Tanjil South										
+			1st Prefs		138	56.56		106	43.44		244
+		"HOWELL, Betty ()"	2		2	100.00		0	0.00		2
+		"ROBERTS, David (NP)"	16		16	100.00		0	0.00		16
+		"WALL, David (DEM)"	4		1	25.00		3	75.00		4
+		"FARRAR, Jenny (GRN)"	5		3	60.00		2	40.00		5
+		"HOLTMAN, John F (HAN)"	14		10	71.43		4	28.57		14
+		Total	41		170	59.65		115	40.35		285
+
+	Tetoora Road										
+			1st Prefs		67	63.81		38	36.19		105
+		"HOWELL, Betty ()"	3		1	33.33		2	66.67		3
+		"ROBERTS, David (NP)"	6		6	100.00		0	0.00		6
+		"WALL, David (DEM)"	3		0	0.00		3	100.00		3
+		"FARRAR, Jenny (GRN)"	10		3	30.00		7	70.00		10
+		"HOLTMAN, John F (HAN)"	8		2	25.00		6	75.00		8
+		Total	30		79	58.52		56	41.48		135
+
+	Thorpdale										
+			1st Prefs		220	65.87		114	34.13		334
+		"HOWELL, Betty ()"	3		1	33.33		2	66.67		3
+		"ROBERTS, David (NP)"	29		27	93.10		2	6.90		29
+		"WALL, David (DEM)"	15		6	40.00		9	60.00		15
+		"FARRAR, Jenny (GRN)"	13		5	38.46		8	61.54		13
+		"HOLTMAN, John F (HAN)"	32		23	71.88		9	28.13		32
+		Total	92		282	66.20		144	33.80		426
+
+	Toomuc Valley										
+			1st Prefs		67	70.53		28	29.47		95
+		"HOWELL, Betty ()"	0		0	0.00		0	0.00		0
+		"ROBERTS, David (NP)"	1		1	100.00		0	0.00		1
+		"WALL, David (DEM)"	4		1	25.00		3	75.00		4
+		"FARRAR, Jenny (GRN)"	3		1	33.33		2	66.67		3
+		"HOLTMAN, John F (HAN)"	3		3	100.00		0	0.00		3
+		Total	11		73	68.87		33	31.13		106
+
+	Trafalgar										
+			1st Prefs		901	54.08		765	45.92		1666
+		"HOWELL, Betty ()"	30		17	56.67		13	43.33		30
+		"ROBERTS, David (NP)"	51		46	90.20		5	9.80		51
+		"WALL, David (DEM)"	87		18	20.69		69	79.31		87
+		"FARRAR, Jenny (GRN)"	63		12	19.05		51	80.95		63
+		"HOLTMAN, John F (HAN)"	69		50	72.46		19	27.54		69
+		Total	300		1044	53.10		922	46.90		1966
+
+	Traralgon										
+			1st Prefs		1643	50.96		1581	49.04		3224
+		"HOWELL, Betty ()"	53		39	73.58		14	26.42		53
+		"ROBERTS, David (NP)"	151		132	87.42		19	12.58		151
+		"WALL, David (DEM)"	170		44	25.88		126	74.12		170
+		"FARRAR, Jenny (GRN)"	148		40	27.03		108	72.97		148
+		"HOLTMAN, John F (HAN)"	105		57	54.29		48	45.71		105
+		Total	627		1955	50.77		1896	49.23		3851
+
+	Traralgon East										
+			1st Prefs		1106	41.01		1591	58.99		2697
+		"HOWELL, Betty ()"	39		27	69.23		12	30.77		39
+		"ROBERTS, David (NP)"	97		83	85.57		14	14.43		97
+		"WALL, David (DEM)"	132		25	18.94		107	81.06		132
+		"FARRAR, Jenny (GRN)"	96		19	19.79		77	80.21		96
+		"HOLTMAN, John F (HAN)"	125		81	64.80		44	35.20		125
+		Total	489		1341	42.09		1845	57.91		3186
+
+	Traralgon North										
+			1st Prefs		1484	44.18		1875	55.82		3359
+		"HOWELL, Betty ()"	53		32	60.38		21	39.62		53
+		"ROBERTS, David (NP)"	198		179	90.40		19	9.60		198
+		"WALL, David (DEM)"	139		24	17.27		115	82.73		139
+		"FARRAR, Jenny (GRN)"	128		26	20.31		102	79.69		128
+		"HOLTMAN, John F (HAN)"	128		89	69.53		39	30.47		128
+		Total	646		1834	45.79		2171	54.21		4005
+
+	Traralgon South										
+			1st Prefs		155	45.45		186	54.55		341
+		"HOWELL, Betty ()"	6		4	66.67		2	33.33		6
+		"ROBERTS, David (NP)"	30		27	90.00		3	10.00		30
+		"WALL, David (DEM)"	23		10	43.48		13	56.52		23
+		"FARRAR, Jenny (GRN)"	38		6	15.79		32	84.21		38
+		"HOLTMAN, John F (HAN)"	20		10	50.00		10	50.00		20
+		Total	117		212	46.29		246	53.71		458
+
+	Traralgon West										
+			1st Prefs		429	51.75		400	48.25		829
+		"HOWELL, Betty ()"	12		10	83.33		2	16.67		12
+		"ROBERTS, David (NP)"	55		51	92.73		4	7.27		55
+		"WALL, David (DEM)"	56		11	19.64		45	80.36		56
+		"FARRAR, Jenny (GRN)"	38		11	28.95		27	71.05		38
+		"HOLTMAN, John F (HAN)"	41		27	65.85		14	34.15		41
+		Total	202		539	52.28		492	47.72		1031
+
+	Tyers										
+			1st Prefs		212	46.70		242	53.30		454
+		"HOWELL, Betty ()"	5		2	40.00		3	60.00		5
+		"ROBERTS, David (NP)"	19		17	89.47		2	10.53		19
+		"WALL, David (DEM)"	21		3	14.29		18	85.71		21
+		"FARRAR, Jenny (GRN)"	18		3	16.67		15	83.33		18
+		"HOLTMAN, John F (HAN)"	24		14	58.33		10	41.67		24
+		Total	87		251	46.40		290	53.60		541
+
+	Tynong										
+			1st Prefs		162	57.65		119	42.35		281
+		"HOWELL, Betty ()"	4		4	100.00		0	0.00		4
+		"ROBERTS, David (NP)"	9		9	100.00		0	0.00		9
+		"WALL, David (DEM)"	8		3	37.50		5	62.50		8
+		"FARRAR, Jenny (GRN)"	17		3	17.65		14	82.35		17
+		"HOLTMAN, John F (HAN)"	13		9	69.23		4	30.77		13
+		Total	51		190	57.23		142	42.77		332
+
+	Tynong North										
+			1st Prefs		78	72.90		29	27.10		107
+		"HOWELL, Betty ()"	0		0	0.00		0	0.00		0
+		"ROBERTS, David (NP)"	2		2	100.00		0	0.00		2
+		"WALL, David (DEM)"	3		1	33.33		2	66.67		3
+		"FARRAR, Jenny (GRN)"	8		3	37.50		5	62.50		8
+		"HOLTMAN, John F (HAN)"	3		3	100.00		0	0.00		3
+		Total	16		87	70.73		36	29.27		123
+
+	Warragul										
+			1st Prefs		1386	58.78		972	41.22		2358
+		"HOWELL, Betty ()"	26		17	65.38		9	34.62		26
+		"ROBERTS, David (NP)"	54		50	92.59		4	7.41		54
+		"WALL, David (DEM)"	119		40	33.61		79	66.39		119
+		"FARRAR, Jenny (GRN)"	139		31	22.30		108	77.70		139
+		"HOLTMAN, John F (HAN)"	79		47	59.49		32	40.51		79
+		Total	417		1571	56.61		1204	43.39		2775
+
+	Warragul East										
+			1st Prefs		516	59.72		348	40.28		864
+		"HOWELL, Betty ()"	14		8	57.14		6	42.86		14
+		"ROBERTS, David (NP)"	20		20	100.00		0	0.00		20
+		"WALL, David (DEM)"	23		10	43.48		13	56.52		23
+		"FARRAR, Jenny (GRN)"	37		7	18.92		30	81.08		37
+		"HOLTMAN, John F (HAN)"	47		29	61.70		18	38.30		47
+		Total	141		590	58.71		415	41.29		1005
+
+	Warragul North										
+			1st Prefs		981	65.36		520	34.64		1501
+		"HOWELL, Betty ()"	13		10	76.92		3	23.08		13
+		"ROBERTS, David (NP)"	33		32	96.97		1	3.03		33
+		"WALL, David (DEM)"	99		38	38.38		61	61.62		99
+		"FARRAR, Jenny (GRN)"	65		14	21.54		51	78.46		65
+		"HOLTMAN, John F (HAN)"	34		20	58.82		14	41.18		34
+		Total	244		1095	62.75		650	37.25		1745
+
+	Willowgrove										
+			1st Prefs		168	55.45		135	44.55		303
+		"HOWELL, Betty ()"	2		1	50.00		1	50.00		2
+		"ROBERTS, David (NP)"	15		13	86.67		2	13.33		15
+		"WALL, David (DEM)"	20		12	60.00		8	40.00		20
+		"FARRAR, Jenny (GRN)"	6		1	16.67		5	83.33		6
+		"HOLTMAN, John F (HAN)"	24		17	70.83		7	29.17		24
+		Total	67		212	57.30		158	42.70		370
+
+	Yallourn North										
+			1st Prefs		172	20.92		650	79.08		822
+		"HOWELL, Betty ()"	10		2	20.00		8	80.00		10
+		"ROBERTS, David (NP)"	25		24	96.00		1	4.00		25
+		"WALL, David (DEM)"	21		9	42.86		12	57.14		21
+		"FARRAR, Jenny (GRN)"	16		6	37.50		10	62.50		16
+		"HOLTMAN, John F (HAN)"	48		23	47.92		25	52.08		48
+		Total	120		236	25.05		706	74.95		942
+
+	Yarragon										
+			1st Prefs		391	58.10		282	41.90		673
+		"HOWELL, Betty ()"	14		12	85.71		2	14.29		14
+		"ROBERTS, David (NP)"	30		27	90.00		3	10.00		30
+		"WALL, David (DEM)"	30		11	36.67		19	63.33		30
+		"FARRAR, Jenny (GRN)"	33		9	27.27		24	72.73		33
+		"HOLTMAN, John F (HAN)"	39		14	35.90		25	64.10		39
+		Total	146		464	56.65		355	43.35		819
+
+	Yinnar										
+			1st Prefs		327	44.98		400	55.02		727
+		"HOWELL, Betty ()"	22		14	63.64		8	36.36		22
+		"ROBERTS, David (NP)"	35		33	94.29		2	5.71		35
+		"WALL, David (DEM)"	37		10	27.03		27	72.97		37
+		"FARRAR, Jenny (GRN)"	43		10	23.26		33	76.74		43
+		"HOLTMAN, John F (HAN)"	26		14	53.85		12	46.15		26
+		Total	163		408	45.84		482	54.16		890
+
+	Special Hospitals										
+			1st Prefs		289	50.79		280	49.21		569
+		"HOWELL, Betty ()"	15		13	86.67		2	13.33		15
+		"ROBERTS, David (NP)"	13		10	76.92		3	23.08		13
+		"WALL, David (DEM)"	7		3	42.86		4	57.14		7
+		"FARRAR, Jenny (GRN)"	8		3	37.50		5	62.50		8
+		"HOLTMAN, John F (HAN)"	11		8	72.73		3	27.27		11
+		Total	54		326	52.33		297	47.67		623
+
+	Total Ordinary										
+			1st Prefs		26425	47.06		29730	52.94		56155
+		"HOWELL, Betty ()"	1035		676	65.31		359	34.69		1035
+		"ROBERTS, David (NP)"	1819		1653	90.87		166	9.13		1819
+		"WALL, David (DEM)"	2626		726	27.65		1900	72.35		2626
+		"FARRAR, Jenny (GRN)"	2432		514	21.13		1918	78.87		2432
+		"HOLTMAN, John F (HAN)"	2384		1477	61.95		907	38.05		2384
+		Total	10296		31471	47.36		34980	52.64		66451
+
+	ABSENT										
+			1st Prefs		1287	47.32		1433	52.68		2720
+		"HOWELL, Betty ()"	78		65	83.33		13	16.67		78
+		"ROBERTS, David (NP)"	116		92	79.31		24	20.69		116
+		"WALL, David (DEM)"	310		139	44.84		171	55.16		310
+		"FARRAR, Jenny (GRN)"	264		80	30.30		184	69.70		264
+		"HOLTMAN, John F (HAN)"	116		51	43.97		65	56.03		116
+		Total	884		1714	47.56		1890	52.44		3604
+
+	POSTAL										
+			1st Prefs		1190	49.01		1238	50.99		2428
+		"HOWELL, Betty ()"	43		27	62.79		16	37.21		43
+		"ROBERTS, David (NP)"	62		51	82.26		11	17.74		62
+		"WALL, David (DEM)"	93		43	46.24		50	53.76		93
+		"FARRAR, Jenny (GRN)"	50		22	44.00		28	56.00		50
+		"HOLTMAN, John F (HAN)"	113		53	46.90		60	53.10		113
+		Total	361		1386	49.70		1403	50.30		2789
+
+	PRE_POLL										
+			1st Prefs		2497	49.11		2588	50.89		5085
+		"HOWELL, Betty ()"	93		71	76.34		22	23.66		93
+		"ROBERTS, David (NP)"	166		149	89.76		17	10.24		166
+		"WALL, David (DEM)"	181		66	36.46		115	63.54		181
+		"FARRAR, Jenny (GRN)"	152		41	26.97		111	73.03		152
+		"HOLTMAN, John F (HAN)"	235		94	40.00		141	60.00		235
+		Total	827		2918	49.36		2994	50.64		5912
+
+	PROVISIONAL										
+			1st Prefs		133	34.82		249	65.18		382
+		"HOWELL, Betty ()"	13		9	69.23		4	30.77		13
+		"ROBERTS, David (NP)"	9		8	88.89		1	11.11		9
+		"WALL, David (DEM)"	23		9	39.13		14	60.87		23
+		"FARRAR, Jenny (GRN)"	20		7	35.00		13	65.00		20
+		"HOLTMAN, John F (HAN)"	16		5	31.25		11	68.75		16
+		Total	81		171	36.93		292	63.07		463
+
+	Division Summary											
+			1st Prefs		31532	47.22		35238	52.78		66770	
+		"HOWELL, Betty ()"	1262		848	67.19		414	32.81		1262	
+		"ROBERTS, David (NP)"	2172		1953	89.92		219	10.08		2172	
+		"WALL, David (DEM)"	3233		983	30.41		2250	69.59		3233	
+		"FARRAR, Jenny (GRN)"	2918		664	22.76		2254	77.24		2918	
+		"HOLTMAN, John F (HAN)"	2864		1680	58.66		1184	41.34		2864	
+		Total	12449		37660	47.54		41559	52.46		79219	

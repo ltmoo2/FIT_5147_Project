@@ -1,0 +1,519 @@
+Senate - 1993 Election: Queensland			
+Registered Group Voting Tickets			
+
+
+The Confederate Action Party of Australia			
+
+Ticket	Party/Group Name	Candidate Name	Preferences
+A	The Confederate Action Party of Australia	"JEWELL, Perry J.B."	1
+		"PITT, A. R."	2
+		"HILL, Sandra"	3
+		"GEISSMANN, Mark S."	4
+		"GILL, Ryland E."	5
+		"TEAGUE, Richard C."	6
+B	National Party	"O'CHEE, Bill"	15
+		"KELLY, De-Anne"	14
+		"COBB, Teresa M."	13
+C	Liberal	"MacGIBBON, David"	38
+		"PARER, Warwick"	37
+		"CUNNINGHAM, Ross Alan"	36
+		"BUCHANAN, Ann"	35
+		"BIRD, Henry Walter"	34
+		"DAVIES, Owen"	33
+D	Call to Australia (Fred Nile) Group	"SIMS, Alan"	7
+		"JOYNER, Rona"	8
+E	"Unendorsed - Weedon, Barry"	"WEEDON, Barry"	11
+		"CROMPTON, Margaret"	12
+F	Queensland Greens	"HUTTON, Drew"	30
+		"HUNT, Colin"	29
+		"SPENCER, Naomi"	28
+G	Australian Labor Party (ALP)	"REYNOLDS, Margaret"	42
+		"COLSTON, Malcolm"	41
+		"BIRD, John"	40
+		"McLEAN, Ian"	39
+H	"Unendorsed - Alford, Ronald James"	"ALFORD, Ronald James"	10
+		"SMITH, Sylvia Dianne"	9
+I	A.I.P.P.	"McCARTHY, Darby"	27
+		"BRANFIELD, Una"	26
+J	Natural Law Party	"WILSON, Geoff"	25
+		"JACKSON, Peter"	24
+K	Australian Democrats	"WOODLEY, John"	23
+		"CORNISH, Jonathan"	22
+		"WOODROW, Gayle"	21
+		"WALTERS, Tony"	20
+UG	Independent	"DIMITRIOU, Steve"	16
+UG	Citizens Electoral Councils of Australia Group	"KOEHLER, John"	31
+UG	Independent	"GARVEY, Barry"	17
+UG	Independent	"SHERLOCK, Joe"	18
+UG		"BEILBY, Christopher Hart"	19
+UG	Citizens Electoral Councils of Australia Group	"WARNER, Julie"	32
+
+
+National Party			
+
+Ticket	Party/Group Name	Candidate Name	Preferences
+A	The Confederate Action Party of Australia	"JEWELL, Perry J.B."	12
+		"PITT, A. R."	13
+		"HILL, Sandra"	14
+		"GEISSMANN, Mark S."	15
+		"GILL, Ryland E."	16
+		"TEAGUE, Richard C."	17
+B	National Party	"O'CHEE, Bill"	1
+		"KELLY, De-Anne"	2
+		"COBB, Teresa M."	3
+C	Liberal	"MacGIBBON, David"	4
+		"PARER, Warwick"	5
+		"CUNNINGHAM, Ross Alan"	6
+		"BUCHANAN, Ann"	7
+		"BIRD, Henry Walter"	8
+		"DAVIES, Owen"	9
+D	Call to Australia (Fred Nile) Group	"SIMS, Alan"	10
+		"JOYNER, Rona"	11
+E	"Unendorsed - Weedon, Barry"	"WEEDON, Barry"	18
+		"CROMPTON, Margaret"	19
+F	Queensland Greens	"HUTTON, Drew"	36
+		"HUNT, Colin"	37
+		"SPENCER, Naomi"	38
+G	Australian Labor Party (ALP)	"REYNOLDS, Margaret"	39
+		"COLSTON, Malcolm"	40
+		"BIRD, John"	41
+		"McLEAN, Ian"	42
+H	"Unendorsed - Alford, Ronald James"	"ALFORD, Ronald James"	34
+		"SMITH, Sylvia Dianne"	35
+I	A.I.P.P.	"McCARTHY, Darby"	32
+		"BRANFIELD, Una"	33
+J	Natural Law Party	"WILSON, Geoff"	30
+		"JACKSON, Peter"	31
+K	Australian Democrats	"WOODLEY, John"	26
+		"CORNISH, Jonathan"	27
+		"WOODROW, Gayle"	28
+		"WALTERS, Tony"	29
+UG	Independent	"DIMITRIOU, Steve"	20
+UG	Citizens Electoral Councils of Australia Group	"KOEHLER, John"	21
+UG	Independent	"GARVEY, Barry"	22
+UG	Independent	"SHERLOCK, Joe"	23
+UG		"BEILBY, Christopher Hart"	24
+UG	Citizens Electoral Councils of Australia Group	"WARNER, Julie"	25
+
+
+Liberal			
+
+Ticket	Party/Group Name	Candidate Name	Preferences
+A	The Confederate Action Party of Australia	"JEWELL, Perry J.B."	10
+		"PITT, A. R."	11
+		"HILL, Sandra"	12
+		"GEISSMANN, Mark S."	13
+		"GILL, Ryland E."	14
+		"TEAGUE, Richard C."	15
+B	National Party	"O'CHEE, Bill"	7
+		"KELLY, De-Anne"	8
+		"COBB, Teresa M."	9
+C	Liberal	"MacGIBBON, David"	1
+		"PARER, Warwick"	2
+		"CUNNINGHAM, Ross Alan"	3
+		"BUCHANAN, Ann"	4
+		"BIRD, Henry Walter"	5
+		"DAVIES, Owen"	6
+D	Call to Australia (Fred Nile) Group	"SIMS, Alan"	16
+		"JOYNER, Rona"	17
+E	"Unendorsed - Weedon, Barry"	"WEEDON, Barry"	18
+		"CROMPTON, Margaret"	19
+F	Queensland Greens	"HUTTON, Drew"	20
+		"HUNT, Colin"	21
+		"SPENCER, Naomi"	22
+G	Australian Labor Party (ALP)	"REYNOLDS, Margaret"	39
+		"COLSTON, Malcolm"	40
+		"BIRD, John"	41
+		"McLEAN, Ian"	42
+H	"Unendorsed - Alford, Ronald James"	"ALFORD, Ronald James"	37
+		"SMITH, Sylvia Dianne"	38
+I	A.I.P.P.	"McCARTHY, Darby"	35
+		"BRANFIELD, Una"	36
+J	Natural Law Party	"WILSON, Geoff"	33
+		"JACKSON, Peter"	34
+K	Australian Democrats	"WOODLEY, John"	29
+		"CORNISH, Jonathan"	30
+		"WOODROW, Gayle"	31
+		"WALTERS, Tony"	32
+UG	Independent	"DIMITRIOU, Steve"	23
+UG	Citizens Electoral Councils of Australia Group	"KOEHLER, John"	24
+UG	Independent	"GARVEY, Barry"	25
+UG	Independent	"SHERLOCK, Joe"	26
+UG		"BEILBY, Christopher Hart"	27
+UG	Citizens Electoral Councils of Australia Group	"WARNER, Julie"	28
+
+
+Call to Australia (Fred Nile) Group				
+			Preferences	
+Ticket	Party/Group Name	Candidate Name	Ticket # 1	Ticket # 2
+A	The Confederate Action Party of Australia	"JEWELL, Perry J.B."	3	6
+		"PITT, A. R."	4	7
+		"HILL, Sandra"	5	8
+		"GEISSMANN, Mark S."	6	9
+		"GILL, Ryland E."	7	10
+		"TEAGUE, Richard C."	8	11
+B	National Party	"O'CHEE, Bill"	11	3
+		"KELLY, De-Anne"	12	4
+		"COBB, Teresa M."	13	5
+C	Liberal	"MacGIBBON, David"	14	14
+		"PARER, Warwick"	15	15
+		"CUNNINGHAM, Ross Alan"	16	16
+		"BUCHANAN, Ann"	17	17
+		"BIRD, Henry Walter"	18	18
+		"DAVIES, Owen"	19	19
+D	Call to Australia (Fred Nile) Group	"SIMS, Alan"	1	1
+		"JOYNER, Rona"	2	2
+E	"Unendorsed - Weedon, Barry"	"WEEDON, Barry"	22	22
+		"CROMPTON, Margaret"	23	23
+F	Queensland Greens	"HUTTON, Drew"	35	35
+		"HUNT, Colin"	36	36
+		"SPENCER, Naomi"	37	37
+G	Australian Labor Party (ALP)	"REYNOLDS, Margaret"	27	27
+		"COLSTON, Malcolm"	28	28
+		"BIRD, John"	29	29
+		"McLEAN, Ian"	30	30
+H	"Unendorsed - Alford, Ronald James"	"ALFORD, Ronald James"	20	20
+		"SMITH, Sylvia Dianne"	21	21
+I	A.I.P.P.	"McCARTHY, Darby"	38	38
+		"BRANFIELD, Una"	39	39
+J	Natural Law Party	"WILSON, Geoff"	40	40
+		"JACKSON, Peter"	41	41
+K	Australian Democrats	"WOODLEY, John"	31	31
+		"CORNISH, Jonathan"	32	32
+		"WOODROW, Gayle"	33	33
+		"WALTERS, Tony"	34	34
+UG	Independent	"DIMITRIOU, Steve"	42	42
+UG	Citizens Electoral Councils of Australia Group	"KOEHLER, John"	24	24
+UG	Independent	"GARVEY, Barry"	25	25
+UG	Independent	"SHERLOCK, Joe"	26	26
+UG		"BEILBY, Christopher Hart"	9	12
+UG	Citizens Electoral Councils of Australia Group	"WARNER, Julie"	10	13
+
+
+"Unendorsed - Weedon, Barry"			
+
+Ticket	Party/Group Name	Candidate Name	Preferences
+A	The Confederate Action Party of Australia	"JEWELL, Perry J.B."	3
+		"PITT, A. R."	4
+		"HILL, Sandra"	5
+		"GEISSMANN, Mark S."	6
+		"GILL, Ryland E."	7
+		"TEAGUE, Richard C."	8
+B	National Party	"O'CHEE, Bill"	9
+		"KELLY, De-Anne"	10
+		"COBB, Teresa M."	11
+C	Liberal	"MacGIBBON, David"	12
+		"PARER, Warwick"	13
+		"CUNNINGHAM, Ross Alan"	14
+		"BUCHANAN, Ann"	15
+		"BIRD, Henry Walter"	16
+		"DAVIES, Owen"	17
+D	Call to Australia (Fred Nile) Group	"SIMS, Alan"	18
+		"JOYNER, Rona"	19
+E	"Unendorsed - Weedon, Barry"	"WEEDON, Barry"	1
+		"CROMPTON, Margaret"	2
+F	Queensland Greens	"HUTTON, Drew"	20
+		"HUNT, Colin"	21
+		"SPENCER, Naomi"	22
+G	Australian Labor Party (ALP)	"REYNOLDS, Margaret"	23
+		"COLSTON, Malcolm"	24
+		"BIRD, John"	25
+		"McLEAN, Ian"	26
+H	"Unendorsed - Alford, Ronald James"	"ALFORD, Ronald James"	27
+		"SMITH, Sylvia Dianne"	28
+I	A.I.P.P.	"McCARTHY, Darby"	29
+		"BRANFIELD, Una"	30
+J	Natural Law Party	"WILSON, Geoff"	31
+		"JACKSON, Peter"	32
+K	Australian Democrats	"WOODLEY, John"	33
+		"CORNISH, Jonathan"	34
+		"WOODROW, Gayle"	35
+		"WALTERS, Tony"	36
+UG	Independent	"DIMITRIOU, Steve"	37
+UG	Citizens Electoral Councils of Australia Group	"KOEHLER, John"	38
+UG	Independent	"GARVEY, Barry"	39
+UG	Independent	"SHERLOCK, Joe"	40
+UG		"BEILBY, Christopher Hart"	41
+UG	Citizens Electoral Councils of Australia Group	"WARNER, Julie"	42
+
+
+Queensland Greens			
+
+Ticket	Party/Group Name	Candidate Name	Preferences
+A	The Confederate Action Party of Australia	"JEWELL, Perry J.B."	37
+		"PITT, A. R."	38
+		"HILL, Sandra"	39
+		"GEISSMANN, Mark S."	40
+		"GILL, Ryland E."	41
+		"TEAGUE, Richard C."	42
+B	National Party	"O'CHEE, Bill"	26
+		"KELLY, De-Anne"	27
+		"COBB, Teresa M."	28
+C	Liberal	"MacGIBBON, David"	20
+		"PARER, Warwick"	21
+		"CUNNINGHAM, Ross Alan"	22
+		"BUCHANAN, Ann"	23
+		"BIRD, Henry Walter"	24
+		"DAVIES, Owen"	25
+D	Call to Australia (Fred Nile) Group	"SIMS, Alan"	35
+		"JOYNER, Rona"	36
+E	"Unendorsed - Weedon, Barry"	"WEEDON, Barry"	14
+		"CROMPTON, Margaret"	15
+F	Queensland Greens	"HUTTON, Drew"	1
+		"HUNT, Colin"	2
+		"SPENCER, Naomi"	3
+G	Australian Labor Party (ALP)	"REYNOLDS, Margaret"	16
+		"COLSTON, Malcolm"	17
+		"BIRD, John"	18
+		"McLEAN, Ian"	19
+H	"Unendorsed - Alford, Ronald James"	"ALFORD, Ronald James"	12
+		"SMITH, Sylvia Dianne"	13
+I	A.I.P.P.	"McCARTHY, Darby"	10
+		"BRANFIELD, Una"	11
+J	Natural Law Party	"WILSON, Geoff"	8
+		"JACKSON, Peter"	9
+K	Australian Democrats	"WOODLEY, John"	4
+		"CORNISH, Jonathan"	5
+		"WOODROW, Gayle"	6
+		"WALTERS, Tony"	7
+UG	Independent	"DIMITRIOU, Steve"	29
+UG	Citizens Electoral Councils of Australia Group	"KOEHLER, John"	30
+UG	Independent	"GARVEY, Barry"	31
+UG	Independent	"SHERLOCK, Joe"	32
+UG		"BEILBY, Christopher Hart"	33
+UG	Citizens Electoral Councils of Australia Group	"WARNER, Julie"	34
+
+
+Australian Labor Party (ALP)			
+
+Ticket	Party/Group Name	Candidate Name	Preferences
+A	The Confederate Action Party of Australia	"JEWELL, Perry J.B."	28
+		"PITT, A. R."	29
+		"HILL, Sandra"	30
+		"GEISSMANN, Mark S."	31
+		"GILL, Ryland E."	32
+		"TEAGUE, Richard C."	33
+B	National Party	"O'CHEE, Bill"	34
+		"KELLY, De-Anne"	35
+		"COBB, Teresa M."	36
+C	Liberal	"MacGIBBON, David"	37
+		"PARER, Warwick"	38
+		"CUNNINGHAM, Ross Alan"	39
+		"BUCHANAN, Ann"	40
+		"BIRD, Henry Walter"	41
+		"DAVIES, Owen"	42
+D	Call to Australia (Fred Nile) Group	"SIMS, Alan"	26
+		"JOYNER, Rona"	27
+E	"Unendorsed - Weedon, Barry"	"WEEDON, Barry"	24
+		"CROMPTON, Margaret"	25
+F	Queensland Greens	"HUTTON, Drew"	9
+		"HUNT, Colin"	10
+		"SPENCER, Naomi"	11
+G	Australian Labor Party (ALP)	"REYNOLDS, Margaret"	1
+		"COLSTON, Malcolm"	2
+		"BIRD, John"	3
+		"McLEAN, Ian"	4
+H	"Unendorsed - Alford, Ronald James"	"ALFORD, Ronald James"	22
+		"SMITH, Sylvia Dianne"	23
+I	A.I.P.P.	"McCARTHY, Darby"	12
+		"BRANFIELD, Una"	13
+J	Natural Law Party	"WILSON, Geoff"	20
+		"JACKSON, Peter"	21	
+K	Australian Democrats	"WOODLEY, John"	5	
+		"CORNISH, Jonathan"	6	
+		"WOODROW, Gayle"	7	
+		"WALTERS, Tony"	8	
+UG	Independent	"DIMITRIOU, Steve"	14	
+UG	Citizens Electoral Councils of Australia Group	"KOEHLER, John"	15	
+UG	Independent	"GARVEY, Barry"	16	
+UG	Independent	"SHERLOCK, Joe"	17	
+UG		"BEILBY, Christopher Hart"	18	
+UG	Citizens Electoral Councils of Australia Group	"WARNER, Julie"	19	
+
+
+"Unendorsed - Alford, Ronald James"				
+			Preferences	
+Ticket	Party/Group Name	Candidate Name	Ticket # 1	Ticket # 2
+A	The Confederate Action Party of Australia	"JEWELL, Perry J.B."	20	5
+		"PITT, A. R."	21	6
+		"HILL, Sandra"	22	7
+		"GEISSMANN, Mark S."	23	8
+		"GILL, Ryland E."	24	9
+		"TEAGUE, Richard C."	25	10
+B	National Party	"O'CHEE, Bill"	40	36
+		"KELLY, De-Anne"	39	35
+		"COBB, Teresa M."	38	34
+C	Liberal	"MacGIBBON, David"	32	28
+		"PARER, Warwick"	33	29
+		"CUNNINGHAM, Ross Alan"	34	30
+		"BUCHANAN, Ann"	35	31
+		"BIRD, Henry Walter"	36	32
+		"DAVIES, Owen"	37	33
+D	Call to Australia (Fred Nile) Group	"SIMS, Alan"	18	3
+		"JOYNER, Rona"	19	4
+E	"Unendorsed - Weedon, Barry"	"WEEDON, Barry"	42	42
+		"CROMPTON, Margaret"	41	41
+F	Queensland Greens	"HUTTON, Drew"	5	21
+		"HUNT, Colin"	6	22
+		"SPENCER, Naomi"	7	23
+G	Australian Labor Party (ALP)	"REYNOLDS, Margaret"	28	37
+		"COLSTON, Malcolm"	29	38
+		"BIRD, John"	30	39
+		"McLEAN, Ian"	31	40
+H	"Unendorsed - Alford, Ronald James"	"ALFORD, Ronald James"	1	1
+		"SMITH, Sylvia Dianne"	2	2
+I	A.I.P.P.	"McCARTHY, Darby"	26	11
+		"BRANFIELD, Una"	27	12
+J	Natural Law Party	"WILSON, Geoff"	3	19
+		"JACKSON, Peter"	4	20
+K	Australian Democrats	"WOODLEY, John"	8	24
+		"CORNISH, Jonathan"	9	25
+		"WOODROW, Gayle"	10	26
+		"WALTERS, Tony"	11	27
+UG	Independent	"DIMITRIOU, Steve"	17	18
+UG	Citizens Electoral Councils of Australia Group	"KOEHLER, John"	12	13
+UG	Independent	"GARVEY, Barry"	16	17
+UG	Independent	"SHERLOCK, Joe"	15	16
+UG		"BEILBY, Christopher Hart"	14	15
+UG	Citizens Electoral Councils of Australia Group	"WARNER, Julie"	13	14
+
+
+A.I.P.P.				
+
+Ticket	Party/Group Name	Candidate Name	Preferences	
+A	The Confederate Action Party of Australia	"JEWELL, Perry J.B."	37	
+		"PITT, A. R."	38
+		"HILL, Sandra"	39
+		"GEISSMANN, Mark S."	40
+		"GILL, Ryland E."	41
+		"TEAGUE, Richard C."	42
+B	National Party	"O'CHEE, Bill"	36
+		"KELLY, De-Anne"	35
+		"COBB, Teresa M."	34
+C	Liberal	"MacGIBBON, David"	28
+		"PARER, Warwick"	29
+		"CUNNINGHAM, Ross Alan"	30
+		"BUCHANAN, Ann"	31
+		"BIRD, Henry Walter"	32
+		"DAVIES, Owen"	33
+D	Call to Australia (Fred Nile) Group	"SIMS, Alan"	26
+		"JOYNER, Rona"	27
+E	"Unendorsed - Weedon, Barry"	"WEEDON, Barry"	22
+		"CROMPTON, Margaret"	23
+F	Queensland Greens	"HUTTON, Drew"	7
+		"HUNT, Colin"	8
+		"SPENCER, Naomi"	9
+G	Australian Labor Party (ALP)	"REYNOLDS, Margaret"	10
+		"COLSTON, Malcolm"	11
+		"BIRD, John"	12
+		"McLEAN, Ian"	13
+H	"Unendorsed - Alford, Ronald James"	"ALFORD, Ronald James"	20
+		"SMITH, Sylvia Dianne"	21
+I	A.I.P.P.	"McCARTHY, Darby"	1
+		"BRANFIELD, Una"	2
+J	Natural Law Party	"WILSON, Geoff"	24
+		"JACKSON, Peter"	25
+K	Australian Democrats	"WOODLEY, John"	3
+		"CORNISH, Jonathan"	4	
+		"WOODROW, Gayle"	5	
+		"WALTERS, Tony"	6	
+UG	Independent	"DIMITRIOU, Steve"	14	
+UG	Citizens Electoral Councils of Australia Group	"KOEHLER, John"	15	
+UG	Independent	"GARVEY, Barry"	16	
+UG	Independent	"SHERLOCK, Joe"	17	
+UG		"BEILBY, Christopher Hart"	18	
+UG	Citizens Electoral Councils of Australia Group	"WARNER, Julie"	19	
+
+
+Natural Law Party				
+			Preferences	
+Ticket	Party/Group Name	Candidate Name	Ticket # 1	Ticket # 2
+A	The Confederate Action Party of Australia	"JEWELL, Perry J.B."	37	37
+		"PITT, A. R."	38	38
+		"HILL, Sandra"	39	39
+		"GEISSMANN, Mark S."	40	40
+		"GILL, Ryland E."	41	41
+		"TEAGUE, Richard C."	42	42
+B	National Party	"O'CHEE, Bill"	26	26
+		"KELLY, De-Anne"	27	27
+		"COBB, Teresa M."	28	28
+C	Liberal	"MacGIBBON, David"	20	16
+		"PARER, Warwick"	21	17
+		"CUNNINGHAM, Ross Alan"	22	18
+		"BUCHANAN, Ann"	23	19
+		"BIRD, Henry Walter"	24	20
+		"DAVIES, Owen"	25	21
+D	Call to Australia (Fred Nile) Group	"SIMS, Alan"	35	35
+		"JOYNER, Rona"	36	36
+E	"Unendorsed - Weedon, Barry"	"WEEDON, Barry"	12	12
+		"CROMPTON, Margaret"	13	13
+F	Queensland Greens	"HUTTON, Drew"	3	3
+		"HUNT, Colin"	4	4
+		"SPENCER, Naomi"	5	5
+G	Australian Labor Party (ALP)	"REYNOLDS, Margaret"	16	22
+		"COLSTON, Malcolm"	17	23
+		"BIRD, John"	18	24
+		"McLEAN, Ian"	19	25
+H	"Unendorsed - Alford, Ronald James"	"ALFORD, Ronald James"	14	14
+		"SMITH, Sylvia Dianne"	15	15
+I	A.I.P.P.	"McCARTHY, Darby"	10	10
+		"BRANFIELD, Una"	11	11
+J	Natural Law Party	"WILSON, Geoff"	1	1
+		"JACKSON, Peter"	2	2
+K	Australian Democrats	"WOODLEY, John"	6	6
+		"CORNISH, Jonathan"	7	7
+		"WOODROW, Gayle"	8	8
+		"WALTERS, Tony"	9	9
+UG	Independent	"DIMITRIOU, Steve"	29	29
+UG	Citizens Electoral Councils of Australia Group	"KOEHLER, John"	30	30
+UG	Independent	"GARVEY, Barry"	31	31
+UG	Independent	"SHERLOCK, Joe"	32	32
+UG		"BEILBY, Christopher Hart"	33	33
+UG	Citizens Electoral Councils of Australia Group	"WARNER, Julie"	34	34
+
+
+Australian Democrats				
+			Preferences	
+Ticket	Party/Group Name	Candidate Name	Ticket # 1	Ticket # 2
+A	The Confederate Action Party of Australia	"JEWELL, Perry J.B."	35	12
+		"PITT, A. R."	36	13
+		"HILL, Sandra"	37	14
+		"GEISSMANN, Mark S."	38	15
+		"GILL, Ryland E."	39	16
+		"TEAGUE, Richard C."	40	17
+B	National Party	"O'CHEE, Bill"	26	18
+		"KELLY, De-Anne"	27	19
+		"COBB, Teresa M."	28	20
+C	Liberal	"MacGIBBON, David"	29	21
+		"PARER, Warwick"	30	22
+		"CUNNINGHAM, Ross Alan"	31	23
+		"BUCHANAN, Ann"	32	24
+		"BIRD, Henry Walter"	33	25
+		"DAVIES, Owen"	34	26
+D	Call to Australia (Fred Nile) Group	"SIMS, Alan"	41	27
+		"JOYNER, Rona"	42	28
+E	"Unendorsed - Weedon, Barry"	"WEEDON, Barry"	24	29
+		"CROMPTON, Margaret"	25	30
+F	Queensland Greens	"HUTTON, Drew"	5	5
+		"HUNT, Colin"	6	6
+		"SPENCER, Naomi"	7	7
+G	Australian Labor Party (ALP)	"REYNOLDS, Margaret"	12	39
+		"COLSTON, Malcolm"	13	40
+		"BIRD, John"	14	41
+		"McLEAN, Ian"	15	42
+H	"Unendorsed - Alford, Ronald James"	"ALFORD, Ronald James"	22	31
+		"SMITH, Sylvia Dianne"	23	32
+I	A.I.P.P.	"McCARTHY, Darby"	8	8
+		"BRANFIELD, Una"	9	9
+J	Natural Law Party	"WILSON, Geoff"	10	10
+		"JACKSON, Peter"	11	11
+K	Australian Democrats	"WOODLEY, John"	1	1
+		"CORNISH, Jonathan"	2	2
+		"WOODROW, Gayle"	3	3
+		"WALTERS, Tony"	4	4
+UG	Independent	"DIMITRIOU, Steve"	16	33
+UG	Citizens Electoral Councils of Australia Group	"KOEHLER, John"	17	34
+UG	Independent	"GARVEY, Barry"	18	35
+UG	Independent	"SHERLOCK, Joe"	19	36
+UG		"BEILBY, Christopher Hart"	20	37
+UG	Citizens Electoral Councils of Australia Group	"WARNER, Julie"	21	38

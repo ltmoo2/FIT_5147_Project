@@ -1,0 +1,202 @@
+Senate - 1993 Election: Tasmania				
+Registered Group Voting Tickets				
+
+
+Tasmanian Independent Senator Brian Harradine				
+			Preferences	
+Ticket	Party/Group Name	Candidate Name	Ticket # 1	Ticket # 2
+A	Tasmanian Independent Senator Brian Harradine	"HARRADINE, Brian"	1	1
+B	Australian Labor Party	"TATE, Michael"	9	6
+		"COATES, John"	10	7
+		"MURPHY, Shayne"	11	8
+		"AULICH, Terry"	12	9
+C	Tasmania Senate Team	"SPROULE, Alan"	2	4
+		"McSHANE, Frances"	3	5
+D	Tasmanian Greens	"HENDERSON, Judy"	16	16
+		"JONES, Peter"	17	17
+		"FRY, Marion"	18	18
+E	Call to Australia (Fred Nile) Group	"HOPSON, Philip"	4	2
+		"HOPSON, Janelle"	5	3
+F	Natural Law Party	"BROSZCZYK, Greg"	19	19
+		"DAVIES, Caroline"	20	20
+G	Australian Democrats	"HARMSEN, Patsy"	14	14
+		"STEPHEN, David"	15	15
+H	Liberal	"ARCHER, Brian"	6	10
+		"GIBSON, Brian"	7	11
+		"ABETZ, Eric"	8	12
+UG	Independent	"JAMIESON, Ian"	13	13
+
+
+Australian Labor Party				
+
+Ticket	Party/Group Name	Candidate Name	Preferences	
+A	Tasmanian Independent Senator Brian Harradine	"HARRADINE, Brian"	10
+B	Australian Labor Party	"TATE, Michael"	1
+		"COATES, John"	2
+		"MURPHY, Shayne"	3
+		"AULICH, Terry"	4
+C	Tasmania Senate Team	"SPROULE, Alan"	12
+		"McSHANE, Frances"	13
+D	Tasmanian Greens	"HENDERSON, Judy"	7
+		"JONES, Peter"	8
+		"FRY, Marion"	9
+E	Call to Australia (Fred Nile) Group	"HOPSON, Philip"	16
+		"HOPSON, Janelle"	17
+F	Natural Law Party	"BROSZCZYK, Greg"	14
+		"DAVIES, Caroline"	15
+G	Australian Democrats	"HARMSEN, Patsy"	5
+		"STEPHEN, David"	6
+H	Liberal	"ARCHER, Brian"	18		
+		"GIBSON, Brian"	19		
+		"ABETZ, Eric"	20		
+UG	Independent	"JAMIESON, Ian"	11		
+
+
+Tasmania Senate Team					
+			Preferences		
+Ticket	Party/Group Name	Candidate Name	Ticket # 1	Ticket # 2	Ticket # 3
+A	Tasmanian Independent Senator Brian Harradine	"HARRADINE, Brian"	3	7	5
+B	Australian Labor Party	"TATE, Michael"	8	17	3
+		"COATES, John"	9	16	4
+		"MURPHY, Shayne"	13	15	13
+		"AULICH, Terry"	7	12	12
+C	Tasmania Senate Team	"SPROULE, Alan"	1	1	1
+		"McSHANE, Frances"	2	2	2
+D	Tasmanian Greens	"HENDERSON, Judy"	12	10	6
+		"JONES, Peter"	11	9	7
+		"FRY, Marion"	10	8	8
+E	Call to Australia (Fred Nile) Group	"HOPSON, Philip"	16	19	17
+		"HOPSON, Janelle"	17	18	16
+F	Natural Law Party	"BROSZCZYK, Greg"	20	14	20
+		"DAVIES, Caroline"	19	13	19
+G	Australian Democrats	"HARMSEN, Patsy"	15	6	9
+		"STEPHEN, David"	14	5	10
+H	Liberal	"ARCHER, Brian"	4	3	15
+		"GIBSON, Brian"	5	4	14
+		"ABETZ, Eric"	6	11	11
+UG	Independent	"JAMIESON, Ian"	18	20	18
+
+
+Tasmanian Greens					
+
+Ticket	Party/Group Name	Candidate Name	Preferences
+A	Tasmanian Independent Senator Brian Harradine	"HARRADINE, Brian"	15
+B	Australian Labor Party	"TATE, Michael"	7
+		"COATES, John"	6
+		"MURPHY, Shayne"	10
+		"AULICH, Terry"	8
+C	Tasmania Senate Team	"SPROULE, Alan"	13
+		"McSHANE, Frances"	14
+D	Tasmanian Greens	"HENDERSON, Judy"	1
+		"JONES, Peter"	2
+		"FRY, Marion"	3
+E	Call to Australia (Fred Nile) Group	"HOPSON, Philip"	16
+		"HOPSON, Janelle"	17
+F	Natural Law Party	"BROSZCZYK, Greg"	11
+		"DAVIES, Caroline"	12
+G	Australian Democrats	"HARMSEN, Patsy"	4
+		"STEPHEN, David"	5
+H	Liberal	"ARCHER, Brian"	18
+		"GIBSON, Brian"	20
+		"ABETZ, Eric"	19
+UG	Independent	"JAMIESON, Ian"	9
+
+
+Call to Australia (Fred Nile) Group			
+
+Ticket	Party/Group Name	Candidate Name	Preferences
+A	Tasmanian Independent Senator Brian Harradine	"HARRADINE, Brian"	5
+B	Australian Labor Party	"TATE, Michael"	9
+		"COATES, John"	10
+		"MURPHY, Shayne"	11
+		"AULICH, Terry"	12
+C	Tasmania Senate Team	"SPROULE, Alan"	3
+		"McSHANE, Frances"	4
+D	Tasmanian Greens	"HENDERSON, Judy"	14
+		"JONES, Peter"	15
+		"FRY, Marion"	16
+E	Call to Australia (Fred Nile) Group	"HOPSON, Philip"	1
+		"HOPSON, Janelle"	2
+F	Natural Law Party	"BROSZCZYK, Greg"	17
+		"DAVIES, Caroline"	18
+G	Australian Democrats	"HARMSEN, Patsy"	19
+		"STEPHEN, David"	20
+H	Liberal	"ARCHER, Brian"	6
+		"GIBSON, Brian"	7
+		"ABETZ, Eric"	8
+UG	Independent	"JAMIESON, Ian"	13
+
+
+Natural Law Party			
+
+Ticket	Party/Group Name	Candidate Name	Preferences
+A	Tasmanian Independent Senator Brian Harradine	"HARRADINE, Brian"	6
+B	Australian Labor Party	"TATE, Michael"	9
+		"COATES, John"	13
+		"MURPHY, Shayne"	16
+		"AULICH, Terry"	20
+C	Tasmania Senate Team	"SPROULE, Alan"	10
+		"McSHANE, Frances"	14
+D	Tasmanian Greens	"HENDERSON, Judy"	3
+		"JONES, Peter"	4
+		"FRY, Marion"	5
+E	Call to Australia (Fred Nile) Group	"HOPSON, Philip"	15
+		"HOPSON, Janelle"	17
+F	Natural Law Party	"BROSZCZYK, Greg"	1	
+		"DAVIES, Caroline"	2	
+G	Australian Democrats	"HARMSEN, Patsy"	7	
+		"STEPHEN, David"	8	
+H	Liberal	"ARCHER, Brian"	12	
+		"GIBSON, Brian"	18	
+		"ABETZ, Eric"	19	
+UG	Independent	"JAMIESON, Ian"	11	
+
+
+Australian Democrats				
+			Preferences	
+Ticket	Party/Group Name	Candidate Name	Ticket # 1	Ticket # 2
+A	Tasmanian Independent Senator Brian Harradine	"HARRADINE, Brian"	16	16
+B	Australian Labor Party	"TATE, Michael"	9	12
+		"COATES, John"	10	13
+		"MURPHY, Shayne"	12	15
+		"AULICH, Terry"	11	14
+C	Tasmania Senate Team	"SPROULE, Alan"	17	17
+		"McSHANE, Frances"	18	18
+D	Tasmanian Greens	"HENDERSON, Judy"	3	3
+		"JONES, Peter"	4	4
+		"FRY, Marion"	5	5
+E	Call to Australia (Fred Nile) Group	"HOPSON, Philip"	19	19
+		"HOPSON, Janelle"	20	20
+F	Natural Law Party	"BROSZCZYK, Greg"	7	7
+		"DAVIES, Caroline"	8	8
+G	Australian Democrats	"HARMSEN, Patsy"	1	1
+		"STEPHEN, David"	2	2
+H	Liberal	"ARCHER, Brian"	13	9
+		"GIBSON, Brian"	14	10
+		"ABETZ, Eric"	15	11
+UG	Independent	"JAMIESON, Ian"	6	6
+
+
+Liberal				
+
+Ticket	Party/Group Name	Candidate Name	Preferences	
+A	Tasmanian Independent Senator Brian Harradine	"HARRADINE, Brian"	4	
+B	Australian Labor Party	"TATE, Michael"	16	
+		"COATES, John"	17	
+		"MURPHY, Shayne"	18	
+		"AULICH, Terry"	19	
+C	Tasmania Senate Team	"SPROULE, Alan"	5	
+		"McSHANE, Frances"	6	
+D	Tasmanian Greens	"HENDERSON, Judy"	13	
+		"JONES, Peter"	14	
+		"FRY, Marion"	15	
+E	Call to Australia (Fred Nile) Group	"HOPSON, Philip"	7
+		"HOPSON, Janelle"	8
+F	Natural Law Party	"BROSZCZYK, Greg"	11
+		"DAVIES, Caroline"	12
+G	Australian Democrats	"HARMSEN, Patsy"	9
+		"STEPHEN, David"	10
+H	Liberal	"ARCHER, Brian"	1
+		"GIBSON, Brian"	2
+		"ABETZ, Eric"	3
+UG	Independent	"JAMIESON, Ian"	20

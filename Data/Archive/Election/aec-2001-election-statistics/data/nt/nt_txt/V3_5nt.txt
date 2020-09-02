@@ -1,0 +1,106 @@
+House of Representatives - 2001 Election: Northern Territory								
+Swing to ALP								
+By Division by Polling Place								
+								
+Lingiari								
+								
+Polling Place	Formal	SNOWDON		KELLY		Swing		
+	Votes	(ALP)	%	(CLP)	%	%		
+Alice Springs	1672	873	52.21	799	47.79	4.58		
+Alyangula	375	233	62.13	142	37.87	9.55		
+Batchelor	287	178	62.02	109	37.98	4.53		
+Bees Creek	884	383	43.33	501	56.67	4.59		
+Berry Springs	640	296	46.25	344	53.75	1.63		
+Blatherskite Park	273	116	42.49	157	57.51	8.20		
+Braitling	1795	795	44.29	1000	55.71	2.64		
+Christmas Island	405	284	70.12	121	29.88	0.22		
+Gillen	2835	1328	46.84	1507	53.16	6.48		
+Home Island	257	171	66.54	86	33.46	-22.50		
+Howard Springs	1879	743	39.54	1136	60.46	1.77		
+Humpty Doo	2593	1099	42.38	1494	57.62	2.13		
+Jabiru	414	223	53.86	191	46.14	8.36		
+Katherine	1824	776	42.54	1048	57.46	4.76		
+Katherine East	1138	485	42.62	653	57.38	2.89		
+Larapinta	1424	612	42.98	812	57.02	4.62		
+Nhulunbuy	1501	829	55.23	672	44.77	7.81		
+Pine Creek	138	56	40.58	82	59.42	-4.20		
+Prison Mobile Team 1	87	77	88.51	10	11.49	15.48		
+Remote Mobile Team 1	1199	979	81.65	220	18.35	1.59		
+Remote Mobile Team 10	347	193	55.62	154	44.38	-24.42		
+Remote Mobile Team 11	683	549	80.38	134	19.62	0.34		
+Remote Mobile Team 12	580	483	83.28	97	16.72	3.22		
+Remote Mobile Team 13	123	80	65.04	43	34.96	-15.00		
+Remote Mobile Team 14	751	638	84.95	113	15.05	4.90		
+Remote Mobile Team 15	421	384	91.21	37	8.79	11.15		
+Remote Mobile Team 16	479	363	75.78	116	24.22	-4.36		
+Remote Mobile Team 17	190	135	71.05	55	28.95	-9.01		
+Remote Mobile Team 18	906	802	88.52	104	11.48	8.52		
+Remote Mobile Team 19	250	199	79.60	51	20.40	-0.46		
+Remote Mobile Team 2	499	405	81.16	94	18.84	1.10		
+Remote Mobile Team 20	406	363	89.41	43	10.59	9.36		
+Remote Mobile Team 21	0	0	0.00	0	0.00	-80.14		
+Remote Mobile Team 22	0	0	0.00	0	0.00	-80.05		
+Remote Mobile Team 23	0	0	0.00	0	0.00	-80.06		
+Remote Mobile Team 24	0	0	0.00	0	0.00	-80.06		
+Remote Mobile Team 25	0	0	0.00	0	0.00	-80.06		
+Remote Mobile Team 3	310	215	69.35	95	30.65	-10.70		
+Remote Mobile Team 4	660	498	75.45	162	24.55	-4.55		
+Remote Mobile Team 5	1093	766	70.08	327	29.92	-10.01		
+Remote Mobile Team 6	1375	1089	79.20	286	20.80	-0.80		
+Remote Mobile Team 7	236	144	61.02	92	38.98	-19.03		
+Remote Mobile Team 8	431	216	50.12	215	49.88	-29.94		
+Remote Mobile Team 9	871	516	59.24	355	40.76	-20.76		
+Sadadeen	2333	1162	49.81	1171	50.19	5.29		
+Special Hospital Team 1	107	63	58.88	44	41.12	1.19		
+Special Hospital Team 2	33	21	63.64	12	36.36	5.30		
+Special Hospital Team 3	8	5	62.50	3	37.50	5.36		
+Special Hospital Team 4	6	5	83.33	1	16.67	26.19		
+Tennant Creek	1311	765	58.35	546	41.65	6.53		
+Tindal	347	116	33.43	231	66.57	5.46		
+West Island	39	26	66.67	13	33.33	2.78		
+Yirara	515	238	46.21	277	53.79	14.21		
+Yulara	385	166	43.12	219	56.88	-4.87		
+ABSENT	1119	643	57.46	476	42.54	-		
+POSTAL	1231	362	29.41	869	70.59	-		
+PRE POLL	3674	1772	48.23	1902	51.77	-		
+PROVISIONAL	394	264	67.01	130	32.99	-		
+Division Total	43733	24182	55.29	19551	44.71	1.77		
+								
+								
+Solomon								
+								
+Polling Place	Formal	HULL		TOLLNER		Swing		
+	Votes	(ALP)	%	(CLP)	%	%		
+Anula	2161	1190	55.07	971	44.93	3.46		
+Bakewell	1920	762	39.69	1158	60.31	-6.64		
+Berrimah	718	244	33.98	474	66.02	-3.84		
+Darwin	755	365	48.34	390	51.66	-0.82		
+Driver	2425	1094	45.11	1331	54.89	-0.19		
+Durack	1473	496	33.67	977	66.33	-0.34		
+Gray	2297	1032	44.93	1265	55.07	-2.09		
+Jingili	1877	1033	55.03	844	44.97	3.48		
+Karama	3479	1896	54.50	1583	45.50	2.23		
+Larrakeyah	1651	652	39.49	999	60.51	8.27		
+Leanyer	1986	999	50.30	987	49.70	6.68		
+Ludmilla	1696	818	48.23	878	51.77	0.95		
+Moulden	633	330	52.13	303	47.87	0.98		
+Nakara	2223	1293	58.16	930	41.84	9.38		
+Nightcliff	3704	2035	54.94	1669	45.06	5.43		
+Parap	2545	1285	50.49	1260	49.51	3.40		
+Prison Mobile Team 1	13	10	76.92	3	23.08	4.46		
+Rapid Creek	1410	841	59.65	569	40.35	2.62		
+Special Hospital Team 1	100	50	50.00	50	50.00	-5.55		
+Special Hospital Team 2	18	10	55.56	8	44.44	-4.44		
+Stuart Park	1575	758	48.13	817	51.87	1.96		
+Tiwi	1041	596	57.25	445	42.75	0.19		
+Wagaman	1288	765	59.39	523	40.61	7.81		
+Wanguri	1643	918	55.87	725	44.13	4.42		
+Woodroffe	417	166	39.81	251	60.19	-4.81		
+Wulagi	1294	643	49.69	651	50.31	-0.31		
+ABSENT	831	473	56.92	358	43.08	-		
+POSTAL	1116	488	43.73	628	56.27	-		
+PRE POLL	4919	2316	47.08	2603	52.92	-		
+PROVISIONAL	220	112	50.91	108	49.09	-		
+Division Total	47428	23670	49.91	23758	50.09	2.15		
+								
+								

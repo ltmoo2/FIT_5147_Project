@@ -1,0 +1,425 @@
+Senate - 1996 Election: South Australia			
+Registered Group Voting Tickets			
+
+
+Australian Shooters Party			
+Ticket	Party/Group Name	Candidate Name	Preferences
+A	Australian Shooters Party	"ALDERSEY, Haydon"	1
+		"LOW, Robert"	2
+B	Grey Power	"GILBEY-RILEY, Emily"	15
+		"DARBISHIRE, Gratton"	16
+C	Australian Greens	"SPENCE, Stephen"	25
+		"McDOUGALL, Meryl"	26
+D	Australian Labor Party (ALP)	"CROWLEY, Rosemary"	17
+		"SCHACHT, Chris"	18
+		"TEDMANSON, Deirdre"	19
+E	Call to Australia (Fred Nile) Group	"RODWAY, David"	5
+		"RODWAY, Brett"	6
+F	"Unendorsed - Wohltmann, Michael"	"WOHLTMANN, Michael"	20
+		"WOHLTMANN, Jeanette"	21
+G	Australians Against Further Immigration	"JOY, Bert"	3
+		"WIKBLOM, Stephen"	4
+H	Independent EFF	"DWYER, David"	9
+		"WALKER, Alfred"	10
+I	Australian Women's Party	"McCULLOCH, Deborah"	22
+		"McHUGH, Marg"	23
+		"TZUMLI, Denise"	24
+J	"Unendorsed - Nicholson, Kenneth S"	"NICHOLSON, Kenneth S"	7
+		"SHEARING, Colin"	8
+K	Liberal	"HILL, Robert"	11
+		"CHAPMAN, Grant"	12
+		"FERRIS, Jeannie"	13
+		"KOURTESIS, Maria"	14
+L	Australian Democrats	"STOTT DESPOJA, Natasha"	28	
+		"GILFILLAN, Ian"	29	
+		"SMITH, Judy"	30	
+		"TSAGATOS, Desea"	31	
+UG	Natural Law Party	"WELLS, Geoffrey A"	27	
+
+
+Grey Power				
+			Preferences	
+Ticket	Party/Group Name	Candidate Name	Ticket # 1	Ticket # 2
+A	Australian Shooters Party	"ALDERSEY, Haydon"	30	27
+		"LOW, Robert"	31	28
+B	Grey Power	"GILBEY-RILEY, Emily"	1	1
+		"DARBISHIRE, Gratton"	2	2
+C	Australian Greens	"SPENCE, Stephen"	14	14
+		"McDOUGALL, Meryl"	15	15
+D	Australian Labor Party (ALP)	"CROWLEY, Rosemary"	20	24
+		"SCHACHT, Chris"	21	25
+		"TEDMANSON, Deirdre"	22	26
+E	Call to Australia (Fred Nile) Group	"RODWAY, David"	8	8
+		"RODWAY, Brett"	9	9
+F	"Unendorsed - Wohltmann, Michael"	"WOHLTMANN, Michael"	12	12
+		"WOHLTMANN, Jeanette"	13	13
+G	Australians Against Further Immigration	"JOY, Bert"	3	3
+		"WIKBLOM, Stephen"	4	4
+H	Independent EFF	"DWYER, David"	5	5
+		"WALKER, Alfred"	6	6
+I	Australian Women's Party	"McCULLOCH, Deborah"	29	31
+		"McHUGH, Marg"	28	30
+		"TZUMLI, Denise"	27	29
+J	"Unendorsed - Nicholson, Kenneth S"	"NICHOLSON, Kenneth S"	10	10
+		"SHEARING, Colin"	11	11
+K	Liberal	"HILL, Robert"	23	20
+		"CHAPMAN, Grant"	24	21
+		"FERRIS, Jeannie"	25	22
+		"KOURTESIS, Maria"	26	23
+L	Australian Democrats	"STOTT DESPOJA, Natasha"	16	16
+		"GILFILLAN, Ian"	17	17
+		"SMITH, Judy"	18	18
+		"TSAGATOS, Desea"	19	19
+UG	Natural Law Party	"WELLS, Geoffrey A"	7	7
+
+
+Australian Greens				
+Ticket	Party/Group Name	Candidate Name	Preferences	
+A	Australian Shooters Party	"ALDERSEY, Haydon"	24	
+		"LOW, Robert"	25	
+B	Grey Power	"GILBEY-RILEY, Emily"	20	
+		"DARBISHIRE, Gratton"	21
+C	Australian Greens	"SPENCE, Stephen"	1
+		"McDOUGALL, Meryl"	2
+D	Australian Labor Party (ALP)	"CROWLEY, Rosemary"	14
+		"SCHACHT, Chris"	15
+		"TEDMANSON, Deirdre"	13
+E	Call to Australia (Fred Nile) Group	"RODWAY, David"	28
+		"RODWAY, Brett"	29
+F	"Unendorsed - Wohltmann, Michael"	"WOHLTMANN, Michael"	12
+		"WOHLTMANN, Jeanette"	11
+G	Australians Against Further Immigration	"JOY, Bert"	26
+		"WIKBLOM, Stephen"	27
+H	Independent EFF	"DWYER, David"	30
+		"WALKER, Alfred"	31
+I	Australian Women's Party	"McCULLOCH, Deborah"	3
+		"McHUGH, Marg"	4
+		"TZUMLI, Denise"	5
+J	"Unendorsed - Nicholson, Kenneth S"	"NICHOLSON, Kenneth S"	23
+		"SHEARING, Colin"	22
+K	Liberal	"HILL, Robert"	18
+		"CHAPMAN, Grant"	19
+		"FERRIS, Jeannie"	16
+		"KOURTESIS, Maria"	17
+L	Australian Democrats	"STOTT DESPOJA, Natasha"	6
+		"GILFILLAN, Ian"	9
+		"SMITH, Judy"	7
+		"TSAGATOS, Desea"	8
+UG	Natural Law Party	"WELLS, Geoffrey A"	10
+
+
+Australian Labor Party (ALP)			
+			Preferences
+Ticket	Party/Group Name	Candidate Name	Ticket # 1 	Ticket # 2
+A	Australian Shooters Party	"ALDERSEY, Haydon"	18	18
+		"LOW, Robert"	19	19
+B	Grey Power	"GILBEY-RILEY, Emily"	16	16
+		"DARBISHIRE, Gratton"	17	17
+C	Australian Greens	"SPENCE, Stephen"	8	4
+		"McDOUGALL, Meryl"	9	5
+D	Australian Labor Party (ALP)	"CROWLEY, Rosemary"	1	1
+		"SCHACHT, Chris"	2	2
+		"TEDMANSON, Deirdre"	3	3
+E	Call to Australia (Fred Nile) Group	"RODWAY, David"	20	20
+		"RODWAY, Brett"	21	21
+F	"Unendorsed - Wohltmann, Michael"	"WOHLTMANN, Michael"	13	10
+		"WOHLTMANN, Jeanette"	14	11
+G	Australians Against Further Immigration	"JOY, Bert"	30	30
+		"WIKBLOM, Stephen"	31	31
+H	Independent EFF	"DWYER, David"	22	22
+		"WALKER, Alfred"	23	23
+I	Australian Women's Party	"McCULLOCH, Deborah"	10	12
+		"McHUGH, Marg"	11	13
+		"TZUMLI, Denise"	12	14
+J	"Unendorsed - Nicholson, Kenneth S"	"NICHOLSON, Kenneth S"	24	24
+		"SHEARING, Colin"	25	25
+K	Liberal	"HILL, Robert"	26	26
+		"CHAPMAN, Grant"	27	27
+		"FERRIS, Jeannie"	28	28
+		"KOURTESIS, Maria"	29	29
+L	Australian Democrats	"STOTT DESPOJA, Natasha"	4	6
+		"GILFILLAN, Ian"	5	7
+		"SMITH, Judy"	6	8
+		"TSAGATOS, Desea"	7	9
+UG	Natural Law Party	"WELLS, Geoffrey A"	15	15
+
+
+Call to Australia (Fred Nile) Group			
+Ticket	Party/Group Name	Candidate Name	Preferences
+A	Australian Shooters Party	"ALDERSEY, Haydon"	17
+		"LOW, Robert"	18
+B	Grey Power	"GILBEY-RILEY, Emily"	7
+		"DARBISHIRE, Gratton"	8
+C	Australian Greens	"SPENCE, Stephen"	26
+		"McDOUGALL, Meryl"	27
+D	Australian Labor Party (ALP)	"CROWLEY, Rosemary"	29
+		"SCHACHT, Chris"	30
+		"TEDMANSON, Deirdre"	31
+E	Call to Australia (Fred Nile) Group	"RODWAY, David"	1
+		"RODWAY, Brett"	2
+F	"Unendorsed - Wohltmann, Michael"	"WOHLTMANN, Michael"	22
+		"WOHLTMANN, Jeanette"	23
+G	Australians Against Further Immigration	"JOY, Bert"	11
+		"WIKBLOM, Stephen"	12
+H	Independent EFF	"DWYER, David"	9
+		"WALKER, Alfred"	10
+I	Australian Women's Party	"McCULLOCH, Deborah"	19
+		"McHUGH, Marg"	20
+		"TZUMLI, Denise"	21
+J	"Unendorsed - Nicholson, Kenneth S"	"NICHOLSON, Kenneth S"	24
+		"SHEARING, Colin"	25
+K	Liberal	"HILL, Robert"	3
+		"CHAPMAN, Grant"	4
+		"FERRIS, Jeannie"	5
+		"KOURTESIS, Maria"	6
+L	Australian Democrats	"STOTT DESPOJA, Natasha"	13
+		"GILFILLAN, Ian"	14
+		"SMITH, Judy"	15
+		"TSAGATOS, Desea"	16
+UG	Natural Law Party	"WELLS, Geoffrey A"	28
+
+
+"Unendorsed - Wohltmann, Michael"			
+Ticket	Party/Group Name	Candidate Name	Preferences
+A	Australian Shooters Party	"ALDERSEY, Haydon"	25
+		"LOW, Robert"	26
+B	Grey Power	"GILBEY-RILEY, Emily"	17
+		"DARBISHIRE, Gratton"	18
+C	Australian Greens	"SPENCE, Stephen"	10
+		"McDOUGALL, Meryl"	11
+D	Australian Labor Party (ALP)	"CROWLEY, Rosemary"	3
+		"SCHACHT, Chris"	4
+		"TEDMANSON, Deirdre"	5
+E	Call to Australia (Fred Nile) Group	"RODWAY, David"	21
+		"RODWAY, Brett"	22
+F	"Unendorsed - Wohltmann, Michael"	"WOHLTMANN, Michael"	1
+		"WOHLTMANN, Jeanette"	2
+G	Australians Against Further Immigration	"JOY, Bert"	23
+		"WIKBLOM, Stephen"	24
+H	Independent EFF	"DWYER, David"	19
+		"WALKER, Alfred"	20
+I	Australian Women's Party	"McCULLOCH, Deborah"	12
+		"McHUGH, Marg"	13
+		"TZUMLI, Denise"	14
+J	"Unendorsed - Nicholson, Kenneth S"	"NICHOLSON, Kenneth S"	15
+		"SHEARING, Colin"	16
+K	Liberal	"HILL, Robert"	27
+		"CHAPMAN, Grant"	28
+		"FERRIS, Jeannie"	29
+		"KOURTESIS, Maria"	30
+L	Australian Democrats	"STOTT DESPOJA, Natasha"	6
+		"GILFILLAN, Ian"	7
+		"SMITH, Judy"	8
+		"TSAGATOS, Desea"	9
+UG	Natural Law Party	"WELLS, Geoffrey A"	31
+
+
+Australians Against Further Immigration			
+Ticket	Party/Group Name	Candidate Name	Preferences
+A	Australian Shooters Party	"ALDERSEY, Haydon"	3
+		"LOW, Robert"	4
+B	Grey Power	"GILBEY-RILEY, Emily"	5
+		"DARBISHIRE, Gratton"	6
+C	Australian Greens	"SPENCE, Stephen"	20
+		"McDOUGALL, Meryl"	19
+D	Australian Labor Party (ALP)	"CROWLEY, Rosemary"	27
+		"SCHACHT, Chris"	26
+		"TEDMANSON, Deirdre"	25
+E	Call to Australia (Fred Nile) Group	"RODWAY, David"	9
+		"RODWAY, Brett"	10
+F	"Unendorsed - Wohltmann, Michael"	"WOHLTMANN, Michael"	24
+		"WOHLTMANN, Jeanette"	23
+G	Australians Against Further Immigration	"JOY, Bert"	1
+		"WIKBLOM, Stephen"	2
+H	Independent EFF	"DWYER, David"	7
+		"WALKER, Alfred"	8
+I	Australian Women's Party	"McCULLOCH, Deborah"	30
+		"McHUGH, Marg"	29
+		"TZUMLI, Denise"	28
+J	"Unendorsed - Nicholson, Kenneth S"	"NICHOLSON, Kenneth S"	22
+		"SHEARING, Colin"	21
+K	Liberal	"HILL, Robert"	14
+		"CHAPMAN, Grant"	13
+		"FERRIS, Jeannie"	12
+		"KOURTESIS, Maria"	11
+L	Australian Democrats	"STOTT DESPOJA, Natasha"	18
+		"GILFILLAN, Ian"	17
+		"SMITH, Judy"	16
+		"TSAGATOS, Desea"	15
+UG	Natural Law Party	"WELLS, Geoffrey A"	31
+
+
+Independent EFF			
+Ticket	Party/Group Name	Candidate Name	Preferences
+A	Australian Shooters Party	"ALDERSEY, Haydon"	5
+		"LOW, Robert"	6
+B	Grey Power	"GILBEY-RILEY, Emily"	7
+		"DARBISHIRE, Gratton"	8
+C	Australian Greens	"SPENCE, Stephen"	27
+		"McDOUGALL, Meryl"	28
+D	Australian Labor Party (ALP)	"CROWLEY, Rosemary"	20
+		"SCHACHT, Chris"	21
+		"TEDMANSON, Deirdre"	22
+E	Call to Australia (Fred Nile) Group	"RODWAY, David"	9
+		"RODWAY, Brett"	10
+F	"Unendorsed - Wohltmann, Michael"	"WOHLTMANN, Michael"	13
+		"WOHLTMANN, Jeanette"	14
+G	Australians Against Further Immigration	"JOY, Bert"	3
+		"WIKBLOM, Stephen"	4
+H	Independent EFF	"DWYER, David"	1
+		"WALKER, Alfred"	2
+I	Australian Women's Party	"McCULLOCH, Deborah"	29
+		"McHUGH, Marg"	30
+		"TZUMLI, Denise"	31
+J	"Unendorsed - Nicholson, Kenneth S"	"NICHOLSON, Kenneth S"	11
+		"SHEARING, Colin"	12
+K	Liberal	"HILL, Robert"	15
+		"CHAPMAN, Grant"	16
+		"FERRIS, Jeannie"	17
+		"KOURTESIS, Maria"	18
+L	Australian Democrats	"STOTT DESPOJA, Natasha"	23
+		"GILFILLAN, Ian"	24
+		"SMITH, Judy"	25
+		"TSAGATOS, Desea"	26
+UG	Natural Law Party	"WELLS, Geoffrey A"	19
+
+
+Australian Women's Party			
+Ticket	Party/Group Name	Candidate Name	Preferences
+A	Australian Shooters Party	"ALDERSEY, Haydon"	30
+		"LOW, Robert"	31
+B	Grey Power	"GILBEY-RILEY, Emily"	19
+		"DARBISHIRE, Gratton"	20
+C	Australian Greens	"SPENCE, Stephen"	4
+		"McDOUGALL, Meryl"	5
+D	Australian Labor Party (ALP)	"CROWLEY, Rosemary"	9
+		"SCHACHT, Chris"	11
+		"TEDMANSON, Deirdre"	7
+E	Call to Australia (Fred Nile) Group	"RODWAY, David"	21
+		"RODWAY, Brett"	22
+F	"Unendorsed - Wohltmann, Michael"	"WOHLTMANN, Michael"	14
+		"WOHLTMANN, Jeanette"	13
+G	Australians Against Further Immigration	"JOY, Bert"	28
+		"WIKBLOM, Stephen"	29
+H	Independent EFF	"DWYER, David"	26
+		"WALKER, Alfred"	27
+I	Australian Women's Party	"McCULLOCH, Deborah"	1
+		"McHUGH, Marg"	2
+		"TZUMLI, Denise"	3
+J	"Unendorsed - Nicholson, Kenneth S"	"NICHOLSON, Kenneth S"	24
+		"SHEARING, Colin"	25
+K	Liberal	"HILL, Robert"	17
+		"CHAPMAN, Grant"	18
+		"FERRIS, Jeannie"	15
+		"KOURTESIS, Maria"	16
+L	Australian Democrats	"STOTT DESPOJA, Natasha"	6
+		"GILFILLAN, Ian"	12
+		"SMITH, Judy"	8
+		"TSAGATOS, Desea"	10
+UG	Natural Law Party	"WELLS, Geoffrey A"	23
+
+
+"Unendorsed - Nicholson, Kenneth S"			
+Ticket	Party/Group Name	Candidate Name	Preferences
+A	Australian Shooters Party	"ALDERSEY, Haydon"	15
+		"LOW, Robert"	16
+B	Grey Power	"GILBEY-RILEY, Emily"	3
+		"DARBISHIRE, Gratton"	4
+C	Australian Greens	"SPENCE, Stephen"	5
+		"McDOUGALL, Meryl"	6
+D	Australian Labor Party (ALP)	"CROWLEY, Rosemary"	29
+		"SCHACHT, Chris"	30
+		"TEDMANSON, Deirdre"	31
+E	Call to Australia (Fred Nile) Group	"RODWAY, David"	13
+		"RODWAY, Brett"	14
+F	"Unendorsed - Wohltmann, Michael"	"WOHLTMANN, Michael"	7
+		"WOHLTMANN, Jeanette"	8
+G	Australians Against Further Immigration	"JOY, Bert"	17
+		"WIKBLOM, Stephen"	18
+H	Independent EFF	"DWYER, David"	19
+		"WALKER, Alfred"	20
+I	Australian Women's Party	"McCULLOCH, Deborah"	9
+		"McHUGH, Marg"	10
+		"TZUMLI, Denise"	11
+J	"Unendorsed - Nicholson, Kenneth S"	"NICHOLSON, Kenneth S"	1
+		"SHEARING, Colin"	2
+K	Liberal	"HILL, Robert"	21
+		"CHAPMAN, Grant"	22
+		"FERRIS, Jeannie"	23
+		"KOURTESIS, Maria"	24
+L	Australian Democrats	"STOTT DESPOJA, Natasha"	25
+		"GILFILLAN, Ian"	26
+		"SMITH, Judy"	27
+		"TSAGATOS, Desea"	28
+UG	Natural Law Party	"WELLS, Geoffrey A"	12
+
+
+Liberal			
+Ticket	Party/Group Name	Candidate Name	Preferences
+A	Australian Shooters Party	"ALDERSEY, Haydon"	9
+		"LOW, Robert"	10
+B	Grey Power	"GILBEY-RILEY, Emily"	7
+		"DARBISHIRE, Gratton"	8
+C	Australian Greens	"SPENCE, Stephen"	18
+		"McDOUGALL, Meryl"	19
+D	Australian Labor Party (ALP)	"CROWLEY, Rosemary"	29
+		"SCHACHT, Chris"	30
+		"TEDMANSON, Deirdre"	31
+E	Call to Australia (Fred Nile) Group	"RODWAY, David"	5
+		"RODWAY, Brett"	6
+F	"Unendorsed - Wohltmann, Michael"	"WOHLTMANN, Michael"	23
+		"WOHLTMANN, Jeanette"	24
+G	Australians Against Further Immigration	"JOY, Bert"	25
+		"WIKBLOM, Stephen"	26
+H	Independent EFF	"DWYER, David"	27
+		"WALKER, Alfred"	28
+I	Australian Women's Party	"McCULLOCH, Deborah"	20
+		"McHUGH, Marg"	21
+		"TZUMLI, Denise"	22
+J	"Unendorsed - Nicholson, Kenneth S"	"NICHOLSON, Kenneth S"	12
+		"SHEARING, Colin"	13
+K	Liberal	"HILL, Robert"	1
+		"CHAPMAN, Grant"	2
+		"FERRIS, Jeannie"	3
+		"KOURTESIS, Maria"	4
+L	Australian Democrats	"STOTT DESPOJA, Natasha"	14	
+		"GILFILLAN, Ian"	15	
+		"SMITH, Judy"	16	
+		"TSAGATOS, Desea"	17	
+UG	Natural Law Party	"WELLS, Geoffrey A"	11	
+
+
+Australian Democrats				
+			Preferences	
+Ticket	Party/Group Name	Candidate Name	Ticket # 1	Ticket # 2
+A	Australian Shooters Party	"ALDERSEY, Haydon"	28	28
+		"LOW, Robert"	29	29
+B	Grey Power	"GILBEY-RILEY, Emily"	12	10
+		"DARBISHIRE, Gratton"	13	11
+C	Australian Greens	"SPENCE, Stephen"	6	6
+		"McDOUGALL, Meryl"	7	7
+D	Australian Labor Party (ALP)	"CROWLEY, Rosemary"	17	18
+		"SCHACHT, Chris"	18	19
+		"TEDMANSON, Deirdre"	19	20
+E	Call to Australia (Fred Nile) Group	"RODWAY, David"	24	24
+		"RODWAY, Brett"	25	25
+F	"Unendorsed - Wohltmann, Michael"	"WOHLTMANN, Michael"	8	16
+		"WOHLTMANN, Jeanette"	9	17
+G	Australians Against Further Immigration	"JOY, Bert"	10	8
+		"WIKBLOM, Stephen"	11	9
+H	Independent EFF	"DWYER, David"	30	30
+		"WALKER, Alfred"	31	31
+I	Australian Women's Party	"McCULLOCH, Deborah"	14	21
+		"McHUGH, Marg"	15	22
+		"TZUMLI, Denise"	16	23
+J	"Unendorsed - Nicholson, Kenneth S"	"NICHOLSON, Kenneth S"	26	26
+		"SHEARING, Colin"	27	27
+K	Liberal	"HILL, Robert"	20	12
+		"CHAPMAN, Grant"	21	13
+		"FERRIS, Jeannie"	22	14
+		"KOURTESIS, Maria"	23	15
+L	Australian Democrats	"STOTT DESPOJA, Natasha"	1	1
+		"GILFILLAN, Ian"	2	2
+		"SMITH, Judy"	3	3
+		"TSAGATOS, Desea"	4	4
+UG	Natural Law Party	"WELLS, Geoffrey A"	5	5

@@ -1,0 +1,644 @@
+House of Representatives - 2001 Election: South Australia											
+Two Candidate Preferred Preference Flow Result											
+By Polling Place											
+											
+Wakefield (86378)											
+		Candidate		"ROWBOTTOM, Tim"		             	"ANDREW, Neil"		               	Total	
+				ALP		                        	LP		                         		
+				Votes	%	                     	Votes	%	                     		
+	Alford										
+			1st Prefs	17	15.60		92	84.40		109	
+		"RESEIGH, Marcus (DEM)"	2	0	0.00		2	100.00		2	
+		"DWYER, David (HAN)"	14	9	64.29		5	35.71		14	
+		"KELLY, Pam (GRN)"	1	1	100.00		0	0.00		1	
+		Total	17	27	21.43		99	78.57		126	
+
+	Angaston										
+			1st Prefs	358	28.35		905	71.65		1263	
+		"RESEIGH, Marcus (DEM)"	150	91	60.67		59	39.33		150	
+		"DWYER, David (HAN)"	83	36	43.37		47	56.63		83	
+		"KELLY, Pam (GRN)"	64	38	59.38		26	40.63		64	
+		Total	297	523	33.53		1037	66.47		1560	
+
+	Ardrossan										
+			1st Prefs	303	33.59		599	66.41		902	
+		"RESEIGH, Marcus (DEM)"	69	43	62.32		26	37.68		69	
+		"DWYER, David (HAN)"	90	59	65.56		31	34.44		90	
+		"KELLY, Pam (GRN)"	21	7	33.33		14	66.67		21	
+		Total	180	412	38.08		670	61.92		1082	
+
+	Arthurton										
+			1st Prefs	12	8.16		135	91.84		147	
+		"RESEIGH, Marcus (DEM)"	2	2	100.00		0	0.00		2	
+		"DWYER, David (HAN)"	14	8	57.14		6	42.86		14	
+		"KELLY, Pam (GRN)"	5	3	60.00		2	40.00		5	
+		Total	21	25	14.88		143	85.12		168	
+
+	Balaklava										
+			1st Prefs	236	20.27		928	79.73		1164	
+		"RESEIGH, Marcus (DEM)"	62	35	56.45		27	43.55		62	
+		"DWYER, David (HAN)"	97	42	43.30		55	56.70		97	
+		"KELLY, Pam (GRN)"	41	24	58.54		17	41.46		41	
+		Total	200	337	24.71		1027	75.29		1364	
+
+	Barmera										
+			1st Prefs	495	29.27		1196	70.73		1691	
+		"RESEIGH, Marcus (DEM)"	86	49	56.98		37	43.02		86	
+		"DWYER, David (HAN)"	190	108	56.84		82	43.16		190	
+		"KELLY, Pam (GRN)"	85	39	45.88		46	54.12		85	
+		Total	361	691	33.67		1361	66.33		2052	
+
+	Berri										
+			1st Prefs	583	27.93		1504	72.07		2087	
+		"RESEIGH, Marcus (DEM)"	174	97	55.75		77	44.25		174	
+		"DWYER, David (HAN)"	184	115	62.50		69	37.50		184	
+		"KELLY, Pam (GRN)"	90	51	56.67		39	43.33		90	
+		Total	448	846	33.37		1689	66.63		2535	
+
+	Birdwood										
+			1st Prefs	161	28.60		402	71.40		563	
+		"RESEIGH, Marcus (DEM)"	89	51	57.30		38	42.70		89	
+		"DWYER, David (HAN)"	55	33	60.00		22	40.00		55	
+		"KELLY, Pam (GRN)"	29	19	65.52		10	34.48		29	
+		Total	173	264	35.87		472	64.13		736	
+
+	Blanchetown										
+			1st Prefs	62	30.24		143	69.76		205	
+		"RESEIGH, Marcus (DEM)"	15	11	73.33		4	26.67		15	
+		"DWYER, David (HAN)"	18	7	38.89		11	61.11		18	
+		"KELLY, Pam (GRN)"	1	0	0.00		1	100.00		1	
+		Total	34	80	33.47		159	66.53		239	
+
+	Bute										
+			1st Prefs	51	18.28		228	81.72		279	
+		"RESEIGH, Marcus (DEM)"	12	8	66.67		4	33.33		12	
+		"DWYER, David (HAN)"	22	15	68.18		7	31.82		22	
+		"KELLY, Pam (GRN)"	13	6	46.15		7	53.85		13	
+		Total	47	80	24.54		246	75.46		326	
+
+	Cadell										
+			1st Prefs	45	23.68		145	76.32		190	
+		"RESEIGH, Marcus (DEM)"	15	7	46.67		8	53.33		15	
+		"DWYER, David (HAN)"	17	6	35.29		11	64.71		17	
+		"KELLY, Pam (GRN)"	5	5	100.00		0	0.00		5	
+		Total	37	63	27.75		164	72.25		227	
+
+	Cobdogla										
+			1st Prefs	75	26.13		212	73.87		287	
+		"RESEIGH, Marcus (DEM)"	12	7	58.33		5	41.67		12	
+		"DWYER, David (HAN)"	48	30	62.50		18	37.50		48	
+		"KELLY, Pam (GRN)"	7	3	42.86		4	57.14		7	
+		Total	67	115	32.49		239	67.51		354	
+
+	Coobowie										
+			1st Prefs	90	41.47		127	58.53		217	
+		"RESEIGH, Marcus (DEM)"	12	7	58.33		5	41.67		12	
+		"DWYER, David (HAN)"	14	7	50.00		7	50.00		14	
+		"KELLY, Pam (GRN)"	3	2	66.67		1	33.33		3	
+		Total	29	106	43.09		140	56.91		246	
+
+	Corny Point										
+			1st Prefs	26	27.08		70	72.92		96	
+		"RESEIGH, Marcus (DEM)"	9	7	77.78		2	22.22		9	
+		"DWYER, David (HAN)"	11	4	36.36		7	63.64		11	
+		"KELLY, Pam (GRN)"	3	1	33.33		2	66.67		3	
+		Total	23	38	31.93		81	68.07		119	
+
+	Curramulka										
+			1st Prefs	28	14.00		172	86.00		200	
+		"RESEIGH, Marcus (DEM)"	13	5	38.46		8	61.54		13	
+		"DWYER, David (HAN)"	15	4	26.67		11	73.33		15	
+		"KELLY, Pam (GRN)"	9	4	44.44		5	55.56		9	
+		Total	37	41	17.30		196	82.70		237	
+
+	Dublin										
+			1st Prefs	125	35.11		231	64.89		356	
+		"RESEIGH, Marcus (DEM)"	36	22	61.11		14	38.89		36	
+		"DWYER, David (HAN)"	45	15	33.33		30	66.67		45	
+		"KELLY, Pam (GRN)"	15	7	46.67		8	53.33		15	
+		Total	96	169	37.39		283	62.61		452	
+
+	Eden Valley										
+			1st Prefs	44	26.67		121	73.33		165	
+		"RESEIGH, Marcus (DEM)"	18	13	72.22		5	27.78		18	
+		"DWYER, David (HAN)"	28	15	53.57		13	46.43		28	
+		"KELLY, Pam (GRN)"	13	8	61.54		5	38.46		13	
+		Total	59	80	35.71		144	64.29		224	
+
+	Edithburgh										
+			1st Prefs	122	39.35		188	60.65		310	
+		"RESEIGH, Marcus (DEM)"	14	6	42.86		8	57.14		14	
+		"DWYER, David (HAN)"	50	33	66.00		17	34.00		50	
+		"KELLY, Pam (GRN)"	15	10	66.67		5	33.33		15	
+		Total	79	171	43.96		218	56.04		389	
+
+	Evanston										
+			1st Prefs	404	43.02		535	56.98		939	
+		"RESEIGH, Marcus (DEM)"	109	68	62.39		41	37.61		109	
+		"DWYER, David (HAN)"	100	60	60.00		40	40.00		100	
+		"KELLY, Pam (GRN)"	44	29	65.91		15	34.09		44	
+		Total	253	561	47.06		631	52.94		1192	
+
+	Evanston Gardens										
+			1st Prefs	446	45.23		540	54.77		986	
+		"RESEIGH, Marcus (DEM)"	89	53	59.55		36	40.45		89	
+		"DWYER, David (HAN)"	134	87	64.93		47	35.07		134	
+		"KELLY, Pam (GRN)"	34	14	41.18		20	58.82		34	
+		Total	257	600	48.27		643	51.73		1243	
+
+	Forreston										
+			1st Prefs	46	30.26		106	69.74		152	
+		"RESEIGH, Marcus (DEM)"	25	14	56.00		11	44.00		25	
+		"DWYER, David (HAN)"	10	3	30.00		7	70.00		10	
+		"KELLY, Pam (GRN)"	19	13	68.42		6	31.58		19	
+		Total	54	76	36.89		130	63.11		206	
+
+	Freeling										
+			1st Prefs	186	28.70		462	71.30		648	
+		"RESEIGH, Marcus (DEM)"	68	43	63.24		25	36.76		68	
+		"DWYER, David (HAN)"	72	41	56.94		31	43.06		72	
+		"KELLY, Pam (GRN)"	26	15	57.69		11	42.31		26	
+		Total	166	285	35.01		529	64.99		814	
+
+	Gawler										
+			1st Prefs	479	36.70		826	63.30		1305	
+		"RESEIGH, Marcus (DEM)"	179	94	52.51		85	47.49		179	
+		"DWYER, David (HAN)"	136	81	59.56		55	40.44		136	
+		"KELLY, Pam (GRN)"	73	52	71.23		21	28.77		73	
+		Total	388	706	41.70		987	58.30		1693	
+
+	Gawler East										
+			1st Prefs	457	30.22		1055	69.78		1512	
+		"RESEIGH, Marcus (DEM)"	204	124	60.78		80	39.22		204	
+		"DWYER, David (HAN)"	100	74	74.00		26	26.00		100	
+		"KELLY, Pam (GRN)"	67	42	62.69		25	37.31		67	
+		Total	371	697	37.02		1186	62.98		1883	
+
+	Gawler River										
+			1st Prefs	62	26.05		176	73.95		238	
+		"RESEIGH, Marcus (DEM)"	25	17	68.00		8	32.00		25	
+		"DWYER, David (HAN)"	13	6	46.15		7	53.85		13	
+		"KELLY, Pam (GRN)"	10	6	60.00		4	40.00		10	
+		Total	48	91	31.82		195	68.18		286	
+
+	Gawler South										
+			1st Prefs	686	36.72		1182	63.28		1868	
+		"RESEIGH, Marcus (DEM)"	235	130	55.32		105	44.68		235	
+		"DWYER, David (HAN)"	143	85	59.44		58	40.56		143	
+		"KELLY, Pam (GRN)"	111	75	67.57		36	32.43		111	
+		Total	489	976	41.41		1381	58.59		2357	
+
+	Gawler West										
+			1st Prefs	515	45.53		616	54.47		1131	
+		"RESEIGH, Marcus (DEM)"	129	86	66.67		43	33.33		129	
+		"DWYER, David (HAN)"	100	58	58.00		42	42.00		100	
+		"KELLY, Pam (GRN)"	45	30	66.67		15	33.33		45	
+		Total	274	689	49.04		716	50.96		1405	
+
+	Glossop										
+			1st Prefs	84	27.54		221	72.46		305	
+		"RESEIGH, Marcus (DEM)"	17	7	41.18		10	58.82		17	
+		"DWYER, David (HAN)"	26	9	34.62		17	65.38		26	
+		"KELLY, Pam (GRN)"	16	9	56.25		7	43.75		16	
+		Total	59	109	29.95		255	70.05		364	
+
+	Greenock										
+			1st Prefs	169	26.61		466	73.39		635	
+		"RESEIGH, Marcus (DEM)"	80	53	66.25		27	33.75		80	
+		"DWYER, David (HAN)"	54	27	50.00		27	50.00		54	
+		"KELLY, Pam (GRN)"	31	22	70.97		9	29.03		31	
+		Total	165	271	33.88		529	66.13		800	
+
+	Gumeracha										
+			1st Prefs	112	23.83		358	76.17		470	
+		"RESEIGH, Marcus (DEM)"	68	42	61.76		26	38.24		68	
+		"DWYER, David (HAN)"	39	13	33.33		26	66.67		39	
+		"KELLY, Pam (GRN)"	26	17	65.38		9	34.62		26	
+		Total	133	184	30.51		419	69.49		603	
+
+	Hamley Bridge										
+			1st Prefs	111	34.47		211	65.53		322	
+		"RESEIGH, Marcus (DEM)"	29	17	58.62		12	41.38		29	
+		"DWYER, David (HAN)"	33	13	39.39		20	60.61		33	
+		"KELLY, Pam (GRN)"	19	14	73.68		5	26.32		19	
+		Total	81	155	38.46		248	61.54		403	
+
+	Hardwicke Bay										
+			1st Prefs	24	27.91		62	72.09		86	
+		"RESEIGH, Marcus (DEM)"	4	2	50.00		2	50.00		4	
+		"DWYER, David (HAN)"	3	3	100.00		0	0.00		3	
+		"KELLY, Pam (GRN)"	3	2	66.67		1	33.33		3	
+		Total	10	31	32.29		65	67.71		96	
+
+	Kadina										
+			1st Prefs	496	29.14		1206	70.86		1702	
+		"RESEIGH, Marcus (DEM)"	107	59	55.14		48	44.86		107	
+		"DWYER, David (HAN)"	130	76	58.46		54	41.54		130	
+		"KELLY, Pam (GRN)"	49	30	61.22		19	38.78		49	
+		Total	286	661	33.25		1327	66.75		1988	
+
+	Kapunda										
+			1st Prefs	445	33.64		878	66.36		1323	
+		"RESEIGH, Marcus (DEM)"	191	125	65.45		66	34.55		191	
+		"DWYER, David (HAN)"	148	94	63.51		54	36.49		148	
+		"KELLY, Pam (GRN)"	95	70	73.68		25	26.32		95	
+		Total	434	734	41.78		1023	58.22		1757	
+
+	Kersbrook										
+			1st Prefs	149	30.22		344	69.78		493	
+		"RESEIGH, Marcus (DEM)"	60	35	58.33		25	41.67		60	
+		"DWYER, David (HAN)"	42	12	28.57		30	71.43		42	
+		"KELLY, Pam (GRN)"	25	16	64.00		9	36.00		25	
+		Total	127	212	34.19		408	65.81		620	
+
+	Loxton										
+			1st Prefs	581	24.36		1804	75.64		2385	
+		"RESEIGH, Marcus (DEM)"	105	49	46.67		56	53.33		105	
+		"DWYER, David (HAN)"	248	132	53.23		116	46.77		248	
+		"KELLY, Pam (GRN)"	89	43	48.31		46	51.69		89	
+		Total	442	805	28.48		2022	71.52		2827	
+
+	Loxton North										
+			1st Prefs	74	18.93		317	81.07		391	
+		"RESEIGH, Marcus (DEM)"	25	10	40.00		15	60.00		25	
+		"DWYER, David (HAN)"	55	33	60.00		22	40.00		55	
+		"KELLY, Pam (GRN)"	19	9	47.37		10	52.63		19	
+		Total	99	126	25.71		364	74.29		490	
+
+	Lyndoch										
+			1st Prefs	233	29.16		566	70.84		799	
+		"RESEIGH, Marcus (DEM)"	106	64	60.38		42	39.62		106	
+		"DWYER, David (HAN)"	86	44	51.16		42	48.84		86	
+		"KELLY, Pam (GRN)"	46	29	63.04		17	36.96		46	
+		Total	238	370	35.68		667	64.32		1037	
+
+	Lyrup										
+			1st Prefs	55	27.78		143	72.22		198	
+		"RESEIGH, Marcus (DEM)"	5	2	40.00		3	60.00		5	
+		"DWYER, David (HAN)"	19	7	36.84		12	63.16		19	
+		"KELLY, Pam (GRN)"	8	2	25.00		6	75.00		8	
+		Total	32	66	28.70		164	71.30		230	
+
+	Maitland										
+			1st Prefs	122	17.53		574	82.47		696	
+		"RESEIGH, Marcus (DEM)"	40	20	50.00		20	50.00		40	
+		"DWYER, David (HAN)"	97	53	54.64		44	45.36		97	
+		"KELLY, Pam (GRN)"	19	10	52.63		9	47.37		19	
+		Total	156	205	24.06		647	75.94		852	
+
+	Mallala										
+			1st Prefs	188	31.13		416	68.87		604	
+		"RESEIGH, Marcus (DEM)"	52	36	69.23		16	30.77		52	
+		"DWYER, David (HAN)"	58	18	31.03		40	68.97		58	
+		"KELLY, Pam (GRN)"	12	6	50.00		6	50.00		12	
+		Total	122	248	34.16		478	65.84		726	
+
+	Marion Bay										
+			1st Prefs	32	43.24		42	56.76		74	
+		"RESEIGH, Marcus (DEM)"	8	4	50.00		4	50.00		8	
+		"DWYER, David (HAN)"	5	2	40.00		3	60.00		5	
+		"KELLY, Pam (GRN)"	6	4	66.67		2	33.33		6	
+		Total	19	42	45.16		51	54.84		93	
+
+	Minlaton										
+			1st Prefs	123	19.49		508	80.51		631	
+		"RESEIGH, Marcus (DEM)"	44	21	47.73		23	52.27		44	
+		"DWYER, David (HAN)"	49	17	34.69		32	65.31		49	
+		"KELLY, Pam (GRN)"	16	8	50.00		8	50.00		16	
+		Total	109	169	22.84		571	77.16		740	
+
+	Moculta										
+			1st Prefs	19	15.97		100	84.03		119	
+		"RESEIGH, Marcus (DEM)"	7	4	57.14		3	42.86		7	
+		"DWYER, David (HAN)"	10	1	10.00		9	90.00		10	
+		"KELLY, Pam (GRN)"	6	6	100.00		0	0.00		6	
+		Total	23	30	21.13		112	78.87		142	
+
+	Monash										
+			1st Prefs	110	26.07		312	73.93		422	
+		"RESEIGH, Marcus (DEM)"	33	19	57.58		14	42.42		33	
+		"DWYER, David (HAN)"	53	35	66.04		18	33.96		53	
+		"KELLY, Pam (GRN)"	18	7	38.89		11	61.11		18	
+		Total	104	171	32.51		355	67.49		526	
+
+	Moonta										
+			1st Prefs	492	35.47		895	64.53		1387	
+		"RESEIGH, Marcus (DEM)"	129	90	69.77		39	30.23		129	
+		"DWYER, David (HAN)"	188	114	60.64		74	39.36		188	
+		"KELLY, Pam (GRN)"	34	18	52.94		16	47.06		34	
+		Total	351	714	41.08		1024	58.92		1738	
+
+	Moonta Mines										
+			1st Prefs	137	48.41		146	51.59		283	
+		"RESEIGH, Marcus (DEM)"	12	8	66.67		4	33.33		12	
+		"DWYER, David (HAN)"	29	14	48.28		15	51.72		29	
+		"KELLY, Pam (GRN)"	13	9	69.23		4	30.77		13	
+		Total	54	168	49.85		169	50.15		337	
+
+	Moorook										
+			1st Prefs	57	21.27		211	78.73		268	
+		"RESEIGH, Marcus (DEM)"	14	9	64.29		5	35.71		14	
+		"DWYER, David (HAN)"	53	32	60.38		21	39.62		53	
+		"KELLY, Pam (GRN)"	11	9	81.82		2	18.18		11	
+		Total	78	107	30.92		239	69.08		346	
+
+	Morgan										
+			1st Prefs	172	43.65		222	56.35		394	
+		"RESEIGH, Marcus (DEM)"	14	7	50.00		7	50.00		14	
+		"DWYER, David (HAN)"	55	33	60.00		22	40.00		55	
+		"KELLY, Pam (GRN)"	10	7	70.00		3	30.00		10	
+		Total	79	219	46.30		254	53.70		473	
+
+	Mount Pleasant										
+			1st Prefs	148	29.90		347	70.10		495	
+		"RESEIGH, Marcus (DEM)"	86	51	59.30		35	40.70		86	
+		"DWYER, David (HAN)"	54	28	51.85		26	48.15		54	
+		"KELLY, Pam (GRN)"	24	13	54.17		11	45.83		24	
+		Total	164	240	36.42		419	63.58		659	
+
+	Mount Torrens										
+			1st Prefs	61	23.83		195	76.17		256	
+		"RESEIGH, Marcus (DEM)"	36	24	66.67		12	33.33		36	
+		"DWYER, David (HAN)"	22	8	36.36		14	63.64		22	
+		"KELLY, Pam (GRN)"	25	19	76.00		6	24.00		25	
+		Total	83	112	33.04		227	66.96		339	
+
+	Nuriootpa										
+			1st Prefs	640	26.88		1741	73.12		2381	
+		"RESEIGH, Marcus (DEM)"	306	185	60.46		121	39.54		306	
+		"DWYER, David (HAN)"	191	108	56.54		83	43.46		191	
+		"KELLY, Pam (GRN)"	115	64	55.65		51	44.35		115	
+		Total	612	997	33.31		1996	66.69		2993	
+
+	One Tree Hill (Wakefield)										
+			1st Prefs	79	28.73		196	71.27		275	
+		"RESEIGH, Marcus (DEM)"	34	17	50.00		17	50.00		34	
+		"DWYER, David (HAN)"	17	5	29.41		12	70.59		17	
+		"KELLY, Pam (GRN)"	12	8	66.67		4	33.33		12	
+		Total	63	109	32.25		229	67.75		338	
+
+	Owen										
+			1st Prefs	79	28.94		194	71.06		273	
+		"RESEIGH, Marcus (DEM)"	18	8	44.44		10	55.56		18	
+		"DWYER, David (HAN)"	30	12	40.00		18	60.00		30	
+		"KELLY, Pam (GRN)"	6	4	66.67		2	33.33		6	
+		Total	54	103	31.50		224	68.50		327	
+
+	Palmer										
+			1st Prefs	26	22.61		89	77.39		115	
+		"RESEIGH, Marcus (DEM)"	6	3	50.00		3	50.00		6	
+		"DWYER, David (HAN)"	10	2	20.00		8	80.00		10	
+		"KELLY, Pam (GRN)"	8	8	100.00		0	0.00		8	
+		Total	24	39	28.06		100	71.94		139	
+
+	Paringa										
+			1st Prefs	120	22.39		416	77.61		536	
+		"RESEIGH, Marcus (DEM)"	25	13	52.00		12	48.00		25	
+		"DWYER, David (HAN)"	56	31	55.36		25	44.64		56	
+		"KELLY, Pam (GRN)"	20	17	85.00		3	15.00		20	
+		Total	101	181	28.41		456	71.59		637	
+
+	Paskeville										
+			1st Prefs	18	11.11		144	88.89		162	
+		"RESEIGH, Marcus (DEM)"	6	6	100.00		0	0.00		6	
+		"DWYER, David (HAN)"	6	3	50.00		3	50.00		6	
+		"KELLY, Pam (GRN)"	2	0	0.00		2	100.00		2	
+		Total	14	27	15.34		149	84.66		176	
+
+	Pine Point										
+			1st Prefs	28	21.21		104	78.79		132	
+		"RESEIGH, Marcus (DEM)"	5	1	20.00		4	80.00		5	
+		"DWYER, David (HAN)"	5	2	40.00		3	60.00		5	
+		"KELLY, Pam (GRN)"	4	3	75.00		1	25.00		4	
+		Total	14	34	23.29		112	76.71		146	
+
+	Port Clinton										
+			1st Prefs	128	41.29		182	58.71		310	
+		"RESEIGH, Marcus (DEM)"	9	8	88.89		1	11.11		9	
+		"DWYER, David (HAN)"	23	13	56.52		10	43.48		23	
+		"KELLY, Pam (GRN)"	5	2	40.00		3	60.00		5	
+		Total	37	151	43.52		196	56.48		347	
+
+	Port Victoria										
+			1st Prefs	58	26.13		164	73.87		222	
+		"RESEIGH, Marcus (DEM)"	12	4	33.33		8	66.67		12	
+		"DWYER, David (HAN)"	31	13	41.94		18	58.06		31	
+		"KELLY, Pam (GRN)"	10	7	70.00		3	30.00		10	
+		Total	53	82	29.82		193	70.18		275	
+
+	Port Vincent										
+			1st Prefs	98	27.07		264	72.93		362	
+		"RESEIGH, Marcus (DEM)"	14	9	64.29		5	35.71		14	
+		"DWYER, David (HAN)"	14	3	21.43		11	78.57		14	
+		"KELLY, Pam (GRN)"	11	4	36.36		7	63.64		11	
+		Total	39	114	28.43		287	71.57		401	
+
+	Port Wakefield										
+			1st Prefs	116	32.04		246	67.96		362	
+		"RESEIGH, Marcus (DEM)"	18	11	61.11		7	38.89		18	
+		"DWYER, David (HAN)"	73	54	73.97		19	26.03		73	
+		"KELLY, Pam (GRN)"	11	6	54.55		5	45.45		11	
+		Total	102	187	40.30		277	59.70		464	
+
+	Ramco										
+			1st Prefs	101	27.52		266	72.48		367	
+		"RESEIGH, Marcus (DEM)"	20	8	40.00		12	60.00		20	
+		"DWYER, David (HAN)"	44	21	47.73		23	52.27		44	
+		"KELLY, Pam (GRN)"	6	6	100.00		0	0.00		6	
+		Total	70	136	31.12		301	68.88		437	
+
+	Renmark										
+			1st Prefs	821	32.81		1681	67.19		2502	
+		"RESEIGH, Marcus (DEM)"	148	89	60.14		59	39.86		148	
+		"DWYER, David (HAN)"	205	133	64.88		72	35.12		205	
+		"KELLY, Pam (GRN)"	120	71	59.17		49	40.83		120	
+		Total	473	1114	37.45		1861	62.55		2975	
+
+	Renmark North										
+			1st Prefs	116	28.36		293	71.64		409	
+		"RESEIGH, Marcus (DEM)"	27	19	70.37		8	29.63		27	
+		"DWYER, David (HAN)"	34	19	55.88		15	44.12		34	
+		"KELLY, Pam (GRN)"	19	5	26.32		14	73.68		19	
+		Total	80	159	32.52		330	67.48		489	
+
+	Renmark West										
+			1st Prefs	63	16.36		322	83.64		385	
+		"RESEIGH, Marcus (DEM)"	27	15	55.56		12	44.44		27	
+		"DWYER, David (HAN)"	42	29	69.05		13	30.95		42	
+		"KELLY, Pam (GRN)"	11	8	72.73		3	27.27		11	
+		Total	80	115	24.73		350	75.27		465	
+
+	Roseworthy										
+			1st Prefs	148	32.96		301	67.04		449	
+		"RESEIGH, Marcus (DEM)"	40	26	65.00		14	35.00		40	
+		"DWYER, David (HAN)"	44	20	45.45		24	54.55		44	
+		"KELLY, Pam (GRN)"	18	14	77.78		4	22.22		18	
+		Total	102	208	37.75		343	62.25		551	
+
+	Sandy Creek										
+			1st Prefs	94	26.04		267	73.96		361	
+		"RESEIGH, Marcus (DEM)"	41	23	56.10		18	43.90		41	
+		"DWYER, David (HAN)"	59	35	59.32		24	40.68		59	
+		"KELLY, Pam (GRN)"	19	11	57.89		8	42.11		19	
+		Total	119	163	33.96		317	66.04		480	
+
+	Springton										
+			1st Prefs	75	33.48		149	66.52		224	
+		"RESEIGH, Marcus (DEM)"	48	22	45.83		26	54.17		48	
+		"DWYER, David (HAN)"	25	15	60.00		10	40.00		25	
+		"KELLY, Pam (GRN)"	12	9	75.00		3	25.00		12	
+		Total	85	121	39.16		188	60.84		309	
+
+	Stansbury										
+			1st Prefs	91	24.46		281	75.54		372	
+		"RESEIGH, Marcus (DEM)"	22	17	77.27		5	22.73		22	
+		"DWYER, David (HAN)"	54	27	50.00		27	50.00		54	
+		"KELLY, Pam (GRN)"	7	3	42.86		4	57.14		7	
+		Total	83	138	30.33		317	69.67		455	
+
+	Stockwell										
+			1st Prefs	47	18.29		210	81.71		257	
+		"RESEIGH, Marcus (DEM)"	19	13	68.42		6	31.58		19	
+		"DWYER, David (HAN)"	27	12	44.44		15	55.56		27	
+		"KELLY, Pam (GRN)"	16	9	56.25		7	43.75		16	
+		Total	62	81	25.39		238	74.61		319	
+
+	Tanunda										
+			1st Prefs	461	21.09		1725	78.91		2186	
+		"RESEIGH, Marcus (DEM)"	266	136	51.13		130	48.87		266	
+		"DWYER, David (HAN)"	224	122	54.46		102	45.54		224	
+		"KELLY, Pam (GRN)"	103	68	66.02		35	33.98		103	
+		Total	593	787	28.32		1992	71.68		2779	
+
+	Truro										
+			1st Prefs	65	21.74		234	78.26		299	
+		"RESEIGH, Marcus (DEM)"	25	15	60.00		10	40.00		25	
+		"DWYER, David (HAN)"	43	28	65.12		15	34.88		43	
+		"KELLY, Pam (GRN)"	12	8	66.67		4	33.33		12	
+		Total	80	116	30.61		263	69.39		379	
+
+	Two Wells										
+			1st Prefs	717	42.08		987	57.92		1704	
+		"RESEIGH, Marcus (DEM)"	191	115	60.21		76	39.79		191	
+		"DWYER, David (HAN)"	126	52	41.27		74	58.73		126	
+		"KELLY, Pam (GRN)"	72	45	62.50		27	37.50		72	
+		Total	389	929	44.39		1164	55.61		2093	
+
+	Waikerie										
+			1st Prefs	399	23.65		1288	76.35		1687	
+		"RESEIGH, Marcus (DEM)"	76	42	55.26		34	44.74		76	
+		"DWYER, David (HAN)"	118	49	41.53		69	58.47		118	
+		"KELLY, Pam (GRN)"	51	20	39.22		31	60.78		51	
+		Total	245	510	26.40		1422	73.60		1932	
+
+	Wallaroo										
+			1st Prefs	688	48.48		731	51.52		1419	
+		"RESEIGH, Marcus (DEM)"	76	37	48.68		39	51.32		76	
+		"DWYER, David (HAN)"	189	117	61.90		72	38.10		189	
+		"KELLY, Pam (GRN)"	57	34	59.65		23	40.35		57	
+		Total	322	876	50.32		865	49.68		1741	
+
+	Wallaroo Mines										
+			1st Prefs	250	52.08		230	47.92		480	
+		"RESEIGH, Marcus (DEM)"	37	21	56.76		16	43.24		37	
+		"DWYER, David (HAN)"	61	39	63.93		22	36.07		61	
+		"KELLY, Pam (GRN)"	16	6	37.50		10	62.50		16	
+		Total	114	316	53.20		278	46.80		594	
+
+	Warooka										
+			1st Prefs	67	20.62		258	79.38		325	
+		"RESEIGH, Marcus (DEM)"	22	12	54.55		10	45.45		22	
+		"DWYER, David (HAN)"	44	12	27.27		32	72.73		44	
+		"KELLY, Pam (GRN)"	10	4	40.00		6	60.00		10	
+		Total	76	95	23.69		306	76.31		401	
+
+	Wasleys										
+			1st Prefs	85	37.44		142	62.56		227	
+		"RESEIGH, Marcus (DEM)"	29	21	72.41		8	27.59		29	
+		"DWYER, David (HAN)"	19	4	21.05		15	78.95		19	
+		"KELLY, Pam (GRN)"	10	6	60.00		4	40.00		10	
+		Total	58	116	40.70		169	59.30		285	
+
+	Willaston - Hewett										
+			1st Prefs	482	36.93		823	63.07		1305	
+		"RESEIGH, Marcus (DEM)"	169	99	58.58		70	41.42		169	
+		"DWYER, David (HAN)"	135	73	54.07		62	45.93		135	
+		"KELLY, Pam (GRN)"	48	30	62.50		18	37.50		48	
+		Total	352	684	41.28		973	58.72		1657	
+
+	Williamstown										
+			1st Prefs	315	34.69		593	65.31		908	
+		"RESEIGH, Marcus (DEM)"	159	102	64.15		57	35.85		159	
+		"DWYER, David (HAN)"	80	31	38.75		49	61.25		80	
+		"KELLY, Pam (GRN)"	61	34	55.74		27	44.26		61	
+		Total	300	482	39.90		726	60.10		1208	
+
+	Winkie										
+			1st Prefs	33	23.40		108	76.60		141	
+		"RESEIGH, Marcus (DEM)"	9	6	66.67		3	33.33		9	
+		"DWYER, David (HAN)"	12	6	50.00		6	50.00		12	
+		"KELLY, Pam (GRN)"	6	5	83.33		1	16.67		6	
+		Total	27	50	29.76		118	70.24		168	
+
+	Yorketown										
+			1st Prefs	145	24.79		440	75.21		585	
+		"RESEIGH, Marcus (DEM)"	40	18	45.00		22	55.00		40	
+		"DWYER, David (HAN)"	42	15	35.71		27	64.29		42	
+		"KELLY, Pam (GRN)"	11	5	45.45		6	54.55		11	
+		Total	93	183	26.99		495	73.01		678	
+
+	Remote Mobiles										
+			1st Prefs	86	67.72		41	32.28		127	
+		"RESEIGH, Marcus (DEM)"	5	4	80.00		1	20.00		5	
+		"DWYER, David (HAN)"	7	2	28.57		5	71.43		7	
+		"KELLY, Pam (GRN)"	7	4	57.14		3	42.86		7	
+		Total	19	96	65.75		50	34.25		146	
+
+	Special Hospitals										
+			1st Prefs	256	34.78		480	65.22		736	
+		"RESEIGH, Marcus (DEM)"	17	9	52.94		8	47.06		17	
+		"DWYER, David (HAN)"	18	5	27.78		13	72.22		18	
+		"KELLY, Pam (GRN)"	15	6	40.00		9	60.00		15	
+		Total	50	276	35.11		510	64.89		786	
+
+	Total Ordinary										
+			1st Prefs	17303	30.72		39030	69.28		56333	
+		"RESEIGH, Marcus (DEM)"	5091	2982	58.57		2109	41.43		5091	
+		"DWYER, David (HAN)"	5467	2971	54.34		2496	45.66		5467	
+		"KELLY, Pam (GRN)"	2380	1417	59.54		963	40.46		2380	
+		Total	12938	24673	35.62		44598	64.38		69271	
+
+	ABSENT										
+			1st Prefs	1170	31.92		2495	68.08		3665	
+		"RESEIGH, Marcus (DEM)"	515	291	56.50		224	43.50		515	
+		"DWYER, David (HAN)"	321	134	41.74		187	58.26		321	
+		"KELLY, Pam (GRN)"	267	155	58.05		112	41.95		267	
+		Total	1103	1750	36.70		3018	63.30		4768	
+
+	POSTAL										
+			1st Prefs	457	24.03		1445	75.97		1902	
+		"RESEIGH, Marcus (DEM)"	136	80	58.82		56	41.18		136	
+		"DWYER, David (HAN)"	224	90	40.18		134	59.82		224	
+		"KELLY, Pam (GRN)"	55	33	60.00		22	40.00		55	
+		Total	415	660	28.49		1657	71.51		2317	
+
+	PRE_POLL										
+			1st Prefs	420	28.57		1050	71.43		1470	
+		"RESEIGH, Marcus (DEM)"	157	76	48.41		81	51.59		157	
+		"DWYER, David (HAN)"	123	47	38.21		76	61.79		123	
+		"KELLY, Pam (GRN)"	83	49	59.04		34	40.96		83	
+		Total	363	592	32.30		1241	67.70		1833	
+
+	PROVISIONAL										
+			1st Prefs	130	40.00		195	60.00		325	
+		"RESEIGH, Marcus (DEM)"	43	20	46.51		23	53.49		43	
+		"DWYER, David (HAN)"	37	20	54.05		17	45.95		37	
+		"KELLY, Pam (GRN)"	31	16	51.61		15	48.39		31	
+		Total	111	186	42.66		250	57.34		436	
+
+	Division Summary										
+			1st Prefs	19480	30.58		44215	69.42		63695	
+		"RESEIGH, Marcus (DEM)"	5942	3449	58.04		2493	41.96		5942	
+		"DWYER, David (HAN)"	6172	3262	52.85		2910	47.15		6172	
+		"KELLY, Pam (GRN)"	2816	1670	59.30		1146	40.70		2816	
+		Total	14930	27861	35.44		50764	64.56		78625	

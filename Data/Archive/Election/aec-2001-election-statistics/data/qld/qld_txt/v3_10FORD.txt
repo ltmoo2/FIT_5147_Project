@@ -1,0 +1,399 @@
+House of Representatives - 2001 Election: Queensland												
+Two Candidate Preferred Preference Flow Result												
+By Polling Place												
+Forde (86672)												
+												
+		Candidate		                  	"SMITH, Val"		                 	"ELSON, Kay"			Total	
+				                           	ALP		                        	LP				
+				                           	Votes	%	                     	Votes	%			
+	Aratula											
+			1st Prefs		63	19.09		267	80.91		330	
+		"DICKSON, Alan (DEM)"	8		5	62.50		3	37.50		8	
+		"NGAHOORO, Alice (HAN)"	81		53	65.43		28	34.57		81	
+		"CLYNE, Rose (GRN)"	11		8	72.73		3	27.27		11	
+		Total	100		129	30.00		301	70.00		430	
+
+	Beaudesert											
+			1st Prefs		918	33.28		1840	66.72		2758
+		"DICKSON, Alan (DEM)"	138		73	52.90		65	47.10		138
+		"NGAHOORO, Alice (HAN)"	382		185	48.43		197	51.57		382
+		"CLYNE, Rose (GRN)"	74		42	56.76		32	43.24		74
+		Total	594		1218	36.34		2134	63.66		3352
+
+	Beechmont										
+			1st Prefs		106	36.81		182	63.19		288
+		"DICKSON, Alan (DEM)"	30		21	70.00		9	30.00		30
+		"NGAHOORO, Alice (HAN)"	14		7	50.00		7	50.00		14
+		"CLYNE, Rose (GRN)"	45		32	71.11		13	28.89		45
+		Total	89		166	44.03		211	55.97		377
+
+	Beenleigh										
+			1st Prefs		1345	49.21		1388	50.79		2733
+		"DICKSON, Alan (DEM)"	150		87	58.00		63	42.00		150
+		"NGAHOORO, Alice (HAN)"	226		111	49.12		115	50.88		226
+		"CLYNE, Rose (GRN)"	103		61	59.22		42	40.78		103
+		Total	479		1604	49.94		1608	50.06		3212
+
+	Beenleigh Central										
+			1st Prefs		421	50.66		410	49.34		831
+		"DICKSON, Alan (DEM)"	23		16	69.57		7	30.43		23
+		"NGAHOORO, Alice (HAN)"	60		33	55.00		27	45.00		60
+		"CLYNE, Rose (GRN)"	20		12	60.00		8	40.00		20
+		Total	103		482	51.61		452	48.39		934
+
+	Bethania										
+			1st Prefs		855	46.42		987	53.58		1842
+		"DICKSON, Alan (DEM)"	63		44	69.84		19	30.16		63
+		"NGAHOORO, Alice (HAN)"	187		112	59.89		75	40.11		187
+		"CLYNE, Rose (GRN)"	47		29	61.70		18	38.30		47
+		Total	297		1040	48.62		1099	51.38		2139
+
+	Boonah										
+			1st Prefs		419	26.09		1187	73.91		1606
+		"DICKSON, Alan (DEM)"	55		25	45.45		30	54.55		55
+		"NGAHOORO, Alice (HAN)"	242		129	53.31		113	46.69		242
+		"CLYNE, Rose (GRN)"	51		37	72.55		14	27.45		51
+		Total	348		610	31.22		1344	68.78		1954
+
+	Brisbane City (Forde)										
+			1st Prefs		24	35.29		44	64.71		68
+		"DICKSON, Alan (DEM)"	11		6	54.55		5	45.45		11
+		"NGAHOORO, Alice (HAN)"	1		0	0.00		1	100.00		1
+		"CLYNE, Rose (GRN)"	2		1	50.00		1	50.00		2
+		Total	14		31	37.80		51	62.20		82
+
+	Canowindra (Forde)										
+			1st Prefs		462	32.47		961	67.53		1423
+		"DICKSON, Alan (DEM)"	74		43	58.11		31	41.89		74
+		"NGAHOORO, Alice (HAN)"	121		63	52.07		58	47.93		121
+		"CLYNE, Rose (GRN)"	37		21	56.76		16	43.24		37
+		Total	232		589	35.59		1066	64.41		1655
+
+	Canungra										
+			1st Prefs		236	26.73		647	73.27		883
+		"DICKSON, Alan (DEM)"	38		23	60.53		15	39.47		38
+		"NGAHOORO, Alice (HAN)"	144		71	49.31		73	50.69		144
+		"CLYNE, Rose (GRN)"	55		29	52.73		26	47.27		55
+		Total	237		359	32.05		761	67.95		1120
+
+	Cedar Creek										
+			1st Prefs		99	33.00		201	67.00		300
+		"DICKSON, Alan (DEM)"	19		11	57.89		8	42.11		19
+		"NGAHOORO, Alice (HAN)"	43		25	58.14		18	41.86		43
+		"CLYNE, Rose (GRN)"	18		14	77.78		4	22.22		18
+		Total	80		149	39.21		231	60.79		380
+
+	Coomera (Forde)										
+			1st Prefs		293	37.23		494	62.77		787
+		"DICKSON, Alan (DEM)"	63		36	57.14		27	42.86		63
+		"NGAHOORO, Alice (HAN)"	81		42	51.85		39	48.15		81
+		"CLYNE, Rose (GRN)"	28		11	39.29		17	60.71		28
+		Total	172		382	39.83		577	60.17		959
+
+	Cornubia (Forde)										
+			1st Prefs		74	25.26		219	74.74		293
+		"DICKSON, Alan (DEM)"	17		7	41.18		10	58.82		17
+		"NGAHOORO, Alice (HAN)"	18		8	44.44		10	55.56		18
+		"CLYNE, Rose (GRN)"	8		4	50.00		4	50.00		8
+		Total	43		93	27.68		243	72.32		336
+
+	Eagleby										
+			1st Prefs		529	56.70		404	43.30		933
+		"DICKSON, Alan (DEM)"	29		20	68.97		9	31.03		29
+		"NGAHOORO, Alice (HAN)"	106		65	61.32		41	38.68		106
+		"CLYNE, Rose (GRN)"	20		12	60.00		8	40.00		20
+		Total	155		626	57.54		462	42.46		1088
+
+	Eagleby South										
+			1st Prefs		1141	57.68		837	42.32		1978
+		"DICKSON, Alan (DEM)"	82		51	62.20		31	37.80		82
+		"NGAHOORO, Alice (HAN)"	205		133	64.88		72	35.12		205
+		"CLYNE, Rose (GRN)"	57		28	49.12		29	50.88		57
+		Total	344		1353	58.27		969	41.73		2322
+
+	Edens Landing										
+			1st Prefs		643	44.31		808	55.69		1451
+		"DICKSON, Alan (DEM)"	71		45	63.38		26	36.62		71
+		"NGAHOORO, Alice (HAN)"	114		47	41.23		67	58.77		114
+		"CLYNE, Rose (GRN)"	50		27	54.00		23	46.00		50
+		Total	235		762	45.20		924	54.80		1686
+
+	Flagstone										
+			1st Prefs		336	44.62		417	55.38		753
+		"DICKSON, Alan (DEM)"	59		40	67.80		19	32.20		59
+		"NGAHOORO, Alice (HAN)"	141		90	63.83		51	36.17		141
+		"CLYNE, Rose (GRN)"	25		17	68.00		8	32.00		25
+		Total	225		483	49.39		495	50.61		978
+
+	Greenbank										
+			1st Prefs		855	43.69		1102	56.31		1957
+		"DICKSON, Alan (DEM)"	124		75	60.48		49	39.52		124
+		"NGAHOORO, Alice (HAN)"	295		184	62.37		111	37.63		295
+		"CLYNE, Rose (GRN)"	76		46	60.53		30	39.47		76
+		Total	495		1160	47.31		1292	52.69		2452
+
+	Helensvale North (Forde)										
+			1st Prefs		84	39.62		128	60.38		212
+		"DICKSON, Alan (DEM)"	21		10	47.62		11	52.38		21
+		"NGAHOORO, Alice (HAN)"	27		8	29.63		19	70.37		27
+		"CLYNE, Rose (GRN)"	17		10	58.82		7	41.18		17
+		Total	65		112	40.43		165	59.57		277
+
+	Hillview										
+			1st Prefs		27	23.48		88	76.52		115
+		"DICKSON, Alan (DEM)"	7		3	42.86		4	57.14		7
+		"NGAHOORO, Alice (HAN)"	23		11	47.83		12	52.17		23
+		"CLYNE, Rose (GRN)"	4		3	75.00		1	25.00		4
+		Total	34		44	29.53		105	70.47		149
+
+	Jimboomba										
+			1st Prefs		1523	41.06		2186	58.94		3709
+		"DICKSON, Alan (DEM)"	269		163	60.59		106	39.41		269
+		"NGAHOORO, Alice (HAN)"	584		303	51.88		281	48.12		584
+		"CLYNE, Rose (GRN)"	169		119	70.41		50	29.59		169
+		Total	1022		2108	44.56		2623	55.44		4731
+
+	Kalbar										
+			1st Prefs		143	21.22		531	78.78		674
+		"DICKSON, Alan (DEM)"	27		13	48.15		14	51.85		27
+		"NGAHOORO, Alice (HAN)"	128		64	50.00		64	50.00		128
+		"CLYNE, Rose (GRN)"	14		8	57.14		6	42.86		14
+		Total	169		228	27.05		615	72.95		843
+
+	Kerry										
+			1st Prefs		29	14.29		174	85.71		203
+		"DICKSON, Alan (DEM)"	8		4	50.00		4	50.00		8
+		"NGAHOORO, Alice (HAN)"	16		5	31.25		11	68.75		16
+		"CLYNE, Rose (GRN)"	4		3	75.00		1	25.00		4
+		Total	28		41	17.75		190	82.25		231
+
+	Loganholme (Forde)										
+			1st Prefs		619	46.30		718	53.70		1337
+		"DICKSON, Alan (DEM)"	68		38	55.88		30	44.12		68
+		"NGAHOORO, Alice (HAN)"	121		70	57.85		51	42.15		121
+		"CLYNE, Rose (GRN)"	45		21	46.67		24	53.33		45
+		Total	234		748	47.61		823	52.39		1571
+
+	Loganlea										
+			1st Prefs		743	51.00		714	49.00		1457
+		"DICKSON, Alan (DEM)"	90		68	75.56		22	24.44		90
+		"NGAHOORO, Alice (HAN)"	129		74	57.36		55	42.64		129
+		"CLYNE, Rose (GRN)"	38		19	50.00		19	50.00		38
+		Total	257		904	52.74		810	47.26		1714
+
+	Logan Reserve										
+			1st Prefs		359	38.48		574	61.52		933
+		"DICKSON, Alan (DEM)"	35		18	51.43		17	48.57		35
+		"NGAHOORO, Alice (HAN)"	125		67	53.60		58	46.40		125
+		"CLYNE, Rose (GRN)"	28		15	53.57		13	46.43		28
+		Total	188		459	40.95		662	59.05		1121
+
+	Logan Village										
+			1st Prefs		868	40.85		1257	59.15		2125
+		"DICKSON, Alan (DEM)"	145		94	64.83		51	35.17		145
+		"NGAHOORO, Alice (HAN)"	357		222	62.18		135	37.82		357
+		"CLYNE, Rose (GRN)"	65		38	58.46		27	41.54		65
+		Total	567		1222	45.39		1470	54.61		2692
+
+	Marsden (Forde)										
+			1st Prefs		619	59.52		421	40.48		1040
+		"DICKSON, Alan (DEM)"	54		31	57.41		23	42.59		54
+		"NGAHOORO, Alice (HAN)"	156		89	57.05		67	42.95		156
+		"CLYNE, Rose (GRN)"	44		27	61.36		17	38.64		44
+		Total	254		766	59.20		528	40.80		1294
+
+	Mount Alford										
+			1st Prefs		42	15.79		224	84.21		266
+		"DICKSON, Alan (DEM)"	8		6	75.00		2	25.00		8
+		"NGAHOORO, Alice (HAN)"	51		21	41.18		30	58.82		51
+		"CLYNE, Rose (GRN)"	3		1	33.33		2	66.67		3
+		Total	62		70	21.34		258	78.66		328
+
+	Mount Warren Park										
+			1st Prefs		1227	42.35		1670	57.65		2897
+		"DICKSON, Alan (DEM)"	183		106	57.92		77	42.08		183
+		"NGAHOORO, Alice (HAN)"	193		80	41.45		113	58.55		193
+		"CLYNE, Rose (GRN)"	55		38	69.09		17	30.91		55
+		Total	431		1451	43.60		1877	56.40		3328
+
+	Nerang West (Forde)										
+			1st Prefs		134	30.04		312	69.96		446
+		"DICKSON, Alan (DEM)"	35		22	62.86		13	37.14		35
+		"NGAHOORO, Alice (HAN)"	40		21	52.50		19	47.50		40
+		"CLYNE, Rose (GRN)"	38		22	57.89		16	42.11		38
+		Total	113		199	35.60		360	64.40		559
+
+	Numinbah Valley										
+			1st Prefs		22	28.21		56	71.79		78
+		"DICKSON, Alan (DEM)"	5		4	80.00		1	20.00		5
+		"NGAHOORO, Alice (HAN)"	20		9	45.00		11	55.00		20
+		"CLYNE, Rose (GRN)"	6		6	100.00		0	0.00		6
+		Total	31		41	37.61		68	62.39		109
+
+	Oxenford										
+			1st Prefs		513	30.45		1172	69.55		1685
+		"DICKSON, Alan (DEM)"	91		46	50.55		45	49.45		91
+		"NGAHOORO, Alice (HAN)"	156		85	54.49		71	45.51		156
+		"CLYNE, Rose (GRN)"	62		32	51.61		30	48.39		62
+		Total	309		676	33.90		1318	66.10		1994
+
+	Pacific Pines										
+			1st Prefs		327	34.35		625	65.65		952
+		"DICKSON, Alan (DEM)"	42		22	52.38		20	47.62		42
+		"NGAHOORO, Alice (HAN)"	74		34	45.95		40	54.05		74
+		"CLYNE, Rose (GRN)"	33		16	48.48		17	51.52		33
+		Total	149		399	36.24		702	63.76		1101
+
+	Park Ridge (Forde)										
+			1st Prefs		795	43.78		1021	56.22		1816
+		"DICKSON, Alan (DEM)"	98		53	54.08		45	45.92		98
+		"NGAHOORO, Alice (HAN)"	223		126	56.50		97	43.50		223
+		"CLYNE, Rose (GRN)"	62		39	62.90		23	37.10		62
+		Total	383		1013	46.07		1186	53.93		2199
+
+	Pimpama										
+			1st Prefs		60	22.30		209	77.70		269
+		"DICKSON, Alan (DEM)"	13		7	53.85		6	46.15		13
+		"NGAHOORO, Alice (HAN)"	17		5	29.41		12	70.59		17
+		"CLYNE, Rose (GRN)"	13		8	61.54		5	38.46		13
+		Total	43		80	25.64		232	74.36		312
+
+	Rathdowney										
+			1st Prefs		68	24.91		205	75.09		273
+		"DICKSON, Alan (DEM)"	13		9	69.23		4	30.77		13
+		"NGAHOORO, Alice (HAN)"	105		54	51.43		51	48.57		105
+		"CLYNE, Rose (GRN)"	7		6	85.71		1	14.29		7
+		Total	125		137	34.42		261	65.58		398
+
+	Roadvale										
+			1st Prefs		61	21.25		226	78.75		287
+		"DICKSON, Alan (DEM)"	4		2	50.00		2	50.00		4
+		"NGAHOORO, Alice (HAN)"	57		38	66.67		19	33.33		57
+		"CLYNE, Rose (GRN)"	11		8	72.73		3	27.27		11
+		Total	72		109	30.36		250	69.64		359
+
+	Shailer Park (Forde)										
+			1st Prefs		185	34.20		356	65.80		541
+		"DICKSON, Alan (DEM)"	24		9	37.50		15	62.50		24
+		"NGAHOORO, Alice (HAN)"	25		8	32.00		17	68.00		25
+		"CLYNE, Rose (GRN)"	17		7	41.18		10	58.82		17
+		Total	66		209	34.43		398	65.57		607
+
+	St. Bernard										
+			1st Prefs		214	28.92		526	71.08		740
+		"DICKSON, Alan (DEM)"	47		29	61.70		18	38.30		47
+		"NGAHOORO, Alice (HAN)"	56		19	33.93		37	66.07		56
+		"CLYNE, Rose (GRN)"	35		25	71.43		10	28.57		35
+		Total	138		287	32.69		591	67.31		878
+
+	Studio Village										
+			1st Prefs		640	39.14		995	60.86		1635
+		"DICKSON, Alan (DEM)"	98		62	63.27		36	36.73		98
+		"NGAHOORO, Alice (HAN)"	154		96	62.34		58	37.66		154
+		"CLYNE, Rose (GRN)"	47		30	63.83		17	36.17		47
+		Total	299		828	42.81		1106	57.19		1934
+
+	Tamborine										
+			1st Prefs		313	38.74		495	61.26		808
+		"DICKSON, Alan (DEM)"	56		32	57.14		24	42.86		56
+		"NGAHOORO, Alice (HAN)"	156		85	54.49		71	45.51		156
+		"CLYNE, Rose (GRN)"	42		28	66.67		14	33.33		42
+		Total	254		458	43.13		604	56.87		1062
+
+	Tamborine North										
+			1st Prefs		567	33.93		1104	66.07		1671
+		"DICKSON, Alan (DEM)"	133		96	72.18		37	27.82		133
+		"NGAHOORO, Alice (HAN)"	175		104	59.43		71	40.57		175
+		"CLYNE, Rose (GRN)"	127		85	66.93		42	33.07		127
+		Total	435		852	40.46		1254	59.54		2106
+
+	Tamrookum										
+			1st Prefs		137	25.42		402	74.58		539
+		"DICKSON, Alan (DEM)"	19		10	52.63		9	47.37		19
+		"NGAHOORO, Alice (HAN)"	71		41	57.75		30	42.25		71
+		"CLYNE, Rose (GRN)"	14		8	57.14		6	42.86		14
+		Total	104		196	30.48		447	69.52		643
+
+	Upper Coomera										
+			1st Prefs		265	27.69		692	72.31		957
+		"DICKSON, Alan (DEM)"	51		24	47.06		27	52.94		51
+		"NGAHOORO, Alice (HAN)"	137		85	62.04		52	37.96		137
+		"CLYNE, Rose (GRN)"	51		33	64.71		18	35.29		51
+		Total	239		407	34.03		789	65.97		1196
+
+	Waterford										
+			1st Prefs		138	42.59		186	57.41		324
+		"DICKSON, Alan (DEM)"	12		6	50.00		6	50.00		12
+		"NGAHOORO, Alice (HAN)"	37		18	48.65		19	51.35		37
+		"CLYNE, Rose (GRN)"	11		5	45.45		6	54.55		11
+		Total	60		167	43.49		217	56.51		384
+
+	Waterford West										
+			1st Prefs		1124	51.82		1045	48.18		2169
+		"DICKSON, Alan (DEM)"	131		83	63.36		48	36.64		131
+		"NGAHOORO, Alice (HAN)"	220		128	58.18		92	41.82		220
+		"CLYNE, Rose (GRN)"	65		44	67.69		21	32.31		65
+		Total	416		1379	53.35		1206	46.65		2585
+
+	Windaroo										
+			1st Prefs		598	33.19		1204	66.81		1802
+		"DICKSON, Alan (DEM)"	83		45	54.22		38	45.78		83
+		"NGAHOORO, Alice (HAN)"	108		53	49.07		55	50.93		108
+		"CLYNE, Rose (GRN)"	48		23	47.92		25	52.08		48
+		Total	239		719	35.23		1322	64.77		2041
+
+	Woodhill										
+			1st Prefs		220	31.38		481	68.62		701
+		"DICKSON, Alan (DEM)"	28		13	46.43		15	53.57		28
+		"NGAHOORO, Alice (HAN)"	114		54	47.37		60	52.63		114
+		"CLYNE, Rose (GRN)"	14		9	64.29		5	35.71		14
+		Total	156		296	34.54		561	65.46		857
+
+	Special Hospitals										
+			1st Prefs		86	39.27		133	60.73		219
+		"DICKSON, Alan (DEM)"	9		4	44.44		5	55.56		9
+		"NGAHOORO, Alice (HAN)"	5		4	80.00		1	20.00		5
+		"CLYNE, Rose (GRN)"	1		0	0.00		1	100.00		1
+		Total	15		94	40.17		140	59.83		234
+
+	Total Ordinary										
+			1st Prefs		21569	39.87		32525	60.13		54094
+		"DICKSON, Alan (DEM)"	2961		1760	59.44		1201	40.56		2961
+		"NGAHOORO, Alice (HAN)"	6321		3439	54.41		2882	45.59		6321
+		"CLYNE, Rose (GRN)"	1917		1167	60.88		750	39.12		1917
+		Total	11199		27935	42.78		37358	57.22		65293
+
+	ABSENT										
+			1st Prefs		1586	40.22		2357	59.78		3943
+		"DICKSON, Alan (DEM)"	355		198	55.77		157	44.23		355
+		"NGAHOORO, Alice (HAN)"	485		182	37.53		303	62.47		485
+		"CLYNE, Rose (GRN)"	253		144	56.92		109	43.08		253
+		Total	1093		2110	41.90		2926	58.10		5036
+
+	POSTAL										
+			1st Prefs		1189	39.67		1808	60.33		2997
+		"DICKSON, Alan (DEM)"	146		82	56.16		64	43.84		146
+		"NGAHOORO, Alice (HAN)"	266		103	38.72		163	61.28		266
+		"CLYNE, Rose (GRN)"	72		46	63.89		26	36.11		72
+		Total	484		1420	40.79		2061	59.21		3481
+
+	PRE_POLL										
+			1st Prefs		844	38.77		1333	61.23		2177
+		"DICKSON, Alan (DEM)"	127		73	57.48		54	42.52		127
+		"NGAHOORO, Alice (HAN)"	230		97	42.17		133	57.83		230
+		"CLYNE, Rose (GRN)"	98		60	61.22		38	38.78		98
+		Total	455		1074	40.81		1558	59.19		2632	
+
+	PROVISIONAL											
+			1st Prefs		236	49.58		240	50.42		476	
+		"DICKSON, Alan (DEM)"	31		17	54.84		14	45.16		31	
+		"NGAHOORO, Alice (HAN)"	70		33	47.14		37	52.86		70	
+		"CLYNE, Rose (GRN)"	23		10	43.48		13	56.52		23	
+		Total	124		296	49.33		304	50.67		600	
+
+	Division Summary											
+			1st Prefs		25424	39.92		38263	60.08		63687	
+		"DICKSON, Alan (DEM)"	3620		2130	58.84		1490	41.16		3620	
+		"NGAHOORO, Alice (HAN)"	7372		3854	52.28		3518	47.72		7372	
+		"CLYNE, Rose (GRN)"	2363		1427	60.39		936	39.61		2363	
+		Total	13355		32835	42.62		44207	57.38		77042	

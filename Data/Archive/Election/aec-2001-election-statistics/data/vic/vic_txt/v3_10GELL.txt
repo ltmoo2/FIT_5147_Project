@@ -1,0 +1,328 @@
+House of Representatives - 2001 Election: Victoria												
+Two Candidate Preferred Preference Flow Result												
+By Polling Place by Division												
+Gellibrand (86496)												
+		Candidate		                  	"TANN, Christopher"		          	"ROXON, Nicola"		              	Total	
+				                           	LP		                         	ALP		                        		
+				                           	Votes	%	                     	Votes	%	                     		
+	Albion											
+			1st Prefs		515	26.45		1432	73.55		1947	
+		"RICHARDS, Rachel (DEM)"	172		52	30.23		120	69.77		172	
+		"FINEY, Michele (GRN)"	69		15	21.74		54	78.26		69	
+		"JORQUERA, Jorge ()"	37		5	13.51		32	86.49		37	
+		Total	278		587	26.38		1638	73.62		2225	
+
+	Altona East											
+			1st Prefs		637	23.53		2070	76.47		2707	
+		"RICHARDS, Rachel (DEM)"	183		49	26.78		134	73.22		183
+		"FINEY, Michele (GRN)"	92		10	10.87		82	89.13		92
+		"JORQUERA, Jorge ()"	50		6	12.00		44	88.00		50
+		Total	325		702	23.15		2330	76.85		3032
+
+	Altona Gate										
+			1st Prefs		493	26.03		1401	73.97		1894
+		"RICHARDS, Rachel (DEM)"	105		24	22.86		81	77.14		105
+		"FINEY, Michele (GRN)"	64		13	20.31		51	79.69		64
+		"JORQUERA, Jorge ()"	18		6	33.33		12	66.67		18
+		Total	187		536	25.76		1545	74.24		2081
+
+	Altona North										
+			1st Prefs		319	30.01		744	69.99		1063
+		"RICHARDS, Rachel (DEM)"	57		15	26.32		42	73.68		57
+		"FINEY, Michele (GRN)"	30		4	13.33		26	86.67		30
+		"JORQUERA, Jorge ()"	11		2	18.18		9	81.82		11
+		Total	98		340	29.29		821	70.71		1161
+
+	Ardeer										
+			1st Prefs		314	31.03		698	68.97		1012
+		"RICHARDS, Rachel (DEM)"	88		17	19.32		71	80.68		88
+		"FINEY, Michele (GRN)"	25		8	32.00		17	68.00		25
+		"JORQUERA, Jorge ()"	15		4	26.67		11	73.33		15
+		Total	128		343	30.09		797	69.91		1140
+
+	Ardeer East (Gellibrand)										
+			1st Prefs		187	19.42		776	80.58		963
+		"RICHARDS, Rachel (DEM)"	64		14	21.88		50	78.13		64
+		"FINEY, Michele (GRN)"	29		14	48.28		15	51.72		29
+		"JORQUERA, Jorge ()"	11		3	27.27		8	72.73		11
+		Total	104		218	20.43		849	79.57		1067
+
+	Braybrook										
+			1st Prefs		482	19.61		1976	80.39		2458
+		"RICHARDS, Rachel (DEM)"	74		18	24.32		56	75.68		74
+		"FINEY, Michele (GRN)"	76		11	14.47		65	85.53		76
+		"JORQUERA, Jorge ()"	47		5	10.64		42	89.36		47
+		Total	197		516	19.44		2139	80.56		2655
+
+	Brooklyn										
+			1st Prefs		207	31.32		454	68.68		661
+		"RICHARDS, Rachel (DEM)"	32		9	28.13		23	71.88		32
+		"FINEY, Michele (GRN)"	22		6	27.27		16	72.73		22
+		"JORQUERA, Jorge ()"	3		1	33.33		2	66.67		3
+		Total	57		223	31.06		495	68.94		718
+
+	Footscray										
+			1st Prefs		546	23.82		1746	76.18		2292
+		"RICHARDS, Rachel (DEM)"	150		39	26.00		111	74.00		150
+		"FINEY, Michele (GRN)"	151		14	9.27		137	90.73		151
+		"JORQUERA, Jorge ()"	31		7	22.58		24	77.42		31
+		Total	332		606	23.09		2018	76.91		2624
+
+	Footscray Central										
+			1st Prefs		196	24.41		607	75.59		803
+		"RICHARDS, Rachel (DEM)"	83		19	22.89		64	77.11		83
+		"FINEY, Michele (GRN)"	113		10	8.85		103	91.15		113
+		"JORQUERA, Jorge ()"	20		7	35.00		13	65.00		20
+		Total	216		232	22.77		787	77.23		1019
+
+	Footscray East										
+			1st Prefs		140	24.96		421	75.04		561
+		"RICHARDS, Rachel (DEM)"	38		8	21.05		30	78.95		38
+		"FINEY, Michele (GRN)"	47		5	10.64		42	89.36		47
+		"JORQUERA, Jorge ()"	8		1	12.50		7	87.50		8
+		Total	93		154	23.55		500	76.45		654
+
+	Footscray North										
+			1st Prefs		285	27.89		737	72.11		1022
+		"RICHARDS, Rachel (DEM)"	80		18	22.50		62	77.50		80
+		"FINEY, Michele (GRN)"	83		6	7.23		77	92.77		83
+		"JORQUERA, Jorge ()"	9		2	22.22		7	77.78		9
+		Total	172		311	26.05		883	73.95		1194
+
+	Footscray South										
+			1st Prefs		273	27.35		725	72.65		998
+		"RICHARDS, Rachel (DEM)"	90		24	26.67		66	73.33		90
+		"FINEY, Michele (GRN)"	149		18	12.08		131	87.92		149
+		"JORQUERA, Jorge ()"	25		6	24.00		19	76.00		25
+		Total	264		321	25.44		941	74.56		1262
+
+	Footscray West										
+			1st Prefs		778	26.21		2190	73.79		2968
+		"RICHARDS, Rachel (DEM)"	223		53	23.77		170	76.23		223
+		"FINEY, Michele (GRN)"	177		20	11.30		157	88.70		177
+		"JORQUERA, Jorge ()"	43		7	16.28		36	83.72		43
+		Total	443		858	25.15		2553	74.85		3411
+
+	Glengala (Gellibrand)										
+			1st Prefs		158	22.13		556	77.87		714
+		"RICHARDS, Rachel (DEM)"	45		14	31.11		31	68.89		45
+		"FINEY, Michele (GRN)"	20		6	30.00		14	70.00		20
+		"JORQUERA, Jorge ()"	10		3	30.00		7	70.00		10
+		Total	75		181	22.94		608	77.06		789
+
+	Kingsville										
+			1st Prefs		565	27.61		1481	72.39		2046
+		"RICHARDS, Rachel (DEM)"	183		50	27.32		133	72.68		183
+		"FINEY, Michele (GRN)"	235		27	11.49		208	88.51		235
+		"JORQUERA, Jorge ()"	35		3	8.57		32	91.43		35
+		Total	453		645	25.81		1854	74.19		2499
+
+	Kingsville West										
+			1st Prefs		363	27.79		943	72.21		1306
+		"RICHARDS, Rachel (DEM)"	82		24	29.27		58	70.73		82
+		"FINEY, Michele (GRN)"	70		6	8.57		64	91.43		70
+		"JORQUERA, Jorge ()"	29		3	10.34		26	89.66		29
+		Total	181		396	26.63		1091	73.37		1487
+
+	Maidstone										
+			1st Prefs		424	24.72		1291	75.28		1715
+		"RICHARDS, Rachel (DEM)"	108		28	25.93		80	74.07		108
+		"FINEY, Michele (GRN)"	39		8	20.51		31	79.49		39
+		"JORQUERA, Jorge ()"	30		5	16.67		25	83.33		30
+		Total	177		465	24.58		1427	75.42		1892
+
+	Maribyrnong										
+			1st Prefs		589	42.40		800	57.60		1389
+		"RICHARDS, Rachel (DEM)"	138		45	32.61		93	67.39		138
+		"FINEY, Michele (GRN)"	100		16	16.00		84	84.00		100
+		"JORQUERA, Jorge ()"	16		2	12.50		14	87.50		16
+		Total	254		652	39.68		991	60.32		1643
+
+	Maribyrnong South										
+			1st Prefs		312	27.01		843	72.99		1155
+		"RICHARDS, Rachel (DEM)"	74		10	13.51		64	86.49		74
+		"FINEY, Michele (GRN)"	37		8	21.62		29	78.38		37
+		"JORQUERA, Jorge ()"	8		1	12.50		7	87.50		8
+		Total	119		331	25.98		943	74.02		1274
+
+	Melbourne (Gellibrand)										
+			1st Prefs		33	45.83		39	54.17		72
+		"RICHARDS, Rachel (DEM)"	10		3	30.00		7	70.00		10
+		"FINEY, Michele (GRN)"	19		3	15.79		16	84.21		19
+		"JORQUERA, Jorge ()"	1		0	0.00		1	100.00		1
+		Total	30		39	38.24		63	61.76		102
+
+	Newport										
+			1st Prefs		469	32.61		969	67.39		1438
+		"RICHARDS, Rachel (DEM)"	166		43	25.90		123	74.10		166
+		"FINEY, Michele (GRN)"	159		23	14.47		136	85.53		159
+		"JORQUERA, Jorge ()"	18		2	11.11		16	88.89		18
+		Total	343		537	30.15		1244	69.85		1781
+
+	Newport East										
+			1st Prefs		395	32.40		824	67.60		1219
+		"RICHARDS, Rachel (DEM)"	128		39	30.47		89	69.53		128
+		"FINEY, Michele (GRN)"	147		21	14.29		126	85.71		147
+		"JORQUERA, Jorge ()"	11		5	45.45		6	54.55		11
+		Total	286		460	30.56		1045	69.44		1505
+
+	Newport West										
+			1st Prefs		435	27.67		1137	72.33		1572
+		"RICHARDS, Rachel (DEM)"	141		35	24.82		106	75.18		141
+		"FINEY, Michele (GRN)"	106		23	21.70		83	78.30		106
+		"JORQUERA, Jorge ()"	39		6	15.38		33	84.62		39
+		Total	286		499	26.86		1359	73.14		1858
+
+	Seddon										
+			1st Prefs		456	28.72		1132	71.28		1588
+		"RICHARDS, Rachel (DEM)"	183		46	25.14		137	74.86		183
+		"FINEY, Michele (GRN)"	259		22	8.49		237	91.51		259
+		"JORQUERA, Jorge ()"	19		6	31.58		13	68.42		19
+		Total	461		530	25.87		1519	74.13		2049
+
+	South Kingsville										
+			1st Prefs		297	28.23		755	71.77		1052
+		"RICHARDS, Rachel (DEM)"	107		28	26.17		79	73.83		107
+		"FINEY, Michele (GRN)"	67		12	17.91		55	82.09		67
+		"JORQUERA, Jorge ()"	17		6	35.29		11	64.71		17
+		Total	191		343	27.59		900	72.41		1243
+
+	Spotswood										
+			1st Prefs		315	33.37		629	66.63		944
+		"RICHARDS, Rachel (DEM)"	108		33	30.56		75	69.44		108
+		"FINEY, Michele (GRN)"	65		9	13.85		56	86.15		65
+		"JORQUERA, Jorge ()"	7		2	28.57		5	71.43		7
+		Total	180		359	31.94		765	68.06		1124
+
+	Sunshine										
+			1st Prefs		344	25.54		1003	74.46		1347
+		"RICHARDS, Rachel (DEM)"	112		24	21.43		88	78.57		112
+		"FINEY, Michele (GRN)"	59		8	13.56		51	86.44		59
+		"JORQUERA, Jorge ()"	25		5	20.00		20	80.00		25
+		Total	196		381	24.69		1162	75.31		1543
+
+	Sunshine North										
+			1st Prefs		628	22.59		2152	77.41		2780
+		"RICHARDS, Rachel (DEM)"	144		41	28.47		103	71.53		144
+		"FINEY, Michele (GRN)"	104		9	8.65		95	91.35		104
+		"JORQUERA, Jorge ()"	35		4	11.43		31	88.57		35
+		Total	283		682	22.27		2381	77.73		3063
+
+	Sunvale										
+			1st Prefs		553	29.60		1315	70.40		1868
+		"RICHARDS, Rachel (DEM)"	149		47	31.54		102	68.46		149
+		"FINEY, Michele (GRN)"	64		12	18.75		52	81.25		64
+		"JORQUERA, Jorge ()"	34		1	2.94		33	97.06		34
+		Total	247		613	28.98		1502	71.02		2115
+
+	Tottenham North										
+			1st Prefs		212	18.52		933	81.48		1145
+		"RICHARDS, Rachel (DEM)"	36		6	16.67		30	83.33		36
+		"FINEY, Michele (GRN)"	27		6	22.22		21	77.78		27
+		"JORQUERA, Jorge ()"	11		4	36.36		7	63.64		11
+		Total	74		228	18.70		991	81.30		1219
+
+	Western Hospital										
+			1st Prefs		85	25.99		242	74.01		327
+		"RICHARDS, Rachel (DEM)"	16		4	25.00		12	75.00		16
+		"FINEY, Michele (GRN)"	18		0	0.00		18	100.00		18
+		"JORQUERA, Jorge ()"	6		2	33.33		4	66.67		6
+		Total	40		91	24.80		276	75.20		367
+
+	Williamstown										
+			1st Prefs		792	42.76		1060	57.24		1852
+		"RICHARDS, Rachel (DEM)"	153		38	24.84		115	75.16		153
+		"FINEY, Michele (GRN)"	236		24	10.17		212	89.83		236
+		"JORQUERA, Jorge ()"	13		4	30.77		9	69.23		13
+		Total	402		858	38.07		1396	61.93		2254
+
+	Williamstown North										
+			1st Prefs		464	44.83		571	55.17		1035
+		"RICHARDS, Rachel (DEM)"	141		31	21.99		110	78.01		141
+		"FINEY, Michele (GRN)"	170		26	15.29		144	84.71		170
+		"JORQUERA, Jorge ()"	8		0	0.00		8	100.00		8
+		Total	319		521	38.48		833	61.52		1354
+
+	Williamstown South										
+			1st Prefs		793	41.32		1126	58.68		1919
+		"RICHARDS, Rachel (DEM)"	169		52	30.77		117	69.23		169
+		"FINEY, Michele (GRN)"	308		43	13.96		265	86.04		308
+		"JORQUERA, Jorge ()"	27		9	33.33		18	66.67		27
+		Total	504		897	37.02		1526	62.98		2423
+
+	Williamstown West										
+			1st Prefs		994	48.87		1040	51.13		2034
+		"RICHARDS, Rachel (DEM)"	176		76	43.18		100	56.82		176
+		"FINEY, Michele (GRN)"	186		32	17.20		154	82.80		186
+		"JORQUERA, Jorge ()"	16		6	37.50		10	62.50		16
+		Total	378		1108	45.94		1304	54.06		2412
+
+	Yarraville										
+			1st Prefs		344	29.89		807	70.11		1151
+		"RICHARDS, Rachel (DEM)"	132		37	28.03		95	71.97		132
+		"FINEY, Michele (GRN)"	142		13	9.15		129	90.85		142
+		"JORQUERA, Jorge ()"	19		7	36.84		12	63.16		19
+		Total	293		401	27.77		1043	72.23		1444
+
+	Yarraville Central										
+			1st Prefs		462	30.26		1065	69.74		1527
+		"RICHARDS, Rachel (DEM)"	190		47	24.74		143	75.26		190
+		"FINEY, Michele (GRN)"	253		23	9.09		230	90.91		253
+		"JORQUERA, Jorge ()"	25		6	24.00		19	76.00		25
+		Total	468		538	26.97		1457	73.03		1995
+
+	Yarraville South										
+			1st Prefs		398	31.61		861	68.39		1259
+		"RICHARDS, Rachel (DEM)"	94		24	25.53		70	74.47		94
+		"FINEY, Michele (GRN)"	83		14	16.87		69	83.13		83
+		"JORQUERA, Jorge ()"	31		5	16.13		26	83.87		31
+		Total	208		441	30.06		1026	69.94		1467
+
+	Special Hospitals										
+			1st Prefs		104	42.45		141	57.55		245
+		"RICHARDS, Rachel (DEM)"	3		1	33.33		2	66.67		3
+		"FINEY, Michele (GRN)"	11		5	45.45		6	54.55		11
+		"JORQUERA, Jorge ()"	1		1	100.00		0	0.00		1
+		Total	15		111	42.69		149	57.31		260
+
+	Total Ordinary										
+			1st Prefs		16356	29.18		39692	70.82		56048
+		"RICHARDS, Rachel (DEM)"	4427		1185	26.77		3242	73.23		4427
+		"FINEY, Michele (GRN)"	4111		553	13.45		3558	86.55		4111
+		"JORQUERA, Jorge ()"	819		160	19.54		659	80.46		819
+		Total	9357		18254	27.91		47151	72.09		65405
+
+	ABSENT										
+			1st Prefs		1151	32.86		2352	67.14		3503
+		"RICHARDS, Rachel (DEM)"	442		122	27.60		320	72.40		442
+		"FINEY, Michele (GRN)"	452		99	21.90		353	78.10		452
+		"JORQUERA, Jorge ()"	76		33	43.42		43	56.58		76
+		Total	970		1405	31.41		3068	68.59		4473
+
+	POSTAL										
+			1st Prefs		718	29.66		1703	70.34		2421
+		"RICHARDS, Rachel (DEM)"	104		29	27.88		75	72.12		104
+		"FINEY, Michele (GRN)"	65		13	20.00		52	80.00		65
+		"JORQUERA, Jorge ()"	15		6	40.00		9	60.00		15
+		Total	184		766	29.40		1839	70.60		2605
+
+	PRE_POLL										
+			1st Prefs		820	29.76		1935	70.24		2755
+		"RICHARDS, Rachel (DEM)"	249		84	33.73		165	66.27		249
+		"FINEY, Michele (GRN)"	173		40	23.12		133	76.88		173
+		"JORQUERA, Jorge ()"	45		16	35.56		29	64.44		45
+		Total	467		960	29.80		2262	70.20		3222
+
+	PROVISIONAL										
+			1st Prefs		146	24.83		442	75.17		588
+		"RICHARDS, Rachel (DEM)"	34		12	35.29		22	64.71		34
+		"FINEY, Michele (GRN)"	30		6	20.00		24	80.00		30
+		"JORQUERA, Jorge ()"	8		2	25.00		6	75.00		8
+		Total	72		166	25.15		494	74.85		660	
+
+	Division Summary											
+			1st Prefs		19191	29.38		46124	70.62		65315	
+		"RICHARDS, Rachel (DEM)"	5256		1432	27.25		3824	72.75		5256	
+		"FINEY, Michele (GRN)"	4831		711	14.72		4120	85.28		4831	
+		"JORQUERA, Jorge ()"	963		217	22.53		746	77.47		963	
+		Total	11050		21551	28.22		54814	71.78		76365	

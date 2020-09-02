@@ -1,0 +1,425 @@
+House of Representatives - 2001 Election: New South Wales											
+Two Candidate Preferred Preference Flow Result											
+By Polling Place											
+											
+Blaxland (82779)											
+		Candidate		"HATTON, Michael"		            	"OSMOND, Les"		                	Total	
+				ALP		                        	LP		                         		
+				Votes	%	                     	Votes	%	                     		
+	Bankstown										
+			1st Prefs	1833	83.78		355	16.22		2188	
+		"MCDERMOTT, Colin (DEM)"	146	130	89.04		16	10.96		146	
+		"VINNICOMBE, Bob (HAN)"	73	35	47.95		38	52.05		73	
+		"ANNY, Munther (IND)"	16	6	37.50		10	62.50		16	
+		"SAYEGH, Peter (IND)"	50	34	68.00		16	32.00		50	
+		"PETERSON, Janne (CTA)"	41	16	39.02		25	60.98		41	
+		"HAWAT, Dario (UNI)"	104	73	70.19		31	29.81		104	
+		"MCKAY, Sonya (GRN)"	52	41	78.85		11	21.15		52	
+		Total	482	2168	81.20		502	18.80		2670	
+
+	Bankstown Central										
+			1st Prefs	1347	79.19		354	20.81		1701	
+		"MCDERMOTT, Colin (DEM)"	75	58	77.33		17	22.67		75	
+		"VINNICOMBE, Bob (HAN)"	44	17	38.64		27	61.36		44	
+		"ANNY, Munther (IND)"	8	4	50.00		4	50.00		8	
+		"SAYEGH, Peter (IND)"	35	9	25.71		26	74.29		35	
+		"PETERSON, Janne (CTA)"	9	5	55.56		4	44.44		9	
+		"HAWAT, Dario (UNI)"	101	61	60.40		40	39.60		101	
+		"MCKAY, Sonya (GRN)"	35	25	71.43		10	28.57		35	
+		Total	307	1526	76.00		482	24.00		2008	
+
+	Bankstown North										
+			1st Prefs	708	72.62		267	27.38		975	
+		"MCDERMOTT, Colin (DEM)"	75	57	76.00		18	24.00		75	
+		"VINNICOMBE, Bob (HAN)"	88	39	44.32		49	55.68		88	
+		"ANNY, Munther (IND)"	6	2	33.33		4	66.67		6	
+		"SAYEGH, Peter (IND)"	6	4	66.67		2	33.33		6	
+		"PETERSON, Janne (CTA)"	10	7	70.00		3	30.00		10	
+		"HAWAT, Dario (UNI)"	34	29	85.29		5	14.71		34	
+		"MCKAY, Sonya (GRN)"	32	21	65.63		11	34.38		32	
+		Total	251	867	70.72		359	29.28		1226	
+
+	Bankstown South										
+			1st Prefs	926	69.94		398	30.06		1324	
+		"MCDERMOTT, Colin (DEM)"	82	66	80.49		16	19.51		82	
+		"VINNICOMBE, Bob (HAN)"	92	26	28.26		66	71.74		92	
+		"ANNY, Munther (IND)"	11	6	54.55		5	45.45		11	
+		"SAYEGH, Peter (IND)"	17	4	23.53		13	76.47		17	
+		"PETERSON, Janne (CTA)"	20	6	30.00		14	70.00		20	
+		"HAWAT, Dario (UNI)"	27	15	55.56		12	44.44		27	
+		"MCKAY, Sonya (GRN)"	46	36	78.26		10	21.74		46	
+		Total	295	1085	67.02		534	32.98		1619	
+
+	Bankstown West										
+			1st Prefs	998	74.15		348	25.85		1346	
+		"MCDERMOTT, Colin (DEM)"	90	75	83.33		15	16.67		90	
+		"VINNICOMBE, Bob (HAN)"	88	22	25.00		66	75.00		88	
+		"ANNY, Munther (IND)"	8	6	75.00		2	25.00		8	
+		"SAYEGH, Peter (IND)"	39	18	46.15		21	53.85		39	
+		"PETERSON, Janne (CTA)"	42	12	28.57		30	71.43		42	
+		"HAWAT, Dario (UNI)"	36	21	58.33		15	41.67		36	
+		"MCKAY, Sonya (GRN)"	43	30	69.77		13	30.23		43	
+		Total	346	1182	69.86		510	30.14		1692	
+
+	Bass Hill										
+			1st Prefs	1098	63.95		619	36.05		1717	
+		"MCDERMOTT, Colin (DEM)"	126	104	82.54		22	17.46		126	
+		"VINNICOMBE, Bob (HAN)"	210	70	33.33		140	66.67		210	
+		"ANNY, Munther (IND)"	8	5	62.50		3	37.50		8	
+		"SAYEGH, Peter (IND)"	46	22	47.83		24	52.17		46	
+		"PETERSON, Janne (CTA)"	39	13	33.33		26	66.67		39	
+		"HAWAT, Dario (UNI)"	28	19	67.86		9	32.14		28	
+		"MCKAY, Sonya (GRN)"	38	27	71.05		11	28.95		38	
+		Total	495	1358	61.39		854	38.61		2212	
+
+	Bass Hill Central										
+			1st Prefs	692	59.45		472	40.55		1164	
+		"MCDERMOTT, Colin (DEM)"	73	54	73.97		19	26.03		73	
+		"VINNICOMBE, Bob (HAN)"	135	34	25.19		101	74.81		135	
+		"ANNY, Munther (IND)"	4	3	75.00		1	25.00		4	
+		"SAYEGH, Peter (IND)"	26	9	34.62		17	65.38		26	
+		"PETERSON, Janne (CTA)"	29	8	27.59		21	72.41		29	
+		"HAWAT, Dario (UNI)"	13	9	69.23		4	30.77		13	
+		"MCKAY, Sonya (GRN)"	39	25	64.10		14	35.90		39	
+		Total	319	834	56.24		649	43.76		1483	
+
+	Bass Hill West										
+			1st Prefs	1101	54.72		911	45.28		2012	
+		"MCDERMOTT, Colin (DEM)"	160	110	68.75		50	31.25		160	
+		"VINNICOMBE, Bob (HAN)"	234	66	28.21		168	71.79		234	
+		"ANNY, Munther (IND)"	13	8	61.54		5	38.46		13	
+		"SAYEGH, Peter (IND)"	36	11	30.56		25	69.44		36	
+		"PETERSON, Janne (CTA)"	66	16	24.24		50	75.76		66	
+		"HAWAT, Dario (UNI)"	22	16	72.73		6	27.27		22	
+		"MCKAY, Sonya (GRN)"	89	60	67.42		29	32.58		89	
+		Total	620	1388	52.74		1244	47.26		2632	
+
+	Birrong										
+			1st Prefs	1421	64.56		780	35.44		2201	
+		"MCDERMOTT, Colin (DEM)"	150	110	73.33		40	26.67		150	
+		"VINNICOMBE, Bob (HAN)"	200	48	24.00		152	76.00		200	
+		"ANNY, Munther (IND)"	11	6	54.55		5	45.45		11	
+		"SAYEGH, Peter (IND)"	26	12	46.15		14	53.85		26	
+		"PETERSON, Janne (CTA)"	80	26	32.50		54	67.50		80	
+		"HAWAT, Dario (UNI)"	67	43	64.18		24	35.82		67	
+		"MCKAY, Sonya (GRN)"	50	36	72.00		14	28.00		50	
+		Total	584	1702	61.11		1083	38.89		2785	
+
+	Chester Hill										
+			1st Prefs	1517	67.94		716	32.06		2233	
+		"MCDERMOTT, Colin (DEM)"	107	85	79.44		22	20.56		107	
+		"VINNICOMBE, Bob (HAN)"	191	59	30.89		132	69.11		191	
+		"ANNY, Munther (IND)"	15	10	66.67		5	33.33		15	
+		"SAYEGH, Peter (IND)"	19	11	57.89		8	42.11		19	
+		"PETERSON, Janne (CTA)"	76	20	26.32		56	73.68		76	
+		"HAWAT, Dario (UNI)"	30	19	63.33		11	36.67		30	
+		"MCKAY, Sonya (GRN)"	69	50	72.46		19	27.54		69	
+		Total	507	1771	64.64		969	35.36		2740	
+
+	Chester Hill North										
+			1st Prefs	1091	63.62		624	36.38		1715	
+		"MCDERMOTT, Colin (DEM)"	90	69	76.67		21	23.33		90	
+		"VINNICOMBE, Bob (HAN)"	219	59	26.94		160	73.06		219	
+		"ANNY, Munther (IND)"	23	15	65.22		8	34.78		23	
+		"SAYEGH, Peter (IND)"	37	21	56.76		16	43.24		37	
+		"PETERSON, Janne (CTA)"	43	14	32.56		29	67.44		43	
+		"HAWAT, Dario (UNI)"	41	30	73.17		11	26.83		41	
+		"MCKAY, Sonya (GRN)"	40	25	62.50		15	37.50		40	
+		Total	493	1324	59.96		884	40.04		2208	
+
+	Chullora										
+			1st Prefs	1103	64.54		606	35.46		1709	
+		"MCDERMOTT, Colin (DEM)"	80	64	80.00		16	20.00		80	
+		"VINNICOMBE, Bob (HAN)"	155	48	30.97		107	69.03		155	
+		"ANNY, Munther (IND)"	20	17	85.00		3	15.00		20	
+		"SAYEGH, Peter (IND)"	38	14	36.84		24	63.16		38	
+		"PETERSON, Janne (CTA)"	61	15	24.59		46	75.41		61	
+		"HAWAT, Dario (UNI)"	45	37	82.22		8	17.78		45	
+		"MCKAY, Sonya (GRN)"	55	39	70.91		16	29.09		55	
+		Total	454	1337	61.81		826	38.19		2163	
+
+	Condell Park										
+			1st Prefs	1932	64.70		1054	35.30		2986	
+		"MCDERMOTT, Colin (DEM)"	175	153	87.43		22	12.57		175	
+		"VINNICOMBE, Bob (HAN)"	268	82	30.60		186	69.40		268	
+		"ANNY, Munther (IND)"	18	14	77.78		4	22.22		18	
+		"SAYEGH, Peter (IND)"	42	24	57.14		18	42.86		42	
+		"PETERSON, Janne (CTA)"	102	38	37.25		64	62.75		102	
+		"HAWAT, Dario (UNI)"	42	30	71.43		12	28.57		42	
+		"MCKAY, Sonya (GRN)"	115	90	78.26		25	21.74		115	
+		Total	762	2363	63.05		1385	36.95		3748	
+
+	Condell Park North										
+			1st Prefs	325	56.62		249	43.38		574	
+		"MCDERMOTT, Colin (DEM)"	36	31	86.11		5	13.89		36	
+		"VINNICOMBE, Bob (HAN)"	39	13	33.33		26	66.67		39	
+		"ANNY, Munther (IND)"	6	1	16.67		5	83.33		6	
+		"SAYEGH, Peter (IND)"	4	2	50.00		2	50.00		4	
+		"PETERSON, Janne (CTA)"	28	2	7.14		26	92.86		28	
+		"HAWAT, Dario (UNI)"	13	11	84.62		2	15.38		13	
+		"MCKAY, Sonya (GRN)"	16	10	62.50		6	37.50		16	
+		Total	142	395	55.17		321	44.83		716	
+
+	Condell Park South										
+			1st Prefs	1189	76.71		361	23.29		1550	
+		"MCDERMOTT, Colin (DEM)"	82	76	92.68		6	7.32		82	
+		"VINNICOMBE, Bob (HAN)"	59	27	45.76		32	54.24		59	
+		"ANNY, Munther (IND)"	8	5	62.50		3	37.50		8	
+		"SAYEGH, Peter (IND)"	42	20	47.62		22	52.38		42	
+		"PETERSON, Janne (CTA)"	25	4	16.00		21	84.00		25	
+		"HAWAT, Dario (UNI)"	35	26	74.29		9	25.71		35	
+		"MCKAY, Sonya (GRN)"	39	29	74.36		10	25.64		39	
+		Total	290	1376	74.78		464	25.22		1840	
+
+	Enfield West										
+			1st Prefs	952	59.13		658	40.87		1610	
+		"MCDERMOTT, Colin (DEM)"	95	79	83.16		16	16.84		95	
+		"VINNICOMBE, Bob (HAN)"	52	23	44.23		29	55.77		52	
+		"ANNY, Munther (IND)"	10	7	70.00		3	30.00		10	
+		"SAYEGH, Peter (IND)"	34	9	26.47		25	73.53		34	
+		"PETERSON, Janne (CTA)"	38	9	23.68		29	76.32		38	
+		"HAWAT, Dario (UNI)"	30	19	63.33		11	36.67		30	
+		"MCKAY, Sonya (GRN)"	42	32	76.19		10	23.81		42	
+		Total	301	1130	59.13		781	40.87		1911	
+
+	Georges Hall										
+			1st Prefs	1310	53.60		1134	46.40		2444	
+		"MCDERMOTT, Colin (DEM)"	175	124	70.86		51	29.14		175	
+		"VINNICOMBE, Bob (HAN)"	307	75	24.43		232	75.57		307	
+		"ANNY, Munther (IND)"	22	13	59.09		9	40.91		22	
+		"SAYEGH, Peter (IND)"	34	16	47.06		18	52.94		34	
+		"PETERSON, Janne (CTA)"	102	30	29.41		72	70.59		102	
+		"HAWAT, Dario (UNI)"	8	4	50.00		4	50.00		8	
+		"MCKAY, Sonya (GRN)"	129	96	74.42		33	25.58		129	
+		Total	777	1668	51.79		1553	48.21		3221	
+
+	Gosling Park										
+			1st Prefs	681	63.59		390	36.41		1071	
+		"MCDERMOTT, Colin (DEM)"	66	51	77.27		15	22.73		66	
+		"VINNICOMBE, Bob (HAN)"	78	36	46.15		42	53.85		78	
+		"ANNY, Munther (IND)"	14	8	57.14		6	42.86		14	
+		"SAYEGH, Peter (IND)"	46	11	23.91		35	76.09		46	
+		"PETERSON, Janne (CTA)"	15	4	26.67		11	73.33		15	
+		"HAWAT, Dario (UNI)"	24	7	29.17		17	70.83		24	
+		"MCKAY, Sonya (GRN)"	30	18	60.00		12	40.00		30	
+		Total	273	816	60.71		528	39.29		1344	
+
+	Greenacre										
+			1st Prefs	2426	70.01		1039	29.99		3465	
+		"MCDERMOTT, Colin (DEM)"	232	198	85.34		34	14.66		232	
+		"VINNICOMBE, Bob (HAN)"	128	57	44.53		71	55.47		128	
+		"ANNY, Munther (IND)"	22	17	77.27		5	22.73		22	
+		"SAYEGH, Peter (IND)"	41	19	46.34		22	53.66		41	
+		"PETERSON, Janne (CTA)"	76	29	38.16		47	61.84		76	
+		"HAWAT, Dario (UNI)"	105	69	65.71		36	34.29		105	
+		"MCKAY, Sonya (GRN)"	158	141	89.24		17	10.76		158	
+		Total	762	2956	69.93		1271	30.07		4227	
+
+	Greenacre West										
+			1st Prefs	483	65.63		253	34.38		736	
+		"MCDERMOTT, Colin (DEM)"	44	38	86.36		6	13.64		44	
+		"VINNICOMBE, Bob (HAN)"	55	18	32.73		37	67.27		55	
+		"ANNY, Munther (IND)"	7	5	71.43		2	28.57		7	
+		"SAYEGH, Peter (IND)"	7	4	57.14		3	42.86		7	
+		"PETERSON, Janne (CTA)"	42	14	33.33		28	66.67		42	
+		"HAWAT, Dario (UNI)"	18	10	55.56		8	44.44		18	
+		"MCKAY, Sonya (GRN)"	17	11	64.71		6	35.29		17	
+		Total	190	583	62.96		343	37.04		926	
+
+	Mount Lewis										
+			1st Prefs	794	65.51		418	34.49		1212	
+		"MCDERMOTT, Colin (DEM)"	68	50	73.53		18	26.47		68	
+		"VINNICOMBE, Bob (HAN)"	55	23	41.82		32	58.18		55	
+		"ANNY, Munther (IND)"	5	3	60.00		2	40.00		5	
+		"SAYEGH, Peter (IND)"	25	9	36.00		16	64.00		25	
+		"PETERSON, Janne (CTA)"	38	8	21.05		30	78.95		38	
+		"HAWAT, Dario (UNI)"	40	26	65.00		14	35.00		40	
+		"MCKAY, Sonya (GRN)"	33	20	60.61		13	39.39		33	
+		Total	264	933	63.21		543	36.79		1476	
+
+	Punchbowl (Blaxland)										
+			1st Prefs	1363	77.09		405	22.91		1768	
+		"MCDERMOTT, Colin (DEM)"	119	99	83.19		20	16.81		119	
+		"VINNICOMBE, Bob (HAN)"	65	29	44.62		36	55.38		65	
+		"ANNY, Munther (IND)"	12	7	58.33		5	41.67		12	
+		"SAYEGH, Peter (IND)"	49	20	40.82		29	59.18		49	
+		"PETERSON, Janne (CTA)"	62	24	38.71		38	61.29		62	
+		"HAWAT, Dario (UNI)"	146	54	36.99		92	63.01		146	
+		"MCKAY, Sonya (GRN)"	58	37	63.79		21	36.21		58	
+		Total	511	1633	71.65		646	28.35		2279	
+
+	Punchbowl Central										
+			1st Prefs	1004	71.46		401	28.54		1405	
+		"MCDERMOTT, Colin (DEM)"	66	60	90.91		6	9.09		66	
+		"VINNICOMBE, Bob (HAN)"	26	11	42.31		15	57.69		26	
+		"ANNY, Munther (IND)"	5	4	80.00		1	20.00		5	
+		"SAYEGH, Peter (IND)"	39	21	53.85		18	46.15		39	
+		"PETERSON, Janne (CTA)"	57	30	52.63		27	47.37		57	
+		"HAWAT, Dario (UNI)"	70	50	71.43		20	28.57		70	
+		"MCKAY, Sonya (GRN)"	27	20	74.07		7	25.93		27	
+		Total	290	1200	70.80		495	29.20		1695	
+
+	St Pauls										
+			1st Prefs	1071	75.37		350	24.63		1421	
+		"MCDERMOTT, Colin (DEM)"	41	35	85.37		6	14.63		41	
+		"VINNICOMBE, Bob (HAN)"	39	19	48.72		20	51.28		39	
+		"ANNY, Munther (IND)"	5	4	80.00		1	20.00		5	
+		"SAYEGH, Peter (IND)"	11	7	63.64		4	36.36		11	
+		"PETERSON, Janne (CTA)"	22	10	45.45		12	54.55		22	
+		"HAWAT, Dario (UNI)"	36	32	88.89		4	11.11		36	
+		"MCKAY, Sonya (GRN)"	29	21	72.41		8	27.59		29	
+		Total	183	1199	74.75		405	25.25		1604	
+
+	Sefton										
+			1st Prefs	1245	64.08		698	35.92		1943	
+		"MCDERMOTT, Colin (DEM)"	151	107	70.86		44	29.14		151	
+		"VINNICOMBE, Bob (HAN)"	216	66	30.56		150	69.44		216	
+		"ANNY, Munther (IND)"	17	13	76.47		4	23.53		17	
+		"SAYEGH, Peter (IND)"	26	13	50.00		13	50.00		26	
+		"PETERSON, Janne (CTA)"	24	10	41.67		14	58.33		24	
+		"HAWAT, Dario (UNI)"	39	29	74.36		10	25.64		39	
+		"MCKAY, Sonya (GRN)"	42	28	66.67		14	33.33		42	
+		Total	515	1511	61.47		947	38.53		2458	
+
+	Sydney (Blaxland)										
+			1st Prefs	47	72.31		18	27.69		65	
+		"MCDERMOTT, Colin (DEM)"	9	8	88.89		1	11.11		9	
+		"VINNICOMBE, Bob (HAN)"	4	3	75.00		1	25.00		4	
+		"ANNY, Munther (IND)"	2	2	100.00		0	0.00		2	
+		"SAYEGH, Peter (IND)"	1	1	100.00		0	0.00		1	
+		"PETERSON, Janne (CTA)"	3	2	66.67		1	33.33		3	
+		"HAWAT, Dario (UNI)"	0	0	0.00		0	0.00		0	
+		"MCKAY, Sonya (GRN)"	7	7	100.00		0	0.00		7	
+		Total	26	70	76.92		21	23.08		91	
+
+	Villawood Central										
+			1st Prefs	326	89.32		39	10.68		365	
+		"MCDERMOTT, Colin (DEM)"	18	14	77.78		4	22.22		18	
+		"VINNICOMBE, Bob (HAN)"	20	11	55.00		9	45.00		20	
+		"ANNY, Munther (IND)"	3	2	66.67		1	33.33		3	
+		"SAYEGH, Peter (IND)"	3	1	33.33		2	66.67		3	
+		"PETERSON, Janne (CTA)"	3	1	33.33		2	66.67		3	
+		"HAWAT, Dario (UNI)"	10	7	70.00		3	30.00		10	
+		"MCKAY, Sonya (GRN)"	4	4	100.00		0	0.00		4	
+		Total	61	366	85.92		60	14.08		426	
+
+	Villawood East										
+			1st Prefs	735	83.71		143	16.29		878	
+		"MCDERMOTT, Colin (DEM)"	73	67	91.78		6	8.22		73	
+		"VINNICOMBE, Bob (HAN)"	107	35	32.71		72	67.29		107	
+		"ANNY, Munther (IND)"	7	7	100.00		0	0.00		7	
+		"SAYEGH, Peter (IND)"	13	7	53.85		6	46.15		13	
+		"PETERSON, Janne (CTA)"	19	6	31.58		13	68.42		19	
+		"HAWAT, Dario (UNI)"	15	10	66.67		5	33.33		15	
+		"MCKAY, Sonya (GRN)"	16	9	56.25		7	43.75		16	
+		Total	250	876	77.66		252	22.34		1128	
+
+	Wiley Park West (Blaxland)										
+			1st Prefs	1303	82.10		284	17.90		1587	
+		"MCDERMOTT, Colin (DEM)"	74	63	85.14		11	14.86		74	
+		"VINNICOMBE, Bob (HAN)"	52	24	46.15		28	53.85		52	
+		"ANNY, Munther (IND)"	27	21	77.78		6	22.22		27	
+		"SAYEGH, Peter (IND)"	34	11	32.35		23	67.65		34	
+		"PETERSON, Janne (CTA)"	30	20	66.67		10	33.33		30	
+		"HAWAT, Dario (UNI)"	121	73	60.33		48	39.67		121	
+		"MCKAY, Sonya (GRN)"	54	41	75.93		13	24.07		54	
+		Total	392	1556	78.63		423	21.37		1979	
+
+	Yagoona										
+			1st Prefs	1560	75.07		518	24.93		2078	
+		"MCDERMOTT, Colin (DEM)"	117	97	82.91		20	17.09		117	
+		"VINNICOMBE, Bob (HAN)"	175	41	23.43		134	76.57		175	
+		"ANNY, Munther (IND)"	11	7	63.64		4	36.36		11	
+		"SAYEGH, Peter (IND)"	32	10	31.25		22	68.75		32	
+		"PETERSON, Janne (CTA)"	46	13	28.26		33	71.74		46	
+		"HAWAT, Dario (UNI)"	44	30	68.18		14	31.82		44	
+		"MCKAY, Sonya (GRN)"	60	41	68.33		19	31.67		60	
+		Total	485	1799	70.19		764	29.81		2563	
+
+	Yagoona West										
+			1st Prefs	798	72.22		307	27.78		1105	
+		"MCDERMOTT, Colin (DEM)"	55	42	76.36		13	23.64		55	
+		"VINNICOMBE, Bob (HAN)"	93	27	29.03		66	70.97		93	
+		"ANNY, Munther (IND)"	10	6	60.00		4	40.00		10	
+		"SAYEGH, Peter (IND)"	15	9	60.00		6	40.00		15	
+		"PETERSON, Janne (CTA)"	24	6	25.00		18	75.00		24	
+		"HAWAT, Dario (UNI)"	20	10	50.00		10	50.00		20	
+		"MCKAY, Sonya (GRN)"	28	20	71.43		8	28.57		28	
+		Total	245	918	68.00		432	32.00		1350	
+
+	Special Hospitals										
+			1st Prefs	68	53.97		58	46.03		126	
+		"MCDERMOTT, Colin (DEM)"	4	4	100.00		0	0.00		4	
+		"VINNICOMBE, Bob (HAN)"	6	0	0.00		6	100.00		6	
+		"ANNY, Munther (IND)"	0	0	0.00		0	0.00		0	
+		"SAYEGH, Peter (IND)"	0	0	0.00		0	0.00		0	
+		"PETERSON, Janne (CTA)"	1	0	0.00		1	100.00		1	
+		"HAWAT, Dario (UNI)"	1	1	100.00		0	0.00		1	
+		"MCKAY, Sonya (GRN)"	0	0	0.00		0	0.00		0	
+		Total	12	73	52.90		65	47.10		138	
+
+	Total Ordinary										
+			1st Prefs	33447	68.72		15227	31.28		48674	
+		"MCDERMOTT, Colin (DEM)"	2954	2378	80.50		576	19.50		2954	
+		"VINNICOMBE, Bob (HAN)"	3573	1143	31.99		2430	68.01		3573	
+		"ANNY, Munther (IND)"	354	234	66.10		120	33.90		354	
+		"SAYEGH, Peter (IND)"	873	383	43.87		490	56.13		873	
+		"PETERSON, Janne (CTA)"	1273	418	32.84		855	67.16		1273	
+		"HAWAT, Dario (UNI)"	1365	870	63.74		495	36.26		1365	
+		"MCKAY, Sonya (GRN)"	1492	1090	73.06		402	26.94		1492	
+		Total	11884	39963	65.99		20595	34.01		60558	
+
+	ABSENT										
+			1st Prefs	1842	60.29		1213	39.71		3055	
+		"MCDERMOTT, Colin (DEM)"	307	241	78.50		66	21.50		307	
+		"VINNICOMBE, Bob (HAN)"	275	149	54.18		126	45.82		275	
+		"ANNY, Munther (IND)"	52	32	61.54		20	38.46		52	
+		"SAYEGH, Peter (IND)"	56	34	60.71		22	39.29		56	
+		"PETERSON, Janne (CTA)"	149	57	38.26		92	61.74		149	
+		"HAWAT, Dario (UNI)"	73	55	75.34		18	24.66		73	
+		"MCKAY, Sonya (GRN)"	225	145	64.44		80	35.56		225	
+		Total	1137	2555	60.95		1637	39.05		4192	
+
+	POSTAL										
+			1st Prefs	1111	54.73		919	45.27		2030	
+		"MCDERMOTT, Colin (DEM)"	68	49	72.06		19	27.94		68	
+		"VINNICOMBE, Bob (HAN)"	204	93	45.59		111	54.41		204	
+		"ANNY, Munther (IND)"	11	5	45.45		6	54.55		11	
+		"SAYEGH, Peter (IND)"	13	7	53.85		6	46.15		13	
+		"PETERSON, Janne (CTA)"	54	20	37.04		34	62.96		54	
+		"HAWAT, Dario (UNI)"	7	5	71.43		2	28.57		7	
+		"MCKAY, Sonya (GRN)"	43	32	74.42		11	25.58		43	
+		Total	400	1322	54.40		1108	45.60		2430	
+
+	PRE_POLL										
+			1st Prefs	1147	61.83		708	38.17		1855	
+		"MCDERMOTT, Colin (DEM)"	94	69	73.40		25	26.60		94	
+		"VINNICOMBE, Bob (HAN)"	169	66	39.05		103	60.95		169	
+		"ANNY, Munther (IND)"	20	14	70.00		6	30.00		20	
+		"SAYEGH, Peter (IND)"	19	12	63.16		7	36.84		19	
+		"PETERSON, Janne (CTA)"	51	21	41.18		30	58.82		51	
+		"HAWAT, Dario (UNI)"	28	18	64.29		10	35.71		28	
+		"MCKAY, Sonya (GRN)"	67	48	71.64		19	28.36		67	
+		Total	448	1395	60.57		908	39.43		2303	
+
+	PROVISIONAL										
+			1st Prefs	409	79.88		103	20.12		512	
+		"MCDERMOTT, Colin (DEM)"	38	31	81.58		7	18.42		38	
+		"VINNICOMBE, Bob (HAN)"	27	14	51.85		13	48.15		27	
+		"ANNY, Munther (IND)"	6	3	50.00		3	50.00		6	
+		"SAYEGH, Peter (IND)"	14	7	50.00		7	50.00		14	
+		"PETERSON, Janne (CTA)"	8	5	62.50		3	37.50		8	
+		"HAWAT, Dario (UNI)"	20	14	70.00		6	30.00		20	
+		"MCKAY, Sonya (GRN)"	12	7	58.33		5	41.67		12	
+		Total	125	490	76.92		147	23.08		637	
+
+	Division Summary										
+			1st Prefs	37956	67.63		18170	32.37		56126	
+		"MCDERMOTT, Colin (DEM)"	3461	2768	79.98		693	20.02		3461	
+		"VINNICOMBE, Bob (HAN)"	4248	1465	34.49		2783	65.51		4248	
+		"ANNY, Munther (IND)"	443	288	65.01		155	34.99		443	
+		"SAYEGH, Peter (IND)"	975	443	45.44		532	54.56		975	
+		"PETERSON, Janne (CTA)"	1535	521	33.94		1014	66.06		1535	
+		"HAWAT, Dario (UNI)"	1493	962	64.43		531	35.57		1493	
+		"MCKAY, Sonya (GRN)"	1839	1322	71.89		517	28.11		1839	
+		Total	13994	45725	65.21		24395	34.79		70120	

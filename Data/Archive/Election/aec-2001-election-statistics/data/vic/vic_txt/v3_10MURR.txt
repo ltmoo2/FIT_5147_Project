@@ -1,0 +1,782 @@
+House of Representatives - 2001 Election: Victoria												
+Two Candidate Preferred Preference Flow Result												
+By Polling Place by Division												
+Murray (85651)												
+		Candidate		                  	"STONE, Sharman"		             	"CALDER, Alan"		               	Total	
+				                           	LP		                         	ALP		                        		
+				                           	Votes	%	                     	Votes	%	                     		
+	Ardmona											
+			1st Prefs		294	76.36		91	23.64		385	
+		"BUSH, Simon (IND)"	10		5	50.00		5	50.00		10	
+		"JONES, David (GRN)"	17		5	29.41		12	70.59		17	
+		"HELLEMONS, Robert (HAN)"	8		6	75.00		2	25.00		8	
+		"TAYLOR, Elizabeth Mary (DEM)"	9		3	33.33		6	66.67		9	
+		Total	44		313	72.96		116	27.04		429	
+
+	Ballendella											
+			1st Prefs		132	92.31		11	7.69		143
+		"BUSH, Simon (IND)"	4		2	50.00		2	50.00		4
+		"JONES, David (GRN)"	7		3	42.86		4	57.14		7
+		"HELLEMONS, Robert (HAN)"	5		3	60.00		2	40.00		5
+		"TAYLOR, Elizabeth Mary (DEM)"	4		4	100.00		0	0.00		4
+		Total	20		144	88.34		19	11.66		163
+
+	Bamawm										
+			1st Prefs		160	90.91		16	9.09		176
+		"BUSH, Simon (IND)"	5		3	60.00		2	40.00		5
+		"JONES, David (GRN)"	5		1	20.00		4	80.00		5
+		"HELLEMONS, Robert (HAN)"	1		0	0.00		1	100.00		1
+		"TAYLOR, Elizabeth Mary (DEM)"	7		2	28.57		5	71.43		7
+		Total	18		166	85.57		28	14.43		194
+
+	Bamawm Extension										
+			1st Prefs		133	93.01		10	6.99		143
+		"BUSH, Simon (IND)"	1		1	100.00		0	0.00		1
+		"JONES, David (GRN)"	2		0	0.00		2	100.00		2
+		"HELLEMONS, Robert (HAN)"	7		3	42.86		4	57.14		7
+		"TAYLOR, Elizabeth Mary (DEM)"	4		2	50.00		2	50.00		4
+		Total	14		139	88.54		18	11.46		157
+
+	Barmah										
+			1st Prefs		93	57.41		69	42.59		162
+		"BUSH, Simon (IND)"	3		2	66.67		1	33.33		3
+		"JONES, David (GRN)"	5		3	60.00		2	40.00		5
+		"HELLEMONS, Robert (HAN)"	18		9	50.00		9	50.00		18
+		"TAYLOR, Elizabeth Mary (DEM)"	7		1	14.29		6	85.71		7
+		Total	33		108	55.38		87	44.62		195
+
+	Boort										
+			1st Prefs		519	82.91		107	17.09		626
+		"BUSH, Simon (IND)"	13		9	69.23		4	30.77		13
+		"JONES, David (GRN)"	10		3	30.00		7	70.00		10
+		"HELLEMONS, Robert (HAN)"	28		18	64.29		10	35.71		28
+		"TAYLOR, Elizabeth Mary (DEM)"	17		6	35.29		11	64.71		17
+		Total	68		555	79.97		139	20.03		694
+
+	Bunbartha										
+			1st Prefs		124	84.93		22	15.07		146
+		"BUSH, Simon (IND)"	4		2	50.00		2	50.00		4
+		"JONES, David (GRN)"	4		2	50.00		2	50.00		4
+		"HELLEMONS, Robert (HAN)"	5		3	60.00		2	40.00		5
+		"TAYLOR, Elizabeth Mary (DEM)"	4		1	25.00		3	75.00		4
+		Total	17		132	80.98		31	19.02		163
+
+	Byrneside										
+			1st Prefs		195	90.70		20	9.30		215
+		"BUSH, Simon (IND)"	10		6	60.00		4	40.00		10
+		"JONES, David (GRN)"	4		2	50.00		2	50.00		4
+		"HELLEMONS, Robert (HAN)"	11		8	72.73		3	27.27		11
+		"TAYLOR, Elizabeth Mary (DEM)"	4		3	75.00		1	25.00		4
+		Total	29		214	87.70		30	12.30		244
+
+	Calivil										
+			1st Prefs		121	94.53		7	5.47		128
+		"BUSH, Simon (IND)"	1		0	0.00		1	100.00		1
+		"JONES, David (GRN)"	4		3	75.00		1	25.00		4
+		"HELLEMONS, Robert (HAN)"	6		5	83.33		1	16.67		6
+		"TAYLOR, Elizabeth Mary (DEM)"	6		3	50.00		3	50.00		6
+		Total	17		132	91.03		13	8.97		145
+
+	Cobram										
+			1st Prefs		1910	71.62		757	28.38		2667
+		"BUSH, Simon (IND)"	79		49	62.03		30	37.97		79
+		"JONES, David (GRN)"	51		21	41.18		30	58.82		51
+		"HELLEMONS, Robert (HAN)"	134		72	53.73		62	46.27		134
+		"TAYLOR, Elizabeth Mary (DEM)"	93		45	48.39		48	51.61		93
+		Total	357		2097	69.35		927	30.65		3024
+
+	Cohuna										
+			1st Prefs		1466	82.41		313	17.59		1779
+		"BUSH, Simon (IND)"	42		26	61.90		16	38.10		42
+		"JONES, David (GRN)"	20		9	45.00		11	55.00		20
+		"HELLEMONS, Robert (HAN)"	66		46	69.70		20	30.30		66
+		"TAYLOR, Elizabeth Mary (DEM)"	24		14	58.33		10	41.67		24
+		Total	152		1561	80.84		370	19.16		1931
+
+	Colbinabbin										
+			1st Prefs		211	89.79		24	10.21		235
+		"BUSH, Simon (IND)"	1		1	100.00		0	0.00		1
+		"JONES, David (GRN)"	7		2	28.57		5	71.43		7
+		"HELLEMONS, Robert (HAN)"	4		2	50.00		2	50.00		4
+		"TAYLOR, Elizabeth Mary (DEM)"	2		1	50.00		1	50.00		2
+		Total	14		217	87.15		32	12.85		249
+
+	Congupna										
+			1st Prefs		340	80.19		84	19.81		424
+		"BUSH, Simon (IND)"	25		16	64.00		9	36.00		25
+		"JONES, David (GRN)"	12		7	58.33		5	41.67		12
+		"HELLEMONS, Robert (HAN)"	11		6	54.55		5	45.45		11
+		"TAYLOR, Elizabeth Mary (DEM)"	27		8	29.63		19	70.37		27
+		Total	75		377	75.55		122	24.45		499
+
+	Cooma										
+			1st Prefs		152	96.20		6	3.80		158
+		"BUSH, Simon (IND)"	1		1	100.00		0	0.00		1
+		"JONES, David (GRN)"	0		0	0.00		0	0.00		0
+		"HELLEMONS, Robert (HAN)"	6		5	83.33		1	16.67		6
+		"TAYLOR, Elizabeth Mary (DEM)"	4		2	50.00		2	50.00		4
+		Total	11		160	94.67		9	5.33		169
+
+	Dhurringile										
+			1st Prefs		129	87.76		18	12.24		147
+		"BUSH, Simon (IND)"	5		2	40.00		3	60.00		5
+		"JONES, David (GRN)"	1		1	100.00		0	0.00		1
+		"HELLEMONS, Robert (HAN)"	6		5	83.33		1	16.67		6
+		"TAYLOR, Elizabeth Mary (DEM)"	6		2	33.33		4	66.67		6
+		Total	18		139	84.24		26	15.76		165
+
+	Dingee										
+			1st Prefs		168	88.89		21	11.11		189
+		"BUSH, Simon (IND)"	4		4	100.00		0	0.00		4
+		"JONES, David (GRN)"	4		2	50.00		2	50.00		4
+		"HELLEMONS, Robert (HAN)"	18		14	77.78		4	22.22		18
+		"TAYLOR, Elizabeth Mary (DEM)"	4		2	50.00		2	50.00		4
+		Total	30		190	86.76		29	13.24		219
+
+	Dingwall										
+			1st Prefs		85	95.51		4	4.49		89
+		"BUSH, Simon (IND)"	1		1	100.00		0	0.00		1
+		"JONES, David (GRN)"	4		1	25.00		3	75.00		4
+		"HELLEMONS, Robert (HAN)"	10		8	80.00		2	20.00		10
+		"TAYLOR, Elizabeth Mary (DEM)"	0		0	0.00		0	0.00		0
+		Total	15		95	91.35		9	8.65		104
+
+	Dookie										
+			1st Prefs		189	81.12		44	18.88		233
+		"BUSH, Simon (IND)"	19		10	52.63		9	47.37		19
+		"JONES, David (GRN)"	13		2	15.38		11	84.62		13
+		"HELLEMONS, Robert (HAN)"	11		9	81.82		2	18.18		11
+		"TAYLOR, Elizabeth Mary (DEM)"	9		5	55.56		4	44.44		9
+		Total	52		215	75.44		70	24.56		285
+
+	Echuca										
+			1st Prefs		1405	76.48		432	23.52		1837
+		"BUSH, Simon (IND)"	59		31	52.54		28	47.46		59
+		"JONES, David (GRN)"	56		22	39.29		34	60.71		56
+		"HELLEMONS, Robert (HAN)"	70		49	70.00		21	30.00		70
+		"TAYLOR, Elizabeth Mary (DEM)"	67		34	50.75		33	49.25		67
+		Total	252		1541	73.77		548	26.23		2089
+
+	Echuca Central										
+			1st Prefs		584	79.46		151	20.54		735
+		"BUSH, Simon (IND)"	21		11	52.38		10	47.62		21
+		"JONES, David (GRN)"	27		11	40.74		16	59.26		27
+		"HELLEMONS, Robert (HAN)"	21		14	66.67		7	33.33		21
+		"TAYLOR, Elizabeth Mary (DEM)"	23		10	43.48		13	56.52		23
+		Total	92		630	76.18		197	23.82		827
+
+	Echuca East										
+			1st Prefs		1212	66.96		598	33.04		1810
+		"BUSH, Simon (IND)"	80		50	62.50		30	37.50		80
+		"JONES, David (GRN)"	47		14	29.79		33	70.21		47
+		"HELLEMONS, Robert (HAN)"	101		57	56.44		44	43.56		101
+		"TAYLOR, Elizabeth Mary (DEM)"	89		42	47.19		47	52.81		89
+		Total	317		1375	64.65		752	35.35		2127
+
+	Echuca South										
+			1st Prefs		1126	73.12		414	26.88		1540
+		"BUSH, Simon (IND)"	62		37	59.68		25	40.32		62
+		"JONES, David (GRN)"	27		9	33.33		18	66.67		27
+		"HELLEMONS, Robert (HAN)"	66		43	65.15		23	34.85		66
+		"TAYLOR, Elizabeth Mary (DEM)"	63		30	47.62		33	52.38		63
+		Total	218		1245	70.82		513	29.18		1758
+
+	Echuca Village										
+			1st Prefs		214	86.99		32	13.01		246
+		"BUSH, Simon (IND)"	13		10	76.92		3	23.08		13
+		"JONES, David (GRN)"	3		1	33.33		2	66.67		3
+		"HELLEMONS, Robert (HAN)"	12		8	66.67		4	33.33		12
+		"TAYLOR, Elizabeth Mary (DEM)"	5		2	40.00		3	60.00		5
+		Total	33		235	84.23		44	15.77		279
+
+	Echuca West										
+			1st Prefs		330	87.07		49	12.93		379
+		"BUSH, Simon (IND)"	21		10	47.62		11	52.38		21
+		"JONES, David (GRN)"	4		2	50.00		2	50.00		4
+		"HELLEMONS, Robert (HAN)"	23		18	78.26		5	21.74		23
+		"TAYLOR, Elizabeth Mary (DEM)"	8		7	87.50		1	12.50		8
+		Total	56		367	84.37		68	15.63		435
+
+	Girgarre										
+			1st Prefs		339	89.21		41	10.79		380
+		"BUSH, Simon (IND)"	12		8	66.67		4	33.33		12
+		"JONES, David (GRN)"	6		2	33.33		4	66.67		6
+		"HELLEMONS, Robert (HAN)"	14		10	71.43		4	28.57		14
+		"TAYLOR, Elizabeth Mary (DEM)"	9		2	22.22		7	77.78		9
+		Total	41		361	85.75		60	14.25		421
+
+	Gowrie Street										
+			1st Prefs		1296	68.39		599	31.61		1895
+		"BUSH, Simon (IND)"	91		58	63.74		33	36.26		91
+		"JONES, David (GRN)"	55		25	45.45		30	54.55		55
+		"HELLEMONS, Robert (HAN)"	80		44	55.00		36	45.00		80
+		"TAYLOR, Elizabeth Mary (DEM)"	66		36	54.55		30	45.45		66
+		Total	292		1459	66.71		728	33.29		2187
+
+	Grahamvale										
+			1st Prefs		137	81.55		31	18.45		168
+		"BUSH, Simon (IND)"	7		6	85.71		1	14.29		7
+		"JONES, David (GRN)"	1		0	0.00		1	100.00		1
+		"HELLEMONS, Robert (HAN)"	6		4	66.67		2	33.33		6
+		"TAYLOR, Elizabeth Mary (DEM)"	9		5	55.56		4	44.44		9
+		Total	23		152	79.58		39	20.42		191
+
+	Gunbower										
+			1st Prefs		249	74.33		86	25.67		335
+		"BUSH, Simon (IND)"	10		7	70.00		3	30.00		10
+		"JONES, David (GRN)"	10		5	50.00		5	50.00		10
+		"HELLEMONS, Robert (HAN)"	18		17	94.44		1	5.56		18
+		"TAYLOR, Elizabeth Mary (DEM)"	6		3	50.00		3	50.00		6
+		Total	44		281	74.14		98	25.86		379
+
+	Guthrie Street										
+			1st Prefs		977	80.15		242	19.85		1219
+		"BUSH, Simon (IND)"	42		19	45.24		23	54.76		42
+		"JONES, David (GRN)"	29		15	51.72		14	48.28		29
+		"HELLEMONS, Robert (HAN)"	33		24	72.73		9	27.27		33
+		"TAYLOR, Elizabeth Mary (DEM)"	42		20	47.62		22	52.38		42
+		Total	146		1055	77.29		310	22.71		1365
+
+	Katamatite										
+			1st Prefs		239	84.75		43	15.25		282
+		"BUSH, Simon (IND)"	10		7	70.00		3	30.00		10
+		"JONES, David (GRN)"	4		3	75.00		1	25.00		4
+		"HELLEMONS, Robert (HAN)"	15		14	93.33		1	6.67		15
+		"TAYLOR, Elizabeth Mary (DEM)"	4		3	75.00		1	25.00		4
+		Total	33		266	84.44		49	15.56		315
+
+	Katunga										
+			1st Prefs		373	87.56		53	12.44		426
+		"BUSH, Simon (IND)"	13		9	69.23		4	30.77		13
+		"JONES, David (GRN)"	4		1	25.00		3	75.00		4
+		"HELLEMONS, Robert (HAN)"	8		6	75.00		2	25.00		8
+		"TAYLOR, Elizabeth Mary (DEM)"	11		5	45.45		6	54.55		11
+		Total	36		394	85.28		68	14.72		462
+
+	Kerang										
+			1st Prefs		1349	79.78		342	20.22		1691
+		"BUSH, Simon (IND)"	68		45	66.18		23	33.82		68
+		"JONES, David (GRN)"	22		14	63.64		8	36.36		22
+		"HELLEMONS, Robert (HAN)"	102		74	72.55		28	27.45		102
+		"TAYLOR, Elizabeth Mary (DEM)"	45		22	48.89		23	51.11		45
+		Total	237		1504	78.01		424	21.99		1928
+
+	Kerang North										
+			1st Prefs		629	80.54		152	19.46		781
+		"BUSH, Simon (IND)"	23		11	47.83		12	52.17		23
+		"JONES, David (GRN)"	15		6	40.00		9	60.00		15
+		"HELLEMONS, Robert (HAN)"	33		17	51.52		16	48.48		33
+		"TAYLOR, Elizabeth Mary (DEM)"	11		4	36.36		7	63.64		11
+		Total	82		667	77.29		196	22.71		863
+
+	Kialla										
+			1st Prefs		321	82.73		67	17.27		388
+		"BUSH, Simon (IND)"	13		8	61.54		5	38.46		13
+		"JONES, David (GRN)"	17		7	41.18		10	58.82		17
+		"HELLEMONS, Robert (HAN)"	28		17	60.71		11	39.29		28
+		"TAYLOR, Elizabeth Mary (DEM)"	20		10	50.00		10	50.00		20
+		Total	78		363	77.90		103	22.10		466
+
+	Kialla Park										
+			1st Prefs		328	73.38		119	26.62		447
+		"BUSH, Simon (IND)"	10		5	50.00		5	50.00		10
+		"JONES, David (GRN)"	21		9	42.86		12	57.14		21
+		"HELLEMONS, Robert (HAN)"	12		6	50.00		6	50.00		12
+		"TAYLOR, Elizabeth Mary (DEM)"	11		5	45.45		6	54.55		11
+		Total	54		353	70.46		148	29.54		501
+
+	Kialla West										
+			1st Prefs		309	79.64		79	20.36		388
+		"BUSH, Simon (IND)"	16		7	43.75		9	56.25		16
+		"JONES, David (GRN)"	12		5	41.67		7	58.33		12
+		"HELLEMONS, Robert (HAN)"	20		9	45.00		11	55.00		20
+		"TAYLOR, Elizabeth Mary (DEM)"	6		1	16.67		5	83.33		6
+		Total	54		331	74.89		111	25.11		442
+
+	Knight Street										
+			1st Prefs		1323	77.19		391	22.81		1714
+		"BUSH, Simon (IND)"	53		25	47.17		28	52.83		53
+		"JONES, David (GRN)"	44		21	47.73		23	52.27		44
+		"HELLEMONS, Robert (HAN)"	56		27	48.21		29	51.79		56
+		"TAYLOR, Elizabeth Mary (DEM)"	92		43	46.74		49	53.26		92
+		Total	245		1439	73.46		520	26.54		1959
+
+	Koondrook										
+			1st Prefs		513	77.96		145	22.04		658
+		"BUSH, Simon (IND)"	27		22	81.48		5	18.52		27
+		"JONES, David (GRN)"	8		7	87.50		1	12.50		8
+		"HELLEMONS, Robert (HAN)"	34		17	50.00		17	50.00		34
+		"TAYLOR, Elizabeth Mary (DEM)"	9		2	22.22		7	77.78		9
+		Total	78		561	76.22		175	23.78		736
+
+	Koyuga										
+			1st Prefs		112	87.50		16	12.50		128
+		"BUSH, Simon (IND)"	3		0	0.00		3	100.00		3
+		"JONES, David (GRN)"	1		0	0.00		1	100.00		1
+		"HELLEMONS, Robert (HAN)"	9		6	66.67		3	33.33		9
+		"TAYLOR, Elizabeth Mary (DEM)"	1		0	0.00		1	100.00		1
+		Total	14		118	83.10		24	16.90		142
+
+	Kyabram										
+			1st Prefs		1613	76.74		489	23.26		2102
+		"BUSH, Simon (IND)"	63		38	60.32		25	39.68		63
+		"JONES, David (GRN)"	52		24	46.15		28	53.85		52
+		"HELLEMONS, Robert (HAN)"	144		101	70.14		43	29.86		144
+		"TAYLOR, Elizabeth Mary (DEM)"	66		34	51.52		32	48.48		66
+		Total	325		1810	74.58		617	25.42		2427
+
+	Kyabram West										
+			1st Prefs		1082	80.15		268	19.85		1350
+		"BUSH, Simon (IND)"	27		16	59.26		11	40.74		27
+		"JONES, David (GRN)"	35		18	51.43		17	48.57		35
+		"HELLEMONS, Robert (HAN)"	53		34	64.15		19	35.85		53
+		"TAYLOR, Elizabeth Mary (DEM)"	34		19	55.88		15	44.12		34
+		Total	149		1169	77.99		330	22.01		1499
+
+	Ky Valley										
+			1st Prefs		228	94.21		14	5.79		242
+		"BUSH, Simon (IND)"	3		2	66.67		1	33.33		3
+		"JONES, David (GRN)"	4		0	0.00		4	100.00		4
+		"HELLEMONS, Robert (HAN)"	7		5	71.43		2	28.57		7
+		"TAYLOR, Elizabeth Mary (DEM)"	12		6	50.00		6	50.00		12
+		Total	26		241	89.93		27	10.07		268
+
+	Lake Charm										
+			1st Prefs		165	77.83		47	22.17		212
+		"BUSH, Simon (IND)"	5		1	20.00		4	80.00		5
+		"JONES, David (GRN)"	8		2	25.00		6	75.00		8
+		"HELLEMONS, Robert (HAN)"	25		16	64.00		9	36.00		25
+		"TAYLOR, Elizabeth Mary (DEM)"	3		2	66.67		1	33.33		3
+		Total	41		186	73.52		67	26.48		253
+
+	Lalbert										
+			1st Prefs		105	92.11		9	7.89		114
+		"BUSH, Simon (IND)"	4		3	75.00		1	25.00		4
+		"JONES, David (GRN)"	1		1	100.00		0	0.00		1
+		"HELLEMONS, Robert (HAN)"	6		4	66.67		2	33.33		6
+		"TAYLOR, Elizabeth Mary (DEM)"	1		1	100.00		0	0.00		1
+		Total	12		114	90.48		12	9.52		126
+
+	Lancaster										
+			1st Prefs		259	88.70		33	11.30		292
+		"BUSH, Simon (IND)"	7		5	71.43		2	28.57		7
+		"JONES, David (GRN)"	9		4	44.44		5	55.56		9
+		"HELLEMONS, Robert (HAN)"	18		15	83.33		3	16.67		18
+		"TAYLOR, Elizabeth Mary (DEM)"	5		1	20.00		4	80.00		5
+		Total	39		284	85.80		47	14.20		331
+
+	Leitchville										
+			1st Prefs		410	90.31		44	9.69		454
+		"BUSH, Simon (IND)"	10		5	50.00		5	50.00		10
+		"JONES, David (GRN)"	6		4	66.67		2	33.33		6
+		"HELLEMONS, Robert (HAN)"	26		18	69.23		8	30.77		26
+		"TAYLOR, Elizabeth Mary (DEM)"	3		1	33.33		2	66.67		3
+		Total	45		438	87.78		61	12.22		499
+
+	Lemnos										
+			1st Prefs		295	85.01		52	14.99		347
+		"BUSH, Simon (IND)"	15		12	80.00		3	20.00		15
+		"JONES, David (GRN)"	2		2	100.00		0	0.00		2
+		"HELLEMONS, Robert (HAN)"	10		8	80.00		2	20.00		10
+		"TAYLOR, Elizabeth Mary (DEM)"	7		2	28.57		5	71.43		7
+		Total	34		319	83.73		62	16.27		381
+
+	Lockington										
+			1st Prefs		453	84.20		85	15.80		538
+		"BUSH, Simon (IND)"	9		7	77.78		2	22.22		9
+		"JONES, David (GRN)"	6		3	50.00		3	50.00		6
+		"HELLEMONS, Robert (HAN)"	31		21	67.74		10	32.26		31
+		"TAYLOR, Elizabeth Mary (DEM)"	13		8	61.54		5	38.46		13
+		Total	59		492	82.41		105	17.59		597
+
+	Macorna										
+			1st Prefs		103	94.50		6	5.50		109
+		"BUSH, Simon (IND)"	1		1	100.00		0	0.00		1
+		"JONES, David (GRN)"	1		1	100.00		0	0.00		1
+		"HELLEMONS, Robert (HAN)"	3		2	66.67		1	33.33		3
+		"TAYLOR, Elizabeth Mary (DEM)"	3		3	100.00		0	0.00		3
+		Total	8		110	94.02		7	5.98		117
+
+	Melbourne (Murray)										
+			1st Prefs		43	78.18		12	21.82		55
+		"BUSH, Simon (IND)"	2		1	50.00		1	50.00		2
+		"JONES, David (GRN)"	9		4	44.44		5	55.56		9
+		"HELLEMONS, Robert (HAN)"	0		0	0.00		0	0.00		0
+		"TAYLOR, Elizabeth Mary (DEM)"	5		3	60.00		2	40.00		5
+		Total	16		51	71.83		20	28.17		71
+
+	Merrigum										
+			1st Prefs		317	78.08		89	21.92		406
+		"BUSH, Simon (IND)"	19		13	68.42		6	31.58		19
+		"JONES, David (GRN)"	14		6	42.86		8	57.14		14
+		"HELLEMONS, Robert (HAN)"	10		6	60.00		4	40.00		10
+		"TAYLOR, Elizabeth Mary (DEM)"	14		7	50.00		7	50.00		14
+		Total	57		349	75.38		114	24.62		463
+
+	Mitiamo										
+			1st Prefs		74	74.75		25	25.25		99
+		"BUSH, Simon (IND)"	3		1	33.33		2	66.67		3
+		"JONES, David (GRN)"	0		0	0.00		0	0.00		0
+		"HELLEMONS, Robert (HAN)"	8		6	75.00		2	25.00		8
+		"TAYLOR, Elizabeth Mary (DEM)"	1		0	0.00		1	100.00		1
+		Total	12		81	72.97		30	27.03		111
+
+	Mooroopna										
+			1st Prefs		842	65.88		436	34.12		1278
+		"BUSH, Simon (IND)"	53		24	45.28		29	54.72		53
+		"JONES, David (GRN)"	24		14	58.33		10	41.67		24
+		"HELLEMONS, Robert (HAN)"	59		23	38.98		36	61.02		59
+		"TAYLOR, Elizabeth Mary (DEM)"	49		28	57.14		21	42.86		49
+		Total	185		931	63.64		532	36.36		1463
+
+	Mooroopna Park										
+			1st Prefs		1553	69.15		693	30.85		2246
+		"BUSH, Simon (IND)"	85		47	55.29		38	44.71		85
+		"JONES, David (GRN)"	97		27	27.84		70	72.16		97
+		"HELLEMONS, Robert (HAN)"	136		65	47.79		71	52.21		136
+		"TAYLOR, Elizabeth Mary (DEM)"	92		42	45.65		50	54.35		92
+		Total	410		1734	65.29		922	34.71		2656
+
+	Murchison										
+			1st Prefs		360	70.18		153	29.82		513
+		"BUSH, Simon (IND)"	13		8	61.54		5	38.46		13
+		"JONES, David (GRN)"	10		3	30.00		7	70.00		10
+		"HELLEMONS, Robert (HAN)"	13		9	69.23		4	30.77		13
+		"TAYLOR, Elizabeth Mary (DEM)"	14		8	57.14		6	42.86		14
+		Total	50		388	68.92		175	31.08		563
+
+	Murrabit										
+			1st Prefs		264	94.62		15	5.38		279
+		"BUSH, Simon (IND)"	11		7	63.64		4	36.36		11
+		"JONES, David (GRN)"	4		3	75.00		1	25.00		4
+		"HELLEMONS, Robert (HAN)"	16		12	75.00		4	25.00		16
+		"TAYLOR, Elizabeth Mary (DEM)"	7		4	57.14		3	42.86		7
+		Total	38		290	91.48		27	8.52		317
+
+	Nanneella										
+			1st Prefs		210	89.36		25	10.64		235
+		"BUSH, Simon (IND)"	4		4	100.00		0	0.00		4
+		"JONES, David (GRN)"	1		0	0.00		1	100.00		1
+		"HELLEMONS, Robert (HAN)"	16		15	93.75		1	6.25		16
+		"TAYLOR, Elizabeth Mary (DEM)"	13		9	69.23		4	30.77		13
+		Total	34		238	88.48		31	11.52		269
+
+	Nathalia										
+			1st Prefs		872	79.34		227	20.66		1099
+		"BUSH, Simon (IND)"	26		18	69.23		8	30.77		26
+		"JONES, David (GRN)"	7		1	14.29		6	85.71		7
+		"HELLEMONS, Robert (HAN)"	36		25	69.44		11	30.56		36
+		"TAYLOR, Elizabeth Mary (DEM)"	41		18	43.90		23	56.10		41
+		Total	110		934	77.25		275	22.75		1209
+
+	Numurkah										
+			1st Prefs		1715	80.63		412	19.37		2127
+		"BUSH, Simon (IND)"	104		71	68.27		33	31.73		104
+		"JONES, David (GRN)"	35		11	31.43		24	68.57		35
+		"HELLEMONS, Robert (HAN)"	83		52	62.65		31	37.35		83
+		"TAYLOR, Elizabeth Mary (DEM)"	73		43	58.90		30	41.10		73
+		Total	295		1892	78.12		530	21.88		2422
+
+	Orrvale										
+			1st Prefs		295	81.27		68	18.73		363
+		"BUSH, Simon (IND)"	11		10	90.91		1	9.09		11
+		"JONES, David (GRN)"	5		1	20.00		4	80.00		5
+		"HELLEMONS, Robert (HAN)"	12		6	50.00		6	50.00		12
+		"TAYLOR, Elizabeth Mary (DEM)"	7		3	42.86		4	57.14		7
+		Total	35		315	79.15		83	20.85		398
+
+	Picola										
+			1st Prefs		131	85.62		22	14.38		153
+		"BUSH, Simon (IND)"	10		6	60.00		4	40.00		10
+		"JONES, David (GRN)"	0		0	0.00		0	0.00		0
+		"HELLEMONS, Robert (HAN)"	13		9	69.23		4	30.77		13
+		"TAYLOR, Elizabeth Mary (DEM)"	2		1	50.00		1	50.00		2
+		Total	25		147	82.58		31	17.42		178
+
+	Pine Lodge										
+			1st Prefs		77	89.53		9	10.47		86
+		"BUSH, Simon (IND)"	4		3	75.00		1	25.00		4
+		"JONES, David (GRN)"	2		0	0.00		2	100.00		2
+		"HELLEMONS, Robert (HAN)"	6		5	83.33		1	16.67		6
+		"TAYLOR, Elizabeth Mary (DEM)"	7		5	71.43		2	28.57		7
+		Total	19		90	85.71		15	14.29		105
+
+	Pyramid Hill										
+			1st Prefs		321	81.68		72	18.32		393
+		"BUSH, Simon (IND)"	11		9	81.82		2	18.18		11
+		"JONES, David (GRN)"	2		1	50.00		1	50.00		2
+		"HELLEMONS, Robert (HAN)"	14		8	57.14		6	42.86		14
+		"TAYLOR, Elizabeth Mary (DEM)"	6		2	33.33		4	66.67		6
+		Total	33		341	80.05		85	19.95		426
+
+	Quambatook										
+			1st Prefs		209	88.56		27	11.44		236
+		"BUSH, Simon (IND)"	7		3	42.86		4	57.14		7
+		"JONES, David (GRN)"	3		2	66.67		1	33.33		3
+		"HELLEMONS, Robert (HAN)"	9		8	88.89		1	11.11		9
+		"TAYLOR, Elizabeth Mary (DEM)"	2		0	0.00		2	100.00		2
+		Total	21		222	86.38		35	13.62		257
+
+	Rochester										
+			1st Prefs		1437	79.35		374	20.65		1811
+		"BUSH, Simon (IND)"	66		34	51.52		32	48.48		66
+		"JONES, David (GRN)"	40		20	50.00		20	50.00		40
+		"HELLEMONS, Robert (HAN)"	136		89	65.44		47	34.56		136
+		"TAYLOR, Elizabeth Mary (DEM)"	59		32	54.24		27	45.76		59
+		Total	301		1612	76.33		500	23.67		2112
+
+	Rushworth										
+			1st Prefs		579	64.84		314	35.16		893
+		"BUSH, Simon (IND)"	13		8	61.54		5	38.46		13
+		"JONES, David (GRN)"	30		7	23.33		23	76.67		30
+		"HELLEMONS, Robert (HAN)"	38		24	63.16		14	36.84		38
+		"TAYLOR, Elizabeth Mary (DEM)"	22		6	27.27		16	72.73		22
+		Total	103		624	62.65		372	37.35		996
+
+	Serpentine										
+			1st Prefs		148	84.57		27	15.43		175
+		"BUSH, Simon (IND)"	2		2	100.00		0	0.00		2
+		"JONES, David (GRN)"	1		0	0.00		1	100.00		1
+		"HELLEMONS, Robert (HAN)"	6		2	33.33		4	66.67		6
+		"TAYLOR, Elizabeth Mary (DEM)"	5		1	20.00		4	80.00		5
+		Total	14		153	80.95		36	19.05		189
+
+	Shepparton										
+			1st Prefs		255	69.29		113	30.71		368
+		"BUSH, Simon (IND)"	13		8	61.54		5	38.46		13
+		"JONES, David (GRN)"	5		2	40.00		3	60.00		5
+		"HELLEMONS, Robert (HAN)"	18		13	72.22		5	27.78		18
+		"TAYLOR, Elizabeth Mary (DEM)"	15		6	40.00		9	60.00		15
+		Total	51		284	67.78		135	32.22		419
+
+	Shepparton Central										
+			1st Prefs		368	76.19		115	23.81		483
+		"BUSH, Simon (IND)"	16		6	37.50		10	62.50		16
+		"JONES, David (GRN)"	17		4	23.53		13	76.47		17
+		"HELLEMONS, Robert (HAN)"	10		7	70.00		3	30.00		10
+		"TAYLOR, Elizabeth Mary (DEM)"	34		15	44.12		19	55.88		34
+		Total	77		400	71.43		160	28.57		560
+
+	Shepparton East										
+			1st Prefs		422	77.15		125	22.85		547
+		"BUSH, Simon (IND)"	16		7	43.75		9	56.25		16
+		"JONES, David (GRN)"	21		7	33.33		14	66.67		21
+		"HELLEMONS, Robert (HAN)"	15		10	66.67		5	33.33		15
+		"TAYLOR, Elizabeth Mary (DEM)"	16		2	12.50		14	87.50		16
+		Total	68		448	72.85		167	27.15		615
+
+	Shepparton North										
+			1st Prefs		1574	77.42		459	22.58		2033
+		"BUSH, Simon (IND)"	119		54	45.38		65	54.62		119
+		"JONES, David (GRN)"	66		17	25.76		49	74.24		66
+		"HELLEMONS, Robert (HAN)"	48		25	52.08		23	47.92		48
+		"TAYLOR, Elizabeth Mary (DEM)"	84		39	46.43		45	53.57		84
+		Total	317		1709	72.72		641	27.28		2350
+
+	Shepparton South										
+			1st Prefs		1403	69.52		615	30.48		2018
+		"BUSH, Simon (IND)"	90		51	56.67		39	43.33		90
+		"JONES, David (GRN)"	76		23	30.26		53	69.74		76
+		"HELLEMONS, Robert (HAN)"	66		39	59.09		27	40.91		66
+		"TAYLOR, Elizabeth Mary (DEM)"	96		44	45.83		52	54.17		96
+		Total	328		1560	66.50		786	33.50		2346
+
+	Stanhope										
+			1st Prefs		545	83.59		107	16.41		652
+		"BUSH, Simon (IND)"	22		15	68.18		7	31.82		22
+		"JONES, David (GRN)"	10		5	50.00		5	50.00		10
+		"HELLEMONS, Robert (HAN)"	21		13	61.90		8	38.10		21
+		"TAYLOR, Elizabeth Mary (DEM)"	23		8	34.78		15	65.22		23
+		Total	76		586	80.49		142	19.51		728
+
+	Strathmerton										
+			1st Prefs		451	77.89		128	22.11		579
+		"BUSH, Simon (IND)"	20		7	35.00		13	65.00		20
+		"JONES, David (GRN)"	10		4	40.00		6	60.00		10
+		"HELLEMONS, Robert (HAN)"	56		34	60.71		22	39.29		56
+		"TAYLOR, Elizabeth Mary (DEM)"	25		8	32.00		17	68.00		25
+		Total	111		504	73.04		186	26.96		690
+
+	Tallygaroopna										
+			1st Prefs		252	81.55		57	18.45		309
+		"BUSH, Simon (IND)"	20		10	50.00		10	50.00		20
+		"JONES, David (GRN)"	3		0	0.00		3	100.00		3
+		"HELLEMONS, Robert (HAN)"	16		13	81.25		3	18.75		16
+		"TAYLOR, Elizabeth Mary (DEM)"	12		3	25.00		9	75.00		12
+		Total	51		278	77.22		82	22.78		360
+
+	Tatura										
+			1st Prefs		1609	77.02		480	22.98		2089
+		"BUSH, Simon (IND)"	59		36	61.02		23	38.98		59
+		"JONES, David (GRN)"	67		31	46.27		36	53.73		67
+		"HELLEMONS, Robert (HAN)"	104		62	59.62		42	40.38		104
+		"TAYLOR, Elizabeth Mary (DEM)"	93		49	52.69		44	47.31		93
+		Total	323		1787	74.09		625	25.91		2412
+
+	Tennyson										
+			1st Prefs		113	97.41		3	2.59		116
+		"BUSH, Simon (IND)"	3		3	100.00		0	0.00		3
+		"JONES, David (GRN)"	3		1	33.33		2	66.67		3
+		"HELLEMONS, Robert (HAN)"	8		8	100.00		0	0.00		8
+		"TAYLOR, Elizabeth Mary (DEM)"	1		1	100.00		0	0.00		1
+		Total	15		126	96.18		5	3.82		131
+
+	Tongala										
+			1st Prefs		789	79.86		199	20.14		988
+		"BUSH, Simon (IND)"	37		23	62.16		14	37.84		37
+		"JONES, David (GRN)"	24		8	33.33		16	66.67		24
+		"HELLEMONS, Robert (HAN)"	37		25	67.57		12	32.43		37
+		"TAYLOR, Elizabeth Mary (DEM)"	21		9	42.86		12	57.14		21
+		Total	119		854	77.15		253	22.85		1107
+
+	Toolamba										
+			1st Prefs		254	76.28		79	23.72		333
+		"BUSH, Simon (IND)"	31		14	45.16		17	54.84		31
+		"JONES, David (GRN)"	20		6	30.00		14	70.00		20
+		"HELLEMONS, Robert (HAN)"	13		8	61.54		5	38.46		13
+		"TAYLOR, Elizabeth Mary (DEM)"	8		3	37.50		5	62.50		8
+		Total	72		285	70.37		120	29.63		405
+
+	Toolleen										
+			1st Prefs		87	69.05		39	30.95		126
+		"BUSH, Simon (IND)"	3		0	0.00		3	100.00		3
+		"JONES, David (GRN)"	1		0	0.00		1	100.00		1
+		"HELLEMONS, Robert (HAN)"	6		5	83.33		1	16.67		6
+		"TAYLOR, Elizabeth Mary (DEM)"	6		1	16.67		5	83.33		6
+		Total	16		93	65.49		49	34.51		142
+
+	Torrumbarry										
+			1st Prefs		151	81.18		35	18.82		186
+		"BUSH, Simon (IND)"	2		1	50.00		1	50.00		2
+		"JONES, David (GRN)"	8		2	25.00		6	75.00		8
+		"HELLEMONS, Robert (HAN)"	16		10	62.50		6	37.50		16
+		"TAYLOR, Elizabeth Mary (DEM)"	4		2	50.00		2	50.00		4
+		Total	30		166	76.85		50	23.15		216
+
+	Undera										
+			1st Prefs		247	85.76		41	14.24		288
+		"BUSH, Simon (IND)"	8		6	75.00		2	25.00		8
+		"JONES, David (GRN)"	3		3	100.00		0	0.00		3
+		"HELLEMONS, Robert (HAN)"	12		12	100.00		0	0.00		12
+		"TAYLOR, Elizabeth Mary (DEM)"	3		2	66.67		1	33.33		3
+		Total	26		270	85.99		44	14.01		314
+
+	Waaia										
+			1st Prefs		243	92.05		21	7.95		264
+		"BUSH, Simon (IND)"	6		4	66.67		2	33.33		6
+		"JONES, David (GRN)"	0		0	0.00		0	0.00		0
+		"HELLEMONS, Robert (HAN)"	20		15	75.00		5	25.00		20
+		"TAYLOR, Elizabeth Mary (DEM)"	6		1	16.67		5	83.33		6
+		Total	32		263	88.85		33	11.15		296
+
+	Wanganui										
+			1st Prefs		590	61.39		371	38.61		961
+		"BUSH, Simon (IND)"	47		22	46.81		25	53.19		47
+		"JONES, David (GRN)"	24		7	29.17		17	70.83		24
+		"HELLEMONS, Robert (HAN)"	31		17	54.84		14	45.16		31
+		"TAYLOR, Elizabeth Mary (DEM)"	48		25	52.08		23	47.92		48
+		Total	150		661	59.50		450	40.50		1111
+
+	Wilmot Road										
+			1st Prefs		2015	67.46		972	32.54		2987
+		"BUSH, Simon (IND)"	135		62	45.93		73	54.07		135
+		"JONES, David (GRN)"	92		36	39.13		56	60.87		92
+		"HELLEMONS, Robert (HAN)"	136		91	66.91		45	33.09		136
+		"TAYLOR, Elizabeth Mary (DEM)"	117		50	42.74		67	57.26		117
+		Total	480		2254	65.01		1213	34.99		3467
+
+	Wunghnu										
+			1st Prefs		219	80.22		54	19.78		273
+		"BUSH, Simon (IND)"	6		4	66.67		2	33.33		6
+		"JONES, David (GRN)"	2		2	100.00		0	0.00		2
+		"HELLEMONS, Robert (HAN)"	18		11	61.11		7	38.89		18
+		"TAYLOR, Elizabeth Mary (DEM)"	8		4	50.00		4	50.00		8
+		Total	34		240	78.18		67	21.82		307
+
+	Wyuna										
+			1st Prefs		146	81.56		33	18.44		179
+		"BUSH, Simon (IND)"	13		12	92.31		1	7.69		13
+		"JONES, David (GRN)"	5		1	20.00		4	80.00		5
+		"HELLEMONS, Robert (HAN)"	17		17	100.00		0	0.00		17
+		"TAYLOR, Elizabeth Mary (DEM)"	4		1	25.00		3	75.00		4
+		Total	39		177	81.19		41	18.81		218
+
+	Yarrawalla South										
+			1st Prefs		113	94.17		7	5.83		120
+		"BUSH, Simon (IND)"	2		2	100.00		0	0.00		2
+		"JONES, David (GRN)"	3		0	0.00		3	100.00		3
+		"HELLEMONS, Robert (HAN)"	5		4	80.00		1	20.00		5
+		"TAYLOR, Elizabeth Mary (DEM)"	2		0	0.00		2	100.00		2
+		Total	12		119	90.15		13	9.85		132
+
+	Yarroweyah										
+			1st Prefs		329	83.50		65	16.50		394
+		"BUSH, Simon (IND)"	5		3	60.00		2	40.00		5
+		"JONES, David (GRN)"	5		1	20.00		4	80.00		5
+		"HELLEMONS, Robert (HAN)"	20		11	55.00		9	45.00		20
+		"TAYLOR, Elizabeth Mary (DEM)"	7		4	57.14		3	42.86		7
+		Total	37		348	80.74		83	19.26		431
+
+	Yielima										
+			1st Prefs		94	86.24		15	13.76		109
+		"BUSH, Simon (IND)"	0		0	0.00		0	0.00		0
+		"JONES, David (GRN)"	3		1	33.33		2	66.67		3
+		"HELLEMONS, Robert (HAN)"	10		7	70.00		3	30.00		10
+		"TAYLOR, Elizabeth Mary (DEM)"	2		1	50.00		1	50.00		2
+		Total	15		103	83.06		21	16.94		124
+
+	Special Hospitals										
+			1st Prefs		389	80.37		95	19.63		484
+		"BUSH, Simon (IND)"	12		7	58.33		5	41.67		12
+		"JONES, David (GRN)"	4		3	75.00		1	25.00		4
+		"HELLEMONS, Robert (HAN)"	2		2	100.00		0	0.00		2
+		"TAYLOR, Elizabeth Mary (DEM)"	4		0	0.00		4	100.00		4
+		Total	22		401	79.25		105	20.75		506
+
+	Total Ordinary										
+			1st Prefs		46604	76.92		13981	23.08		60585
+		"BUSH, Simon (IND)"	2155		1242	57.63		913	42.37		2155
+		"JONES, David (GRN)"	1463		569	38.89		894	61.11		1463
+		"HELLEMONS, Robert (HAN)"	2755		1750	63.52		1005	36.48		2755
+		"TAYLOR, Elizabeth Mary (DEM)"	2033		957	47.07		1076	52.93		2033
+		Total	8406		51122	74.10		17869	25.90		68991
+
+	ABSENT										
+			1st Prefs		2347	76.33		728	23.67		3075
+		"BUSH, Simon (IND)"	131		88	67.18		43	32.82		131
+		"JONES, David (GRN)"	215		81	37.67		134	62.33		215
+		"HELLEMONS, Robert (HAN)"	129		74	57.36		55	42.64		129
+		"TAYLOR, Elizabeth Mary (DEM)"	263		115	43.73		148	56.27		263
+		Total	738		2705	70.94		1108	29.06		3813
+
+	POSTAL										
+			1st Prefs		2005	81.04		469	18.96		2474
+		"BUSH, Simon (IND)"	65		39	60.00		26	40.00		65
+		"JONES, David (GRN)"	37		19	51.35		18	48.65		37
+		"HELLEMONS, Robert (HAN)"	132		75	56.82		57	43.18		132
+		"TAYLOR, Elizabeth Mary (DEM)"	71		31	43.66		40	56.34		71
+		Total	305		2169	78.05		610	21.95		2779
+
+	PRE_POLL										
+			1st Prefs		2096	75.21		691	24.79		2787
+		"BUSH, Simon (IND)"	103		69	66.99		34	33.01		103
+		"JONES, David (GRN)"	87		43	49.43		44	50.57		87
+		"HELLEMONS, Robert (HAN)"	114		65	57.02		49	42.98		114
+		"TAYLOR, Elizabeth Mary (DEM)"	114		42	36.84		72	63.16		114
+		Total	418		2315	72.23		890	27.77		3205
+
+	PROVISIONAL										
+			1st Prefs		446	67.58		214	32.42		660	
+		"BUSH, Simon (IND)"	29		16	55.17		13	44.83		29	
+		"JONES, David (GRN)"	25		11	44.00		14	56.00		25	
+		"HELLEMONS, Robert (HAN)"	32		24	75.00		8	25.00		32	
+		"TAYLOR, Elizabeth Mary (DEM)"	33		16	48.48		17	51.52		33	
+		Total	119		513	65.85		266	34.15		779	
+
+	Division Summary											
+			1st Prefs		53498	76.89		16083	23.11		69581	
+		"BUSH, Simon (IND)"	2483		1454	58.56		1029	41.44		2483	
+		"JONES, David (GRN)"	1827		723	39.57		1104	60.43		1827	
+		"HELLEMONS, Robert (HAN)"	3162		1988	62.87		1174	37.13		3162	
+		"TAYLOR, Elizabeth Mary (DEM)"	2514		1161	46.18		1353	53.82		2514	
+		Total	9986		58824	73.93		20743	26.07		79567	

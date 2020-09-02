@@ -1,0 +1,223 @@
+House of Representatives - 2001 Election: Queensland												
+Two Candidate Preferred Preference Flow Result 												
+By Polling Place												
+Rankin (85204)												
+		Candidate		                  	"EMERSON, Craig"		             	"WOOD, Paul John"		            	Total	
+				                           	ALP		                        	LP		                         		
+				                           	Votes	%	                     	Votes	%	                     		
+	Algester											
+			1st Prefs		2145	47.37		2383	52.63		4528	
+		"MACKENZIE, Mark (HAN)"	195		77	39.49		118	60.51		195	
+		"LLOYD, Daniel (GRN)"	98		50	51.02		48	48.98		98	
+		"DOBSON, Darryl (DEM)"	289		170	58.82		119	41.18		289	
+		Total	582		2442	47.79		2668	52.21		5110	
+
+	Berrinba East											
+			1st Prefs		1022	68.64		467	31.36		1489	
+		"MACKENZIE, Mark (HAN)"	144		66	45.83		78	54.17		144
+		"LLOYD, Daniel (GRN)"	27		17	62.96		10	37.04		27
+		"DOBSON, Darryl (DEM)"	64		48	75.00		16	25.00		64
+		Total	235		1153	66.88		571	33.12		1724
+
+	Boronia Heights										
+			1st Prefs		1845	59.54		1254	40.46		3099
+		"MACKENZIE, Mark (HAN)"	253		95	37.55		158	62.45		253
+		"LLOYD, Daniel (GRN)"	80		48	60.00		32	40.00		80
+		"DOBSON, Darryl (DEM)"	214		130	60.75		84	39.25		214
+		Total	547		2118	58.09		1528	41.91		3646
+
+	Brisbane City (Rankin)										
+			1st Prefs		65	50.78		63	49.22		128
+		"MACKENZIE, Mark (HAN)"	7		3	42.86		4	57.14		7
+		"LLOYD, Daniel (GRN)"	14		8	57.14		6	42.86		14
+		"DOBSON, Darryl (DEM)"	16		14	87.50		2	12.50		16
+		Total	37		90	54.55		75	45.45		165
+
+	Browns Plains										
+			1st Prefs		1553	60.69		1006	39.31		2559
+		"MACKENZIE, Mark (HAN)"	210		97	46.19		113	53.81		210
+		"LLOYD, Daniel (GRN)"	72		47	65.28		25	34.72		72
+		"DOBSON, Darryl (DEM)"	135		78	57.78		57	42.22		135
+		Total	417		1775	59.64		1201	40.36		2976
+
+	Burrowes										
+			1st Prefs		1106	65.02		595	34.98		1701
+		"MACKENZIE, Mark (HAN)"	196		99	50.51		97	49.49		196
+		"LLOYD, Daniel (GRN)"	49		34	69.39		15	30.61		49
+		"DOBSON, Darryl (DEM)"	72		41	56.94		31	43.06		72
+		Total	317		1280	63.43		738	36.57		2018
+
+	Calamvale (Rankin)										
+			1st Prefs		2040	44.58		2536	55.42		4576
+		"MACKENZIE, Mark (HAN)"	150		59	39.33		91	60.67		150
+		"LLOYD, Daniel (GRN)"	93		55	59.14		38	40.86		93
+		"DOBSON, Darryl (DEM)"	240		152	63.33		88	36.67		240
+		Total	483		2306	45.58		2753	54.42		5059
+
+	Crestmead										
+			1st Prefs		1895	67.80		900	32.20		2795
+		"MACKENZIE, Mark (HAN)"	189		81	42.86		108	57.14		189
+		"LLOYD, Daniel (GRN)"	80		43	53.75		37	46.25		80
+		"DOBSON, Darryl (DEM)"	165		98	59.39		67	40.61		165
+		Total	434		2117	65.56		1112	34.44		3229
+
+	Harris Fields										
+			1st Prefs		1657	70.27		701	29.73		2358
+		"MACKENZIE, Mark (HAN)"	202		101	50.00		101	50.00		202
+		"LLOYD, Daniel (GRN)"	57		40	70.18		17	29.82		57
+		"DOBSON, Darryl (DEM)"	110		65	59.09		45	40.91		110
+		Total	369		1863	68.32		864	31.68		2727
+
+	Kingston										
+			1st Prefs		1712	72.51		649	27.49		2361
+		"MACKENZIE, Mark (HAN)"	237		128	54.01		109	45.99		237
+		"LLOYD, Daniel (GRN)"	84		55	65.48		29	34.52		84
+		"DOBSON, Darryl (DEM)"	85		57	67.06		28	32.94		85
+		Total	406		1952	70.55		815	29.45		2767
+
+	Kuraby (Rankin)										
+			1st Prefs		417	52.65		375	47.35		792
+		"MACKENZIE, Mark (HAN)"	45		20	44.44		25	55.56		45
+		"LLOYD, Daniel (GRN)"	28		22	78.57		6	21.43		28
+		"DOBSON, Darryl (DEM)"	47		30	63.83		17	36.17		47
+		Total	120		489	53.62		423	46.38		912
+
+	Loganholme (Rankin)										
+			1st Prefs		765	44.61		950	55.39		1715
+		"MACKENZIE, Mark (HAN)"	135		43	31.85		92	68.15		135
+		"LLOYD, Daniel (GRN)"	63		39	61.90		24	38.10		63
+		"DOBSON, Darryl (DEM)"	100		59	59.00		41	41.00		100
+		Total	298		906	45.01		1107	54.99		2013
+
+	Mabel Park										
+			1st Prefs		1873	65.44		989	34.56		2862
+		"MACKENZIE, Mark (HAN)"	260		110	42.31		150	57.69		260
+		"LLOYD, Daniel (GRN)"	105		60	57.14		45	42.86		105
+		"DOBSON, Darryl (DEM)"	126		90	71.43		36	28.57		126
+		Total	491		2133	63.61		1220	36.39		3353
+
+	Marsden (Rankin)										
+			1st Prefs		1111	67.99		523	32.01		1634
+		"MACKENZIE, Mark (HAN)"	223		90	40.36		133	59.64		223
+		"LLOYD, Daniel (GRN)"	56		34	60.71		22	39.29		56
+		"DOBSON, Darryl (DEM)"	72		42	58.33		30	41.67		72
+		Total	351		1277	64.33		708	35.67		1985
+
+	Park Ridge (Rankin)										
+			1st Prefs		707	49.06		734	50.94		1441
+		"MACKENZIE, Mark (HAN)"	183		48	26.23		135	73.77		183
+		"LLOYD, Daniel (GRN)"	36		20	55.56		16	44.44		36
+		"DOBSON, Darryl (DEM)"	85		50	58.82		35	41.18		85
+		Total	304		825	47.28		920	52.72		1745
+
+	Regents Park										
+			1st Prefs		1211	56.01		951	43.99		2162
+		"MACKENZIE, Mark (HAN)"	144		60	41.67		84	58.33		144
+		"LLOYD, Daniel (GRN)"	47		23	48.94		24	51.06		47
+		"DOBSON, Darryl (DEM)"	80		44	55.00		36	45.00		80
+		Total	271		1338	54.99		1095	45.01		2433
+
+	Runcorn (Rankin)										
+			1st Prefs		1331	51.57		1250	48.43		2581
+		"MACKENZIE, Mark (HAN)"	111		50	45.05		61	54.95		111
+		"LLOYD, Daniel (GRN)"	106		81	76.42		25	23.58		106
+		"DOBSON, Darryl (DEM)"	155		110	70.97		45	29.03		155
+		Total	372		1572	53.23		1381	46.77		2953
+
+	Runcorn Heights										
+			1st Prefs		1923	51.93		1780	48.07		3703
+		"MACKENZIE, Mark (HAN)"	164		60	36.59		104	63.41		164
+		"LLOYD, Daniel (GRN)"	98		72	73.47		26	26.53		98
+		"DOBSON, Darryl (DEM)"	266		173	65.04		93	34.96		266
+		Total	528		2228	52.66		2003	47.34		4231
+
+	Slacks Creek (Rankin)										
+			1st Prefs		157	46.04		184	53.96		341
+		"MACKENZIE, Mark (HAN)"	29		11	37.93		18	62.07		29
+		"LLOYD, Daniel (GRN)"	20		12	60.00		8	40.00		20
+		"DOBSON, Darryl (DEM)"	24		11	45.83		13	54.17		24
+		Total	73		191	46.14		223	53.86		414
+
+	Sunnybank (Rankin)										
+			1st Prefs		142	50.18		141	49.82		283
+		"MACKENZIE, Mark (HAN)"	14		5	35.71		9	64.29		14
+		"LLOYD, Daniel (GRN)"	16		7	43.75		9	56.25		16
+		"DOBSON, Darryl (DEM)"	14		10	71.43		4	28.57		14
+		Total	44		164	50.15		163	49.85		327
+
+	Sunnybank Hills										
+			1st Prefs		2113	46.44		2437	53.56		4550
+		"MACKENZIE, Mark (HAN)"	134		50	37.31		84	62.69		134
+		"LLOYD, Daniel (GRN)"	106		71	66.98		35	33.02		106
+		"DOBSON, Darryl (DEM)"	225		145	64.44		80	35.56		225
+		Total	465		2379	47.44		2636	52.56		5015
+
+	Woodridge										
+			1st Prefs		1381	72.72		518	27.28		1899
+		"MACKENZIE, Mark (HAN)"	207		76	36.71		131	63.29		207
+		"LLOYD, Daniel (GRN)"	46		30	65.22		16	34.78		46
+		"DOBSON, Darryl (DEM)"	87		54	62.07		33	37.93		87
+		Total	340		1541	68.83		698	31.17		2239
+
+	Woodridge North										
+			1st Prefs		1214	72.05		471	27.95		1685
+		"MACKENZIE, Mark (HAN)"	163		83	50.92		80	49.08		163
+		"LLOYD, Daniel (GRN)"	34		28	82.35		6	17.65		34
+		"DOBSON, Darryl (DEM)"	78		49	62.82		29	37.18		78
+		Total	275		1374	70.10		586	29.90		1960
+
+	Yugumbir										
+			1st Prefs		1838	57.76		1344	42.24		3182
+		"MACKENZIE, Mark (HAN)"	228		108	47.37		120	52.63		228
+		"LLOYD, Daniel (GRN)"	80		54	67.50		26	32.50		80
+		"DOBSON, Darryl (DEM)"	230		143	62.17		87	37.83		230
+		Total	538		2143	57.61		1577	42.39		3720
+
+	Special Hospitals										
+			1st Prefs		165	49.40		169	50.60		334
+		"MACKENZIE, Mark (HAN)"	13		6	46.15		7	53.85		13
+		"LLOYD, Daniel (GRN)"	3		1	33.33		2	66.67		3
+		"DOBSON, Darryl (DEM)"	2		1	50.00		1	50.00		2
+		Total	18		173	49.15		179	50.85		352
+
+	Total Ordinary										
+			1st Prefs		31388	57.32		23370	42.68		54758
+		"MACKENZIE, Mark (HAN)"	3836		1626	42.39		2210	57.61		3836
+		"LLOYD, Daniel (GRN)"	1498		951	63.48		547	36.52		1498
+		"DOBSON, Darryl (DEM)"	2981		1864	62.53		1117	37.47		2981
+		Total	8315		35829	56.81		27244	43.19		63073
+
+	ABSENT										
+			1st Prefs		2146	53.28		1882	46.72		4028
+		"MACKENZIE, Mark (HAN)"	381		170	44.62		211	55.38		381
+		"LLOYD, Daniel (GRN)"	239		150	62.76		89	37.24		239
+		"DOBSON, Darryl (DEM)"	326		193	59.20		133	40.80		326
+		Total	946		2659	53.46		2315	46.54		4974
+
+	POSTAL										
+			1st Prefs		1760	59.88		1179	40.12		2939
+		"MACKENZIE, Mark (HAN)"	297		125	42.09		172	57.91		297
+		"LLOYD, Daniel (GRN)"	52		32	61.54		20	38.46		52
+		"DOBSON, Darryl (DEM)"	107		56	52.34		51	47.66		107
+		Total	456		1973	58.11		1422	41.89		3395
+
+	PRE_POLL										
+			1st Prefs		1324	57.37		984	42.63		2308
+		"MACKENZIE, Mark (HAN)"	176		79	44.89		97	55.11		176
+		"LLOYD, Daniel (GRN)"	66		44	66.67		22	33.33		66
+		"DOBSON, Darryl (DEM)"	138		69	50.00		69	50.00		138
+		Total	380		1516	56.40		1172	43.60		2688	
+
+	PROVISIONAL											
+			1st Prefs		257	70.22		109	29.78		366	
+		"MACKENZIE, Mark (HAN)"	34		12	35.29		22	64.71		34	
+		"LLOYD, Daniel (GRN)"	20		8	40.00		12	60.00		20	
+		"DOBSON, Darryl (DEM)"	20		13	65.00		7	35.00		20	
+		Total	74		290	65.91		150	34.09		440	
+
+	Division Summary											
+			1st Prefs		36875	57.26		27524	42.74		64399	
+		"MACKENZIE, Mark (HAN)"	4724		2012	42.59		2712	57.41		4724	
+		"LLOYD, Daniel (GRN)"	1875		1185	63.20		690	36.80		1875	
+		"DOBSON, Darryl (DEM)"	3572		2195	61.45		1377	38.55		3572	
+		Total	10171		42267	56.68		32303	43.32		74570	

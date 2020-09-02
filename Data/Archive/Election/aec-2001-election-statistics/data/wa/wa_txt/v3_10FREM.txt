@@ -1,0 +1,412 @@
+House of Representatives - 2001 Election: Western Australia												
+Two Candidate Preferred Preference Flow Result												
+By Polling Place by Division												
+												
+Fremantle (80927)												
+		Candidate		                  	"SMYTH, Louise"		              	"LAWRENCE, Carmen"		           	Total	
+				                           	LP		                         	ALP		                        		
+				                           	Votes	%	                     	Votes	%	                     		
+	Atwell											
+			1st Prefs		1037	50.73		1007	49.27		2044	
+		"REYNOLDS, Chris (HAN)"	179		112	62.57		67	37.43		179	
+		"SHAVE, Michelle (CTA)"	45		35	77.78		10	22.22		45	
+		"HARRIS, Sarah ()"	15		10	66.67		5	33.33		15	
+		"DELVES, Robert (GWA)"	101		36	35.64		65	64.36		101	
+		"SWIFT, Rod (DEM)"	216		86	39.81		130	60.19		216	
+		Total	556		1316	50.62		1284	49.38		2600	
+
+	Beaconsfield										
+			1st Prefs		450	30.51		1025	69.49		1475
+		"REYNOLDS, Chris (HAN)"	60		38	63.33		22	36.67		60
+		"SHAVE, Michelle (CTA)"	5		4	80.00		1	20.00		5
+		"HARRIS, Sarah ()"	21		9	42.86		12	57.14		21
+		"DELVES, Robert (GWA)"	316		41	12.97		275	87.03		316
+		"SWIFT, Rod (DEM)"	86		19	22.09		67	77.91		86
+		Total	488		561	28.58		1402	71.42		1963
+
+	Beeliar										
+			1st Prefs		231	41.55		325	58.45		556
+		"REYNOLDS, Chris (HAN)"	37		22	59.46		15	40.54		37
+		"SHAVE, Michelle (CTA)"	16		8	50.00		8	50.00		16
+		"HARRIS, Sarah ()"	8		5	62.50		3	37.50		8
+		"DELVES, Robert (GWA)"	40		15	37.50		25	62.50		40
+		"SWIFT, Rod (DEM)"	28		11	39.29		17	60.71		28
+		Total	129		292	42.63		393	57.37		685
+
+	Bibra Lake										
+			1st Prefs		974	49.54		992	50.46		1966
+		"REYNOLDS, Chris (HAN)"	178		107	60.11		71	39.89		178
+		"SHAVE, Michelle (CTA)"	55		44	80.00		11	20.00		55
+		"HARRIS, Sarah ()"	21		12	57.14		9	42.86		21
+		"DELVES, Robert (GWA)"	157		48	30.57		109	69.43		157
+		"SWIFT, Rod (DEM)"	163		58	35.58		105	64.42		163
+		Total	574		1243	48.94		1297	51.06		2540
+
+	Bicton										
+			1st Prefs		1453	60.52		948	39.48		2401
+		"REYNOLDS, Chris (HAN)"	138		101	73.19		37	26.81		138
+		"SHAVE, Michelle (CTA)"	30		29	96.67		1	3.33		30
+		"HARRIS, Sarah ()"	20		16	80.00		4	20.00		20
+		"DELVES, Robert (GWA)"	243		62	25.51		181	74.49		243
+		"SWIFT, Rod (DEM)"	193		78	40.41		115	59.59		193
+		Total	624		1739	57.49		1286	42.51		3025
+
+	Coogee Beach										
+			1st Prefs		771	45.33		930	54.67		1701
+		"REYNOLDS, Chris (HAN)"	151		120	79.47		31	20.53		151
+		"SHAVE, Michelle (CTA)"	14		9	64.29		5	35.71		14
+		"HARRIS, Sarah ()"	5		4	80.00		1	20.00		5
+		"DELVES, Robert (GWA)"	122		24	19.67		98	80.33		122
+		"SWIFT, Rod (DEM)"	112		41	36.61		71	63.39		112
+		Total	404		969	46.03		1136	53.97		2105
+
+	Coolbellup										
+			1st Prefs		197	20.59		760	79.41		957
+		"REYNOLDS, Chris (HAN)"	95		53	55.79		42	44.21		95
+		"SHAVE, Michelle (CTA)"	11		7	63.64		4	36.36		11
+		"HARRIS, Sarah ()"	16		6	37.50		10	62.50		16
+		"DELVES, Robert (GWA)"	77		11	14.29		66	85.71		77
+		"SWIFT, Rod (DEM)"	42		12	28.57		30	71.43		42
+		Total	241		286	23.87		912	76.13		1198
+
+	Coolbellup East										
+			1st Prefs		192	20.13		762	79.87		954
+		"REYNOLDS, Chris (HAN)"	101		65	64.36		36	35.64		101
+		"SHAVE, Michelle (CTA)"	14		13	92.86		1	7.14		14
+		"HARRIS, Sarah ()"	12		4	33.33		8	66.67		12
+		"DELVES, Robert (GWA)"	101		20	19.80		81	80.20		101
+		"SWIFT, Rod (DEM)"	38		8	21.05		30	78.95		38
+		Total	266		302	24.75		918	75.25		1220
+
+	East Fremantle										
+			1st Prefs		664	39.64		1011	60.36		1675
+		"REYNOLDS, Chris (HAN)"	103		66	64.08		37	35.92		103
+		"SHAVE, Michelle (CTA)"	34		28	82.35		6	17.65		34
+		"HARRIS, Sarah ()"	27		10	37.04		17	62.96		27
+		"DELVES, Robert (GWA)"	393		57	14.50		336	85.50		393
+		"SWIFT, Rod (DEM)"	173		57	32.95		116	67.05		173
+		Total	730		882	36.67		1523	63.33		2405
+
+	Fremantle										
+			1st Prefs		360	32.88		735	67.12		1095
+		"REYNOLDS, Chris (HAN)"	60		42	70.00		18	30.00		60
+		"SHAVE, Michelle (CTA)"	20		12	60.00		8	40.00		20
+		"HARRIS, Sarah ()"	19		7	36.84		12	63.16		19
+		"DELVES, Robert (GWA)"	313		48	15.34		265	84.66		313
+		"SWIFT, Rod (DEM)"	110		40	36.36		70	63.64		110
+		Total	522		509	31.48		1108	68.52		1617
+
+	Hamilton Hill East										
+			1st Prefs		328	27.06		884	72.94		1212
+		"REYNOLDS, Chris (HAN)"	102		63	61.76		39	38.24		102
+		"SHAVE, Michelle (CTA)"	19		13	68.42		6	31.58		19
+		"HARRIS, Sarah ()"	8		3	37.50		5	62.50		8
+		"DELVES, Robert (GWA)"	137		25	18.25		112	81.75		137
+		"SWIFT, Rod (DEM)"	65		20	30.77		45	69.23		65
+		Total	331		452	29.29		1091	70.71		1543
+
+	Hamilton Hill North										
+			1st Prefs		403	26.99		1090	73.01		1493
+		"REYNOLDS, Chris (HAN)"	110		83	75.45		27	24.55		110
+		"SHAVE, Michelle (CTA)"	23		13	56.52		10	43.48		23
+		"HARRIS, Sarah ()"	10		4	40.00		6	60.00		10
+		"DELVES, Robert (GWA)"	130		20	15.38		110	84.62		130
+		"SWIFT, Rod (DEM)"	69		15	21.74		54	78.26		69
+		Total	342		538	29.32		1297	70.68		1835
+
+	Hamilton Hill South										
+			1st Prefs		227	23.09		756	76.91		983
+		"REYNOLDS, Chris (HAN)"	95		61	64.21		34	35.79		95
+		"SHAVE, Michelle (CTA)"	21		9	42.86		12	57.14		21
+		"HARRIS, Sarah ()"	8		4	50.00		4	50.00		8
+		"DELVES, Robert (GWA)"	68		9	13.24		59	86.76		68
+		"SWIFT, Rod (DEM)"	44		11	25.00		33	75.00		44
+		Total	236		321	26.33		898	73.67		1219
+
+	Hilton										
+			1st Prefs		278	22.96		933	77.04		1211
+		"REYNOLDS, Chris (HAN)"	81		58	71.60		23	28.40		81
+		"SHAVE, Michelle (CTA)"	33		25	75.76		8	24.24		33
+		"HARRIS, Sarah ()"	17		6	35.29		11	64.71		17
+		"DELVES, Robert (GWA)"	261		21	8.05		240	91.95		261
+		"SWIFT, Rod (DEM)"	64		11	17.19		53	82.81		64
+		Total	456		399	23.94		1268	76.06		1667
+
+	Jandakot										
+			1st Prefs		455	46.38		526	53.62		981
+		"REYNOLDS, Chris (HAN)"	82		47	57.32		35	42.68		82
+		"SHAVE, Michelle (CTA)"	22		18	81.82		4	18.18		22
+		"HARRIS, Sarah ()"	4		4	100.00		0	0.00		4
+		"DELVES, Robert (GWA)"	67		13	19.40		54	80.60		67
+		"SWIFT, Rod (DEM)"	73		30	41.10		43	58.90		73
+		Total	248		567	46.14		662	53.86		1229
+
+	Kardinya (Fremantle)										
+			1st Prefs		514	55.39		414	44.61		928
+		"REYNOLDS, Chris (HAN)"	72		55	76.39		17	23.61		72
+		"SHAVE, Michelle (CTA)"	20		16	80.00		4	20.00		20
+		"HARRIS, Sarah ()"	13		11	84.62		2	15.38		13
+		"DELVES, Robert (GWA)"	71		22	30.99		49	69.01		71
+		"SWIFT, Rod (DEM)"	51		18	35.29		33	64.71		51
+		Total	227		636	55.06		519	44.94		1155
+
+	Kardinya West										
+			1st Prefs		546	47.98		592	52.02		1138
+		"REYNOLDS, Chris (HAN)"	81		53	65.43		28	34.57		81
+		"SHAVE, Michelle (CTA)"	23		20	86.96		3	13.04		23
+		"HARRIS, Sarah ()"	17		11	64.71		6	35.29		17
+		"DELVES, Robert (GWA)"	114		29	25.44		85	74.56		114
+		"SWIFT, Rod (DEM)"	66		22	33.33		44	66.67		66
+		Total	301		681	47.32		758	52.68		1439
+
+	Lakeland										
+			1st Prefs		664	47.91		722	52.09		1386
+		"REYNOLDS, Chris (HAN)"	114		68	59.65		46	40.35		114
+		"SHAVE, Michelle (CTA)"	38		30	78.95		8	21.05		38
+		"HARRIS, Sarah ()"	19		15	78.95		4	21.05		19
+		"DELVES, Robert (GWA)"	90		23	25.56		67	74.44		90
+		"SWIFT, Rod (DEM)"	107		41	38.32		66	61.68		107
+		Total	368		841	47.95		913	52.05		1754
+
+	Melville (Fremantle)										
+			1st Prefs		217	50.12		216	49.88		433
+		"REYNOLDS, Chris (HAN)"	22		14	63.64		8	36.36		22
+		"SHAVE, Michelle (CTA)"	9		7	77.78		2	22.22		9
+		"HARRIS, Sarah ()"	7		3	42.86		4	57.14		7
+		"DELVES, Robert (GWA)"	52		11	21.15		41	78.85		52
+		"SWIFT, Rod (DEM)"	32		11	34.38		21	65.63		32
+		Total	122		263	47.39		292	52.61		555
+
+	Munster										
+			1st Prefs		318	40.46		468	59.54		786
+		"REYNOLDS, Chris (HAN)"	62		41	66.13		21	33.87		62
+		"SHAVE, Michelle (CTA)"	10		4	40.00		6	60.00		10
+		"HARRIS, Sarah ()"	4		3	75.00		1	25.00		4
+		"DELVES, Robert (GWA)"	62		13	20.97		49	79.03		62
+		"SWIFT, Rod (DEM)"	29		8	27.59		21	72.41		29
+		Total	167		387	40.61		566	59.39		953
+
+	North Fremantle										
+			1st Prefs		428	51.38		405	48.62		833
+		"REYNOLDS, Chris (HAN)"	34		21	61.76		13	38.24		34
+		"SHAVE, Michelle (CTA)"	8		6	75.00		2	25.00		8
+		"HARRIS, Sarah ()"	4		2	50.00		2	50.00		4
+		"DELVES, Robert (GWA)"	154		18	11.69		136	88.31		154
+		"SWIFT, Rod (DEM)"	80		30	37.50		50	62.50		80
+		Total	280		505	45.37		608	54.63		1113
+
+	Palmyra										
+			1st Prefs		836	42.65		1124	57.35		1960
+		"REYNOLDS, Chris (HAN)"	150		101	67.33		49	32.67		150
+		"SHAVE, Michelle (CTA)"	26		22	84.62		4	15.38		26
+		"HARRIS, Sarah ()"	25		19	76.00		6	24.00		25
+		"DELVES, Robert (GWA)"	252		56	22.22		196	77.78		252
+		"SWIFT, Rod (DEM)"	154		57	37.01		97	62.99		154
+		Total	607		1091	42.50		1476	57.50		2567
+
+	Palmyra North										
+			1st Prefs		179	44.42		224	55.58		403
+		"REYNOLDS, Chris (HAN)"	25		14	56.00		11	44.00		25
+		"SHAVE, Michelle (CTA)"	10		9	90.00		1	10.00		10
+		"HARRIS, Sarah ()"	2		1	50.00		1	50.00		2
+		"DELVES, Robert (GWA)"	52		7	13.46		45	86.54		52
+		"SWIFT, Rod (DEM)"	34		17	50.00		17	50.00		34
+		Total	123		227	43.16		299	56.84		526
+
+	Perth (Fremantle)										
+			1st Prefs		24	36.36		42	63.64		66
+		"REYNOLDS, Chris (HAN)"	1		1	100.00		0	0.00		1
+		"SHAVE, Michelle (CTA)"	2		2	100.00		0	0.00		2
+		"HARRIS, Sarah ()"	3		1	33.33		2	66.67		3
+		"DELVES, Robert (GWA)"	14		2	14.29		12	85.71		14
+		"SWIFT, Rod (DEM)"	3		2	66.67		1	33.33		3
+		Total	23		32	35.96		57	64.04		89
+
+	Richmond										
+			1st Prefs		1185	59.61		803	40.39		1988
+		"REYNOLDS, Chris (HAN)"	94		71	75.53		23	24.47		94
+		"SHAVE, Michelle (CTA)"	28		22	78.57		6	21.43		28
+		"HARRIS, Sarah ()"	13		7	53.85		6	46.15		13
+		"DELVES, Robert (GWA)"	309		56	18.12		253	81.88		309
+		"SWIFT, Rod (DEM)"	133		44	33.08		89	66.92		133
+		Total	577		1385	54.00		1180	46.00		2565
+
+	Rottnest (Fremantle)										
+			1st Prefs		64	42.67		86	57.33		150
+		"REYNOLDS, Chris (HAN)"	10		9	90.00		1	10.00		10
+		"SHAVE, Michelle (CTA)"	3		2	66.67		1	33.33		3
+		"HARRIS, Sarah ()"	2		2	100.00		0	0.00		2
+		"DELVES, Robert (GWA)"	25		7	28.00		18	72.00		25
+		"SWIFT, Rod (DEM)"	22		8	36.36		14	63.64		22
+		Total	62		92	43.40		120	56.60		212
+
+	Samson										
+			1st Prefs		662	41.35		939	58.65		1601
+		"REYNOLDS, Chris (HAN)"	84		55	65.48		29	34.52		84
+		"SHAVE, Michelle (CTA)"	30		20	66.67		10	33.33		30
+		"HARRIS, Sarah ()"	11		5	45.45		6	54.55		11
+		"DELVES, Robert (GWA)"	123		19	15.45		104	84.55		123
+		"SWIFT, Rod (DEM)"	108		47	43.52		61	56.48		108
+		Total	356		808	41.29		1149	58.71		1957
+
+	South Fremantle										
+			1st Prefs		382	36.24		672	63.76		1054
+		"REYNOLDS, Chris (HAN)"	36		23	63.89		13	36.11		36
+		"SHAVE, Michelle (CTA)"	9		5	55.56		4	44.44		9
+		"HARRIS, Sarah ()"	16		6	37.50		10	62.50		16
+		"DELVES, Robert (GWA)"	318		32	10.06		286	89.94		318
+		"SWIFT, Rod (DEM)"	105		24	22.86		81	77.14		105
+		Total	484		472	30.69		1066	69.31		1538
+
+	South Lake										
+			1st Prefs		465	31.36		1018	68.64		1483
+		"REYNOLDS, Chris (HAN)"	132		80	60.61		52	39.39		132
+		"SHAVE, Michelle (CTA)"	37		20	54.05		17	45.95		37
+		"HARRIS, Sarah ()"	16		12	75.00		4	25.00		16
+		"DELVES, Robert (GWA)"	90		22	24.44		68	75.56		90
+		"SWIFT, Rod (DEM)"	89		42	47.19		47	52.81		89
+		Total	364		641	34.70		1206	65.30		1847
+
+	Spearwood										
+			1st Prefs		631	29.08		1539	70.92		2170
+		"REYNOLDS, Chris (HAN)"	178		125	70.22		53	29.78		178
+		"SHAVE, Michelle (CTA)"	37		26	70.27		11	29.73		37
+		"HARRIS, Sarah ()"	20		10	50.00		10	50.00		20
+		"DELVES, Robert (GWA)"	139		31	22.30		108	77.70		139
+		"SWIFT, Rod (DEM)"	117		35	29.91		82	70.09		117
+		Total	491		858	32.24		1803	67.76		2661
+
+	Spearwood South										
+			1st Prefs		617	27.51		1626	72.49		2243
+		"REYNOLDS, Chris (HAN)"	164		103	62.80		61	37.20		164
+		"SHAVE, Michelle (CTA)"	27		15	55.56		12	44.44		27
+		"HARRIS, Sarah ()"	8		6	75.00		2	25.00		8
+		"DELVES, Robert (GWA)"	110		27	24.55		83	75.45		110
+		"SWIFT, Rod (DEM)"	116		37	31.90		79	68.10		116
+		Total	425		805	30.17		1863	69.83		2668
+
+	Spearwood West										
+			1st Prefs		677	28.34		1712	71.66		2389
+		"REYNOLDS, Chris (HAN)"	214		149	69.63		65	30.37		214
+		"SHAVE, Michelle (CTA)"	45		27	60.00		18	40.00		45
+		"HARRIS, Sarah ()"	18		9	50.00		9	50.00		18
+		"DELVES, Robert (GWA)"	195		44	22.56		151	77.44		195
+		"SWIFT, Rod (DEM)"	117		36	30.77		81	69.23		117
+		Total	589		942	31.63		2036	68.37		2978
+
+	Wattleup										
+			1st Prefs		108	27.55		284	72.45		392
+		"REYNOLDS, Chris (HAN)"	53		31	58.49		22	41.51		53
+		"SHAVE, Michelle (CTA)"	5		5	100.00		0	0.00		5
+		"HARRIS, Sarah ()"	4		4	100.00		0	0.00		4
+		"DELVES, Robert (GWA)"	29		8	27.59		21	72.41		29
+		"SWIFT, Rod (DEM)"	14		5	35.71		9	64.29		14
+		Total	105		161	32.39		336	67.61		497
+
+	White Gum Valley										
+			1st Prefs		363	29.61		863	70.39		1226
+		"REYNOLDS, Chris (HAN)"	68		53	77.94		15	22.06		68
+		"SHAVE, Michelle (CTA)"	12		8	66.67		4	33.33		12
+		"HARRIS, Sarah ()"	6		1	16.67		5	83.33		6
+		"DELVES, Robert (GWA)"	278		23	8.27		255	91.73		278
+		"SWIFT, Rod (DEM)"	96		15	15.63		81	84.38		96
+		Total	460		463	27.46		1223	72.54		1686
+
+	Willagee										
+			1st Prefs		313	28.35		791	71.65		1104
+		"REYNOLDS, Chris (HAN)"	73		41	56.16		32	43.84		73
+		"SHAVE, Michelle (CTA)"	27		20	74.07		7	25.93		27
+		"HARRIS, Sarah ()"	8		3	37.50		5	62.50		8
+		"DELVES, Robert (GWA)"	96		27	28.13		69	71.88		96
+		"SWIFT, Rod (DEM)"	55		19	34.55		36	65.45		55
+		Total	259		423	31.03		940	68.97		1363
+
+	Willagee East										
+			1st Prefs		579	44.68		717	55.32		1296
+		"REYNOLDS, Chris (HAN)"	88		57	64.77		31	35.23		88
+		"SHAVE, Michelle (CTA)"	20		15	75.00		5	25.00		20
+		"HARRIS, Sarah ()"	9		6	66.67		3	33.33		9
+		"DELVES, Robert (GWA)"	112		29	25.89		83	74.11		112
+		"SWIFT, Rod (DEM)"	71		29	40.85		42	59.15		71
+		Total	300		715	44.80		881	55.20		1596
+
+	Yangebup										
+			1st Prefs		711	34.05		1377	65.95		2088
+		"REYNOLDS, Chris (HAN)"	234		127	54.27		107	45.73		234
+		"SHAVE, Michelle (CTA)"	64		44	68.75		20	31.25		64
+		"HARRIS, Sarah ()"	24		11	45.83		13	54.17		24
+		"DELVES, Robert (GWA)"	159		50	31.45		109	68.55		159
+		"SWIFT, Rod (DEM)"	149		48	32.21		101	67.79		149
+		Total	630		991	36.46		1727	63.54		2718
+
+	Yangebup South										
+			1st Prefs		164	39.42		252	60.58		416
+		"REYNOLDS, Chris (HAN)"	45		24	53.33		21	46.67		45
+		"SHAVE, Michelle (CTA)"	6		4	66.67		2	33.33		6
+		"HARRIS, Sarah ()"	7		4	57.14		3	42.86		7
+		"DELVES, Robert (GWA)"	29		6	20.69		23	79.31		29
+		"SWIFT, Rod (DEM)"	33		8	24.24		25	75.76		33
+		Total	120		210	39.18		326	60.82		536
+
+	Special Hospitals										
+			1st Prefs		127	35.98		226	64.02		353
+		"REYNOLDS, Chris (HAN)"	28		21	75.00		7	25.00		28
+		"SHAVE, Michelle (CTA)"	6		6	100.00		0	0.00		6
+		"HARRIS, Sarah ()"	2		2	100.00		0	0.00		2
+		"DELVES, Robert (GWA)"	10		1	10.00		9	90.00		10
+		"SWIFT, Rod (DEM)"	7		3	42.86		4	57.14		7
+		Total	53		160	39.41		246	60.59		406
+
+	Total Ordinary										
+			1st Prefs		18794	38.68		29796	61.32		48590
+		"REYNOLDS, Chris (HAN)"	3634		2375	65.35		1259	34.65		3634
+		"SHAVE, Michelle (CTA)"	864		622	71.99		242	28.01		864
+		"HARRIS, Sarah ()"	469		258	55.01		211	44.99		469
+		"DELVES, Robert (GWA)"	5409		1013	18.73		4396	81.27		5409
+		"SWIFT, Rod (DEM)"	3264		1103	33.79		2161	66.21		3264
+		Total	13640		24165	38.83		38065	61.17		62230
+
+	ABSENT										
+			1st Prefs		1704	46.65		1949	53.35		3653
+		"REYNOLDS, Chris (HAN)"	355		213	60.00		142	40.00		355
+		"SHAVE, Michelle (CTA)"	108		79	73.15		29	26.85		108
+		"HARRIS, Sarah ()"	78		31	39.74		47	60.26		78
+		"DELVES, Robert (GWA)"	693		175	25.25		518	74.75		693
+		"SWIFT, Rod (DEM)"	353		128	36.26		225	63.74		353
+		Total	1587		2330	44.47		2910	55.53		5240
+
+	POSTAL										
+			1st Prefs		548	36.39		958	63.61		1506
+		"REYNOLDS, Chris (HAN)"	125		74	59.20		51	40.80		125
+		"SHAVE, Michelle (CTA)"	19		15	78.95		4	21.05		19
+		"HARRIS, Sarah ()"	12		6	50.00		6	50.00		12
+		"DELVES, Robert (GWA)"	117		31	26.50		86	73.50		117
+		"SWIFT, Rod (DEM)"	80		41	51.25		39	48.75		80
+		Total	353		715	38.46		1144	61.54		1859
+
+	PRE_POLL										
+			1st Prefs		887	43.04		1174	56.96		2061
+		"REYNOLDS, Chris (HAN)"	166		98	59.04		68	40.96		166
+		"SHAVE, Michelle (CTA)"	27		15	55.56		12	44.44		27
+		"HARRIS, Sarah ()"	25		16	64.00		9	36.00		25
+		"DELVES, Robert (GWA)"	312		72	23.08		240	76.92		312
+		"SWIFT, Rod (DEM)"	161		63	39.13		98	60.87		161
+		Total	691		1151	41.82		1601	58.18		2752
+
+	PROVISIONAL										
+			1st Prefs		92	34.20		177	65.80		269
+		"REYNOLDS, Chris (HAN)"	28		18	64.29		10	35.71		28
+		"SHAVE, Michelle (CTA)"	7		5	71.43		2	28.57		7
+		"HARRIS, Sarah ()"	4		2	50.00		2	50.00		4
+		"DELVES, Robert (GWA)"	34		7	20.59		27	79.41		34	
+		"SWIFT, Rod (DEM)"	20		6	30.00		14	70.00		20	
+		Total	93		130	35.91		232	64.09		362	
+
+	Division Summary											
+			1st Prefs		22025	39.27		34054	60.73		56079	
+		"REYNOLDS, Chris (HAN)"	4308		2778	64.48		1530	35.52		4308	
+		"SHAVE, Michelle (CTA)"	1025		736	71.80		289	28.20		1025	
+		"HARRIS, Sarah ()"	588		313	53.23		275	46.77		588	
+		"DELVES, Robert (GWA)"	6565		1298	19.77		5267	80.23		6565	
+		"SWIFT, Rod (DEM)"	3878		1341	34.58		2537	65.42		3878	
+		Total	16364		28491	39.33		43952	60.67		72443	

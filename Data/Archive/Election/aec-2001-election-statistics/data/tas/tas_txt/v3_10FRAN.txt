@@ -1,0 +1,400 @@
+House of Representatives - 2001 Election: Tasmania												
+Two Candidate Preferred Preference Flow Result												
+By Polling Place												
+												
+Franklin (67119)												
+												
+		Candidate		                  	"QUICK, Harry"		               	"HODGMAN, Peter"		             	Total	
+				                           	ALP		                        	LP		                         		
+				                           	Votes	%	                     	Votes	%	                     		
+	Adventure Bay											
+			1st Prefs		71	57.26		53	42.74		124	
+		"BASTICK, Patricia (GRN)"	33		31	93.94		2	6.06		33	
+		"MANSKEY, Karen (DEM)"	3		2	66.67		1	33.33		3	
+		"MULLOY, Art (HAN)"	2		2	100.00		0	0.00		2	
+		Total	38		106	65.43		56	34.57		162	
+
+	Alonnah											
+			1st Prefs		83	65.87		43	34.13		126	
+		"BASTICK, Patricia (GRN)"	43		38	88.37		5	11.63		43	
+		"MANSKEY, Karen (DEM)"	8		8	100.00		0	0.00		8	
+		"MULLOY, Art (HAN)"	12		8	66.67		4	33.33		12	
+		Total	63		137	72.49		52	27.51		189	
+
+	Barnes Bay											
+			1st Prefs		43	58.11		31	41.89		74	
+		"BASTICK, Patricia (GRN)"	40		36	90.00		4	10.00		40	
+		"MANSKEY, Karen (DEM)"	8		6	75.00		2	25.00		8	
+		"MULLOY, Art (HAN)"	2		0	0.00		2	100.00		2	
+		Total	50		85	68.55		39	31.45		124	
+
+	Bellerive											
+			1st Prefs		1229	51.06		1178	48.94		2407	
+		"BASTICK, Patricia (GRN)"	257		197	76.65		60	23.35		257	
+		"MANSKEY, Karen (DEM)"	133		83	62.41		50	37.59		133	
+		"MULLOY, Art (HAN)"	48		26	54.17		22	45.83		48	
+		Total	438		1535	53.95		1310	46.05		2845	
+
+	Blackmans Bay											
+			1st Prefs		1060	46.70		1210	53.30		2270	
+		"BASTICK, Patricia (GRN)"	258		195	75.58		63	24.42		258	
+		"MANSKEY, Karen (DEM)"	158		106	67.09		52	32.91		158	
+		"MULLOY, Art (HAN)"	41		24	58.54		17	41.46		41	
+		Total	457		1385	50.79		1342	49.21		2727	
+
+	Bligh											
+			1st Prefs		675	78.76		182	21.24		857	
+		"BASTICK, Patricia (GRN)"	47		34	72.34		13	27.66		47	
+		"MANSKEY, Karen (DEM)"	34		26	76.47		8	23.53		34	
+		"MULLOY, Art (HAN)"	27		20	74.07		7	25.93		27	
+		Total	108		755	78.24		210	21.76		965	
+
+	Bridgewater											
+			1st Prefs		1696	80.42		413	19.58		2109	
+		"BASTICK, Patricia (GRN)"	74		60	81.08		14	18.92		74	
+		"MANSKEY, Karen (DEM)"	57		42	73.68		15	26.32		57	
+		"MULLOY, Art (HAN)"	50		36	72.00		14	28.00		50	
+		Total	181		1834	80.09		456	19.91		2290	
+
+	Cambridge											
+			1st Prefs		347	45.01		424	54.99		771	
+		"BASTICK, Patricia (GRN)"	83		64	77.11		19	22.89		83	
+		"MANSKEY, Karen (DEM)"	55		29	52.73		26	47.27		55	
+		"MULLOY, Art (HAN)"	28		12	42.86		16	57.14		28	
+		Total	166		452	48.24		485	51.76		937	
+
+	Clarendon Vale											
+			1st Prefs		499	85.01		88	14.99		587	
+		"BASTICK, Patricia (GRN)"	30		25	83.33		5	16.67		30	
+		"MANSKEY, Karen (DEM)"	23		18	78.26		5	21.74		23	
+		"MULLOY, Art (HAN)"	13		9	69.23		4	30.77		13	
+		Total	66		551	84.38		102	15.62		653	
+
+	Cradoc											
+			1st Prefs		94	44.34		118	55.66		212	
+		"BASTICK, Patricia (GRN)"	48		40	83.33		8	16.67		48	
+		"MANSKEY, Karen (DEM)"	10		8	80.00		2	20.00		10	
+		"MULLOY, Art (HAN)"	11		3	27.27		8	72.73		11	
+		Total	69		145	51.60		136	48.40		281	
+
+	Cygnet											
+			1st Prefs		736	59.98		491	40.02		1227	
+		"BASTICK, Patricia (GRN)"	264		218	82.58		46	17.42		264	
+		"MANSKEY, Karen (DEM)"	49		39	79.59		10	20.41		49	
+		"MULLOY, Art (HAN)"	37		22	59.46		15	40.54		37	
+		Total	350		1015	64.36		562	35.64		1577	
+
+	Dover											
+			1st Prefs		250	56.56		192	43.44		442	
+		"BASTICK, Patricia (GRN)"	36		27	75.00		9	25.00		36	
+		"MANSKEY, Karen (DEM)"	18		14	77.78		4	22.22		18	
+		"MULLOY, Art (HAN)"	14		9	64.29		5	35.71		14	
+		Total	68		300	58.82		210	41.18		510	
+
+	Franklin											
+			1st Prefs		195	49.62		198	50.38		393	
+		"BASTICK, Patricia (GRN)"	69		62	89.86		7	10.14		69	
+		"MANSKEY, Karen (DEM)"	15		9	60.00		6	40.00		15	
+		"MULLOY, Art (HAN)"	18		9	50.00		9	50.00		18	
+		Total	102		275	55.56		220	44.44		495	
+
+	Gagebrook											
+			1st Prefs		1089	74.64		370	25.36		1459	
+		"BASTICK, Patricia (GRN)"	51		43	84.31		8	15.69		51	
+		"MANSKEY, Karen (DEM)"	35		28	80.00		7	20.00		35	
+		"MULLOY, Art (HAN)"	39		30	76.92		9	23.08		39	
+		Total	125		1190	75.13		394	24.87		1584	
+
+	Geeveston											
+			1st Prefs		330	52.88		294	47.12		624	
+		"BASTICK, Patricia (GRN)"	36		29	80.56		7	19.44		36	
+		"MANSKEY, Karen (DEM)"	24		17	70.83		7	29.17		24	
+		"MULLOY, Art (HAN)"	26		11	42.31		15	57.69		26	
+		Total	86		387	54.51		323	45.49		710	
+
+	Geilston Bay											
+			1st Prefs		788	55.85		623	44.15		1411	
+		"BASTICK, Patricia (GRN)"	117		97	82.91		20	17.09		117	
+		"MANSKEY, Karen (DEM)"	93		57	61.29		36	38.71		93	
+		"MULLOY, Art (HAN)"	19		10	52.63		9	47.37		19	
+		Total	229		952	58.05		688	41.95		1640	
+
+	Glen Huon											
+			1st Prefs		84	41.58		118	58.42		202	
+		"BASTICK, Patricia (GRN)"	30		28	93.33		2	6.67		30	
+		"MANSKEY, Karen (DEM)"	9		8	88.89		1	11.11		9	
+		"MULLOY, Art (HAN)"	7		3	42.86		4	57.14		7	
+		Total	46		123	49.60		125	50.40		248	
+
+	Grove											
+			1st Prefs		159	40.66		232	59.34		391	
+		"BASTICK, Patricia (GRN)"	91		77	84.62		14	15.38		91	
+		"MANSKEY, Karen (DEM)"	30		16	53.33		14	46.67		30	
+		"MULLOY, Art (HAN)"	20		5	25.00		15	75.00		20	
+		Total	141		257	48.31		275	51.69		532	
+
+	Howden											
+			1st Prefs		111	50.00		111	50.00		222	
+		"BASTICK, Patricia (GRN)"	45		40	88.89		5	11.11		45	
+		"MANSKEY, Karen (DEM)"	11		8	72.73		3	27.27		11	
+		"MULLOY, Art (HAN)"	6		6	100.00		0	0.00		6	
+		Total	62		165	58.10		119	41.90		284	
+
+	Howrah											
+			1st Prefs		1215	48.93		1268	51.07		2483	
+		"BASTICK, Patricia (GRN)"	164		137	83.54		27	16.46		164	
+		"MANSKEY, Karen (DEM)"	129		86	66.67		43	33.33		129	
+		"MULLOY, Art (HAN)"	44		23	52.27		21	47.73		44	
+		Total	337		1461	51.81		1359	48.19		2820	
+
+	Huonville											
+			1st Prefs		575	47.96		624	52.04		1199	
+		"BASTICK, Patricia (GRN)"	141		108	76.60		33	23.40		141	
+		"MANSKEY, Karen (DEM)"	63		45	71.43		18	28.57		63	
+		"MULLOY, Art (HAN)"	38		17	44.74		21	55.26		38	
+		Total	242		745	51.70		696	48.30		1441	
+
+	Judbury											
+			1st Prefs		64	39.51		98	60.49		162	
+		"BASTICK, Patricia (GRN)"	39		35	89.74		4	10.26		39	
+		"MANSKEY, Karen (DEM)"	4		3	75.00		1	25.00		4	
+		"MULLOY, Art (HAN)"	3		1	33.33		2	66.67		3	
+		Total	46		103	49.52		105	50.48		208	
+
+	Kettering											
+			1st Prefs		133	40.92		192	59.08		325	
+		"BASTICK, Patricia (GRN)"	82		69	84.15		13	15.85		82	
+		"MANSKEY, Karen (DEM)"	23		14	60.87		9	39.13		23	
+		"MULLOY, Art (HAN)"	9		3	33.33		6	66.67		9	
+		Total	114		219	49.89		220	50.11		439	
+
+	Kingston											
+			1st Prefs		1656	45.78		1961	54.22		3617	
+		"BASTICK, Patricia (GRN)"	409		326	79.71		83	20.29		409	
+		"MANSKEY, Karen (DEM)"	248		174	70.16		74	29.84		248	
+		"MULLOY, Art (HAN)"	76		37	48.68		39	51.32		76	
+		Total	733		2193	50.41		2157	49.59		4350	
+
+	Kingston Beach											
+			1st Prefs		966	45.76		1145	54.24		2111	
+		"BASTICK, Patricia (GRN)"	321		254	79.13		67	20.87		321	
+		"MANSKEY, Karen (DEM)"	158		113	71.52		45	28.48		158	
+		"MULLOY, Art (HAN)"	47		21	44.68		26	55.32		47	
+		Total	526		1354	51.35		1283	48.65		2637	
+
+	Lauderdale											
+			1st Prefs		1087	54.30		915	45.70		2002	
+		"BASTICK, Patricia (GRN)"	229		179	78.17		50	21.83		229	
+		"MANSKEY, Karen (DEM)"	155		106	68.39		49	31.61		155	
+		"MULLOY, Art (HAN)"	42		24	57.14		18	42.86		42	
+		Total	426		1396	57.50		1032	42.50		2428	
+
+	Lindisfarne											
+			1st Prefs		992	46.75		1130	53.25		2122	
+		"BASTICK, Patricia (GRN)"	200		138	69.00		62	31.00		200	
+		"MANSKEY, Karen (DEM)"	116		79	68.10		37	31.90		116	
+		"MULLOY, Art (HAN)"	29		17	58.62		12	41.38		29	
+		Total	345		1226	49.70		1241	50.30		2467	
+
+	Loatta Road											
+			1st Prefs		690	50.55		675	49.45		1365	
+		"BASTICK, Patricia (GRN)"	119		84	70.59		35	29.41		119	
+		"MANSKEY, Karen (DEM)"	87		57	65.52		30	34.48		87	
+		"MULLOY, Art (HAN)"	22		10	45.45		12	54.55		22	
+		Total	228		841	52.79		752	47.21		1593	
+
+	Margate											
+			1st Prefs		549	49.64		557	50.36		1106	
+		"BASTICK, Patricia (GRN)"	263		217	82.51		46	17.49		263	
+		"MANSKEY, Karen (DEM)"	74		48	64.86		26	35.14		74	
+		"MULLOY, Art (HAN)"	28		14	50.00		14	50.00		28	
+		Total	365		828	56.29		643	43.71		1471	
+
+	Middleton											
+			1st Prefs		112	55.17		91	44.83		203	
+		"BASTICK, Patricia (GRN)"	41		36	87.80		5	12.20		41	
+		"MANSKEY, Karen (DEM)"	8		6	75.00		2	25.00		8	
+		"MULLOY, Art (HAN)"	6		2	33.33		4	66.67		6	
+		Total	55		156	60.47		102	39.53		258	
+
+	Montagu Bay											
+			1st Prefs		555	53.11		490	46.89		1045	
+		"BASTICK, Patricia (GRN)"	97		79	81.44		18	18.56		97	
+		"MANSKEY, Karen (DEM)"	70		53	75.71		17	24.29		70	
+		"MULLOY, Art (HAN)"	22		11	50.00		11	50.00		22	
+		Total	189		698	56.56		536	43.44		1234	
+
+	Mornington											
+			1st Prefs		259	68.88		117	31.12		376	
+		"BASTICK, Patricia (GRN)"	21		16	76.19		5	23.81		21	
+		"MANSKEY, Karen (DEM)"	13		11	84.62		2	15.38		13	
+		"MULLOY, Art (HAN)"	14		10	71.43		4	28.57		14	
+		Total	48		296	69.81		128	30.19		424	
+
+	Opossum Bay											
+			1st Prefs		57	41.61		80	58.39		137	
+		"BASTICK, Patricia (GRN)"	11		8	72.73		3	27.27		11	
+		"MANSKEY, Karen (DEM)"	6		3	50.00		3	50.00		6	
+		"MULLOY, Art (HAN)"	4		2	50.00		2	50.00		4	
+		Total	21		70	44.30		88	55.70		158	
+
+	Port Huon											
+			1st Prefs		95	46.80		108	53.20		203	
+		"BASTICK, Patricia (GRN)"	11		9	81.82		2	18.18		11	
+		"MANSKEY, Karen (DEM)"	4		3	75.00		1	25.00		4	
+		"MULLOY, Art (HAN)"	1		0	0.00		1	100.00		1	
+		Total	16		107	48.86		112	51.14		219	
+
+	Ranelagh											
+			1st Prefs		259	51.19		247	48.81		506	
+		"BASTICK, Patricia (GRN)"	82		69	84.15		13	15.85		82	
+		"MANSKEY, Karen (DEM)"	23		14	60.87		9	39.13		23	
+		"MULLOY, Art (HAN)"	11		8	72.73		3	27.27		11	
+		Total	116		350	56.27		272	43.73		622	
+
+	Risdon Vale											
+			1st Prefs		1049	80.20		259	19.80		1308	
+		"BASTICK, Patricia (GRN)"	63		47	74.60		16	25.40		63	
+		"MANSKEY, Karen (DEM)"	44		34	77.27		10	22.73		44	
+		"MULLOY, Art (HAN)"	37		27	72.97		10	27.03		37	
+		Total	144		1157	79.68		295	20.32		1452	
+
+	Rokeby											
+			1st Prefs		1112	76.85		335	23.15		1447	
+		"BASTICK, Patricia (GRN)"	76		60	78.95		16	21.05		76	
+		"MANSKEY, Karen (DEM)"	54		39	72.22		15	27.78		54	
+		"MULLOY, Art (HAN)"	41		32	78.05		9	21.95		41	
+		Total	171		1243	76.82		375	23.18		1618	
+
+	Sandfly											
+			1st Prefs		255	45.78		302	54.22		557	
+		"BASTICK, Patricia (GRN)"	149		122	81.88		27	18.12		149	
+		"MANSKEY, Karen (DEM)"	32		24	75.00		8	25.00		32	
+		"MULLOY, Art (HAN)"	22		12	54.55		10	45.45		22	
+		Total	203		413	54.34		347	45.66		760	
+
+	Sandford											
+			1st Prefs		423	53.01		375	46.99		798	
+		"BASTICK, Patricia (GRN)"	181		136	75.14		45	24.86		181	
+		"MANSKEY, Karen (DEM)"	54		41	75.93		13	24.07		54	
+		"MULLOY, Art (HAN)"	17		10	58.82		7	41.18		17	
+		Total	252		610	58.10		440	41.90		1050	
+
+	Seven Mile Beach											
+			1st Prefs		283	50.45		278	49.55		561	
+		"BASTICK, Patricia (GRN)"	91		77	84.62		14	15.38		91	
+		"MANSKEY, Karen (DEM)"	28		19	67.86		9	32.14		28	
+		"MULLOY, Art (HAN)"	14		2	14.29		12	85.71		14	
+		Total	133		381	54.90		313	45.10		694	
+
+	Snug											
+			1st Prefs		343	52.85		306	47.15		649	
+		"BASTICK, Patricia (GRN)"	120		106	88.33		14	11.67		120	
+		"MANSKEY, Karen (DEM)"	56		42	75.00		14	25.00		56	
+		"MULLOY, Art (HAN)"	19		11	57.89		8	42.11		19	
+		Total	195		502	59.48		342	40.52		844	
+
+	South Arm											
+			1st Prefs		216	53.73		186	46.27		402	
+		"BASTICK, Patricia (GRN)"	54		39	72.22		15	27.78		54	
+		"MANSKEY, Karen (DEM)"	22		18	81.82		4	18.18		22	
+		"MULLOY, Art (HAN)"	5		3	60.00		2	40.00		5	
+		Total	81		276	57.14		207	42.86		483	
+
+	Southport											
+			1st Prefs		86	64.18		48	35.82		134	
+		"BASTICK, Patricia (GRN)"	32		29	90.63		3	9.38		32	
+		"MANSKEY, Karen (DEM)"	8		6	75.00		2	25.00		8	
+		"MULLOY, Art (HAN)"	7		4	57.14		3	42.86		7	
+		Total	47		125	69.06		56	30.94		181	
+
+	Strathblane											
+			1st Prefs		56	52.34		51	47.66		107	
+		"BASTICK, Patricia (GRN)"	12		11	91.67		1	8.33		12	
+		"MANSKEY, Karen (DEM)"	0		0	0.00		0	0.00		0	
+		"MULLOY, Art (HAN)"	5		5	100.00		0	0.00		5	
+		Total	17		72	58.06		52	41.94		124	
+
+	Surges Bay											
+			1st Prefs		42	31.58		91	68.42		133	
+		"BASTICK, Patricia (GRN)"	13		13	100.00		0	0.00		13	
+		"MANSKEY, Karen (DEM)"	1		0	0.00		1	100.00		1	
+		"MULLOY, Art (HAN)"	2		2	100.00		0	0.00		2	
+		Total	16		57	38.26		92	61.74		149	
+
+	Tranmere											
+			1st Prefs		729	47.09		819	52.91		1548	
+		"BASTICK, Patricia (GRN)"	134		108	80.60		26	19.40		134	
+		"MANSKEY, Karen (DEM)"	99		64	64.65		35	35.35		99	
+		"MULLOY, Art (HAN)"	34		17	50.00		17	50.00		34	
+		Total	267		918	50.58		897	49.42		1815	
+
+	Warrane											
+			1st Prefs		821	69.75		356	30.25		1177	
+		"BASTICK, Patricia (GRN)"	111		79	71.17		32	28.83		111	
+		"MANSKEY, Karen (DEM)"	51		37	72.55		14	27.45		51	
+		"MULLOY, Art (HAN)"	29		14	48.28		15	51.72		29	
+		Total	191		951	69.52		417	30.48		1368	
+
+	Wentworth Street											
+			1st Prefs		566	55.17		460	44.83		1026	
+		"BASTICK, Patricia (GRN)"	109		83	76.15		26	23.85		109	
+		"MANSKEY, Karen (DEM)"	77		50	64.94		27	35.06		77	
+		"MULLOY, Art (HAN)"	16		6	37.50		10	62.50		16	
+		Total	202		705	57.41		523	42.59		1228	
+
+	Woodbridge											
+			1st Prefs		120	53.10		106	46.90		226	
+		"BASTICK, Patricia (GRN)"	89		79	88.76		10	11.24		89	
+		"MANSKEY, Karen (DEM)"	19		13	68.42		6	31.58		19	
+		"MULLOY, Art (HAN)"	9		2	22.22		7	77.78		9	
+		Total	117		214	62.39		129	37.61		343	
+
+	Special Hospitals											
+			1st Prefs		129	37.39		216	62.61		345	
+		"BASTICK, Patricia (GRN)"	24		15	62.50		9	37.50		24	
+		"MANSKEY, Karen (DEM)"	7		5	71.43		2	28.57		7	
+		"MULLOY, Art (HAN)"	4		2	50.00		2	50.00		4	
+		Total	35		151	39.74		229	60.26		380	
+
+	Total Ordinary											
+			1st Prefs		25033	55.28		20255	44.72		45288	
+		"BASTICK, Patricia (GRN)"	5140		4109	79.94		1031	20.06		5140	
+		"MANSKEY, Karen (DEM)"	2506		1731	69.07		775	30.93		2506	
+		"MULLOY, Art (HAN)"	1077		594	55.15		483	44.85		1077	
+		Total	8723		31467	58.26		22544	41.74		54011	
+
+	ABSENT											
+			1st Prefs		1446	53.75		1244	46.25		2690	
+		"BASTICK, Patricia (GRN)"	461		359	77.87		102	22.13		461	
+		"MANSKEY, Karen (DEM)"	255		179	70.20		76	29.80		255	
+		"MULLOY, Art (HAN)"	67		36	53.73		31	46.27		67	
+		Total	783		2020	58.16		1453	41.84		3473	
+
+	POSTAL											
+			1st Prefs		1239	53.78		1065	46.22		2304	
+		"BASTICK, Patricia (GRN)"	176		128	72.73		48	27.27		176	
+		"MANSKEY, Karen (DEM)"	111		75	67.57		36	32.43		111	
+		"MULLOY, Art (HAN)"	62		37	59.68		25	40.32		62	
+		Total	349		1479	55.75		1174	44.25		2653	
+
+	PRE_POLL											
+			1st Prefs		785	47.66		862	52.34		1647	
+		"BASTICK, Patricia (GRN)"	264		203	76.89		61	23.11		264	
+		"MANSKEY, Karen (DEM)"	151		98	64.90		53	35.10		151	
+		"MULLOY, Art (HAN)"	39		22	56.41		17	43.59		39	
+		Total	454		1108	52.74		993	47.26		2101	
+
+	PROVISIONAL											
+			1st Prefs		243	66.58		122	33.42		365	
+		"BASTICK, Patricia (GRN)"	57		49	85.96		8	14.04		57	
+		"MANSKEY, Karen (DEM)"	27		16	59.26		11	40.74		27	
+		"MULLOY, Art (HAN)"	10		8	80.00		2	20.00		10	
+		Total	94		316	68.85		143	31.15		459	
+
+	Division Summary											
+			1st Prefs		28746	54.97		23548	45.03		52294	
+		"BASTICK, Patricia (GRN)"	6098		4848	79.50		1250	20.50		6098	
+		"MANSKEY, Karen (DEM)"	3050		2099	68.82		951	31.18		3050	
+		"MULLOY, Art (HAN)"	1255		697	55.54		558	44.46		1255	
+		Total	10403		36390	58.04		26307	41.96		62697	

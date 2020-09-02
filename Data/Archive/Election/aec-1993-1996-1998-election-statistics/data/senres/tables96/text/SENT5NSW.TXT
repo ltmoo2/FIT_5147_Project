@@ -1,0 +1,1561 @@
+Senate - 1996 Election: New South Wales    														
+Result of the Transfer and Distribution of Preferences														
+Election of 6 Senators														
+														
+Quota = 3682283   +   1 =  526041														
+6 + 1														
+														
+				First			Count 2			Count 3			Count 4	
+				Preference		Votes	Progress		Votes	Progress		Votes	Progress	
+	Candidates			Votes	Status	Transfd	Totals	Status	Transfd	Totals	Status	Transfd	Totals	Status
+A	"KITSON, David"	RARI		44199		174	44373		52	44425		31	44456	
+A	"O'CALLAGHAN, Carolyn"	RARI		346		24	370		6	376		4	380	
+														
+B	"WOODS, Bob"	LP		1518178	Elected	-992137	526041	Elected	0	526041	Elected	0	526041	Elected
+B	"BROWNHILL, David"	NP		1826		989321	991147	Elected	0	991147	Elected	-465106	526041	Elected
+B	"COONAN, Helen"	LP		1950		1648	3598		13	3611		464754	468365	
+B	"CONSTANTIN, Abraham"	LP		768		260	1028		2	1030		120	1150	
+														
+C	"SPERLING, Karla"	GRN		96845		99	96944		99	97043		15	97058	
+C	"DENTON, Peter"	GRN		351		19	370		5	375		4	379	
+C	"ELIX, Jane"	GRN		416		3	419		4	423		1	424	
+C	"MATSON, Murray"	GRN		316		2	318		1	319		0	319	
+														
+D	"NASH, Chris"	NAN		16866		37	16903		23	16926		7	16933	
+D	"HALE, Sylvia"	NAN		177		3	180		4	184		1	185	
+														
+E	"EVANS, Beryl"	SEN		8216		32	8248		19	8267		7	8274	
+E	"WELSH, Lorraine"	SEN		52		1	53		3	56		1	57	
+														
+F	"PHILLIPS, John"	AFI		61567		96	61663		65	61728		15	61743	
+F	"O'REGAN, Bevan"	AFI		244		1	245		6	251		2	253	
+														
+G	"WEST, Sue"	ALP		1367388	Elected	0	1367388	Elected	-841347	526041	Elected	0	526041	Elected
+G	"CHILDS, Bruce"	ALP		1522		21	1543		839794	841337	Elected	0	841337	Elected
+G	"WHEELWRIGHT, Tom"	ALP		1195		1	1196		279	1475		5	1480	
+G	"BARGHOUT, Rima"	ALP		813		0	813		477	1290		0	1290	
+														
+H	"BOURNE, Vicki"	DEM		349862		179	350041		345	350386		53	350439	
+H	"CHESTERFIELD-EVANS, Arthur"	DEM		615		7	622		13	635		1	636	
+H	"LARCOS, Andrew"	DEM		223		1	224		4	228		0	228	
+H	"ANDERSON, Troy"	DEM		791		2	793		3	796		3	799	
+														
+I	"SCHOLLBACH, Robert Frederick"			3559		0	3559		1	3560		0	3560	
+I	"STIRLING, Amanda Jane"			73		0	73		1	74		0	74	
+														
+J	"SIMS, Richard"	ASP		73708		46	73754		26	73780		16	73796	
+J	"BOURKE, Robyn"	ASP		181		2	183		1	184		1	185	
+J	"REDFERN, Daniel"	ASP		73		0	73		1	74		0	74	
+J	"FRANICH, Rodney"	ASP		70		0	70		1	71		0	71	
+														
+K	"GALATI, Tony"			1109		0	1109		0	1109		0	1109	
+K	"GALATI, Sam"			19		0	19		0	19		0	19	
+														
+L	"DUNCAN, Darelle"	AWP		17292		8	17300		21	17321		1	17322	
+L	"THEW, Sarah"	AWP		125		0	125		5	130		0	130	
+														
+M	"BUTLER, Robert H"			639		0	639		0	639		0	639	
+M	"COSGROVE, Lindsay D"			18		0	18		0	18		0	18	
+														
+N	"BREEN, Peter"	ABR		2681		1	2682		3	2685		0	2685	
+N	"McNALLY, Kerry"	RPA		92		0	92		1	93		0	93	
+N	"HOUSEGO, Valerie"	ABR		16		0	16		0	16		0	16	
+N	"BEKELE, Assefa"	ABR		7		0	7		0	7		0	7	
+N	"FAHEY, Antoinette"	ABR		50		0	50		0	50		0	50	
+														
+O	"VERHEYEN, John"	GRY		5115		3	5118		4	5122		1	5123	
+O	"HETTERSCHEID, Theo"	GRY		4		0	4		0	4		0	4	
+O	"SEGERSTROM, Bob"	GRY		12		0	12		0	12		0	12	
+O	"PICKERING, Olga"	GRY		42		0	42		0	42		0	42	
+														
+P	"KNOLES, Catherine"	NLP		3656		1	3657		1	3658		0	3658	
+P	"JUDD, Ines"	NLP		46		0	46		0	46		0	46	
+														
+Q	"FINDLAY-BARNES, Teresa"	ABF		18872		11	18883		10	18893		0	18893	
+Q	"TRIBE, David"	ABF		88		0	88		0	88		0	88	
+														
+R	"WEBSTER, Alasdair"	CTA		72473		70	72543		10	72553		28	72581	
+R	"WEBSTER, Elaine"	CTA		176		1	177		0	177		1	178	
+R	"McLENNAN, Graham Clarke"	CTA		72		2	74		0	74		0	74	
+R	"BIRD, Bill"	CTA		81		0	81		0	81		0	81	
+R	"COLEMAN, Bruce"	CTA		167		0	167		0	167		0	167	
+														
+Ungrouped														
+	"JONES, Morris"	IND		485		1	486		0	486		0	486	
+	"IVOR, F"	IND		210		0	210		0	210		0	210	
+	"BARBARA, John"	IND		57		0	57		0	57		0	57	
+	"HURLEY, Jade"	IND		4765		21	4786		9	4795		6	4801	
+	"PINNIGER, Gretel"	IND		382		1	383		0	383		0	383	
+	"UNDERWOOD, Dian"	IND		433		0	433		1	434		1	435	
+	"PATTERSON, Ray"	IND		295		0	295		0	295		0	295	
+	"PIGGIN, David"	IND		31		0	31		0	31		0	31	
+	"BRADLEY, Bill"	IND		383		1	384		1	385		0	385	
+														
+	Exhausted Votes			0		11	11		9	20		7	27	
+	Loss by Fraction			0		26	26		24	50		20	70	
+														
+	Total Votes			3682283		992137	3682283		841347	3682283		465106	3682283	
+														
+	Notes		Candidates Elected:			Surplus Distributed			Surplus Distributed			Surplus Distributed		
+			"1. Woods, B"			"Woods, B"			"West, S"			"Brownhill, D"		
+			"2. West, S"											
+						Candidate Elected			Candidate Elected					
+						"3. Brownhill, D"			"4. Childs, B"					
+														
+														
+														
+				Count 5			Count 6-8			Count 9			Count 10-11	
+			Votes	Progress		Votes	Progress		Votes	Progress		Votes	Progress	
+	Candidates		Transfd	Total	Status	Transfd	Totals	Status	Transfd	Totals	Status	Transfd	Totals	Status
+A	"KITSON, David"	RARI	6	44462		0	44462		1	44463		0	44463	
+A	"O'CALLAGHAN, Carolyn"	RARI	0	380		0	380		1	381		0	381	
+														
+B	"WOODS, Bob"	LP	0	526041	Elected	0	526041	Elected	0	526041	Elected	0	526041	Elected
+B	"BROWNHILL, David"	NP	0	526041	Elected	0	526041	Elected	0	526041	Elected	0	526041	Elected
+B	"COONAN, Helen"	LP	7	468372		0	468372		0	468372		1	468373	
+B	"CONSTANTIN, Abraham"	LP	0	1150		0	1150		0	1150		0	1150	
+														
+C	"SPERLING, Karla"	GRN	21	97079		0	97079		0	97079		0	97079	
+C	"DENTON, Peter"	GRN	0	379		0	379		0	379		0	379	
+C	"ELIX, Jane"	GRN	0	424		0	424		0	424		0	424	
+C	"MATSON, Murray"	GRN	0	319		0	319		0	319		0	319	
+														
+D	"NASH, Chris"	NAN	4	16937		0	16937		0	16937		0	16937	
+D	"HALE, Sylvia"	NAN	0	185		0	185		0	185		0	185	
+														
+E	"EVANS, Beryl"	SEN	1	8275		0	8275		1	8276		0	8276	
+E	"WELSH, Lorraine"	SEN	0	57		0	57		0	57		0	57	
+														
+F	"PHILLIPS, John"	AFI	9	61752		0	61752		0	61752		0	61752	
+F	"O'REGAN, Bevan"	AFI	2	255		1	256		0	256		0	256	
+														
+G	"WEST, Sue"	ALP	0	526041	Elected	0	526041	Elected	0	526041	Elected	0	526041	Elected
+G	"CHILDS, Bruce"	ALP	-315296	526041	Elected	0	526041	Elected	0	526041	Elected	0	526041	Elected
+G	"WHEELWRIGHT, Tom"	ALP	315066	316546		0	316546		0	316546		0	316546	
+G	"BARGHOUT, Rima"	ALP	79	1369		0	1369		0	1369		0	1369	
+														
+H	"BOURNE, Vicki"	DEM	63	350502		0	350502		0	350502		0	350502	
+H	"CHESTERFIELD-EVANS, Arthur"	DEM	3	639		0	639		0	639		0	639	
+H	"LARCOS, Andrew"	DEM	1	229		0	229		0	229		0	229	
+H	"ANDERSON, Troy"	DEM	0	799		0	799		0	799		0	799	
+														
+I	"SCHOLLBACH, Robert Frederick"		0	3560		0	3560		0	3560		0	3560	
+I	"STIRLING, Amanda Jane"		0	74		0	74		0	74		0	74	
+														
+J	"SIMS, Richard"	ASP	3	73799		0	73799		0	73799		0	73799	
+J	"BOURKE, Robyn"	ASP	0	185		0	185		0	185		0	185	
+J	"REDFERN, Daniel"	ASP	0	74		0	74		0	74		0	74	
+J	"FRANICH, Rodney"	ASP	0	71		0	71		0	71		0	71	
+														
+K	"GALATI, Tony"		0	1109		0	1109		0	1109		0	1109	
+K	"GALATI, Sam"		0	19		0	19		0	19		0	19	
+														
+L	"DUNCAN, Darelle"	AWP	3	17325		0	17325		0	17325		0	17325	
+L	"THEW, Sarah"	AWP	0	130		0	130		0	130		0	130	
+														
+M	"BUTLER, Robert H"		0	639		0	639		0	639		0	639	
+M	"COSGROVE, Lindsay D"		0	18		0	18		0	18		0	18	
+														
+N	"BREEN, Peter"	ABR	0	2685		2	2687		1	2688		6	2694	
+N	"McNALLY, Kerry"	RPA	0	93		0	93		0	93		5	98	
+N	"HOUSEGO, Valerie"	ABR	0	16		1	17		0	17		-17	0	Excluded
+N	"BEKELE, Assefa"	ABR	0	7		-7	0	Excluded	0	0	Excluded	0	0	Excluded
+N	"FAHEY, Antoinette"	ABR	0	50		0	50		0	50		4	54	
+														
+O	"VERHEYEN, John"	GRY	0	5123		1	5124		2	5126		0	5126	
+O	"HETTERSCHEID, Theo"	GRY	0	4		-4	0	Excluded	0	0	Excluded	0	0	Excluded
+O	"SEGERSTROM, Bob"	GRY	0	12		1	13		-13	0	Excluded	0	0	Excluded
+O	"PICKERING, Olga"	GRY	0	42		1	43		4	47		0	47	
+														
+P	"KNOLES, Catherine"	NLP	0	3658		0	3658		0	3658		0	3658	
+P	"JUDD, Ines"	NLP	0	46		0	46		0	46		0	46	
+														
+Q	"FINDLAY-BARNES, Teresa"	ABF	1	18894		0	18894		2	18896		0	18896	
+Q	"TRIBE, David"	ABF	0	88		0	88		0	88		0	88	
+														
+R	"WEBSTER, Alasdair"	CTA	1	72582		0	72582		0	72582		0	72582	
+R	"WEBSTER, Elaine"	CTA	0	178		0	178		0	178		0	178	
+R	"McLENNAN, Graham Clarke"	CTA	0	74		1	75		0	75		0	75	
+R	"BIRD, Bill"	CTA	0	81		0	81		0	81		0	81	
+R	"COLEMAN, Bruce"	CTA	0	167		0	167		0	167		0	167	
+														
+Ungrouped														
+	"JONES, Morris"	IND	0	486		0	486		1	487		0	487	
+	"IVOR, F"	IND	0	210		1	211		0	211		0	211	
+	"BARBARA, John"	IND	0	57		0	57		0	57		0	57	
+	"HURLEY, Jade"	IND	1	4802		0	4802		0	4802		1	4803	
+	"PINNIGER, Gretel"	IND	0	383		0	383		0	383		0	383	
+	"UNDERWOOD, Dian"	IND	0	435		0	435		0	435		0	435	
+	"PATTERSON, Ray"	IND	0	295		0	295		0	295		0	295	
+	"PIGGIN, David"	IND	0	31		1	32		0	32		0	32	
+	"BRADLEY, Bill"	IND	0	385		0	385		0	385		0	385	
+														
+	Exhausted Votes		5	32		1	33		0	33		0	33	
+	Loss by Fraction		20	90		0	90		0	90		0	90	
+														
+	Total Votes		315296	3682283		11	3682283		13	3682283		17	3682283	
+														
+	Notes		Surplus Distributed			Candidates Excluded			Candidate Excluded			Candidate Excluded		
+			"Childs, B"			"Bekele, A"			"Segerstrom, B"			"Housego, V"		
+						"Hetterscheid, T"								
+														
+														
+														
+				Count 12-13			Count 14			Count 15-17			Count 18-19	
+			Votes	Progress		Votes	Progress		Votes	Progress		Votes	Progress	
+	Candidates		Transfd	Totals	Status	Transfd	Totals	Status	Transfd	Totals	Status	Transfd	Totals	Status
+A	"KITSON, David"	RARI	2	44465		0	44465		0	44465		1	44466	
+A	"O'CALLAGHAN, Carolyn"	RARI	0	381		0	381		0	381		0	381	
+														
+B	"WOODS, Bob"	LP	0	526041	Elected	0	526041	Elected	0	526041	Elected	0	526041	Elected
+B	"BROWNHILL, David"	NP	0	526041	Elected	0	526041	Elected	0	526041	Elected	0	526041	Elected
+B	"COONAN, Helen"	LP	0	468373		0	468373		1	468374		1	468375	
+B	"CONSTANTIN, Abraham"	LP	0	1150		0	1150		0	1150		0	1150	
+														
+C	"SPERLING, Karla"	GRN	0	97079		0	97079		1	97080		0	97080	
+C	"DENTON, Peter"	GRN	0	379		0	379		1	380		1	381	
+C	"ELIX, Jane"	GRN	0	424		0	424		0	424		1	425	
+C	"MATSON, Murray"	GRN	0	319		0	319		0	319		0	319	
+														
+D	"NASH, Chris"	NAN	0	16937		0	16937		0	16937		0	16937	
+D	"HALE, Sylvia"	NAN	0	185		0	185		0	185		0	185	
+														
+E	"EVANS, Beryl"	SEN	0	8276		0	8276		0	8276		0	8276	
+E	"WELSH, Lorraine"	SEN	0	57		0	57		1	58		0	58	
+														
+F	"PHILLIPS, John"	AFI	0	61752		0	61752		0	61752		0	61752	
+F	"O'REGAN, Bevan"	AFI	0	256		0	256		0	256		0	256	
+														
+G	"WEST, Sue"	ALP	0	526041	Elected	0	526041	Elected	0	526041	Elected	0	526041	Elected
+G	"CHILDS, Bruce"	ALP	0	526041	Elected	0	526041	Elected	0	526041	Elected	0	526041	Elected
+G	"WHEELWRIGHT, Tom"	ALP	0	316546		0	316546		1	316547		1	316548	
+G	"BARGHOUT, Rima"	ALP	0	1369		0	1369		0	1369		0	1369	
+														
+H	"BOURNE, Vicki"	DEM	1	350503		0	350503		2	350505		3	350508	
+H	"CHESTERFIELD-EVANS, Arthur"	DEM	0	639		0	639		0	639		0	639	
+H	"LARCOS, Andrew"	DEM	0	229		1	230		0	230		0	230	
+H	"ANDERSON, Troy"	DEM	0	799		0	799		0	799		0	799	
+														
+I	"SCHOLLBACH, Robert Frederick"		0	3560		0	3560		0	3560		0	3560	
+I	"STIRLING, Amanda Jane"		0	74		2	76		0	76		0	76	
+														
+J	"SIMS, Richard"	ASP	1	73800		0	73800		0	73800		0	73800	
+J	"BOURKE, Robyn"	ASP	0	185		1	186		0	186		0	186	
+J	"REDFERN, Daniel"	ASP	1	75		0	75		0	75		0	75	
+J	"FRANICH, Rodney"	ASP	0	71		0	71		0	71		1	72	
+														
+K	"GALATI, Tony"		0	1109		12	1121		0	1121		0	1121	
+K	"GALATI, Sam"		1	20		-20	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+L	"DUNCAN, Darelle"	AWP	0	17325		0	17325		0	17325		0	17325	
+L	"THEW, Sarah"	AWP	1	131		0	131		0	131		0	131	
+														
+M	"BUTLER, Robert H"		10	649		3	652		0	652		0	652	
+M	"COSGROVE, Lindsay D"		-18	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+N	"BREEN, Peter"	ABR	0	2694		0	2694		0	2694		1	2695	
+N	"McNALLY, Kerry"	RPA	0	98		0	98		0	98		0	98	
+N	"HOUSEGO, Valerie"	ABR	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+N	"BEKELE, Assefa"	ABR	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+N	"FAHEY, Antoinette"	ABR	0	54		0	54		0	54		0	54	
+														
+O	"VERHEYEN, John"	GRY	0	5126		0	5126		0	5126		1	5127	
+O	"HETTERSCHEID, Theo"	GRY	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+O	"SEGERSTROM, Bob"	GRY	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+O	"PICKERING, Olga"	GRY	0	47		0	47		0	47		0	47	
+														
+P	"KNOLES, Catherine"	NLP	0	3658		0	3658		1	3659		32	3691	
+P	"JUDD, Ines"	NLP	0	46		1	47		0	47		-47	0	Excluded
+														
+Q	"FINDLAY-BARNES, Teresa"	ABF	0	18896		0	18896		1	18897		1	18898	
+Q	"TRIBE, David"	ABF	0	88		0	88		0	88		1	89	
+														
+R	"WEBSTER, Alasdair"	CTA	1	72583		0	72583		1	72584		0	72584	
+R	"WEBSTER, Elaine"	CTA	0	178		0	178		0	178		0	178	
+R	"McLENNAN, Graham Clarke"	CTA	0	75		0	75		0	75		0	75	
+R	"BIRD, Bill"	CTA	0	81		0	81		0	81		0	81	
+R	"COLEMAN, Bruce"	CTA	0	167		0	167		0	167		0	167	
+														
+Ungrouped														
+	"JONES, Morris"	IND	0	487		0	487		1	488		0	488	
+	"IVOR, F"	IND	0	211		0	211		2	213		0	213	
+	"BARBARA, John"	IND	0	57		0	57		1	58		0	58	
+	"HURLEY, Jade"	IND	0	4803		0	4803		3	4806		0	4806	
+	"PINNIGER, Gretel"	IND	0	383		0	383		1	384		1	385	
+	"UNDERWOOD, Dian"	IND	0	435		0	435		2	437		0	437	
+	"PATTERSON, Ray"	IND	0	295		0	295		5	300		0	300	
+	"PIGGIN, David"	IND	0	32		0	32		-32	0	Excluded	0	0	Excluded
+	"BRADLEY, Bill"	IND	0	385		0	385		7	392		1	393	
+														
+	Exhausted Votes		0	33		0	33		0	33		0	33	
+	Loss by Fraction		0	90		0	90		0	90		0	90	
+														
+	Total Votes		18	3682283		20	3682283		32	3682283		47	3682283	
+														
+	Notes		Candidate Excluded			Candidate Excluded			Candidate Excluded			Candidate Excluded		
+			"Cosgrove, L"			"Galati, S"			"Piggin, D"			"Judd, I"		
+			 											
+														
+														
+				Count 20-23			Count 24-26			Count 27-31			Count 32-34	
+			Votes 	Progress		Votes	Progress		Votes	Progress		Votes	Progress	
+	Candidates		Transfd	Totals	Status	Transfd	Totals	Status	Transfd	Totals	Status	Transfd	Totals	Status
+A	"KITSON, David"	RARI	0	44466		2	44468		1	44469		1	44470	
+A	"O'CALLAGHAN, Carolyn"	RARI	0	381		0	381		1	382		0	382	
+														
+B	"WOODS, Bob"	LP	0	526041	Elected	0	526041	Elected	0	526041	Elected	0	526041	Elected
+B	"BROWNHILL, David"	NP	0	526041	Elected	0	526041	Elected	0	526041	Elected	0	526041	Elected
+B	"COONAN, Helen"	LP	1	468376		0	468376		2	468378		0	468378	
+B	"CONSTANTIN, Abraham"	LP	0	1150		0	1150		0	1150		0	1150	
+														
+C	"SPERLING, Karla"	GRN	0	97080		0	97080		3	97083		1	97084	
+C	"DENTON, Peter"	GRN	0	381		0	381		0	381		0	381	
+C	"ELIX, Jane"	GRN	0	425		0	425		0	425		0	425	
+C	"MATSON, Murray"	GRN	1	320		0	320		1	321		0	321	
+														
+D	"NASH, Chris"	NAN	0	16937		0	16937		2	16939		0	16939	
+D	"HALE, Sylvia"	NAN	0	185		0	185		0	185		0	185	
+														
+E	"EVANS, Beryl"	SEN	2	8278		0	8278		31	8309		0	8309	
+E	"WELSH, Lorraine"	SEN	0	58		0	58		-58	0	Excluded	0	0	Excluded
+														
+F	"PHILLIPS, John"	AFI	1	61753		1	61754		4	61758		0	61758	
+F	"O'REGAN, Bevan"	AFI	0	256		0	256		3	259		0	259	
+														
+G	"WEST, Sue"	ALP	0	526041	Elected	0	526041	Elected	0	526041	Elected	0	526041	Elected
+G	"CHILDS, Bruce"	ALP	0	526041	Elected	0	526041	Elected	0	526041	Elected	0	526041	Elected
+G	"WHEELWRIGHT, Tom"	ALP	0	316548		2	316550		0	316550		7	316557	
+G	"BARGHOUT, Rima"	ALP	0	1369		0	1369		0	1369		1	1370	
+														
+H	"BOURNE, Vicki"	DEM	2	350510		2	350512		1	350513		0	350513	
+H	"CHESTERFIELD-EVANS, Arthur"	DEM	0	639		0	639		0	639		1	640	
+H	"LARCOS, Andrew"	DEM	0	230		0	230		0	230		0	230	
+H	"ANDERSON, Troy"	DEM	0	799		0	799		0	799		1	800	
+														
+I	"SCHOLLBACH, Robert Frederick"		0	3560		0	3560		0	3560		0	3560	
+I	"STIRLING, Amanda Jane"		0	76		1	77		2	79		0	79	
+														
+J	"SIMS, Richard"	ASP	0	73800		0	73800		0	73800		1	73801	
+J	"BOURKE, Robyn"	ASP	0	186		0	186		0	186		0	186	
+J	"REDFERN, Daniel"	ASP	0	75		0	75		0	75		0	75	
+J	"FRANICH, Rodney"	ASP	0	72		1	73		0	73		0	73	
+														
+K	"GALATI, Tony"		2	1123		0	1123		0	1123		0	1123	
+K	"GALATI, Sam"		0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+L	"DUNCAN, Darelle"	AWP	0	17325		0	17325		0	17325		1	17326	
+L	"THEW, Sarah"	AWP	1	132		3	135		1	136		0	136	
+														
+M	"BUTLER, Robert H"		0	652		2	654		0	654		0	654	
+M	"COSGROVE, Lindsay D"		0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+N	"BREEN, Peter"	ABR	0	2695		9	2704		0	2704		0	2704	
+N	"McNALLY, Kerry"	RPA	0	98		28	126		0	126		0	126	
+N	"HOUSEGO, Valerie"	ABR	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+N	"BEKELE, Assefa"	ABR	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+N	"FAHEY, Antoinette"	ABR	1	55		-55	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+O	"VERHEYEN, John"	GRY	29	5156		1	5157		0	5157		0	5157	
+O	"HETTERSCHEID, Theo"	GRY	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+O	"SEGERSTROM, Bob"	GRY	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+O	"PICKERING, Olga"	GRY	-47	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+P	"KNOLES, Catherine"	NLP	1	3692		0	3692		0	3692		0	3692	
+P	"JUDD, Ines"	NLP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+Q	"FINDLAY-BARNES, Teresa"	ABF	1	18899		0	18899		0	18899		1	18900	
+Q	"TRIBE, David"	ABF	0	89		0	89		0	89		0	89	
+														
+R	"WEBSTER, Alasdair"	CTA	0	72584		0	72584		0	72584		2	72586	
+R	"WEBSTER, Elaine"	CTA	0	178		0	178		1	179		1	180	
+R	"McLENNAN, Graham Clarke"	CTA	0	75		1	76		0	76		1	77	
+R	"BIRD, Bill"	CTA	0	81		1	82		0	82		0	82	
+R	"COLEMAN, Bruce"	CTA	1	168		0	168		0	168		0	168	
+														
+Ungrouped														
+	"JONES, Morris"	IND	0	488		0	488		0	488		5	493	
+	"IVOR, F"	IND	0	213		0	213		0	213		7	220	
+	"BARBARA, John"	IND	0	58		0	58		0	58		-58	0	Excluded
+	"HURLEY, Jade"	IND	1	4807		1	4808		0	4808		10	4818	
+	"PINNIGER, Gretel"	IND	0	385		0	385		0	385		6	391	
+	"UNDERWOOD, Dian"	IND	2	439		0	439		0	439		5	444	
+	"PATTERSON, Ray"	IND	0	300		0	300		0	300		3	303	
+	"PIGGIN, David"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+	"BRADLEY, Bill"	IND	1	394		0	394		0	394		2	396	
+														
+	Exhausted Votes		0	33		0	33		1	34		1	35	
+	Loss by Fraction		0	90		0	90		4	94		0	94	
+														
+	Total Votes		47	3682283		55	3682283		58	3682283		58	3682283	
+														
+	Notes		Candidate Excluded			Candidate Excluded			Candidate Excluded			Candidate Excluded		
+			"Pickering, O"			"Fahey, A"			"Welsh, L"			"Barbara, J"		
+														
+														
+														
+				Count 35-38			Count 39-41			Count 42-45			Count 46-49	
+			Votes	Progress		Votes	Progress		Votes	Progress		Votes	Progress	
+	Candidates		Transfd	Total	Status	Transfd	Totals	Status	Transfd	Totals	Status	Transfd	Totals	Status
+A	"KITSON, David"	RARI	0	44470		1	44471		0	44471		2	44473	
+A	"O'CALLAGHAN, Carolyn"	RARI	0	382		0	382		0	382		0	382	
+														
+B	"WOODS, Bob"	LP	0	526041	Elected	0	526041	Elected	0	526041	Elected	0	526041	Elected
+B	"BROWNHILL, David"	NP	0	526041	Elected	0	526041	Elected	0	526041	Elected	0	526041	Elected
+B	"COONAN, Helen"	LP	1	468379		2	468381		1	468382		2	468384	
+B	"CONSTANTIN, Abraham"	LP	0	1150		1	1151		1	1152		0	1152	
+														
+C	"SPERLING, Karla"	GRN	0	97084		1	97085		0	97085		4	97089	
+C	"DENTON, Peter"	GRN	0	381		0	381		0	381		0	381	
+C	"ELIX, Jane"	GRN	0	425		0	425		0	425		0	425	
+C	"MATSON, Murray"	GRN	0	321		0	321		0	321		0	321	
+														
+D	"NASH, Chris"	NAN	0	16939		0	16939		1	16940		0	16940	
+D	"HALE, Sylvia"	NAN	0	185		0	185		0	185		1	186	
+														
+E	"EVANS, Beryl"	SEN	0	8309		0	8309		1	8310		0	8310	
+E	"WELSH, Lorraine"	SEN	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+F	"PHILLIPS, John"	AFI	0	61758		0	61758		0	61758		0	61758	
+F	"O'REGAN, Bevan"	AFI	0	259		0	259		1	260		0	260	
+														
+G	"WEST, Sue"	ALP	0	526041	Elected	0	526041	Elected	0	526041	Elected	0	526041	Elected
+G	"CHILDS, Bruce"	ALP	0	526041	Elected	0	526041	Elected	0	526041	Elected	0	526041	Elected
+G	"WHEELWRIGHT, Tom"	ALP	0	316557		2	316559		3	316562		2	316564	
+G	"BARGHOUT, Rima"	ALP	0	1370		0	1370		0	1370		0	1370	
+														
+H	"BOURNE, Vicki"	DEM	0	350513		2	350515		9	350524		1	350525	
+H	"CHESTERFIELD-EVANS, Arthur"	DEM	0	640		0	640		2	642		0	642	
+H	"LARCOS, Andrew"	DEM	1	231		0	231		2	233		1	234	
+H	"ANDERSON, Troy"	DEM	0	800		1	801		1	802		0	802	
+														
+I	"SCHOLLBACH, Robert Frederick"		0	3560		0	3560		36	3596		0	3596	
+I	"STIRLING, Amanda Jane"		0	79		0	79		-79	0	Excluded	0	0	Excluded
+														
+J	"SIMS, Richard"	ASP	7	73808		0	73808		2	73810		0	73810	
+J	"BOURKE, Robyn"	ASP	6	192		0	192		1	193		1	194	
+J	"REDFERN, Daniel"	ASP	52	127		0	127		0	127		0	127	
+J	"FRANICH, Rodney"	ASP	-73	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+K	"GALATI, Tony"		0	1123		0	1123		4	1127		0	1127	
+K	"GALATI, Sam"		0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+L	"DUNCAN, Darelle"	AWP	1	17327		0	17327		3	17330		0	17330	
+L	"THEW, Sarah"	AWP	0	136		0	136		0	136		0	136	
+														
+M	"BUTLER, Robert H"		0	654		0	654		2	656		0	656	
+M	"COSGROVE, Lindsay D"		0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+N	"BREEN, Peter"	ABR	0	2704		0	2704		0	2704		0	2704	
+N	"McNALLY, Kerry"	RPA	0	126		0	126		0	126		2	128	
+N	"HOUSEGO, Valerie"	ABR	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+N	"BEKELE, Assefa"	ABR	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+N	"FAHEY, Antoinette"	ABR	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+O	"VERHEYEN, John"	GRY	0	5157		1	5158		0	5158		0	5158	
+O	"HETTERSCHEID, Theo"	GRY	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+O	"SEGERSTROM, Bob"	GRY	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+O	"PICKERING, Olga"	GRY	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+P	"KNOLES, Catherine"	NLP	2	3694		0	3694		0	3694		2	3696	
+P	"JUDD, Ines"	NLP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+Q	"FINDLAY-BARNES, Teresa"	ABF	0	18900		0	18900		1	18901		67	18968	
+Q	"TRIBE, David"	ABF	0	89		1	90		2	92		-92	0	Excluded
+														
+R	"WEBSTER, Alasdair"	CTA	0	72586		22	72608		0	72608		0	72608	
+R	"WEBSTER, Elaine"	CTA	0	180		15	195		0	195		0	195	
+R	"McLENNAN, Graham Clarke"	CTA	0	77		-77	0	Excluded	0	0	Excluded	0	0	Excluded
+R	"BIRD, Bill"	CTA	0	82		17	99		0	99		0	99	
+R	"COLEMAN, Bruce"	CTA	0	168		9	177		1	178		2	180	
+														
+Ungrouped														
+	"JONES, Morris"	IND	1	494		1	495		1	496		0	496	
+	"IVOR, F"	IND	0	220		0	220		0	220		0	220	
+	"BARBARA, John"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+	"HURLEY, Jade"	IND	0	4818		0	4818		2	4820		2	4822	
+	"PINNIGER, Gretel"	IND	1	392		0	392		0	392		1	393	
+	"UNDERWOOD, Dian"	IND	0	444		0	444		1	445		0	445	
+	"PATTERSON, Ray"	IND	1	304		0	304		0	304		0	304	
+	"PIGGIN, David"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+	"BRADLEY, Bill"	IND	0	396		0	396		0	396		1	397	
+														
+	Exhausted Votes		0	35		0	35		0	35		1	36	
+	Loss by Fraction		0	94		1	95		1	96		0	96	
+														
+	Total Votes		73	3682283		77	3682283		79	3682283		92	3682283	
+														
+	Notes		Candidate Excluded			Candidate Excluded			Candidate Excluded			Candidate Excluded		
+			"Franich, R"			"McLennan, G"			"Stirling, A"			"Tribe, D"		
+														
+														
+														
+				Count 50-52			Count 53-56			Count 57-60			Count 61-63	
+			Votes	Progress		Votes	Progress		Votes	Progress		Votes	Progress	
+	Candidates		Transfd	Totals	Status	Transfd	Totals	Status	Transfd	Totals	Status	Transfd	Totals	Status
+A	"KITSON, David"	RARI	0	44473		1	44474		0	44474		0	44474	
+A	"O'CALLAGHAN, Carolyn"	RARI	0	382		2	384		0	384		1	385	
+														
+B	"WOODS, Bob"	LP	0	526041	Elected	0	526041	Elected	0	526041	Elected	0	526041	Elected
+B	"BROWNHILL, David"	NP	0	526041	Elected	0	526041	Elected	0	526041	Elected	0	526041	Elected
+B	"COONAN, Helen"	LP	4	468388		2	468390		4	468394		1	468395	
+B	"CONSTANTIN, Abraham"	LP	0	1152		0	1152		0	1152		1	1153	
+														
+C	"SPERLING, Karla"	GRN	3	97092		1	97093		5	97098		2	97100	
+C	"DENTON, Peter"	GRN	0	381		0	381		2	383		2	385	
+C	"ELIX, Jane"	GRN	0	425		0	425		0	425		0	425	
+C	"MATSON, Murray"	GRN	0	321		0	321		1	322		0	322	
+														
+D	"NASH, Chris"	NAN	0	16940		0	16940		0	16940		0	16940	
+D	"HALE, Sylvia"	NAN	0	186		0	186		0	186		2	188	
+														
+E	"EVANS, Beryl"	SEN	0	8310		0	8310		1	8311		1	8312	
+E	"WELSH, Lorraine"	SEN	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+F	"PHILLIPS, John"	AFI	0	61758		3	61761		5	61766		1	61767	
+F	"O'REGAN, Bevan"	AFI	0	260		0	260		2	262		2	264	
+														
+G	"WEST, Sue"	ALP	0	526041	Elected	0	526041	Elected	0	526041	Elected	0	526041	Elected
+G	"CHILDS, Bruce"	ALP	0	526041	Elected	0	526041	Elected	0	526041	Elected	0	526041	Elected
+G	"WHEELWRIGHT, Tom"	ALP	5	316569		0	316569		6	316575		2	316577	
+G	"BARGHOUT, Rima"	ALP	0	1370		1	1371		1	1372		1	1373	
+														
+H	"BOURNE, Vicki"	DEM	3	350528		2	350530		15	350545		4	350549	
+H	"CHESTERFIELD-EVANS, Arthur"	DEM	0	642		0	642		2	644		0	644	
+H	"LARCOS, Andrew"	DEM	1	235		2	237		0	237		0	237	
+H	"ANDERSON, Troy"	DEM	0	802		0	802		2	804		1	805	
+														
+I	"SCHOLLBACH, Robert Frederick"		0	3596		3	3599		1	3600		0	3600	
+I	"STIRLING, Amanda Jane"		0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+J	"SIMS, Richard"	ASP	0	73810		25	73835		1	73836		2	73838	
+J	"BOURKE, Robyn"	ASP	0	194		78	272		0	272		1	273	
+J	"REDFERN, Daniel"	ASP	0	127		-127	0	Excluded	0	0	Excluded	0	0	Excluded
+J	"FRANICH, Rodney"	ASP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+K	"GALATI, Tony"		0	1127		0	1127		0	1127		0	1127	
+K	"GALATI, Sam"		0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+L	"DUNCAN, Darelle"	AWP	0	17330		0	17330		1	17331		95	17426	
+L	"THEW, Sarah"	AWP	0	136		0	136		0	136		-136	0	Excluded
+														
+M	"BUTLER, Robert H"		0	656		0	656		0	656		2	658	
+M	"COSGROVE, Lindsay D"		0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+N	"BREEN, Peter"	ABR	0	2704		0	2704		71	2775		1	2776	
+N	"McNALLY, Kerry"	RPA	0	128		0	128		-128	0	Excluded	0	0	Excluded
+N	"HOUSEGO, Valerie"	ABR	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+N	"BEKELE, Assefa"	ABR	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+N	"FAHEY, Antoinette"	ABR	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+O	"VERHEYEN, John"	GRY	0	5158		0	5158		1	5159		1	5160	
+O	"HETTERSCHEID, Theo"	GRY	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+O	"SEGERSTROM, Bob"	GRY	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+O	"PICKERING, Olga"	GRY	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+P	"KNOLES, Catherine"	NLP	0	3696		0	3696		0	3696		0	3696	
+P	"JUDD, Ines"	NLP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+Q	"FINDLAY-BARNES, Teresa"	ABF	1	18969		0	18969		2	18971		5	18976	
+Q	"TRIBE, David"	ABF	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+R	"WEBSTER, Alasdair"	CTA	27	72635		0	72635		1	72636		0	72636	
+R	"WEBSTER, Elaine"	CTA	11	206		0	206		0	206		0	206	
+R	"McLENNAN, Graham Clarke"	CTA	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+R	"BIRD, Bill"	CTA	-99	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+R	"COLEMAN, Bruce"	CTA	41	221		0	221		0	221		0	221	
+														
+Ungrouped														
+	"JONES, Morris"	IND	0	496		0	496		0	496		0	496	
+	"IVOR, F"	IND	0	220		0	220		0	220		0	220	
+	"BARBARA, John"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+	"HURLEY, Jade"	IND	0	4822		2	4824		2	4826		2	4828	
+	"PINNIGER, Gretel"	IND	0	393		0	393		0	393		1	394	
+	"UNDERWOOD, Dian"	IND	2	447		0	447		1	448		0	448	
+	"PATTERSON, Ray"	IND	0	304		1	305		0	305		1	306	
+	"PIGGIN, David"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+	"BRADLEY, Bill"	IND	0	397		0	397		0	397		1	398	
+														
+	Exhausted Votes		1	37		2	39		0	39		0	39	
+	Loss by Fraction		0	96		2	98		1	99		3	102	
+														
+	Total Votes		99	3682283		127	3682283		128	3682283		136	3682283	
+														
+	Notes		Candidate Excluded			Candidate Excluded			Candidate Excluded			Candidate Excluded		
+			"Bird, B"			"Redfern, D"			"McNally, K"			"Thew, S"		
+														
+														
+														
+				Count 64-68			Count 69-73			Count 74-76			Count 77-81	
+			Votes	Progress		Votes	Progress		Votes	Progress		Votes	Progress	
+	Candidates		Transfd	Totals	Status	Transfd	Totals	Status	Transfd	Totals	Status	Transfd	Totals	Status
+A	"KITSON, David"	RARI	1	44475		2	44477		6	44483		1	44484	
+A	"O'CALLAGHAN, Carolyn"	RARI	4	389		0	389		1	390		1	391	
+														
+B	"WOODS, Bob"	LP	0	526041	Elected	0	526041	Elected	0	526041	Elected	0	526041	Elected
+B	"BROWNHILL, David"	NP	0	526041	Elected	0	526041	Elected	0	526041	Elected	0	526041	Elected
+B	"COONAN, Helen"	LP	1	468396		6	468402		18	468420		4	468424	
+B	"CONSTANTIN, Abraham"	LP	1	1154		0	1154		1	1155		2	1157	
+														
+C	"SPERLING, Karla"	GRN	5	97105		1	97106		10	97116		3	97119	
+C	"DENTON, Peter"	GRN	1	386		0	386		1	387		3	390	
+C	"ELIX, Jane"	GRN	2	427		1	428		2	430		2	432	
+C	"MATSON, Murray"	GRN	1	323		0	323		3	326		3	329	
+														
+D	"NASH, Chris"	NAN	142	17082		0	17082		1	17083		0	17083	
+D	"HALE, Sylvia"	NAN	-188	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+E	"EVANS, Beryl"	SEN	4	8316		0	8316		1	8317		0	8317	
+E	"WELSH, Lorraine"	SEN	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+F	"PHILLIPS, John"	AFI	2	61769		1	61770		3	61773		1	61774	
+F	"O'REGAN, Bevan"	AFI	0	264		0	264		1	265		0	265	
+														
+G	"WEST, Sue"	ALP	0	526041	Elected	0	526041	Elected	0	526041	Elected	0	526041	Elected
+G	"CHILDS, Bruce"	ALP	0	526041	Elected	0	526041	Elected	0	526041	Elected	0	526041	Elected
+G	"WHEELWRIGHT, Tom"	ALP	4	316581		0	316581		25	316606		9	316615	
+G	"BARGHOUT, Rima"	ALP	1	1374		0	1374		1	1375		0	1375	
+														
+H	"BOURNE, Vicki"	DEM	3	350552		2	350554		42	350596		68	350664	
+H	"CHESTERFIELD-EVANS, Arthur"	DEM	2	646		0	646		0	646		54	700	
+H	"LARCOS, Andrew"	DEM	0	237		0	237		0	237		-237	0	Excluded
+H	"ANDERSON, Troy"	DEM	1	806		0	806		1	807		73	880	
+														
+I	"SCHOLLBACH, Robert Frederick"		0	3600		0	3600		0	3600		1	3601	
+I	"STIRLING, Amanda Jane"		0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+J	"SIMS, Richard"	ASP	1	73839		0	73839		4	73843		0	73843	
+J	"BOURKE, Robyn"	ASP	2	275		0	275		0	275		1	276	
+J	"REDFERN, Daniel"	ASP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+J	"FRANICH, Rodney"	ASP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+K	"GALATI, Tony"		0	1127		0	1127		1	1128		1	1129	
+K	"GALATI, Sam"		0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+L	"DUNCAN, Darelle"	AWP	0	17426		2	17428		3	17431		1	17432	
+L	"THEW, Sarah"	AWP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+M	"BUTLER, Robert H"		0	658		0	658		0	658		0	658	
+M	"COSGROVE, Lindsay D"		0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+N	"BREEN, Peter"	ABR	2	2778		1	2779		7	2786		0	2786	
+N	"McNALLY, Kerry"	RPA	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+N	"HOUSEGO, Valerie"	ABR	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+N	"BEKELE, Assefa"	ABR	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+N	"FAHEY, Antoinette"	ABR	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+O	"VERHEYEN, John"	GRY	0	5160		1	5161		2	5163		1	5164	
+O	"HETTERSCHEID, Theo"	GRY	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+O	"SEGERSTROM, Bob"	GRY	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+O	"PICKERING, Olga"	GRY	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+P	"KNOLES, Catherine"	NLP	0	3696		1	3697		4	3701		1	3702	
+P	"JUDD, Ines"	NLP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+Q	"FINDLAY-BARNES, Teresa"	ABF	0	18976		3	18979		2	18981		1	18982	
+Q	"TRIBE, David"	ABF	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+R	"WEBSTER, Alasdair"	CTA	0	72636		147	72783		2	72785		2	72787	
+R	"WEBSTER, Elaine"	CTA	0	206		-206	0	Excluded	0	0	Excluded	0	0	Excluded
+R	"McLENNAN, Graham Clarke"	CTA	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+R	"BIRD, Bill"	CTA	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+R	"COLEMAN, Bruce"	CTA	0	221		34	255		2	257		0	257	
+														
+Ungrouped														
+	"JONES, Morris"	IND	0	496		1	497		18	515		0	515	
+	"IVOR, F"	IND	0	220		0	220		-220	0	Excluded	0	0	Excluded
+	"BARBARA, John"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+	"HURLEY, Jade"	IND	0	4828		2	4830		33	4863		0	4863	
+	"PINNIGER, Gretel"	IND	1	395		0	395		12	407		0	407	
+	"UNDERWOOD, Dian"	IND	0	448		1	449		5	454		0	454	
+	"PATTERSON, Ray"	IND	0	306		0	306		3	309		0	309	
+	"PIGGIN, David"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+	"BRADLEY, Bill"	IND	0	398		0	398		4	402		0	402	
+															
+	Exhausted Votes		0	39		0	39		1	40		0	40		
+	Loss by Fraction		7	109		0	109		0	109		4	113		
+															
+	Total Votes		188	3682283		206	3682283		220	3682283		237	3682283		
+															
+	Notes		Candidate Excluded			Candidate Excluded			Candidate Excluded			Candidate Excluded			
+			"Hale, S"			"Webster, E"			"Ivor, F"			"Larcos, A"			
+															
+															
+															
+				Count 82-86			Count 87-91			Count 92-96			Count 97		
+			Votes	Progress		Votes	Progress		Votes	Progress		Votes	Progress		
+	Candidates		Transfd	Total	Status	Transfd	Totals	Status	Transfd	Totals	Status	Transfd	Totals	Status	
+A	"KITSON, David"	RARI	0	44484		3	44487		7	44494		14	44508		
+A	"O'CALLAGHAN, Carolyn"	RARI	0	391		8	399		0	399		0	399		
+														
+B	"WOODS, Bob"	LP	0	526041	Elected	0	526041	Elected	0	526041	Elected	0	526041	Elected
+B	"BROWNHILL, David"	NP	0	526041	Elected	0	526041	Elected	0	526041	Elected	0	526041	Elected
+B	"COONAN, Helen"	LP	5	468429		5	468434		3	468437		119	468556	
+B	"CONSTANTIN, Abraham"	LP	2	1159		0	1159		0	1159		0	1159	
+														
+C	"SPERLING, Karla"	GRN	0	97119		1	97120		2	97122		0	97122	
+C	"DENTON, Peter"	GRN	0	390		1	391		2	393		1	394	
+C	"ELIX, Jane"	GRN	0	432		1	433		0	433		0	433	
+C	"MATSON, Murray"	GRN	0	329		2	331		0	331		0	331	
+														
+D	"NASH, Chris"	NAN	2	17085		3	17088		2	17090		1	17091	
+D	"HALE, Sylvia"	NAN	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+E	"EVANS, Beryl"	SEN	0	8317		2	8319		2	8321		0	8321	
+E	"WELSH, Lorraine"	SEN	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+F	"PHILLIPS, John"	AFI	0	61774		211	61985		6	61991		3	61994	
+F	"O'REGAN, Bevan"	AFI	2	267		-267	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+G	"WEST, Sue"	ALP	0	526041	Elected	0	526041	Elected	0	526041	Elected	0	526041	Elected
+G	"CHILDS, Bruce"	ALP	0	526041	Elected	0	526041	Elected	0	526041	Elected	0	526041	Elected
+G	"WHEELWRIGHT, Tom"	ALP	3	316618		1	316619		3	316622		13	316635	
+G	"BARGHOUT, Rima"	ALP	0	1375		2	1377		0	1377		0	1377	
+														
+H	"BOURNE, Vicki"	DEM	4	350668		7	350675		16	350691		11	350702	
+H	"CHESTERFIELD-EVANS, Arthur"	DEM	0	700		1	701		2	703		0	703	
+H	"LARCOS, Andrew"	DEM	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+H	"ANDERSON, Troy"	DEM	2	882		0	882		0	882		0	882	
+														
+I	"SCHOLLBACH, Robert Frederick"		0	3601		0	3601		2	3603		1	3604	
+I	"STIRLING, Amanda Jane"		0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+J	"SIMS, Richard"	ASP	3	73846		1	73847		217	74064		27	74091	
+J	"BOURKE, Robyn"	ASP	0	276		0	276		-276	0	Excluded	0	0	Excluded
+J	"REDFERN, Daniel"	ASP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+J	"FRANICH, Rodney"	ASP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+K	"GALATI, Tony"		0	1129		1	1130		2	1132		0	1132	
+K	"GALATI, Sam"		0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+L	"DUNCAN, Darelle"	AWP	1	17433		1	17434		3	17437		2	17439	
+L	"THEW, Sarah"	AWP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+M	"BUTLER, Robert H"		1	659		0	659		1	660		0	660	
+M	"COSGROVE, Lindsay D"		0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+N	"BREEN, Peter"	ABR	0	2786		0	2786		0	2786		1	2787	
+N	"McNALLY, Kerry"	RPA	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+N	"HOUSEGO, Valerie"	ABR	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+N	"BEKELE, Assefa"	ABR	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+N	"FAHEY, Antoinette"	ABR	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+O	"VERHEYEN, John"	GRY	0	5164		1	5165		0	5165		1	5166	
+O	"HETTERSCHEID, Theo"	GRY	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+O	"SEGERSTROM, Bob"	GRY	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+O	"PICKERING, Olga"	GRY	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+P	"KNOLES, Catherine"	NLP	0	3702		0	3702		0	3702		1	3703	
+P	"JUDD, Ines"	NLP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+Q	"FINDLAY-BARNES, Teresa"	ABF	4	18986		2	18988		0	18988		2	18990	
+Q	"TRIBE, David"	ABF	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+R	"WEBSTER, Alasdair"	CTA	221	73008		5	73013		1	73014		0	73014	
+R	"WEBSTER, Elaine"	CTA	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+R	"McLENNAN, Graham Clarke"	CTA	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+R	"BIRD, Bill"	CTA	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+R	"COLEMAN, Bruce"	CTA	-257	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+Ungrouped														
+	"JONES, Morris"	IND	0	515		0	515		0	515		11	526	
+	"IVOR, F"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+	"BARBARA, John"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+	"HURLEY, Jade"	IND	2	4865		0	4865		0	4865		12	4877	
+	"PINNIGER, Gretel"	IND	5	412		0	412		0	412		2	414	
+	"UNDERWOOD, Dian"	IND	0	454		1	455		0	455		52	507	
+	"PATTERSON, Ray"	IND	0	309		0	309		0	309		-309	0	Excluded
+	"PIGGIN, David"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+	"BRADLEY, Bill"	IND	0	402		0	402		0	402		32	434	
+														
+	Exhausted Votes		0	40		1	41		2	43		3	46	
+	Loss by Fraction		0	113		6	119		3	122		0	122	
+														
+	Total Votes		257	3682283		267	3682283		276	3682283		309	3682283	
+														
+	Notes		Candidate Excluded			Candidate Excluded			Candidate Excluded			Candidate Excluded		
+			"Coleman, B"			"O'Regan, B"			"Bourke, R"			"Patterson, R"		
+														
+														
+														
+				Count 98-101			Count 102-106			Count 107-109			Count 110-114	
+			Votes	Progress		Votes	Progress		Votes	Progress		Votes	Progress	
+	Candidates		Transfd	Totals	Status	Transfd	Totals	Status	Transfd	Totals	Status	Transfd	Totals	Status
+A	"KITSON, David"	RARI	5	44513		282	44795		5	44800		10	44810	
+A	"O'CALLAGHAN, Carolyn"	RARI	2	401		-401	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+B	"WOODS, Bob"	LP	0	526041	Elected	0	526041	Elected	0	526041	Elected	0	526041	Elected
+B	"BROWNHILL, David"	NP	0	526041	Elected	0	526041	Elected	0	526041	Elected	0	526041	Elected
+B	"COONAN, Helen"	LP	2	468558		22	468580		25	468605		10	468615	
+B	"CONSTANTIN, Abraham"	LP	3	1162		1	1163		8	1171		6	1177	
+														
+C	"SPERLING, Karla"	GRN	32	97154		14	97168		39	97207		185	97392	
+C	"DENTON, Peter"	GRN	27	421		11	432		0	432		-432	0	Excluded
+C	"ELIX, Jane"	GRN	223	656		5	661		2	663		127	790	
+C	"MATSON, Murray"	GRN	-331	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+D	"NASH, Chris"	NAN	2	17093		3	17096		11	17107		13	17120	
+D	"HALE, Sylvia"	NAN	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+E	"EVANS, Beryl"	SEN	0	8321		5	8326		4	8330		8	8338	
+E	"WELSH, Lorraine"	SEN	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+F	"PHILLIPS, John"	AFI	1	61995		13	62008		9	62017		9	62026	
+F	"O'REGAN, Bevan"	AFI	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+G	"WEST, Sue"	ALP	0	526041	Elected	0	526041	Elected	0	526041	Elected	0	526041	Elected
+G	"CHILDS, Bruce"	ALP	0	526041	Elected	0	526041	Elected	0	526041	Elected	0	526041	Elected
+G	"WHEELWRIGHT, Tom"	ALP	8	316643		5	316648		38	316686		11	316697	
+G	"BARGHOUT, Rima"	ALP	1	1378		4	1382		3	1385		1	1386	
+														
+H	"BOURNE, Vicki"	DEM	7	350709		4	350713		60	350773		16	350789	
+H	"CHESTERFIELD-EVANS, Arthur"	DEM	2	705		0	705		0	705		10	715	
+H	"LARCOS, Andrew"	DEM	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+H	"ANDERSON, Troy"	DEM	8	890		4	894		1	895		2	897	
+														
+I	"SCHOLLBACH, Robert Frederick"		0	3604		0	3604		0	3604		1	3605	
+I	"STIRLING, Amanda Jane"		0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+J	"SIMS, Richard"	ASP	0	74091		2	74093		5	74098		3	74101	
+J	"BOURKE, Robyn"	ASP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+J	"REDFERN, Daniel"	ASP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+J	"FRANICH, Rodney"	ASP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+K	"GALATI, Tony"		0	1132		0	1132		1	1133		0	1133	
+K	"GALATI, Sam"		0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+L	"DUNCAN, Darelle"	AWP	1	17440		2	17442		14	17456		4	17460	
+L	"THEW, Sarah"	AWP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+M	"BUTLER, Robert H"		0	660		0	660		1	661		0	661	
+M	"COSGROVE, Lindsay D"		0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+N	"BREEN, Peter"	ABR	0	2787		0	2787		10	2797		1	2798	
+N	"McNALLY, Kerry"	RPA	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+N	"HOUSEGO, Valerie"	ABR	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+N	"BEKELE, Assefa"	ABR	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+N	"FAHEY, Antoinette"	ABR	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+O	"VERHEYEN, John"	GRY	0	5166		0	5166		2	5168		0	5168	
+O	"HETTERSCHEID, Theo"	GRY	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+O	"SEGERSTROM, Bob"	GRY	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+O	"PICKERING, Olga"	GRY	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+P	"KNOLES, Catherine"	NLP	2	3705		0	3705		10	3715		2	3717	
+P	"JUDD, Ines"	NLP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+Q	"FINDLAY-BARNES, Teresa"	ABF	0	18990		4	18994		6	19000		2	19002	
+Q	"TRIBE, David"	ABF	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+R	"WEBSTER, Alasdair"	CTA	0	73014		1	73015		1	73016		0	73016	
+R	"WEBSTER, Elaine"	CTA	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+R	"McLENNAN, Graham Clarke"	CTA	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+R	"BIRD, Bill"	CTA	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+R	"COLEMAN, Bruce"	CTA	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+Ungrouped														
+	"JONES, Morris"	IND	1	527		0	527		8	535		0	535	
+	"IVOR, F"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+	"BARBARA, John"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+	"HURLEY, Jade"	IND	1	4878		2	4880		114	4994		1	4995	
+	"PINNIGER, Gretel"	IND	1	415		1	416		-416	0	Excluded	0	0	Excluded
+	"UNDERWOOD, Dian"	IND	0	507		1	508		15	523		0	523	
+	"PATTERSON, Ray"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+	"PIGGIN, David"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+	"BRADLEY, Bill"	IND	0	434		0	434		20	454		0	454	
+														
+	Exhausted Votes		0	46		8	54		3	57		0	57	
+	Loss by Fraction		2	124		7	131		1	132		10	142	
+														
+	Total Votes		331	3682283		401	3682283		416	3682283		432	3682283	
+														
+	Notes		Candidate Excluded			Candidate Excluded			Candidate Excluded			Candidate Excluded		
+			"Matson, M"			"O'Callaghan, C"			"Pinniger, G"			"Denton, P"		
+														
+														
+														
+				Count 115-119			Count 120-122			Count 123-125			Count 126-130	
+			Votes 	Progress		Votes	Progress		Votes	Progress		Votes	Progress	
+	Candidates		Transfd	Totals	Status	Transfd	Totals	Status	Transfd	Totals	Status	Transfd	Totals	Status
+A	"KITSON, David"	RARI	10	44820		5	44825		1	44826		5	44831	
+A	"O'CALLAGHAN, Carolyn"	RARI	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+B	"WOODS, Bob"	LP	0	526041	Elected	0	526041	Elected	0	526041	Elected	0	526041	Elected
+B	"BROWNHILL, David"	NP	0	526041	Elected	0	526041	Elected	0	526041	Elected	0	526041	Elected
+B	"COONAN, Helen"	LP	56	468671		23	468694		7	468701		15	468716	
+B	"CONSTANTIN, Abraham"	LP	3	1180		1	1181		0	1181		1	1182	
+														
+C	"SPERLING, Karla"	GRN	7	97399		18	97417		3	97420		22	97442	
+C	"DENTON, Peter"	GRN	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+C	"ELIX, Jane"	GRN	0	790		1	791		1	792		6	798	
+C	"MATSON, Murray"	GRN	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+D	"NASH, Chris"	NAN	2	17122		4	17126		2	17128		2	17130	
+D	"HALE, Sylvia"	NAN	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+E	"EVANS, Beryl"	SEN	7	8345		3	8348		3	8351		1	8352	
+E	"WELSH, Lorraine"	SEN	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+F	"PHILLIPS, John"	AFI	7	62033		6	62039		3	62042		7	62049	
+F	"O'REGAN, Bevan"	AFI	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+			 	 										
+G	"WEST, Sue"	ALP	0	526041	Elected	0	526041	Elected	0	526041	Elected	0	526041	Elected
+G	"CHILDS, Bruce"	ALP	0	526041	Elected	0	526041	Elected	0	526041	Elected	0	526041	Elected
+G	"WHEELWRIGHT, Tom"	ALP	16	316713		11	316724		2	316726		26	316752	
+G	"BARGHOUT, Rima"	ALP	0	1386		4	1390		1	1391		8	1399	
+														
+H	"BOURNE, Vicki"	DEM	30	350819		39	350858		12	350870		457	351327	
+H	"CHESTERFIELD-EVANS, Arthur"	DEM	1	716		2	718		1	719		-719	0	Excluded
+H	"LARCOS, Andrew"	DEM	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+H	"ANDERSON, Troy"	DEM	4	901		3	904		1	905		136	1041	
+														
+I	"SCHOLLBACH, Robert Frederick"		0	3605		2	3607		588	4195		1	4196	
+I	"STIRLING, Amanda Jane"		0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+J	"SIMS, Richard"	ASP	5	74106		3	74109		3	74112		4	74116	
+J	"BOURKE, Robyn"	ASP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+J	"REDFERN, Daniel"	ASP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+J	"FRANICH, Rodney"	ASP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+K	"GALATI, Tony"		0	1133		0	1133		4	1137		1	1138	
+K	"GALATI, Sam"		0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+L	"DUNCAN, Darelle"	AWP	5	17465		5	17470		9	17479		3	17482	
+L	"THEW, Sarah"	AWP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+M	"BUTLER, Robert H"		1	662		1	663		-663	0	Excluded	0	0	Excluded
+M	"COSGROVE, Lindsay D"		0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+N	"BREEN, Peter"	ABR	0	2798		4	2802		6	2808		0	2808	
+N	"McNALLY, Kerry"	RPA	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+N	"HOUSEGO, Valerie"	ABR	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+N	"BEKELE, Assefa"	ABR	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+N	"FAHEY, Antoinette"	ABR	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+O	"VERHEYEN, John"	GRY	5	5173		5	5178		2	5180		2	5182	
+O	"HETTERSCHEID, Theo"	GRY	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+O	"SEGERSTROM, Bob"	GRY	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+O	"PICKERING, Olga"	GRY	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+P	"KNOLES, Catherine"	NLP	0	3717		4	3721		1	3722		0	3722	
+P	"JUDD, Ines"	NLP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+Q	"FINDLAY-BARNES, Teresa"	ABF	6	19008		5	19013		4	19017		2	19019	
+Q	"TRIBE, David"	ABF	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+R	"WEBSTER, Alasdair"	CTA	19	73035		1	73036		3	73039		4	73043	
+R	"WEBSTER, Elaine"	CTA	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+R	"McLENNAN, Graham Clarke"	CTA	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+R	"BIRD, Bill"	CTA	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+R	"COLEMAN, Bruce"	CTA	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+Ungrouped														
+	"JONES, Morris"	IND	16	551		-551	0	Excluded	0	0	Excluded	0	0	Excluded
+	"IVOR, F"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+	"BARBARA, John"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+	"HURLEY, Jade"	IND	63	5058		330	5388		4	5392		3	5395	
+	"PINNIGER, Gretel"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+	"UNDERWOOD, Dian"	IND	189	712		69	781		2	783		1	784	
+	"PATTERSON, Ray"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+	"PIGGIN, David"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+	"BRADLEY, Bill"	IND	-454	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+															
+	Exhausted Votes		1	58		2	60		0	60		1	61		
+	Loss by Fraction		1	143		0	143		0	143		11	154		
+															
+	Total Votes		454	3682283		551	3682283		663	3682283		719	3682283		
+															
+	Notes		Candidate Excluded			Candidate Excluded			Candidate Excluded			Candidate Excluded			
+			"Bradley, B"			"Jones, M"			"Butler, R"			"Chesterfield-Evans, A"			
+															
+															
+															
+				Count 131-135			Count 136-140			Count 141-145			Count 146-150		
+			Votes	Progress		Votes	Progress		Votes	Progress		Votes	Progress		
+	Candidates		Transfd	Total	Status	Transfd	Totals	Status	Transfd	Totals	Status	Transfd	Totals	Status	
+A	"KITSON, David"	RARI	14	44845		5	44850		5	44855		4	44859		
+A	"O'CALLAGHAN, Carolyn"	RARI	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded	
+														
+B	"WOODS, Bob"	LP	0	526041	Elected	0	526041	Elected	0	526041	Elected	0	526041	Elected
+B	"BROWNHILL, David"	NP	0	526041	Elected	0	526041	Elected	0	526041	Elected	0	526041	Elected
+B	"COONAN, Helen"	LP	72	468788		8	468796		10	468806		1064	469870	
+B	"CONSTANTIN, Abraham"	LP	3	1185		2	1187		10	1197		0	1197	
+														
+C	"SPERLING, Karla"	GRN	7	97449		694	98143		26	98169		2	98171	
+C	"DENTON, Peter"	GRN	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+C	"ELIX, Jane"	GRN	3	801		-801	0	Excluded	0	0	Excluded	0	0	Excluded
+C	"MATSON, Murray"	GRN	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+D	"NASH, Chris"	NAN	0	17130		10	17140		8	17148		1	17149	
+D	"HALE, Sylvia"	NAN	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+E	"EVANS, Beryl"	SEN	4	8356		7	8363		4	8367		4	8371	
+E	"WELSH, Lorraine"	SEN	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+F	"PHILLIPS, John"	AFI	5	62054		6	62060		11	62071		1	62072	
+F	"O'REGAN, Bevan"	AFI	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+G	"WEST, Sue"	ALP	0	526041	Elected	0	526041	Elected	0	526041	Elected	0	526041	Elected
+G	"CHILDS, Bruce"	ALP	0	526041	Elected	0	526041	Elected	0	526041	Elected	0	526041	Elected
+G	"WHEELWRIGHT, Tom"	ALP	27	316779		6	316785		31	316816		5	316821	
+G	"BARGHOUT, Rima"	ALP	2	1401		3	1404		19	1423		3	1426	
+														
+H	"BOURNE, Vicki"	DEM	35	351362		23	351385		881	352266		4	352270	
+H	"CHESTERFIELD-EVANS, Arthur"	DEM	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+H	"LARCOS, Andrew"	DEM	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+H	"ANDERSON, Troy"	DEM	1	1042		8	1050		-1050	0	Excluded	0	0	Excluded
+														
+I	"SCHOLLBACH, Robert Frederick"		0	4196		1	4197		3	4200		9	4209	
+I	"STIRLING, Amanda Jane"		0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+J	"SIMS, Richard"	ASP	18	74134		0	74134		3	74137		16	74153	
+J	"BOURKE, Robyn"	ASP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+J	"REDFERN, Daniel"	ASP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+J	"FRANICH, Rodney"	ASP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+K	"GALATI, Tony"		3	1141		0	1141		2	1143		-1143	0	Excluded
+K	"GALATI, Sam"		0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+L	"DUNCAN, Darelle"	AWP	8	17490		14	17504		4	17508		14	17522	
+L	"THEW, Sarah"	AWP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+M	"BUTLER, Robert H"		0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+M	"COSGROVE, Lindsay D"		0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+N	"BREEN, Peter"	ABR	5	2813		0	2813		2	2815		2	2817	
+N	"McNALLY, Kerry"	RPA	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+N	"HOUSEGO, Valerie"	ABR	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+N	"BEKELE, Assefa"	ABR	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+N	"FAHEY, Antoinette"	ABR	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+O	"VERHEYEN, John"	GRY	7	5189		0	5189		1	5190		1	5191	
+O	"HETTERSCHEID, Theo"	GRY	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+O	"SEGERSTROM, Bob"	GRY	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+O	"PICKERING, Olga"	GRY	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+P	"KNOLES, Catherine"	NLP	8	3730		1	3731		0	3731		3	3734	
+P	"JUDD, Ines"	NLP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+Q	"FINDLAY-BARNES, Teresa"	ABF	35	19054		4	19058		4	19062		4	19066	
+Q	"TRIBE, David"	ABF	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+R	"WEBSTER, Alasdair"	CTA	20	73063		0	73063		2	73065		1	73066	
+R	"WEBSTER, Elaine"	CTA	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+R	"McLENNAN, Graham Clarke"	CTA	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+R	"BIRD, Bill"	CTA	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+R	"COLEMAN, Bruce"	CTA	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+Ungrouped														
+	"JONES, Morris"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+	"IVOR, F"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+	"BARBARA, John"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+	"HURLEY, Jade"	IND	500	5895		3	5898		13	5911		5	5916	
+	"PINNIGER, Gretel"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+	"UNDERWOOD, Dian"	IND	-784	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+	"PATTERSON, Ray"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+	"PIGGIN, David"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+	"BRADLEY, Bill"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+	Exhausted Votes		6	67		1	68		6	74		0	74	
+	Loss by Fraction		1	155		5	160		5	165		0	165	
+														
+	Total Votes		784	3682283		801	3682283		1050	3682283		1143	3682283	
+														
+	Notes		Candidate Excluded			Candidate Excluded			Candidate Excluded			Candidate Excluded		
+			"Underwood, D"			"Elix, J"			"Anderson, T"			"Galati, T"		
+														
+														
+														
+				Count 151-155			Count 156-160			Count 161-165			Count 166-170	
+			Votes	Progress		Votes	Progress		Votes	Progress		Votes	Progress	
+	Candidates		Transfd	Totals	Status	Transfd	Totals	Status	Transfd	Totals	Status	Transfd	Totals	Status
+A	"KITSON, David"	RARI	20	44879		9	44888		12	44900		22	44922	
+A	"O'CALLAGHAN, Carolyn"	RARI	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+B	"WOODS, Bob"	LP	0	526041	Elected	0	526041	Elected	0	526041	Elected	0	526041	Elected
+B	"BROWNHILL, David"	NP	0	526041	Elected	0	526041	Elected	0	526041	Elected	0	526041	Elected
+B	"COONAN, Helen"	LP	1077	470947		16	470963		41	471004		29	471033	
+B	"CONSTANTIN, Abraham"	LP	-1197	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+C	"SPERLING, Karla"	GRN	8	98179		18	98197		2371	100568		117	100685	
+C	"DENTON, Peter"	GRN	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+C	"ELIX, Jane"	GRN	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+C	"MATSON, Murray"	GRN	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+D	"NASH, Chris"	NAN	6	17155		9	17164		20	17184		27	17211	
+D	"HALE, Sylvia"	NAN	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+E	"EVANS, Beryl"	SEN	4	8375		4	8379		5	8384		9	8393	
+E	"WELSH, Lorraine"	SEN	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+F	"PHILLIPS, John"	AFI	7	62079		6	62085		14	62099		23	62122	
+F	"O'REGAN, Bevan"	AFI	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+G	"WEST, Sue"	ALP	0	526041	Elected	0	526041	Elected	0	526041	Elected	0	526041	Elected
+G	"CHILDS, Bruce"	ALP	0	526041	Elected	0	526041	Elected	0	526041	Elected	0	526041	Elected
+G	"WHEELWRIGHT, Tom"	ALP	16	316837		1285	318122		95	318217		52	318269	
+G	"BARGHOUT, Rima"	ALP	14	1440		-1440	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+H	"BOURNE, Vicki"	DEM	18	352288		47	352335		84	352419		3271	355690	
+H	"CHESTERFIELD-EVANS, Arthur"	DEM	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+H	"LARCOS, Andrew"	DEM	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+H	"ANDERSON, Troy"	DEM	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+I	"SCHOLLBACH, Robert Frederick"		0	4209		2	4211		3	4214		2	4216	
+I	"STIRLING, Amanda Jane"		0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+J	"SIMS, Richard"	ASP	3	74156		2	74158		11	74169		12	74181	
+J	"BOURKE, Robyn"	ASP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+J	"REDFERN, Daniel"	ASP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+J	"FRANICH, Rodney"	ASP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+K	"GALATI, Tony"		0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+K	"GALATI, Sam"		0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+L	"DUNCAN, Darelle"	AWP	2	17524		9	17533		35	17568		40	17608	
+L	"THEW, Sarah"	AWP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+M	"BUTLER, Robert H"		0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+M	"COSGROVE, Lindsay D"		0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+N	"BREEN, Peter"	ABR	0	2817		1	2818		-2818	0	Excluded	0	0	Excluded
+N	"McNALLY, Kerry"	RPA	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+N	"HOUSEGO, Valerie"	ABR	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+N	"BEKELE, Assefa"	ABR	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+N	"FAHEY, Antoinette"	ABR	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+O	"VERHEYEN, John"	GRY	1	5192		1	5193		48	5241		27	5268	
+O	"HETTERSCHEID, Theo"	GRY	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+O	"SEGERSTROM, Bob"	GRY	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+O	"PICKERING, Olga"	GRY	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+P	"KNOLES, Catherine"	NLP	2	3736		1	3737		21	3758		-3758	0	Excluded
+P	"JUDD, Ines"	NLP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+Q	"FINDLAY-BARNES, Teresa"	ABF	0	19066		5	19071		24	19095		83	19178	
+Q	"TRIBE, David"	ABF	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+R	"WEBSTER, Alasdair"	CTA	3	73069		2	73071		19	73090		16	73106	
+R	"WEBSTER, Elaine"	CTA	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+R	"McLENNAN, Graham Clarke"	CTA	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+R	"BIRD, Bill"	CTA	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+R	"COLEMAN, Bruce"	CTA	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+Ungrouped														
+	"JONES, Morris"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+	"IVOR, F"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+	"BARBARA, John"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+	"HURLEY, Jade"	IND	2	5918		6	5924		10	5934		25	5959	
+	"PINNIGER, Gretel"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+	"UNDERWOOD, Dian"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+	"PATTERSON, Ray"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+	"PIGGIN, David"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+	"BRADLEY, Bill"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+	Exhausted Votes		4	78		7	85		3	88		3	91	
+	Loss by Fraction		10	175		10	185		2	187		0	187	
+														
+	Total Votes		1197	3682283		1440	3682283		2818	3682283		3758	3682283	
+														
+	Notes		Candidate Excluded			Candidate Excluded			Candidate Excluded			Candidate Excluded		
+			"Constantin, A"			"Barghout, R"			"Breen, P"			"Knoles, C"		
+														
+														
+														
+				Count 171-175			Count 176-180			Count 181-185			Count 186-190	
+			Votes	Progress		Votes	Progress		Votes	Progress		Votes	Progress	
+	Candidates		Transfd	Totals	Status	Transfd	Totals	Status	Transfd	Totals	Status	Transfd	Totals	Status
+A	"KITSON, David"	RARI	8	44930		5031	49961		150	50111		158	50269	
+A	"O'CALLAGHAN, Carolyn"	RARI	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+B	"WOODS, Bob"	LP	0	526041	Elected	0	526041	Elected	0	526041	Elected	0	526041	Elected
+B	"BROWNHILL, David"	NP	0	526041	Elected	0	526041	Elected	0	526041	Elected	0	526041	Elected
+B	"COONAN, Helen"	LP	16	471049		1355	472404		297	472701		506	473207	
+B	"CONSTANTIN, Abraham"	LP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+C	"SPERLING, Karla"	GRN	6	100691		207	100898		90	100988		1067	102055	
+C	"DENTON, Peter"	GRN	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+C	"ELIX, Jane"	GRN	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+C	"MATSON, Murray"	GRN	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+D	"NASH, Chris"	NAN	3	17214		78	17292		102	17394		-17394	0	Excluded
+D	"HALE, Sylvia"	NAN	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+E	"EVANS, Beryl"	SEN	3486	11879		381	12260		-12260	0	Excluded	0	0	Excluded
+E	"WELSH, Lorraine"	SEN	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+F	"PHILLIPS, John"	AFI	595	62717		377	63094		169	63263		215	63478	
+F	"O'REGAN, Bevan"	AFI	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+G	"WEST, Sue"	ALP	0	526041	Elected	0	526041	Elected	0	526041	Elected	0	526041	Elected
+G	"CHILDS, Bruce"	ALP	0	526041	Elected	0	526041	Elected	0	526041	Elected	0	526041	Elected
+G	"WHEELWRIGHT, Tom"	ALP	9	318278		597	318875		97	318972		392	319364	
+G	"BARGHOUT, Rima"	ALP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+H	"BOURNE, Vicki"	DEM	41	355731		927	356658		7620	364278		1100	365378	
+H	"CHESTERFIELD-EVANS, Arthur"	DEM	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+H	"LARCOS, Andrew"	DEM	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+H	"ANDERSON, Troy"	DEM	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+I	"SCHOLLBACH, Robert Frederick"		-4216	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+I	"STIRLING, Amanda Jane"		0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+J	"SIMS, Richard"	ASP	7	74188		268	74456		54	74510		38	74548	
+J	"BOURKE, Robyn"	ASP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+J	"REDFERN, Daniel"	ASP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+J	"FRANICH, Rodney"	ASP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+K	"GALATI, Tony"		0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+K	"GALATI, Sam"		0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+L	"DUNCAN, Darelle"	AWP	14	17622		288	17910		62	17972		87	18059	
+L	"THEW, Sarah"	AWP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+M	"BUTLER, Robert H"		0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+M	"COSGROVE, Lindsay D"		0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+N	"BREEN, Peter"	ABR	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+N	"McNALLY, Kerry"	RPA	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+N	"HOUSEGO, Valerie"	ABR	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+N	"BEKELE, Assefa"	ABR	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+N	"FAHEY, Antoinette"	ABR	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+O	"VERHEYEN, John"	GRY	4	5272		-5272	0	Excluded	0	0	Excluded	0	0	Excluded
+O	"HETTERSCHEID, Theo"	GRY	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+O	"SEGERSTROM, Bob"	GRY	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+O	"PICKERING, Olga"	GRY	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+P	"KNOLES, Catherine"	NLP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+P	"JUDD, Ines"	NLP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+Q	"FINDLAY-BARNES, Teresa"	ABF	3	19181		747	19928		3540	23468		13766	37234	
+Q	"TRIBE, David"	ABF	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+R	"WEBSTER, Alasdair"	CTA	0	73106		944	74050		60	74110		42	74152	
+R	"WEBSTER, Elaine"	CTA	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+R	"McLENNAN, Graham Clarke"	CTA	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+R	"BIRD, Bill"	CTA	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+R	"COLEMAN, Bruce"	CTA	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+Ungrouped														
+	"JONES, Morris"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+	"IVOR, F"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+	"BARBARA, John"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+	"HURLEY, Jade"	IND	21	5980		-5980	0	Excluded	0	0	Excluded	0	0	Excluded
+	"PINNIGER, Gretel"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+	"UNDERWOOD, Dian"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+	"PATTERSON, Ray"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+	"PIGGIN, David"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+	"BRADLEY, Bill"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+	Exhausted Votes		2	93		46	139		17	156		21	177	
+	Loss by Fraction		1	188		6	194		2	196		2	198	
+														
+	Total Votes		4216	3682283		11252	3682283		12260	3682283		17394	3682283	
+														
+	Notes		Candidate Excluded			Candidates Excluded			Candidate Excluded			Candidate Excluded		
+			"Schollbach, R"			"Verheyen, J"			"Evans, B"			"Nash, C"		
+			 			"Hurley, J"								
+														
+														
+														
+				Count 191-195			Count 196-200			Count 201-205			Count 206-210	
+			Votes 	Progress		Votes	Progress		Votes	Progress		Votes	Progress	
+	Candidates		Transfd	Totals	Status	Transfd	Totals	Status	Transfd	Totals	Status	Transfd	Totals	Status
+A	"KITSON, David"	RARI	71	50340		191	50531		-50531	0	Excluded	0	0	Excluded
+A	"O'CALLAGHAN, Carolyn"	RARI	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+B	"WOODS, Bob"	LP	0	526041	Elected	0	526041	Elected	0	526041	Elected	0	526041	Elected
+B	"BROWNHILL, David"	NP	0	526041	Elected	0	526041	Elected	0	526041	Elected	0	526041	Elected
+B	"COONAN, Helen"	LP	121	473328		169	473497		7735	481232		3102	484334	
+B	"CONSTANTIN, Abraham"	LP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+C	"SPERLING, Karla"	GRN	16397	118452		23141	141593		769	142362		1653	144015	
+C	"DENTON, Peter"	GRN	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+C	"ELIX, Jane"	GRN	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+C	"MATSON, Murray"	GRN	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+D	"NASH, Chris"	NAN	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+D	"HALE, Sylvia"	NAN	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+E	"EVANS, Beryl"	SEN	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+E	"WELSH, Lorraine"	SEN	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+F	"PHILLIPS, John"	AFI	69	63547		159	63706		2327	66033		-66033	0	Excluded
+F	"O'REGAN, Bevan"	AFI	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+G	"WEST, Sue"	ALP	0	526041	Elected	0	526041	Elected	0	526041	Elected	0	526041	Elected
+G	"CHILDS, Bruce"	ALP	0	526041	Elected	0	526041	Elected	0	526041	Elected	0	526041	Elected
+G	"WHEELWRIGHT, Tom"	ALP	274	319638		206	319844		262	320106		1311	321417	
+G	"BARGHOUT, Rima"	ALP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+H	"BOURNE, Vicki"	DEM	639	366017		9565	375582		363	375945		2344	378289	
+H	"CHESTERFIELD-EVANS, Arthur"	DEM	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+H	"LARCOS, Andrew"	DEM	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+H	"ANDERSON, Troy"	DEM	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+I	"SCHOLLBACH, Robert Frederick"		0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+I	"STIRLING, Amanda Jane"		0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+J	"SIMS, Richard"	ASP	105	74653		3674	78327		204	78531		56603	135134	
+J	"BOURKE, Robyn"	ASP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+J	"REDFERN, Daniel"	ASP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+J	"FRANICH, Rodney"	ASP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+K	"GALATI, Tony"		0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+K	"GALATI, Sam"		0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+L	"DUNCAN, Darelle"	AWP	-18059	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+L	"THEW, Sarah"	AWP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+M	"BUTLER, Robert H"		0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+M	"COSGROVE, Lindsay D"		0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+N	"BREEN, Peter"	ABR	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+N	"McNALLY, Kerry"	RPA	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+N	"HOUSEGO, Valerie"	ABR	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+N	"BEKELE, Assefa"	ABR	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+N	"FAHEY, Antoinette"	ABR	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+O	"VERHEYEN, John"	GRY	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+O	"HETTERSCHEID, Theo"	GRY	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+O	"SEGERSTROM, Bob"	GRY	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+O	"PICKERING, Olga"	GRY	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+P	"KNOLES, Catherine"	NLP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+P	"JUDD, Ines"	NLP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+Q	"FINDLAY-BARNES, Teresa"	ABF	326	37560		-37560	0	Excluded	0	0	Excluded	0	0	Excluded
+Q	"TRIBE, David"	ABF	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+R	"WEBSTER, Alasdair"	CTA	35	74187		433	74620		38699	113319		898	114217	
+R	"WEBSTER, Elaine"	CTA	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+R	"McLENNAN, Graham Clarke"	CTA	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+R	"BIRD, Bill"	CTA	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+R	"COLEMAN, Bruce"	CTA	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+Ungrouped														
+	"JONES, Morris"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+	"IVOR, F"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+	"BARBARA, John"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+	"HURLEY, Jade"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+	"PINNIGER, Gretel"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+	"UNDERWOOD, Dian"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+	"PATTERSON, Ray"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+	"PIGGIN, David"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+	"BRADLEY, Bill"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+	Exhausted Votes		21	198		22	220		184	404		130	534	
+	Loss by Fraction		1	199		0	199		-12	187		-8	179	
+														
+	Total Votes		18059	3682283		37560	3682283		50531	3682283		66033	3682283	
+														
+	Notes		Candidate Excluded			Candidate Excluded			Candidate Excluded			Candidate Excluded		
+			"Duncan, D"			"Findlay-Barnes, T"			"Kitson, D"			"Phillips, J"		
+														
+														
+														
+				Count 211-215			Count 216			Count 217-222			Count 223	
+			Votes	Progress		Votes	Progress		Votes	Progress		Votes	Progress	
+	Candidates		Transfd	Total	Status	Transfd	Totals	Status	Transfd	Totals	Status	Transfd	Totals	Status
+A	"KITSON, David"	RARI	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+A	"O'CALLAGHAN, Carolyn"	RARI	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+B	"WOODS, Bob"	LP	0	526041	Elected	0	526041	Elected	0	526041	Elected	0	526041	Elected
+B	"BROWNHILL, David"	NP	0	526041	Elected	0	526041	Elected	0	526041	Elected	0	526041	Elected
+B	"COONAN, Helen"	LP	69344	553678	Elected	-27637	526041	Elected	0	526041	Elected	0	526041	Elected
+B	"CONSTANTIN, Abraham"	LP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+C	"SPERLING, Karla"	GRN	813	144828		313	145141		-145141	0	Excluded	0	0	Excluded
+C	"DENTON, Peter"	GRN	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+C	"ELIX, Jane"	GRN	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+C	"MATSON, Murray"	GRN	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+D	"NASH, Chris"	NAN	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+D	"HALE, Sylvia"	NAN	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+E	"EVANS, Beryl"	SEN	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+E	"WELSH, Lorraine"	SEN	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+F	"PHILLIPS, John"	AFI	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+F	"O'REGAN, Bevan"	AFI	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+G	"WEST, Sue"	ALP	0	526041	Elected	0	526041	Elected	0	526041	Elected	0	526041	Elected
+G	"CHILDS, Bruce"	ALP	0	526041	Elected	0	526041	Elected	0	526041	Elected	0	526041	Elected
+G	"WHEELWRIGHT, Tom"	ALP	1035	322452		48	322500		5206	327706		71696	399402	
+G	"BARGHOUT, Rima"	ALP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+H	"BOURNE, Vicki"	DEM	2556	380845		350	381195		136289	517484		106675	624159	Elected
+H	"CHESTERFIELD-EVANS, Arthur"	DEM	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+H	"LARCOS, Andrew"	DEM	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+H	"ANDERSON, Troy"	DEM	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+I	"SCHOLLBACH, Robert Frederick"		0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+I	"STIRLING, Amanda Jane"		0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+J	"SIMS, Richard"	ASP	40318	175452		26912	202364		3413	205777		-178638	27139	Excluded
+J	"BOURKE, Robyn"	ASP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+J	"REDFERN, Daniel"	ASP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+J	"FRANICH, Rodney"	ASP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+K	"GALATI, Tony"		0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+K	"GALATI, Sam"		0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+L	"DUNCAN, Darelle"	AWP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+L	"THEW, Sarah"	AWP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+M	"BUTLER, Robert H"		0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+M	"COSGROVE, Lindsay D"		0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+N	"BREEN, Peter"	ABR	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+N	"McNALLY, Kerry"	RPA	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+N	"HOUSEGO, Valerie"	ABR	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+N	"BEKELE, Assefa"	ABR	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+N	"FAHEY, Antoinette"	ABR	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+O	"VERHEYEN, John"	GRY	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+O	"HETTERSCHEID, Theo"	GRY	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+O	"SEGERSTROM, Bob"	GRY	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+O	"PICKERING, Olga"	GRY	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+P	"KNOLES, Catherine"	NLP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+P	"JUDD, Ines"	NLP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+Q	"FINDLAY-BARNES, Teresa"	ABF	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+Q	"TRIBE, David"	ABF	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+R	"WEBSTER, Alasdair"	CTA	-114217	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+R	"WEBSTER, Elaine"	CTA	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+R	"McLENNAN, Graham Clarke"	CTA	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+R	"BIRD, Bill"	CTA	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+R	"COLEMAN, Bruce"	CTA	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+Ungrouped														
+	"JONES, Morris"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+	"IVOR, F"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+	"BARBARA, John"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+	"HURLEY, Jade"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+	"PINNIGER, Gretel"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+	"UNDERWOOD, Dian"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+	"PATTERSON, Ray"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+	"PIGGIN, David"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+	"BRADLEY, Bill"	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+	Exhausted Votes		158	692		12	704		250	954		267	1221	
+	Loss by Fraction		-7	172		2	174		-17	157		0	157	
+														
+	Total Votes		114217	3682283		27637	3682283		145141	3682283		178638	3682283	
+														
+	Notes		Candidate Excluded			Surplus Distributed			Candidate Excluded			Candidate Partially Excluded		
+			"Webster, A"			"Coonan, H"			"Sperling, K"			"Sims, R"		
+														
+			Candidate Elected									Candidate Elected		
+			"5. Coonan, H"									"6. Bourne, V"		
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														

@@ -1,0 +1,547 @@
+House of Representatives - 2001 Election: New South Wales											
+Two Candidate Preferred Preference Flow Result 											
+By Polling Place											
+											
+Cunningham (81540)											
+		Candidate		"FIELDS, Jeremy"		             	"MARTIN, Stephen"		            	Total	
+				LP		                         	ALP		                        		
+				Votes	%	                     	Votes	%	                     		
+	Austinmer										
+			1st Prefs	249	40.29		369	59.71		618	
+		"CURTIS, John (HAN)"	30	15	50.00		15	50.00		30	
+		"PINK, J Edwin (NGST)"	2	0	0.00		2	100.00		2	
+		"BERRY, Carol (GRN)"	180	20	11.11		160	88.89		180	
+		"MOTT, Trevor (IND)"	58	21	36.21		37	63.79		58	
+		"NEWMAN, Michael (DEM)"	93	21	22.58		72	77.42		93	
+		"SKINNER, Paul (CTA)"	14	7	50.00		7	50.00		14	
+		Total	377	333	33.47		662	66.53		995	
+
+	Balgownie										
+			1st Prefs	445	47.70		488	52.30		933	
+		"CURTIS, John (HAN)"	40	27	67.50		13	32.50		40	
+		"PINK, J Edwin (NGST)"	3	0	0.00		3	100.00		3	
+		"BERRY, Carol (GRN)"	68	10	14.71		58	85.29		68	
+		"MOTT, Trevor (IND)"	73	39	53.42		34	46.58		73	
+		"NEWMAN, Michael (DEM)"	107	36	33.64		71	66.36		107	
+		"SKINNER, Paul (CTA)"	29	20	68.97		9	31.03		29	
+		Total	320	577	46.05		676	53.95		1253	
+
+	Balgownie Central										
+			1st Prefs	789	40.99		1136	59.01		1925	
+		"CURTIS, John (HAN)"	89	54	60.67		35	39.33		89	
+		"PINK, J Edwin (NGST)"	18	11	61.11		7	38.89		18	
+		"BERRY, Carol (GRN)"	103	17	16.50		86	83.50		103	
+		"MOTT, Trevor (IND)"	111	63	56.76		48	43.24		111	
+		"NEWMAN, Michael (DEM)"	141	40	28.37		101	71.63		141	
+		"SKINNER, Paul (CTA)"	43	27	62.79		16	37.21		43	
+		Total	505	1001	41.19		1429	58.81		2430	
+
+	Bellambi										
+			1st Prefs	196	19.66		801	80.34		997	
+		"CURTIS, John (HAN)"	82	41	50.00		41	50.00		82	
+		"PINK, J Edwin (NGST)"	31	12	38.71		19	61.29		31	
+		"BERRY, Carol (GRN)"	48	14	29.17		34	70.83		48	
+		"MOTT, Trevor (IND)"	80	27	33.75		53	66.25		80	
+		"NEWMAN, Michael (DEM)"	48	10	20.83		38	79.17		48	
+		"SKINNER, Paul (CTA)"	30	16	53.33		14	46.67		30	
+		Total	319	316	24.01		1000	75.99		1316	
+
+	Bulli										
+			1st Prefs	160	30.77		360	69.23		520	
+		"CURTIS, John (HAN)"	55	32	58.18		23	41.82		55	
+		"PINK, J Edwin (NGST)"	8	3	37.50		5	62.50		8	
+		"BERRY, Carol (GRN)"	44	5	11.36		39	88.64		44	
+		"MOTT, Trevor (IND)"	91	42	46.15		49	53.85		91	
+		"NEWMAN, Michael (DEM)"	59	17	28.81		42	71.19		59	
+		"SKINNER, Paul (CTA)"	6	2	33.33		4	66.67		6	
+		Total	263	261	33.33		522	66.67		783	
+
+	Bulli Central										
+			1st Prefs	525	33.65		1035	66.35		1560	
+		"CURTIS, John (HAN)"	133	83	62.41		50	37.59		133	
+		"PINK, J Edwin (NGST)"	26	12	46.15		14	53.85		26	
+		"BERRY, Carol (GRN)"	114	20	17.54		94	82.46		114	
+		"MOTT, Trevor (IND)"	405	120	29.63		285	70.37		405	
+		"NEWMAN, Michael (DEM)"	171	48	28.07		123	71.93		171	
+		"SKINNER, Paul (CTA)"	36	22	61.11		14	38.89		36	
+		Total	885	830	33.95		1615	66.05		2445	
+
+	Bulli Hospital										
+			1st Prefs	40	39.60		61	60.40		101	
+		"CURTIS, John (HAN)"	6	1	16.67		5	83.33		6	
+		"PINK, J Edwin (NGST)"	1	0	0.00		1	100.00		1	
+		"BERRY, Carol (GRN)"	11	4	36.36		7	63.64		11	
+		"MOTT, Trevor (IND)"	13	6	46.15		7	53.85		13	
+		"NEWMAN, Michael (DEM)"	10	0	0.00		10	100.00		10	
+		"SKINNER, Paul (CTA)"	2	2	100.00		0	0.00		2	
+		Total	43	53	36.81		91	63.19		144	
+
+	Coalcliff										
+			1st Prefs	25	34.72		47	65.28		72	
+		"CURTIS, John (HAN)"	11	10	90.91		1	9.09		11	
+		"PINK, J Edwin (NGST)"	0	0	0.00		0	0.00		0	
+		"BERRY, Carol (GRN)"	4	1	25.00		3	75.00		4	
+		"MOTT, Trevor (IND)"	8	4	50.00		4	50.00		8	
+		"NEWMAN, Michael (DEM)"	9	2	22.22		7	77.78		9	
+		"SKINNER, Paul (CTA)"	1	1	100.00		0	0.00		1	
+		Total	33	43	40.95		62	59.05		105	
+
+	Coledale										
+			1st Prefs	162	34.11		313	65.89		475	
+		"CURTIS, John (HAN)"	40	24	60.00		16	40.00		40	
+		"PINK, J Edwin (NGST)"	5	1	20.00		4	80.00		5	
+		"BERRY, Carol (GRN)"	162	13	8.02		149	91.98		162	
+		"MOTT, Trevor (IND)"	46	22	47.83		24	52.17		46	
+		"NEWMAN, Michael (DEM)"	47	11	23.40		36	76.60		47	
+		"SKINNER, Paul (CTA)"	12	7	58.33		5	41.67		12	
+		Total	312	240	30.50		547	69.50		787	
+
+	Coniston										
+			1st Prefs	346	27.03		934	72.97		1280	
+		"CURTIS, John (HAN)"	94	56	59.57		38	40.43		94	
+		"PINK, J Edwin (NGST)"	32	19	59.38		13	40.63		32	
+		"BERRY, Carol (GRN)"	90	28	31.11		62	68.89		90	
+		"MOTT, Trevor (IND)"	57	24	42.11		33	57.89		57	
+		"NEWMAN, Michael (DEM)"	125	42	33.60		83	66.40		125	
+		"SKINNER, Paul (CTA)"	27	16	59.26		11	40.74		27	
+		Total	425	531	31.14		1174	68.86		1705	
+
+	Cordeaux Heights										
+			1st Prefs	381	45.47		457	54.53		838	
+		"CURTIS, John (HAN)"	32	17	53.13		15	46.88		32	
+		"PINK, J Edwin (NGST)"	7	4	57.14		3	42.86		7	
+		"BERRY, Carol (GRN)"	27	7	25.93		20	74.07		27	
+		"MOTT, Trevor (IND)"	42	27	64.29		15	35.71		42	
+		"NEWMAN, Michael (DEM)"	95	41	43.16		54	56.84		95	
+		"SKINNER, Paul (CTA)"	66	49	74.24		17	25.76		66	
+		Total	269	526	47.52		581	52.48		1107	
+
+	Corrimal										
+			1st Prefs	587	31.59		1271	68.41		1858	
+		"CURTIS, John (HAN)"	121	86	71.07		35	28.93		121	
+		"PINK, J Edwin (NGST)"	33	14	42.42		19	57.58		33	
+		"BERRY, Carol (GRN)"	93	19	20.43		74	79.57		93	
+		"MOTT, Trevor (IND)"	98	44	44.90		54	55.10		98	
+		"NEWMAN, Michael (DEM)"	87	26	29.89		61	70.11		87	
+		"SKINNER, Paul (CTA)"	78	56	71.79		22	28.21		78	
+		Total	510	832	35.14		1536	64.86		2368	
+
+	Corrimal East										
+			1st Prefs	690	30.25		1591	69.75		2281	
+		"CURTIS, John (HAN)"	161	113	70.19		48	29.81		161	
+		"PINK, J Edwin (NGST)"	37	19	51.35		18	48.65		37	
+		"BERRY, Carol (GRN)"	142	31	21.83		111	78.17		142	
+		"MOTT, Trevor (IND)"	162	65	40.12		97	59.88		162	
+		"NEWMAN, Michael (DEM)"	168	42	25.00		126	75.00		168	
+		"SKINNER, Paul (CTA)"	76	54	71.05		22	28.95		76	
+		Total	746	1014	33.50		2013	66.50		3027	
+
+	Fairy Meadow										
+			1st Prefs	448	30.79		1007	69.21		1455	
+		"CURTIS, John (HAN)"	83	61	73.49		22	26.51		83	
+		"PINK, J Edwin (NGST)"	19	10	52.63		9	47.37		19	
+		"BERRY, Carol (GRN)"	97	21	21.65		76	78.35		97	
+		"MOTT, Trevor (IND)"	67	34	50.75		33	49.25		67	
+		"NEWMAN, Michael (DEM)"	115	20	17.39		95	82.61		115	
+		"SKINNER, Paul (CTA)"	36	22	61.11		14	38.89		36	
+		Total	417	616	32.91		1256	67.09		1872	
+
+	Fairy Meadow South										
+			1st Prefs	44	31.21		97	68.79		141	
+		"CURTIS, John (HAN)"	8	5	62.50		3	37.50		8	
+		"PINK, J Edwin (NGST)"	2	2	100.00		0	0.00		2	
+		"BERRY, Carol (GRN)"	20	4	20.00		16	80.00		20	
+		"MOTT, Trevor (IND)"	6	1	16.67		5	83.33		6	
+		"NEWMAN, Michael (DEM)"	16	4	25.00		12	75.00		16	
+		"SKINNER, Paul (CTA)"	4	4	100.00		0	0.00		4	
+		Total	56	64	32.49		133	67.51		197	
+
+	Figtree										
+			1st Prefs	1075	43.97		1370	56.03		2445	
+		"CURTIS, John (HAN)"	155	115	74.19		40	25.81		155	
+		"PINK, J Edwin (NGST)"	40	20	50.00		20	50.00		40	
+		"BERRY, Carol (GRN)"	155	39	25.16		116	74.84		155	
+		"MOTT, Trevor (IND)"	130	78	60.00		52	40.00		130	
+		"NEWMAN, Michael (DEM)"	275	85	30.91		190	69.09		275	
+		"SKINNER, Paul (CTA)"	136	105	77.21		31	22.79		136	
+		Total	891	1517	45.47		1819	54.53		3336	
+
+	Figtree Heights										
+			1st Prefs	501	53.35		438	46.65		939	
+		"CURTIS, John (HAN)"	50	24	48.00		26	52.00		50	
+		"PINK, J Edwin (NGST)"	14	7	50.00		7	50.00		14	
+		"BERRY, Carol (GRN)"	56	15	26.79		41	73.21		56	
+		"MOTT, Trevor (IND)"	90	48	53.33		42	46.67		90	
+		"NEWMAN, Michael (DEM)"	125	37	29.60		88	70.40		125	
+		"SKINNER, Paul (CTA)"	62	54	87.10		8	12.90		62	
+		Total	397	686	51.35		650	48.65		1336	
+
+	Gwynneville										
+			1st Prefs	338	33.01		686	66.99		1024	
+		"CURTIS, John (HAN)"	50	32	64.00		18	36.00		50	
+		"PINK, J Edwin (NGST)"	8	1	12.50		7	87.50		8	
+		"BERRY, Carol (GRN)"	106	17	16.04		89	83.96		106	
+		"MOTT, Trevor (IND)"	66	34	51.52		32	48.48		66	
+		"NEWMAN, Michael (DEM)"	163	43	26.38		120	73.62		163	
+		"SKINNER, Paul (CTA)"	51	38	74.51		13	25.49		51	
+		Total	444	503	34.26		965	65.74		1468	
+
+	Helensburgh										
+			1st Prefs	790	47.33		879	52.67		1669	
+		"CURTIS, John (HAN)"	156	97	62.18		59	37.82		156	
+		"PINK, J Edwin (NGST)"	27	13	48.15		14	51.85		27	
+		"BERRY, Carol (GRN)"	129	34	26.36		95	73.64		129	
+		"MOTT, Trevor (IND)"	83	20	24.10		63	75.90		83	
+		"NEWMAN, Michael (DEM)"	75	22	29.33		53	70.67		75	
+		"SKINNER, Paul (CTA)"	86	67	77.91		19	22.09		86	
+		Total	556	1043	46.88		1182	53.12		2225	
+
+	Helensburgh North										
+			1st Prefs	256	44.06		325	55.94		581	
+		"CURTIS, John (HAN)"	50	30	60.00		20	40.00		50	
+		"PINK, J Edwin (NGST)"	12	2	16.67		10	83.33		12	
+		"BERRY, Carol (GRN)"	44	12	27.27		32	72.73		44	
+		"MOTT, Trevor (IND)"	60	24	40.00		36	60.00		60	
+		"NEWMAN, Michael (DEM)"	33	5	15.15		28	84.85		33	
+		"SKINNER, Paul (CTA)"	28	15	53.57		13	46.43		28	
+		Total	227	344	42.57		464	57.43		808	
+
+	Keiraville										
+			1st Prefs	853	48.44		908	51.56		1761	
+		"CURTIS, John (HAN)"	100	68	68.00		32	32.00		100	
+		"PINK, J Edwin (NGST)"	16	6	37.50		10	62.50		16	
+		"BERRY, Carol (GRN)"	204	37	18.14		167	81.86		204	
+		"MOTT, Trevor (IND)"	207	115	55.56		92	44.44		207	
+		"NEWMAN, Michael (DEM)"	292	90	30.82		202	69.18		292	
+		"SKINNER, Paul (CTA)"	71	47	66.20		24	33.80		71	
+		Total	890	1216	45.87		1435	54.13		2651	
+
+	Lindsay Park										
+			1st Prefs	832	48.40		887	51.60		1719	
+		"CURTIS, John (HAN)"	104	78	75.00		26	25.00		104	
+		"PINK, J Edwin (NGST)"	15	6	40.00		9	60.00		15	
+		"BERRY, Carol (GRN)"	103	26	25.24		77	74.76		103	
+		"MOTT, Trevor (IND)"	120	67	55.83		53	44.17		120	
+		"NEWMAN, Michael (DEM)"	198	81	40.91		117	59.09		198	
+		"SKINNER, Paul (CTA)"	89	69	77.53		20	22.47		89	
+		Total	629	1159	49.36		1189	50.64		2348	
+
+	Mount Keira										
+			1st Prefs	206	49.28		212	50.72		418	
+		"CURTIS, John (HAN)"	26	20	76.92		6	23.08		26	
+		"PINK, J Edwin (NGST)"	0	0	0.00		0	0.00		0	
+		"BERRY, Carol (GRN)"	42	13	30.95		29	69.05		42	
+		"MOTT, Trevor (IND)"	37	22	59.46		15	40.54		37	
+		"NEWMAN, Michael (DEM)"	40	12	30.00		28	70.00		40	
+		"SKINNER, Paul (CTA)"	26	21	80.77		5	19.23		26	
+		Total	171	294	49.92		295	50.08		589	
+
+	Mount Kembla										
+			1st Prefs	171	44.65		212	55.35		383	
+		"CURTIS, John (HAN)"	26	13	50.00		13	50.00		26	
+		"PINK, J Edwin (NGST)"	3	2	66.67		1	33.33		3	
+		"BERRY, Carol (GRN)"	49	14	28.57		35	71.43		49	
+		"MOTT, Trevor (IND)"	48	22	45.83		26	54.17		48	
+		"NEWMAN, Michael (DEM)"	53	18	33.96		35	66.04		53	
+		"SKINNER, Paul (CTA)"	14	6	42.86		8	57.14		14	
+		Total	193	246	42.71		330	57.29		576	
+
+	Mount Ousley										
+			1st Prefs	641	46.69		732	53.31		1373	
+		"CURTIS, John (HAN)"	54	37	68.52		17	31.48		54	
+		"PINK, J Edwin (NGST)"	18	11	61.11		7	38.89		18	
+		"BERRY, Carol (GRN)"	117	20	17.09		97	82.91		117	
+		"MOTT, Trevor (IND)"	84	47	55.95		37	44.05		84	
+		"NEWMAN, Michael (DEM)"	142	47	33.10		95	66.90		142	
+		"SKINNER, Paul (CTA)"	49	39	79.59		10	20.41		49	
+		Total	464	842	45.84		995	54.16		1837	
+
+	Mount Saint Thomas										
+			1st Prefs	574	44.26		723	55.74		1297	
+		"CURTIS, John (HAN)"	64	46	71.88		18	28.13		64	
+		"PINK, J Edwin (NGST)"	28	11	39.29		17	60.71		28	
+		"BERRY, Carol (GRN)"	108	19	17.59		89	82.41		108	
+		"MOTT, Trevor (IND)"	96	58	60.42		38	39.58		96	
+		"NEWMAN, Michael (DEM)"	192	50	26.04		142	73.96		192	
+		"SKINNER, Paul (CTA)"	46	33	71.74		13	28.26		46	
+		Total	534	791	43.20		1040	56.80		1831	
+
+	Otford										
+			1st Prefs	52	46.43		60	53.57		112	
+		"CURTIS, John (HAN)"	16	11	68.75		5	31.25		16	
+		"PINK, J Edwin (NGST)"	1	0	0.00		1	100.00		1	
+		"BERRY, Carol (GRN)"	26	3	11.54		23	88.46		26	
+		"MOTT, Trevor (IND)"	2	0	0.00		2	100.00		2	
+		"NEWMAN, Michael (DEM)"	18	5	27.78		13	72.22		18	
+		"SKINNER, Paul (CTA)"	9	8	88.89		1	11.11		9	
+		Total	72	79	42.93		105	57.07		184	
+
+	Reidtown										
+			1st Prefs	225	32.99		457	67.01		682	
+		"CURTIS, John (HAN)"	39	31	79.49		8	20.51		39	
+		"PINK, J Edwin (NGST)"	17	8	47.06		9	52.94		17	
+		"BERRY, Carol (GRN)"	32	8	25.00		24	75.00		32	
+		"MOTT, Trevor (IND)"	55	28	50.91		27	49.09		55	
+		"NEWMAN, Michael (DEM)"	38	10	26.32		28	73.68		38	
+		"SKINNER, Paul (CTA)"	35	24	68.57		11	31.43		35	
+		Total	216	334	37.19		564	62.81		898	
+
+	Russell Vale										
+			1st Prefs	289	28.22		735	71.78		1024	
+		"CURTIS, John (HAN)"	81	47	58.02		34	41.98		81	
+		"PINK, J Edwin (NGST)"	17	9	52.94		8	47.06		17	
+		"BERRY, Carol (GRN)"	51	13	25.49		38	74.51		51	
+		"MOTT, Trevor (IND)"	99	50	50.51		49	49.49		99	
+		"NEWMAN, Michael (DEM)"	64	15	23.44		49	76.56		64	
+		"SKINNER, Paul (CTA)"	26	19	73.08		7	26.92		26	
+		Total	338	442	32.45		920	67.55		1362	
+
+	Scarborough										
+			1st Prefs	42	31.82		90	68.18		132	
+		"CURTIS, John (HAN)"	12	8	66.67		4	33.33		12	
+		"PINK, J Edwin (NGST)"	2	2	100.00		0	0.00		2	
+		"BERRY, Carol (GRN)"	34	3	8.82		31	91.18		34	
+		"MOTT, Trevor (IND)"	10	5	50.00		5	50.00		10	
+		"NEWMAN, Michael (DEM)"	17	3	17.65		14	82.35		17	
+		"SKINNER, Paul (CTA)"	6	5	83.33		1	16.67		6	
+		Total	81	68	31.92		145	68.08		213	
+
+	Smith's Hill										
+			1st Prefs	742	45.11		903	54.89		1645	
+		"CURTIS, John (HAN)"	60	41	68.33		19	31.67		60	
+		"PINK, J Edwin (NGST)"	16	7	43.75		9	56.25		16	
+		"BERRY, Carol (GRN)"	206	37	17.96		169	82.04		206	
+		"MOTT, Trevor (IND)"	98	55	56.12		43	43.88		98	
+		"NEWMAN, Michael (DEM)"	223	67	30.04		156	69.96		223	
+		"SKINNER, Paul (CTA)"	37	27	72.97		10	27.03		37	
+		Total	640	976	42.71		1309	57.29		2285	
+
+	Stanwell Park										
+			1st Prefs	188	47.24		210	52.76		398	
+		"CURTIS, John (HAN)"	23	15	65.22		8	34.78		23	
+		"PINK, J Edwin (NGST)"	7	2	28.57		5	71.43		7	
+		"BERRY, Carol (GRN)"	103	21	20.39		82	79.61		103	
+		"MOTT, Trevor (IND)"	73	32	43.84		41	56.16		73	
+		"NEWMAN, Michael (DEM)"	55	15	27.27		40	72.73		55	
+		"SKINNER, Paul (CTA)"	23	19	82.61		4	17.39		23	
+		Total	284	292	42.82		390	57.18		682	
+
+	Sydney (Cunningham)										
+			1st Prefs	34	47.89		37	52.11		71	
+		"CURTIS, John (HAN)"	2	0	0.00		2	100.00		2	
+		"PINK, J Edwin (NGST)"	0	0	0.00		0	0.00		0	
+		"BERRY, Carol (GRN)"	12	3	25.00		9	75.00		12	
+		"MOTT, Trevor (IND)"	4	2	50.00		2	50.00		4	
+		"NEWMAN, Michael (DEM)"	10	3	30.00		7	70.00		10	
+		"SKINNER, Paul (CTA)"	2	0	0.00		2	100.00		2	
+		Total	30	42	41.58		59	58.42		101	
+
+	Tarrawanna										
+			1st Prefs	506	35.73		910	64.27		1416	
+		"CURTIS, John (HAN)"	93	62	66.67		31	33.33		93	
+		"PINK, J Edwin (NGST)"	47	13	27.66		34	72.34		47	
+		"BERRY, Carol (GRN)"	68	10	14.71		58	85.29		68	
+		"MOTT, Trevor (IND)"	68	32	47.06		36	52.94		68	
+		"NEWMAN, Michael (DEM)"	78	26	33.33		52	66.67		78	
+		"SKINNER, Paul (CTA)"	27	18	66.67		9	33.33		27	
+		Total	381	667	37.12		1130	62.88		1797	
+
+	Thirroul										
+			1st Prefs	488	38.61		776	61.39		1264	
+		"CURTIS, John (HAN)"	90	49	54.44		41	45.56		90	
+		"PINK, J Edwin (NGST)"	11	5	45.45		6	54.55		11	
+		"BERRY, Carol (GRN)"	162	15	9.26		147	90.74		162	
+		"MOTT, Trevor (IND)"	179	83	46.37		96	53.63		179	
+		"NEWMAN, Michael (DEM)"	164	40	24.39		124	75.61		164	
+		"SKINNER, Paul (CTA)"	26	19	73.08		7	26.92		26	
+		Total	632	699	36.87		1197	63.13		1896	
+
+	Thirroul East										
+			1st Prefs	325	36.15		574	63.85		899	
+		"CURTIS, John (HAN)"	55	35	63.64		20	36.36		55	
+		"PINK, J Edwin (NGST)"	9	7	77.78		2	22.22		9	
+		"BERRY, Carol (GRN)"	221	20	9.05		201	90.95		221	
+		"MOTT, Trevor (IND)"	121	60	49.59		61	50.41		121	
+		"NEWMAN, Michael (DEM)"	89	13	14.61		76	85.39		89	
+		"SKINNER, Paul (CTA)"	17	11	64.71		6	35.29		17	
+		Total	512	471	33.38		940	66.62		1411	
+
+	Towradgi										
+			1st Prefs	273	24.62		836	75.38		1109	
+		"CURTIS, John (HAN)"	68	47	69.12		21	30.88		68	
+		"PINK, J Edwin (NGST)"	18	10	55.56		8	44.44		18	
+		"BERRY, Carol (GRN)"	56	16	28.57		40	71.43		56	
+		"MOTT, Trevor (IND)"	80	42	52.50		38	47.50		80	
+		"NEWMAN, Michael (DEM)"	73	24	32.88		49	67.12		73	
+		"SKINNER, Paul (CTA)"	25	17	68.00		8	32.00		25	
+		Total	320	429	30.02		1000	69.98		1429	
+
+	Towradgi East										
+			1st Prefs	155	37.90		254	62.10		409	
+		"CURTIS, John (HAN)"	25	17	68.00		8	32.00		25	
+		"PINK, J Edwin (NGST)"	4	2	50.00		2	50.00		4	
+		"BERRY, Carol (GRN)"	25	7	28.00		18	72.00		25	
+		"MOTT, Trevor (IND)"	22	18	81.82		4	18.18		22	
+		"NEWMAN, Michael (DEM)"	34	6	17.65		28	82.35		34	
+		"SKINNER, Paul (CTA)"	8	6	75.00		2	25.00		8	
+		Total	118	211	40.04		316	59.96		527	
+
+	Unanderra (Cunningham)										
+			1st Prefs	110	36.67		190	63.33		300	
+		"CURTIS, John (HAN)"	13	8	61.54		5	38.46		13	
+		"PINK, J Edwin (NGST)"	6	2	33.33		4	66.67		6	
+		"BERRY, Carol (GRN)"	13	4	30.77		9	69.23		13	
+		"MOTT, Trevor (IND)"	22	12	54.55		10	45.45		22	
+		"NEWMAN, Michael (DEM)"	27	6	22.22		21	77.78		27	
+		"SKINNER, Paul (CTA)"	15	9	60.00		6	40.00		15	
+		Total	96	151	38.13		245	61.87		396	
+
+	Wollongong										
+			1st Prefs	699	39.40		1075	60.60		1774	
+		"CURTIS, John (HAN)"	106	73	68.87		33	31.13		106	
+		"PINK, J Edwin (NGST)"	29	14	48.28		15	51.72		29	
+		"BERRY, Carol (GRN)"	273	41	15.02		232	84.98		273	
+		"MOTT, Trevor (IND)"	100	55	55.00		45	45.00		100	
+		"NEWMAN, Michael (DEM)"	221	63	28.51		158	71.49		221	
+		"SKINNER, Paul (CTA)"	60	43	71.67		17	28.33		60	
+		Total	789	988	38.55		1575	61.45		2563	
+
+	Wollongong Central										
+			1st Prefs	246	32.11		520	67.89		766	
+		"CURTIS, John (HAN)"	51	36	70.59		15	29.41		51	
+		"PINK, J Edwin (NGST)"	16	9	56.25		7	43.75		16	
+		"BERRY, Carol (GRN)"	69	15	21.74		54	78.26		69	
+		"MOTT, Trevor (IND)"	40	27	67.50		13	32.50		40	
+		"NEWMAN, Michael (DEM)"	59	17	28.81		42	71.19		59	
+		"SKINNER, Paul (CTA)"	19	10	52.63		9	47.37		19	
+		Total	254	360	35.29		660	64.71		1020	
+
+	Wollongong Hospital										
+			1st Prefs	56	26.92		152	73.08		208	
+		"CURTIS, John (HAN)"	15	9	60.00		6	40.00		15	
+		"PINK, J Edwin (NGST)"	8	1	12.50		7	87.50		8	
+		"BERRY, Carol (GRN)"	27	8	29.63		19	70.37		27	
+		"MOTT, Trevor (IND)"	3	1	33.33		2	66.67		3	
+		"NEWMAN, Michael (DEM)"	13	5	38.46		8	61.54		13	
+		"SKINNER, Paul (CTA)"	3	1	33.33		2	66.67		3	
+		Total	69	81	29.24		196	70.76		277	
+
+	Wollongong West										
+			1st Prefs	429	38.51		685	61.49		1114	
+		"CURTIS, John (HAN)"	56	37	66.07		19	33.93		56	
+		"PINK, J Edwin (NGST)"	19	8	42.11		11	57.89		19	
+		"BERRY, Carol (GRN)"	97	23	23.71		74	76.29		97	
+		"MOTT, Trevor (IND)"	91	49	53.85		42	46.15		91	
+		"NEWMAN, Michael (DEM)"	136	46	33.82		90	66.18		136	
+		"SKINNER, Paul (CTA)"	53	36	67.92		17	32.08		53	
+		Total	452	628	40.10		938	59.90		1566	
+
+	Wombarra										
+			1st Prefs	58	32.22		122	67.78		180	
+		"CURTIS, John (HAN)"	17	9	52.94		8	47.06		17	
+		"PINK, J Edwin (NGST)"	3	1	33.33		2	66.67		3	
+		"BERRY, Carol (GRN)"	44	8	18.18		36	81.82		44	
+		"MOTT, Trevor (IND)"	9	5	55.56		4	44.44		9	
+		"NEWMAN, Michael (DEM)"	23	5	21.74		18	78.26		23	
+		"SKINNER, Paul (CTA)"	0	0	0.00		0	0.00		0	
+		Total	96	86	31.16		190	68.84		276	
+
+	Woonona										
+			1st Prefs	366	36.60		634	63.40		1000	
+		"CURTIS, John (HAN)"	65	40	61.54		25	38.46		65	
+		"PINK, J Edwin (NGST)"	11	4	36.36		7	63.64		11	
+		"BERRY, Carol (GRN)"	103	18	17.48		85	82.52		103	
+		"MOTT, Trevor (IND)"	113	47	41.59		66	58.41		113	
+		"NEWMAN, Michael (DEM)"	146	46	31.51		100	68.49		146	
+		"SKINNER, Paul (CTA)"	21	16	76.19		5	23.81		21	
+		Total	459	537	36.81		922	63.19		1459	
+
+	Woonona Central										
+			1st Prefs	328	33.20		660	66.80		988	
+		"CURTIS, John (HAN)"	64	35	54.69		29	45.31		64	
+		"PINK, J Edwin (NGST)"	17	3	17.65		14	82.35		17	
+		"BERRY, Carol (GRN)"	96	18	18.75		78	81.25		96	
+		"MOTT, Trevor (IND)"	132	54	40.91		78	59.09		132	
+		"NEWMAN, Michael (DEM)"	69	16	23.19		53	76.81		69	
+		"SKINNER, Paul (CTA)"	27	15	55.56		12	44.44		27	
+		Total	405	469	33.67		924	66.33		1393	
+
+	Woonona East										
+			1st Prefs	501	35.16		924	64.84		1425	
+		"CURTIS, John (HAN)"	71	41	57.75		30	42.25		71	
+		"PINK, J Edwin (NGST)"	16	7	43.75		9	56.25		16	
+		"BERRY, Carol (GRN)"	89	21	23.60		68	76.40		89	
+		"MOTT, Trevor (IND)"	109	47	43.12		62	56.88		109	
+		"NEWMAN, Michael (DEM)"	116	42	36.21		74	63.79		116	
+		"SKINNER, Paul (CTA)"	40	25	62.50		15	37.50		40	
+		Total	441	684	36.66		1182	63.34		1866	
+
+	Special Hospitals										
+			1st Prefs	62	38.75		98	61.25		160	
+		"CURTIS, John (HAN)"	7	6	85.71		1	14.29		7	
+		"PINK, J Edwin (NGST)"	3	2	66.67		1	33.33		3	
+		"BERRY, Carol (GRN)"	1	0	0.00		1	100.00		1	
+		"MOTT, Trevor (IND)"	6	3	50.00		3	50.00		6	
+		"NEWMAN, Michael (DEM)"	5	2	40.00		3	60.00		5	
+		"SKINNER, Paul (CTA)"	0	0	0.00		0	0.00		0	
+		Total	22	75	41.21		107	58.79		182	
+
+	Total Ordinary										
+			1st Prefs	17498	38.26		28241	61.74		45739	
+		"CURTIS, John (HAN)"	2849	1842	64.65		1007	35.35		2849	
+		"PINK, J Edwin (NGST)"	682	302	44.28		380	55.72		682	
+		"BERRY, Carol (GRN)"	4124	772	18.72		3352	81.28		4124	
+		"MOTT, Trevor (IND)"	3774	1781	47.19		1993	52.81		3774	
+		"NEWMAN, Michael (DEM)"	4557	1325	29.08		3232	70.92		4557	
+		"SKINNER, Paul (CTA)"	1597	1127	70.57		470	29.43		1597	
+		Total	17583	24647	38.92		38675	61.08		63322	
+
+	ABSENT										
+			1st Prefs	1101	41.53		1550	58.47		2651	
+		"CURTIS, John (HAN)"	220	133	60.45		87	39.55		220	
+		"PINK, J Edwin (NGST)"	62	33	53.23		29	46.77		62	
+		"BERRY, Carol (GRN)"	408	107	26.23		301	73.77		408	
+		"MOTT, Trevor (IND)"	178	75	42.13		103	57.87		178	
+		"NEWMAN, Michael (DEM)"	317	94	29.65		223	70.35		317	
+		"SKINNER, Paul (CTA)"	103	67	65.05		36	34.95		103	
+		Total	1288	1610	40.87		2329	59.13		3939	
+
+	POSTAL										
+			1st Prefs	1058	44.57		1316	55.43		2374	
+		"CURTIS, John (HAN)"	187	104	55.61		83	44.39		187	
+		"PINK, J Edwin (NGST)"	34	11	32.35		23	67.65		34	
+		"BERRY, Carol (GRN)"	124	40	32.26		84	67.74		124	
+		"MOTT, Trevor (IND)"	124	69	55.65		55	44.35		124	
+		"NEWMAN, Michael (DEM)"	148	49	33.11		99	66.89		148	
+		"SKINNER, Paul (CTA)"	58	42	72.41		16	27.59		58	
+		Total	675	1373	45.03		1676	54.97		3049	
+
+	PRE_POLL										
+			1st Prefs	1039	41.61		1458	58.39		2497	
+		"CURTIS, John (HAN)"	153	94	61.44		59	38.56		153	
+		"PINK, J Edwin (NGST)"	48	18	37.50		30	62.50		48	
+		"BERRY, Carol (GRN)"	227	49	21.59		178	78.41		227	
+		"MOTT, Trevor (IND)"	149	86	57.72		63	42.28		149	
+		"NEWMAN, Michael (DEM)"	261	77	29.50		184	70.50		261	
+		"SKINNER, Paul (CTA)"	73	41	56.16		32	43.84		73	
+		Total	911	1404	41.20		2004	58.80		3408	
+
+	PROVISIONAL										
+			1st Prefs	64	28.96		157	71.04		221	
+		"CURTIS, John (HAN)"	16	10	62.50		6	37.50		16	
+		"PINK, J Edwin (NGST)"	14	7	50.00		7	50.00		14	
+		"BERRY, Carol (GRN)"	31	4	12.90		27	87.10		31	
+		"MOTT, Trevor (IND)"	10	7	70.00		3	30.00		10	
+		"NEWMAN, Michael (DEM)"	24	5	20.83		19	79.17		24	
+		"SKINNER, Paul (CTA)"	10	9	90.00		1	10.00		10	
+		Total	105	106	32.52		220	67.48		326	
+
+	Division Summary										
+			1st Prefs	20760	38.82		32722	61.18		53482	
+		"CURTIS, John (HAN)"	3425	2183	63.74		1242	36.26		3425	
+		"PINK, J Edwin (NGST)"	840	371	44.17		469	55.83		840	
+		"BERRY, Carol (GRN)"	4914	972	19.78		3942	80.22		4914	
+		"MOTT, Trevor (IND)"	4235	2018	47.65		2217	52.35		4235	
+		"NEWMAN, Michael (DEM)"	5307	1550	29.21		3757	70.79		5307	
+		"SKINNER, Paul (CTA)"	1841	1286	69.85		555	30.15		1841	
+		Total	20562	29140	39.35		44904	60.65		74044	

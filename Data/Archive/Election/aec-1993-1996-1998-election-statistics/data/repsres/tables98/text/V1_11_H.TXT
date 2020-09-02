@@ -1,0 +1,214 @@
+House of Representatives - 1998 Election				
+Turnout				
+By Division				
+				
+National Summary				
+State		Turnout %	Swing	
+New South Wales		94.85	-1.53	
+Victoria		95.61	-0.50	
+Queensland		94.24	-0.37	
+Western Australia		94.66	-29.00	
+South Australia		95.67	-0.22	
+Tasmania		96.12	-0.47	
+Australian Capital Territory		95.65	-1.02	
+Northern Territory		90.33	1.23	
+National Average		94.99	-0.78	
+				
+				
+New South Wales				
+Division		Turnout %	Swing	
+Banks		95.16	-1.68	
+Barton		94.66	-2.15	
+Bennelong		95.07	-1.67	
+Berowra		95.17	-1.42	
+Blaxland		94.31	-1.75	
+Bradfield		94.61	-1.84	
+Calare		96.20	-0.62	
+Charlton		96.20	-1.14	
+Chifley		94.68	-1.37	
+Cook		95.28	-1.49	
+Cowper		95.19	-0.99	
+Cunningham		95.27	-1.26	
+Dobell		95.69	-1.05	
+Eden-Monaro		95.79	-0.17
+Farrer		95.91	-0.11
+Fowler		93.93	-1.93
+Gilmore		96.21	-0.86
+Grayndler		92.59	-2.65
+Greenway		95.09	-1.11
+Gwydir		95.37	-1.34
+Hughes		96.21	-1.26
+Hume		96.26	-0.68
+Hunter		96.16	-0.89
+Kingsford-Smith		93.79	-1.21
+Lindsay		96.02	-0.09
+Lowe		94.95	-1.51
+Lyne		96.15	-0.67
+Macarthur		95.49	-1.25
+Mackellar		94.67	-1.80
+Macquarie		95.40	-1.18
+Mitchell		95.62	-1.50
+Newcastle		88.37	-8.40
+New England		95.18	-0.91
+North Sydney		93.09	-2.04
+Page		95.99	-0.59
+Parkes		94.88	-0.98
+Parramatta		94.89	-1.51
+Paterson		96.69	-0.66
+Prospect		95.08	-1.19
+Reid		93.16	-3.15
+Richmond		94.95	-1.06
+Riverina		95.91	-1.11
+Robertson		95.92	-1.16
+Shortland		96.23	-1.04
+Sydney		90.25	-2.60
+Throsby		95.75	-1.34	
+Warringah		93.60	-2.51	
+Watson		93.41	-2.63	
+Wentworth		91.95	-3.46	
+Werriwa		94.54	-1.28	
+New South Wales Average		94.85	-1.53	
+				
+				
+
+Victoria				
+Division		Turnout %	Swing	
+Aston		96.64	-0.38	
+Ballarat		96.73	-0.09	
+Batman		94.48	-0.75	
+Bendigo		97.01	0.08	
+Bruce		96.19	-0.26	
+Burke		95.98	-0.23
+Calwell		95.15	-0.48
+Casey		96.11	-0.55
+Chisholm		95.68	-0.51
+Corangamite		95.79	-0.90
+Corio		95.64	-1.05
+Deakin		96.05	-0.61
+Dunkley		96.03	-0.39
+Flinders		96.26	-0.14
+Gellibrand		93.75	-0.61
+Gippsland		95.98	-0.92
+Goldstein		94.94	-0.72
+Higgins		94.08	-0.95
+Holt		95.21	-0.47
+Hotham		95.29	-0.56
+Indi		96.18	0.25
+Isaacs		96.21	0.00
+Jagajaga		96.11	-0.78
+Kooyong		95.28	-1.11
+Lalor		96.43	0.10
+La Trobe		96.10	-0.36
+McEwen		96.17	-0.56
+McMillan		96.53	-0.31
+Mallee		96.13	-0.59
+Maribyrnong		95.43	-0.55
+Melbourne		92.79	0.46
+Melbourne Ports		92.34	-1.10
+Menzies		95.79	-0.85
+Murray		96.05	-0.86
+Scullin		96.18	-0.48
+Wannon		96.79	-0.72
+Wills		94.55	-0.44
+Victorian Average		95.61	-0.50	
+				
+				
+
+Queensland				
+Division		Turnout %	Swing	
+Blair		95.28	N/A	
+Bowman		95.02	-0.49	
+Brisbane		92.78	0.03	
+Capricornia		95.25	-0.17	
+Dawson		95.01	0.07	
+Dickson		95.69	-0.33	
+Fadden		93.64	-1.18	
+Fairfax		93.71	-0.46	
+Fisher		94.02	-0.87	
+Forde		93.23	-0.28	
+Griffith		94.45	-0.31
+Groom		95.27	-0.26
+Herbert		94.68	0.56
+Hinkler		95.40	-0.06
+Kennedy		93.15	-0.50
+Leichhardt		91.97	-0.35
+Lilley		94.37	-0.19
+Longman		94.66	-0.92
+McPherson		93.81	-0.14
+Maranoa		94.58	-0.81
+Moncrieff		92.67	-0.51
+Moreton		94.26	-0.57
+Oxley		94.60	-0.34
+Petrie		94.68	-0.36
+Rankin		93.07	-0.44
+Ryan		94.39	-0.80
+Wide Bay		95.07	-0.85	
+Queensland Average		94.24	-0.37	
+				
+				
+
+Western Australia				
+Division		Turnout %	Swing	
+Brand		95.35	0.15	
+Canning		95.25	-0.32	
+Cowan		96.14	0.21	
+Curtin		94.42	-0.83	
+Forrest		95.85	-0.04	
+Fremantle		94.88	-0.86	
+Kalgoorlie		86.97	-1.86	
+Moore		95.71	-0.11	
+O'Connor		95.33	0.21	
+Pearce		95.25	-0.63	
+Perth		94.32	0.37	
+Stirling		95.27	0.28	
+Swan		95.05	0.52	
+Tangney		95.70	-0.31	
+Western Australian Average		94.66	-0.29	
+				
+				
+
+South Australia				
+		House of Representatives		
+Division		Turnout %	Swing	
+Adelaide		94.41	-0.13	
+Barker		96.52	0.04	
+Bonython		95.69	-0.56	
+Boothby		95.80	0.09	
+Grey		94.64	-0.39	
+Hindmarsh		95.64	-0.14	
+Kingston		96.22	-0.41	
+Makin		96.31	-0.18	
+Mayo		95.91	-0.27	
+Port Adelaide		95.62	-0.01	
+Sturt		95.20	0.00	
+Wakefield		95.87	-0.75	
+South Australian Average		95.67	-0.22	
+				
+				
+				
+Tasmania				
+Division		Turnout %	Swing	
+Bass		96.00	-0.26	
+Braddon		96.54	-0.27	
+Denison		95.38	-0.84	
+Franklin		96.05	-0.79	
+Lyons		96.62	-0.17	
+Tasmanian Average		96.12	-0.47	
+				
+				
+				
+Australian Capital Territory				
+Division		Turnout %	Swing	
+Canberra		95.91	0.04	
+Fraser		95.39	-1.45	
+Australian Capital Territory Average		95.65	-1.02	
+				
+				
+
+Northern Territory				
+Division		Turnout %	Swing	
+Northern Territory		90.33	1.23	
+Northern Territory Average		90.33	1.23	
+
+
+National Average		94.99	-0.78	

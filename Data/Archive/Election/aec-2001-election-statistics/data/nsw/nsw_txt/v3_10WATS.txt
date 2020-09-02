@@ -1,0 +1,421 @@
+House of Representatives - 2001 Election: New South Wales											
+Two Candidate Preferred Preference Flow Result											
+By Polling Place											
+											
+Watson (81961)											
+		Candidate		"MCLEAY, Leo"		                	"PLOOY, Arnold"		              	Total	
+				ALP		                        	LP		                         		
+				Votes	%	                     	Votes	%	                     		
+	Bardwell Park										
+			1st Prefs	429	49.88		431	50.12		860	
+		"NAM, Ken (UNI)"	28	21	75.00		7	25.00		28	
+		"GRIFFITHS, Kristin (DEM)"	49	36	73.47		13	26.53		49	
+		"POULSEN, Ronald ()"	6	3	50.00		3	50.00		6	
+		"FITZSIMMONS, Dominic (GRN)"	34	21	61.76		13	38.24		34	
+		"FARRELL, Michelle (HAN)"	25	8	32.00		17	68.00		25	
+		Total	142	518	51.70		484	48.30		1002	
+
+	Belmore Central										
+			1st Prefs	730	76.68		222	23.32		952	
+		"NAM, Ken (UNI)"	68	63	92.65		5	7.35		68	
+		"GRIFFITHS, Kristin (DEM)"	38	24	63.16		14	36.84		38	
+		"POULSEN, Ronald ()"	2	2	100.00		0	0.00		2	
+		"FITZSIMMONS, Dominic (GRN)"	28	15	53.57		13	46.43		28	
+		"FARRELL, Michelle (HAN)"	36	9	25.00		27	75.00		36	
+		Total	172	843	75.00		281	25.00		1124	
+
+	Belmore North										
+			1st Prefs	1620	79.30		423	20.70		2043	
+		"NAM, Ken (UNI)"	126	113	89.68		13	10.32		126	
+		"GRIFFITHS, Kristin (DEM)"	106	73	68.87		33	31.13		106	
+		"POULSEN, Ronald ()"	10	5	50.00		5	50.00		10	
+		"FITZSIMMONS, Dominic (GRN)"	67	53	79.10		14	20.90		67	
+		"FARRELL, Michelle (HAN)"	56	25	44.64		31	55.36		56	
+		Total	365	1889	78.45		519	21.55		2408	
+
+	Belmore South										
+			1st Prefs	1393	72.48		529	27.52		1922	
+		"NAM, Ken (UNI)"	77	72	93.51		5	6.49		77	
+		"GRIFFITHS, Kristin (DEM)"	79	56	70.89		23	29.11		79	
+		"POULSEN, Ronald ()"	7	5	71.43		2	28.57		7	
+		"FITZSIMMONS, Dominic (GRN)"	42	32	76.19		10	23.81		42	
+		"FARRELL, Michelle (HAN)"	55	27	49.09		28	50.91		55	
+		Total	260	1585	72.64		597	27.36		2182	
+
+	Beverly Hills										
+			1st Prefs	511	55.06		417	44.94		928	
+		"NAM, Ken (UNI)"	31	26	83.87		5	16.13		31	
+		"GRIFFITHS, Kristin (DEM)"	29	22	75.86		7	24.14		29	
+		"POULSEN, Ronald ()"	1	1	100.00		0	0.00		1	
+		"FITZSIMMONS, Dominic (GRN)"	29	18	62.07		11	37.93		29	
+		"FARRELL, Michelle (HAN)"	41	14	34.15		27	65.85		41	
+		Total	131	592	55.90		467	44.10		1059	
+
+	Beverly Hills South (Watson)										
+			1st Prefs	393	60.55		256	39.45		649	
+		"NAM, Ken (UNI)"	27	23	85.19		4	14.81		27	
+		"GRIFFITHS, Kristin (DEM)"	27	22	81.48		5	18.52		27	
+		"POULSEN, Ronald ()"	1	0	0.00		1	100.00		1	
+		"FITZSIMMONS, Dominic (GRN)"	16	11	68.75		5	31.25		16	
+		"FARRELL, Michelle (HAN)"	28	11	39.29		17	60.71		28	
+		Total	99	460	61.50		288	38.50		748	
+
+	Bexley North										
+			1st Prefs	523	54.31		440	45.69		963	
+		"NAM, Ken (UNI)"	32	28	87.50		4	12.50		32	
+		"GRIFFITHS, Kristin (DEM)"	43	35	81.40		8	18.60		43	
+		"POULSEN, Ronald ()"	4	2	50.00		2	50.00		4	
+		"FITZSIMMONS, Dominic (GRN)"	41	33	80.49		8	19.51		41	
+		"FARRELL, Michelle (HAN)"	36	13	36.11		23	63.89		36	
+		Total	156	634	56.66		485	43.34		1119	
+
+	Bexley West										
+			1st Prefs	955	58.16		687	41.84		1642	
+		"NAM, Ken (UNI)"	45	39	86.67		6	13.33		45	
+		"GRIFFITHS, Kristin (DEM)"	89	70	78.65		19	21.35		89	
+		"POULSEN, Ronald ()"	7	3	42.86		4	57.14		7	
+		"FITZSIMMONS, Dominic (GRN)"	52	43	82.69		9	17.31		52	
+		"FARRELL, Michelle (HAN)"	68	29	42.65		39	57.35		68	
+		Total	261	1139	59.85		764	40.15		1903	
+
+	Brighton Avenue										
+			1st Prefs	1160	61.38		730	38.62		1890	
+		"NAM, Ken (UNI)"	101	90	89.11		11	10.89		101	
+		"GRIFFITHS, Kristin (DEM)"	96	67	69.79		29	30.21		96	
+		"POULSEN, Ronald ()"	12	7	58.33		5	41.67		12	
+		"FITZSIMMONS, Dominic (GRN)"	147	121	82.31		26	17.69		147	
+		"FARRELL, Michelle (HAN)"	65	27	41.54		38	58.46		65	
+		Total	421	1472	63.70		839	36.30		2311	
+
+	Campsie										
+			1st Prefs	1565	87.33		227	12.67		1792	
+		"NAM, Ken (UNI)"	185	170	91.89		15	8.11		185	
+		"GRIFFITHS, Kristin (DEM)"	46	35	76.09		11	23.91		46	
+		"POULSEN, Ronald ()"	5	4	80.00		1	20.00		5	
+		"FITZSIMMONS, Dominic (GRN)"	73	66	90.41		7	9.59		73	
+		"FARRELL, Michelle (HAN)"	25	5	20.00		20	80.00		25	
+		Total	334	1845	86.78		281	13.22		2126	
+
+	Campsie South										
+			1st Prefs	985	78.49		270	21.51		1255	
+		"NAM, Ken (UNI)"	111	97	87.39		14	12.61		111	
+		"GRIFFITHS, Kristin (DEM)"	39	27	69.23		12	30.77		39	
+		"POULSEN, Ronald ()"	5	3	60.00		2	40.00		5	
+		"FITZSIMMONS, Dominic (GRN)"	30	21	70.00		9	30.00		30	
+		"FARRELL, Michelle (HAN)"	24	6	25.00		18	75.00		24	
+		Total	209	1139	77.80		325	22.20		1464	
+
+	Canterbury										
+			1st Prefs	372	71.81		146	28.19		518	
+		"NAM, Ken (UNI)"	39	34	87.18		5	12.82		39	
+		"GRIFFITHS, Kristin (DEM)"	23	14	60.87		9	39.13		23	
+		"POULSEN, Ronald ()"	3	3	100.00		0	0.00		3	
+		"FITZSIMMONS, Dominic (GRN)"	23	16	69.57		7	30.43		23	
+		"FARRELL, Michelle (HAN)"	23	7	30.43		16	69.57		23	
+		Total	111	446	70.91		183	29.09		629	
+
+	Canterbury Hospital										
+			1st Prefs	319	73.33		116	26.67		435	
+		"NAM, Ken (UNI)"	31	27	87.10		4	12.90		31	
+		"GRIFFITHS, Kristin (DEM)"	19	13	68.42		6	31.58		19	
+		"POULSEN, Ronald ()"	6	6	100.00		0	0.00		6	
+		"FITZSIMMONS, Dominic (GRN)"	12	10	83.33		2	16.67		12	
+		"FARRELL, Michelle (HAN)"	15	1	6.67		14	93.33		15	
+		Total	83	376	72.59		142	27.41		518	
+
+	Canterbury South										
+			1st Prefs	879	76.50		270	23.50		1149	
+		"NAM, Ken (UNI)"	50	47	94.00		3	6.00		50	
+		"GRIFFITHS, Kristin (DEM)"	58	39	67.24		19	32.76		58	
+		"POULSEN, Ronald ()"	5	3	60.00		2	40.00		5	
+		"FITZSIMMONS, Dominic (GRN)"	41	39	95.12		2	4.88		41	
+		"FARRELL, Michelle (HAN)"	34	17	50.00		17	50.00		34	
+		Total	188	1024	76.59		313	23.41		1337	
+
+	Carlton West										
+			1st Prefs	243	65.85		126	34.15		369	
+		"NAM, Ken (UNI)"	19	15	78.95		4	21.05		19	
+		"GRIFFITHS, Kristin (DEM)"	20	9	45.00		11	55.00		20	
+		"POULSEN, Ronald ()"	0	0	0.00		0	0.00		0	
+		"FITZSIMMONS, Dominic (GRN)"	9	7	77.78		2	22.22		9	
+		"FARRELL, Michelle (HAN)"	10	4	40.00		6	60.00		10	
+		Total	58	278	65.11		149	34.89		427	
+
+	Clemton Park										
+			1st Prefs	2134	66.07		1096	33.93		3230	
+		"NAM, Ken (UNI)"	126	100	79.37		26	20.63		126	
+		"GRIFFITHS, Kristin (DEM)"	121	80	66.12		41	33.88		121	
+		"POULSEN, Ronald ()"	16	8	50.00		8	50.00		16	
+		"FITZSIMMONS, Dominic (GRN)"	125	103	82.40		22	17.60		125	
+		"FARRELL, Michelle (HAN)"	175	43	24.57		132	75.43		175	
+		Total	563	2468	65.07		1325	34.93		3793	
+
+	Earlwood										
+			1st Prefs	504	62.30		305	37.70		809	
+		"NAM, Ken (UNI)"	18	16	88.89		2	11.11		18	
+		"GRIFFITHS, Kristin (DEM)"	42	30	71.43		12	28.57		42	
+		"POULSEN, Ronald ()"	2	2	100.00		0	0.00		2	
+		"FITZSIMMONS, Dominic (GRN)"	28	22	78.57		6	21.43		28	
+		"FARRELL, Michelle (HAN)"	21	8	38.10		13	61.90		21	
+		Total	111	582	63.26		338	36.74		920	
+
+	Earlwood North										
+			1st Prefs	929	57.74		680	42.26		1609	
+		"NAM, Ken (UNI)"	42	33	78.57		9	21.43		42	
+		"GRIFFITHS, Kristin (DEM)"	74	56	75.68		18	24.32		74	
+		"POULSEN, Ronald ()"	5	2	40.00		3	60.00		5	
+		"FITZSIMMONS, Dominic (GRN)"	115	91	79.13		24	20.87		115	
+		"FARRELL, Michelle (HAN)"	46	9	19.57		37	80.43		46	
+		Total	282	1120	59.23		771	40.77		1891	
+
+	Earlwood South										
+			1st Prefs	1414	65.10		758	34.90		2172	
+		"NAM, Ken (UNI)"	65	62	95.38		3	4.62		65	
+		"GRIFFITHS, Kristin (DEM)"	128	86	67.19		42	32.81		128	
+		"POULSEN, Ronald ()"	14	9	64.29		5	35.71		14	
+		"FITZSIMMONS, Dominic (GRN)"	106	78	73.58		28	26.42		106	
+		"FARRELL, Michelle (HAN)"	46	18	39.13		28	60.87		46	
+		Total	359	1667	65.86		864	34.14		2531	
+
+	Gilchrist Park										
+			1st Prefs	587	58.18		422	41.82		1009	
+		"NAM, Ken (UNI)"	34	28	82.35		6	17.65		34	
+		"GRIFFITHS, Kristin (DEM)"	35	21	60.00		14	40.00		35	
+		"POULSEN, Ronald ()"	3	2	66.67		1	33.33		3	
+		"FITZSIMMONS, Dominic (GRN)"	37	26	70.27		11	29.73		37	
+		"FARRELL, Michelle (HAN)"	45	16	35.56		29	64.44		45	
+		Total	154	680	58.47		483	41.53		1163	
+
+	Harcourt										
+			1st Prefs	1714	73.31		624	26.69		2338	
+		"NAM, Ken (UNI)"	206	188	91.26		18	8.74		206	
+		"GRIFFITHS, Kristin (DEM)"	78	49	62.82		29	37.18		78	
+		"POULSEN, Ronald ()"	9	6	66.67		3	33.33		9	
+		"FITZSIMMONS, Dominic (GRN)"	63	50	79.37		13	20.63		63	
+		"FARRELL, Michelle (HAN)"	72	21	29.17		51	70.83		72	
+		Total	428	2028	73.32		738	26.68		2766	
+
+	Harcourt Central										
+			1st Prefs	1096	79.08		290	20.92		1386	
+		"NAM, Ken (UNI)"	168	155	92.26		13	7.74		168	
+		"GRIFFITHS, Kristin (DEM)"	36	30	83.33		6	16.67		36	
+		"POULSEN, Ronald ()"	4	3	75.00		1	25.00		4	
+		"FITZSIMMONS, Dominic (GRN)"	27	18	66.67		9	33.33		27	
+		"FARRELL, Michelle (HAN)"	42	13	30.95		29	69.05		42	
+		Total	277	1315	79.07		348	20.93		1663	
+
+	Harcourt North										
+			1st Prefs	563	65.54		296	34.46		859	
+		"NAM, Ken (UNI)"	51	44	86.27		7	13.73		51	
+		"GRIFFITHS, Kristin (DEM)"	37	29	78.38		8	21.62		37	
+		"POULSEN, Ronald ()"	5	2	40.00		3	60.00		5	
+		"FITZSIMMONS, Dominic (GRN)"	26	22	84.62		4	15.38		26	
+		"FARRELL, Michelle (HAN)"	29	19	65.52		10	34.48		29	
+		Total	148	679	67.43		328	32.57		1007	
+
+	Hurstville										
+			1st Prefs	1195	65.23		637	34.77		1832	
+		"NAM, Ken (UNI)"	119	105	88.24		14	11.76		119	
+		"GRIFFITHS, Kristin (DEM)"	124	97	78.23		27	21.77		124	
+		"POULSEN, Ronald ()"	8	4	50.00		4	50.00		8	
+		"FITZSIMMONS, Dominic (GRN)"	64	55	85.94		9	14.06		64	
+		"FARRELL, Michelle (HAN)"	37	18	48.65		19	51.35		37	
+		Total	352	1474	67.49		710	32.51		2184	
+
+	Hurstville East										
+			1st Prefs	887	64.70		484	35.30		1371	
+		"NAM, Ken (UNI)"	109	94	86.24		15	13.76		109	
+		"GRIFFITHS, Kristin (DEM)"	75	51	68.00		24	32.00		75	
+		"POULSEN, Ronald ()"	9	6	66.67		3	33.33		9	
+		"FITZSIMMONS, Dominic (GRN)"	43	30	69.77		13	30.23		43	
+		"FARRELL, Michelle (HAN)"	50	20	40.00		30	60.00		50	
+		Total	286	1088	65.66		569	34.34		1657	
+
+	Hurstville North										
+			1st Prefs	966	56.33		749	43.67		1715	
+		"NAM, Ken (UNI)"	80	70	87.50		10	12.50		80	
+		"GRIFFITHS, Kristin (DEM)"	99	76	76.77		23	23.23		99	
+		"POULSEN, Ronald ()"	9	6	66.67		3	33.33		9	
+		"FITZSIMMONS, Dominic (GRN)"	70	55	78.57		15	21.43		70	
+		"FARRELL, Michelle (HAN)"	84	38	45.24		46	54.76		84	
+		Total	342	1211	58.87		846	41.13		2057	
+
+	Kingsgrove										
+			1st Prefs	1067	60.83		687	39.17		1754	
+		"NAM, Ken (UNI)"	59	54	91.53		5	8.47		59	
+		"GRIFFITHS, Kristin (DEM)"	63	39	61.90		24	38.10		63	
+		"POULSEN, Ronald ()"	8	7	87.50		1	12.50		8	
+		"FITZSIMMONS, Dominic (GRN)"	58	46	79.31		12	20.69		58	
+		"FARRELL, Michelle (HAN)"	60	24	40.00		36	60.00		60	
+		Total	248	1237	61.79		765	38.21		2002	
+
+	Kingsgrove North										
+			1st Prefs	435	62.86		257	37.14		692	
+		"NAM, Ken (UNI)"	27	21	77.78		6	22.22		27	
+		"GRIFFITHS, Kristin (DEM)"	19	15	78.95		4	21.05		19	
+		"POULSEN, Ronald ()"	1	1	100.00		0	0.00		1	
+		"FITZSIMMONS, Dominic (GRN)"	23	16	69.57		7	30.43		23	
+		"FARRELL, Michelle (HAN)"	32	13	40.63		19	59.38		32	
+		Total	102	501	63.10		293	36.90		794	
+
+	Kingsgrove South										
+			1st Prefs	551	64.22		307	35.78		858	
+		"NAM, Ken (UNI)"	46	45	97.83		1	2.17		46	
+		"GRIFFITHS, Kristin (DEM)"	45	33	73.33		12	26.67		45	
+		"POULSEN, Ronald ()"	6	3	50.00		3	50.00		6	
+		"FITZSIMMONS, Dominic (GRN)"	25	20	80.00		5	20.00		25	
+		"FARRELL, Michelle (HAN)"	13	9	69.23		4	30.77		13	
+		Total	135	661	66.57		332	33.43		993	
+
+	Lakemba										
+			1st Prefs	1284	82.41		274	17.59		1558	
+		"NAM, Ken (UNI)"	118	110	93.22		8	6.78		118	
+		"GRIFFITHS, Kristin (DEM)"	63	50	79.37		13	20.63		63	
+		"POULSEN, Ronald ()"	10	8	80.00		2	20.00		10	
+		"FITZSIMMONS, Dominic (GRN)"	60	53	88.33		7	11.67		60	
+		"FARRELL, Michelle (HAN)"	46	14	30.43		32	69.57		46	
+		Total	297	1519	81.89		336	18.11		1855	
+
+	Lakemba Central										
+			1st Prefs	1112	73.79		395	26.21		1507	
+		"NAM, Ken (UNI)"	82	69	84.15		13	15.85		82	
+		"GRIFFITHS, Kristin (DEM)"	60	46	76.67		14	23.33		60	
+		"POULSEN, Ronald ()"	10	4	40.00		6	60.00		10	
+		"FITZSIMMONS, Dominic (GRN)"	87	77	88.51		10	11.49		87	
+		"FARRELL, Michelle (HAN)"	43	12	27.91		31	72.09		43	
+		Total	282	1320	73.78		469	26.22		1789	
+
+	Lakemba North										
+			1st Prefs	1241	85.88		204	14.12		1445	
+		"NAM, Ken (UNI)"	131	119	90.84		12	9.16		131	
+		"GRIFFITHS, Kristin (DEM)"	28	20	71.43		8	28.57		28	
+		"POULSEN, Ronald ()"	3	1	33.33		2	66.67		3	
+		"FITZSIMMONS, Dominic (GRN)"	45	35	77.78		10	22.22		45	
+		"FARRELL, Michelle (HAN)"	26	12	46.15		14	53.85		26	
+		Total	233	1428	85.10		250	14.90		1678	
+
+	Mccallums Hill										
+			1st Prefs	1773	61.84		1094	38.16		2867	
+		"NAM, Ken (UNI)"	92	82	89.13		10	10.87		92	
+		"GRIFFITHS, Kristin (DEM)"	135	105	77.78		30	22.22		135	
+		"POULSEN, Ronald ()"	14	8	57.14		6	42.86		14	
+		"FITZSIMMONS, Dominic (GRN)"	95	72	75.79		23	24.21		95	
+		"FARRELL, Michelle (HAN)"	160	52	32.50		108	67.50		160	
+		Total	496	2092	62.21		1271	37.79		3363	
+
+	Ponyara Road										
+			1st Prefs	556	50.68		541	49.32		1097	
+		"NAM, Ken (UNI)"	49	45	91.84		4	8.16		49	
+		"GRIFFITHS, Kristin (DEM)"	61	43	70.49		18	29.51		61	
+		"POULSEN, Ronald ()"	3	1	33.33		2	66.67		3	
+		"FITZSIMMONS, Dominic (GRN)"	31	17	54.84		14	45.16		31	
+		"FARRELL, Michelle (HAN)"	49	17	34.69		32	65.31		49	
+		Total	193	679	52.64		611	47.36		1290	
+
+	Sutton Park										
+			1st Prefs	625	56.77		476	43.23		1101	
+		"NAM, Ken (UNI)"	35	29	82.86		6	17.14		35	
+		"GRIFFITHS, Kristin (DEM)"	51	40	78.43		11	21.57		51	
+		"POULSEN, Ronald ()"	12	9	75.00		3	25.00		12	
+		"FITZSIMMONS, Dominic (GRN)"	40	30	75.00		10	25.00		40	
+		"FARRELL, Michelle (HAN)"	34	13	38.24		21	61.76		34	
+		Total	172	746	58.60		527	41.40		1273	
+
+	Sydney (Watson)										
+			1st Prefs	105	74.47		36	25.53		141	
+		"NAM, Ken (UNI)"	10	9	90.00		1	10.00		10	
+		"GRIFFITHS, Kristin (DEM)"	20	16	80.00		4	20.00		20	
+		"POULSEN, Ronald ()"	1	0	0.00		1	100.00		1	
+		"FITZSIMMONS, Dominic (GRN)"	11	7	63.64		4	36.36		11	
+		"FARRELL, Michelle (HAN)"	2	1	50.00		1	50.00		2	
+		Total	44	138	74.59		47	25.41		185	
+
+	Undercliffe										
+			1st Prefs	739	55.48		593	44.52		1332	
+		"NAM, Ken (UNI)"	69	53	76.81		16	23.19		69	
+		"GRIFFITHS, Kristin (DEM)"	81	66	81.48		15	18.52		81	
+		"POULSEN, Ronald ()"	7	6	85.71		1	14.29		7	
+		"FITZSIMMONS, Dominic (GRN)"	176	124	70.45		52	29.55		176	
+		"FARRELL, Michelle (HAN)"	50	15	30.00		35	70.00		50	
+		Total	383	1003	58.48		712	41.52		1715	
+
+	Wiley Park East										
+			1st Prefs	615	82.33		132	17.67		747	
+		"NAM, Ken (UNI)"	51	45	88.24		6	11.76		51	
+		"GRIFFITHS, Kristin (DEM)"	34	21	61.76		13	38.24		34	
+		"POULSEN, Ronald ()"	3	3	100.00		0	0.00		3	
+		"FITZSIMMONS, Dominic (GRN)"	25	23	92.00		2	8.00		25	
+		"FARRELL, Michelle (HAN)"	18	14	77.78		4	22.22		18	
+		Total	131	721	82.12		157	17.88		878	
+
+	Wiley Park West (Watson)										
+			1st Prefs	333	82.43		71	17.57		404	
+		"NAM, Ken (UNI)"	76	70	92.11		6	7.89		76	
+		"GRIFFITHS, Kristin (DEM)"	17	11	64.71		6	35.29		17	
+		"POULSEN, Ronald ()"	10	4	40.00		6	60.00		10	
+		"FITZSIMMONS, Dominic (GRN)"	17	12	70.59		5	29.41		17	
+		"FARRELL, Michelle (HAN)"	18	11	61.11		7	38.89		18	
+		Total	138	441	81.37		101	18.63		542	
+
+	Special Hospitals										
+			1st Prefs	23	40.35		34	59.65		57	
+		"NAM, Ken (UNI)"	0	0	0.00		0	0.00		0	
+		"GRIFFITHS, Kristin (DEM)"	0	0	0.00		0	0.00		0	
+		"POULSEN, Ronald ()"	0	0	0.00		0	0.00		0	
+		"FITZSIMMONS, Dominic (GRN)"	0	0	0.00		0	0.00		0	
+		"FARRELL, Michelle (HAN)"	3	3	100.00		0	0.00		3	
+		Total	3	26	43.33		34	56.67		60	
+
+	Total Ordinary										
+			1st Prefs	34525	67.36		16732	32.64		51257	
+		"NAM, Ken (UNI)"	2833	2511	88.63		322	11.37		2833	
+		"GRIFFITHS, Kristin (DEM)"	2287	1652	72.23		635	27.77		2287	
+		"POULSEN, Ronald ()"	246	152	61.79		94	38.21		246	
+		"FITZSIMMONS, Dominic (GRN)"	2041	1588	77.81		453	22.19		2041	
+		"FARRELL, Michelle (HAN)"	1742	636	36.51		1106	63.49		1742	
+		Total	9149	41064	67.98		19342	32.02		60406	
+
+	ABSENT										
+			1st Prefs	2481	63.70		1414	36.30		3895	
+		"NAM, Ken (UNI)"	250	209	83.60		41	16.40		250	
+		"GRIFFITHS, Kristin (DEM)"	282	202	71.63		80	28.37		282	
+		"POULSEN, Ronald ()"	49	29	59.18		20	40.82		49	
+		"FITZSIMMONS, Dominic (GRN)"	272	199	73.16		73	26.84		272	
+		"FARRELL, Michelle (HAN)"	230	103	44.78		127	55.22		230	
+		Total	1083	3223	64.74		1755	35.26		4978	
+
+	POSTAL										
+			1st Prefs	944	52.36		859	47.64		1803	
+		"NAM, Ken (UNI)"	62	56	90.32		6	9.68		62	
+		"GRIFFITHS, Kristin (DEM)"	72	45	62.50		27	37.50		72	
+		"POULSEN, Ronald ()"	7	4	57.14		3	42.86		7	
+		"FITZSIMMONS, Dominic (GRN)"	32	25	78.13		7	21.88		32	
+		"FARRELL, Michelle (HAN)"	111	44	39.64		67	60.36		111	
+		Total	284	1118	53.57		969	46.43		2087	
+
+	PRE_POLL										
+			1st Prefs	1181	63.43		681	36.57		1862	
+		"NAM, Ken (UNI)"	161	130	80.75		31	19.25		161	
+		"GRIFFITHS, Kristin (DEM)"	125	96	76.80		29	23.20		125	
+		"POULSEN, Ronald ()"	14	11	78.57		3	21.43		14	
+		"FITZSIMMONS, Dominic (GRN)"	83	57	68.67		26	31.33		83	
+		"FARRELL, Michelle (HAN)"	73	25	34.25		48	65.75		73	
+		Total	456	1500	64.71		818	35.29		2318	
+
+	PROVISIONAL										
+			1st Prefs	385	78.57		105	21.43		490	
+		"NAM, Ken (UNI)"	43	41	95.35		2	4.65		43	
+		"GRIFFITHS, Kristin (DEM)"	22	18	81.82		4	18.18		22	
+		"POULSEN, Ronald ()"	6	4	66.67		2	33.33		6	
+		"FITZSIMMONS, Dominic (GRN)"	18	16	88.89		2	11.11		18	
+		"FARRELL, Michelle (HAN)"	9	5	55.56		4	44.44		9	
+		Total	98	469	79.76		119	20.24		588	
+
+	Division Summary										
+			1st Prefs	39516	66.63		19791	33.37		59307	
+		"NAM, Ken (UNI)"	3349	2947	88.00		402	12.00		3349	
+		"GRIFFITHS, Kristin (DEM)"	2788	2013	72.20		775	27.80		2788	
+		"POULSEN, Ronald ()"	322	200	62.11		122	37.89		322	
+		"FITZSIMMONS, Dominic (GRN)"	2446	1885	77.06		561	22.94		2446	
+		"FARRELL, Michelle (HAN)"	2165	813	37.55		1352	62.45		2165	
+		Total	11070	47374	67.31		23003	32.69		70377	

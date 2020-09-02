@@ -1,0 +1,280 @@
+Senate - 2001 Election : South Australia				
+Registered Group Voting Tickets				
+
+Group A - Australian Labor Party				
+
+Ticket	Party/Group Name	Candidate Name 	Preferences	
+Group A	Australian Labor Party	"WONG, P."	1	
+		"KIRK, L."	2	
+		"SCHACHT, C."	3	
+Group B	Australian Greens	"FAEHRMANN, C."	8	
+		"DOUGLAS, J."	9	
+Group C	Pauline Hanson's One Nation	"RUSSELL-TAYLOR, N."	25	
+		"GIBSON, C."	26	
+Group D	Unendorsed - Newman/Lines	"NEWNAM, K."	12	
+		"LINES, L."	13	
+Group E	Liberal Party	"HILL, R."	20	
+		"FERRIS, J."	21
+		"CHAPMAN, G."	22
+		"LENSINK, M."	23
+Group F	Unendorsed - Aldridge/Aldridge	"ALDRIDGE, M."	10
+		"ALDRIDGE, H."	11
+Group G	Unendorsed - Harte/Phillips	"HARTE, K."	14
+		"PHILLIPS, C."	15
+Group H	Republican Party of Australia	"CROZIER, P."	18
+		"EASSON, R."	19
+Group I	Australian Democrats	"STOTT DESPOJA, N."	4
+		"HEATH, J."	5
+		"PILLING, M."	6
+		"HASSAN, H."	7
+Ungrouped	Independent	"FISHLOCK, K."	16
+	Citizens Electoral Council of Australia	"BEHN, E.C."	24
+	Independent	"McSHANE, N."	17
+			
+			
+Group B - Australian Greens			
+
+Ticket	Party/Group Name	Candidate Name 	Preferences
+Group A	Australian Labor Party	"WONG, P."	11
+		"KIRK, L."	12
+		"SCHACHT, C."	13
+Group B	Australian Greens	"FAEHRMANN, C."	1
+		"DOUGLAS, J."	2
+Group C	Pauline Hanson's One Nation	"RUSSELL-TAYLOR, N."	25
+		"GIBSON, C."	26
+Group D	Unendorsed - Newman/Lines	"NEWNAM, K."	3
+		"LINES, L."	4
+Group E	Liberal Party	"HILL, R."	17
+		"FERRIS, J."	18
+		"CHAPMAN, G."	19
+		"LENSINK, M."	20
+Group F	Unendorsed - Aldridge/Aldridge	"ALDRIDGE, M."	15
+		"ALDRIDGE, H."	16
+Group G	Unendorsed - Harte/Phillips	"HARTE, K."	23
+		"PHILLIPS, C."	24
+Group H	Republican Party of Australia	"CROZIER, P."	5
+		"EASSON, R."	6
+Group I	Australian Democrats	"STOTT DESPOJA, N."	7
+		"HEATH, J."	8
+		"PILLING, M."	9
+		"HASSAN, H."	10
+Ungrouped	Independent	"FISHLOCK, K."	22
+	Citizens Electoral Council of Australia	"BEHN, E.C."	21
+	Independent	"McSHANE, N."	14
+			
+			
+Group C - Pauline Hanson's One Nation			
+
+Ticket	Party/Group Name	Candidate Name 	Preferences
+Group A	Australian Labor Party	"WONG, P."	12
+		"KIRK, L."	11
+		"SCHACHT, C."	10
+Group B	Australian Greens	"FAEHRMANN, C."	21
+		"DOUGLAS, J."	22
+Group C	Pauline Hanson's One Nation	"RUSSELL-TAYLOR, N."	1
+		"GIBSON, C."	2
+Group D	Unendorsed - Newman/Lines	"NEWNAM, K."	15
+		"LINES, L."	16
+Group E	Liberal Party	"HILL, R."	9
+		"FERRIS, J."	8
+		"CHAPMAN, G."	7
+		"LENSINK, M."	6
+Group F	Unendorsed - Aldridge/Aldridge	"ALDRIDGE, M."	3
+		"ALDRIDGE, H."	4
+Group G	Unendorsed - Harte/Phillips	"HARTE, K."	13
+		"PHILLIPS, C."	14
+Group H	Republican Party of Australia	"CROZIER, P."	17
+		"EASSON, R."	18
+Group I	Australian Democrats	"STOTT DESPOJA, N."	26
+		"HEATH, J."	25
+		"PILLING, M."	24
+		"HASSAN, H."	23
+Ungrouped	Independent	"FISHLOCK, K."	5
+	Citizens Electoral Council of Australia	"BEHN, E.C."	19
+	Independent	"McSHANE, N."	20
+			
+			
+Group D - Unendorsed - Newman/Lines			
+			
+Ticket	Party/Group Name	Candidate Name 	Preferences
+Group A	Australian Labor Party	"WONG, P."	5
+		"KIRK, L."	6
+		"SCHACHT, C."	7
+Group B	Australian Greens	"FAEHRMANN, C."	3
+		"DOUGLAS, J."	4
+Group C	Pauline Hanson's One Nation	"RUSSELL-TAYLOR, N."	25
+		"GIBSON, C."	26
+Group D	Unendorsed - Newman/Lines	"NEWNAM, K."	1
+		"LINES, L."	2
+Group E	Liberal Party	"HILL, R."	12
+		"FERRIS, J."	13
+		"CHAPMAN, G."	14
+		"LENSINK, M."	15
+Group F	Unendorsed - Aldridge/Aldridge	"ALDRIDGE, M."	18
+		"ALDRIDGE, H."	19
+Group G	Unendorsed - Harte/Phillips	"HARTE, K."	16
+		"PHILLIPS, C."	17
+Group H	Republican Party of Australia	"CROZIER, P."	20
+		"EASSON, R."	21
+Group I	Australian Democrats	"STOTT DESPOJA, N."	8
+		"HEATH, J."	9
+		"PILLING, M."	10
+		"HASSAN, H."	11
+Ungrouped	Independent	"FISHLOCK, K."	22
+	Citizens Electoral Council of Australia	"BEHN, E.C."	24
+	Independent	"McSHANE, N."	23
+			
+			
+Group E - Liberal Party			
+
+Ticket	Party/Group Name	Candidate Name 	Preferences
+Group A	Australian Labor Party	"WONG, P."	20
+		"KIRK, L."	21
+		"SCHACHT, C."	22
+Group B	Australian Greens	"FAEHRMANN, C."	13
+		"DOUGLAS, J."	14
+Group C	Pauline Hanson's One Nation	"RUSSELL-TAYLOR, N."	25
+		"GIBSON, C."	26
+Group D	Unendorsed - Newman/Lines	"NEWNAM, K."	15
+		"LINES, L."	16
+Group E	Liberal Party	"HILL, R."	1
+		"FERRIS, J."	2
+		"CHAPMAN, G."	3
+		"LENSINK, M."	4
+Group F	Unendorsed - Aldridge/Aldridge	"ALDRIDGE, M."	5
+		"ALDRIDGE, H."	6
+Group G	Unendorsed - Harte/Phillips	"HARTE, K."	18
+		"PHILLIPS, C."	19
+Group H	Republican Party of Australia	"CROZIER, P."	7
+		"EASSON, R."	8
+Group I	Australian Democrats	"STOTT DESPOJA, N."	9
+		"HEATH, J."	10
+		"PILLING, M."	11
+		"HASSAN, H."	12
+Ungrouped	Independent	"FISHLOCK, K."	17
+	Citizens Electoral Council of Australia	"BEHN, E.C."	24
+	Independent	"McSHANE, N."	23
+			
+			
+Group F - Unendorsed - Aldridge/Aldridge			
+			
+Ticket	Party/Group Name	Candidate Name 	Preferences
+Group A	Australian Labor Party	"WONG, P."	9
+		"KIRK, L."	10
+		"SCHACHT, C."	11
+Group B	Australian Greens	"FAEHRMANN, C."	12
+		"DOUGLAS, J."	13
+Group C	Pauline Hanson's One Nation	"RUSSELL-TAYLOR, N."	3
+		"GIBSON, C."	4
+Group D	Unendorsed - Newman/Lines	"NEWNAM, K."	15
+		"LINES, L."	17
+Group E	Liberal Party	"HILL, R."	5
+		"FERRIS, J."	6
+		"CHAPMAN, G."	7
+		"LENSINK, M."	8
+Group F	Unendorsed - Aldridge/Aldridge	"ALDRIDGE, M."	1
+		"ALDRIDGE, H."	2
+Group G	Unendorsed - Harte/Phillips	"HARTE, K."	16
+		"PHILLIPS, C."	18
+Group H	Republican Party of Australia	"CROZIER, P."	21
+		"EASSON, R."	22
+Group I	Australian Democrats	"STOTT DESPOJA, N."	25
+		"HEATH, J."	23
+		"PILLING, M."	24
+		"HASSAN, H."	26
+Ungrouped	Independent	"FISHLOCK, K."	14
+	Citizens Electoral Council of Australia	"BEHN, E.C."	19
+	Independent	"McSHANE, N."	20
+			
+			
+Group G - Unendorsed - Harte/Phillips			
+			
+Ticket	Party/Group Name	Candidate Name 	Preferences
+Group A	Australian Labor Party	"WONG, P."	15
+		"KIRK, L."	16
+		"SCHACHT, C."	17
+Group B	Australian Greens	"FAEHRMANN, C."	11
+		"DOUGLAS, J."	12
+Group C	Pauline Hanson's One Nation	"RUSSELL-TAYLOR, N."	18
+		"GIBSON, C."	19
+Group D	Unendorsed - Newman/Lines	"NEWNAM, K."	24
+		"LINES, L."	25
+Group E	Liberal Party	"HILL, R."	7
+		"FERRIS, J."	8
+		"CHAPMAN, G."	9
+		"LENSINK, M."	10
+Group F	Unendorsed - Aldridge/Aldridge	"ALDRIDGE, M."	22
+		"ALDRIDGE, H."	23
+Group G	Unendorsed - Harte/Phillips	"HARTE, K."	1
+		"PHILLIPS, C."	2
+Group H	Republican Party of Australia	"CROZIER, P."	13
+		"EASSON, R."	14
+Group I	Australian Democrats	"STOTT DESPOJA, N."	3
+		"HEATH, J."	4
+		"PILLING, M."	5
+		"HASSAN, H."	6
+Ungrouped	Independent	"FISHLOCK, K."	20
+	Citizens Electoral Council of Australia	"BEHN, E.C."	21
+	Independent	"McSHANE, N."	26
+			
+			
+Group H - Republican Party of Australia			
+
+Ticket	Party/Group Name	Candidate Name 	Preferences
+Group A	Australian Labor Party	"WONG, P."	23
+		"KIRK, L."	22
+		"SCHACHT, C."	21
+Group B	Australian Greens	"FAEHRMANN, C."	3
+		"DOUGLAS, J."	4
+Group C	Pauline Hanson's One Nation	"RUSSELL-TAYLOR, N."	26
+		"GIBSON, C."	25
+Group D	Unendorsed - Newman/Lines	"NEWNAM, K."	11
+		"LINES, L."	12
+Group E	Liberal Party	"HILL, R."	17
+		"FERRIS, J."	18
+		"CHAPMAN, G."	19
+		"LENSINK, M."	20
+Group F	Unendorsed - Aldridge/Aldridge	"ALDRIDGE, M."	13
+		"ALDRIDGE, H."	14
+Group G	Unendorsed - Harte/Phillips	"HARTE, K."	9
+		"PHILLIPS, C."	10
+Group H	Republican Party of Australia	"CROZIER, P."	1	
+		"EASSON, R."	2	
+Group I	Australian Democrats	"STOTT DESPOJA, N."	5	
+		"HEATH, J."	6	
+		"PILLING, M."	7	
+		"HASSAN, H."	8	
+Ungrouped	Independent	"FISHLOCK, K."	16	
+	Citizens Electoral Council of Australia	"BEHN, E.C."	24	
+	Independent	"McSHANE, N."	15	
+				
+				
+Group I - Australian Democrats				
+			Preferences	
+Ticket	Party/Group Name	Candidate Name 	Ticket No#1	Ticket No#2
+Group A	Australian Labor Party	"WONG, P."	11	15
+		"KIRK, L."	12	16
+		"SCHACHT, C."	13	17
+Group B	Australian Greens	"FAEHRMANN, C."	5	5
+		"DOUGLAS, J."	6	6
+Group C	Pauline Hanson's One Nation	"RUSSELL-TAYLOR, N."	25	25
+		"GIBSON, C."	26	26
+Group D	Unendorsed - Newman/Lines	"NEWNAM, K."	7	13
+		"LINES, L."	8	14
+Group E	Liberal Party	"HILL, R."	14	9
+		"FERRIS, J."	15	10
+		"CHAPMAN, G."	16	11
+		"LENSINK, M."	17	12
+Group F	Unendorsed - Aldridge/Aldridge	"ALDRIDGE, M."	20	20
+		"ALDRIDGE, H."	21	21
+Group G	Unendorsed - Harte/Phillips	"HARTE, K."	18	18
+		"PHILLIPS, C."	19	19
+Group H	Republican Party of Australia	"CROZIER, P."	9	7
+		"EASSON, R."	10	8
+Group I	Australian Democrats	"STOTT DESPOJA, N."	1	1
+		"HEATH, J."	2	2
+		"PILLING, M."	3	3
+		"HASSAN, H."	4	4
+Ungrouped	Independent	"FISHLOCK, K."	22	22
+	Citizens Electoral Council of Australia	"BEHN, E.C."	24	24
+	Independent	"McSHANE, N."	23	23

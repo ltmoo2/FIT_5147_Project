@@ -1,0 +1,689 @@
+House of Representatives - 2001 Election: New South Wales											
+Two Candidate Preferred Preference Flow Result											
+By Polling Place by Division											
+											
+Newcastle (89198)											
+		Candidate		"WILLIAMS, David M"		          	"GRIERSON, Sharon"		           	Total	
+				LP		                         	ALP		                        		
+				Votes	%	                     	Votes	%	                     		
+	Adamstown										
+			1st Prefs	638	43.02		845	56.98		1483	
+		"WILLIAMS, Harry (PLP)"	97	57	58.76		40	41.24		97	
+		"CRITICOS, Harry (IND)"	44	28	63.64		16	36.36		44	
+		"SUTTON, John (GRN)"	153	57	37.25		96	62.75		153	
+		"KILLION-DELCASTILLO, Erin ()"	19	4	21.05		15	78.95		19	
+		"BATTERSBY, Elaine (CTA)"	32	25	78.13		7	21.88		32	
+		"KAVANAGH, Mary (DEM)"	127	51	40.16		76	59.84		127	
+		"LAWN, Barrie (HAN)"	103	68	66.02		35	33.98		103	
+		Total	575	928	45.09		1130	54.91		2058	
+
+	Adamstown Heights										
+			1st Prefs	1075	57.52		794	42.48		1869	
+		"WILLIAMS, Harry (PLP)"	74	35	47.30		39	52.70		74	
+		"CRITICOS, Harry (IND)"	70	47	67.14		23	32.86		70	
+		"SUTTON, John (GRN)"	133	44	33.08		89	66.92		133	
+		"KILLION-DELCASTILLO, Erin ()"	9	3	33.33		6	66.67		9	
+		"BATTERSBY, Elaine (CTA)"	56	47	83.93		9	16.07		56	
+		"KAVANAGH, Mary (DEM)"	158	62	39.24		96	60.76		158	
+		"LAWN, Barrie (HAN)"	115	85	73.91		30	26.09		115	
+		Total	615	1398	56.28		1086	43.72		2484	
+
+	Adamstown North										
+			1st Prefs	269	33.92		524	66.08		793	
+		"WILLIAMS, Harry (PLP)"	62	29	46.77		33	53.23		62	
+		"CRITICOS, Harry (IND)"	21	11	52.38		10	47.62		21	
+		"SUTTON, John (GRN)"	92	24	26.09		68	73.91		92	
+		"KILLION-DELCASTILLO, Erin ()"	5	0	0.00		5	100.00		5	
+		"BATTERSBY, Elaine (CTA)"	13	9	69.23		4	30.77		13	
+		"KAVANAGH, Mary (DEM)"	52	18	34.62		34	65.38		52	
+		"LAWN, Barrie (HAN)"	68	44	64.71		24	35.29		68	
+		Total	313	404	36.53		702	63.47		1106	
+
+	Adamstown West										
+			1st Prefs	93	45.81		110	54.19		203	
+		"WILLIAMS, Harry (PLP)"	8	2	25.00		6	75.00		8	
+		"CRITICOS, Harry (IND)"	1	0	0.00		1	100.00		1	
+		"SUTTON, John (GRN)"	26	8	30.77		18	69.23		26	
+		"KILLION-DELCASTILLO, Erin ()"	0	0	0.00		0	0.00		0	
+		"BATTERSBY, Elaine (CTA)"	4	3	75.00		1	25.00		4	
+		"KAVANAGH, Mary (DEM)"	22	11	50.00		11	50.00		22	
+		"LAWN, Barrie (HAN)"	13	10	76.92		3	23.08		13	
+		Total	74	127	45.85		150	54.15		277	
+
+	Beaumont Park										
+			1st Prefs	161	26.83		439	73.17		600	
+		"WILLIAMS, Harry (PLP)"	59	29	49.15		30	50.85		59	
+		"CRITICOS, Harry (IND)"	18	13	72.22		5	27.78		18	
+		"SUTTON, John (GRN)"	38	12	31.58		26	68.42		38	
+		"KILLION-DELCASTILLO, Erin ()"	2	1	50.00		1	50.00		2	
+		"BATTERSBY, Elaine (CTA)"	8	5	62.50		3	37.50		8	
+		"KAVANAGH, Mary (DEM)"	22	3	13.64		19	86.36		22	
+		"LAWN, Barrie (HAN)"	32	16	50.00		16	50.00		32	
+		Total	179	240	30.81		539	69.19		779	
+
+	Birmingham Gardens										
+			1st Prefs	253	41.54		356	58.46		609	
+		"WILLIAMS, Harry (PLP)"	41	16	39.02		25	60.98		41	
+		"CRITICOS, Harry (IND)"	21	11	52.38		10	47.62		21	
+		"SUTTON, John (GRN)"	44	13	29.55		31	70.45		44	
+		"KILLION-DELCASTILLO, Erin ()"	1	1	100.00		0	0.00		1	
+		"BATTERSBY, Elaine (CTA)"	20	18	90.00		2	10.00		20	
+		"KAVANAGH, Mary (DEM)"	36	5	13.89		31	86.11		36	
+		"LAWN, Barrie (HAN)"	71	42	59.15		29	40.85		71	
+		Total	234	359	42.59		484	57.41		843	
+
+	Birmingham Gardens North										
+			1st Prefs	249	36.09		441	63.91		690	
+		"WILLIAMS, Harry (PLP)"	32	13	40.63		19	59.38		32	
+		"CRITICOS, Harry (IND)"	16	5	31.25		11	68.75		16	
+		"SUTTON, John (GRN)"	39	10	25.64		29	74.36		39	
+		"KILLION-DELCASTILLO, Erin ()"	6	2	33.33		4	66.67		6	
+		"BATTERSBY, Elaine (CTA)"	9	6	66.67		3	33.33		9	
+		"KAVANAGH, Mary (DEM)"	10	2	20.00		8	80.00		10	
+		"LAWN, Barrie (HAN)"	127	45	35.43		82	64.57		127	
+		Total	239	332	35.74		597	64.26		929	
+
+	Carrington										
+			1st Prefs	131	19.52		540	80.48		671	
+		"WILLIAMS, Harry (PLP)"	51	20	39.22		31	60.78		51	
+		"CRITICOS, Harry (IND)"	15	8	53.33		7	46.67		15	
+		"SUTTON, John (GRN)"	71	18	25.35		53	74.65		71	
+		"KILLION-DELCASTILLO, Erin ()"	3	1	33.33		2	66.67		3	
+		"BATTERSBY, Elaine (CTA)"	14	11	78.57		3	21.43		14	
+		"KAVANAGH, Mary (DEM)"	39	11	28.21		28	71.79		39	
+		"LAWN, Barrie (HAN)"	44	26	59.09		18	40.91		44	
+		Total	237	226	24.89		682	75.11		908	
+
+	Cooks Hill										
+			1st Prefs	209	46.34		242	53.66		451	
+		"WILLIAMS, Harry (PLP)"	22	7	31.82		15	68.18		22	
+		"CRITICOS, Harry (IND)"	17	10	58.82		7	41.18		17	
+		"SUTTON, John (GRN)"	119	18	15.13		101	84.87		119	
+		"KILLION-DELCASTILLO, Erin ()"	4	1	25.00		3	75.00		4	
+		"BATTERSBY, Elaine (CTA)"	16	12	75.00		4	25.00		16	
+		"KAVANAGH, Mary (DEM)"	73	21	28.77		52	71.23		73	
+		"LAWN, Barrie (HAN)"	16	13	81.25		3	18.75		16	
+		Total	267	291	40.53		427	59.47		718	
+
+	Cooks Hill South										
+			1st Prefs	714	53.01		633	46.99		1347	
+		"WILLIAMS, Harry (PLP)"	86	30	34.88		56	65.12		86	
+		"CRITICOS, Harry (IND)"	29	16	55.17		13	44.83		29	
+		"SUTTON, John (GRN)"	226	60	26.55		166	73.45		226	
+		"KILLION-DELCASTILLO, Erin ()"	13	11	84.62		2	15.38		13	
+		"BATTERSBY, Elaine (CTA)"	17	13	76.47		4	23.53		17	
+		"KAVANAGH, Mary (DEM)"	178	60	33.71		118	66.29		178	
+		"LAWN, Barrie (HAN)"	62	35	56.45		27	43.55		62	
+		Total	611	939	47.96		1019	52.04		1958	
+
+	Garden Suburb (Newcastle)										
+			1st Prefs	88	59.06		61	40.94		149	
+		"WILLIAMS, Harry (PLP)"	8	3	37.50		5	62.50		8	
+		"CRITICOS, Harry (IND)"	4	3	75.00		1	25.00		4	
+		"SUTTON, John (GRN)"	13	4	30.77		9	69.23		13	
+		"KILLION-DELCASTILLO, Erin ()"	0	0	0.00		0	0.00		0	
+		"BATTERSBY, Elaine (CTA)"	4	4	100.00		0	0.00		4	
+		"KAVANAGH, Mary (DEM)"	8	3	37.50		5	62.50		8	
+		"LAWN, Barrie (HAN)"	14	10	71.43		4	28.57		14	
+		Total	51	115	57.50		85	42.50		200	
+
+	Georgetown										
+			1st Prefs	125	29.98		292	70.02		417	
+		"WILLIAMS, Harry (PLP)"	26	17	65.38		9	34.62		26	
+		"CRITICOS, Harry (IND)"	5	2	40.00		3	60.00		5	
+		"SUTTON, John (GRN)"	40	9	22.50		31	77.50		40	
+		"KILLION-DELCASTILLO, Erin ()"	1	0	0.00		1	100.00		1	
+		"BATTERSBY, Elaine (CTA)"	11	9	81.82		2	18.18		11	
+		"KAVANAGH, Mary (DEM)"	19	4	21.05		15	78.95		19	
+		"LAWN, Barrie (HAN)"	23	11	47.83		12	52.17		23	
+		Total	125	177	32.66		365	67.34		542	
+
+	Hamilton										
+			1st Prefs	412	35.79		739	64.21		1151	
+		"WILLIAMS, Harry (PLP)"	111	27	24.32		84	75.68		111	
+		"CRITICOS, Harry (IND)"	57	26	45.61		31	54.39		57	
+		"SUTTON, John (GRN)"	225	42	18.67		183	81.33		225	
+		"KILLION-DELCASTILLO, Erin ()"	8	1	12.50		7	87.50		8	
+		"BATTERSBY, Elaine (CTA)"	15	12	80.00		3	20.00		15	
+		"KAVANAGH, Mary (DEM)"	132	36	27.27		96	72.73		132	
+		"LAWN, Barrie (HAN)"	43	17	39.53		26	60.47		43	
+		Total	591	573	32.89		1169	67.11		1742	
+
+	Hamilton Central										
+			1st Prefs	294	38.08		478	61.92		772	
+		"WILLIAMS, Harry (PLP)"	64	23	35.94		41	64.06		64	
+		"CRITICOS, Harry (IND)"	37	19	51.35		18	48.65		37	
+		"SUTTON, John (GRN)"	115	19	16.52		96	83.48		115	
+		"KILLION-DELCASTILLO, Erin ()"	4	0	0.00		4	100.00		4	
+		"BATTERSBY, Elaine (CTA)"	12	8	66.67		4	33.33		12	
+		"KAVANAGH, Mary (DEM)"	96	24	25.00		72	75.00		96	
+		"LAWN, Barrie (HAN)"	53	34	64.15		19	35.85		53	
+		Total	381	421	36.51		732	63.49		1153	
+
+	Hamilton North										
+			1st Prefs	103	24.88		311	75.12		414	
+		"WILLIAMS, Harry (PLP)"	46	19	41.30		27	58.70		46	
+		"CRITICOS, Harry (IND)"	4	1	25.00		3	75.00		4	
+		"SUTTON, John (GRN)"	40	8	20.00		32	80.00		40	
+		"KILLION-DELCASTILLO, Erin ()"	4	2	50.00		2	50.00		4	
+		"BATTERSBY, Elaine (CTA)"	10	4	40.00		6	60.00		10	
+		"KAVANAGH, Mary (DEM)"	33	10	30.30		23	69.70		33	
+		"LAWN, Barrie (HAN)"	42	31	73.81		11	26.19		42	
+		Total	179	178	30.02		415	69.98		593	
+
+	Hamilton South										
+			1st Prefs	877	55.97		690	44.03		1567	
+		"WILLIAMS, Harry (PLP)"	68	30	44.12		38	55.88		68	
+		"CRITICOS, Harry (IND)"	75	55	73.33		20	26.67		75	
+		"SUTTON, John (GRN)"	171	47	27.49		124	72.51		171	
+		"KILLION-DELCASTILLO, Erin ()"	16	6	37.50		10	62.50		16	
+		"BATTERSBY, Elaine (CTA)"	25	19	76.00		6	24.00		25	
+		"KAVANAGH, Mary (DEM)"	185	64	34.59		121	65.41		185	
+		"LAWN, Barrie (HAN)"	56	46	82.14		10	17.86		56	
+		Total	596	1144	52.89		1019	47.11		2163	
+
+	Hexham										
+			1st Prefs	10	20.41		39	79.59		49	
+		"WILLIAMS, Harry (PLP)"	5	4	80.00		1	20.00		5	
+		"CRITICOS, Harry (IND)"	0	0	0.00		0	0.00		0	
+		"SUTTON, John (GRN)"	3	0	0.00		3	100.00		3	
+		"KILLION-DELCASTILLO, Erin ()"	0	0	0.00		0	0.00		0	
+		"BATTERSBY, Elaine (CTA)"	2	2	100.00		0	0.00		2	
+		"KAVANAGH, Mary (DEM)"	2	0	0.00		2	100.00		2	
+		"LAWN, Barrie (HAN)"	9	8	88.89		1	11.11		9	
+		Total	21	24	34.29		46	65.71		70	
+
+	Islington										
+			1st Prefs	122	27.48		322	72.52		444	
+		"WILLIAMS, Harry (PLP)"	54	20	37.04		34	62.96		54	
+		"CRITICOS, Harry (IND)"	15	10	66.67		5	33.33		15	
+		"SUTTON, John (GRN)"	94	27	28.72		67	71.28		94	
+		"KILLION-DELCASTILLO, Erin ()"	3	1	33.33		2	66.67		3	
+		"BATTERSBY, Elaine (CTA)"	7	4	57.14		3	42.86		7	
+		"KAVANAGH, Mary (DEM)"	50	13	26.00		37	74.00		50	
+		"LAWN, Barrie (HAN)"	29	13	44.83		16	55.17		29	
+		Total	252	210	30.17		486	69.83		696	
+
+	Jesmond										
+			1st Prefs	210	34.48		399	65.52		609	
+		"WILLIAMS, Harry (PLP)"	49	25	51.02		24	48.98		49	
+		"CRITICOS, Harry (IND)"	19	10	52.63		9	47.37		19	
+		"SUTTON, John (GRN)"	43	13	30.23		30	69.77		43	
+		"KILLION-DELCASTILLO, Erin ()"	3	1	33.33		2	66.67		3	
+		"BATTERSBY, Elaine (CTA)"	14	10	71.43		4	28.57		14	
+		"KAVANAGH, Mary (DEM)"	35	12	34.29		23	65.71		35	
+		"LAWN, Barrie (HAN)"	43	21	48.84		22	51.16		43	
+		Total	206	302	37.06		513	62.94		815	
+
+	Jesmond North										
+			1st Prefs	409	39.18		635	60.82		1044	
+		"WILLIAMS, Harry (PLP)"	76	37	48.68		39	51.32		76	
+		"CRITICOS, Harry (IND)"	33	19	57.58		14	42.42		33	
+		"SUTTON, John (GRN)"	114	45	39.47		69	60.53		114	
+		"KILLION-DELCASTILLO, Erin ()"	11	1	9.09		10	90.91		11	
+		"BATTERSBY, Elaine (CTA)"	32	27	84.38		5	15.63		32	
+		"KAVANAGH, Mary (DEM)"	122	42	34.43		80	65.57		122	
+		"LAWN, Barrie (HAN)"	116	79	68.10		37	31.90		116	
+		Total	504	659	42.57		889	57.43		1548	
+
+	Kotara										
+			1st Prefs	231	49.15		239	50.85		470	
+		"WILLIAMS, Harry (PLP)"	11	4	36.36		7	63.64		11	
+		"CRITICOS, Harry (IND)"	14	10	71.43		4	28.57		14	
+		"SUTTON, John (GRN)"	34	10	29.41		24	70.59		34	
+		"KILLION-DELCASTILLO, Erin ()"	1	0	0.00		1	100.00		1	
+		"BATTERSBY, Elaine (CTA)"	15	11	73.33		4	26.67		15	
+		"KAVANAGH, Mary (DEM)"	26	12	46.15		14	53.85		26	
+		"LAWN, Barrie (HAN)"	30	25	83.33		5	16.67		30	
+		Total	131	303	50.42		298	49.58		601	
+
+	Kotara East										
+			1st Prefs	321	55.34		259	44.66		580	
+		"WILLIAMS, Harry (PLP)"	12	6	50.00		6	50.00		12	
+		"CRITICOS, Harry (IND)"	24	16	66.67		8	33.33		24	
+		"SUTTON, John (GRN)"	53	13	24.53		40	75.47		53	
+		"KILLION-DELCASTILLO, Erin ()"	0	0	0.00		0	0.00		0	
+		"BATTERSBY, Elaine (CTA)"	11	7	63.64		4	36.36		11	
+		"KAVANAGH, Mary (DEM)"	44	12	27.27		32	72.73		44	
+		"LAWN, Barrie (HAN)"	35	25	71.43		10	28.57		35	
+		Total	179	400	52.70		359	47.30		759	
+
+	Kotara South										
+			1st Prefs	675	48.88		706	51.12		1381	
+		"WILLIAMS, Harry (PLP)"	53	19	35.85		34	64.15		53	
+		"CRITICOS, Harry (IND)"	35	22	62.86		13	37.14		35	
+		"SUTTON, John (GRN)"	102	41	40.20		61	59.80		102	
+		"KILLION-DELCASTILLO, Erin ()"	1	0	0.00		1	100.00		1	
+		"BATTERSBY, Elaine (CTA)"	24	22	91.67		2	8.33		24	
+		"KAVANAGH, Mary (DEM)"	100	42	42.00		58	58.00		100	
+		"LAWN, Barrie (HAN)"	81	55	67.90		26	32.10		81	
+		Total	396	876	49.30		901	50.70		1777	
+
+	Lambton										
+			1st Prefs	620	40.95		894	59.05		1514	
+		"WILLIAMS, Harry (PLP)"	111	43	38.74		68	61.26		111	
+		"CRITICOS, Harry (IND)"	58	38	65.52		20	34.48		58	
+		"SUTTON, John (GRN)"	144	41	28.47		103	71.53		144	
+		"KILLION-DELCASTILLO, Erin ()"	10	4	40.00		6	60.00		10	
+		"BATTERSBY, Elaine (CTA)"	30	21	70.00		9	30.00		30	
+		"KAVANAGH, Mary (DEM)"	105	37	35.24		68	64.76		105	
+		"LAWN, Barrie (HAN)"	99	73	73.74		26	26.26		99	
+		Total	557	877	42.35		1194	57.65		2071	
+
+	Lambton East										
+			1st Prefs	254	36.39		444	63.61		698	
+		"WILLIAMS, Harry (PLP)"	44	21	47.73		23	52.27		44	
+		"CRITICOS, Harry (IND)"	28	17	60.71		11	39.29		28	
+		"SUTTON, John (GRN)"	67	14	20.90		53	79.10		67	
+		"KILLION-DELCASTILLO, Erin ()"	1	1	100.00		0	0.00		1	
+		"BATTERSBY, Elaine (CTA)"	16	13	81.25		3	18.75		16	
+		"KAVANAGH, Mary (DEM)"	37	14	37.84		23	62.16		37	
+		"LAWN, Barrie (HAN)"	71	52	73.24		19	26.76		71	
+		Total	264	386	40.12		576	59.88		962	
+
+	Maryland										
+			1st Prefs	945	42.70		1268	57.30		2213	
+		"WILLIAMS, Harry (PLP)"	237	84	35.44		153	64.56		237	
+		"CRITICOS, Harry (IND)"	58	29	50.00		29	50.00		58	
+		"SUTTON, John (GRN)"	117	42	35.90		75	64.10		117	
+		"KILLION-DELCASTILLO, Erin ()"	7	2	28.57		5	71.43		7	
+		"BATTERSBY, Elaine (CTA)"	49	40	81.63		9	18.37		49	
+		"KAVANAGH, Mary (DEM)"	103	31	30.10		72	69.90		103	
+		"LAWN, Barrie (HAN)"	257	181	70.43		76	29.57		257	
+		Total	828	1354	44.52		1687	55.48		3041	
+
+	Maryville Wickham										
+			1st Prefs	124	22.59		425	77.41		549	
+		"WILLIAMS, Harry (PLP)"	51	24	47.06		27	52.94		51	
+		"CRITICOS, Harry (IND)"	14	9	64.29		5	35.71		14	
+		"SUTTON, John (GRN)"	74	15	20.27		59	79.73		74	
+		"KILLION-DELCASTILLO, Erin ()"	4	3	75.00		1	25.00		4	
+		"BATTERSBY, Elaine (CTA)"	14	11	78.57		3	21.43		14	
+		"KAVANAGH, Mary (DEM)"	34	7	20.59		27	79.41		34	
+		"LAWN, Barrie (HAN)"	33	23	69.70		10	30.30		33	
+		Total	224	216	27.94		557	72.06		773	
+
+	Mayfield										
+			1st Prefs	354	28.66		881	71.34		1235	
+		"WILLIAMS, Harry (PLP)"	100	53	53.00		47	47.00		100	
+		"CRITICOS, Harry (IND)"	30	21	70.00		9	30.00		30	
+		"SUTTON, John (GRN)"	124	41	33.06		83	66.94		124	
+		"KILLION-DELCASTILLO, Erin ()"	8	1	12.50		7	87.50		8	
+		"BATTERSBY, Elaine (CTA)"	35	28	80.00		7	20.00		35	
+		"KAVANAGH, Mary (DEM)"	66	25	37.88		41	62.12		66	
+		"LAWN, Barrie (HAN)"	139	99	71.22		40	28.78		139	
+		Total	502	622	35.81		1115	64.19		1737	
+
+	Mayfield East										
+			1st Prefs	300	31.65		648	68.35		948	
+		"WILLIAMS, Harry (PLP)"	95	34	35.79		61	64.21		95	
+		"CRITICOS, Harry (IND)"	23	14	60.87		9	39.13		23	
+		"SUTTON, John (GRN)"	121	40	33.06		81	66.94		121	
+		"KILLION-DELCASTILLO, Erin ()"	8	2	25.00		6	75.00		8	
+		"BATTERSBY, Elaine (CTA)"	26	20	76.92		6	23.08		26	
+		"KAVANAGH, Mary (DEM)"	58	18	31.03		40	68.97		58	
+		"LAWN, Barrie (HAN)"	96	60	62.50		36	37.50		96	
+		Total	427	488	35.49		887	64.51		1375	
+
+	Mayfield South										
+			1st Prefs	394	31.57		854	68.43		1248	
+		"WILLIAMS, Harry (PLP)"	170	67	39.41		103	60.59		170	
+		"CRITICOS, Harry (IND)"	24	13	54.17		11	45.83		24	
+		"SUTTON, John (GRN)"	124	38	30.65		86	69.35		124	
+		"KILLION-DELCASTILLO, Erin ()"	13	2	15.38		11	84.62		13	
+		"BATTERSBY, Elaine (CTA)"	37	30	81.08		7	18.92		37	
+		"KAVANAGH, Mary (DEM)"	67	20	29.85		47	70.15		67	
+		"LAWN, Barrie (HAN)"	111	90	81.08		21	18.92		111	
+		Total	546	654	36.45		1140	63.55		1794	
+
+	Mayfield West										
+			1st Prefs	649	35.50		1179	64.50		1828	
+		"WILLIAMS, Harry (PLP)"	162	55	33.95		107	66.05		162	
+		"CRITICOS, Harry (IND)"	41	25	60.98		16	39.02		41	
+		"SUTTON, John (GRN)"	129	37	28.68		92	71.32		129	
+		"KILLION-DELCASTILLO, Erin ()"	19	0	0.00		19	100.00		19	
+		"BATTERSBY, Elaine (CTA)"	70	55	78.57		15	21.43		70	
+		"KAVANAGH, Mary (DEM)"	139	44	31.65		95	68.35		139	
+		"LAWN, Barrie (HAN)"	165	111	67.27		54	32.73		165	
+		Total	725	976	38.23		1577	61.77		2553	
+
+	Merewether										
+			1st Prefs	369	48.75		388	51.25		757	
+		"WILLIAMS, Harry (PLP)"	31	15	48.39		16	51.61		31	
+		"CRITICOS, Harry (IND)"	27	16	59.26		11	40.74		27	
+		"SUTTON, John (GRN)"	78	24	30.77		54	69.23		78	
+		"KILLION-DELCASTILLO, Erin ()"	5	1	20.00		4	80.00		5	
+		"BATTERSBY, Elaine (CTA)"	19	12	63.16		7	36.84		19	
+		"KAVANAGH, Mary (DEM)"	85	23	27.06		62	72.94		85	
+		"LAWN, Barrie (HAN)"	38	24	63.16		14	36.84		38	
+		Total	283	484	46.54		556	53.46		1040	
+
+	Merewether Heights										
+			1st Prefs	682	68.06		320	31.94		1002	
+		"WILLIAMS, Harry (PLP)"	24	9	37.50		15	62.50		24	
+		"CRITICOS, Harry (IND)"	49	27	55.10		22	44.90		49	
+		"SUTTON, John (GRN)"	81	23	28.40		58	71.60		81	
+		"KILLION-DELCASTILLO, Erin ()"	6	3	50.00		3	50.00		6	
+		"BATTERSBY, Elaine (CTA)"	10	8	80.00		2	20.00		10	
+		"KAVANAGH, Mary (DEM)"	76	34	44.74		42	55.26		76	
+		"LAWN, Barrie (HAN)"	47	38	80.85		9	19.15		47	
+		Total	293	824	63.63		471	36.37		1295	
+
+	Merewether South										
+			1st Prefs	1080	62.00		662	38.00		1742	
+		"WILLIAMS, Harry (PLP)"	75	31	41.33		44	58.67		75	
+		"CRITICOS, Harry (IND)"	78	51	65.38		27	34.62		78	
+		"SUTTON, John (GRN)"	210	63	30.00		147	70.00		210	
+		"KILLION-DELCASTILLO, Erin ()"	19	3	15.79		16	84.21		19	
+		"BATTERSBY, Elaine (CTA)"	18	14	77.78		4	22.22		18	
+		"KAVANAGH, Mary (DEM)"	160	66	41.25		94	58.75		160	
+		"LAWN, Barrie (HAN)"	90	63	70.00		27	30.00		90	
+		Total	650	1371	57.32		1021	42.68		2392	
+
+	Merewether West										
+			1st Prefs	381	52.99		338	47.01		719	
+		"WILLIAMS, Harry (PLP)"	27	12	44.44		15	55.56		27	
+		"CRITICOS, Harry (IND)"	28	20	71.43		8	28.57		28	
+		"SUTTON, John (GRN)"	47	12	25.53		35	74.47		47	
+		"KILLION-DELCASTILLO, Erin ()"	2	1	50.00		1	50.00		2	
+		"BATTERSBY, Elaine (CTA)"	9	6	66.67		3	33.33		9	
+		"KAVANAGH, Mary (DEM)"	58	21	36.21		37	63.79		58	
+		"LAWN, Barrie (HAN)"	54	38	70.37		16	29.63		54	
+		Total	225	491	52.01		453	47.99		944	
+
+	Minmi										
+			1st Prefs	143	39.39		220	60.61		363	
+		"WILLIAMS, Harry (PLP)"	29	11	37.93		18	62.07		29	
+		"CRITICOS, Harry (IND)"	10	4	40.00		6	60.00		10	
+		"SUTTON, John (GRN)"	25	9	36.00		16	64.00		25	
+		"KILLION-DELCASTILLO, Erin ()"	2	0	0.00		2	100.00		2	
+		"BATTERSBY, Elaine (CTA)"	9	7	77.78		2	22.22		9	
+		"KAVANAGH, Mary (DEM)"	13	6	46.15		7	53.85		13	
+		"LAWN, Barrie (HAN)"	52	36	69.23		16	30.77		52	
+		Total	140	216	42.94		287	57.06		503	
+
+	Newcastle										
+			1st Prefs	346	47.92		376	52.08		722	
+		"WILLIAMS, Harry (PLP)"	46	14	30.43		32	69.57		46	
+		"CRITICOS, Harry (IND)"	26	18	69.23		8	30.77		26	
+		"SUTTON, John (GRN)"	194	50	25.77		144	74.23		194	
+		"KILLION-DELCASTILLO, Erin ()"	17	0	0.00		17	100.00		17	
+		"BATTERSBY, Elaine (CTA)"	11	9	81.82		2	18.18		11	
+		"KAVANAGH, Mary (DEM)"	77	24	31.17		53	68.83		77	
+		"LAWN, Barrie (HAN)"	41	25	60.98		16	39.02		41	
+		Total	412	486	42.86		648	57.14		1134	
+
+	New Lambton										
+			1st Prefs	1083	49.41		1109	50.59		2192	
+		"WILLIAMS, Harry (PLP)"	114	46	40.35		68	59.65		114	
+		"CRITICOS, Harry (IND)"	96	47	48.96		49	51.04		96	
+		"SUTTON, John (GRN)"	290	90	31.03		200	68.97		290	
+		"KILLION-DELCASTILLO, Erin ()"	17	4	23.53		13	76.47		17	
+		"BATTERSBY, Elaine (CTA)"	41	35	85.37		6	14.63		41	
+		"KAVANAGH, Mary (DEM)"	237	83	35.02		154	64.98		237	
+		"LAWN, Barrie (HAN)"	130	93	71.54		37	28.46		130	
+		Total	925	1481	47.51		1636	52.49		3117	
+
+	New Lambton Central										
+			1st Prefs	362	47.76		396	52.24		758	
+		"WILLIAMS, Harry (PLP)"	28	10	35.71		18	64.29		28	
+		"CRITICOS, Harry (IND)"	30	23	76.67		7	23.33		30	
+		"SUTTON, John (GRN)"	60	22	36.67		38	63.33		60	
+		"KILLION-DELCASTILLO, Erin ()"	1	1	100.00		0	0.00		1	
+		"BATTERSBY, Elaine (CTA)"	13	8	61.54		5	38.46		13	
+		"KAVANAGH, Mary (DEM)"	37	11	29.73		26	70.27		37	
+		"LAWN, Barrie (HAN)"	39	25	64.10		14	35.90		39	
+		Total	208	462	47.83		504	52.17		966	
+
+	New Lambton South										
+			1st Prefs	448	37.46		748	62.54		1196	
+		"WILLIAMS, Harry (PLP)"	56	32	57.14		24	42.86		56	
+		"CRITICOS, Harry (IND)"	42	21	50.00		21	50.00		42	
+		"SUTTON, John (GRN)"	119	30	25.21		89	74.79		119	
+		"KILLION-DELCASTILLO, Erin ()"	3	3	100.00		0	0.00		3	
+		"BATTERSBY, Elaine (CTA)"	24	19	79.17		5	20.83		24	
+		"KAVANAGH, Mary (DEM)"	86	29	33.72		57	66.28		86	
+		"LAWN, Barrie (HAN)"	69	48	69.57		21	30.43		69	
+		Total	399	630	39.50		965	60.50		1595	
+
+	Pittown										
+			1st Prefs	142	33.33		284	66.67		426	
+		"WILLIAMS, Harry (PLP)"	32	21	65.63		11	34.38		32	
+		"CRITICOS, Harry (IND)"	13	6	46.15		7	53.85		13	
+		"SUTTON, John (GRN)"	25	6	24.00		19	76.00		25	
+		"KILLION-DELCASTILLO, Erin ()"	3	1	33.33		2	66.67		3	
+		"BATTERSBY, Elaine (CTA)"	6	4	66.67		2	33.33		6	
+		"KAVANAGH, Mary (DEM)"	16	4	25.00		12	75.00		16	
+		"LAWN, Barrie (HAN)"	54	35	64.81		19	35.19		54	
+		Total	149	219	38.09		356	61.91		575	
+
+	Plattsburg										
+			1st Prefs	556	34.32		1064	65.68		1620	
+		"WILLIAMS, Harry (PLP)"	126	56	44.44		70	55.56		126	
+		"CRITICOS, Harry (IND)"	48	29	60.42		19	39.58		48	
+		"SUTTON, John (GRN)"	116	37	31.90		79	68.10		116	
+		"KILLION-DELCASTILLO, Erin ()"	5	1	20.00		4	80.00		5	
+		"BATTERSBY, Elaine (CTA)"	40	29	72.50		11	27.50		40	
+		"KAVANAGH, Mary (DEM)"	82	30	36.59		52	63.41		82	
+		"LAWN, Barrie (HAN)"	264	177	67.05		87	32.95		264	
+		Total	681	915	39.77		1386	60.23		2301	
+
+	Shortland										
+			1st Prefs	371	38.89		583	61.11		954	
+		"WILLIAMS, Harry (PLP)"	85	32	37.65		53	62.35		85	
+		"CRITICOS, Harry (IND)"	40	17	42.50		23	57.50		40	
+		"SUTTON, John (GRN)"	77	26	33.77		51	66.23		77	
+		"KILLION-DELCASTILLO, Erin ()"	2	0	0.00		2	100.00		2	
+		"BATTERSBY, Elaine (CTA)"	17	16	94.12		1	5.88		17	
+		"KAVANAGH, Mary (DEM)"	53	19	35.85		34	64.15		53	
+		"LAWN, Barrie (HAN)"	156	117	75.00		39	25.00		156	
+		Total	430	598	43.21		786	56.79		1384	
+
+	Stockton										
+			1st Prefs	190	34.05		368	65.95		558	
+		"WILLIAMS, Harry (PLP)"	50	31	62.00		19	38.00		50	
+		"CRITICOS, Harry (IND)"	12	9	75.00		3	25.00		12	
+		"SUTTON, John (GRN)"	48	11	22.92		37	77.08		48	
+		"KILLION-DELCASTILLO, Erin ()"	2	1	50.00		1	50.00		2	
+		"BATTERSBY, Elaine (CTA)"	7	6	85.71		1	14.29		7	
+		"KAVANAGH, Mary (DEM)"	11	6	54.55		5	45.45		11	
+		"LAWN, Barrie (HAN)"	73	52	71.23		21	28.77		73	
+		Total	203	306	40.21		455	59.79		761	
+
+	Stockton North										
+			1st Prefs	90	28.39		227	71.61		317	
+		"WILLIAMS, Harry (PLP)"	10	7	70.00		3	30.00		10	
+		"CRITICOS, Harry (IND)"	10	4	40.00		6	60.00		10	
+		"SUTTON, John (GRN)"	33	8	24.24		25	75.76		33	
+		"KILLION-DELCASTILLO, Erin ()"	1	0	0.00		1	100.00		1	
+		"BATTERSBY, Elaine (CTA)"	4	1	25.00		3	75.00		4	
+		"KAVANAGH, Mary (DEM)"	25	9	36.00		16	64.00		25	
+		"LAWN, Barrie (HAN)"	46	22	47.83		24	52.17		46	
+		Total	129	141	31.61		305	68.39		446	
+
+	Stockton South										
+			1st Prefs	236	30.65		534	69.35		770	
+		"WILLIAMS, Harry (PLP)"	80	37	46.25		43	53.75		80	
+		"CRITICOS, Harry (IND)"	30	15	50.00		15	50.00		30	
+		"SUTTON, John (GRN)"	64	20	31.25		44	68.75		64	
+		"KILLION-DELCASTILLO, Erin ()"	11	1	9.09		10	90.91		11	
+		"BATTERSBY, Elaine (CTA)"	6	5	83.33		1	16.67		6	
+		"KAVANAGH, Mary (DEM)"	30	9	30.00		21	70.00		30	
+		"LAWN, Barrie (HAN)"	86	54	62.79		32	37.21		86	
+		Total	307	377	35.00		700	65.00		1077	
+
+	Sydney (Newcastle)										
+			1st Prefs	23	65.71		12	34.29		35	
+		"WILLIAMS, Harry (PLP)"	1	0	0.00		1	100.00		1	
+		"CRITICOS, Harry (IND)"	1	1	100.00		0	0.00		1	
+		"SUTTON, John (GRN)"	2	0	0.00		2	100.00		2	
+		"KILLION-DELCASTILLO, Erin ()"	1	0	0.00		1	100.00		1	
+		"BATTERSBY, Elaine (CTA)"	0	0	0.00		0	0.00		0	
+		"KAVANAGH, Mary (DEM)"	8	1	12.50		7	87.50		8	
+		"LAWN, Barrie (HAN)"	1	0	0.00		1	100.00		1	
+		Total	14	25	51.02		24	48.98		49	
+
+	The Junction										
+			1st Prefs	838	53.75		721	46.25		1559	
+		"WILLIAMS, Harry (PLP)"	80	32	40.00		48	60.00		80	
+		"CRITICOS, Harry (IND)"	60	35	58.33		25	41.67		60	
+		"SUTTON, John (GRN)"	199	50	25.13		149	74.87		199	
+		"KILLION-DELCASTILLO, Erin ()"	12	3	25.00		9	75.00		12	
+		"BATTERSBY, Elaine (CTA)"	9	6	66.67		3	33.33		9	
+		"KAVANAGH, Mary (DEM)"	183	69	37.70		114	62.30		183	
+		"LAWN, Barrie (HAN)"	86	59	68.60		27	31.40		86	
+		Total	629	1092	49.91		1096	50.09		2188	
+
+	Tighes Hill										
+			1st Prefs	210	29.29		507	70.71		717	
+		"WILLIAMS, Harry (PLP)"	83	34	40.96		49	59.04		83	
+		"CRITICOS, Harry (IND)"	20	8	40.00		12	60.00		20	
+		"SUTTON, John (GRN)"	162	34	20.99		128	79.01		162	
+		"KILLION-DELCASTILLO, Erin ()"	4	0	0.00		4	100.00		4	
+		"BATTERSBY, Elaine (CTA)"	11	8	72.73		3	27.27		11	
+		"KAVANAGH, Mary (DEM)"	74	16	21.62		58	78.38		74	
+		"LAWN, Barrie (HAN)"	71	43	60.56		28	39.44		71	
+		Total	425	353	30.91		789	69.09		1142	
+
+	Wallsend										
+			1st Prefs	157	31.03		349	68.97		506	
+		"WILLIAMS, Harry (PLP)"	57	20	35.09		37	64.91		57	
+		"CRITICOS, Harry (IND)"	15	8	53.33		7	46.67		15	
+		"SUTTON, John (GRN)"	44	14	31.82		30	68.18		44	
+		"KILLION-DELCASTILLO, Erin ()"	1	1	100.00		0	0.00		1	
+		"BATTERSBY, Elaine (CTA)"	19	16	84.21		3	15.79		19	
+		"KAVANAGH, Mary (DEM)"	22	9	40.91		13	59.09		22	
+		"LAWN, Barrie (HAN)"	62	37	59.68		25	40.32		62	
+		Total	220	262	36.09		464	63.91		726	
+
+	Wallsend Hospital										
+			1st Prefs	182	34.67		343	65.33		525	
+		"WILLIAMS, Harry (PLP)"	46	22	47.83		24	52.17		46	
+		"CRITICOS, Harry (IND)"	11	6	54.55		5	45.45		11	
+		"SUTTON, John (GRN)"	38	10	26.32		28	73.68		38	
+		"KILLION-DELCASTILLO, Erin ()"	0	0	0.00		0	0.00		0	
+		"BATTERSBY, Elaine (CTA)"	14	11	78.57		3	21.43		14	
+		"KAVANAGH, Mary (DEM)"	25	11	44.00		14	56.00		25	
+		"LAWN, Barrie (HAN)"	60	27	45.00		33	55.00		60	
+		Total	194	269	37.41		450	62.59		719	
+
+	Waratah										
+			1st Prefs	570	36.66		985	63.34		1555	
+		"WILLIAMS, Harry (PLP)"	133	59	44.36		74	55.64		133	
+		"CRITICOS, Harry (IND)"	63	28	44.44		35	55.56		63	
+		"SUTTON, John (GRN)"	155	44	28.39		111	71.61		155	
+		"KILLION-DELCASTILLO, Erin ()"	11	3	27.27		8	72.73		11	
+		"BATTERSBY, Elaine (CTA)"	49	39	79.59		10	20.41		49	
+		"KAVANAGH, Mary (DEM)"	152	45	29.61		107	70.39		152	
+		"LAWN, Barrie (HAN)"	137	81	59.12		56	40.88		137	
+		Total	700	869	38.54		1386	61.46		2255	
+
+	Waratah Central										
+			1st Prefs	72	27.69		188	72.31		260	
+		"WILLIAMS, Harry (PLP)"	30	14	46.67		16	53.33		30	
+		"CRITICOS, Harry (IND)"	7	3	42.86		4	57.14		7	
+		"SUTTON, John (GRN)"	23	4	17.39		19	82.61		23	
+		"KILLION-DELCASTILLO, Erin ()"	3	0	0.00		3	100.00		3	
+		"BATTERSBY, Elaine (CTA)"	13	7	53.85		6	46.15		13	
+		"KAVANAGH, Mary (DEM)"	21	2	9.52		19	90.48		21	
+		"LAWN, Barrie (HAN)"	34	20	58.82		14	41.18		34	
+		Total	131	122	31.20		269	68.80		391	
+
+	Waratah South										
+			1st Prefs	126	35.39		230	64.61		356	
+		"WILLIAMS, Harry (PLP)"	10	5	50.00		5	50.00		10	
+		"CRITICOS, Harry (IND)"	13	7	53.85		6	46.15		13	
+		"SUTTON, John (GRN)"	27	7	25.93		20	74.07		27	
+		"KILLION-DELCASTILLO, Erin ()"	2	1	50.00		1	50.00		2	
+		"BATTERSBY, Elaine (CTA)"	8	7	87.50		1	12.50		8	
+		"KAVANAGH, Mary (DEM)"	16	8	50.00		8	50.00		16	
+		"LAWN, Barrie (HAN)"	38	19	50.00		19	50.00		38	
+		Total	114	180	38.30		290	61.70		470	
+
+	Waratah West										
+			1st Prefs	279	32.75		573	67.25		852	
+		"WILLIAMS, Harry (PLP)"	49	20	40.82		29	59.18		49	
+		"CRITICOS, Harry (IND)"	30	20	66.67		10	33.33		30	
+		"SUTTON, John (GRN)"	71	15	21.13		56	78.87		71	
+		"KILLION-DELCASTILLO, Erin ()"	3	1	33.33		2	66.67		3	
+		"BATTERSBY, Elaine (CTA)"	14	6	42.86		8	57.14		14	
+		"KAVANAGH, Mary (DEM)"	46	13	28.26		33	71.74		46	
+		"LAWN, Barrie (HAN)"	98	60	61.22		38	38.78		98	
+		Total	311	414	35.60		749	64.40		1163	
+
+	Special Hospitals										
+			1st Prefs	71	35.50		129	64.50		200	
+		"WILLIAMS, Harry (PLP)"	18	12	66.67		6	33.33		18	
+		"CRITICOS, Harry (IND)"	0	0	0.00		0	0.00		0	
+		"SUTTON, John (GRN)"	5	3	60.00		2	40.00		5	
+		"KILLION-DELCASTILLO, Erin ()"	0	0	0.00		0	0.00		0	
+		"BATTERSBY, Elaine (CTA)"	2	1	50.00		1	50.00		2	
+		"KAVANAGH, Mary (DEM)"	9	2	22.22		7	77.78		9	
+		"LAWN, Barrie (HAN)"	11	4	36.36		7	63.64		11	
+		Total	45	93	37.96		152	62.04		245	
+
+	Total Ordinary										
+			1st Prefs	20316	41.75		28341	58.25		48657	
+		"WILLIAMS, Harry (PLP)"	3405	1435	42.14		1970	57.86		3405	
+		"CRITICOS, Harry (IND)"	1609	931	57.86		678	42.14		1609	
+		"SUTTON, John (GRN)"	5081	1422	27.99		3659	72.01		5081	
+		"KILLION-DELCASTILLO, Erin ()"	317	80	25.24		237	74.76		317	
+		"BATTERSBY, Elaine (CTA)"	1021	786	76.98		235	23.02		1021	
+		"KAVANAGH, Mary (DEM)"	3780	1264	33.44		2516	66.56		3780	
+		"LAWN, Barrie (HAN)"	4033	2645	65.58		1388	34.42		4033	
+		Total	19246	28879	42.53		39024	57.47		67903	
+
+	ABSENT										
+			1st Prefs	1703	51.94		1576	48.06		3279	
+		"WILLIAMS, Harry (PLP)"	425	184	43.29		241	56.71		425	
+		"CRITICOS, Harry (IND)"	141	79	56.03		62	43.97		141	
+		"SUTTON, John (GRN)"	532	166	31.20		366	68.80		532	
+		"KILLION-DELCASTILLO, Erin ()"	26	16	61.54		10	38.46		26	
+		"BATTERSBY, Elaine (CTA)"	107	79	73.83		28	26.17		107	
+		"KAVANAGH, Mary (DEM)"	424	160	37.74		264	62.26		424	
+		"LAWN, Barrie (HAN)"	298	166	55.70		132	44.30		298	
+		Total	1953	2553	48.80		2679	51.20		5232	
+
+	POSTAL										
+			1st Prefs	1124	40.00		1686	60.00		2810	
+		"WILLIAMS, Harry (PLP)"	130	47	36.15		83	63.85		130	
+		"CRITICOS, Harry (IND)"	57	35	61.40		22	38.60		57	
+		"SUTTON, John (GRN)"	109	26	23.85		83	76.15		109	
+		"KILLION-DELCASTILLO, Erin ()"	2	1	50.00		1	50.00		2	
+		"BATTERSBY, Elaine (CTA)"	50	36	72.00		14	28.00		50	
+		"KAVANAGH, Mary (DEM)"	116	41	35.34		75	64.66		116	
+		"LAWN, Barrie (HAN)"	240	130	54.17		110	45.83		240	
+		Total	704	1440	40.98		2074	59.02		3514	
+
+	PRE_POLL										
+			1st Prefs	1085	51.08		1039	48.92		2124	
+		"WILLIAMS, Harry (PLP)"	102	53	51.96		49	48.04		102	
+		"CRITICOS, Harry (IND)"	87	48	55.17		39	44.83		87	
+		"SUTTON, John (GRN)"	265	81	30.57		184	69.43		265	
+		"KILLION-DELCASTILLO, Erin ()"	8	3	37.50		5	62.50		8	
+		"BATTERSBY, Elaine (CTA)"	55	42	76.36		13	23.64		55	
+		"KAVANAGH, Mary (DEM)"	245	85	34.69		160	65.31		245	
+		"LAWN, Barrie (HAN)"	170	102	60.00		68	40.00		170	
+		Total	932	1499	49.05		1557	50.95		3056	
+
+	PROVISIONAL										
+			1st Prefs	84	37.84		138	62.16		222	
+		"WILLIAMS, Harry (PLP)"	31	10	32.26		21	67.74		31	
+		"CRITICOS, Harry (IND)"	5	1	20.00		4	80.00		5	
+		"SUTTON, John (GRN)"	35	9	25.71		26	74.29		35	
+		"KILLION-DELCASTILLO, Erin ()"	1	1	100.00		0	0.00		1	
+		"BATTERSBY, Elaine (CTA)"	5	1	20.00		4	80.00		5	
+		"KAVANAGH, Mary (DEM)"	36	14	38.89		22	61.11		36	
+		"LAWN, Barrie (HAN)"	12	6	50.00		6	50.00		12	
+		Total	125	126	36.31		221	63.69		347	
+
+	Division Summary										
+			1st Prefs	24312	42.58		32780	57.42		57092	
+		"WILLIAMS, Harry (PLP)"	4093	1729	42.24		2364	57.76		4093	
+		"CRITICOS, Harry (IND)"	1899	1094	57.61		805	42.39		1899	
+		"SUTTON, John (GRN)"	6022	1704	28.30		4318	71.70		6022	
+		"KILLION-DELCASTILLO, Erin ()"	354	101	28.53		253	71.47		354	
+		"BATTERSBY, Elaine (CTA)"	1238	944	76.25		294	23.75		1238	
+		"KAVANAGH, Mary (DEM)"	4601	1564	33.99		3037	66.01		4601	
+		"LAWN, Barrie (HAN)"	4753	3049	64.15		1704	35.85		4753	
+		Total	22960	34497	43.09		45555	56.91		80052	

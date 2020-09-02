@@ -1,0 +1,111 @@
+Senate - 1993 Election: Australian Capital Territory				
+Registered Group Voting Tickets				
+
+
+Australian Democrats				
+			Preferences	
+Ticket	Party/Group Name	Candidate Name	Ticket # 1	Ticket # 2
+A	Australian Democrats	"MICO, Domenic"	1	1
+		"MAIN, Peter"	2	2
+B	Australian Labor Party	"McMULLAN, Bob"	10	8
+		"SHEEHAN, Maureen"	11	9
+C	Abolish Self Government Coalition	"MILLER, Helen"	13	13
+		"ERNST, Ute"	14	14
+D	The Greens	"TUCKER, Kerrie"	3	3
+		"TURBAYNE, David"	4	4
+E	Liberal	"REID, Margaret"	8	10
+		"SPIER, Lucinda"	9	11
+F	Natural Law Party	"SEATON, David"	6	6
+		"KERRISON, Nanette"	7	7
+UG	Australians Against Further Immigration	"BURNS, Arthur"	12	12
+UG	Independent	"COLLAERY, Bernard"	5	5
+
+
+Australian Labor Party				
+Ticket	Party/Group Name	Candidate Name	Preferences	
+A	Australian Democrats	"MICO, Domenic"	5	
+		"MAIN, Peter"	6	
+B	Australian Labor Party	"McMULLAN, Bob"	1	
+		"SHEEHAN, Maureen"	2	
+C	Abolish Self Government Coalition	"MILLER, Helen"	13	
+		"ERNST, Ute"	14	
+D	The Greens	"TUCKER, Kerrie"	3	
+		"TURBAYNE, David"	4
+E	Liberal	"REID, Margaret"	11
+		"SPIER, Lucinda"	10
+F	Natural Law Party	"SEATON, David"	7
+		"KERRISON, Nanette"	8
+UG	Australians Against Further Immigration	"BURNS, Arthur"	12
+UG	Independent	"COLLAERY, Bernard"	9
+
+
+Abolish Self Government Coalition			
+Ticket	Party/Group Name	Candidate Name	Preferences
+A	Australian Democrats	"MICO, Domenic"	9
+		"MAIN, Peter"	8
+B	Australian Labor Party	"McMULLAN, Bob"	13
+		"SHEEHAN, Maureen"	14
+C	Abolish Self Government Coalition	"MILLER, Helen"	1
+		"ERNST, Ute"	2
+D	The Greens	"TUCKER, Kerrie"	6
+		"TURBAYNE, David"	7
+E	Liberal	"REID, Margaret"	11
+		"SPIER, Lucinda"	12
+F	Natural Law Party	"SEATON, David"	4
+		"KERRISON, Nanette"	5
+UG	Australians Against Further Immigration	"BURNS, Arthur"	3
+UG	Independent	"COLLAERY, Bernard"	10
+
+
+The Greens			
+Ticket	Party/Group Name	Candidate Name	Preferences
+A	Australian Democrats	"MICO, Domenic"	3
+		"MAIN, Peter"	4
+B	Australian Labor Party	"McMULLAN, Bob"	5
+		"SHEEHAN, Maureen"	6
+C	Abolish Self Government Coalition	"MILLER, Helen"	12
+		"ERNST, Ute"	13
+D	The Greens	"TUCKER, Kerrie"	1
+		"TURBAYNE, David"	2
+E	Liberal	"REID, Margaret"	10
+		"SPIER, Lucinda"	11
+F	Natural Law Party	"SEATON, David"	8
+		"KERRISON, Nanette"	9
+UG	Australians Against Further Immigration	"BURNS, Arthur"	14
+UG	Independent	"COLLAERY, Bernard"	7
+
+
+Liberal			
+Ticket	Party/Group Name	Candidate Name	Preferences
+A	Australian Democrats	"MICO, Domenic"	6
+		"MAIN, Peter"	7
+B	Australian Labor Party	"McMULLAN, Bob"	12
+		"SHEEHAN, Maureen"	13
+C	Abolish Self Government Coalition	"MILLER, Helen"	3
+		"ERNST, Ute"	4
+D	The Greens	"TUCKER, Kerrie"	8
+		"TURBAYNE, David"	9
+E	Liberal	"REID, Margaret"	1
+		"SPIER, Lucinda"	2
+F	Natural Law Party	"SEATON, David"	10
+		"KERRISON, Nanette"	11
+UG	Australians Against Further Immigration	"BURNS, Arthur"	14
+UG	Independent	"COLLAERY, Bernard"	5
+
+
+Natural Law Party			
+Ticket	Party/Group Name	Candidate Name	Preferences
+A	Australian Democrats	"MICO, Domenic"	6
+		"MAIN, Peter"	5
+B	Australian Labor Party	"McMULLAN, Bob"	7
+		"SHEEHAN, Maureen"	8
+C	Abolish Self Government Coalition	"MILLER, Helen"	12
+		"ERNST, Ute"	11
+D	The Greens	"TUCKER, Kerrie"	3
+		"TURBAYNE, David"	4
+E	Liberal	"REID, Margaret"	10
+		"SPIER, Lucinda"	9
+F	Natural Law Party	"SEATON, David"	1
+		"KERRISON, Nanette"	2
+UG	Australians Against Further Immigration	"BURNS, Arthur"	14
+UG	Independent	"COLLAERY, Bernard"	13

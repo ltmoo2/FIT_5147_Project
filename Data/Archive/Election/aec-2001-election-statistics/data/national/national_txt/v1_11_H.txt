@@ -1,0 +1,219 @@
+House of Representatives: Election 2001 - National		
+Turnout 		
+By Division		
+		
+National Summary		
+State	Turnout %	Swing
+New South Wales	94.74	-0.10
+Victoria	95.14	-0.47
+Queensland	94.72	0.48
+Western Australia	94.57	-0.09
+South Australia	95.55	-0.12
+Tasmania	96.14	0.03
+Australian Capital Territory	94.97	-0.69
+Northern Territory	86.11	-4.22
+National Turnout	94.85	-0.14
+		
+
+		
+		
+		
+		
+		
+New South Wales		
+Division	Turnout %	Swing
+Banks	95.10	-0.06
+Barton	94.42	-0.24
+Bennelong	94.59	-0.48
+Berowra	94.85	-0.31
+Blaxland	93.89	-0.42
+Bradfield	94.22	-0.38
+Calare	96.18	-0.02
+Charlton	95.63	-0.57
+Chifley	94.21	-0.46
+Cook	95.28	0.00
+Cowper	95.31	0.12
+Cunningham	95.42	0.15
+Dobell	94.98	-0.70
+Eden-Monaro	95.70	-0.09
+Farrer	95.58	-0.34
+Fowler	93.35	-0.58
+Gilmore	95.68	-0.53
+Grayndler	91.95	-0.64
+Greenway	94.81	-0.28
+Gwydir	95.12	-0.25
+Hughes	96.15	-0.07
+Hume	95.73	-0.53
+Hunter	96.13	-0.02
+Kingsford Smith	93.93	0.14
+Lindsay	95.51	-0.51
+Lowe	94.91	-0.04
+Lyne	95.92	-0.23
+Macarthur	94.94	-0.55
+Mackellar	94.36	-0.31
+Macquarie	94.98	-0.42
+Mitchell	95.51	-0.11
+Newcastle	94.27	5.90
+New England	95.96	0.79
+North Sydney	92.72	-0.37
+Page	95.71	-0.28
+Parkes	95.57	0.69
+Parramatta	94.01	-0.88
+Paterson	96.65	-0.04
+Prospect	95.29	0.21
+Reid	93.28	0.12
+Richmond	94.40	-0.55
+Riverina	95.94	0.03
+Robertson	95.55	-0.37
+Shortland	95.66	-0.57
+Sydney	90.14	-0.11
+Throsby	95.51	-0.24
+Warringah	93.69	0.10
+Watson	92.85	-0.56
+Wentworth	91.73	-0.23
+Werriwa	93.97	-0.57
+New South Wales Turnout	94.74	-0.10
+
+Victoria		
+Division	Turnout %	Swing
+Aston	96.89	0.25
+Ballarat	96.58	-0.15
+Batman	93.19	-1.29
+Bendigo	96.55	-0.46
+Bruce	95.32	-0.87
+Burke	95.57	-0.41
+Calwell	94.79	-0.36
+Casey	95.74	-0.36
+Chisholm	95.08	-0.60
+Corangamite	96.32	0.53
+Corio	95.74	0.11
+Deakin	95.36	-0.68
+Dunkley	95.58	-0.45
+Flinders	95.86	-0.41
+Gellibrand	92.84	-0.91
+Gippsland	95.70	-0.29
+Goldstein	94.42	-0.52
+Higgins	93.11	-0.97
+Holt	94.35	-0.85
+Hotham	94.80	-0.48
+Indi	95.64	-0.54
+Isaacs	96.10	-0.11
+Jagajaga	95.66	-0.45
+Kooyong	94.62	-0.66
+La Trobe	95.55	-0.54
+Lalor	95.72	-0.70
+Mallee	96.18	0.05
+Maribyrnong	94.48	-0.95
+McEwen	96.37	0.20
+McMillan	95.93	-0.59
+Melbourne	90.97	-1.82
+Melbourne Ports	91.68	-0.66
+Menzies	95.49	-0.30
+Murray	96.29	0.25
+Scullin	96.21	0.03
+Wannon	96.61	-0.18
+Wills	93.58	-0.96
+Victorian Turnout	95.14	-0.47
+		
+
+Queensland		
+Division	Turnout %	Swing
+Blair	95.68	0.40
+Bowman	95.48	0.46
+Brisbane	92.97	0.19
+Capricornia	95.46	0.20
+Dawson	95.22	0.21
+Dickson	96.13	0.44
+Fadden	94.53	0.90
+Fairfax	94.55	0.85
+Fisher	94.80	0.77
+Forde	94.46	1.22
+Griffith	94.70	0.25
+Groom	95.27	0.00
+Herbert	95.17	0.49
+Hinkler	95.87	0.47
+Kennedy	93.43	0.27
+Leichhardt	92.13	0.15
+Lilley	94.86	0.49
+Longman	95.48	0.82
+Maranoa	94.77	0.19
+McPherson	94.27	0.46
+Moncrieff	93.56	0.89
+Moreton	94.02	-0.24
+Oxley	95.17	0.57
+Petrie	95.21	0.53
+Rankin	93.70	0.63
+Ryan	95.45	1.06
+Wide Bay	95.45	0.38
+Queensland Turnout	94.72	0.48
+
+
+Western Australia		
+Division	Turnout %	Swing
+Brand	95.20	-0.15
+Canning	95.18	-0.08
+Cowan	95.72	-0.42
+Curtin	95.05	0.63
+Forrest	95.68	-0.16
+Fremantle	94.94	0.06
+Hasluck	95.21	N/A
+Kalgoorlie	86.81	-0.17
+Moore	95.52	-0.19
+O'Connor	95.30	-0.03
+Pearce	94.97	-0.28
+Perth	94.85	0.52
+Stirling	94.73	-0.54
+Swan	94.23	-0.82
+Tangney	95.43	-0.27
+Western Australian Turnout	94.57	-0.09
+		
+
+South Australia		
+Division	Turnout %	Swing
+Adelaide	94.37	-0.04
+Barker	96.27	-0.25
+Bonython	95.45	-0.24
+Boothby	95.74	-0.07
+Grey	94.60	-0.03
+Hindmarsh	95.46	-0.17
+Kingston	96.02	-0.20
+Makin	96.22	-0.09
+Mayo	95.86	-0.05
+Port Adelaide	95.03	-0.59
+Sturt	95.18	-0.02
+Wakefield	96.30	0.43
+South Australian Turnout	95.55	-0.12
+		
+		
+Tasmania		
+Division	Turnout %	Swing
+		
+Bass	96.16	0.16
+Braddon	96.45	-0.09
+Denison	95.62	0.24
+Franklin	96.30	0.24
+Lyons	96.18	-0.44
+Tasmanian Turnout	96.14	0.03
+		
+
+Australian Capital Territory		
+Division	Turnout %	Swing
+Canberra	95.33	-0.58
+Fraser	94.62	-0.77
+Australian Capital Territory Turnout	94.97	-0.69
+
+		
+Northern Territory		
+Division	Turnout %	Swing
+Lingiari	80.55	N/A
+Solomon	91.99	N/A	
+Northern Territory Turnout	86.11	-4.22	
+
+
+
+
+
+
+			
+
+			

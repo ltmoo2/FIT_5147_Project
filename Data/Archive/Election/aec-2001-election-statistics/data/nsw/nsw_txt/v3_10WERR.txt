@@ -1,0 +1,447 @@
+House of Representatives - 2001 Election: New South Wales											
+Two Candidate Preferred Preference Flow Result											
+By Polling Place											
+											
+Werriwa (83153)											
+		Candidate		"MASINA, Paul"		               	"LATHAM, Mark"		               	Total	
+				LP		                         	ALP		                        		
+				Votes	%	                     	Votes	%	                     		
+	Austral (Werriwa)										
+			1st Prefs	630	56.65		482	43.35		1112	
+		"URI, John (UNI)"	43	34	79.07		9	20.93		43	
+		"WOODGER, Janey (AFI)"	15	10	66.67		5	33.33		15	
+		"TAN, Greg (CTA)"	26	14	53.85		12	46.15		26	
+		"BLANCH, Glenda (DEM)"	24	8	33.33		16	66.67		24	
+		"BARSONY, Roger (GRN)"	23	6	26.09		17	73.91		23	
+		"KOTARSKI, P (HAN)"	83	64	77.11		19	22.89		83	
+		Total	214	766	57.77		560	42.23		1326	
+
+	Campbellfield										
+			1st Prefs	319	31.24		702	68.76		1021	
+		"URI, John (UNI)"	22	15	68.18		7	31.82		22	
+		"WOODGER, Janey (AFI)"	23	6	26.09		17	73.91		23	
+		"TAN, Greg (CTA)"	18	11	61.11		7	38.89		18	
+		"BLANCH, Glenda (DEM)"	33	12	36.36		21	63.64		33	
+		"BARSONY, Roger (GRN)"	35	8	22.86		27	77.14		35	
+		"KOTARSKI, P (HAN)"	54	19	35.19		35	64.81		54	
+		Total	185	390	32.34		816	67.66		1206	
+
+	Cartwright (Werriwa)										
+			1st Prefs	97	21.90		346	78.10		443	
+		"URI, John (UNI)"	29	21	72.41		8	27.59		29	
+		"WOODGER, Janey (AFI)"	12	9	75.00		3	25.00		12	
+		"TAN, Greg (CTA)"	9	3	33.33		6	66.67		9	
+		"BLANCH, Glenda (DEM)"	11	0	0.00		11	100.00		11	
+		"BARSONY, Roger (GRN)"	16	3	18.75		13	81.25		16	
+		"KOTARSKI, P (HAN)"	35	17	48.57		18	51.43		35	
+		Total	112	150	27.03		405	72.97		555	
+
+	Casula										
+			1st Prefs	1089	38.18		1763	61.82		2852	
+		"URI, John (UNI)"	65	53	81.54		12	18.46		65	
+		"WOODGER, Janey (AFI)"	54	29	53.70		25	46.30		54	
+		"TAN, Greg (CTA)"	91	70	76.92		21	23.08		91	
+		"BLANCH, Glenda (DEM)"	93	35	37.63		58	62.37		93	
+		"BARSONY, Roger (GRN)"	69	13	18.84		56	81.16		69	
+		"KOTARSKI, P (HAN)"	161	85	52.80		76	47.20		161	
+		Total	533	1374	40.59		2011	59.41		3385	
+
+	Casula South										
+			1st Prefs	618	46.78		703	53.22		1321	
+		"URI, John (UNI)"	24	16	66.67		8	33.33		24	
+		"WOODGER, Janey (AFI)"	29	18	62.07		11	37.93		29	
+		"TAN, Greg (CTA)"	27	22	81.48		5	18.52		27	
+		"BLANCH, Glenda (DEM)"	38	11	28.95		27	71.05		38	
+		"BARSONY, Roger (GRN)"	34	15	44.12		19	55.88		34	
+		"KOTARSKI, P (HAN)"	61	34	55.74		27	44.26		61	
+		Total	213	734	47.85		800	52.15		1534	
+
+	Cecil Hills										
+			1st Prefs	968	41.12		1386	58.88		2354	
+		"URI, John (UNI)"	59	43	72.88		16	27.12		59	
+		"WOODGER, Janey (AFI)"	29	18	62.07		11	37.93		29	
+		"TAN, Greg (CTA)"	56	39	69.64		17	30.36		56	
+		"BLANCH, Glenda (DEM)"	72	32	44.44		40	55.56		72	
+		"BARSONY, Roger (GRN)"	92	30	32.61		62	67.39		92	
+		"KOTARSKI, P (HAN)"	75	31	41.33		44	58.67		75	
+		Total	383	1161	42.42		1576	57.58		2737	
+
+	Curran										
+			1st Prefs	269	26.45		748	73.55		1017	
+		"URI, John (UNI)"	52	35	67.31		17	32.69		52	
+		"WOODGER, Janey (AFI)"	27	11	40.74		16	59.26		27	
+		"TAN, Greg (CTA)"	21	11	52.38		10	47.62		21	
+		"BLANCH, Glenda (DEM)"	31	6	19.35		25	80.65		31	
+		"BARSONY, Roger (GRN)"	26	8	30.77		18	69.23		26	
+		"KOTARSKI, P (HAN)"	69	32	46.38		37	53.62		69	
+		Total	226	372	29.93		871	70.07		1243	
+
+	Glenfield										
+			1st Prefs	728	40.58		1066	59.42		1794	
+		"URI, John (UNI)"	30	18	60.00		12	40.00		30	
+		"WOODGER, Janey (AFI)"	39	22	56.41		17	43.59		39	
+		"TAN, Greg (CTA)"	56	38	67.86		18	32.14		56	
+		"BLANCH, Glenda (DEM)"	63	22	34.92		41	65.08		63	
+		"BARSONY, Roger (GRN)"	77	15	19.48		62	80.52		77	
+		"KOTARSKI, P (HAN)"	111	54	48.65		57	51.35		111	
+		Total	376	897	41.34		1273	58.66		2170	
+
+	Glenfield East										
+			1st Prefs	485	41.81		675	58.19		1160	
+		"URI, John (UNI)"	26	25	96.15		1	3.85		26	
+		"WOODGER, Janey (AFI)"	24	7	29.17		17	70.83		24	
+		"TAN, Greg (CTA)"	29	17	58.62		12	41.38		29	
+		"BLANCH, Glenda (DEM)"	40	17	42.50		23	57.50		40	
+		"BARSONY, Roger (GRN)"	32	10	31.25		22	68.75		32	
+		"KOTARSKI, P (HAN)"	63	37	58.73		26	41.27		63	
+		Total	214	598	43.52		776	56.48		1374	
+
+	Green Valley										
+			1st Prefs	966	33.84		1889	66.16		2855	
+		"URI, John (UNI)"	96	72	75.00		24	25.00		96	
+		"WOODGER, Janey (AFI)"	34	22	64.71		12	35.29		34	
+		"TAN, Greg (CTA)"	91	57	62.64		34	37.36		91	
+		"BLANCH, Glenda (DEM)"	59	22	37.29		37	62.71		59	
+		"BARSONY, Roger (GRN)"	97	34	35.05		63	64.95		97	
+		"KOTARSKI, P (HAN)"	90	47	52.22		43	47.78		90	
+		Total	467	1220	36.72		2102	63.28		3322	
+
+	Greenway Park										
+			1st Prefs	539	43.19		709	56.81		1248	
+		"URI, John (UNI)"	26	19	73.08		7	26.92		26	
+		"WOODGER, Janey (AFI)"	19	14	73.68		5	26.32		19	
+		"TAN, Greg (CTA)"	29	16	55.17		13	44.83		29	
+		"BLANCH, Glenda (DEM)"	40	15	37.50		25	62.50		40	
+		"BARSONY, Roger (GRN)"	29	7	24.14		22	75.86		29	
+		"KOTARSKI, P (HAN)"	34	19	55.88		15	44.12		34	
+		Total	177	629	44.14		796	55.86		1425	
+
+	Guise										
+			1st Prefs	188	19.96		754	80.04		942	
+		"URI, John (UNI)"	27	19	70.37		8	29.63		27	
+		"WOODGER, Janey (AFI)"	22	11	50.00		11	50.00		22	
+		"TAN, Greg (CTA)"	21	12	57.14		9	42.86		21	
+		"BLANCH, Glenda (DEM)"	15	5	33.33		10	66.67		15	
+		"BARSONY, Roger (GRN)"	20	4	20.00		16	80.00		20	
+		"KOTARSKI, P (HAN)"	58	25	43.10		33	56.90		58	
+		Total	163	264	23.89		841	76.11		1105	
+
+	Hinchinbrook										
+			1st Prefs	981	34.10		1896	65.90		2877	
+		"URI, John (UNI)"	72	58	80.56		14	19.44		72	
+		"WOODGER, Janey (AFI)"	36	19	52.78		17	47.22		36	
+		"TAN, Greg (CTA)"	69	43	62.32		26	37.68		69	
+		"BLANCH, Glenda (DEM)"	66	26	39.39		40	60.61		66	
+		"BARSONY, Roger (GRN)"	87	19	21.84		68	78.16		87	
+		"KOTARSKI, P (HAN)"	121	70	57.85		51	42.15		121	
+		Total	451	1216	36.54		2112	63.46		3328	
+
+	Hoxton Park										
+			1st Prefs	598	32.06		1267	67.94		1865	
+		"URI, John (UNI)"	67	39	58.21		28	41.79		67	
+		"WOODGER, Janey (AFI)"	24	12	50.00		12	50.00		24	
+		"TAN, Greg (CTA)"	83	57	68.67		26	31.33		83	
+		"BLANCH, Glenda (DEM)"	57	12	21.05		45	78.95		57	
+		"BARSONY, Roger (GRN)"	44	9	20.45		35	79.55		44	
+		"KOTARSKI, P (HAN)"	75	44	58.67		31	41.33		75	
+		Total	350	771	34.81		1444	65.19		2215	
+
+	Ingleburn										
+			1st Prefs	1319	45.33		1591	54.67		2910	
+		"URI, John (UNI)"	56	36	64.29		20	35.71		56	
+		"WOODGER, Janey (AFI)"	70	37	52.86		33	47.14		70	
+		"TAN, Greg (CTA)"	124	94	75.81		30	24.19		124	
+		"BLANCH, Glenda (DEM)"	77	32	41.56		45	58.44		77	
+		"BARSONY, Roger (GRN)"	141	22	15.60		119	84.40		141	
+		"KOTARSKI, P (HAN)"	180	101	56.11		79	43.89		180	
+		Total	648	1641	46.12		1917	53.88		3558	
+
+	Ingleburn High										
+			1st Prefs	461	46.85		523	53.15		984	
+		"URI, John (UNI)"	17	8	47.06		9	52.94		17	
+		"WOODGER, Janey (AFI)"	10	4	40.00		6	60.00		10	
+		"TAN, Greg (CTA)"	23	12	52.17		11	47.83		23	
+		"BLANCH, Glenda (DEM)"	35	9	25.71		26	74.29		35	
+		"BARSONY, Roger (GRN)"	46	9	19.57		37	80.43		46	
+		"KOTARSKI, P (HAN)"	42	26	61.90		16	38.10		42	
+		Total	173	529	45.72		628	54.28		1157	
+
+	Ingleburn North										
+			1st Prefs	390	69.15		174	30.85		564	
+		"URI, John (UNI)"	5	4	80.00		1	20.00		5	
+		"WOODGER, Janey (AFI)"	8	6	75.00		2	25.00		8	
+		"TAN, Greg (CTA)"	3	3	100.00		0	0.00		3	
+		"BLANCH, Glenda (DEM)"	18	9	50.00		9	50.00		18	
+		"BARSONY, Roger (GRN)"	16	6	37.50		10	62.50		16	
+		"KOTARSKI, P (HAN)"	26	16	61.54		10	38.46		26	
+		Total	76	434	67.81		206	32.19		640	
+
+	James Busby (Werriwa)										
+			1st Prefs	288	23.34		946	76.66		1234	
+		"URI, John (UNI)"	65	49	75.38		16	24.62		65	
+		"WOODGER, Janey (AFI)"	17	10	58.82		7	41.18		17	
+		"TAN, Greg (CTA)"	24	14	58.33		10	41.67		24	
+		"BLANCH, Glenda (DEM)"	30	12	40.00		18	60.00		30	
+		"BARSONY, Roger (GRN)"	25	10	40.00		15	60.00		25	
+		"KOTARSKI, P (HAN)"	38	15	39.47		23	60.53		38	
+		Total	199	398	27.77		1035	72.23		1433	
+
+	Kemps Creek (Werriwa)										
+			1st Prefs	380	66.43		192	33.57		572	
+		"URI, John (UNI)"	19	13	68.42		6	31.58		19	
+		"WOODGER, Janey (AFI)"	12	6	50.00		6	50.00		12	
+		"TAN, Greg (CTA)"	5	2	40.00		3	60.00		5	
+		"BLANCH, Glenda (DEM)"	10	6	60.00		4	40.00		10	
+		"BARSONY, Roger (GRN)"	10	6	60.00		4	40.00		10	
+		"KOTARSKI, P (HAN)"	46	32	69.57		14	30.43		46	
+		Total	102	445	66.02		229	33.98		674	
+
+	Leumeah (Werriwa)										
+			1st Prefs	79	55.24		64	44.76		143	
+		"URI, John (UNI)"	3	2	66.67		1	33.33		3	
+		"WOODGER, Janey (AFI)"	11	8	72.73		3	27.27		11	
+		"TAN, Greg (CTA)"	12	7	58.33		5	41.67		12	
+		"BLANCH, Glenda (DEM)"	5	2	40.00		3	60.00		5	
+		"BARSONY, Roger (GRN)"	8	3	37.50		5	62.50		8	
+		"KOTARSKI, P (HAN)"	16	8	50.00		8	50.00		16	
+		Total	55	109	55.05		89	44.95		198	
+
+	Leumeah North (Werriwa)										
+			1st Prefs	537	54.57		447	45.43		984	
+		"URI, John (UNI)"	6	6	100.00		0	0.00		6	
+		"WOODGER, Janey (AFI)"	20	12	60.00		8	40.00		20	
+		"TAN, Greg (CTA)"	36	26	72.22		10	27.78		36	
+		"BLANCH, Glenda (DEM)"	43	14	32.56		29	67.44		43	
+		"BARSONY, Roger (GRN)"	23	4	17.39		19	82.61		23	
+		"KOTARSKI, P (HAN)"	49	20	40.82		29	59.18		49	
+		Total	177	619	53.32		542	46.68		1161	
+
+	Liverpool West (Werriwa)										
+			1st Prefs	154	32.56		319	67.44		473	
+		"URI, John (UNI)"	24	16	66.67		8	33.33		24	
+		"WOODGER, Janey (AFI)"	12	6	50.00		6	50.00		12	
+		"TAN, Greg (CTA)"	21	11	52.38		10	47.62		21	
+		"BLANCH, Glenda (DEM)"	14	9	64.29		5	35.71		14	
+		"BARSONY, Roger (GRN)"	15	4	26.67		11	73.33		15	
+		"KOTARSKI, P (HAN)"	35	15	42.86		20	57.14		35	
+		Total	121	215	36.20		379	63.80		594	
+
+	Lurnea										
+			1st Prefs	530	30.76		1193	69.24		1723	
+		"URI, John (UNI)"	37	31	83.78		6	16.22		37	
+		"WOODGER, Janey (AFI)"	32	17	53.13		15	46.88		32	
+		"TAN, Greg (CTA)"	61	41	67.21		20	32.79		61	
+		"BLANCH, Glenda (DEM)"	34	15	44.12		19	55.88		34	
+		"BARSONY, Roger (GRN)"	71	12	16.90		59	83.10		71	
+		"KOTARSKI, P (HAN)"	145	71	48.97		74	51.03		145	
+		Total	380	717	34.09		1386	65.91		2103	
+
+	Macquarie Fields										
+			1st Prefs	807	38.63		1282	61.37		2089	
+		"URI, John (UNI)"	51	32	62.75		19	37.25		51	
+		"WOODGER, Janey (AFI)"	58	33	56.90		25	43.10		58	
+		"TAN, Greg (CTA)"	58	37	63.79		21	36.21		58	
+		"BLANCH, Glenda (DEM)"	70	18	25.71		52	74.29		70	
+		"BARSONY, Roger (GRN)"	68	14	20.59		54	79.41		68	
+		"KOTARSKI, P (HAN)"	146	60	41.10		86	58.90		146	
+		Total	451	1001	39.41		1539	60.59		2540	
+
+	Macquarie Fields North										
+			1st Prefs	380	44.34		477	55.66		857	
+		"URI, John (UNI)"	23	16	69.57		7	30.43		23	
+		"WOODGER, Janey (AFI)"	11	6	54.55		5	45.45		11	
+		"TAN, Greg (CTA)"	33	24	72.73		9	27.27		33	
+		"BLANCH, Glenda (DEM)"	33	14	42.42		19	57.58		33	
+		"BARSONY, Roger (GRN)"	22	7	31.82		15	68.18		22	
+		"KOTARSKI, P (HAN)"	65	28	43.08		37	56.92		65	
+		Total	187	475	45.50		569	54.50		1044	
+
+	Miller (Werriwa)										
+			1st Prefs	263	22.75		893	77.25		1156	
+		"URI, John (UNI)"	49	37	75.51		12	24.49		49	
+		"WOODGER, Janey (AFI)"	19	10	52.63		9	47.37		19	
+		"TAN, Greg (CTA)"	25	9	36.00		16	64.00		25	
+		"BLANCH, Glenda (DEM)"	19	5	26.32		14	73.68		19	
+		"BARSONY, Roger (GRN)"	24	9	37.50		15	62.50		24	
+		"KOTARSKI, P (HAN)"	71	30	42.25		41	57.75		71	
+		Total	207	363	26.63		1000	73.37		1363	
+
+	Minto										
+			1st Prefs	624	35.64		1127	64.36		1751	
+		"URI, John (UNI)"	36	27	75.00		9	25.00		36	
+		"WOODGER, Janey (AFI)"	36	20	55.56		16	44.44		36	
+		"TAN, Greg (CTA)"	47	28	59.57		19	40.43		47	
+		"BLANCH, Glenda (DEM)"	69	22	31.88		47	68.12		69	
+		"BARSONY, Roger (GRN)"	65	16	24.62		49	75.38		65	
+		"KOTARSKI, P (HAN)"	105	46	43.81		59	56.19		105	
+		Total	358	783	37.13		1326	62.87		2109	
+
+	Prestons										
+			1st Prefs	1227	38.93		1925	61.07		3152	
+		"URI, John (UNI)"	57	48	84.21		9	15.79		57	
+		"WOODGER, Janey (AFI)"	27	13	48.15		14	51.85		27	
+		"TAN, Greg (CTA)"	80	57	71.25		23	28.75		80	
+		"BLANCH, Glenda (DEM)"	85	27	31.76		58	68.24		85	
+		"BARSONY, Roger (GRN)"	95	29	30.53		66	69.47		95	
+		"KOTARSKI, P (HAN)"	103	50	48.54		53	51.46		103	
+		Total	447	1451	40.32		2148	59.68		3599	
+
+	Prestons West										
+			1st Prefs	590	46.13		689	53.87		1279	
+		"URI, John (UNI)"	19	12	63.16		7	36.84		19	
+		"WOODGER, Janey (AFI)"	27	20	74.07		7	25.93		27	
+		"TAN, Greg (CTA)"	97	64	65.98		33	34.02		97	
+		"BLANCH, Glenda (DEM)"	35	8	22.86		27	77.14		35	
+		"BARSONY, Roger (GRN)"	25	7	28.00		18	72.00		25	
+		"KOTARSKI, P (HAN)"	56	36	64.29		20	35.71		56	
+		Total	259	737	47.92		801	52.08		1538	
+
+	Robert Townson (Werriwa)										
+			1st Prefs	1054	45.31		1272	54.69		2326	
+		"URI, John (UNI)"	26	17	65.38		9	34.62		26	
+		"WOODGER, Janey (AFI)"	53	29	54.72		24	45.28		53	
+		"TAN, Greg (CTA)"	45	25	55.56		20	44.44		45	
+		"BLANCH, Glenda (DEM)"	94	29	30.85		65	69.15		94	
+		"BARSONY, Roger (GRN)"	69	21	30.43		48	69.57		69	
+		"KOTARSKI, P (HAN)"	132	62	46.97		70	53.03		132	
+		Total	419	1237	45.06		1508	54.94		2745	
+
+	Sackville Street										
+			1st Prefs	928	48.41		989	51.59		1917	
+		"URI, John (UNI)"	40	27	67.50		13	32.50		40	
+		"WOODGER, Janey (AFI)"	42	21	50.00		21	50.00		42	
+		"TAN, Greg (CTA)"	35	24	68.57		11	31.43		35	
+		"BLANCH, Glenda (DEM)"	66	26	39.39		40	60.61		66	
+		"BARSONY, Roger (GRN)"	35	10	28.57		25	71.43		35	
+		"KOTARSKI, P (HAN)"	153	110	71.90		43	28.10		153	
+		Total	371	1146	50.09		1142	49.91		2288	
+
+	St Andrews										
+			1st Prefs	964	43.58		1248	56.42		2212	
+		"URI, John (UNI)"	28	24	85.71		4	14.29		28	
+		"WOODGER, Janey (AFI)"	40	17	42.50		23	57.50		40	
+		"TAN, Greg (CTA)"	50	28	56.00		22	44.00		50	
+		"BLANCH, Glenda (DEM)"	67	24	35.82		43	64.18		67	
+		"BARSONY, Roger (GRN)"	63	14	22.22		49	77.78		63	
+		"KOTARSKI, P (HAN)"	115	64	55.65		51	44.35		115	
+		Total	363	1135	44.08		1440	55.92		2575	
+
+	St Andrews South										
+			1st Prefs	396	39.76		600	60.24		996	
+		"URI, John (UNI)"	17	10	58.82		7	41.18		17	
+		"WOODGER, Janey (AFI)"	30	17	56.67		13	43.33		30	
+		"TAN, Greg (CTA)"	23	19	82.61		4	17.39		23	
+		"BLANCH, Glenda (DEM)"	44	12	27.27		32	72.73		44	
+		"BARSONY, Roger (GRN)"	28	10	35.71		18	64.29		28	
+		"KOTARSKI, P (HAN)"	59	26	44.07		33	55.93		59	
+		Total	201	490	40.94		707	59.06		1197	
+
+	Sydney (Werriwa)										
+			1st Prefs	24	33.33		48	66.67		72	
+		"URI, John (UNI)"	5	4	80.00		1	20.00		5	
+		"WOODGER, Janey (AFI)"	1	1	100.00		0	0.00		1	
+		"TAN, Greg (CTA)"	3	3	100.00		0	0.00		3	
+		"BLANCH, Glenda (DEM)"	4	1	25.00		3	75.00		4	
+		"BARSONY, Roger (GRN)"	5	0	0.00		5	100.00		5	
+		"KOTARSKI, P (HAN)"	4	0	0.00		4	100.00		4	
+		Total	22	33	35.11		61	64.89		94	
+
+	The Grange										
+			1st Prefs	358	33.24		719	66.76		1077	
+		"URI, John (UNI)"	27	19	70.37		8	29.63		27	
+		"WOODGER, Janey (AFI)"	33	12	36.36		21	63.64		33	
+		"TAN, Greg (CTA)"	33	18	54.55		15	45.45		33	
+		"BLANCH, Glenda (DEM)"	29	12	41.38		17	58.62		29	
+		"BARSONY, Roger (GRN)"	25	7	28.00		18	72.00		25	
+		"KOTARSKI, P (HAN)"	57	17	29.82		40	70.18		57	
+		Total	204	443	34.58		838	65.42		1281	
+
+	West Hoxton										
+			1st Prefs	272	58.12		196	41.88		468	
+		"URI, John (UNI)"	8	6	75.00		2	25.00		8	
+		"WOODGER, Janey (AFI)"	6	2	33.33		4	66.67		6	
+		"TAN, Greg (CTA)"	27	25	92.59		2	7.41		27	
+		"BLANCH, Glenda (DEM)"	3	1	33.33		2	66.67		3	
+		"BARSONY, Roger (GRN)"	12	3	25.00		9	75.00		12	
+		"KOTARSKI, P (HAN)"	30	23	76.67		7	23.33		30	
+		Total	86	332	59.93		222	40.07		554	
+
+	Whiddon Homes										
+			1st Prefs	77	48.43		82	51.57		159	
+		"URI, John (UNI)"	9	8	88.89		1	11.11		9	
+		"WOODGER, Janey (AFI)"	2	2	100.00		0	0.00		2	
+		"TAN, Greg (CTA)"	2	1	50.00		1	50.00		2	
+		"BLANCH, Glenda (DEM)"	4	1	25.00		3	75.00		4	
+		"BARSONY, Roger (GRN)"	2	1	50.00		1	50.00		2	
+		"KOTARSKI, P (HAN)"	5	4	80.00		1	20.00		5	
+		Total	24	94	51.37		89	48.63		183	
+
+	Special Hospitals										
+			1st Prefs	24	34.78		45	65.22		69	
+		"URI, John (UNI)"	1	1	100.00		0	0.00		1	
+		"WOODGER, Janey (AFI)"	0	0	0.00		0	0.00		0	
+		"TAN, Greg (CTA)"	0	0	0.00		0	0.00		0	
+		"BLANCH, Glenda (DEM)"	0	0	0.00		0	0.00		0	
+		"BARSONY, Roger (GRN)"	0	0	0.00		0	0.00		0	
+		"KOTARSKI, P (HAN)"	0	0	0.00		0	0.00		0	
+		Total	1	25	35.71		45	64.29		70	
+
+	Total Ordinary										
+			1st Prefs	20601	39.60		31427	60.40		52028	
+		"URI, John (UNI)"	1266	920	72.67		346	27.33		1266	
+		"WOODGER, Janey (AFI)"	964	517	53.63		447	46.37		964	
+		"TAN, Greg (CTA)"	1493	982	65.77		511	34.23		1493	
+		"BLANCH, Glenda (DEM)"	1530	531	34.71		999	65.29		1530	
+		"BARSONY, Roger (GRN)"	1574	405	25.73		1169	74.27		1574	
+		"KOTARSKI, P (HAN)"	2768	1438	51.95		1330	48.05		2768	
+		Total	9595	25394	41.21		36229	58.79		61623	
+
+	ABSENT										
+			1st Prefs	1760	41.27		2505	58.73		4265	
+		"URI, John (UNI)"	183	141	77.05		42	22.95		183	
+		"WOODGER, Janey (AFI)"	178	93	52.25		85	47.75		178	
+		"TAN, Greg (CTA)"	157	99	63.06		58	36.94		157	
+		"BLANCH, Glenda (DEM)"	230	86	37.39		144	62.61		230	
+		"BARSONY, Roger (GRN)"	236	89	37.71		147	62.29		236	
+		"KOTARSKI, P (HAN)"	343	163	47.52		180	52.48		343	
+		Total	1327	2431	43.47		3161	56.53		5592	
+
+	POSTAL										
+			1st Prefs	542	42.05		747	57.95		1289	
+		"URI, John (UNI)"	19	10	52.63		9	47.37		19	
+		"WOODGER, Janey (AFI)"	48	31	64.58		17	35.42		48	
+		"TAN, Greg (CTA)"	31	22	70.97		9	29.03		31	
+		"BLANCH, Glenda (DEM)"	44	13	29.55		31	70.45		44	
+		"BARSONY, Roger (GRN)"	26	9	34.62		17	65.38		26	
+		"KOTARSKI, P (HAN)"	105	49	46.67		56	53.33		105	
+		Total	273	676	43.28		886	56.72		1562	
+
+	PRE_POLL										
+			1st Prefs	767	43.11		1012	56.89		1779	
+		"URI, John (UNI)"	44	35	79.55		9	20.45		44	
+		"WOODGER, Janey (AFI)"	54	30	55.56		24	44.44		54	
+		"TAN, Greg (CTA)"	65	38	58.46		27	41.54		65	
+		"BLANCH, Glenda (DEM)"	68	18	26.47		50	73.53		68	
+		"BARSONY, Roger (GRN)"	46	20	43.48		26	56.52		46	
+		"KOTARSKI, P (HAN)"	135	79	58.52		56	41.48		135	
+		Total	412	987	45.05		1204	54.95		2191	
+
+	PROVISIONAL										
+			1st Prefs	146	33.56		289	66.44		435	
+		"URI, John (UNI)"	15	12	80.00		3	20.00		15	
+		"WOODGER, Janey (AFI)"	12	9	75.00		3	25.00		12	
+		"TAN, Greg (CTA)"	13	8	61.54		5	38.46		13	
+		"BLANCH, Glenda (DEM)"	14	6	42.86		8	57.14		14	
+		"BARSONY, Roger (GRN)"	9	0	0.00		9	100.00		9	
+		"KOTARSKI, P (HAN)"	21	8	38.10		13	61.90		21	
+		Total	84	189	36.42		330	63.58		519	
+
+	Division Summary										
+			1st Prefs	23816	39.83		35980	60.17		59796	
+		"URI, John (UNI)"	1527	1118	73.22		409	26.78		1527	
+		"WOODGER, Janey (AFI)"	1256	680	54.14		576	45.86		1256	
+		"TAN, Greg (CTA)"	1759	1149	65.32		610	34.68		1759	
+		"BLANCH, Glenda (DEM)"	1886	654	34.68		1232	65.32		1886	
+		"BARSONY, Roger (GRN)"	1891	523	27.66		1368	72.34		1891	
+		"KOTARSKI, P (HAN)"	3372	1737	51.51		1635	48.49		3372	
+		Total	11691	29677	41.51		41810	58.49		71487	

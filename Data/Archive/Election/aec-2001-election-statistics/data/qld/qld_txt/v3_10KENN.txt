@@ -1,0 +1,1068 @@
+House of Representatives - 2001 Election: Queensland 												
+Two Candidate Preferred Preference Flow Result 												
+By Polling Place												
+Kennedy (84739)												
+		Candidate		                  	"NEILAN, Alan"		               	"KATTER, Bob"		                	Total	
+				                           	ALP		                        	IND		                        		
+				                           	Votes	%	                     	Votes	%	                     		
+	Abergowrie											
+			1st Prefs		19	13.87		118	86.13		137	
+		"WALL, Jo (DEM)"	2		2	100.00		0	0.00		2	
+		"RIVAS, Cherie (GRN)"	1		1	100.00		0	0.00		1	
+		"LYLE, Mary (NP)"	38		2	5.26		36	94.74		38	
+		"HARRIS, Judith (CEC)"	0		0	0.00		0	0.00		0	
+		"BURNETT, Jerry (HAN)"	17		1	5.88		16	94.12		17	
+		Total	58		25	12.82		170	87.18		195	
+
+	Aloomba										
+			1st Prefs		57	35.40		104	64.60		161
+		"WALL, Jo (DEM)"	3		1	33.33		2	66.67		3
+		"RIVAS, Cherie (GRN)"	3		2	66.67		1	33.33		3
+		"LYLE, Mary (NP)"	61		3	4.92		58	95.08		61
+		"HARRIS, Judith (CEC)"	1		1	100.00		0	0.00		1
+		"BURNETT, Jerry (HAN)"	29		6	20.69		23	79.31		29
+		Total	97		70	27.13		188	72.87		258
+
+	Atherton										
+			1st Prefs		485	31.66		1047	68.34		1532
+		"WALL, Jo (DEM)"	83		67	80.72		16	19.28		83
+		"RIVAS, Cherie (GRN)"	54		38	70.37		16	29.63		54
+		"LYLE, Mary (NP)"	372		47	12.63		325	87.37		372
+		"HARRIS, Judith (CEC)"	8		3	37.50		5	62.50		8
+		"BURNETT, Jerry (HAN)"	265		24	9.06		241	90.94		265
+		Total	782		664	28.69		1650	71.31		2314
+
+	Atherton North										
+			1st Prefs		192	28.96		471	71.04		663
+		"WALL, Jo (DEM)"	35		22	62.86		13	37.14		35
+		"RIVAS, Cherie (GRN)"	16		10	62.50		6	37.50		16
+		"LYLE, Mary (NP)"	215		26	12.09		189	87.91		215
+		"HARRIS, Judith (CEC)"	2		1	50.00		1	50.00		2
+		"BURNETT, Jerry (HAN)"	99		15	15.15		84	84.85		99
+		Total	367		266	25.83		764	74.17		1030
+
+	Babinda										
+			1st Prefs		256	42.67		344	57.33		600
+		"WALL, Jo (DEM)"	24		16	66.67		8	33.33		24
+		"RIVAS, Cherie (GRN)"	11		4	36.36		7	63.64		11
+		"LYLE, Mary (NP)"	77		12	15.58		65	84.42		77
+		"HARRIS, Judith (CEC)"	4		0	0.00		4	100.00		4
+		"BURNETT, Jerry (HAN)"	107		19	17.76		88	82.24		107
+		Total	223		307	37.30		516	62.70		823
+
+	Bambaroo										
+			1st Prefs		25	17.61		117	82.39		142
+		"WALL, Jo (DEM)"	7		6	85.71		1	14.29		7
+		"RIVAS, Cherie (GRN)"	3		1	33.33		2	66.67		3
+		"LYLE, Mary (NP)"	32		5	15.63		27	84.38		32
+		"HARRIS, Judith (CEC)"	2		0	0.00		2	100.00		2
+		"BURNETT, Jerry (HAN)"	19		4	21.05		15	78.95		19
+		Total	63		41	20.00		164	80.00		205
+
+	Bellenden Ker										
+			1st Prefs		11	13.92		68	86.08		79
+		"WALL, Jo (DEM)"	4		2	50.00		2	50.00		4
+		"RIVAS, Cherie (GRN)"	6		2	33.33		4	66.67		6
+		"LYLE, Mary (NP)"	19		3	15.79		16	84.21		19
+		"HARRIS, Judith (CEC)"	0		0	0.00		0	0.00		0
+		"BURNETT, Jerry (HAN)"	9		1	11.11		8	88.89		9
+		Total	38		19	16.24		98	83.76		117
+
+	Biboohra										
+			1st Prefs		32	16.49		162	83.51		194
+		"WALL, Jo (DEM)"	6		4	66.67		2	33.33		6
+		"RIVAS, Cherie (GRN)"	6		4	66.67		2	33.33		6
+		"LYLE, Mary (NP)"	20		3	15.00		17	85.00		20
+		"HARRIS, Judith (CEC)"	2		0	0.00		2	100.00		2
+		"BURNETT, Jerry (HAN)"	37		6	16.22		31	83.78		37
+		Total	71		49	18.49		216	81.51		265
+
+	Bluewater										
+			1st Prefs		408	46.68		466	53.32		874
+		"WALL, Jo (DEM)"	32		20	62.50		12	37.50		32
+		"RIVAS, Cherie (GRN)"	42		20	47.62		22	52.38		42
+		"LYLE, Mary (NP)"	264		39	14.77		225	85.23		264
+		"HARRIS, Judith (CEC)"	2		0	0.00		2	100.00		2
+		"BURNETT, Jerry (HAN)"	159		39	24.53		120	75.47		159
+		Total	499		526	38.31		847	61.69		1373
+
+	Boulia										
+			1st Prefs		52	46.02		61	53.98		113
+		"WALL, Jo (DEM)"	3		3	100.00		0	0.00		3
+		"RIVAS, Cherie (GRN)"	29		13	44.83		16	55.17		29
+		"LYLE, Mary (NP)"	22		4	18.18		18	81.82		22
+		"HARRIS, Judith (CEC)"	0		0	0.00		0	0.00		0
+		"BURNETT, Jerry (HAN)"	10		1	10.00		9	90.00		10
+		Total	64		73	41.24		104	58.76		177
+
+	Bramston Beach										
+			1st Prefs		10	15.15		56	84.85		66
+		"WALL, Jo (DEM)"	4		4	100.00		0	0.00		4
+		"RIVAS, Cherie (GRN)"	4		3	75.00		1	25.00		4
+		"LYLE, Mary (NP)"	4		0	0.00		4	100.00		4
+		"HARRIS, Judith (CEC)"	0		0	0.00		0	0.00		0
+		"BURNETT, Jerry (HAN)"	16		3	18.75		13	81.25		16
+		Total	28		20	21.28		74	78.72		94
+
+	Brisbane City (Kennedy)										
+			1st Prefs		10	27.03		27	72.97		37
+		"WALL, Jo (DEM)"	4		4	100.00		0	0.00		4
+		"RIVAS, Cherie (GRN)"	1		1	100.00		0	0.00		1
+		"LYLE, Mary (NP)"	11		2	18.18		9	81.82		11
+		"HARRIS, Judith (CEC)"	0		0	0.00		0	0.00		0
+		"BURNETT, Jerry (HAN)"	2		0	0.00		2	100.00		2
+		Total	18		17	30.91		38	69.09		55
+
+	Burketown										
+			1st Prefs		28	41.79		39	58.21		67
+		"WALL, Jo (DEM)"	3		3	100.00		0	0.00		3
+		"RIVAS, Cherie (GRN)"	1		1	100.00		0	0.00		1
+		"LYLE, Mary (NP)"	7		2	28.57		5	71.43		7
+		"HARRIS, Judith (CEC)"	0		0	0.00		0	0.00		0
+		"BURNETT, Jerry (HAN)"	5		2	40.00		3	60.00		5
+		Total	16		36	43.37		47	56.63		83
+
+	Butchers Creek										
+			1st Prefs		21	21.21		78	78.79		99
+		"WALL, Jo (DEM)"	5		3	60.00		2	40.00		5
+		"RIVAS, Cherie (GRN)"	7		6	85.71		1	14.29		7
+		"LYLE, Mary (NP)"	9		1	11.11		8	88.89		9
+		"HARRIS, Judith (CEC)"	0		0	0.00		0	0.00		0
+		"BURNETT, Jerry (HAN)"	20		2	10.00		18	90.00		20
+		Total	41		33	23.57		107	76.43		140
+
+	Camooweal										
+			1st Prefs		35	60.34		23	39.66		58
+		"WALL, Jo (DEM)"	0		0	0.00		0	0.00		0
+		"RIVAS, Cherie (GRN)"	0		0	0.00		0	0.00		0
+		"LYLE, Mary (NP)"	17		2	11.76		15	88.24		17
+		"HARRIS, Judith (CEC)"	0		0	0.00		0	0.00		0
+		"BURNETT, Jerry (HAN)"	4		0	0.00		4	100.00		4
+		Total	21		37	46.84		42	53.16		79
+
+	Cardwell										
+			1st Prefs		130	23.55		422	76.45		552
+		"WALL, Jo (DEM)"	8		4	50.00		4	50.00		8
+		"RIVAS, Cherie (GRN)"	17		13	76.47		4	23.53		17
+		"LYLE, Mary (NP)"	123		14	11.38		109	88.62		123
+		"HARRIS, Judith (CEC)"	3		1	33.33		2	66.67		3
+		"BURNETT, Jerry (HAN)"	97		5	5.15		92	94.85		97
+		Total	248		167	20.88		633	79.13		800
+
+	Charters Towers										
+			1st Prefs		292	31.84		625	68.16		917
+		"WALL, Jo (DEM)"	27		17	62.96		10	37.04		27
+		"RIVAS, Cherie (GRN)"	15		11	73.33		4	26.67		15
+		"LYLE, Mary (NP)"	158		22	13.92		136	86.08		158
+		"HARRIS, Judith (CEC)"	1		0	0.00		1	100.00		1
+		"BURNETT, Jerry (HAN)"	94		19	20.21		75	79.79		94
+		Total	295		361	29.79		851	70.21		1212
+
+	Charters Towers Central										
+			1st Prefs		239	30.56		543	69.44		782
+		"WALL, Jo (DEM)"	12		9	75.00		3	25.00		12
+		"RIVAS, Cherie (GRN)"	9		4	44.44		5	55.56		9
+		"LYLE, Mary (NP)"	95		12	12.63		83	87.37		95
+		"HARRIS, Judith (CEC)"	4		1	25.00		3	75.00		4
+		"BURNETT, Jerry (HAN)"	98		13	13.27		85	86.73		98
+		Total	218		278	27.80		722	72.20		1000
+
+	Charters Towers North										
+			1st Prefs		65	32.99		132	67.01		197
+		"WALL, Jo (DEM)"	4		4	100.00		0	0.00		4
+		"RIVAS, Cherie (GRN)"	3		3	100.00		0	0.00		3
+		"LYLE, Mary (NP)"	38		7	18.42		31	81.58		38
+		"HARRIS, Judith (CEC)"	1		0	0.00		1	100.00		1
+		"BURNETT, Jerry (HAN)"	14		2	14.29		12	85.71		14
+		Total	60		81	31.52		176	68.48		257
+
+	Chillagoe										
+			1st Prefs		15	12.71		103	87.29		118
+		"WALL, Jo (DEM)"	2		1	50.00		1	50.00		2
+		"RIVAS, Cherie (GRN)"	4		4	100.00		0	0.00		4
+		"LYLE, Mary (NP)"	20		4	20.00		16	80.00		20
+		"HARRIS, Judith (CEC)"	0		0	0.00		0	0.00		0
+		"BURNETT, Jerry (HAN)"	27		1	3.70		26	96.30		27
+		Total	53		25	14.62		146	85.38		171
+
+	Cloncurry										
+			1st Prefs		332	39.15		516	60.85		848
+		"WALL, Jo (DEM)"	38		26	68.42		12	31.58		38
+		"RIVAS, Cherie (GRN)"	13		7	53.85		6	46.15		13
+		"LYLE, Mary (NP)"	265		32	12.08		233	87.92		265
+		"HARRIS, Judith (CEC)"	2		0	0.00		2	100.00		2
+		"BURNETT, Jerry (HAN)"	77		12	15.58		65	84.42		77
+		Total	395		409	32.90		834	67.10		1243
+
+	Croydon										
+			1st Prefs		35	33.65		69	66.35		104
+		"WALL, Jo (DEM)"	3		2	66.67		1	33.33		3
+		"RIVAS, Cherie (GRN)"	2		0	0.00		2	100.00		2
+		"LYLE, Mary (NP)"	11		0	0.00		11	100.00		11
+		"HARRIS, Judith (CEC)"	1		0	0.00		1	100.00		1
+		"BURNETT, Jerry (HAN)"	14		2	14.29		12	85.71		14
+		Total	31		39	28.89		96	71.11		135
+
+	Dajarra										
+			1st Prefs		47	65.28		25	34.72		72
+		"WALL, Jo (DEM)"	2		2	100.00		0	0.00		2
+		"RIVAS, Cherie (GRN)"	2		1	50.00		1	50.00		2
+		"LYLE, Mary (NP)"	9		4	44.44		5	55.56		9
+		"HARRIS, Judith (CEC)"	0		0	0.00		0	0.00		0
+		"BURNETT, Jerry (HAN)"	0		0	0.00		0	0.00		0
+		Total	13		54	63.53		31	36.47		85
+
+	Dimbulah										
+			1st Prefs		103	27.11		277	72.89		380
+		"WALL, Jo (DEM)"	10		9	90.00		1	10.00		10
+		"RIVAS, Cherie (GRN)"	10		6	60.00		4	40.00		10
+		"LYLE, Mary (NP)"	51		3	5.88		48	94.12		51
+		"HARRIS, Judith (CEC)"	1		1	100.00		0	0.00		1
+		"BURNETT, Jerry (HAN)"	77		11	14.29		66	85.71		77
+		Total	149		133	25.14		396	74.86		529
+
+	Doomadgee										
+			1st Prefs		269	81.76		60	18.24		329
+		"WALL, Jo (DEM)"	12		11	91.67		1	8.33		12
+		"RIVAS, Cherie (GRN)"	2		2	100.00		0	0.00		2
+		"LYLE, Mary (NP)"	12		5	41.67		7	58.33		12
+		"HARRIS, Judith (CEC)"	1		0	0.00		1	100.00		1
+		"BURNETT, Jerry (HAN)"	5		3	60.00		2	40.00		5
+		Total	32		290	80.33		71	19.67		361
+
+	East Palmerston										
+			1st Prefs		27	16.17		140	83.83		167
+		"WALL, Jo (DEM)"	0		0	0.00		0	0.00		0
+		"RIVAS, Cherie (GRN)"	1		1	100.00		0	0.00		1
+		"LYLE, Mary (NP)"	13		2	15.38		11	84.62		13
+		"HARRIS, Judith (CEC)"	1		0	0.00		1	100.00		1
+		"BURNETT, Jerry (HAN)"	36		7	19.44		29	80.56		36
+		Total	51		37	16.97		181	83.03		218
+
+	Einasleigh										
+			1st Prefs		2	13.33		13	86.67		15
+		"WALL, Jo (DEM)"	0		0	0.00		0	0.00		0
+		"RIVAS, Cherie (GRN)"	0		0	0.00		0	0.00		0
+		"LYLE, Mary (NP)"	8		1	12.50		7	87.50		8
+		"HARRIS, Judith (CEC)"	0		0	0.00		0	0.00		0
+		"BURNETT, Jerry (HAN)"	9		0	0.00		9	100.00		9
+		Total	17		3	9.38		29	90.63		32
+
+	El Arish										
+			1st Prefs		86	27.48		227	72.52		313
+		"WALL, Jo (DEM)"	8		5	62.50		3	37.50		8
+		"RIVAS, Cherie (GRN)"	8		5	62.50		3	37.50		8
+		"LYLE, Mary (NP)"	39		5	12.82		34	87.18		39
+		"HARRIS, Judith (CEC)"	2		1	50.00		1	50.00		2
+		"BURNETT, Jerry (HAN)"	44		2	4.55		42	95.45		44
+		Total	101		104	25.12		310	74.88		414
+
+	Emerald Creek										
+			1st Prefs		21	10.40		181	89.60		202
+		"WALL, Jo (DEM)"	5		2	40.00		3	60.00		5
+		"RIVAS, Cherie (GRN)"	3		2	66.67		1	33.33		3
+		"LYLE, Mary (NP)"	36		6	16.67		30	83.33		36
+		"HARRIS, Judith (CEC)"	2		0	0.00		2	100.00		2
+		"BURNETT, Jerry (HAN)"	25		2	8.00		23	92.00		25
+		Total	71		33	12.09		240	87.91		273
+
+	Evelyn Central										
+			1st Prefs		13	26.00		37	74.00		50
+		"WALL, Jo (DEM)"	1		1	100.00		0	0.00		1
+		"RIVAS, Cherie (GRN)"	0		0	0.00		0	0.00		0
+		"LYLE, Mary (NP)"	5		0	0.00		5	100.00		5
+		"HARRIS, Judith (CEC)"	0		0	0.00		0	0.00		0
+		"BURNETT, Jerry (HAN)"	6		3	50.00		3	50.00		6
+		Total	12		17	27.42		45	72.58		62
+
+	Feluga										
+			1st Prefs		28	16.28		144	83.72		172
+		"WALL, Jo (DEM)"	4		2	50.00		2	50.00		4
+		"RIVAS, Cherie (GRN)"	5		1	20.00		4	80.00		5
+		"LYLE, Mary (NP)"	30		1	3.33		29	96.67		30
+		"HARRIS, Judith (CEC)"	2		1	50.00		1	50.00		2
+		"BURNETT, Jerry (HAN)"	17		2	11.76		15	88.24		17
+		Total	58		35	15.22		195	84.78		230
+
+	Flying Fish Point										
+			1st Prefs		66	31.58		143	68.42		209
+		"WALL, Jo (DEM)"	2		2	100.00		0	0.00		2
+		"RIVAS, Cherie (GRN)"	12		8	66.67		4	33.33		12
+		"LYLE, Mary (NP)"	30		1	3.33		29	96.67		30
+		"HARRIS, Judith (CEC)"	0		0	0.00		0	0.00		0
+		"BURNETT, Jerry (HAN)"	23		1	4.35		22	95.65		23
+		Total	67		78	28.26		198	71.74		276
+
+	Forrest Beach										
+			1st Prefs		130	32.10		275	67.90		405
+		"WALL, Jo (DEM)"	13		12	92.31		1	7.69		13
+		"RIVAS, Cherie (GRN)"	14		10	71.43		4	28.57		14
+		"LYLE, Mary (NP)"	87		7	8.05		80	91.95		87
+		"HARRIS, Judith (CEC)"	4		0	0.00		4	100.00		4
+		"BURNETT, Jerry (HAN)"	60		5	8.33		55	91.67		60
+		Total	178		164	28.13		419	71.87		583
+
+	Forsayth										
+			1st Prefs		10	22.22		35	77.78		45
+		"WALL, Jo (DEM)"	0		0	0.00		0	0.00		0
+		"RIVAS, Cherie (GRN)"	0		0	0.00		0	0.00		0
+		"LYLE, Mary (NP)"	16		2	12.50		14	87.50		16
+		"HARRIS, Judith (CEC)"	0		0	0.00		0	0.00		0
+		"BURNETT, Jerry (HAN)"	11		0	0.00		11	100.00		11
+		Total	27		12	16.67		60	83.33		72
+
+	Garradunga										
+			1st Prefs		31	17.82		143	82.18		174
+		"WALL, Jo (DEM)"	9		7	77.78		2	22.22		9
+		"RIVAS, Cherie (GRN)"	4		0	0.00		4	100.00		4
+		"LYLE, Mary (NP)"	35		5	14.29		30	85.71		35
+		"HARRIS, Judith (CEC)"	1		1	100.00		0	0.00		1
+		"BURNETT, Jerry (HAN)"	22		0	0.00		22	100.00		22
+		Total	71		44	17.96		201	82.04		245
+
+	Georgetown										
+			1st Prefs		17	18.28		76	81.72		93
+		"WALL, Jo (DEM)"	2		2	100.00		0	0.00		2
+		"RIVAS, Cherie (GRN)"	1		0	0.00		1	100.00		1
+		"LYLE, Mary (NP)"	26		2	7.69		24	92.31		26
+		"HARRIS, Judith (CEC)"	0		0	0.00		0	0.00		0
+		"BURNETT, Jerry (HAN)"	19		1	5.26		18	94.74		19
+		Total	48		22	15.60		119	84.40		141
+
+	Goondi										
+			1st Prefs		281	35.98		500	64.02		781
+		"WALL, Jo (DEM)"	10		10	100.00		0	0.00		10
+		"RIVAS, Cherie (GRN)"	9		6	66.67		3	33.33		9
+		"LYLE, Mary (NP)"	156		16	10.26		140	89.74		156
+		"HARRIS, Judith (CEC)"	3		1	33.33		2	66.67		3
+		"BURNETT, Jerry (HAN)"	96		16	16.67		80	83.33		96
+		Total	274		330	31.28		725	68.72		1055
+
+	Gordonvale										
+			1st Prefs		659	40.53		967	59.47		1626
+		"WALL, Jo (DEM)"	135		89	65.93		46	34.07		135
+		"RIVAS, Cherie (GRN)"	53		35	66.04		18	33.96		53
+		"LYLE, Mary (NP)"	421		46	10.93		375	89.07		421
+		"HARRIS, Judith (CEC)"	10		3	30.00		7	70.00		10
+		"BURNETT, Jerry (HAN)"	275		45	16.36		230	83.64		275
+		Total	894		877	34.80		1643	65.20		2520
+
+	Greenvale										
+			1st Prefs		12	25.53		35	74.47		47
+		"WALL, Jo (DEM)"	2		1	50.00		1	50.00		2
+		"RIVAS, Cherie (GRN)"	0		0	0.00		0	0.00		0
+		"LYLE, Mary (NP)"	16		5	31.25		11	68.75		16
+		"HARRIS, Judith (CEC)"	0		0	0.00		0	0.00		0
+		"BURNETT, Jerry (HAN)"	16		4	25.00		12	75.00		16
+		Total	34		22	27.16		59	72.84		81
+
+	Halifax										
+			1st Prefs		206	44.40		258	55.60		464
+		"WALL, Jo (DEM)"	8		3	37.50		5	62.50		8
+		"RIVAS, Cherie (GRN)"	5		2	40.00		3	60.00		5
+		"LYLE, Mary (NP)"	67		8	11.94		59	88.06		67
+		"HARRIS, Judith (CEC)"	3		2	66.67		1	33.33		3
+		"BURNETT, Jerry (HAN)"	51		6	11.76		45	88.24		51
+		Total	134		227	37.96		371	62.04		598
+
+	Happy Valley										
+			1st Prefs		266	47.67		292	52.33		558
+		"WALL, Jo (DEM)"	32		16	50.00		16	50.00		32
+		"RIVAS, Cherie (GRN)"	20		11	55.00		9	45.00		20
+		"LYLE, Mary (NP)"	171		33	19.30		138	80.70		171
+		"HARRIS, Judith (CEC)"	1		1	100.00		0	0.00		1
+		"BURNETT, Jerry (HAN)"	75		20	26.67		55	73.33		75
+		Total	299		347	40.49		510	59.51		857
+
+	Hawkins Creek										
+			1st Prefs		13	10.83		107	89.17		120
+		"WALL, Jo (DEM)"	5		4	80.00		1	20.00		5
+		"RIVAS, Cherie (GRN)"	2		1	50.00		1	50.00		2
+		"LYLE, Mary (NP)"	28		2	7.14		26	92.86		28
+		"HARRIS, Judith (CEC)"	0		0	0.00		0	0.00		0
+		"BURNETT, Jerry (HAN)"	7		2	28.57		5	71.43		7
+		Total	42		22	13.58		140	86.42		162
+
+	Healy										
+			1st Prefs		351	46.18		409	53.82		760
+		"WALL, Jo (DEM)"	62		35	56.45		27	43.55		62
+		"RIVAS, Cherie (GRN)"	21		10	47.62		11	52.38		21
+		"LYLE, Mary (NP)"	201		47	23.38		154	76.62		201
+		"HARRIS, Judith (CEC)"	3		1	33.33		2	66.67		3
+		"BURNETT, Jerry (HAN)"	112		31	27.68		81	72.32		112
+		Total	399		475	40.98		684	59.02		1159
+
+	Herberton										
+			1st Prefs		157	37.74		259	62.26		416
+		"WALL, Jo (DEM)"	17		13	76.47		4	23.53		17
+		"RIVAS, Cherie (GRN)"	30		23	76.67		7	23.33		30
+		"LYLE, Mary (NP)"	56		5	8.93		51	91.07		56
+		"HARRIS, Judith (CEC)"	1		0	0.00		1	100.00		1
+		"BURNETT, Jerry (HAN)"	76		7	9.21		69	90.79		76
+		Total	180		205	34.40		391	65.60		596
+
+	Homestead										
+			1st Prefs		25	44.64		31	55.36		56
+		"WALL, Jo (DEM)"	0		0	0.00		0	0.00		0
+		"RIVAS, Cherie (GRN)"	0		0	0.00		0	0.00		0
+		"LYLE, Mary (NP)"	4		0	0.00		4	100.00		4
+		"HARRIS, Judith (CEC)"	0		0	0.00		0	0.00		0
+		"BURNETT, Jerry (HAN)"	10		1	10.00		9	90.00		10
+		Total	14		26	37.14		44	62.86		70
+
+	Hughenden										
+			1st Prefs		220	43.65		284	56.35		504
+		"WALL, Jo (DEM)"	8		4	50.00		4	50.00		8
+		"RIVAS, Cherie (GRN)"	5		4	80.00		1	20.00		5
+		"LYLE, Mary (NP)"	77		13	16.88		64	83.12		77
+		"HARRIS, Judith (CEC)"	1		1	100.00		0	0.00		1
+		"BURNETT, Jerry (HAN)"	88		13	14.77		75	85.23		88
+		Total	179		255	37.34		428	62.66		683
+
+	Ingham										
+			1st Prefs		479	35.43		873	64.57		1352
+		"WALL, Jo (DEM)"	50		34	68.00		16	32.00		50
+		"RIVAS, Cherie (GRN)"	20		12	60.00		8	40.00		20
+		"LYLE, Mary (NP)"	249		29	11.65		220	88.35		249
+		"HARRIS, Judith (CEC)"	6		1	16.67		5	83.33		6
+		"BURNETT, Jerry (HAN)"	200		32	16.00		168	84.00		200
+		Total	525		587	31.27		1290	68.73		1877
+
+	Ingham Hospital										
+			1st Prefs		321	37.33		539	62.67		860
+		"WALL, Jo (DEM)"	28		23	82.14		5	17.86		28
+		"RIVAS, Cherie (GRN)"	6		2	33.33		4	66.67		6
+		"LYLE, Mary (NP)"	185		19	10.27		166	89.73		185
+		"HARRIS, Judith (CEC)"	2		2	100.00		0	0.00		2
+		"BURNETT, Jerry (HAN)"	75		14	18.67		61	81.33		75
+		Total	296		381	32.96		775	67.04		1156
+
+	Innisfail										
+			1st Prefs		569	37.98		929	62.02		1498
+		"WALL, Jo (DEM)"	46		23	50.00		23	50.00		46
+		"RIVAS, Cherie (GRN)"	43		33	76.74		10	23.26		43
+		"LYLE, Mary (NP)"	229		31	13.54		198	86.46		229
+		"HARRIS, Judith (CEC)"	5		2	40.00		3	60.00		5
+		"BURNETT, Jerry (HAN)"	120		15	12.50		105	87.50		120
+		Total	443		673	34.67		1268	65.33		1941
+
+	Innisfail East										
+			1st Prefs		331	36.45		577	63.55		908
+		"WALL, Jo (DEM)"	27		17	62.96		10	37.04		27
+		"RIVAS, Cherie (GRN)"	14		11	78.57		3	21.43		14
+		"LYLE, Mary (NP)"	136		25	18.38		111	81.62		136
+		"HARRIS, Judith (CEC)"	0		0	0.00		0	0.00		0
+		"BURNETT, Jerry (HAN)"	106		14	13.21		92	86.79		106
+		Total	283		398	33.42		793	66.58		1191
+
+	Innisfail Hospital										
+			1st Prefs		170	34.55		322	65.45		492
+		"WALL, Jo (DEM)"	13		9	69.23		4	30.77		13
+		"RIVAS, Cherie (GRN)"	6		4	66.67		2	33.33		6
+		"LYLE, Mary (NP)"	79		12	15.19		67	84.81		79
+		"HARRIS, Judith (CEC)"	3		0	0.00		3	100.00		3
+		"BURNETT, Jerry (HAN)"	37		8	21.62		29	78.38		37
+		Total	138		203	32.22		427	67.78		630
+
+	Innot Hot Springs										
+			1st Prefs		21	21.65		76	78.35		97
+		"WALL, Jo (DEM)"	0		0	0.00		0	0.00		0
+		"RIVAS, Cherie (GRN)"	9		7	77.78		2	22.22		9
+		"LYLE, Mary (NP)"	12		1	8.33		11	91.67		12
+		"HARRIS, Judith (CEC)"	0		0	0.00		0	0.00		0
+		"BURNETT, Jerry (HAN)"	26		1	3.85		25	96.15		26
+		Total	47		30	20.83		114	79.17		144
+
+	Irvinebank										
+			1st Prefs		21	35.59		38	64.41		59
+		"WALL, Jo (DEM)"	1		1	100.00		0	0.00		1
+		"RIVAS, Cherie (GRN)"	3		2	66.67		1	33.33		3
+		"LYLE, Mary (NP)"	1		0	0.00		1	100.00		1
+		"HARRIS, Judith (CEC)"	0		0	0.00		0	0.00		0
+		"BURNETT, Jerry (HAN)"	4		1	25.00		3	75.00		4
+		Total	9		25	36.76		43	63.24		68
+
+	Julia Creek										
+			1st Prefs		36	20.34		141	79.66		177
+		"WALL, Jo (DEM)"	4		1	25.00		3	75.00		4
+		"RIVAS, Cherie (GRN)"	4		3	75.00		1	25.00		4
+		"LYLE, Mary (NP)"	52		3	5.77		49	94.23		52
+		"HARRIS, Judith (CEC)"	1		0	0.00		1	100.00		1
+		"BURNETT, Jerry (HAN)"	20		3	15.00		17	85.00		20
+		Total	81		46	17.83		212	82.17		258
+
+	Kairi										
+			1st Prefs		55	19.23		231	80.77		286
+		"WALL, Jo (DEM)"	12		11	91.67		1	8.33		12
+		"RIVAS, Cherie (GRN)"	7		6	85.71		1	14.29		7
+		"LYLE, Mary (NP)"	69		5	7.25		64	92.75		69
+		"HARRIS, Judith (CEC)"	0		0	0.00		0	0.00		0
+		"BURNETT, Jerry (HAN)"	45		4	8.89		41	91.11		45
+		Total	133		81	19.33		338	80.67		419
+
+	Kalkadoon										
+			1st Prefs		253	52.16		232	47.84		485
+		"WALL, Jo (DEM)"	34		9	26.47		25	73.53		34
+		"RIVAS, Cherie (GRN)"	16		8	50.00		8	50.00		16
+		"LYLE, Mary (NP)"	83		14	16.87		69	83.13		83
+		"HARRIS, Judith (CEC)"	2		2	100.00		0	0.00		2
+		"BURNETT, Jerry (HAN)"	40		15	37.50		25	62.50		40
+		Total	175		301	45.61		359	54.39		660
+
+	Karumba										
+			1st Prefs		42	26.25		118	73.75		160
+		"WALL, Jo (DEM)"	13		7	53.85		6	46.15		13
+		"RIVAS, Cherie (GRN)"	5		3	60.00		2	40.00		5
+		"LYLE, Mary (NP)"	31		3	9.68		28	90.32		31
+		"HARRIS, Judith (CEC)"	1		0	0.00		1	100.00		1
+		"BURNETT, Jerry (HAN)"	50		6	12.00		44	88.00		50
+		Total	100		61	23.46		199	76.54		260
+
+	Kennedy										
+			1st Prefs		29	19.08		123	80.92		152
+		"WALL, Jo (DEM)"	5		5	100.00		0	0.00		5
+		"RIVAS, Cherie (GRN)"	4		1	25.00		3	75.00		4
+		"LYLE, Mary (NP)"	34		1	2.94		33	97.06		34
+		"HARRIS, Judith (CEC)"	0		0	0.00		0	0.00		0
+		"BURNETT, Jerry (HAN)"	26		1	3.85		25	96.15		26
+		Total	69		37	16.74		184	83.26		221
+
+	Kurrimine Beach										
+			1st Prefs		76	25.08		227	74.92		303
+		"WALL, Jo (DEM)"	4		4	100.00		0	0.00		4
+		"RIVAS, Cherie (GRN)"	6		1	16.67		5	83.33		6
+		"LYLE, Mary (NP)"	57		4	7.02		53	92.98		57
+		"HARRIS, Judith (CEC)"	1		1	100.00		0	0.00		1
+		"BURNETT, Jerry (HAN)"	39		0	0.00		39	100.00		39
+		Total	107		86	20.98		324	79.02		410
+
+	Long Pocket										
+			1st Prefs		14	11.67		106	88.33		120
+		"WALL, Jo (DEM)"	1		1	100.00		0	0.00		1
+		"RIVAS, Cherie (GRN)"	1		1	100.00		0	0.00		1
+		"LYLE, Mary (NP)"	22		2	9.09		20	90.91		22
+		"HARRIS, Judith (CEC)"	0		0	0.00		0	0.00		0
+		"BURNETT, Jerry (HAN)"	20		2	10.00		18	90.00		20
+		Total	44		20	12.20		144	87.80		164
+
+	Lower Tully										
+			1st Prefs		42	15.44		230	84.56		272
+		"WALL, Jo (DEM)"	10		5	50.00		5	50.00		10
+		"RIVAS, Cherie (GRN)"	4		3	75.00		1	25.00		4
+		"LYLE, Mary (NP)"	54		4	7.41		50	92.59		54
+		"HARRIS, Judith (CEC)"	2		1	50.00		1	50.00		2
+		"BURNETT, Jerry (HAN)"	32		4	12.50		28	87.50		32
+		Total	102		59	15.78		315	84.22		374
+
+	Lucinda										
+			1st Prefs		63	29.03		154	70.97		217
+		"WALL, Jo (DEM)"	2		1	50.00		1	50.00		2
+		"RIVAS, Cherie (GRN)"	2		1	50.00		1	50.00		2
+		"LYLE, Mary (NP)"	46		5	10.87		41	89.13		46
+		"HARRIS, Judith (CEC)"	0		0	0.00		0	0.00		0
+		"BURNETT, Jerry (HAN)"	46		5	10.87		41	89.13		46
+		Total	96		75	23.96		238	76.04		313
+
+	Mcdonnell Creek										
+			1st Prefs		30	25.86		86	74.14		116
+		"WALL, Jo (DEM)"	2		1	50.00		1	50.00		2
+		"RIVAS, Cherie (GRN)"	7		5	71.43		2	28.57		7
+		"LYLE, Mary (NP)"	25		0	0.00		25	100.00		25
+		"HARRIS, Judith (CEC)"	0		0	0.00		0	0.00		0
+		"BURNETT, Jerry (HAN)"	48		6	12.50		42	87.50		48
+		Total	82		42	21.21		156	78.79		198
+
+	Mckinlay										
+			1st Prefs		3	16.67		15	83.33		18
+		"WALL, Jo (DEM)"	0		0	0.00		0	0.00		0
+		"RIVAS, Cherie (GRN)"	0		0	0.00		0	0.00		0
+		"LYLE, Mary (NP)"	3		0	0.00		3	100.00		3
+		"HARRIS, Judith (CEC)"	0		0	0.00		0	0.00		0
+		"BURNETT, Jerry (HAN)"	6		1	16.67		5	83.33		6
+		Total	9		4	14.81		23	85.19		27
+
+	Macknade										
+			1st Prefs		65	31.55		141	68.45		206
+		"WALL, Jo (DEM)"	5		2	40.00		3	60.00		5
+		"RIVAS, Cherie (GRN)"	1		1	100.00		0	0.00		1
+		"LYLE, Mary (NP)"	33		7	21.21		26	78.79		33
+		"HARRIS, Judith (CEC)"	1		1	100.00		0	0.00		1
+		"BURNETT, Jerry (HAN)"	18		3	16.67		15	83.33		18
+		Total	58		79	29.92		185	70.08		264
+
+	Malanda										
+			1st Prefs		303	23.73		974	76.27		1277
+		"WALL, Jo (DEM)"	52		36	69.23		16	30.77		52
+		"RIVAS, Cherie (GRN)"	67		49	73.13		18	26.87		67
+		"LYLE, Mary (NP)"	169		27	15.98		142	84.02		169
+		"HARRIS, Judith (CEC)"	1		1	100.00		0	0.00		1
+		"BURNETT, Jerry (HAN)"	195		20	10.26		175	89.74		195
+		Total	484		436	24.76		1325	75.24		1761
+
+	Mareeba										
+			1st Prefs		524	28.62		1307	71.38		1831
+		"WALL, Jo (DEM)"	89		64	71.91		25	28.09		89
+		"RIVAS, Cherie (GRN)"	43		28	65.12		15	34.88		43
+		"LYLE, Mary (NP)"	438		55	12.56		383	87.44		438
+		"HARRIS, Judith (CEC)"	7		4	57.14		3	42.86		7
+		"BURNETT, Jerry (HAN)"	277		43	15.52		234	84.48		277
+		Total	854		718	26.74		1967	73.26		2685
+
+	Mareeba Hospital										
+			1st Prefs		209	31.86		447	68.14		656
+		"WALL, Jo (DEM)"	25		20	80.00		5	20.00		25
+		"RIVAS, Cherie (GRN)"	9		5	55.56		4	44.44		9
+		"LYLE, Mary (NP)"	134		20	14.93		114	85.07		134
+		"HARRIS, Judith (CEC)"	0		0	0.00		0	0.00		0
+		"BURNETT, Jerry (HAN)"	115		15	13.04		100	86.96		115
+		Total	283		269	28.65		670	71.35		939
+
+	Mareeba West										
+			1st Prefs		284	33.93		553	66.07		837
+		"WALL, Jo (DEM)"	34		15	44.12		19	55.88		34
+		"RIVAS, Cherie (GRN)"	21		15	71.43		6	28.57		21
+		"LYLE, Mary (NP)"	120		13	10.83		107	89.17		120
+		"HARRIS, Judith (CEC)"	2		1	50.00		1	50.00		2
+		"BURNETT, Jerry (HAN)"	129		19	14.73		110	85.27		129
+		Total	306		347	30.36		796	69.64		1143
+
+	Mena Creek										
+			1st Prefs		48	18.05		218	81.95		266
+		"WALL, Jo (DEM)"	4		4	100.00		0	0.00		4
+		"RIVAS, Cherie (GRN)"	7		3	42.86		4	57.14		7
+		"LYLE, Mary (NP)"	38		3	7.89		35	92.11		38
+		"HARRIS, Judith (CEC)"	1		0	0.00		1	100.00		1
+		"BURNETT, Jerry (HAN)"	33		5	15.15		28	84.85		33
+		Total	83		63	18.05		286	81.95		349
+
+	Millaa Millaa										
+			1st Prefs		70	23.41		229	76.59		299
+		"WALL, Jo (DEM)"	8		6	75.00		2	25.00		8
+		"RIVAS, Cherie (GRN)"	13		8	61.54		5	38.46		13
+		"LYLE, Mary (NP)"	31		5	16.13		26	83.87		31
+		"HARRIS, Judith (CEC)"	0		0	0.00		0	0.00		0
+		"BURNETT, Jerry (HAN)"	49		6	12.24		43	87.76		49
+		Total	101		95	23.75		305	76.25		400
+
+	Mingela										
+			1st Prefs		9	32.14		19	67.86		28
+		"WALL, Jo (DEM)"	0		0	0.00		0	0.00		0
+		"RIVAS, Cherie (GRN)"	0		0	0.00		0	0.00		0
+		"LYLE, Mary (NP)"	6		0	0.00		6	100.00		6
+		"HARRIS, Judith (CEC)"	0		0	0.00		0	0.00		0
+		"BURNETT, Jerry (HAN)"	4		1	25.00		3	75.00		4
+		Total	10		10	26.32		28	73.68		38
+
+	Miriwinni										
+			1st Prefs		50	15.92		264	84.08		314
+		"WALL, Jo (DEM)"	12		3	25.00		9	75.00		12
+		"RIVAS, Cherie (GRN)"	17		12	70.59		5	29.41		17
+		"LYLE, Mary (NP)"	41		6	14.63		35	85.37		41
+		"HARRIS, Judith (CEC)"	4		0	0.00		4	100.00		4
+		"BURNETT, Jerry (HAN)"	55		4	7.27		51	92.73		55
+		Total	129		75	16.93		368	83.07		443
+
+	Mission Beach										
+			1st Prefs		120	30.85		269	69.15		389
+		"WALL, Jo (DEM)"	30		24	80.00		6	20.00		30
+		"RIVAS, Cherie (GRN)"	50		38	76.00		12	24.00		50
+		"LYLE, Mary (NP)"	121		23	19.01		98	80.99		121
+		"HARRIS, Judith (CEC)"	1		0	0.00		1	100.00		1
+		"BURNETT, Jerry (HAN)"	45		6	13.33		39	86.67		45
+		Total	247		211	33.18		425	66.82		636
+
+	Moresby										
+			1st Prefs		37	17.29		177	82.71		214
+		"WALL, Jo (DEM)"	2		2	100.00		0	0.00		2
+		"RIVAS, Cherie (GRN)"	7		3	42.86		4	57.14		7
+		"LYLE, Mary (NP)"	30		4	13.33		26	86.67		30
+		"HARRIS, Judith (CEC)"	1		0	0.00		1	100.00		1
+		"BURNETT, Jerry (HAN)"	24		2	8.33		22	91.67		24
+		Total	64		48	17.27		230	82.73		278
+
+	Mornington Island										
+			1st Prefs		233	69.55		102	30.45		335
+		"WALL, Jo (DEM)"	24		17	70.83		7	29.17		24
+		"RIVAS, Cherie (GRN)"	8		6	75.00		2	25.00		8
+		"LYLE, Mary (NP)"	15		6	40.00		9	60.00		15
+		"HARRIS, Judith (CEC)"	4		3	75.00		1	25.00		4
+		"BURNETT, Jerry (HAN)"	6		2	33.33		4	66.67		6
+		Total	57		267	68.11		125	31.89		392
+
+	Mount Garnet										
+			1st Prefs		70	33.82		137	66.18		207
+		"WALL, Jo (DEM)"	5		5	100.00		0	0.00		5
+		"RIVAS, Cherie (GRN)"	4		4	100.00		0	0.00		4
+		"LYLE, Mary (NP)"	22		3	13.64		19	86.36		22
+		"HARRIS, Judith (CEC)"	1		0	0.00		1	100.00		1
+		"BURNETT, Jerry (HAN)"	31		7	22.58		24	77.42		31
+		Total	63		89	32.96		181	67.04		270
+
+	Mount Isa										
+			1st Prefs		499	42.43		677	57.57		1176
+		"WALL, Jo (DEM)"	105		77	73.33		28	26.67		105
+		"RIVAS, Cherie (GRN)"	39		23	58.97		16	41.03		39
+		"LYLE, Mary (NP)"	276		53	19.20		223	80.80		276
+		"HARRIS, Judith (CEC)"	8		1	12.50		7	87.50		8
+		"BURNETT, Jerry (HAN)"	185		44	23.78		141	76.22		185
+		Total	613		697	38.96		1092	61.04		1789
+
+	Mount Isa Hospital										
+			1st Prefs		140	48.78		147	51.22		287
+		"WALL, Jo (DEM)"	23		14	60.87		9	39.13		23
+		"RIVAS, Cherie (GRN)"	15		9	60.00		6	40.00		15
+		"LYLE, Mary (NP)"	44		13	29.55		31	70.45		44
+		"HARRIS, Judith (CEC)"	1		0	0.00		1	100.00		1
+		"BURNETT, Jerry (HAN)"	29		4	13.79		25	86.21		29
+		Total	112		180	45.11		219	54.89		399
+
+	Mount Isa West										
+			1st Prefs		142	53.99		121	46.01		263
+		"WALL, Jo (DEM)"	14		10	71.43		4	28.57		14
+		"RIVAS, Cherie (GRN)"	8		4	50.00		4	50.00		8
+		"LYLE, Mary (NP)"	48		10	20.83		38	79.17		48
+		"HARRIS, Judith (CEC)"	0		0	0.00		0	0.00		0
+		"BURNETT, Jerry (HAN)"	43		16	37.21		27	62.79		43
+		Total	113		182	48.40		194	51.60		376
+
+	Mount Surprise										
+			1st Prefs		15	31.91		32	68.09		47
+		"WALL, Jo (DEM)"	3		2	66.67		1	33.33		3
+		"RIVAS, Cherie (GRN)"	0		0	0.00		0	0.00		0
+		"LYLE, Mary (NP)"	5		0	0.00		5	100.00		5
+		"HARRIS, Judith (CEC)"	0		0	0.00		0	0.00		0
+		"BURNETT, Jerry (HAN)"	7		3	42.86		4	57.14		7
+		Total	15		20	32.26		42	67.74		62
+
+	Mourilyan										
+			1st Prefs		156	25.41		458	74.59		614
+		"WALL, Jo (DEM)"	18		12	66.67		6	33.33		18
+		"RIVAS, Cherie (GRN)"	9		6	66.67		3	33.33		9
+		"LYLE, Mary (NP)"	75		9	12.00		66	88.00		75
+		"HARRIS, Judith (CEC)"	2		1	50.00		1	50.00		2
+		"BURNETT, Jerry (HAN)"	88		10	11.36		78	88.64		88
+		Total	192		194	24.07		612	75.93		806
+
+	Murray Upper										
+			1st Prefs		44	19.91		177	80.09		221
+		"WALL, Jo (DEM)"	2		2	100.00		0	0.00		2
+		"RIVAS, Cherie (GRN)"	9		6	66.67		3	33.33		9
+		"LYLE, Mary (NP)"	14		0	0.00		14	100.00		14
+		"HARRIS, Judith (CEC)"	0		0	0.00		0	0.00		0
+		"BURNETT, Jerry (HAN)"	20		5	25.00		15	75.00		20
+		Total	45		57	21.43		209	78.57		266
+
+	Mutchilba										
+			1st Prefs		30	18.99		128	81.01		158
+		"WALL, Jo (DEM)"	5		3	60.00		2	40.00		5
+		"RIVAS, Cherie (GRN)"	5		1	20.00		4	80.00		5
+		"LYLE, Mary (NP)"	27		2	7.41		25	92.59		27
+		"HARRIS, Judith (CEC)"	1		1	100.00		0	0.00		1
+		"BURNETT, Jerry (HAN)"	29		7	24.14		22	75.86		29
+		Total	67		44	19.56		181	80.44		225
+
+	Normanton										
+			1st Prefs		285	62.91		168	37.09		453
+		"WALL, Jo (DEM)"	22		14	63.64		8	36.36		22
+		"RIVAS, Cherie (GRN)"	4		4	100.00		0	0.00		4
+		"LYLE, Mary (NP)"	43		14	32.56		29	67.44		43
+		"HARRIS, Judith (CEC)"	2		0	0.00		2	100.00		2
+		"BURNETT, Jerry (HAN)"	33		9	27.27		24	72.73		33
+		Total	104		326	58.53		231	41.47		557
+
+	Pentland										
+			1st Prefs		24	19.67		98	80.33		122
+		"WALL, Jo (DEM)"	1		1	100.00		0	0.00		1
+		"RIVAS, Cherie (GRN)"	0		0	0.00		0	0.00		0
+		"LYLE, Mary (NP)"	6		1	16.67		5	83.33		6
+		"HARRIS, Judith (CEC)"	0		0	0.00		0	0.00		0
+		"BURNETT, Jerry (HAN)"	22		0	0.00		22	100.00		22
+		Total	29		26	17.22		125	82.78		151
+
+	Prairie										
+			1st Prefs		7	21.21		26	78.79		33
+		"WALL, Jo (DEM)"	2		1	50.00		1	50.00		2
+		"RIVAS, Cherie (GRN)"	0		0	0.00		0	0.00		0
+		"LYLE, Mary (NP)"	13		2	15.38		11	84.62		13
+		"HARRIS, Judith (CEC)"	0		0	0.00		0	0.00		0
+		"BURNETT, Jerry (HAN)"	7		0	0.00		7	100.00		7
+		Total	22		10	18.18		45	81.82		55
+
+	Queenton										
+			1st Prefs		308	29.22		746	70.78		1054
+		"WALL, Jo (DEM)"	13		7	53.85		6	46.15		13
+		"RIVAS, Cherie (GRN)"	15		12	80.00		3	20.00		15
+		"LYLE, Mary (NP)"	127		11	8.66		116	91.34		127
+		"HARRIS, Judith (CEC)"	6		4	66.67		2	33.33		6
+		"BURNETT, Jerry (HAN)"	130		16	12.31		114	87.69		130
+		Total	291		358	26.62		987	73.38		1345
+
+	Ravenshoe										
+			1st Prefs		181	26.74		496	73.26		677
+		"WALL, Jo (DEM)"	34		27	79.41		7	20.59		34
+		"RIVAS, Cherie (GRN)"	46		34	73.91		12	26.09		46
+		"LYLE, Mary (NP)"	125		10	8.00		115	92.00		125
+		"HARRIS, Judith (CEC)"	4		3	75.00		1	25.00		4
+		"BURNETT, Jerry (HAN)"	138		8	5.80		130	94.20		138
+		Total	347		263	25.68		761	74.32		1024
+
+	Ravenswood										
+			1st Prefs		36	27.91		93	72.09		129
+		"WALL, Jo (DEM)"	5		3	60.00		2	40.00		5
+		"RIVAS, Cherie (GRN)"	4		1	25.00		3	75.00		4
+		"LYLE, Mary (NP)"	18		5	27.78		13	72.22		18
+		"HARRIS, Judith (CEC)"	2		0	0.00		2	100.00		2
+		"BURNETT, Jerry (HAN)"	15		3	20.00		12	80.00		15
+		Total	44		48	27.75		125	72.25		173
+
+	Richmond										
+			1st Prefs		89	31.34		195	68.66		284
+		"WALL, Jo (DEM)"	6		4	66.67		2	33.33		6
+		"RIVAS, Cherie (GRN)"	3		1	33.33		2	66.67		3
+		"LYLE, Mary (NP)"	71		4	5.63		67	94.37		71
+		"HARRIS, Judith (CEC)"	2		1	50.00		1	50.00		2
+		"BURNETT, Jerry (HAN)"	29		6	20.69		23	79.31		29
+		Total	111		105	26.58		290	73.42		395
+
+	Richmond Hill										
+			1st Prefs		212	29.73		501	70.27		713
+		"WALL, Jo (DEM)"	13		10	76.92		3	23.08		13
+		"RIVAS, Cherie (GRN)"	13		5	38.46		8	61.54		13
+		"LYLE, Mary (NP)"	121		15	12.40		106	87.60		121
+		"HARRIS, Judith (CEC)"	1		0	0.00		1	100.00		1
+		"BURNETT, Jerry (HAN)"	75		12	16.00		63	84.00		75
+		Total	223		254	27.14		682	72.86		936
+
+	Rollingstone										
+			1st Prefs		150	34.88		280	65.12		430
+		"WALL, Jo (DEM)"	10		5	50.00		5	50.00		10
+		"RIVAS, Cherie (GRN)"	9		7	77.78		2	22.22		9
+		"LYLE, Mary (NP)"	108		3	2.78		105	97.22		108
+		"HARRIS, Judith (CEC)"	3		0	0.00		3	100.00		3
+		"BURNETT, Jerry (HAN)"	36		7	19.44		29	80.56		36
+		Total	166		172	28.86		424	71.14		596
+
+	Silkwood										
+			1st Prefs		75	25.77		216	74.23		291
+		"WALL, Jo (DEM)"	0		0	0.00		0	0.00		0
+		"RIVAS, Cherie (GRN)"	10		7	70.00		3	30.00		10
+		"LYLE, Mary (NP)"	30		6	20.00		24	80.00		30
+		"HARRIS, Judith (CEC)"	0		0	0.00		0	0.00		0
+		"BURNETT, Jerry (HAN)"	40		5	12.50		35	87.50		40
+		Total	80		93	25.07		278	74.93		371
+
+	Soldiers Hill										
+			1st Prefs		309	45.64		368	54.36		677
+		"WALL, Jo (DEM)"	30		20	66.67		10	33.33		30
+		"RIVAS, Cherie (GRN)"	25		15	60.00		10	40.00		25
+		"LYLE, Mary (NP)"	135		27	20.00		108	80.00		135
+		"HARRIS, Judith (CEC)"	2		0	0.00		2	100.00		2
+		"BURNETT, Jerry (HAN)"	72		12	16.67		60	83.33		72
+		Total	264		383	40.70		558	59.30		941
+
+	South Johnstone										
+			1st Prefs		97	37.31		163	62.69		260
+		"WALL, Jo (DEM)"	5		5	100.00		0	0.00		5
+		"RIVAS, Cherie (GRN)"	5		5	100.00		0	0.00		5
+		"LYLE, Mary (NP)"	47		4	8.51		43	91.49		47
+		"HARRIS, Judith (CEC)"	1		0	0.00		1	100.00		1
+		"BURNETT, Jerry (HAN)"	29		6	20.69		23	79.31		29
+		Total	87		117	33.72		230	66.28		347
+
+	South Mission Beach										
+			1st Prefs		111	26.49		308	73.51		419
+		"WALL, Jo (DEM)"	29		24	82.76		5	17.24		29
+		"RIVAS, Cherie (GRN)"	37		29	78.38		8	21.62		37
+		"LYLE, Mary (NP)"	123		22	17.89		101	82.11		123
+		"HARRIS, Judith (CEC)"	2		1	50.00		1	50.00		2
+		"BURNETT, Jerry (HAN)"	50		7	14.00		43	86.00		50
+		Total	241		194	29.39		466	70.61		660
+
+	Sunset										
+			1st Prefs		370	43.07		489	56.93		859
+		"WALL, Jo (DEM)"	64		40	62.50		24	37.50		64
+		"RIVAS, Cherie (GRN)"	25		15	60.00		10	40.00		25
+		"LYLE, Mary (NP)"	207		40	19.32		167	80.68		207
+		"HARRIS, Judith (CEC)"	9		2	22.22		7	77.78		9
+		"BURNETT, Jerry (HAN)"	120		25	20.83		95	79.17		120
+		Total	425		492	38.32		792	61.68		1284
+
+	Tolga										
+			1st Prefs		196	24.08		618	75.92		814
+		"WALL, Jo (DEM)"	34		23	67.65		11	32.35		34
+		"RIVAS, Cherie (GRN)"	23		15	65.22		8	34.78		23
+		"LYLE, Mary (NP)"	201		31	15.42		170	84.58		201
+		"HARRIS, Judith (CEC)"	2		2	100.00		0	0.00		2
+		"BURNETT, Jerry (HAN)"	155		20	12.90		135	87.10		155
+		Total	415		287	23.35		942	76.65		1229
+
+	Toobanna										
+			1st Prefs		70	26.82		191	73.18		261
+		"WALL, Jo (DEM)"	6		2	33.33		4	66.67		6
+		"RIVAS, Cherie (GRN)"	2		1	50.00		1	50.00		2
+		"LYLE, Mary (NP)"	57		8	14.04		49	85.96		57
+		"HARRIS, Judith (CEC)"	0		0	0.00		0	0.00		0
+		"BURNETT, Jerry (HAN)"	28		5	17.86		23	82.14		28
+		Total	93		86	24.29		268	75.71		354
+
+	Townview										
+			1st Prefs		276	41.88		383	58.12		659
+		"WALL, Jo (DEM)"	41		26	63.41		15	36.59		41
+		"RIVAS, Cherie (GRN)"	12		5	41.67		7	58.33		12
+		"LYLE, Mary (NP)"	122		22	18.03		100	81.97		122
+		"HARRIS, Judith (CEC)"	5		4	80.00		1	20.00		5
+		"BURNETT, Jerry (HAN)"	87		13	14.94		74	85.06		87
+		Total	267		346	37.37		580	62.63		926
+
+	Trebonne										
+			1st Prefs		46	15.86		244	84.14		290
+		"WALL, Jo (DEM)"	8		4	50.00		4	50.00		8
+		"RIVAS, Cherie (GRN)"	3		3	100.00		0	0.00		3
+		"LYLE, Mary (NP)"	95		8	8.42		87	91.58		95
+		"HARRIS, Judith (CEC)"	0		0	0.00		0	0.00		0
+		"BURNETT, Jerry (HAN)"	38		10	26.32		28	73.68		38
+		Total	144		71	16.36		363	83.64		434
+
+	Tully										
+			1st Prefs		260	27.60		682	72.40		942
+		"WALL, Jo (DEM)"	40		28	70.00		12	30.00		40
+		"RIVAS, Cherie (GRN)"	32		23	71.88		9	28.13		32
+		"LYLE, Mary (NP)"	164		21	12.80		143	87.20		164
+		"HARRIS, Judith (CEC)"	3		1	33.33		2	66.67		3
+		"BURNETT, Jerry (HAN)"	115		20	17.39		95	82.61		115
+		Total	354		353	27.24		943	72.76		1296
+
+	Tully Hospital										
+			1st Prefs		138	26.64		380	73.36		518
+		"WALL, Jo (DEM)"	11		8	72.73		3	27.27		11
+		"RIVAS, Cherie (GRN)"	4		3	75.00		1	25.00		4
+		"LYLE, Mary (NP)"	67		7	10.45		60	89.55		67
+		"HARRIS, Judith (CEC)"	1		0	0.00		1	100.00		1
+		"BURNETT, Jerry (HAN)"	39		3	7.69		36	92.31		39
+		Total	122		159	24.84		481	75.16		640
+
+	Upper Barron										
+			1st Prefs		12	13.19		79	86.81		91
+		"WALL, Jo (DEM)"	2		2	100.00		0	0.00		2
+		"RIVAS, Cherie (GRN)"	0		0	0.00		0	0.00		0
+		"LYLE, Mary (NP)"	11		2	18.18		9	81.82		11
+		"HARRIS, Judith (CEC)"	0		0	0.00		0	0.00		0
+		"BURNETT, Jerry (HAN)"	21		1	4.76		20	95.24		21
+		Total	34		17	13.60		108	86.40		125
+
+	Upper Stone										
+			1st Prefs		5	11.36		39	88.64		44
+		"WALL, Jo (DEM)"	2		2	100.00		0	0.00		2
+		"RIVAS, Cherie (GRN)"	2		2	100.00		0	0.00		2
+		"LYLE, Mary (NP)"	14		1	7.14		13	92.86		14
+		"HARRIS, Judith (CEC)"	0		0	0.00		0	0.00		0
+		"BURNETT, Jerry (HAN)"	6		0	0.00		6	100.00		6
+		Total	24		10	14.71		58	85.29		68
+
+	Victoria Estate										
+			1st Prefs		61	18.60		267	81.40		328
+		"WALL, Jo (DEM)"	7		2	28.57		5	71.43		7
+		"RIVAS, Cherie (GRN)"	10		5	50.00		5	50.00		10
+		"LYLE, Mary (NP)"	86		14	16.28		72	83.72		86
+		"HARRIS, Judith (CEC)"	0		0	0.00		0	0.00		0
+		"BURNETT, Jerry (HAN)"	60		9	15.00		51	85.00		60
+		Total	163		91	18.53		400	81.47		491
+
+	Walkamin										
+			1st Prefs		36	19.57		148	80.43		184
+		"WALL, Jo (DEM)"	10		8	80.00		2	20.00		10
+		"RIVAS, Cherie (GRN)"	4		2	50.00		2	50.00		4
+		"LYLE, Mary (NP)"	56		8	14.29		48	85.71		56
+		"HARRIS, Judith (CEC)"	4		0	0.00		4	100.00		4
+		"BURNETT, Jerry (HAN)"	30		3	10.00		27	90.00		30
+		Total	104		57	19.79		231	80.21		288
+
+	Wangan										
+			1st Prefs		109	27.25		291	72.75		400
+		"WALL, Jo (DEM)"	15		11	73.33		4	26.67		15
+		"RIVAS, Cherie (GRN)"	7		3	42.86		4	57.14		7
+		"LYLE, Mary (NP)"	42		1	2.38		41	97.62		42
+		"HARRIS, Judith (CEC)"	1		1	100.00		0	0.00		1
+		"BURNETT, Jerry (HAN)"	46		1	2.17		45	97.83		46
+		Total	111		126	24.66		385	75.34		511
+
+	Wondecla										
+			1st Prefs		43	25.15		128	74.85		171
+		"WALL, Jo (DEM)"	7		5	71.43		2	28.57		7
+		"RIVAS, Cherie (GRN)"	11		9	81.82		2	18.18		11
+		"LYLE, Mary (NP)"	24		4	16.67		20	83.33		24
+		"HARRIS, Judith (CEC)"	2		1	50.00		1	50.00		2
+		"BURNETT, Jerry (HAN)"	40		3	7.50		37	92.50		40
+		Total	84		65	25.49		190	74.51		255
+
+	Yungaburra										
+			1st Prefs		181	26.62		499	73.38		680
+		"WALL, Jo (DEM)"	35		27	77.14		8	22.86		35
+		"RIVAS, Cherie (GRN)"	53		46	86.79		7	13.21		53
+		"LYLE, Mary (NP)"	137		16	11.68		121	88.32		137
+		"HARRIS, Judith (CEC)"	2		0	0.00		2	100.00		2
+		"BURNETT, Jerry (HAN)"	117		13	11.11		104	88.89		117
+		Total	344		283	27.64		741	72.36		1024
+
+	Special Hospitals										
+			1st Prefs		95	41.85		132	58.15		227
+		"WALL, Jo (DEM)"	16		16	100.00		0	0.00		16
+		"RIVAS, Cherie (GRN)"	5		5	100.00		0	0.00		5
+		"LYLE, Mary (NP)"	39		4	10.26		35	89.74		39
+		"HARRIS, Judith (CEC)"	1		1	100.00		0	0.00		1
+		"BURNETT, Jerry (HAN)"	25		2	8.00		23	92.00		25
+		Total	86		123	39.30		190	60.70		313
+
+	Total Ordinary										
+			1st Prefs		15174	33.35		30331	66.65		45505
+		"WALL, Jo (DEM)"	1836		1245	67.81		591	32.19		1836
+		"RIVAS, Cherie (GRN)"	1307		857	65.57		450	34.43		1307
+		"LYLE, Mary (NP)"	8815		1189	13.49		7626	86.51		8815
+		"HARRIS, Judith (CEC)"	182		63	34.62		119	65.38		182
+		"BURNETT, Jerry (HAN)"	6304		932	14.78		5372	85.22		6304
+		Total	18444		19460	30.43		44489	69.57		63949
+
+	ABSENT										
+			1st Prefs		1180	35.99		2099	64.01		3279
+		"WALL, Jo (DEM)"	259		148	57.14		111	42.86		259
+		"RIVAS, Cherie (GRN)"	162		100	61.73		62	38.27		162
+		"LYLE, Mary (NP)"	687		144	20.96		543	79.04		687
+		"HARRIS, Judith (CEC)"	27		13	48.15		14	51.85		27
+		"BURNETT, Jerry (HAN)"	533		120	22.51		413	77.49		533
+		Total	1668		1705	34.47		3242	65.53		4947
+
+	POSTAL										
+			1st Prefs		538	20.82		2046	79.18		2584
+		"WALL, Jo (DEM)"	66		43	65.15		23	34.85		66
+		"RIVAS, Cherie (GRN)"	54		38	70.37		16	29.63		54
+		"LYLE, Mary (NP)"	896		70	7.81		826	92.19		896
+		"HARRIS, Judith (CEC)"	14		4	28.57		10	71.43		14
+		"BURNETT, Jerry (HAN)"	328		42	12.80		286	87.20		328
+		Total	1358		735	18.65		3207	81.35		3942
+
+	PRE_POLL										
+			1st Prefs		479	38.38		769	61.62		1248
+		"WALL, Jo (DEM)"	110		68	61.82		42	38.18		110
+		"RIVAS, Cherie (GRN)"	54		34	62.96		20	37.04		54
+		"LYLE, Mary (NP)"	240		44	18.33		196	81.67		240
+		"HARRIS, Judith (CEC)"	3		1	33.33		2	66.67		3
+		"BURNETT, Jerry (HAN)"	221		42	19.00		179	81.00		221
+		Total	628		668	35.61		1208	64.39		1876
+
+	PROVISIONAL										
+			1st Prefs		242	43.84		310	56.16		552
+		"WALL, Jo (DEM)"	36		23	63.89		13	36.11		36
+		"RIVAS, Cherie (GRN)"	24		13	54.17		11	45.83		24
+		"LYLE, Mary (NP)"	80		19	23.75		61	76.25		80
+		"HARRIS, Judith (CEC)"	3		1	33.33		2	66.67		3	
+		"BURNETT, Jerry (HAN)"	74		15	20.27		59	79.73		74	
+		Total	217		313	40.70		456	59.30		769	
+
+	Division Summary											
+			1st Prefs		17613	33.13		35555	66.87		53168	
+		"WALL, Jo (DEM)"	2307		1527	66.19		780	33.81		2307	
+		"RIVAS, Cherie (GRN)"	1601		1042	65.08		559	34.92		1601	
+		"LYLE, Mary (NP)"	10718		1466	13.68		9252	86.32		10718	
+		"HARRIS, Judith (CEC)"	229		82	35.81		147	64.19		229	
+		"BURNETT, Jerry (HAN)"	7460		1151	15.43		6309	84.57		7460	
+		Total	22315		22881	30.31		52602	69.69		75483	

@@ -1,0 +1,600 @@
+House of Representatives - 2001 Election: Victoria												
+Two Candidate Preferred Preference Flow Result												
+By Polling Place by Division												
+Flinders (91403)												
+		Candidate		                  	"HUNT, Greg"		                 	"FINCH, Wayne"			Total	
+				                           	LP		                         	ALP				
+				                           	Votes	%	                     	Votes	%			
+	Balnarring											
+			1st Prefs		816	63.75		464	36.25		1280	
+		"WILSON, Earle (IND)"	16		8	50.00		8	50.00		16	
+		"DOWEY, Kevin Joseph Peter (HAN)"	18		9	50.00		9	50.00		18	
+		"BLADE, Ashley (IND)"	6		4	66.67		2	33.33		6	
+		"ARMSTRONG, Richard (DEM)"	135		60	44.44		75	55.56		135	
+		"DE RANGO, David (GRN)"	153		23	15.03		130	84.97		153	
+		Total	328		920	57.21		688	42.79		1608	
+
+	Bass										
+			1st Prefs		167	67.61		80	32.39		247
+		"WILSON, Earle (IND)"	5		2	40.00		3	60.00		5
+		"DOWEY, Kevin Joseph Peter (HAN)"	12		5	41.67		7	58.33		12
+		"BLADE, Ashley (IND)"	3		2	66.67		1	33.33		3
+		"ARMSTRONG, Richard (DEM)"	7		4	57.14		3	42.86		7
+		"DE RANGO, David (GRN)"	26		4	15.38		22	84.62		26
+		Total	53		184	61.33		116	38.67		300
+
+	Baxter										
+			1st Prefs		891	60.32		586	39.68		1477
+		"WILSON, Earle (IND)"	24		18	75.00		6	25.00		24
+		"DOWEY, Kevin Joseph Peter (HAN)"	54		18	33.33		36	66.67		54
+		"BLADE, Ashley (IND)"	10		5	50.00		5	50.00		10
+		"ARMSTRONG, Richard (DEM)"	117		63	53.85		54	46.15		117
+		"DE RANGO, David (GRN)"	98		31	31.63		67	68.37		98
+		Total	303		1026	57.64		754	42.36		1780
+
+	Bayles										
+			1st Prefs		209	69.67		91	30.33		300
+		"WILSON, Earle (IND)"	4		3	75.00		1	25.00		4
+		"DOWEY, Kevin Joseph Peter (HAN)"	6		5	83.33		1	16.67		6
+		"BLADE, Ashley (IND)"	5		3	60.00		2	40.00		5
+		"ARMSTRONG, Richard (DEM)"	17		7	41.18		10	58.82		17
+		"DE RANGO, David (GRN)"	10		2	20.00		8	80.00		10
+		Total	42		229	66.96		113	33.04		342
+
+	Bittern										
+			1st Prefs		583	59.13		403	40.87		986
+		"WILSON, Earle (IND)"	16		7	43.75		9	56.25		16
+		"DOWEY, Kevin Joseph Peter (HAN)"	35		14	40.00		21	60.00		35
+		"BLADE, Ashley (IND)"	8		2	25.00		6	75.00		8
+		"ARMSTRONG, Richard (DEM)"	91		39	42.86		52	57.14		91
+		"DE RANGO, David (GRN)"	109		18	16.51		91	83.49		109
+		Total	259		663	53.25		582	46.75		1245
+
+	Blairgowrie										
+			1st Prefs		817	62.99		480	37.01		1297
+		"WILSON, Earle (IND)"	9		7	77.78		2	22.22		9
+		"DOWEY, Kevin Joseph Peter (HAN)"	20		5	25.00		15	75.00		20
+		"BLADE, Ashley (IND)"	3		1	33.33		2	66.67		3
+		"ARMSTRONG, Richard (DEM)"	71		31	43.66		40	56.34		71
+		"DE RANGO, David (GRN)"	96		22	22.92		74	77.08		96
+		Total	199		883	59.02		613	40.98		1496
+
+	Blind Bight										
+			1st Prefs		369	56.68		282	43.32		651
+		"WILSON, Earle (IND)"	9		4	44.44		5	55.56		9
+		"DOWEY, Kevin Joseph Peter (HAN)"	24		14	58.33		10	41.67		24
+		"BLADE, Ashley (IND)"	5		2	40.00		3	60.00		5
+		"ARMSTRONG, Richard (DEM)"	32		11	34.38		21	65.63		32
+		"DE RANGO, David (GRN)"	29		9	31.03		20	68.97		29
+		Total	99		409	54.53		341	45.47		750
+
+	Boneo										
+			1st Prefs		297	67.50		143	32.50		440
+		"WILSON, Earle (IND)"	4		3	75.00		1	25.00		4
+		"DOWEY, Kevin Joseph Peter (HAN)"	3		3	100.00		0	0.00		3
+		"BLADE, Ashley (IND)"	0		0	0.00		0	0.00		0
+		"ARMSTRONG, Richard (DEM)"	34		14	41.18		20	58.82		34
+		"DE RANGO, David (GRN)"	38		14	36.84		24	63.16		38
+		Total	79		331	63.78		188	36.22		519
+
+	Cardinia										
+			1st Prefs		165	68.75		75	31.25		240
+		"WILSON, Earle (IND)"	7		5	71.43		2	28.57		7
+		"DOWEY, Kevin Joseph Peter (HAN)"	5		4	80.00		1	20.00		5
+		"BLADE, Ashley (IND)"	1		0	0.00		1	100.00		1
+		"ARMSTRONG, Richard (DEM)"	8		3	37.50		5	62.50		8
+		"DE RANGO, David (GRN)"	13		7	53.85		6	46.15		13
+		Total	34		184	67.15		90	32.85		274
+
+	Catani										
+			1st Prefs		112	78.32		31	21.68		143
+		"WILSON, Earle (IND)"	1		0	0.00		1	100.00		1
+		"DOWEY, Kevin Joseph Peter (HAN)"	11		7	63.64		4	36.36		11
+		"BLADE, Ashley (IND)"	0		0	0.00		0	0.00		0
+		"ARMSTRONG, Richard (DEM)"	4		2	50.00		2	50.00		4
+		"DE RANGO, David (GRN)"	2		1	50.00		1	50.00		2
+		Total	18		122	75.78		39	24.22		161
+
+	Clyde										
+			1st Prefs		349	74.10		122	25.90		471
+		"WILSON, Earle (IND)"	7		7	100.00		0	0.00		7
+		"DOWEY, Kevin Joseph Peter (HAN)"	20		8	40.00		12	60.00		20
+		"BLADE, Ashley (IND)"	4		3	75.00		1	25.00		4
+		"ARMSTRONG, Richard (DEM)"	23		7	30.43		16	69.57		23
+		"DE RANGO, David (GRN)"	12		1	8.33		11	91.67		12
+		Total	66		375	69.83		162	30.17		537
+
+	Corinella										
+			1st Prefs		291	44.63		361	55.37		652
+		"WILSON, Earle (IND)"	16		10	62.50		6	37.50		16
+		"DOWEY, Kevin Joseph Peter (HAN)"	33		19	57.58		14	42.42		33
+		"BLADE, Ashley (IND)"	7		5	71.43		2	28.57		7
+		"ARMSTRONG, Richard (DEM)"	26		11	42.31		15	57.69		26
+		"DE RANGO, David (GRN)"	28		4	14.29		24	85.71		28
+		Total	110		340	44.62		422	55.38		762
+
+	Cowes										
+			1st Prefs		1346	61.15		855	38.85		2201
+		"WILSON, Earle (IND)"	22		10	45.45		12	54.55		22
+		"DOWEY, Kevin Joseph Peter (HAN)"	46		28	60.87		18	39.13		46
+		"BLADE, Ashley (IND)"	18		13	72.22		5	27.78		18
+		"ARMSTRONG, Richard (DEM)"	140		59	42.14		81	57.86		140
+		"DE RANGO, David (GRN)"	241		50	20.75		191	79.25		241
+		Total	467		1506	56.45		1162	43.55		2668
+
+	Cranbourne (Flinders)										
+			1st Prefs		238	55.22		193	44.78		431
+		"WILSON, Earle (IND)"	10		7	70.00		3	30.00		10
+		"DOWEY, Kevin Joseph Peter (HAN)"	12		12	100.00		0	0.00		12
+		"BLADE, Ashley (IND)"	7		5	71.43		2	28.57		7
+		"ARMSTRONG, Richard (DEM)"	32		11	34.38		21	65.63		32
+		"DE RANGO, David (GRN)"	22		7	31.82		15	68.18		22
+		Total	83		280	54.47		234	45.53		514
+
+	Cranbourne South										
+			1st Prefs		585	68.74		266	31.26		851
+		"WILSON, Earle (IND)"	9		5	55.56		4	44.44		9
+		"DOWEY, Kevin Joseph Peter (HAN)"	16		10	62.50		6	37.50		16
+		"BLADE, Ashley (IND)"	8		3	37.50		5	62.50		8
+		"ARMSTRONG, Richard (DEM)"	35		17	48.57		18	51.43		35
+		"DE RANGO, David (GRN)"	33		13	39.39		20	60.61		33
+		Total	101		633	66.49		319	33.51		952
+
+	Crib Point										
+			1st Prefs		490	48.85		513	51.15		1003
+		"WILSON, Earle (IND)"	16		8	50.00		8	50.00		16
+		"DOWEY, Kevin Joseph Peter (HAN)"	42		24	57.14		18	42.86		42
+		"BLADE, Ashley (IND)"	7		2	28.57		5	71.43		7
+		"ARMSTRONG, Richard (DEM)"	65		25	38.46		40	61.54		65
+		"DE RANGO, David (GRN)"	48		10	20.83		38	79.17		48
+		Total	178		559	47.33		622	52.67		1181
+
+	Dalyston										
+			1st Prefs		184	68.91		83	31.09		267
+		"WILSON, Earle (IND)"	3		3	100.00		0	0.00		3
+		"DOWEY, Kevin Joseph Peter (HAN)"	14		8	57.14		6	42.86		14
+		"BLADE, Ashley (IND)"	3		1	33.33		2	66.67		3
+		"ARMSTRONG, Richard (DEM)"	10		6	60.00		4	40.00		10
+		"DE RANGO, David (GRN)"	28		3	10.71		25	89.29		28
+		Total	58		205	63.08		120	36.92		325
+
+	Devon Meadows										
+			1st Prefs		790	63.00		464	37.00		1254
+		"WILSON, Earle (IND)"	20		11	55.00		9	45.00		20
+		"DOWEY, Kevin Joseph Peter (HAN)"	38		22	57.89		16	42.11		38
+		"BLADE, Ashley (IND)"	11		7	63.64		4	36.36		11
+		"ARMSTRONG, Richard (DEM)"	78		33	42.31		45	57.69		78
+		"DE RANGO, David (GRN)"	48		11	22.92		37	77.08		48
+		Total	195		874	60.32		575	39.68		1449
+
+	Dromana										
+			1st Prefs		1441	58.39		1027	41.61		2468
+		"WILSON, Earle (IND)"	26		18	69.23		8	30.77		26
+		"DOWEY, Kevin Joseph Peter (HAN)"	39		21	53.85		18	46.15		39
+		"BLADE, Ashley (IND)"	37		25	67.57		12	32.43		37
+		"ARMSTRONG, Richard (DEM)"	159		81	50.94		78	49.06		159
+		"DE RANGO, David (GRN)"	157		39	24.84		118	75.16		157
+		Total	418		1625	56.31		1261	43.69		2886
+
+	Dromana Beach										
+			1st Prefs		286	60.47		187	39.53		473
+		"WILSON, Earle (IND)"	4		3	75.00		1	25.00		4
+		"DOWEY, Kevin Joseph Peter (HAN)"	14		6	42.86		8	57.14		14
+		"BLADE, Ashley (IND)"	2		1	50.00		1	50.00		2
+		"ARMSTRONG, Richard (DEM)"	24		10	41.67		14	58.33		24
+		"DE RANGO, David (GRN)"	57		14	24.56		43	75.44		57
+		Total	101		320	55.75		254	44.25		574
+
+	Flinders										
+			1st Prefs		291	69.45		128	30.55		419
+		"WILSON, Earle (IND)"	5		4	80.00		1	20.00		5
+		"DOWEY, Kevin Joseph Peter (HAN)"	8		6	75.00		2	25.00		8
+		"BLADE, Ashley (IND)"	1		1	100.00		0	0.00		1
+		"ARMSTRONG, Richard (DEM)"	27		12	44.44		15	55.56		27
+		"DE RANGO, David (GRN)"	78		12	15.38		66	84.62		78
+		Total	119		326	60.59		212	39.41		538
+
+	Glen Alvie										
+			1st Prefs		52	76.47		16	23.53		68
+		"WILSON, Earle (IND)"	0		0	0.00		0	0.00		0
+		"DOWEY, Kevin Joseph Peter (HAN)"	5		4	80.00		1	20.00		5
+		"BLADE, Ashley (IND)"	4		1	25.00		3	75.00		4
+		"ARMSTRONG, Richard (DEM)"	5		2	40.00		3	60.00		5
+		"DE RANGO, David (GRN)"	4		1	25.00		3	75.00		4
+		Total	18		60	69.77		26	30.23		86
+
+	Grantville										
+			1st Prefs		295	52.58		266	47.42		561
+		"WILSON, Earle (IND)"	5		3	60.00		2	40.00		5
+		"DOWEY, Kevin Joseph Peter (HAN)"	25		12	48.00		13	52.00		25
+		"BLADE, Ashley (IND)"	3		1	33.33		2	66.67		3
+		"ARMSTRONG, Richard (DEM)"	20		6	30.00		14	70.00		20
+		"DE RANGO, David (GRN)"	26		4	15.38		22	84.62		26
+		Total	79		321	50.16		319	49.84		640
+
+	Hastings										
+			1st Prefs		1114	50.07		1111	49.93		2225
+		"WILSON, Earle (IND)"	42		23	54.76		19	45.24		42
+		"DOWEY, Kevin Joseph Peter (HAN)"	100		34	34.00		66	66.00		100
+		"BLADE, Ashley (IND)"	24		9	37.50		15	62.50		24
+		"ARMSTRONG, Richard (DEM)"	147		66	44.90		81	55.10		147
+		"DE RANGO, David (GRN)"	135		27	20.00		108	80.00		135
+		Total	448		1273	47.62		1400	52.38		2673
+
+	Kernot										
+			1st Prefs		93	80.87		22	19.13		115
+		"WILSON, Earle (IND)"	0		0	0.00		0	0.00		0
+		"DOWEY, Kevin Joseph Peter (HAN)"	3		3	100.00		0	0.00		3
+		"BLADE, Ashley (IND)"	1		1	100.00		0	0.00		1
+		"ARMSTRONG, Richard (DEM)"	5		2	40.00		3	60.00		5
+		"DE RANGO, David (GRN)"	5		1	20.00		4	80.00		5
+		Total	14		100	77.52		29	22.48		129
+
+	Kilcunda										
+			1st Prefs		92	55.42		74	44.58		166
+		"WILSON, Earle (IND)"	3		2	66.67		1	33.33		3
+		"DOWEY, Kevin Joseph Peter (HAN)"	12		8	66.67		4	33.33		12
+		"BLADE, Ashley (IND)"	0		0	0.00		0	0.00		0
+		"ARMSTRONG, Richard (DEM)"	8		2	25.00		6	75.00		8
+		"DE RANGO, David (GRN)"	13		2	15.38		11	84.62		13
+		Total	36		106	52.48		96	47.52		202
+
+	Kooweerup										
+			1st Prefs		568	66.51		286	33.49		854
+		"WILSON, Earle (IND)"	16		11	68.75		5	31.25		16
+		"DOWEY, Kevin Joseph Peter (HAN)"	62		16	25.81		46	74.19		62
+		"BLADE, Ashley (IND)"	7		1	14.29		6	85.71		7
+		"ARMSTRONG, Richard (DEM)"	45		18	40.00		27	60.00		45
+		"DE RANGO, David (GRN)"	23		6	26.09		17	73.91		23
+		Total	153		620	61.57		387	38.43		1007
+
+	Lang Lang										
+			1st Prefs		607	70.75		251	29.25		858
+		"WILSON, Earle (IND)"	11		8	72.73		3	27.27		11
+		"DOWEY, Kevin Joseph Peter (HAN)"	50		22	44.00		28	56.00		50
+		"BLADE, Ashley (IND)"	13		8	61.54		5	38.46		13
+		"ARMSTRONG, Richard (DEM)"	28		11	39.29		17	60.71		28
+		"DE RANGO, David (GRN)"	19		7	36.84		12	63.16		19
+		Total	121		663	67.72		316	32.28		979
+
+	McCrae										
+			1st Prefs		437	65.32		232	34.68		669
+		"WILSON, Earle (IND)"	6		4	66.67		2	33.33		6
+		"DOWEY, Kevin Joseph Peter (HAN)"	13		9	69.23		4	30.77		13
+		"BLADE, Ashley (IND)"	3		1	33.33		2	66.67		3
+		"ARMSTRONG, Richard (DEM)"	29		18	62.07		11	37.93		29
+		"DE RANGO, David (GRN)"	65		9	13.85		56	86.15		65
+		Total	116		478	60.89		307	39.11		785
+
+	Main Ridge										
+			1st Prefs		132	68.75		60	31.25		192
+		"WILSON, Earle (IND)"	0		0	0.00		0	0.00		0
+		"DOWEY, Kevin Joseph Peter (HAN)"	0		0	0.00		0	0.00		0
+		"BLADE, Ashley (IND)"	1		1	100.00		0	0.00		1
+		"ARMSTRONG, Richard (DEM)"	6		2	33.33		4	66.67		6
+		"DE RANGO, David (GRN)"	15		5	33.33		10	66.67		15
+		Total	22		140	65.42		74	34.58		214
+
+	Melbourne (Flinders)										
+			1st Prefs		14	56.00		11	44.00		25
+		"WILSON, Earle (IND)"	0		0	0.00		0	0.00		0
+		"DOWEY, Kevin Joseph Peter (HAN)"	0		0	0.00		0	0.00		0
+		"BLADE, Ashley (IND)"	0		0	0.00		0	0.00		0
+		"ARMSTRONG, Richard (DEM)"	8		3	37.50		5	62.50		8
+		"DE RANGO, David (GRN)"	6		3	50.00		3	50.00		6
+		Total	14		20	51.28		19	48.72		39
+
+	Merricks North										
+			1st Prefs		140	66.67		70	33.33		210
+		"WILSON, Earle (IND)"	0		0	0.00		0	0.00		0
+		"DOWEY, Kevin Joseph Peter (HAN)"	2		2	100.00		0	0.00		2
+		"BLADE, Ashley (IND)"	1		1	100.00		0	0.00		1
+		"ARMSTRONG, Richard (DEM)"	10		2	20.00		8	80.00		10
+		"DE RANGO, David (GRN)"	23		7	30.43		16	69.57		23
+		Total	36		152	61.79		94	38.21		246
+
+	Moorooduc										
+			1st Prefs		358	77.49		104	22.51		462
+		"WILSON, Earle (IND)"	6		2	33.33		4	66.67		6
+		"DOWEY, Kevin Joseph Peter (HAN)"	5		4	80.00		1	20.00		5
+		"BLADE, Ashley (IND)"	3		1	33.33		2	66.67		3
+		"ARMSTRONG, Richard (DEM)"	25		13	52.00		12	48.00		25
+		"DE RANGO, David (GRN)"	25		8	32.00		17	68.00		25
+		Total	64		386	73.38		140	26.62		526
+
+	Mt Erin (Flinders)										
+			1st Prefs		578	65.46		305	34.54		883
+		"WILSON, Earle (IND)"	9		6	66.67		3	33.33		9
+		"DOWEY, Kevin Joseph Peter (HAN)"	12		7	58.33		5	41.67		12
+		"BLADE, Ashley (IND)"	3		3	100.00		0	0.00		3
+		"ARMSTRONG, Richard (DEM)"	48		15	31.25		33	68.75		48
+		"DE RANGO, David (GRN)"	33		9	27.27		24	72.73		33
+		Total	105		618	62.55		370	37.45		988
+
+	Mt Martha										
+			1st Prefs		2074	70.31		876	29.69		2950
+		"WILSON, Earle (IND)"	19		11	57.89		8	42.11		19
+		"DOWEY, Kevin Joseph Peter (HAN)"	26		15	57.69		11	42.31		26
+		"BLADE, Ashley (IND)"	16		10	62.50		6	37.50		16
+		"ARMSTRONG, Richard (DEM)"	232		94	40.52		138	59.48		232
+		"DE RANGO, David (GRN)"	274		43	15.69		231	84.31		274
+		Total	567		2247	63.89		1270	36.11		3517
+
+	Mt Martha North (Flinders)										
+			1st Prefs		1469	65.99		757	34.01		2226
+		"WILSON, Earle (IND)"	30		18	60.00		12	40.00		30
+		"DOWEY, Kevin Joseph Peter (HAN)"	44		23	52.27		21	47.73		44
+		"BLADE, Ashley (IND)"	11		9	81.82		2	18.18		11
+		"ARMSTRONG, Richard (DEM)"	182		94	51.65		88	48.35		182
+		"DE RANGO, David (GRN)"	167		30	17.96		137	82.04		167
+		Total	434		1643	61.77		1017	38.23		2660
+
+	Newhaven										
+			1st Prefs		378	53.02		335	46.98		713
+		"WILSON, Earle (IND)"	9		8	88.89		1	11.11		9
+		"DOWEY, Kevin Joseph Peter (HAN)"	24		9	37.50		15	62.50		24
+		"BLADE, Ashley (IND)"	2		0	0.00		2	100.00		2
+		"ARMSTRONG, Richard (DEM)"	28		4	14.29		24	85.71		28
+		"DE RANGO, David (GRN)"	85		14	16.47		71	83.53		85
+		Total	148		413	47.97		448	52.03		861
+
+	Nyora										
+			1st Prefs		299	59.68		202	40.32		501
+		"WILSON, Earle (IND)"	7		3	42.86		4	57.14		7
+		"DOWEY, Kevin Joseph Peter (HAN)"	21		11	52.38		10	47.62		21
+		"BLADE, Ashley (IND)"	5		2	40.00		3	60.00		5
+		"ARMSTRONG, Richard (DEM)"	23		9	39.13		14	60.87		23
+		"DE RANGO, David (GRN)"	27		9	33.33		18	66.67		27
+		Total	83		333	57.02		251	42.98		584
+
+	Pearcedale										
+			1st Prefs		996	60.25		657	39.75		1653
+		"WILSON, Earle (IND)"	17		12	70.59		5	29.41		17
+		"DOWEY, Kevin Joseph Peter (HAN)"	48		29	60.42		19	39.58		48
+		"BLADE, Ashley (IND)"	16		11	68.75		5	31.25		16
+		"ARMSTRONG, Richard (DEM)"	128		51	39.84		77	60.16		128
+		"DE RANGO, David (GRN)"	98		19	19.39		79	80.61		98
+		Total	307		1118	57.04		842	42.96		1960
+
+	Portsea										
+			1st Prefs		186	80.17		46	19.83		232
+		"WILSON, Earle (IND)"	0		0	0.00		0	0.00		0
+		"DOWEY, Kevin Joseph Peter (HAN)"	3		1	33.33		2	66.67		3
+		"BLADE, Ashley (IND)"	0		0	0.00		0	0.00		0
+		"ARMSTRONG, Richard (DEM)"	5		1	20.00		4	80.00		5
+		"DE RANGO, David (GRN)"	13		4	30.77		9	69.23		13
+		Total	21		192	75.89		61	24.11		253
+
+	Red Hill										
+			1st Prefs		613	65.91		317	34.09		930
+		"WILSON, Earle (IND)"	6		4	66.67		2	33.33		6
+		"DOWEY, Kevin Joseph Peter (HAN)"	13		10	76.92		3	23.08		13
+		"BLADE, Ashley (IND)"	1		0	0.00		1	100.00		1
+		"ARMSTRONG, Richard (DEM)"	103		38	36.89		65	63.11		103
+		"DE RANGO, David (GRN)"	152		34	22.37		118	77.63		152
+		Total	275		699	58.01		506	41.99		1205
+
+	Rhyll										
+			1st Prefs		329	70.15		140	29.85		469
+		"WILSON, Earle (IND)"	2		0	0.00		2	100.00		2
+		"DOWEY, Kevin Joseph Peter (HAN)"	11		4	36.36		7	63.64		11
+		"BLADE, Ashley (IND)"	2		2	100.00		0	0.00		2
+		"ARMSTRONG, Richard (DEM)"	15		3	20.00		12	80.00		15
+		"DE RANGO, David (GRN)"	40		6	15.00		34	85.00		40
+		Total	70		344	63.82		195	36.18		539
+
+	Rosebud										
+			1st Prefs		585	53.97		499	46.03		1084
+		"WILSON, Earle (IND)"	17		11	64.71		6	35.29		17
+		"DOWEY, Kevin Joseph Peter (HAN)"	27		14	51.85		13	48.15		27
+		"BLADE, Ashley (IND)"	10		7	70.00		3	30.00		10
+		"ARMSTRONG, Richard (DEM)"	69		29	42.03		40	57.97		69
+		"DE RANGO, David (GRN)"	57		16	28.07		41	71.93		57
+		Total	180		662	52.37		602	47.63		1264
+
+	Rosebud East										
+			1st Prefs		810	50.78		785	49.22		1595
+		"WILSON, Earle (IND)"	25		13	52.00		12	48.00		25
+		"DOWEY, Kevin Joseph Peter (HAN)"	39		19	48.72		20	51.28		39
+		"BLADE, Ashley (IND)"	17		11	64.71		6	35.29		17
+		"ARMSTRONG, Richard (DEM)"	139		59	42.45		80	57.55		139
+		"DE RANGO, David (GRN)"	131		23	17.56		108	82.44		131
+		Total	351		935	48.05		1011	51.95		1946
+
+	Rosebud South										
+			1st Prefs		1093	62.78		648	37.22		1741
+		"WILSON, Earle (IND)"	13		10	76.92		3	23.08		13
+		"DOWEY, Kevin Joseph Peter (HAN)"	39		22	56.41		17	43.59		39
+		"BLADE, Ashley (IND)"	15		8	53.33		7	46.67		15
+		"ARMSTRONG, Richard (DEM)"	127		53	41.73		74	58.27		127
+		"DE RANGO, David (GRN)"	131		22	16.79		109	83.21		131
+		Total	325		1208	58.47		858	41.53		2066
+
+	Rosebud West										
+			1st Prefs		1015	51.01		975	48.99		1990
+		"WILSON, Earle (IND)"	30		20	66.67		10	33.33		30
+		"DOWEY, Kevin Joseph Peter (HAN)"	52		25	48.08		27	51.92		52
+		"BLADE, Ashley (IND)"	7		3	42.86		4	57.14		7
+		"ARMSTRONG, Richard (DEM)"	151		79	52.32		72	47.68		151
+		"DE RANGO, David (GRN)"	109		20	18.35		89	81.65		109
+		Total	349		1162	49.68		1177	50.32		2339
+
+	Rye										
+			1st Prefs		1698	53.33		1486	46.67		3184
+		"WILSON, Earle (IND)"	33		23	69.70		10	30.30		33
+		"DOWEY, Kevin Joseph Peter (HAN)"	82		31	37.80		51	62.20		82
+		"BLADE, Ashley (IND)"	19		10	52.63		9	47.37		19
+		"ARMSTRONG, Richard (DEM)"	178		74	41.57		104	58.43		178
+		"DE RANGO, David (GRN)"	230		38	16.52		192	83.48		230
+		Total	542		1874	50.30		1852	49.70		3726
+
+	Safety Beach										
+			1st Prefs		733	60.33		482	39.67		1215
+		"WILSON, Earle (IND)"	9		7	77.78		2	22.22		9
+		"DOWEY, Kevin Joseph Peter (HAN)"	30		17	56.67		13	43.33		30
+		"BLADE, Ashley (IND)"	6		2	33.33		4	66.67		6
+		"ARMSTRONG, Richard (DEM)"	65		23	35.38		42	64.62		65
+		"DE RANGO, David (GRN)"	48		16	33.33		32	66.67		48
+		Total	158		798	58.12		575	41.88		1373
+
+	St Andrews Beach										
+			1st Prefs		189	56.08		148	43.92		337
+		"WILSON, Earle (IND)"	3		2	66.67		1	33.33		3
+		"DOWEY, Kevin Joseph Peter (HAN)"	9		7	77.78		2	22.22		9
+		"BLADE, Ashley (IND)"	0		0	0.00		0	0.00		0
+		"ARMSTRONG, Richard (DEM)"	31		7	22.58		24	77.42		31
+		"DE RANGO, David (GRN)"	46		10	21.74		36	78.26		46
+		Total	89		215	50.47		211	49.53		426
+
+	San Remo										
+			1st Prefs		404	62.35		244	37.65		648
+		"WILSON, Earle (IND)"	8		5	62.50		3	37.50		8
+		"DOWEY, Kevin Joseph Peter (HAN)"	12		6	50.00		6	50.00		12
+		"BLADE, Ashley (IND)"	1		0	0.00		1	100.00		1
+		"ARMSTRONG, Richard (DEM)"	29		9	31.03		20	68.97		29
+		"DE RANGO, David (GRN)"	73		7	9.59		66	90.41		73
+		Total	123		431	55.90		340	44.10		771
+
+	Shoreham										
+			1st Prefs		161	59.41		110	40.59		271
+		"WILSON, Earle (IND)"	1		1	100.00		0	0.00		1
+		"DOWEY, Kevin Joseph Peter (HAN)"	2		1	50.00		1	50.00		2
+		"BLADE, Ashley (IND)"	0		0	0.00		0	0.00		0
+		"ARMSTRONG, Richard (DEM)"	16		3	18.75		13	81.25		16
+		"DE RANGO, David (GRN)"	55		15	27.27		40	72.73		55
+		Total	74		181	52.46		164	47.54		345
+
+	Somers										
+			1st Prefs		387	63.44		223	36.56		610
+		"WILSON, Earle (IND)"	7		3	42.86		4	57.14		7
+		"DOWEY, Kevin Joseph Peter (HAN)"	10		5	50.00		5	50.00		10
+		"BLADE, Ashley (IND)"	1		0	0.00		1	100.00		1
+		"ARMSTRONG, Richard (DEM)"	82		38	46.34		44	53.66		82
+		"DE RANGO, David (GRN)"	66		15	22.73		51	77.27		66
+		Total	166		448	57.73		328	42.27		776
+
+	Somerville East										
+			1st Prefs		1326	63.17		773	36.83		2099
+		"WILSON, Earle (IND)"	22		14	63.64		8	36.36		22
+		"DOWEY, Kevin Joseph Peter (HAN)"	47		28	59.57		19	40.43		47
+		"BLADE, Ashley (IND)"	23		11	47.83		12	52.17		23
+		"ARMSTRONG, Richard (DEM)"	197		88	44.67		109	55.33		197
+		"DE RANGO, David (GRN)"	91		17	18.68		74	81.32		91
+		Total	380		1484	59.86		995	40.14		2479
+
+	Somerville West										
+			1st Prefs		1504	66.20		768	33.80		2272
+		"WILSON, Earle (IND)"	16		11	68.75		5	31.25		16
+		"DOWEY, Kevin Joseph Peter (HAN)"	60		31	51.67		29	48.33		60
+		"BLADE, Ashley (IND)"	14		9	64.29		5	35.71		14
+		"ARMSTRONG, Richard (DEM)"	187		95	50.80		92	49.20		187
+		"DE RANGO, David (GRN)"	111		31	27.93		80	72.07		111
+		Total	388		1681	63.20		979	36.80		2660
+
+	Sorrento										
+			1st Prefs		737	72.25		283	27.75		1020
+		"WILSON, Earle (IND)"	12		8	66.67		4	33.33		12
+		"DOWEY, Kevin Joseph Peter (HAN)"	13		6	46.15		7	53.85		13
+		"BLADE, Ashley (IND)"	6		5	83.33		1	16.67		6
+		"ARMSTRONG, Richard (DEM)"	64		29	45.31		35	54.69		64
+		"DE RANGO, David (GRN)"	107		16	14.95		91	85.05		107
+		Total	202		801	65.55		421	34.45		1222
+
+	Tooradin										
+			1st Prefs		371	66.37		188	33.63		559
+		"WILSON, Earle (IND)"	14		9	64.29		5	35.71		14
+		"DOWEY, Kevin Joseph Peter (HAN)"	20		12	60.00		8	40.00		20
+		"BLADE, Ashley (IND)"	3		1	33.33		2	66.67		3
+		"ARMSTRONG, Richard (DEM)"	24		8	33.33		16	66.67		24
+		"DE RANGO, David (GRN)"	28		10	35.71		18	64.29		28
+		Total	89		411	63.43		237	36.57		648
+
+	Tootgarook										
+			1st Prefs		606	50.25		600	49.75		1206
+		"WILSON, Earle (IND)"	16		9	56.25		7	43.75		16
+		"DOWEY, Kevin Joseph Peter (HAN)"	29		12	41.38		17	58.62		29
+		"BLADE, Ashley (IND)"	10		6	60.00		4	40.00		10
+		"ARMSTRONG, Richard (DEM)"	77		31	40.26		46	59.74		77
+		"DE RANGO, David (GRN)"	71		10	14.08		61	85.92		71
+		Total	203		674	47.84		735	52.16		1409
+
+	Tyabb										
+			1st Prefs		764	63.72		435	36.28		1199
+		"WILSON, Earle (IND)"	9		6	66.67		3	33.33		9
+		"DOWEY, Kevin Joseph Peter (HAN)"	38		24	63.16		14	36.84		38
+		"BLADE, Ashley (IND)"	7		5	71.43		2	28.57		7
+		"ARMSTRONG, Richard (DEM)"	106		58	54.72		48	45.28		106
+		"DE RANGO, David (GRN)"	45		17	37.78		28	62.22		45
+		Total	205		874	62.25		530	37.75		1404
+
+	West Park										
+			1st Prefs		257	37.68		425	62.32		682
+		"WILSON, Earle (IND)"	16		13	81.25		3	18.75		16
+		"DOWEY, Kevin Joseph Peter (HAN)"	22		10	45.45		12	54.55		22
+		"BLADE, Ashley (IND)"	10		9	90.00		1	10.00		10
+		"ARMSTRONG, Richard (DEM)"	34		8	23.53		26	76.47		34
+		"DE RANGO, David (GRN)"	38		12	31.58		26	68.42		38
+		Total	120		309	38.53		493	61.47		802
+
+	Special Hospitals										
+			1st Prefs		1132	68.19		528	31.81		1660
+		"WILSON, Earle (IND)"	21		14	66.67		7	33.33		21
+		"DOWEY, Kevin Joseph Peter (HAN)"	13		6	46.15		7	53.85		13
+		"BLADE, Ashley (IND)"	9		6	66.67		3	33.33		9
+		"ARMSTRONG, Richard (DEM)"	37		13	35.14		24	64.86		37
+		"DE RANGO, David (GRN)"	19		6	31.58		13	68.42		19
+		Total	99		1177	66.91		582	33.09		1759
+
+	Total Ordinary										
+			1st Prefs		35313	61.01		22572	38.99		57885
+		"WILSON, Earle (IND)"	693		437	63.06		256	36.94		693
+		"DOWEY, Kevin Joseph Peter (HAN)"	1493		747	50.03		746	49.97		1493
+		"BLADE, Ashley (IND)"	420		240	57.14		180	42.86		420
+		"ARMSTRONG, Richard (DEM)"	3848		1664	43.24		2184	56.76		3848
+		"DE RANGO, David (GRN)"	4030		844	20.94		3186	79.06		4030
+		Total	10484		39245	57.40		29124	42.60		68369
+
+	ABSENT										
+			1st Prefs		2212	62.97		1301	37.03		3513
+		"WILSON, Earle (IND)"	133		82	61.65		51	38.35		133
+		"DOWEY, Kevin Joseph Peter (HAN)"	127		81	63.78		46	36.22		127
+		"BLADE, Ashley (IND)"	78		51	65.38		27	34.62		78
+		"ARMSTRONG, Richard (DEM)"	369		153	41.46		216	58.54		369
+		"DE RANGO, David (GRN)"	400		114	28.50		286	71.50		400
+		Total	1107		2693	58.29		1927	41.71		4620
+
+	POSTAL										
+			1st Prefs		2407	65.44		1271	34.56		3678
+		"WILSON, Earle (IND)"	39		19	48.72		20	51.28		39
+		"DOWEY, Kevin Joseph Peter (HAN)"	108		58	53.70		50	46.30		108
+		"BLADE, Ashley (IND)"	20		9	45.00		11	55.00		20
+		"ARMSTRONG, Richard (DEM)"	151		52	34.44		99	65.56		151
+		"DE RANGO, David (GRN)"	164		32	19.51		132	80.49		164
+		Total	482		2577	61.95		1583	38.05		4160
+
+	PRE_POLL										
+			1st Prefs		3395	58.95		2364	41.05		5759
+		"WILSON, Earle (IND)"	88		47	53.41		41	46.59		88
+		"DOWEY, Kevin Joseph Peter (HAN)"	169		93	55.03		76	44.97		169
+		"BLADE, Ashley (IND)"	41		22	53.66		19	46.34		41
+		"ARMSTRONG, Richard (DEM)"	282		116	41.13		166	58.87		282
+		"DE RANGO, David (GRN)"	233		70	30.04		163	69.96		233
+		Total	813		3743	56.95		2829	43.05		6572
+
+	PROVISIONAL										
+			1st Prefs		274	59.44		187	40.56		461
+		"WILSON, Earle (IND)"	15		11	73.33		4	26.67		15
+		"DOWEY, Kevin Joseph Peter (HAN)"	14		8	57.14		6	42.86		14
+		"BLADE, Ashley (IND)"	8		5	62.50		3	37.50		8
+		"ARMSTRONG, Richard (DEM)"	40		20	50.00		20	50.00		40
+		"DE RANGO, David (GRN)"	59		9	15.25		50	84.75		59
+		Total	136		327	54.77		270	45.23		597
+
+	Division Summary											
+			1st Prefs		43601	61.15		27695	38.85		71296	
+		"WILSON, Earle (IND)"	968		596	61.57		372	38.43		968	
+		"DOWEY, Kevin Joseph Peter (HAN)"	1911		987	51.65		924	48.35		1911	
+		"BLADE, Ashley (IND)"	567		327	57.67		240	42.33		567	
+		"ARMSTRONG, Richard (DEM)"	4690		2005	42.75		2685	57.25		4690	
+		"DE RANGO, David (GRN)"	4886		1069	21.88		3817	78.12		4886	
+		Total	13022		48585	57.62		35733	42.38		84318	

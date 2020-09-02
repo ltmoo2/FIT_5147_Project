@@ -1,0 +1,367 @@
+House of Representatives - 2001 Election: New South Wales											
+Two Candidate Preferred Preference Flow Result											
+by Polling Place											
+											
+Throsby (84412)											
+		Candidate		"AKHURST, Alan"		              	"GEORGE, Jennie"		             	Total	
+				LP		                         	ALP		                        		
+				Votes	%	                     	Votes	%	                     		
+	Albion Park										
+			1st Prefs	427	39.79		646	60.21		1073	
+		"ROBERTS, Madeleine (DEM)"	130	65	50.00		65	50.00		130	
+		"PRSA, Ivan (HAN)"	156	114	73.08		42	26.92		156	
+		"PERROTT, Margaret ()"	19	8	42.11		11	57.89		19	
+		"STORY, Elsa (GRN)"	77	25	32.47		52	67.53		77	
+		Total	382	639	43.92		816	56.08		1455	
+
+	Albion Park Rail										
+			1st Prefs	934	33.87		1824	66.13		2758	
+		"ROBERTS, Madeleine (DEM)"	266	112	42.11		154	57.89		266	
+		"PRSA, Ivan (HAN)"	371	248	66.85		123	33.15		371	
+		"PERROTT, Margaret ()"	55	28	50.91		27	49.09		55	
+		"STORY, Elsa (GRN)"	138	48	34.78		90	65.22		138	
+		Total	830	1370	38.18		2218	61.82		3588	
+
+	Albion Park South										
+			1st Prefs	894	42.23		1223	57.77		2117	
+		"ROBERTS, Madeleine (DEM)"	189	93	49.21		96	50.79		189	
+		"PRSA, Ivan (HAN)"	214	155	72.43		59	27.57		214	
+		"PERROTT, Margaret ()"	37	19	51.35		18	48.65		37	
+		"STORY, Elsa (GRN)"	117	38	32.48		79	67.52		117	
+		Total	557	1199	44.84		1475	55.16		2674	
+
+	Barrack Heights										
+			1st Prefs	253	23.45		826	76.55		1079	
+		"ROBERTS, Madeleine (DEM)"	125	63	50.40		62	49.60		125	
+		"PRSA, Ivan (HAN)"	78	52	66.67		26	33.33		78	
+		"PERROTT, Margaret ()"	19	11	57.89		8	42.11		19	
+		"STORY, Elsa (GRN)"	68	13	19.12		55	80.88		68	
+		Total	290	392	28.63		977	71.37		1369	
+
+	Berkeley										
+			1st Prefs	352	20.87		1335	79.13		1687	
+		"ROBERTS, Madeleine (DEM)"	106	43	40.57		63	59.43		106	
+		"PRSA, Ivan (HAN)"	98	52	53.06		46	46.94		98	
+		"PERROTT, Margaret ()"	21	12	57.14		9	42.86		21	
+		"STORY, Elsa (GRN)"	85	18	21.18		67	78.82		85	
+		Total	310	477	23.89		1520	76.11		1997	
+
+	Berkeley South										
+			1st Prefs	111	19.72		452	80.28		563	
+		"ROBERTS, Madeleine (DEM)"	44	21	47.73		23	52.27		44	
+		"PRSA, Ivan (HAN)"	26	20	76.92		6	23.08		26	
+		"PERROTT, Margaret ()"	9	7	77.78		2	22.22		9	
+		"STORY, Elsa (GRN)"	20	6	30.00		14	70.00		20	
+		Total	99	165	24.92		497	75.08		662	
+
+	Berkeley West										
+			1st Prefs	285	19.27		1194	80.73		1479	
+		"ROBERTS, Madeleine (DEM)"	90	44	48.89		46	51.11		90	
+		"PRSA, Ivan (HAN)"	97	48	49.48		49	50.52		97	
+		"PERROTT, Margaret ()"	24	14	58.33		10	41.67		24	
+		"STORY, Elsa (GRN)"	61	11	18.03		50	81.97		61	
+		Total	272	402	22.96		1349	77.04		1751	
+
+	Blackbutt										
+			1st Prefs	543	35.91		969	64.09		1512	
+		"ROBERTS, Madeleine (DEM)"	150	75	50.00		75	50.00		150	
+		"PRSA, Ivan (HAN)"	78	50	64.10		28	35.90		78	
+		"PERROTT, Margaret ()"	18	15	83.33		3	16.67		18	
+		"STORY, Elsa (GRN)"	68	21	30.88		47	69.12		68	
+		Total	314	704	38.55		1122	61.45		1826	
+
+	Brownsville										
+			1st Prefs	450	39.93		677	60.07		1127	
+		"ROBERTS, Madeleine (DEM)"	111	61	54.95		50	45.05		111	
+		"PRSA, Ivan (HAN)"	65	38	58.46		27	41.54		65	
+		"PERROTT, Margaret ()"	17	8	47.06		9	52.94		17	
+		"STORY, Elsa (GRN)"	52	13	25.00		39	75.00		52	
+		Total	245	570	41.55		802	58.45		1372	
+
+	Cringila										
+			1st Prefs	92	8.82		951	91.18		1043	
+		"ROBERTS, Madeleine (DEM)"	94	62	65.96		32	34.04		94	
+		"PRSA, Ivan (HAN)"	21	15	71.43		6	28.57		21	
+		"PERROTT, Margaret ()"	34	12	35.29		22	64.71		34	
+		"STORY, Elsa (GRN)"	50	5	10.00		45	90.00		50	
+		Total	199	186	14.98		1056	85.02		1242	
+
+	Dapto										
+			1st Prefs	642	32.21		1351	67.79		1993	
+		"ROBERTS, Madeleine (DEM)"	177	92	51.98		85	48.02		177	
+		"PRSA, Ivan (HAN)"	167	128	76.65		39	23.35		167	
+		"PERROTT, Margaret ()"	32	15	46.88		17	53.13		32	
+		"STORY, Elsa (GRN)"	98	32	32.65		66	67.35		98	
+		Total	474	909	36.85		1558	63.15		2467	
+
+	Farmborough Road										
+			1st Prefs	876	37.23		1477	62.77		2353	
+		"ROBERTS, Madeleine (DEM)"	330	143	43.33		187	56.67		330	
+		"PRSA, Ivan (HAN)"	142	83	58.45		59	41.55		142	
+		"PERROTT, Margaret ()"	52	31	59.62		21	40.38		52	
+		"STORY, Elsa (GRN)"	219	65	29.68		154	70.32		219	
+		Total	743	1198	38.70		1898	61.30		3096	
+
+	Hayes Park										
+			1st Prefs	858	40.15		1279	59.85		2137	
+		"ROBERTS, Madeleine (DEM)"	182	85	46.70		97	53.30		182	
+		"PRSA, Ivan (HAN)"	151	100	66.23		51	33.77		151	
+		"PERROTT, Margaret ()"	24	15	62.50		9	37.50		24	
+		"STORY, Elsa (GRN)"	86	34	39.53		52	60.47		86	
+		Total	443	1092	42.33		1488	57.67		2580	
+
+	Kemblawarra										
+			1st Prefs	160	18.10		724	81.90		884	
+		"ROBERTS, Madeleine (DEM)"	72	37	51.39		35	48.61		72	
+		"PRSA, Ivan (HAN)"	55	37	67.27		18	32.73		55	
+		"PERROTT, Margaret ()"	18	10	55.56		8	44.44		18	
+		"STORY, Elsa (GRN)"	41	7	17.07		34	82.93		41	
+		Total	186	251	23.46		819	76.54		1070	
+
+	Koonawarra										
+			1st Prefs	379	21.29		1401	78.71		1780	
+		"ROBERTS, Madeleine (DEM)"	117	55	47.01		62	52.99		117	
+		"PRSA, Ivan (HAN)"	166	104	62.65		62	37.35		166	
+		"PERROTT, Margaret ()"	31	12	38.71		19	61.29		31	
+		"STORY, Elsa (GRN)"	82	25	30.49		57	69.51		82	
+		Total	396	575	26.42		1601	73.58		2176	
+
+	Lake Heights										
+			1st Prefs	263	25.02		788	74.98		1051	
+		"ROBERTS, Madeleine (DEM)"	83	50	60.24		33	39.76		83	
+		"PRSA, Ivan (HAN)"	79	44	55.70		35	44.30		79	
+		"PERROTT, Margaret ()"	14	8	57.14		6	42.86		14	
+		"STORY, Elsa (GRN)"	65	17	26.15		48	73.85		65	
+		Total	241	382	29.57		910	70.43		1292	
+
+	Lake Illawarra										
+			1st Prefs	382	31.21		842	68.79		1224	
+		"ROBERTS, Madeleine (DEM)"	88	45	51.14		43	48.86		88	
+		"PRSA, Ivan (HAN)"	114	79	69.30		35	30.70		114	
+		"PERROTT, Margaret ()"	17	9	52.94		8	47.06		17	
+		"STORY, Elsa (GRN)"	78	24	30.77		54	69.23		78	
+		Total	297	539	35.44		982	64.56		1521	
+
+	Lakelands										
+			1st Prefs	423	30.63		958	69.37		1381	
+		"ROBERTS, Madeleine (DEM)"	132	63	47.73		69	52.27		132	
+		"PRSA, Ivan (HAN)"	113	63	55.75		50	44.25		113	
+		"PERROTT, Margaret ()"	15	11	73.33		4	26.67		15	
+		"STORY, Elsa (GRN)"	113	28	24.78		85	75.22		113	
+		Total	373	588	33.52		1166	66.48		1754	
+
+	Marshall Mount										
+			1st Prefs	81	72.97		30	27.03		111	
+		"ROBERTS, Madeleine (DEM)"	8	5	62.50		3	37.50		8	
+		"PRSA, Ivan (HAN)"	6	4	66.67		2	33.33		6	
+		"PERROTT, Margaret ()"	2	1	50.00		1	50.00		2	
+		"STORY, Elsa (GRN)"	5	2	40.00		3	60.00		5	
+		Total	21	93	70.45		39	29.55		132	
+
+	Mount Brown										
+			1st Prefs	569	35.99		1012	64.01		1581	
+		"ROBERTS, Madeleine (DEM)"	128	70	54.69		58	45.31		128	
+		"PRSA, Ivan (HAN)"	118	71	60.17		47	39.83		118	
+		"PERROTT, Margaret ()"	17	9	52.94		8	47.06		17	
+		"STORY, Elsa (GRN)"	62	22	35.48		40	64.52		62	
+		Total	325	741	38.88		1165	61.12		1906	
+
+	Mount Terry										
+			1st Prefs	496	39.24		768	60.76		1264	
+		"ROBERTS, Madeleine (DEM)"	104	51	49.04		53	50.96		104	
+		"PRSA, Ivan (HAN)"	90	55	61.11		35	38.89		90	
+		"PERROTT, Margaret ()"	30	19	63.33		11	36.67		30	
+		"STORY, Elsa (GRN)"	43	8	18.60		35	81.40		43	
+		Total	267	629	41.08		902	58.92		1531	
+
+	Mount Warrigal										
+			1st Prefs	524	28.62		1307	71.38		1831	
+		"ROBERTS, Madeleine (DEM)"	167	91	54.49		76	45.51		167	
+		"PRSA, Ivan (HAN)"	146	82	56.16		64	43.84		146	
+		"PERROTT, Margaret ()"	55	19	34.55		36	65.45		55	
+		"STORY, Elsa (GRN)"	110	32	29.09		78	70.91		110	
+		Total	478	748	32.39		1561	67.61		2309	
+
+	Oak Flats										
+			1st Prefs	861	35.01		1598	64.99		2459	
+		"ROBERTS, Madeleine (DEM)"	243	107	44.03		136	55.97		243	
+		"PRSA, Ivan (HAN)"	282	195	69.15		87	30.85		282	
+		"PERROTT, Margaret ()"	43	28	65.12		15	34.88		43	
+		"STORY, Elsa (GRN)"	169	57	33.73		112	66.27		169	
+		Total	737	1248	39.05		1948	60.95		3196	
+
+	Oak Flats East										
+			1st Prefs	280	31.78		601	68.22		881	
+		"ROBERTS, Madeleine (DEM)"	83	35	42.17		48	57.83		83	
+		"PRSA, Ivan (HAN)"	60	32	53.33		28	46.67		60	
+		"PERROTT, Margaret ()"	20	11	55.00		9	45.00		20	
+		"STORY, Elsa (GRN)"	50	13	26.00		37	74.00		50	
+		Total	213	371	33.91		723	66.09		1094	
+
+	Port Kembla										
+			1st Prefs	115	21.22		427	78.78		542	
+		"ROBERTS, Madeleine (DEM)"	35	16	45.71		19	54.29		35	
+		"PRSA, Ivan (HAN)"	41	23	56.10		18	43.90		41	
+		"PERROTT, Margaret ()"	10	4	40.00		6	60.00		10	
+		"STORY, Elsa (GRN)"	57	13	22.81		44	77.19		57	
+		Total	143	171	24.96		514	75.04		685	
+
+	Port Kembla Central										
+			1st Prefs	169	15.62		913	84.38		1082	
+		"ROBERTS, Madeleine (DEM)"	84	46	54.76		38	45.24		84	
+		"PRSA, Ivan (HAN)"	95	59	62.11		36	37.89		95	
+		"PERROTT, Margaret ()"	12	8	66.67		4	33.33		12	
+		"STORY, Elsa (GRN)"	39	7	17.95		32	82.05		39	
+		Total	230	289	22.03		1023	77.97		1312	
+
+	Primbee										
+			1st Prefs	251	32.51		521	67.49		772	
+		"ROBERTS, Madeleine (DEM)"	77	26	33.77		51	66.23		77	
+		"PRSA, Ivan (HAN)"	56	25	44.64		31	55.36		56	
+		"PERROTT, Margaret ()"	13	5	38.46		8	61.54		13	
+		"STORY, Elsa (GRN)"	51	18	35.29		33	64.71		51	
+		Total	197	325	33.54		644	66.46		969	
+
+	Shellharbour										
+			1st Prefs	1086	40.78		1577	59.22		2663	
+		"ROBERTS, Madeleine (DEM)"	248	108	43.55		140	56.45		248	
+		"PRSA, Ivan (HAN)"	174	121	69.54		53	30.46		174	
+		"PERROTT, Margaret ()"	27	15	55.56		12	44.44		27	
+		"STORY, Elsa (GRN)"	161	52	32.30		109	67.70		161	
+		Total	610	1382	42.22		1891	57.78		3273	
+
+	Sydney (Throsby)										
+			1st Prefs	12	32.43		25	67.57		37	
+		"ROBERTS, Madeleine (DEM)"	4	1	25.00		3	75.00		4	
+		"PRSA, Ivan (HAN)"	2	0	0.00		2	100.00		2	
+		"PERROTT, Margaret ()"	0	0	0.00		0	0.00		0	
+		"STORY, Elsa (GRN)"	2	0	0.00		2	100.00		2	
+		Total	8	13	28.89		32	71.11		45	
+
+	Unanderra (Throsby)										
+			1st Prefs	563	31.92		1201	68.08		1764	
+		"ROBERTS, Madeleine (DEM)"	263	128	48.67		135	51.33		263	
+		"PRSA, Ivan (HAN)"	162	79	48.77		83	51.23		162	
+		"PERROTT, Margaret ()"	36	18	50.00		18	50.00		36	
+		"STORY, Elsa (GRN)"	102	37	36.27		65	63.73		102	
+		Total	563	825	35.45		1502	64.55		2327	
+
+	Warilla										
+			1st Prefs	205	22.00		727	78.00		932	
+		"ROBERTS, Madeleine (DEM)"	82	45	54.88		37	45.12		82	
+		"PRSA, Ivan (HAN)"	82	49	59.76		33	40.24		82	
+		"PERROTT, Margaret ()"	36	17	47.22		19	52.78		36	
+		"STORY, Elsa (GRN)"	56	24	42.86		32	57.14		56	
+		Total	256	340	28.62		848	71.38		1188	
+
+	Warilla East										
+			1st Prefs	428	32.75		879	67.25		1307	
+		"ROBERTS, Madeleine (DEM)"	102	50	49.02		52	50.98		102	
+		"PRSA, Ivan (HAN)"	127	82	64.57		45	35.43		127	
+		"PERROTT, Margaret ()"	21	9	42.86		12	57.14		21	
+		"STORY, Elsa (GRN)"	62	12	19.35		50	80.65		62	
+		Total	312	581	35.89		1038	64.11		1619	
+
+	Warilla North										
+			1st Prefs	257	17.09		1247	82.91		1504	
+		"ROBERTS, Madeleine (DEM)"	94	53	56.38		41	43.62		94	
+		"PRSA, Ivan (HAN)"	159	98	61.64		61	38.36		159	
+		"PERROTT, Margaret ()"	37	17	45.95		20	54.05		37	
+		"STORY, Elsa (GRN)"	70	16	22.86		54	77.14		70	
+		Total	360	441	23.66		1423	76.34		1864	
+
+	Warilla South										
+			1st Prefs	596	32.52		1237	67.48		1833	
+		"ROBERTS, Madeleine (DEM)"	176	73	41.48		103	58.52		176	
+		"PRSA, Ivan (HAN)"	142	84	59.15		58	40.85		142	
+		"PERROTT, Margaret ()"	29	16	55.17		13	44.83		29	
+		"STORY, Elsa (GRN)"	92	29	31.52		63	68.48		92	
+		Total	439	798	35.12		1474	64.88		2272	
+
+	Warrawong										
+			1st Prefs	222	15.68		1194	84.32		1416	
+		"ROBERTS, Madeleine (DEM)"	133	92	69.17		41	30.83		133	
+		"PRSA, Ivan (HAN)"	52	27	51.92		25	48.08		52	
+		"PERROTT, Margaret ()"	20	13	65.00		7	35.00		20	
+		"STORY, Elsa (GRN)"	72	17	23.61		55	76.39		72	
+		Total	277	371	21.91		1322	78.09		1693	
+
+	Warrawong Central										
+			1st Prefs	151	16.18		782	83.82		933	
+		"ROBERTS, Madeleine (DEM)"	81	52	64.20		29	35.80		81	
+		"PRSA, Ivan (HAN)"	61	38	62.30		23	37.70		61	
+		"PERROTT, Margaret ()"	11	9	81.82		2	18.18		11	
+		"STORY, Elsa (GRN)"	83	20	24.10		63	75.90		83	
+		Total	236	270	23.10		899	76.90		1169	
+
+	West Dapto										
+			1st Prefs	784	37.14		1327	62.86		2111	
+		"ROBERTS, Madeleine (DEM)"	227	88	38.77		139	61.23		227	
+		"PRSA, Ivan (HAN)"	136	71	52.21		65	47.79		136	
+		"PERROTT, Margaret ()"	26	13	50.00		13	50.00		26	
+		"STORY, Elsa (GRN)"	108	27	25.00		81	75.00		108	
+		Total	497	983	37.69		1625	62.31		2608	
+
+	Windang										
+			1st Prefs	404	31.89		863	68.11		1267	
+		"ROBERTS, Madeleine (DEM)"	94	48	51.06		46	48.94		94	
+		"PRSA, Ivan (HAN)"	119	67	56.30		52	43.70		119	
+		"PERROTT, Margaret ()"	12	6	50.00		6	50.00		12	
+		"STORY, Elsa (GRN)"	52	16	30.77		36	69.23		52	
+		Total	277	541	35.04		1003	64.96		1544	
+
+	Special Hospitals										
+			1st Prefs	16	29.09		39	70.91		55	
+		"ROBERTS, Madeleine (DEM)"	6	3	50.00		3	50.00		6	
+		"PRSA, Ivan (HAN)"	3	2	66.67		1	33.33		3	
+		"PERROTT, Margaret ()"	0	0	0.00		0	0.00		0	
+		"STORY, Elsa (GRN)"	4	1	25.00		3	75.00		4	
+		Total	13	22	32.35		46	67.65		68	
+
+	Total Ordinary										
+			1st Prefs	16394	30.59		37192	69.41		53586	
+		"ROBERTS, Madeleine (DEM)"	4925	2397	48.67		2528	51.33		4925	
+		"PRSA, Ivan (HAN)"	4304	2694	62.59		1610	37.41		4304	
+		"PERROTT, Margaret ()"	913	482	52.79		431	47.21		913	
+		"STORY, Elsa (GRN)"	2968	853	28.74		2115	71.26		2968	
+		Total	13110	22820	34.21		43876	65.79		66696	
+
+	ABSENT										
+			1st Prefs	1151	39.03		1798	60.97		2949	
+		"ROBERTS, Madeleine (DEM)"	406	187	46.06		219	53.94		406	
+		"PRSA, Ivan (HAN)"	285	163	57.19		122	42.81		285	
+		"PERROTT, Margaret ()"	68	43	63.24		25	36.76		68	
+		"STORY, Elsa (GRN)"	263	83	31.56		180	68.44		263	
+		Total	1022	1627	40.97		2344	59.03		3971	
+
+	POSTAL										
+			1st Prefs	837	40.16		1247	59.84		2084	
+		"ROBERTS, Madeleine (DEM)"	149	57	38.26		92	61.74		149	
+		"PRSA, Ivan (HAN)"	157	87	55.41		70	44.59		157	
+		"PERROTT, Margaret ()"	25	12	48.00		13	52.00		25	
+		"STORY, Elsa (GRN)"	67	26	38.81		41	61.19		67	
+		Total	398	1019	41.06		1463	58.94		2482	
+
+	PRE_POLL										
+			1st Prefs	805	36.29		1413	63.71		2218	
+		"ROBERTS, Madeleine (DEM)"	223	107	47.98		116	52.02		223	
+		"PRSA, Ivan (HAN)"	191	96	50.26		95	49.74		191	
+		"PERROTT, Margaret ()"	26	15	57.69		11	42.31		26	
+		"STORY, Elsa (GRN)"	123	33	26.83		90	73.17		123	
+		Total	563	1056	37.97		1725	62.03		2781	
+
+	PROVISIONAL										
+			1st Prefs	93	22.91		313	77.09		406	
+		"ROBERTS, Madeleine (DEM)"	40	23	57.50		17	42.50		40	
+		"PRSA, Ivan (HAN)"	32	20	62.50		12	37.50		32	
+		"PERROTT, Margaret ()"	11	6	54.55		5	45.45		11	
+		"STORY, Elsa (GRN)"	23	11	47.83		12	52.17		23	
+		Total	106	153	29.88		359	70.12		512	
+
+	Division Summary										
+			1st Prefs	19280	31.48		41963	68.52		61243	
+		"ROBERTS, Madeleine (DEM)"	5743	2771	48.25		2972	51.75		5743	
+		"PRSA, Ivan (HAN)"	4969	3060	61.58		1909	38.42		4969	
+		"PERROTT, Margaret ()"	1043	558	53.50		485	46.50		1043	
+		"STORY, Elsa (GRN)"	3444	1006	29.21		2438	70.79		3444	
+		Total	15199	26675	34.90		49767	65.10		76442	

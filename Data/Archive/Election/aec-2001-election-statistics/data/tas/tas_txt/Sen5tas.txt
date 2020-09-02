@@ -1,0 +1,818 @@
+Senate - 2001 Election: Tasmania															
+Tasmania - Result of the Transfer and Distribution of Preferences															
+Election of 6 Senators (counts required: 97)															
+															
+Quota = 308662 +1 =  44095															
+                6+1															
+
+				First			Count 2			Count 3			Count 4		
+				Preference		Votes	Progress		Votes	Progress		Votes	Progress		
+	Candidate			Votes	Status	Transfd	Totals	Status 	Transfd	Totals	Status	 Transfd	Totals	Status	
+A	"CRACK, M."	TFP		3492		5	3497		5	3502		3	3505		
+A	"JACKSON, D."	TFP		229		3	232		0	232		1	233		
+A	"PRESSER, J."	TFP		174		1	175		2	177		1	178		
+															
+B	"BRISTOW, J.T."	HPA		353		1	354		1	355		1	356		
+B	PETHERBRIDGE-de	HPA		13		0	13		0	13		0	13		
+															
+C	"BOAG, B."	HAN		9668		24	9692		15	9707		11	9718		
+C	"STOKES, P."	HAN		501		1	502		2	504		3	507		
+															
+D	"BONNER, S."			371		1	372		2	374		3	377		
+D	"HOWARD, G."			43		0	43		0	43		0	43		
+															
+E	"BROWN, B."	GRN		42568		96	42664		141	42805		48	42853		
+															
+F	"CALVERT, P."	LP		110281	Elected	-66186	44095	Elected	0	44095	Elected	0	44095	Elected	
+F	"WATSON, J."	LP		4278		65178	69456	Elected	0	69456	Elected	-25361	44095	Elected	
+F	"COLBECK, R."	LP		967		483	1450		9	1459		24931	26390		
+F	"PARRY, S."	LP		4194		261	4455		3	4458		283	4741		
+															
+G	"BAINBRIDGE, A."			327		6	333		1	334		2	336		
+G	"CLEARY, S."			62		9	71		0	71		5	76		
+															
+H	"BUTLER, D."	DEM		13987		24	14011		48	14059		22	14081		
+H	"TOOHEY, B."	DEM		286		0	286		6	292		1	293		
+															
+I	"MACKAY, S."	ALP		105727	Elected	0	105727	Elected	-61632	44095	Elected	0	44095	Elected	
+I	"SHERRY, N."	ALP		6974		42	7016		60767	67783	Elected	0	67783	Elected	
+I	"BILYK, C."	ALP		1008		1	1009		577	1586		15	1601		
+															
+J	"PULLINGER, P."	LFF		1842		11	1853		11	1864		5	1869		
+J	"THOMAS, M."	LFF		50		1	51		5	56		2	58		
+															
+K	"CONSANDINE, P."	RPA		357		1	358		7	365		1	366		
+K	"LAWATSCH, B."	RPA		11		0	11		1	12		0	12		
+															
+UG	"LARNER, R."	CEC		82		0	82		0	82		0	82		
+UG	"MARMARINOS, J.V."	IND		85		0	85		0	85		0	85		
+UG	"LANE, H."	IND		268		2	270		2	272		1	273			
+UG	"LOCKETT, E."	IND		464		4	468		2	470		5	475			
+																
+	Exhausted Votes			0		18	18		12	30		6	36			
+	Loss by Fraction			0		13	13		13	26		11	37			
+																
+	Total Votes			308662		66186	308662		61632	308662		25361	308662			
+																
+																
+	Notes		Candidates Elected			Surplus Distributed			Surplus Distributed			Surplus Distributed				
+			"1. CALVERT, P."			"CALVERT, P."			"MACKAY, S."			"WATSON, J."				
+			"2. MACKAY, S."			Candidate Elected			Candidate Elected							
+						"3. WATSON, J."			"4. SHERRY, N."							
+																
+																
+																
+				Count 5			Count 6-10			Count 11-14			Count 15-19			
+			Votes	Progress		Votes	Progress		Votes	Progress		Votes	Progress			
+	Candidate		Transfd	Totals	Status	Transfd	Totals	Status 	Transfd	Totals	Status 	Transfd	Totals	Status		
+A	"CRACK, M."	TFP	3	3508		4	3512		1	3513		0	3513			
+A	"JACKSON, D."	TFP	1	234		1	235		2	237		0	237			
+A	"PRESSER, J."	TFP	1	179		0	179		0	179		1	180			
+																
+B	"BRISTOW, J.T."	HPA	1	357		6	363		0	363		1	364			
+B	PETHERBRIDGE-de	HPA	0	13	Excluded	-13	0	Excluded	0	0	Excluded	0	0	Excluded		
+																
+C	"BOAG, B."	HAN	8	9726		1	9727		0	9727		0	9727			
+C	"STOKES, P."	HAN	2	509		0	509		4	513		0	513			
+																
+D	"BONNER, S."		1	378		0	378		19	397		0	397			
+D	"HOWARD, G."		0	43		0	43		-43	0	Excluded	0	0	Excluded		
+																
+E	"BROWN, B."	GRN	97	42950		0	42950		4	42954		4	42958			
+																
+F	"CALVERT, P."	LP	0	44095	Elected	0	44095	Elected	0	44095	Elected	0	44095	Elected		
+F	"WATSON, J."	LP	0	44095	Elected	0	44095	Elected	0	44095	Elected	0	44095	Elected		
+F	"COLBECK, R."	LP	24	26414		0	26414		2	26416		3	26419			
+F	"PARRY, S."	LP	15	4756		0	4756		2	4758		0	4758			
+																
+G	"BAINBRIDGE, A."		1	337		0	337		0	337		0	337			
+G	"CLEARY, S."		0	76		1	77		0	77		2	79			
+																
+H	"BUTLER, D."	DEM	25	14106		0	14106		0	14106		1	14107			
+H	"TOOHEY, B."	DEM	5	298		1	299		0	299		0	299			
+																
+I	"MACKAY, S."	ALP	0	44095	Elected	0	44095	Elected	0	44095	Elected	0	44095	Elected		
+I	"SHERRY, N."	ALP	-23688	44095	Elected	0	44095	Elected	0	44095	Elected	0	44095	Elected		
+I	"BILYK, C."	ALP	23460	25061		1	25062		3	25065		0	25065			
+																
+J	"PULLINGER, P."	LFF	5	1874		1	1875		2	1877		39	1916			
+J	"THOMAS, M."	LFF	2	60		0	60		0	60		-60	0	Excluded		
+																
+K	"CONSANDINE, P."	RPA	2	368		7	375		0	375		2	377			
+K	"LAWATSCH, B."	RPA	0	12	Excluded	-12	0	Excluded	0	0	Excluded	0	0	Excluded		
+																
+UG	"LARNER, R."	CEC	1	83		0	83		1	84		0	84			
+UG	"MARMARINOS, J.V."	IND	0	85		0	85		0	85		0	85			
+UG	"LANE, H."	IND	2	275		1	276		0	276		0	276			
+UG	"LOCKETT, E."	IND	2	477		0	477		1	478		0	478			
+																
+	Exhausted Votes		18	54		0	54		2	56		0	56			
+	Loss by Fraction		12	49		1	50		0	50		7	57			
+																
+	Total Votes		23688	308662		25	308662		43	308662		60	308662			
+																
+																
+	Notes		Surplus Distributed			Candidates Excluded			Candidate Excluded			Candidate Excluded				
+			"SHERRY, N."			16. PETHERBRIDGE			"20. HOWARD, G."			"34. THOMAS, M."				
+						"36. LAWATSCH, B."										
+																
+																
+																
+																
+				Count 20-24			Count 25-28			Count 29-33			Count 34-37			
+			Votes	Progress		Votes	Progress		Votes	Progress		Votes	Progress			
+	Candidate		Transfd	Totals	Status	Transfd	Totals	Status 	Transfd	Totals	Status 	Transfd	Totals	Status		
+A	"CRACK, M."	TFP	1	3514		1	3515		25	3540		1	3541			
+A	"JACKSON, D."	TFP	0	237		0	237		123	360		0	360			
+A	"PRESSER, J."	TFP	2	182		1	183		-183	0	Excluded	0	0	Excluded		
+																
+B	"BRISTOW, J.T."	HPA	1	365		0	365		3	368		1	369			
+B	PETHERBRIDGE-de	HPA	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded		
+																
+C	"BOAG, B."	HAN	0	9727		8	9735		5	9740		1	9741			
+C	"STOKES, P."	HAN	0	513		0	513		2	515		0	515			
+																
+D	"BONNER, S."		1	398		1	399		0	399		4	403			
+D	"HOWARD, G."		0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded		
+																
+E	"BROWN, B."	GRN	2	42960		20	42980		7	42987		29	43016			
+																
+F	"CALVERT, P."	LP	0	44095	Elected	0	44095	Elected	0	44095	Elected	0	44095	Elected		
+F	"WATSON, J."	LP	0	44095	Elected	0	44095	Elected	0	44095	Elected	0	44095	Elected		
+F	"COLBECK, R."	LP	20	26439		9	26448		3	26451		10	26461			
+F	"PARRY, S."	LP	4	4762		0	4762		0	4762		2	4764			
+																
+G	"BAINBRIDGE, A."		38	375		3	378		1	379		1	380			
+G	"CLEARY, S."		-79	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded		
+																
+H	"BUTLER, D."	DEM	4	14111		12	14123		2	14125		227	14352			
+H	"TOOHEY, B."	DEM	1	300		1	301		1	302		-302	0	Excluded		
+																
+I	"MACKAY, S."	ALP	0	44095	Elected	0	44095	Elected	0	44095	Elected	0	44095	Elected		
+I	"SHERRY, N."	ALP	0	44095	Elected	0	44095	Elected	0	44095	Elected	0	44095	Elected		
+I	"BILYK, C."	ALP	0	25065		13	25078		4	25082		15	25097			
+																
+J	"PULLINGER, P."	LFF	0	1916		4	1920		3	1923		1	1924			
+J	"THOMAS, M."	LFF	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded		
+																
+K	"CONSANDINE, P."	RPA	0	377		3	380		0	380		3	383			
+K	"LAWATSCH, B."	RPA	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded		
+																
+UG	"LARNER, R."	CEC	0	84		-84	0	Excluded	0	0	Excluded	0	0	Excluded		
+UG	"MARMARINOS, J.V."	IND	1	86		-86	0	Excluded	0	0	Excluded	0	0	Excluded		
+UG	"LANE, H."	IND	0	276		71	347		0	347		3	350			
+UG	"LOCKETT, E."	IND	0	478		21	499		2	501		1	502			
+																
+	Exhausted Votes		0	56		2	58		0	58		0	58			
+	Loss by Fraction		4	61		0	61		2	63		3	66			
+																
+	Total Votes		79	308662		170	308662		183	308662		302	308662			
+																
+																
+	Notes		Candidate Excluded			Candidates Excluded			Candidate Excluded			Candidate Excluded				
+			"27. CLEARY, S."			"37. LARNER, R."			"14. PRESSER, J."			"29. TOOHEY, B."				
+						"38. MARMARINOS,"										
+																
+																
+															
+															
+				Count 38-42			Count 43-47			Count 48-52			Count 53-57		
+			Votes	Progress		Votes	Progress		Votes	Progress		Votes	Progress		
+	Candidate		Transfd	Totals	Status	Transfd	Totals	Status 	Transfd	Totals	Status 	Transfd	Totals	Status	
+A	"CRACK, M."	TFP	5	3546		288	3834		30	3864		1	3865		
+A	"JACKSON, D."	TFP	1	361		-361	0	Excluded	0	0	Excluded	0	0	Excluded	
+A	"PRESSER, J."	TFP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded	
+															
+B	"BRISTOW, J.T."	HPA	1	370		14	384		-384	0	Excluded	0	0	Excluded	
+B	PETHERBRIDGE-de	HPA	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded	
+															
+C	"BOAG, B."	HAN	8	9749		17	9766		19	9785		3	9788		
+C	"STOKES, P."	HAN	1	516		11	527		7	534		1	535		
+															
+D	"BONNER, S."		6	409		3	412		4	416		11	427		
+D	"HOWARD, G."		0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded	
+															
+E	"BROWN, B."	GRN	33	43049		3	43052		309	43361		301	43662		
+															
+F	"CALVERT, P."	LP	0	44095	Elected	0	44095	Elected	0	44095	Elected	0	44095	Elected	
+F	"WATSON, J."	LP	0	44095	Elected	0	44095	Elected	0	44095	Elected	0	44095	Elected	
+F	"COLBECK, R."	LP	33	26494		7	26501		3	26504		19	26523		
+F	"PARRY, S."	LP	8	4772		1	4773		0	4773		16	4789		
+															
+G	"BAINBRIDGE, A."		3	383		1	384		0	384		-384	0	Excluded	
+G	"CLEARY, S."		0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded	
+															
+H	"BUTLER, D."	DEM	22	14374		3	14377		2	14379		11	14390		
+H	"TOOHEY, B."	DEM	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded	
+															
+I	"MACKAY, S."	ALP	0	44095	Elected	0	44095	Elected	0	44095	Elected	0	44095	Elected	
+I	"SHERRY, N."	ALP	0	44095	Elected	0	44095	Elected	0	44095	Elected	0	44095	Elected	
+I	"BILYK, C."	ALP	23	25120		3	25123		1	25124		5	25129		
+															
+J	"PULLINGER, P."	LFF	2	1926		3	1929		0	1929		3	1932		
+J	"THOMAS, M."	LFF	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded	
+															
+K	"CONSANDINE, P."	RPA	1	384		0	384		1	385		2	387		
+K	"LAWATSCH, B."	RPA	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded	
+															
+UG	"LARNER, R."	CEC	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded	
+UG	"MARMARINOS, J.V."	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded	
+UG	"LANE, H."	IND	-350	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded	
+UG	"LOCKETT, E."	IND	199	701		1	702		2	704		4	708		
+															
+	Exhausted Votes		1	59		2	61		3	64		1	65		
+	Loss by Fraction		3	69		4	73		3	76		6	82		
+																
+	Total Votes		350	308662		361	308662		384	308662		384	308662			
+																
+																
+	Notes		Candidate Excluded			Candidate Excluded			Candidate Excluded			Candidate Excluded				
+			"39. LANE, H."			"13. JACKSON, D."			"15. BRISTOW, J.T."			"26. BAINBRIDGE, A"				
+																
+																
+																
+																
+																
+				Count 58-62			Count 63-67			Count 68-72			Count 73-77			
+			Votes	Progress		Votes	Progress		Votes	Progress		Votes	Progress			
+	Candidate		Transfd	Totals	Status	Transfd	Totals	Status 	Transfd	Totals	Status 	Transfd	Totals	Status		
+A	"CRACK, M."	TFP	4	3869		12	3881		13	3894		87	3981			
+A	"JACKSON, D."	TFP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded		
+A	"PRESSER, J."	TFP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded	
+															
+B	"BRISTOW, J.T."	HPA	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded	
+B	PETHERBRIDGE-de	HPA	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded	
+															
+C	"BOAG, B."	HAN	2	9790		261	10051		462	10513		68	10581		
+C	"STOKES, P."	HAN	1	536		13	549		-549	0	Excluded	0	0	Excluded	
+															
+D	"BONNER, S."		1	428		-428	0	Excluded	0	0	Excluded	0	0	Excluded	
+D	"HOWARD, G."		0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded	
+															
+E	"BROWN, B."	GRN	300	43962		25	43987		18	44005		94	44099	Elected	
+															
+F	"CALVERT, P."	LP	0	44095	Elected	0	44095	Elected	0	44095	Elected	0	44095	Elected	
+F	"WATSON, J."	LP	0	44095	Elected	0	44095	Elected	0	44095	Elected	0	44095	Elected	
+F	"COLBECK, R."	LP	12	26535		46	26581		10	26591		146	26737		
+F	"PARRY, S."	LP	4	4793		13	4806		17	4823		49	4872	
+														
+G	"BAINBRIDGE, A."		0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+G	"CLEARY, S."		0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+H	"BUTLER, D."	DEM	16	14406		14	14420		4	14424		117	14541	
+H	"TOOHEY, B."	DEM	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+I	"MACKAY, S."	ALP	0	44095	Elected	0	44095	Elected	0	44095	Elected	0	44095	Elected
+I	"SHERRY, N."	ALP	0	44095	Elected	0	44095	Elected	0	44095	Elected	0	44095	Elected
+I	"BILYK, C."	ALP	13	25142		11	25153		14	25167		88	25255	
+														
+J	"PULLINGER, P."	LFF	13	1945		9	1954		1	1955		93	2048	
+J	"THOMAS, M."	LFF	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+K	"CONSANDINE, P."	RPA	-387	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+K	"LAWATSCH, B."	RPA	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded		
+																
+UG	"LARNER, R."	CEC	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded		
+UG	"MARMARINOS, J.V."	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded		
+UG	"LANE, H."	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded		
+UG	"LOCKETT, E."	IND	17	725		20	745		7	752		-752	0	Excluded		
+																
+	Exhausted Votes		1	66		1	67		1	68		8	76			
+	Loss by Fraction		3	85		3	88		2	90		2	92			
+																
+	Total Votes		387	308662		428	308662		549	308662		752	308662			
+																
+																
+	Notes		Candidate Excluded			Candidate Excluded			Candidate Excluded			Candidate Excluded				
+			"35. CONSANDINE, P"			"19. BONNER, S."			"18. STOKES, P."			"40. LOCKETT, E."				
+												Candidate Elected				
+												"5. BROWN, B."		
+														
+														
+				Count 78			Count 79-84			Count 85-90			Count 91-96	
+			Votes	Progress		Votes	Progress		Votes	Progress		Votes	Progress	
+	Candidate		Transfd	Totals	Status	Transfd	Totals	Status 	Transfd	Totals	Status 	Transfd	Totals	Status
+A	"CRACK, M."	TFP	0	3981		40	4021		-4021	0	Excluded	0	0	Excluded
+A	"JACKSON, D."	TFP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+A	"PRESSER, J."	TFP	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+B	"BRISTOW, J.T."	HPA	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+B	PETHERBRIDGE-de	HPA	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+C	"BOAG, B."	HAN	0	10581		57	10638		3697	14335		-14335	0	Excluded
+C	"STOKES, P."	HAN	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+D	"BONNER, S."		0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+D	"HOWARD, G."		0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+E	"BROWN, B."	GRN	-4	44095	Elected	0	44095	Elected	0	44095	Elected	0	44095	Elected
+														
+F	"CALVERT, P."	LP	0	44095	Elected	0	44095	Elected	0	44095	Elected	0	44095	Elected
+F	"WATSON, J."	LP	0	44095	Elected	0	44095	Elected	0	44095	Elected	0	44095	Elected
+F	"COLBECK, R."	LP	0	26737		142	26879		4627	31506		9986	41492	
+F	"PARRY, S."	LP	0	4872		59	4931		-4931	0	Excluded	0	0	Excluded
+														
+G	"BAINBRIDGE, A."		0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+G	"CLEARY, S."		0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+H	"BUTLER, D."	DEM	0	14541		1633	16174		269	16443		3440	19883	
+H	"TOOHEY, B."	DEM	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded
+														
+I	"MACKAY, S."	ALP	0	44095	Elected	0	44095	Elected	0	44095	Elected	0	44095	Elected	
+I	"SHERRY, N."	ALP	0	44095	Elected	0	44095	Elected	0	44095	Elected	0	44095	Elected	
+I	"BILYK, C."	ALP	0	25255		115	25370		306	25676		852	26528		
+															
+J	"PULLINGER, P."	LFF	2	2050	Excluded	-2050	0	Excluded	0	0	Excluded	0	0	Excluded	
+J	"THOMAS, M."	LFF	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded	
+															
+K	"CONSANDINE, P."	RPA	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded	
+K	"LAWATSCH, B."	RPA	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded	
+															
+UG	"LARNER, R."	CEC	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded	
+UG	"MARMARINOS, J.V."	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded	
+UG	"LANE, H."	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded	
+UG	"LOCKETT, E."	IND	0	0	Excluded	0	0	Excluded	0	0	Excluded	0	0	Excluded	
+															
+	Exhausted Votes		0	76		4	80		67	147		68	215		
+	Loss by Fraction		2	94		0	94		-14	80		-11	69			
+																
+	Total Votes		4	308662		2050	308662		8966	308662		14346	308662			
+																
+																
+	Notes		Surplus Distributed			Candidate Excluded			Candidates Excluded			Candidate Excluded				
+			"BROWN, B."			"33. PULLINGER, P."			"12. CRACK, M."			"17. BOAG, B."				
+									"25. PARRY, S."							
+																
+																
+																
+				Count 97												
+			Votes	Progress												
+	Candidate		Transfd	Totals	Status											
+A	"CRACK, M."	TFP	0	0	Excluded											
+A	"JACKSON, D."	TFP	0	0	Excluded											
+A	"PRESSER, J."	TFP	0	0	Excluded									
+														
+B	"BRISTOW, J.T."	HPA	0	0	Excluded									
+B	PETHERBRIDGE-de	HPA	0	0	Excluded									
+														
+C	"BOAG, B."	HAN	0	0	Excluded									
+C	"STOKES, P."	HAN	0	0	Excluded									
+														
+D	"BONNER, S."		0	0	Excluded									
+D	"HOWARD, G."		0	0	Excluded									
+														
+E	"BROWN, B."	GRN	0	44095	Elected									
+														
+F	"CALVERT, P."	LP	0	44095	Elected									
+F	"WATSON, J."	LP	0	44095	Elected									
+F	"COLBECK, R."	LP	10484	51976	Elected									
+F	"PARRY, S."	LP	0	0	Excluded									
+														
+G	"BAINBRIDGE, A."		0	0	Excluded									
+G	"CLEARY, S."		0	0	Excluded									
+														
+H	"BUTLER, D."	DEM	-19700	183	Excluded									
+H	"TOOHEY, B."	DEM	0	0	Excluded									
+														
+I	"MACKAY, S."	ALP	0	44095	Elected									
+I	"SHERRY, N."	ALP	0	44095	Elected									
+I	"BILYK, C."	ALP	9164	35692										
+														
+J	"PULLINGER, P."	LFF	0	0	Excluded									
+J	"THOMAS, M."	LFF	0	0	Excluded									
+														
+K	"CONSANDINE, P."	RPA	0	0	Excluded									
+K	"LAWATSCH, B."	RPA	0	0	Excluded											
+																
+UG	"LARNER, R."	CEC	0	0	Excluded											
+UG	"MARMARINOS, J.V."	IND	0	0	Excluded											
+UG	"LANE, H."	IND	0	0	Excluded											
+UG	"LOCKETT, E."	IND	0	0	Excluded											
+																
+	Exhausted Votes		52	267												
+	Loss by Fraction		0	69												
+																
+	Total Votes		19700	308662												
+																
+																
+	Notes		Candidate Excluded													
+			"28. BUTLER, D."													
+			Candidate Elected													
+			"6. COLBECK, R."											
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														

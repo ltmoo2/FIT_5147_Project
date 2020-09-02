@@ -1,0 +1,188 @@
+Senate - 1996 Election: Tasmania 			
+Registered Group Voting Tickets			
+
+
+Natural Law Party			
+Ticket	Party/Group Name	Candidate Name	Preferences
+A	Natural Law Party	"BROSZCZYK, Gregory"	1
+		"HARLOW, James"	2
+B	National Party of Australia - Tasmania	"JACKSON, Mary"	14
+		"CLAYTON, Jeff"	15
+C	Liberal	"NEWMAN, Jocelyn"	8
+		"CALVERT, Paul"	9
+		"WATSON, John"	10
+D	Australian Democrats	"BELL, Robert"	3
+		"ONSMAN, Julia"	4
+		"TATTERSALL, Philip J"	5
+E	Australian Women's Party	"ANDERSEN, Clair"	18
+		"MacQUEEN, Lin"	19
+F	Tasmanian Greens	"BROWN, Bob"	6
+		"DALE, Janet"	7
+G	Call to Australia (Fred Nile) Group	"ROGERS, Don"	16
+		"ROGERS, Beryl"	17
+H	Australian Labor Party	"MACKAY, Sue"	13
+		"SHERRY, Nick"	12
+		"TOUBER, Charles"	11
+
+
+National Party of Australia - Tasmania			
+Ticket	Party/Group Name	Candidate Name	Preferences
+A	Natural Law Party	"BROSZCZYK, Gregory"	11
+		"HARLOW, James"	12
+B	National Party of Australia - Tasmania	"JACKSON, Mary"	1
+		"CLAYTON, Jeff"	2
+C	Liberal	"NEWMAN, Jocelyn"	3
+		"CALVERT, Paul"	4
+		"WATSON, John"	5
+D	Australian Democrats	"BELL, Robert"	8
+		"ONSMAN, Julia"	9
+		"TATTERSALL, Philip J"	10
+E	Australian Women's Party	"ANDERSEN, Clair"	13
+		"MacQUEEN, Lin"	14
+F	Tasmanian Greens	"BROWN, Bob"	15
+		"DALE, Janet"	16
+G	Call to Australia (Fred Nile) Group	"ROGERS, Don"	6
+		"ROGERS, Beryl"	7
+H	Australian Labor Party	"MACKAY, Sue"	17
+		"SHERRY, Nick"	18
+		"TOUBER, Charles"	19
+
+
+Liberal			
+Ticket	Party/Group Name	Candidate Name	Preferences
+A	Natural Law Party	"BROSZCZYK, Gregory"	15
+		"HARLOW, James"	16
+B	National Party of Australia - Tasmania	"JACKSON, Mary"	4
+		"CLAYTON, Jeff"	5
+C	Liberal	"NEWMAN, Jocelyn"	1
+		"CALVERT, Paul"	2
+		"WATSON, John"	3
+D	Australian Democrats	"BELL, Robert"	6
+		"ONSMAN, Julia"	7
+		"TATTERSALL, Philip J"	8
+E	Australian Women's Party	"ANDERSEN, Clair"	13
+		"MacQUEEN, Lin"	14
+F	Tasmanian Greens	"BROWN, Bob"	9	
+		"DALE, Janet"	10	
+G	Call to Australia (Fred Nile) Group	"ROGERS, Don"	11	
+		"ROGERS, Beryl"	12	
+H	Australian Labor Party	"MACKAY, Sue"	17	
+		"SHERRY, Nick"	18	
+		"TOUBER, Charles"	19	
+
+
+Australian Democrats				
+			Preferences	
+Ticket	Party/Group Name	Candidate Name	Ticket # 1	Ticket # 2
+A	Natural Law Party	"BROSZCZYK, Gregory"	4	4
+		"HARLOW, James"	5	5
+B	National Party of Australia - Tasmania	"JACKSON, Mary"	13	13
+		"CLAYTON, Jeff"	14	14
+C	Liberal	"NEWMAN, Jocelyn"	10	15
+		"CALVERT, Paul"	11	16
+		"WATSON, John"	12	17
+D	Australian Democrats	"BELL, Robert"	1	1
+		"ONSMAN, Julia"	2	2
+		"TATTERSALL, Philip J"	3	3
+E	Australian Women's Party	"ANDERSEN, Clair"	18	18
+		"MacQUEEN, Lin"	19	19
+F	Tasmanian Greens	"BROWN, Bob"	8	8
+		"DALE, Janet"	9	9
+G	Call to Australia (Fred Nile) Group	"ROGERS, Don"	6	6
+		"ROGERS, Beryl"	7	7
+H	Australian Labor Party	"MACKAY, Sue"	15	10
+		"SHERRY, Nick"	16	11
+		"TOUBER, Charles"	17	12
+
+
+Australian Women's Party			
+Ticket	Party/Group Name	Candidate Name	Preferences
+A	Natural Law Party	"BROSZCZYK, Gregory"	13
+		"HARLOW, James"	14
+B	National Party of Australia - Tasmania	"JACKSON, Mary"	11
+		"CLAYTON, Jeff"	12
+C	Liberal	"NEWMAN, Jocelyn"	17
+		"CALVERT, Paul"	18
+		"WATSON, John"	19
+D	Australian Democrats	"BELL, Robert"	6
+		"ONSMAN, Julia"	5
+		"TATTERSALL, Philip J"	7
+E	Australian Women's Party	"ANDERSEN, Clair"	1
+		"MacQUEEN, Lin"	2
+F	Tasmanian Greens	"BROWN, Bob"	4
+		"DALE, Janet"	3
+G	Call to Australia (Fred Nile) Group	"ROGERS, Don"	16
+		"ROGERS, Beryl"	15
+H	Australian Labor Party	"MACKAY, Sue"	8
+		"SHERRY, Nick"	9
+		"TOUBER, Charles"	10
+
+
+Tasmanian Greens			
+Ticket	Party/Group Name	Candidate Name	Preferences
+A	Natural Law Party	"BROSZCZYK, Gregory"	5
+		"HARLOW, James"	6
+B	National Party of Australia - Tasmania	"JACKSON, Mary"	16
+		"CLAYTON, Jeff"	17
+C	Liberal	"NEWMAN, Jocelyn"	14
+		"CALVERT, Paul"	15
+		"WATSON, John"	13
+D	Australian Democrats	"BELL, Robert"	7
+		"ONSMAN, Julia"	8
+		"TATTERSALL, Philip J"	9
+E	Australian Women's Party	"ANDERSEN, Clair"	3
+		"MacQUEEN, Lin"	4
+F	Tasmanian Greens	"BROWN, Bob"	1
+		"DALE, Janet"	2
+G	Call to Australia (Fred Nile) Group	"ROGERS, Don"	19
+		"ROGERS, Beryl"	18
+H	Australian Labor Party	"MACKAY, Sue"	10
+		"SHERRY, Nick"	12
+		"TOUBER, Charles"	11
+
+
+Call to Australia (Fred Nile) Group			
+Ticket	Party/Group Name	Candidate Name	Preferences
+A	Natural Law Party	"BROSZCZYK, Gregory"	11
+		"HARLOW, James"	12
+B	National Party of Australia - Tasmania	"JACKSON, Mary"	3
+		"CLAYTON, Jeff"	4
+C	Liberal	"NEWMAN, Jocelyn"	5
+		"CALVERT, Paul"	6
+		"WATSON, John"	7
+D	Australian Democrats	"BELL, Robert"	15
+		"ONSMAN, Julia"	16
+		"TATTERSALL, Philip J"	17
+E	Australian Women's Party	"ANDERSEN, Clair"	13
+		"MacQUEEN, Lin"	14
+F	Tasmanian Greens	"BROWN, Bob"	18
+		"DALE, Janet"	19
+G	Call to Australia (Fred Nile) Group	"ROGERS, Don"	1
+		"ROGERS, Beryl"	2	
+H	Australian Labor Party	"MACKAY, Sue"	8	
+		"SHERRY, Nick"	9	
+		"TOUBER, Charles"	10	
+
+
+Australian Labor Party				
+			Preferences	
+Ticket	Party/Group Name	Candidate Name	Ticket # 1	Ticket # 2
+A	Natural Law Party	"BROSZCZYK, Gregory"	11	11
+		"HARLOW, James"	12	12
+B	National Party of Australia - Tasmania	"JACKSON, Mary"	13	13
+		"CLAYTON, Jeff"	14	14
+C	Liberal	"NEWMAN, Jocelyn"	17	17
+		"CALVERT, Paul"	18	18
+		"WATSON, John"	19	19
+D	Australian Democrats	"BELL, Robert"	6	4
+		"ONSMAN, Julia"	7	5
+		"TATTERSALL, Philip J"	8	6
+E	Australian Women's Party	"ANDERSEN, Clair"	9	9
+		"MacQUEEN, Lin"	10	10
+F	Tasmanian Greens	"BROWN, Bob"	4	7
+		"DALE, Janet"	5	8
+G	Call to Australia (Fred Nile) Group	"ROGERS, Don"	15	15
+		"ROGERS, Beryl"	16	16
+H	Australian Labor Party	"MACKAY, Sue"	1	1
+		"SHERRY, Nick"	2	2
+		"TOUBER, Charles"	3	3

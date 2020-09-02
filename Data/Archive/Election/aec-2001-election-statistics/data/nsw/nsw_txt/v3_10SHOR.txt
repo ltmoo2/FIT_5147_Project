@@ -1,0 +1,457 @@
+House of Representatives - 2001 Election: New South Wales											
+Two Candidate Preferred Preference Flow Result											
+by Polling Place											
+											
+Shortland (86261)											
+		Candidate		"PERREM, Brian"		              	"HALL, Jill"		                 	Total	
+				LP		                         	ALP		                        		
+				Votes	%	                     	Votes	%	                     		
+	Belmont										
+			1st Prefs	469	38.79		740	61.21		1209	
+		"CANDLISH, Iris (HAN)"	58	28	48.28		30	51.72		58	
+		"CRAIG, Peter (IND)"	45	38	84.44		7	15.56		45	
+		"ADAMS, Steven Mark (DEM)"	18	3	16.67		15	83.33		18	
+		"LAMBERT, Joan (GRN)"	33	10	30.30		23	69.70		33	
+		"GARDNIR, Ron (IND)"	7	2	28.57		5	71.43		7	
+		Total	161	550	40.15		820	59.85		1370	
+
+	Belmont Central										
+			1st Prefs	491	36.13		868	63.87		1359	
+		"CANDLISH, Iris (HAN)"	62	28	45.16		34	54.84		62	
+		"CRAIG, Peter (IND)"	47	29	61.70		18	38.30		47	
+		"ADAMS, Steven Mark (DEM)"	30	8	26.67		22	73.33		30	
+		"LAMBERT, Joan (GRN)"	71	11	15.49		60	84.51		71	
+		"GARDNIR, Ron (IND)"	9	4	44.44		5	55.56		9	
+		Total	219	571	36.19		1007	63.81		1578	
+
+	Belmont North										
+			1st Prefs	460	30.10		1068	69.90		1528	
+		"CANDLISH, Iris (HAN)"	86	43	50.00		43	50.00		86	
+		"CRAIG, Peter (IND)"	70	59	84.29		11	15.71		70	
+		"ADAMS, Steven Mark (DEM)"	32	9	28.13		23	71.88		32	
+		"LAMBERT, Joan (GRN)"	67	13	19.40		54	80.60		67	
+		"GARDNIR, Ron (IND)"	13	6	46.15		7	53.85		13	
+		Total	268	590	32.85		1206	67.15		1796	
+
+	Belmont West										
+			1st Prefs	416	42.71		558	57.29		974	
+		"CANDLISH, Iris (HAN)"	60	33	55.00		27	45.00		60	
+		"CRAIG, Peter (IND)"	58	46	79.31		12	20.69		58	
+		"ADAMS, Steven Mark (DEM)"	36	19	52.78		17	47.22		36	
+		"LAMBERT, Joan (GRN)"	47	13	27.66		34	72.34		47	
+		"GARDNIR, Ron (IND)"	15	3	20.00		12	80.00		15	
+		Total	216	530	44.54		660	55.46		1190	
+
+	Blacksmiths										
+			1st Prefs	215	25.44		630	74.56		845	
+		"CANDLISH, Iris (HAN)"	73	51	69.86		22	30.14		73	
+		"CRAIG, Peter (IND)"	19	8	42.11		11	57.89		19	
+		"ADAMS, Steven Mark (DEM)"	27	9	33.33		18	66.67		27	
+		"LAMBERT, Joan (GRN)"	24	3	12.50		21	87.50		24	
+		"GARDNIR, Ron (IND)"	4	1	25.00		3	75.00		4	
+		Total	147	287	28.93		705	71.07		992	
+
+	Budgewoi										
+			1st Prefs	608	37.53		1012	62.47		1620	
+		"CANDLISH, Iris (HAN)"	91	51	56.04		40	43.96		91	
+		"CRAIG, Peter (IND)"	30	15	50.00		15	50.00		30	
+		"ADAMS, Steven Mark (DEM)"	42	16	38.10		26	61.90		42	
+		"LAMBERT, Joan (GRN)"	81	25	30.86		56	69.14		81	
+		"GARDNIR, Ron (IND)"	19	6	31.58		13	68.42		19	
+		Total	263	721	38.29		1162	61.71		1883	
+
+	Budgewoi Central										
+			1st Prefs	529	42.02		730	57.98		1259	
+		"CANDLISH, Iris (HAN)"	64	35	54.69		29	45.31		64	
+		"CRAIG, Peter (IND)"	25	13	52.00		12	48.00		25	
+		"ADAMS, Steven Mark (DEM)"	24	6	25.00		18	75.00		24	
+		"LAMBERT, Joan (GRN)"	44	10	22.73		34	77.27		44	
+		"GARDNIR, Ron (IND)"	10	2	20.00		8	80.00		10	
+		Total	167	595	41.73		831	58.27		1426	
+
+	Buff Point										
+			1st Prefs	599	42.94		796	57.06		1395	
+		"CANDLISH, Iris (HAN)"	66	27	40.91		39	59.09		66	
+		"CRAIG, Peter (IND)"	28	16	57.14		12	42.86		28	
+		"ADAMS, Steven Mark (DEM)"	38	11	28.95		27	71.05		38	
+		"LAMBERT, Joan (GRN)"	43	13	30.23		30	69.77		43	
+		"GARDNIR, Ron (IND)"	16	5	31.25		11	68.75		16	
+		Total	191	671	42.31		915	57.69		1586	
+
+	Catherine Hill Bay										
+			1st Prefs	25	21.01		94	78.99		119	
+		"CANDLISH, Iris (HAN)"	6	4	66.67		2	33.33		6	
+		"CRAIG, Peter (IND)"	0	0	0.00		0	0.00		0	
+		"ADAMS, Steven Mark (DEM)"	5	2	40.00		3	60.00		5	
+		"LAMBERT, Joan (GRN)"	7	3	42.86		4	57.14		7	
+		"GARDNIR, Ron (IND)"	3	0	0.00		3	100.00		3	
+		Total	21	34	24.29		106	75.71		140	
+
+	Caves Beach										
+			1st Prefs	1007	40.07		1506	59.93		2513	
+		"CANDLISH, Iris (HAN)"	130	61	46.92		69	53.08		130	
+		"CRAIG, Peter (IND)"	106	71	66.98		35	33.02		106	
+		"ADAMS, Steven Mark (DEM)"	96	28	29.17		68	70.83		96	
+		"LAMBERT, Joan (GRN)"	148	29	19.59		119	80.41		148	
+		"GARDNIR, Ron (IND)"	22	9	40.91		13	59.09		22	
+		Total	502	1205	39.97		1810	60.03		3015	
+
+	Chain Valley Bay										
+			1st Prefs	329	42.02		454	57.98		783	
+		"CANDLISH, Iris (HAN)"	51	26	50.98		25	49.02		51	
+		"CRAIG, Peter (IND)"	11	5	45.45		6	54.55		11	
+		"ADAMS, Steven Mark (DEM)"	20	11	55.00		9	45.00		20	
+		"LAMBERT, Joan (GRN)"	30	10	33.33		20	66.67		30	
+		"GARDNIR, Ron (IND)"	5	1	20.00		4	80.00		5	
+		Total	117	382	42.44		518	57.56		900	
+
+	Charlestown										
+			1st Prefs	692	42.07		953	57.93		1645	
+		"CANDLISH, Iris (HAN)"	84	40	47.62		44	52.38		84	
+		"CRAIG, Peter (IND)"	79	59	74.68		20	25.32		79	
+		"ADAMS, Steven Mark (DEM)"	103	39	37.86		64	62.14		103	
+		"LAMBERT, Joan (GRN)"	118	28	23.73		90	76.27		118	
+		"GARDNIR, Ron (IND)"	13	6	46.15		7	53.85		13	
+		Total	397	864	42.31		1178	57.69		2042	
+
+	Charlestown East										
+			1st Prefs	438	41.75		611	58.25		1049	
+		"CANDLISH, Iris (HAN)"	48	26	54.17		22	45.83		48	
+		"CRAIG, Peter (IND)"	39	27	69.23		12	30.77		39	
+		"ADAMS, Steven Mark (DEM)"	37	9	24.32		28	75.68		37	
+		"LAMBERT, Joan (GRN)"	52	10	19.23		42	80.77		52	
+		"GARDNIR, Ron (IND)"	5	2	40.00		3	60.00		5	
+		Total	181	512	41.63		718	58.37		1230	
+
+	Charmhaven										
+			1st Prefs	421	45.76		499	54.24		920	
+		"CANDLISH, Iris (HAN)"	64	32	50.00		32	50.00		64	
+		"CRAIG, Peter (IND)"	37	22	59.46		15	40.54		37	
+		"ADAMS, Steven Mark (DEM)"	30	5	16.67		25	83.33		30	
+		"LAMBERT, Joan (GRN)"	34	9	26.47		25	73.53		34	
+		"GARDNIR, Ron (IND)"	4	2	50.00		2	50.00		4	
+		Total	169	491	45.09		598	54.91		1089	
+
+	Dudley										
+			1st Prefs	543	46.49		625	53.51		1168	
+		"CANDLISH, Iris (HAN)"	53	26	49.06		27	50.94		53	
+		"CRAIG, Peter (IND)"	37	31	83.78		6	16.22		37	
+		"ADAMS, Steven Mark (DEM)"	99	30	30.30		69	69.70		99	
+		"LAMBERT, Joan (GRN)"	148	30	20.27		118	79.73		148	
+		"GARDNIR, Ron (IND)"	13	5	38.46		8	61.54		13	
+		Total	350	665	43.81		853	56.19		1518	
+
+	Eleebana										
+			1st Prefs	1695	59.62		1148	40.38		2843	
+		"CANDLISH, Iris (HAN)"	127	74	58.27		53	41.73		127	
+		"CRAIG, Peter (IND)"	144	107	74.31		37	25.69		144	
+		"ADAMS, Steven Mark (DEM)"	209	70	33.49		139	66.51		209	
+		"LAMBERT, Joan (GRN)"	162	31	19.14		131	80.86		162	
+		"GARDNIR, Ron (IND)"	20	9	45.00		11	55.00		20	
+		Total	662	1986	56.66		1519	43.34		3505	
+
+	Floraville										
+			1st Prefs	485	39.88		731	60.12		1216	
+		"CANDLISH, Iris (HAN)"	57	27	47.37		30	52.63		57	
+		"CRAIG, Peter (IND)"	62	44	70.97		18	29.03		62	
+		"ADAMS, Steven Mark (DEM)"	50	13	26.00		37	74.00		50	
+		"LAMBERT, Joan (GRN)"	30	9	30.00		21	70.00		30	
+		"GARDNIR, Ron (IND)"	16	8	50.00		8	50.00		16	
+		Total	215	586	40.95		845	59.05		1431	
+
+	Gateshead										
+			1st Prefs	370	32.12		782	67.88		1152	
+		"CANDLISH, Iris (HAN)"	55	14	25.45		41	74.55		55	
+		"CRAIG, Peter (IND)"	48	25	52.08		23	47.92		48	
+		"ADAMS, Steven Mark (DEM)"	49	11	22.45		38	77.55		49	
+		"LAMBERT, Joan (GRN)"	45	5	11.11		40	88.89		45	
+		"GARDNIR, Ron (IND)"	8	2	25.00		6	75.00		8	
+		Total	205	427	31.47		930	68.53		1357	
+
+	Gateshead West										
+			1st Prefs	234	22.57		803	77.43		1037	
+		"CANDLISH, Iris (HAN)"	68	18	26.47		50	73.53		68	
+		"CRAIG, Peter (IND)"	38	19	50.00		19	50.00		38	
+		"ADAMS, Steven Mark (DEM)"	21	8	38.10		13	61.90		21	
+		"LAMBERT, Joan (GRN)"	29	6	20.69		23	79.31		29	
+		"GARDNIR, Ron (IND)"	8	3	37.50		5	62.50		8	
+		Total	164	288	23.98		913	76.02		1201	
+
+	Gorokan										
+			1st Prefs	916	43.19		1205	56.81		2121	
+		"CANDLISH, Iris (HAN)"	112	64	57.14		48	42.86		112	
+		"CRAIG, Peter (IND)"	49	28	57.14		21	42.86		49	
+		"ADAMS, Steven Mark (DEM)"	56	14	25.00		42	75.00		56	
+		"LAMBERT, Joan (GRN)"	86	25	29.07		61	70.93		86	
+		"GARDNIR, Ron (IND)"	15	7	46.67		8	53.33		15	
+		Total	318	1054	43.21		1385	56.79		2439	
+
+	Gwandalan										
+			1st Prefs	587	44.47		733	55.53		1320	
+		"CANDLISH, Iris (HAN)"	52	27	51.92		25	48.08		52	
+		"CRAIG, Peter (IND)"	34	24	70.59		10	29.41		34	
+		"ADAMS, Steven Mark (DEM)"	31	12	38.71		19	61.29		31	
+		"LAMBERT, Joan (GRN)"	40	7	17.50		33	82.50		40	
+		"GARDNIR, Ron (IND)"	6	1	16.67		5	83.33		6	
+		Total	163	658	44.37		825	55.63		1483	
+
+	Jewells										
+			1st Prefs	693	41.57		974	58.43		1667	
+		"CANDLISH, Iris (HAN)"	75	38	50.67		37	49.33		75	
+		"CRAIG, Peter (IND)"	108	80	74.07		28	25.93		108	
+		"ADAMS, Steven Mark (DEM)"	73	22	30.14		51	69.86		73	
+		"LAMBERT, Joan (GRN)"	75	16	21.33		59	78.67		75	
+		"GARDNIR, Ron (IND)"	14	8	57.14		6	42.86		14	
+		Total	345	857	42.59		1155	57.41		2012	
+
+	Kahibah										
+			1st Prefs	681	42.99		903	57.01		1584	
+		"CANDLISH, Iris (HAN)"	93	46	49.46		47	50.54		93	
+		"CRAIG, Peter (IND)"	56	38	67.86		18	32.14		56	
+		"ADAMS, Steven Mark (DEM)"	66	17	25.76		49	74.24		66	
+		"LAMBERT, Joan (GRN)"	126	20	15.87		106	84.13		126	
+		"GARDNIR, Ron (IND)"	14	5	35.71		9	64.29		14	
+		Total	355	807	41.62		1132	58.38		1939	
+
+	Lake Haven										
+			1st Prefs	656	46.39		758	53.61		1414	
+		"CANDLISH, Iris (HAN)"	80	42	52.50		38	47.50		80	
+		"CRAIG, Peter (IND)"	31	22	70.97		9	29.03		31	
+		"ADAMS, Steven Mark (DEM)"	32	13	40.63		19	59.38		32	
+		"LAMBERT, Joan (GRN)"	51	16	31.37		35	68.63		51	
+		"GARDNIR, Ron (IND)"	11	3	27.27		8	72.73		11	
+		Total	205	752	46.45		867	53.55		1619	
+
+	Lake Munmorah										
+			1st Prefs	866	42.26		1183	57.74		2049	
+		"CANDLISH, Iris (HAN)"	164	109	66.46		55	33.54		164	
+		"CRAIG, Peter (IND)"	54	41	75.93		13	24.07		54	
+		"ADAMS, Steven Mark (DEM)"	64	21	32.81		43	67.19		64	
+		"LAMBERT, Joan (GRN)"	119	26	21.85		93	78.15		119	
+		"GARDNIR, Ron (IND)"	11	3	27.27		8	72.73		11	
+		Total	412	1066	43.32		1395	56.68		2461	
+
+	Mannering Park										
+			1st Prefs	407	36.83		698	63.17		1105	
+		"CANDLISH, Iris (HAN)"	69	43	62.32		26	37.68		69	
+		"CRAIG, Peter (IND)"	35	28	80.00		7	20.00		35	
+		"ADAMS, Steven Mark (DEM)"	26	8	30.77		18	69.23		26	
+		"LAMBERT, Joan (GRN)"	33	9	27.27		24	72.73		33	
+		"GARDNIR, Ron (IND)"	12	2	16.67		10	83.33		12	
+		Total	175	497	38.83		783	61.17		1280	
+
+	Marks Point										
+			1st Prefs	340	29.59		809	70.41		1149	
+		"CANDLISH, Iris (HAN)"	60	27	45.00		33	55.00		60	
+		"CRAIG, Peter (IND)"	36	15	41.67		21	58.33		36	
+		"ADAMS, Steven Mark (DEM)"	34	10	29.41		24	70.59		34	
+		"LAMBERT, Joan (GRN)"	50	7	14.00		43	86.00		50	
+		"GARDNIR, Ron (IND)"	14	4	28.57		10	71.43		14	
+		Total	194	403	30.01		940	69.99		1343	
+
+	Mount Hutton (Shortland)										
+			1st Prefs	452	40.65		660	59.35		1112	
+		"CANDLISH, Iris (HAN)"	53	22	41.51		31	58.49		53	
+		"CRAIG, Peter (IND)"	72	38	52.78		34	47.22		72	
+		"ADAMS, Steven Mark (DEM)"	41	17	41.46		24	58.54		41	
+		"LAMBERT, Joan (GRN)"	77	22	28.57		55	71.43		77	
+		"GARDNIR, Ron (IND)"	11	3	27.27		8	72.73		11	
+		Total	254	554	40.56		812	59.44		1366	
+
+	Norah Head										
+			1st Prefs	366	49.73		370	50.27		736	
+		"CANDLISH, Iris (HAN)"	34	23	67.65		11	32.35		34	
+		"CRAIG, Peter (IND)"	7	4	57.14		3	42.86		7	
+		"ADAMS, Steven Mark (DEM)"	30	10	33.33		20	66.67		30	
+		"LAMBERT, Joan (GRN)"	42	10	23.81		32	76.19		42	
+		"GARDNIR, Ron (IND)"	4	1	25.00		3	75.00		4	
+		Total	117	414	48.53		439	51.47		853	
+
+	Nords Wharf										
+			1st Prefs	210	47.62		231	52.38		441	
+		"CANDLISH, Iris (HAN)"	15	11	73.33		4	26.67		15	
+		"CRAIG, Peter (IND)"	17	14	82.35		3	17.65		17	
+		"ADAMS, Steven Mark (DEM)"	24	4	16.67		20	83.33		24	
+		"LAMBERT, Joan (GRN)"	29	2	6.90		27	93.10		29	
+		"GARDNIR, Ron (IND)"	2	0	0.00		2	100.00		2	
+		Total	87	241	45.64		287	54.36		528	
+
+	Pelican										
+			1st Prefs	171	27.54		450	72.46		621	
+		"CANDLISH, Iris (HAN)"	61	31	50.82		30	49.18		61	
+		"CRAIG, Peter (IND)"	9	6	66.67		3	33.33		9	
+		"ADAMS, Steven Mark (DEM)"	14	4	28.57		10	71.43		14	
+		"LAMBERT, Joan (GRN)"	20	1	5.00		19	95.00		20	
+		"GARDNIR, Ron (IND)"	7	3	42.86		4	57.14		7	
+		Total	111	216	29.51		516	70.49		732	
+
+	Redhead										
+			1st Prefs	566	37.73		934	62.27		1500	
+		"CANDLISH, Iris (HAN)"	97	40	41.24		57	58.76		97	
+		"CRAIG, Peter (IND)"	52	39	75.00		13	25.00		52	
+		"ADAMS, Steven Mark (DEM)"	86	24	27.91		62	72.09		86	
+		"LAMBERT, Joan (GRN)"	140	30	21.43		110	78.57		140	
+		"GARDNIR, Ron (IND)"	10	3	30.00		7	70.00		10	
+		Total	385	702	37.24		1183	62.76		1885	
+
+	San Remo										
+			1st Prefs	595	35.91		1062	64.09		1657	
+		"CANDLISH, Iris (HAN)"	117	42	35.90		75	64.10		117	
+		"CRAIG, Peter (IND)"	72	60	83.33		12	16.67		72	
+		"ADAMS, Steven Mark (DEM)"	40	11	27.50		29	72.50		40	
+		"LAMBERT, Joan (GRN)"	53	13	24.53		40	75.47		53	
+		"GARDNIR, Ron (IND)"	19	6	31.58		13	68.42		19	
+		Total	301	727	37.13		1231	62.87		1958	
+
+	Summerland Point										
+			1st Prefs	436	48.93		455	51.07		891	
+		"CANDLISH, Iris (HAN)"	54	28	51.85		26	48.15		54	
+		"CRAIG, Peter (IND)"	26	16	61.54		10	38.46		26	
+		"ADAMS, Steven Mark (DEM)"	18	7	38.89		11	61.11		18	
+		"LAMBERT, Joan (GRN)"	27	6	22.22		21	77.78		27	
+		"GARDNIR, Ron (IND)"	7	1	14.29		6	85.71		7	
+		Total	132	494	48.29		529	51.71		1023	
+
+	Swansea										
+			1st Prefs	488	25.52		1424	74.48		1912	
+		"CANDLISH, Iris (HAN)"	100	42	42.00		58	58.00		100	
+		"CRAIG, Peter (IND)"	71	54	76.06		17	23.94		71	
+		"ADAMS, Steven Mark (DEM)"	24	6	25.00		18	75.00		24	
+		"LAMBERT, Joan (GRN)"	75	12	16.00		63	84.00		75	
+		"GARDNIR, Ron (IND)"	27	14	51.85		13	48.15		27	
+		Total	297	616	27.89		1593	72.11		2209	
+
+	Swansea Central										
+			1st Prefs	132	27.39		350	72.61		482	
+		"CANDLISH, Iris (HAN)"	17	5	29.41		12	70.59		17	
+		"CRAIG, Peter (IND)"	19	17	89.47		2	10.53		19	
+		"ADAMS, Steven Mark (DEM)"	11	4	36.36		7	63.64		11	
+		"LAMBERT, Joan (GRN)"	9	2	22.22		7	77.78		9	
+		"GARDNIR, Ron (IND)"	6	4	66.67		2	33.33		6	
+		Total	62	164	30.15		380	69.85		544	
+
+	Sydney (Shortland)										
+			1st Prefs	18	50.00		18	50.00		36	
+		"CANDLISH, Iris (HAN)"	1	0	0.00		1	100.00		1	
+		"CRAIG, Peter (IND)"	0	0	0.00		0	0.00		0	
+		"ADAMS, Steven Mark (DEM)"	2	2	100.00		0	0.00		2	
+		"LAMBERT, Joan (GRN)"	3	1	33.33		2	66.67		3	
+		"GARDNIR, Ron (IND)"	0	0	0.00		0	0.00		0	
+		Total	6	21	50.00		21	50.00		42	
+
+	Tingira Heights										
+			1st Prefs	441	53.26		387	46.74		828	
+		"CANDLISH, Iris (HAN)"	47	25	53.19		22	46.81		47	
+		"CRAIG, Peter (IND)"	37	31	83.78		6	16.22		37	
+		"ADAMS, Steven Mark (DEM)"	28	7	25.00		21	75.00		28	
+		"LAMBERT, Joan (GRN)"	31	5	16.13		26	83.87		31	
+		"GARDNIR, Ron (IND)"	8	4	50.00		4	50.00		8	
+		Total	151	513	52.40		466	47.60		979	
+
+	Toukley										
+			1st Prefs	567	46.40		655	53.60		1222	
+		"CANDLISH, Iris (HAN)"	58	35	60.34		23	39.66		58	
+		"CRAIG, Peter (IND)"	23	14	60.87		9	39.13		23	
+		"ADAMS, Steven Mark (DEM)"	14	4	28.57		10	71.43		14	
+		"LAMBERT, Joan (GRN)"	19	3	15.79		16	84.21		19	
+		"GARDNIR, Ron (IND)"	18	8	44.44		10	55.56		18	
+		Total	132	631	46.60		723	53.40		1354	
+
+	Toukley East										
+			1st Prefs	791	42.55		1068	57.45		1859	
+		"CANDLISH, Iris (HAN)"	91	34	37.36		57	62.64		91	
+		"CRAIG, Peter (IND)"	36	21	58.33		15	41.67		36	
+		"ADAMS, Steven Mark (DEM)"	71	23	32.39		48	67.61		71	
+		"LAMBERT, Joan (GRN)"	105	23	21.90		82	78.10		105	
+		"GARDNIR, Ron (IND)"	18	5	27.78		13	72.22		18	
+		Total	321	897	41.15		1283	58.85		2180	
+
+	Valentine										
+			1st Prefs	1518	56.79		1155	43.21		2673	
+		"CANDLISH, Iris (HAN)"	89	48	53.93		41	46.07		89	
+		"CRAIG, Peter (IND)"	175	126	72.00		49	28.00		175	
+		"ADAMS, Steven Mark (DEM)"	141	45	31.91		96	68.09		141	
+		"LAMBERT, Joan (GRN)"	132	39	29.55		93	70.45		132	
+		"GARDNIR, Ron (IND)"	18	9	50.00		9	50.00		18	
+		Total	555	1785	55.30		1443	44.70		3228	
+
+	Whitebridge										
+			1st Prefs	338	40.43		498	59.57		836	
+		"CANDLISH, Iris (HAN)"	71	43	60.56		28	39.44		71	
+		"CRAIG, Peter (IND)"	56	46	82.14		10	17.86		56	
+		"ADAMS, Steven Mark (DEM)"	43	17	39.53		26	60.47		43	
+		"LAMBERT, Joan (GRN)"	50	6	12.00		44	88.00		50	
+		"GARDNIR, Ron (IND)"	5	3	60.00		2	40.00		5	
+		Total	225	453	42.70		608	57.30		1061	
+
+	Windale										
+			1st Prefs	312	16.39		1592	83.61		1904	
+		"CANDLISH, Iris (HAN)"	79	28	35.44		51	64.56		79	
+		"CRAIG, Peter (IND)"	60	31	51.67		29	48.33		60	
+		"ADAMS, Steven Mark (DEM)"	34	7	20.59		27	79.41		34	
+		"LAMBERT, Joan (GRN)"	84	13	15.48		71	84.52		84	
+		"GARDNIR, Ron (IND)"	11	3	27.27		8	72.73		11	
+		Total	268	394	18.14		1778	81.86		2172	
+
+	Special Hospitals										
+			1st Prefs	10	50.00		10	50.00		20	
+		"CANDLISH, Iris (HAN)"	2	0	0.00		2	100.00		2	
+		"CRAIG, Peter (IND)"	0	0	0.00		0	0.00		0	
+		"ADAMS, Steven Mark (DEM)"	1	0	0.00		1	100.00		1	
+		"LAMBERT, Joan (GRN)"	1	0	0.00		1	100.00		1	
+		"GARDNIR, Ron (IND)"	0	0	0.00		0	0.00		0	
+		Total	4	10	41.67		14	58.33		24	
+
+	Total Ordinary										
+			1st Prefs	22583	40.49		33190	59.51		55773	
+		"CANDLISH, Iris (HAN)"	2994	1497	50.00		1497	50.00		2994	
+		"CRAIG, Peter (IND)"	2058	1427	69.34		631	30.66		2058	
+		"ADAMS, Steven Mark (DEM)"	1970	616	31.27		1354	68.73		1970	
+		"LAMBERT, Joan (GRN)"	2690	582	21.64		2108	78.36		2690	
+		"GARDNIR, Ron (IND)"	478	176	36.82		302	63.18		478	
+		Total	10190	26881	40.75		39082	59.25		65963	
+
+	ABSENT										
+			1st Prefs	1683	44.15		2129	55.85		3812	
+		"CANDLISH, Iris (HAN)"	311	152	48.87		159	51.13		311	
+		"CRAIG, Peter (IND)"	111	56	50.45		55	49.55		111	
+		"ADAMS, Steven Mark (DEM)"	264	102	38.64		162	61.36		264	
+		"LAMBERT, Joan (GRN)"	326	90	27.61		236	72.39		326	
+		"GARDNIR, Ron (IND)"	63	22	34.92		41	65.08		63	
+		Total	1075	2105	43.07		2782	56.93		4887	
+
+	POSTAL										
+			1st Prefs	1312	44.95		1607	55.05		2919	
+		"CANDLISH, Iris (HAN)"	158	81	51.27		77	48.73		158	
+		"CRAIG, Peter (IND)"	27	13	48.15		14	51.85		27	
+		"ADAMS, Steven Mark (DEM)"	86	29	33.72		57	66.28		86	
+		"LAMBERT, Joan (GRN)"	56	18	32.14		38	67.86		56	
+		"GARDNIR, Ron (IND)"	15	11	73.33		4	26.67		15	
+		Total	342	1464	44.89		1797	55.11		3261	
+
+	PRE_POLL										
+			1st Prefs	1580	45.38		1902	54.62		3482	
+		"CANDLISH, Iris (HAN)"	203	110	54.19		93	45.81		203	
+		"CRAIG, Peter (IND)"	106	60	56.60		46	43.40		106	
+		"ADAMS, Steven Mark (DEM)"	144	41	28.47		103	71.53		144	
+		"LAMBERT, Joan (GRN)"	133	39	29.32		94	70.68		133	
+		"GARDNIR, Ron (IND)"	29	13	44.83		16	55.17		29	
+		Total	615	1843	44.98		2254	55.02		4097	
+
+	PROVISIONAL										
+			1st Prefs	144	31.65		311	68.35		455	
+		"CANDLISH, Iris (HAN)"	20	9	45.00		11	55.00		20	
+		"CRAIG, Peter (IND)"	10	5	50.00		5	50.00		10	
+		"ADAMS, Steven Mark (DEM)"	20	6	30.00		14	70.00		20	
+		"LAMBERT, Joan (GRN)"	37	6	16.22		31	83.78		37	
+		"GARDNIR, Ron (IND)"	5	2	40.00		3	60.00		5	
+		Total	92	172	31.44		375	68.56		547	
+
+	Division Summary										
+			1st Prefs	27302	41.09		39139	58.91		66441	
+		"CANDLISH, Iris (HAN)"	3686	1849	50.16		1837	49.84		3686	
+		"CRAIG, Peter (IND)"	2312	1561	67.52		751	32.48		2312	
+		"ADAMS, Steven Mark (DEM)"	2484	794	31.96		1690	68.04		2484	
+		"LAMBERT, Joan (GRN)"	3242	735	22.67		2507	77.33		3242	
+		"GARDNIR, Ron (IND)"	590	224	37.97		366	62.03		590	
+		Total	12314	32465	41.22		46290	58.78		78755	

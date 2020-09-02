@@ -1,0 +1,246 @@
+House of Representatives - 2001 Election: Victoria												
+Two Candidate Preferred Preference Flow Result												
+By Polling Place by Division												
+Kooyong (87128)												
+		Candidate		                  	"GEORGIOU, Petro"		            	"WILSON, Tom"		                	Total	
+				                           	LP		                         	ALP		                        		
+				                           	Votes	%	                     	Votes	%	                     		
+	Auburn											
+			1st Prefs		742	59.12		513	40.88		1255	
+		"CAMPBELL, Peter (GRN)"	170		35	20.59		135	79.41		170	
+		"SHARP, Ari (DEM)"	102		36	35.29		66	64.71		102	
+		Total	272		813	53.24		714	46.76		1527	
+
+	Auburn North											
+			1st Prefs		1371	63.27		796	36.73		2167	
+		"CAMPBELL, Peter (GRN)"	344		67	19.48		277	80.52		344	
+		"SHARP, Ari (DEM)"	266		98	36.84		168	63.16		266
+		Total	610		1536	55.31		1241	44.69		2777
+
+	Auburn South										
+			1st Prefs		1911	72.66		719	27.34		2630
+		"CAMPBELL, Peter (GRN)"	355		78	21.97		277	78.03		355
+		"SHARP, Ari (DEM)"	270		120	44.44		150	55.56		270
+		Total	625		2109	64.79		1146	35.21		3255
+
+	Balwyn										
+			1st Prefs		1466	71.20		593	28.80		2059
+		"CAMPBELL, Peter (GRN)"	238		65	27.31		173	72.69		238
+		"SHARP, Ari (DEM)"	140		60	42.86		80	57.14		140
+		Total	378		1591	65.29		846	34.71		2437
+
+	Balwyn Central										
+			1st Prefs		886	70.21		376	29.79		1262
+		"CAMPBELL, Peter (GRN)"	111		28	25.23		83	74.77		111
+		"SHARP, Ari (DEM)"	93		30	32.26		63	67.74		93
+		Total	204		944	64.39		522	35.61		1466
+
+	Balwyn North										
+			1st Prefs		1718	62.52		1030	37.48		2748
+		"CAMPBELL, Peter (GRN)"	274		69	25.18		205	74.82		274
+		"SHARP, Ari (DEM)"	192		83	43.23		109	56.77		192
+		Total	466		1870	58.18		1344	41.82		3214
+
+	Balwyn North Central										
+			1st Prefs		1011	72.89		376	27.11		1387
+		"CAMPBELL, Peter (GRN)"	111		37	33.33		74	66.67		111
+		"SHARP, Ari (DEM)"	106		51	48.11		55	51.89		106
+		Total	217		1099	68.52		505	31.48		1604
+
+	Balwyn North East										
+			1st Prefs		2154	66.87		1067	33.13		3221
+		"CAMPBELL, Peter (GRN)"	362		88	24.31		274	75.69		362
+		"SHARP, Ari (DEM)"	247		106	42.91		141	57.09		247
+		Total	609		2348	61.31		1482	38.69		3830
+
+	Balwyn North West										
+			1st Prefs		809	66.64		405	33.36		1214
+		"CAMPBELL, Peter (GRN)"	126		35	27.78		91	72.22		126
+		"SHARP, Ari (DEM)"	68		25	36.76		43	63.24		68
+		Total	194		869	61.72		539	38.28		1408
+
+	Balwyn West										
+			1st Prefs		903	63.15		527	36.85		1430
+		"CAMPBELL, Peter (GRN)"	189		45	23.81		144	76.19		189
+		"SHARP, Ari (DEM)"	130		59	45.38		71	54.62		130
+		Total	319		1007	57.58		742	42.42		1749
+
+	Boroondara										
+			1st Prefs		1241	65.35		658	34.65		1899
+		"CAMPBELL, Peter (GRN)"	166		42	25.30		124	74.70		166
+		"SHARP, Ari (DEM)"	147		64	43.54		83	56.46		147
+		Total	313		1347	60.90		865	39.10		2212
+
+	Camberwell East										
+			1st Prefs		659	73.55		237	26.45		896
+		"CAMPBELL, Peter (GRN)"	81		17	20.99		64	79.01		81
+		"SHARP, Ari (DEM)"	94		42	44.68		52	55.32		94
+		Total	175		718	67.04		353	32.96		1071
+
+	Camberwell North										
+			1st Prefs		1315	78.00		371	22.00		1686
+		"CAMPBELL, Peter (GRN)"	181		50	27.62		131	72.38		181
+		"SHARP, Ari (DEM)"	162		77	47.53		85	52.47		162
+		Total	343		1442	71.07		587	28.93		2029
+
+	Canterbury North										
+			1st Prefs		867	67.16		424	32.84		1291
+		"CAMPBELL, Peter (GRN)"	169		47	27.81		122	72.19		169
+		"SHARP, Ari (DEM)"	137		44	32.12		93	67.88		137
+		Total	306		958	59.99		639	40.01		1597
+
+	Canterbury South										
+			1st Prefs		1596	68.41		737	31.59		2333
+		"CAMPBELL, Peter (GRN)"	376		99	26.33		277	73.67		376
+		"SHARP, Ari (DEM)"	229		102	44.54		127	55.46		229
+		Total	605		1797	61.16		1141	38.84		2938
+
+	Chatham										
+			1st Prefs		878	64.51		483	35.49		1361
+		"CAMPBELL, Peter (GRN)"	196		41	20.92		155	79.08		196
+		"SHARP, Ari (DEM)"	140		56	40.00		84	60.00		140
+		Total	336		975	57.45		722	42.55		1697
+
+	Cotham										
+			1st Prefs		1427	78.32		395	21.68		1822
+		"CAMPBELL, Peter (GRN)"	225		74	32.89		151	67.11		225
+		"SHARP, Ari (DEM)"	166		73	43.98		93	56.02		166
+		Total	391		1574	71.13		639	28.87		2213
+
+	Deepdene										
+			1st Prefs		747	76.07		235	23.93		982
+		"CAMPBELL, Peter (GRN)"	131		28	21.37		103	78.63		131
+		"SHARP, Ari (DEM)"	80		36	45.00		44	55.00		80
+		Total	211		811	67.98		382	32.02		1193
+
+	Glenferrie										
+			1st Prefs		1375	62.81		814	37.19		2189
+		"CAMPBELL, Peter (GRN)"	429		105	24.48		324	75.52		429
+		"SHARP, Ari (DEM)"	299		116	38.80		183	61.20		299
+		Total	728		1596	54.71		1321	45.29		2917
+
+	Glenferrie Central										
+			1st Prefs		708	64.42		391	35.58		1099
+		"CAMPBELL, Peter (GRN)"	206		33	16.02		173	83.98		206
+		"SHARP, Ari (DEM)"	151		49	32.45		102	67.55		151
+		Total	357		790	54.26		666	45.74		1456
+
+	Glenferrie South										
+			1st Prefs		880	78.08		247	21.92		1127
+		"CAMPBELL, Peter (GRN)"	153		45	29.41		108	70.59		153
+		"SHARP, Ari (DEM)"	102		46	45.10		56	54.90		102
+		Total	255		971	70.26		411	29.74		1382
+
+	Hartwell										
+			1st Prefs		984	61.16		625	38.84		1609
+		"CAMPBELL, Peter (GRN)"	225		54	24.00		171	76.00		225
+		"SHARP, Ari (DEM)"	147		61	41.50		86	58.50		147
+		Total	372		1099	55.48		882	44.52		1981
+
+	Hawthorn										
+			1st Prefs		1335	64.12		747	35.88		2082
+		"CAMPBELL, Peter (GRN)"	362		78	21.55		284	78.45		362
+		"SHARP, Ari (DEM)"	222		94	42.34		128	57.66		222
+		Total	584		1507	56.53		1159	43.47		2666
+
+	Highfield Park										
+			1st Prefs		1024	64.32		568	35.68		1592
+		"CAMPBELL, Peter (GRN)"	209		52	24.88		157	75.12		209
+		"SHARP, Ari (DEM)"	160		70	43.75		90	56.25		160
+		Total	369		1146	58.44		815	41.56		1961
+
+	Hyde Park										
+			1st Prefs		600	61.10		382	38.90		982
+		"CAMPBELL, Peter (GRN)"	148		41	27.70		107	72.30		148
+		"SHARP, Ari (DEM)"	103		43	41.75		60	58.25		103
+		Total	251		684	55.47		549	44.53		1233
+
+	Kew										
+			1st Prefs		1590	58.22		1141	41.78		2731
+		"CAMPBELL, Peter (GRN)"	402		96	23.88		306	76.12		402
+		"SHARP, Ari (DEM)"	339		100	29.50		239	70.50		339
+		Total	741		1786	51.44		1686	48.56		3472
+
+	Kew East										
+			1st Prefs		740	60.02		493	39.98		1233
+		"CAMPBELL, Peter (GRN)"	140		25	17.86		115	82.14		140
+		"SHARP, Ari (DEM)"	125		44	35.20		81	64.80		125
+		Total	265		809	54.01		689	45.99		1498
+
+	Kew North										
+			1st Prefs		1179	60.46		771	39.54		1950
+		"CAMPBELL, Peter (GRN)"	287		59	20.56		228	79.44		287
+		"SHARP, Ari (DEM)"	178		79	44.38		99	55.62		178
+		Total	465		1317	54.53		1098	45.47		2415
+
+	Kew South										
+			1st Prefs		1298	68.75		590	31.25		1888
+		"CAMPBELL, Peter (GRN)"	307		70	22.80		237	77.20		307
+		"SHARP, Ari (DEM)"	200		86	43.00		114	57.00		200
+		Total	507		1454	60.71		941	39.29		2395
+
+	Melbourne (Kooyong)										
+			1st Prefs		73	59.84		49	40.16		122
+		"CAMPBELL, Peter (GRN)"	27		7	25.93		20	74.07		27
+		"SHARP, Ari (DEM)"	19		4	21.05		15	78.95		19
+		Total	46		84	50.00		84	50.00		168
+
+	Studley Park										
+			1st Prefs		977	74.07		342	25.93		1319
+		"CAMPBELL, Peter (GRN)"	158		37	23.42		121	76.58		158
+		"SHARP, Ari (DEM)"	111		43	38.74		68	61.26		111
+		Total	269		1057	66.56		531	33.44		1588
+
+	Surrey Hills West										
+			1st Prefs		734	67.53		353	32.47		1087
+		"CAMPBELL, Peter (GRN)"	185		34	18.38		151	81.62		185
+		"SHARP, Ari (DEM)"	111		54	48.65		57	51.35		111
+		Total	296		822	59.44		561	40.56		1383
+
+	Willison										
+			1st Prefs		705	70.22		299	29.78		1004
+		"CAMPBELL, Peter (GRN)"	96		23	23.96		73	76.04		96
+		"SHARP, Ari (DEM)"	73		24	32.88		49	67.12		73
+		Total	169		752	64.11		421	35.89		1173
+
+	Special Hospitals										
+			1st Prefs		385	72.10		149	27.90		534
+		"CAMPBELL, Peter (GRN)"	21		10	47.62		11	52.38		21
+		"SHARP, Ari (DEM)"	13		10	76.92		3	23.08		13
+		Total	34		405	71.30		163	28.70		568
+
+	Total Ordinary										
+			1st Prefs		36288	66.96		17903	33.04		54191
+		"CAMPBELL, Peter (GRN)"	7160		1714	23.94		5446	76.06		7160
+		"SHARP, Ari (DEM)"	5122		2085	40.71		3037	59.29		5122
+		Total	12282		40087	60.31		26386	39.69		66473
+
+	ABSENT										
+			1st Prefs		3125	69.51		1371	30.49		4496
+		"CAMPBELL, Peter (GRN)"	863		241	27.93		622	72.07		863
+		"SHARP, Ari (DEM)"	670		258	38.51		412	61.49		670
+		Total	1533		3624	60.11		2405	39.89		6029
+
+	POSTAL										
+			1st Prefs		2598	76.73		788	23.27		3386
+		"CAMPBELL, Peter (GRN)"	211		77	36.49		134	63.51		211
+		"SHARP, Ari (DEM)"	231		93	40.26		138	59.74		231
+		Total	442		2768	72.31		1060	27.69		3828
+
+	PRE_POLL										
+			1st Prefs		2054	68.56		942	31.44		2996
+		"CAMPBELL, Peter (GRN)"	328		83	25.30		245	74.70		328
+		"SHARP, Ari (DEM)"	316		128	40.51		188	59.49		316
+		Total	644		2265	62.23		1375	37.77		3640
+
+	PROVISIONAL										
+			1st Prefs		179	66.05		92	33.95		271
+		"CAMPBELL, Peter (GRN)"	45		9	20.00		36	80.00		45
+		"SHARP, Ari (DEM)"	35		12	34.29		23	65.71		35
+		Total	80		200	56.98		151	43.02		351
+
+	Division Summary											
+			1st Prefs		44244	67.71		21096	32.29		65340	
+		"CAMPBELL, Peter (GRN)"	8607		2124	24.68		6483	75.32		8607	
+		"SHARP, Ari (DEM)"	6374		2576	40.41		3798	59.59		6374	
+		Total	14981		48944	60.94		31377	39.06		80321	

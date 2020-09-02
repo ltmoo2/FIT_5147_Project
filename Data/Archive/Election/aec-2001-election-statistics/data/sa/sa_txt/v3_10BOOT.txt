@@ -1,0 +1,497 @@
+House of Representatives - 2001 Election: South Australia											
+Two Candidate Preferred Preference Flow Result											
+By Polling Place											
+											
+Boothby (89617)											
+		Candidate		"MURPHY, Jim"		                	"SOUTHCOTT, Andrew"			Total	
+				ALP		                        	LP				
+				Votes	%	                     	Votes	%			
+	Aberfoyle Park North (Boothby)										
+			1st Prefs	113	29.12		275	70.88		388	
+		"STARLING, Paul (IND)"	5	3	60.00		2	40.00		5	
+		"PRIDE, Jo (DEM)"	119	72	60.50		47	39.50		119	
+		"MANFIELD, William ()"	0	0	0.00		0	0.00		0	
+		"DRUMMOND, Michelle (GRN)"	11	9	81.82		2	18.18		11	
+		"PIECHNICK, Daniel (HAN)"	17	8	47.06		9	52.94		17	
+		"KING, Jack (IND)"	2	1	50.00		1	50.00		2	
+		Total	154	206	38.01		336	61.99		542	
+
+	Adelaide (Boothby)										
+			1st Prefs	30	40.54		44	59.46		74	
+		"STARLING, Paul (IND)"	0	0	0.00		0	0.00		0	
+		"PRIDE, Jo (DEM)"	33	18	54.55		15	45.45		33	
+		"MANFIELD, William ()"	0	0	0.00		0	0.00		0	
+		"DRUMMOND, Michelle (GRN)"	6	3	50.00		3	50.00		6	
+		"PIECHNICK, Daniel (HAN)"	1	1	100.00		0	0.00		1	
+		"KING, Jack (IND)"	0	0	0.00		0	0.00		0	
+		Total	40	52	45.61		62	54.39		114	
+
+	Bedford Park										
+			1st Prefs	194	40.33		287	59.67		481	
+		"STARLING, Paul (IND)"	4	2	50.00		2	50.00		4	
+		"PRIDE, Jo (DEM)"	169	109	64.50		60	35.50		169	
+		"MANFIELD, William ()"	3	2	66.67		1	33.33		3	
+		"DRUMMOND, Michelle (GRN)"	28	22	78.57		6	21.43		28	
+		"PIECHNICK, Daniel (HAN)"	19	9	47.37		10	52.63		19	
+		"KING, Jack (IND)"	5	1	20.00		4	80.00		5	
+		Total	228	339	47.81		370	52.19		709	
+
+	Belair										
+			1st Prefs	796	30.20		1840	69.80		2636	
+		"STARLING, Paul (IND)"	15	6	40.00		9	60.00		15	
+		"PRIDE, Jo (DEM)"	1031	699	67.80		332	32.20		1031	
+		"MANFIELD, William ()"	3	1	33.33		2	66.67		3	
+		"DRUMMOND, Michelle (GRN)"	172	134	77.91		38	22.09		172	
+		"PIECHNICK, Daniel (HAN)"	73	38	52.05		35	47.95		73	
+		"KING, Jack (IND)"	39	18	46.15		21	53.85		39	
+		Total	1333	1692	42.63		2277	57.37		3969	
+
+	Bellevue Heights										
+			1st Prefs	402	29.09		980	70.91		1382	
+		"STARLING, Paul (IND)"	13	3	23.08		10	76.92		13	
+		"PRIDE, Jo (DEM)"	392	265	67.60		127	32.40		392	
+		"MANFIELD, William ()"	2	1	50.00		1	50.00		2	
+		"DRUMMOND, Michelle (GRN)"	48	33	68.75		15	31.25		48	
+		"PIECHNICK, Daniel (HAN)"	41	17	41.46		24	58.54		41	
+		"KING, Jack (IND)"	4	4	100.00		0	0.00		4	
+		Total	500	725	38.52		1157	61.48		1882	
+
+	Blackwood										
+			1st Prefs	415	26.57		1147	73.43		1562	
+		"STARLING, Paul (IND)"	10	5	50.00		5	50.00		10	
+		"PRIDE, Jo (DEM)"	555	393	70.81		162	29.19		555	
+		"MANFIELD, William ()"	10	5	50.00		5	50.00		10	
+		"DRUMMOND, Michelle (GRN)"	110	88	80.00		22	20.00		110	
+		"PIECHNICK, Daniel (HAN)"	45	19	42.22		26	57.78		45	
+		"KING, Jack (IND)"	20	10	50.00		10	50.00		20	
+		Total	750	935	40.44		1377	59.56		2312	
+
+	Blackwood Central										
+			1st Prefs	265	29.35		638	70.65		903	
+		"STARLING, Paul (IND)"	4	1	25.00		3	75.00		4	
+		"PRIDE, Jo (DEM)"	351	242	68.95		109	31.05		351	
+		"MANFIELD, William ()"	4	2	50.00		2	50.00		4	
+		"DRUMMOND, Michelle (GRN)"	70	62	88.57		8	11.43		70	
+		"PIECHNICK, Daniel (HAN)"	12	9	75.00		3	25.00		12	
+		"KING, Jack (IND)"	8	5	62.50		3	37.50		8	
+		Total	449	586	43.34		766	56.66		1352	
+
+	Brighton										
+			1st Prefs	773	30.52		1760	69.48		2533	
+		"STARLING, Paul (IND)"	12	7	58.33		5	41.67		12	
+		"PRIDE, Jo (DEM)"	498	315	63.25		183	36.75		498	
+		"MANFIELD, William ()"	8	6	75.00		2	25.00		8	
+		"DRUMMOND, Michelle (GRN)"	115	89	77.39		26	22.61		115	
+		"PIECHNICK, Daniel (HAN)"	89	53	59.55		36	40.45		89	
+		"KING, Jack (IND)"	15	5	33.33		10	66.67		15	
+		Total	737	1248	38.17		2022	61.83		3270	
+
+	Brighton South										
+			1st Prefs	271	33.71		533	66.29		804	
+		"STARLING, Paul (IND)"	1	1	100.00		0	0.00		1	
+		"PRIDE, Jo (DEM)"	146	98	67.12		48	32.88		146	
+		"MANFIELD, William ()"	1	1	100.00		0	0.00		1	
+		"DRUMMOND, Michelle (GRN)"	37	28	75.68		9	24.32		37	
+		"PIECHNICK, Daniel (HAN)"	30	10	33.33		20	66.67		30	
+		"KING, Jack (IND)"	2	1	50.00		1	50.00		2	
+		Total	217	410	40.16		611	59.84		1021	
+
+	Clapham										
+			1st Prefs	350	25.36		1030	74.64		1380	
+		"STARLING, Paul (IND)"	12	4	33.33		8	66.67		12	
+		"PRIDE, Jo (DEM)"	442	300	67.87		142	32.13		442	
+		"MANFIELD, William ()"	5	1	20.00		4	80.00		5	
+		"DRUMMOND, Michelle (GRN)"	74	60	81.08		14	18.92		74	
+		"PIECHNICK, Daniel (HAN)"	35	12	34.29		23	65.71		35	
+		"KING, Jack (IND)"	4	1	25.00		3	75.00		4	
+		Total	572	728	37.30		1224	62.70		1952	
+
+	Clarence Gardens										
+			1st Prefs	239	38.30		385	61.70		624	
+		"STARLING, Paul (IND)"	5	2	40.00		3	60.00		5	
+		"PRIDE, Jo (DEM)"	164	99	60.37		65	39.63		164	
+		"MANFIELD, William ()"	0	0	0.00		0	0.00		0	
+		"DRUMMOND, Michelle (GRN)"	26	7	26.92		19	73.08		26	
+		"PIECHNICK, Daniel (HAN)"	13	7	53.85		6	46.15		13	
+		"KING, Jack (IND)"	5	0	0.00		5	100.00		5	
+		Total	213	354	42.29		483	57.71		837	
+
+	Colonel Light Gardens										
+			1st Prefs	465	36.24		818	63.76		1283	
+		"STARLING, Paul (IND)"	10	7	70.00		3	30.00		10	
+		"PRIDE, Jo (DEM)"	436	280	64.22		156	35.78		436	
+		"MANFIELD, William ()"	0	0	0.00		0	0.00		0	
+		"DRUMMOND, Michelle (GRN)"	39	29	74.36		10	25.64		39	
+		"PIECHNICK, Daniel (HAN)"	42	25	59.52		17	40.48		42	
+		"KING, Jack (IND)"	8	3	37.50		5	62.50		8	
+		Total	535	809	44.50		1009	55.50		1818	
+
+	Coromandel Valley (Boothby)										
+			1st Prefs	118	29.65		280	70.35		398	
+		"STARLING, Paul (IND)"	8	5	62.50		3	37.50		8	
+		"PRIDE, Jo (DEM)"	192	135	70.31		57	29.69		192	
+		"MANFIELD, William ()"	0	0	0.00		0	0.00		0	
+		"DRUMMOND, Michelle (GRN)"	17	12	70.59		5	29.41		17	
+		"PIECHNICK, Daniel (HAN)"	8	4	50.00		4	50.00		8	
+		"KING, Jack (IND)"	4	2	50.00		2	50.00		4	
+		Total	229	276	44.02		351	55.98		627	
+
+	Darlington										
+			1st Prefs	612	43.56		793	56.44		1405	
+		"STARLING, Paul (IND)"	6	2	33.33		4	66.67		6	
+		"PRIDE, Jo (DEM)"	296	184	62.16		112	37.84		296	
+		"MANFIELD, William ()"	2	1	50.00		1	50.00		2	
+		"DRUMMOND, Michelle (GRN)"	38	31	81.58		7	18.42		38	
+		"PIECHNICK, Daniel (HAN)"	74	44	59.46		30	40.54		74	
+		"KING, Jack (IND)"	16	8	50.00		8	50.00		16	
+		Total	432	882	48.01		955	51.99		1837	
+
+	Daw Park										
+			1st Prefs	524	40.43		772	59.57		1296	
+		"STARLING, Paul (IND)"	8	4	50.00		4	50.00		8	
+		"PRIDE, Jo (DEM)"	368	236	64.13		132	35.87		368	
+		"MANFIELD, William ()"	3	2	66.67		1	33.33		3	
+		"DRUMMOND, Michelle (GRN)"	46	37	80.43		9	19.57		46	
+		"PIECHNICK, Daniel (HAN)"	48	29	60.42		19	39.58		48	
+		"KING, Jack (IND)"	9	4	44.44		5	55.56		9	
+		Total	482	836	47.02		942	52.98		1778	
+
+	Dover Gardens										
+			1st Prefs	595	47.07		669	52.93		1264	
+		"STARLING, Paul (IND)"	11	4	36.36		7	63.64		11	
+		"PRIDE, Jo (DEM)"	354	236	66.67		118	33.33		354	
+		"MANFIELD, William ()"	3	1	33.33		2	66.67		3	
+		"DRUMMOND, Michelle (GRN)"	57	39	68.42		18	31.58		57	
+		"PIECHNICK, Daniel (HAN)"	76	53	69.74		23	30.26		76	
+		"KING, Jack (IND)"	9	3	33.33		6	66.67		9	
+		Total	510	931	52.48		843	47.52		1774	
+
+	Eden Hills										
+			1st Prefs	304	36.10		538	63.90		842	
+		"STARLING, Paul (IND)"	9	5	55.56		4	44.44		9	
+		"PRIDE, Jo (DEM)"	370	193	52.16		177	47.84		370	
+		"MANFIELD, William ()"	0	0	0.00		0	0.00		0	
+		"DRUMMOND, Michelle (GRN)"	57	45	78.95		12	21.05		57	
+		"PIECHNICK, Daniel (HAN)"	30	12	40.00		18	60.00		30	
+		"KING, Jack (IND)"	15	10	66.67		5	33.33		15	
+		Total	481	569	43.01		754	56.99		1323	
+
+	Flagstaff Hill (Boothby)										
+			1st Prefs	910	30.59		2065	69.41		2975	
+		"STARLING, Paul (IND)"	23	12	52.17		11	47.83		23	
+		"PRIDE, Jo (DEM)"	752	443	58.91		309	41.09		752	
+		"MANFIELD, William ()"	13	11	84.62		2	15.38		13	
+		"DRUMMOND, Michelle (GRN)"	73	54	73.97		19	26.03		73	
+		"PIECHNICK, Daniel (HAN)"	74	40	54.05		34	45.95		74	
+		"KING, Jack (IND)"	20	13	65.00		7	35.00		20	
+		Total	955	1483	37.74		2447	62.26		3930	
+
+	Flagstaff Hill East										
+			1st Prefs	134	25.05		401	74.95		535	
+		"STARLING, Paul (IND)"	6	3	50.00		3	50.00		6	
+		"PRIDE, Jo (DEM)"	188	107	56.91		81	43.09		188	
+		"MANFIELD, William ()"	4	2	50.00		2	50.00		4	
+		"DRUMMOND, Michelle (GRN)"	15	10	66.67		5	33.33		15	
+		"PIECHNICK, Daniel (HAN)"	12	4	33.33		8	66.67		12	
+		"KING, Jack (IND)"	10	6	60.00		4	40.00		10	
+		Total	235	266	34.55		504	65.45		770	
+
+	Hawthorn										
+			1st Prefs	116	24.95		349	75.05		465	
+		"STARLING, Paul (IND)"	4	1	25.00		3	75.00		4	
+		"PRIDE, Jo (DEM)"	142	93	65.49		49	34.51		142	
+		"MANFIELD, William ()"	0	0	0.00		0	0.00		0	
+		"DRUMMOND, Michelle (GRN)"	24	16	66.67		8	33.33		24	
+		"PIECHNICK, Daniel (HAN)"	6	4	66.67		2	33.33		6	
+		"KING, Jack (IND)"	4	1	25.00		3	75.00		4	
+		Total	180	231	35.81		414	64.19		645	
+
+	Hawthorndene										
+			1st Prefs	313	30.15		725	69.85		1038	
+		"STARLING, Paul (IND)"	8	4	50.00		4	50.00		8	
+		"PRIDE, Jo (DEM)"	444	305	68.69		139	31.31		444	
+		"MANFIELD, William ()"	1	1	100.00		0	0.00		1	
+		"DRUMMOND, Michelle (GRN)"	60	52	86.67		8	13.33		60	
+		"PIECHNICK, Daniel (HAN)"	42	19	45.24		23	54.76		42	
+		"KING, Jack (IND)"	12	6	50.00		6	50.00		12	
+		Total	567	700	43.61		905	56.39		1605	
+
+	Hawthorn West										
+			1st Prefs	282	26.63		777	73.37		1059	
+		"STARLING, Paul (IND)"	7	5	71.43		2	28.57		7	
+		"PRIDE, Jo (DEM)"	282	187	66.31		95	33.69		282	
+		"MANFIELD, William ()"	2	1	50.00		1	50.00		2	
+		"DRUMMOND, Michelle (GRN)"	42	24	57.14		18	42.86		42	
+		"PIECHNICK, Daniel (HAN)"	20	5	25.00		15	75.00		20	
+		"KING, Jack (IND)"	6	3	50.00		3	50.00		6	
+		Total	359	507	35.75		911	64.25		1418	
+
+	Kingswood										
+			1st Prefs	325	31.10		720	68.90		1045	
+		"STARLING, Paul (IND)"	1	1	100.00		0	0.00		1	
+		"PRIDE, Jo (DEM)"	320	220	68.75		100	31.25		320	
+		"MANFIELD, William ()"	0	0	0.00		0	0.00		0	
+		"DRUMMOND, Michelle (GRN)"	47	37	78.72		10	21.28		47	
+		"PIECHNICK, Daniel (HAN)"	20	10	50.00		10	50.00		20	
+		"KING, Jack (IND)"	8	3	37.50		5	62.50		8	
+		Total	396	596	41.36		845	58.64		1441	
+
+	Marino										
+			1st Prefs	351	33.40		700	66.60		1051	
+		"STARLING, Paul (IND)"	3	2	66.67		1	33.33		3	
+		"PRIDE, Jo (DEM)"	244	161	65.98		83	34.02		244	
+		"MANFIELD, William ()"	1	0	0.00		1	100.00		1	
+		"DRUMMOND, Michelle (GRN)"	56	44	78.57		12	21.43		56	
+		"PIECHNICK, Daniel (HAN)"	49	26	53.06		23	46.94		49	
+		"KING, Jack (IND)"	8	6	75.00		2	25.00		8	
+		Total	361	590	41.78		822	58.22		1412	
+
+	Marion										
+			1st Prefs	335	39.98		503	60.02		838	
+		"STARLING, Paul (IND)"	8	5	62.50		3	37.50		8	
+		"PRIDE, Jo (DEM)"	187	108	57.75		79	42.25		187	
+		"MANFIELD, William ()"	1	0	0.00		1	100.00		1	
+		"DRUMMOND, Michelle (GRN)"	21	18	85.71		3	14.29		21	
+		"PIECHNICK, Daniel (HAN)"	44	27	61.36		17	38.64		44	
+		"KING, Jack (IND)"	3	2	66.67		1	33.33		3	
+		Total	264	495	44.92		607	55.08		1102	
+
+	Melrose Park										
+			1st Prefs	681	43.21		895	56.79		1576	
+		"STARLING, Paul (IND)"	15	8	53.33		7	46.67		15	
+		"PRIDE, Jo (DEM)"	378	234	61.90		144	38.10		378	
+		"MANFIELD, William ()"	3	2	66.67		1	33.33		3	
+		"DRUMMOND, Michelle (GRN)"	51	41	80.39		10	19.61		51	
+		"PIECHNICK, Daniel (HAN)"	67	41	61.19		26	38.81		67	
+		"KING, Jack (IND)"	3	2	66.67		1	33.33		3	
+		Total	517	1009	48.21		1084	51.79		2093	
+
+	Mitcham										
+			1st Prefs	399	23.12		1327	76.88		1726	
+		"STARLING, Paul (IND)"	8	4	50.00		4	50.00		8	
+		"PRIDE, Jo (DEM)"	464	319	68.75		145	31.25		464	
+		"MANFIELD, William ()"	5	3	60.00		2	40.00		5	
+		"DRUMMOND, Michelle (GRN)"	68	50	73.53		18	26.47		68	
+		"PIECHNICK, Daniel (HAN)"	29	15	51.72		14	48.28		29	
+		"KING, Jack (IND)"	18	7	38.89		11	61.11		18	
+		Total	592	797	34.38		1521	65.62		2318	
+
+	Mitchell Park										
+			1st Prefs	767	50.86		741	49.14		1508	
+		"STARLING, Paul (IND)"	11	7	63.64		4	36.36		11	
+		"PRIDE, Jo (DEM)"	413	277	67.07		136	32.93		413	
+		"MANFIELD, William ()"	6	4	66.67		2	33.33		6	
+		"DRUMMOND, Michelle (GRN)"	36	28	77.78		8	22.22		36	
+		"PIECHNICK, Daniel (HAN)"	74	41	55.41		33	44.59		74	
+		"KING, Jack (IND)"	7	3	42.86		4	57.14		7	
+		Total	547	1127	54.84		928	45.16		2055	
+
+	Netherby										
+			1st Prefs	131	13.07		871	86.93		1002	
+		"STARLING, Paul (IND)"	3	1	33.33		2	66.67		3	
+		"PRIDE, Jo (DEM)"	137	94	68.61		43	31.39		137	
+		"MANFIELD, William ()"	1	1	100.00		0	0.00		1	
+		"DRUMMOND, Michelle (GRN)"	16	12	75.00		4	25.00		16	
+		"PIECHNICK, Daniel (HAN)"	9	3	33.33		6	66.67		9	
+		"KING, Jack (IND)"	4	0	0.00		4	100.00		4	
+		Total	170	242	20.65		930	79.35		1172	
+
+	North Brighton										
+			1st Prefs	367	36.02		652	63.98		1019	
+		"STARLING, Paul (IND)"	6	3	50.00		3	50.00		6	
+		"PRIDE, Jo (DEM)"	219	137	62.56		82	37.44		219	
+		"MANFIELD, William ()"	2	0	0.00		2	100.00		2	
+		"DRUMMOND, Michelle (GRN)"	47	25	53.19		22	46.81		47	
+		"PIECHNICK, Daniel (HAN)"	46	30	65.22		16	34.78		46	
+		"KING, Jack (IND)"	2	1	50.00		1	50.00		2	
+		Total	322	563	41.98		778	58.02		1341	
+
+	Oaklands Park										
+			1st Prefs	417	41.29		593	58.71		1010	
+		"STARLING, Paul (IND)"	7	3	42.86		4	57.14		7	
+		"PRIDE, Jo (DEM)"	218	139	63.76		79	36.24		218	
+		"MANFIELD, William ()"	0	0	0.00		0	0.00		0	
+		"DRUMMOND, Michelle (GRN)"	30	17	56.67		13	43.33		30	
+		"PIECHNICK, Daniel (HAN)"	57	27	47.37		30	52.63		57	
+		"KING, Jack (IND)"	10	4	40.00		6	60.00		10	
+		Total	322	607	45.57		725	54.43		1332	
+
+	Panorama										
+			1st Prefs	268	27.52		706	72.48		974	
+		"STARLING, Paul (IND)"	4	1	25.00		3	75.00		4	
+		"PRIDE, Jo (DEM)"	264	167	63.26		97	36.74		264	
+		"MANFIELD, William ()"	1	1	100.00		0	0.00		1	
+		"DRUMMOND, Michelle (GRN)"	39	29	74.36		10	25.64		39	
+		"PIECHNICK, Daniel (HAN)"	27	19	70.37		8	29.63		27	
+		"KING, Jack (IND)"	8	3	37.50		5	62.50		8	
+		Total	343	488	37.05		829	62.95		1317	
+
+	Pasadena										
+			1st Prefs	763	39.15		1186	60.85		1949	
+		"STARLING, Paul (IND)"	16	11	68.75		5	31.25		16	
+		"PRIDE, Jo (DEM)"	476	306	64.29		170	35.71		476	
+		"MANFIELD, William ()"	5	1	20.00		4	80.00		5	
+		"DRUMMOND, Michelle (GRN)"	73	59	80.82		14	19.18		73	
+		"PIECHNICK, Daniel (HAN)"	65	42	64.62		23	35.38		65	
+		"KING, Jack (IND)"	12	6	50.00		6	50.00		12	
+		Total	647	1188	45.76		1408	54.24		2596	
+
+	St Marys										
+			1st Prefs	662	52.13		608	47.87		1270	
+		"STARLING, Paul (IND)"	12	6	50.00		6	50.00		12	
+		"PRIDE, Jo (DEM)"	278	180	64.75		98	35.25		278	
+		"MANFIELD, William ()"	0	0	0.00		0	0.00		0	
+		"DRUMMOND, Michelle (GRN)"	38	29	76.32		9	23.68		38	
+		"PIECHNICK, Daniel (HAN)"	74	39	52.70		35	47.30		74	
+		"KING, Jack (IND)"	6	4	66.67		2	33.33		6	
+		Total	408	920	54.83		758	45.17		1678	
+
+	Seacliff										
+			1st Prefs	520	35.25		955	64.75		1475	
+		"STARLING, Paul (IND)"	10	4	40.00		6	60.00		10	
+		"PRIDE, Jo (DEM)"	355	230	64.79		125	35.21		355	
+		"MANFIELD, William ()"	2	2	100.00		0	0.00		2	
+		"DRUMMOND, Michelle (GRN)"	92	77	83.70		15	16.30		92	
+		"PIECHNICK, Daniel (HAN)"	46	29	63.04		17	36.96		46	
+		"KING, Jack (IND)"	10	4	40.00		6	60.00		10	
+		Total	515	866	43.52		1124	56.48		1990	
+
+	Seacombe Heights										
+			1st Prefs	906	44.50		1130	55.50		2036	
+		"STARLING, Paul (IND)"	9	6	66.67		3	33.33		9	
+		"PRIDE, Jo (DEM)"	479	314	65.55		165	34.45		479	
+		"MANFIELD, William ()"	5	2	40.00		3	60.00		5	
+		"DRUMMOND, Michelle (GRN)"	65	47	72.31		18	27.69		65	
+		"PIECHNICK, Daniel (HAN)"	128	74	57.81		54	42.19		128	
+		"KING, Jack (IND)"	12	4	33.33		8	66.67		12	
+		Total	698	1353	49.49		1381	50.51		2734	
+
+	Seaview Downs										
+			1st Prefs	377	34.15		727	65.85		1104	
+		"STARLING, Paul (IND)"	11	3	27.27		8	72.73		11	
+		"PRIDE, Jo (DEM)"	246	152	61.79		94	38.21		246	
+		"MANFIELD, William ()"	4	2	50.00		2	50.00		4	
+		"DRUMMOND, Michelle (GRN)"	26	14	53.85		12	46.15		26	
+		"PIECHNICK, Daniel (HAN)"	47	30	63.83		17	36.17		47	
+		"KING, Jack (IND)"	12	8	66.67		4	33.33		12	
+		Total	346	586	40.41		864	59.59		1450	
+
+	Sturt										
+			1st Prefs	232	40.77		337	59.23		569	
+		"STARLING, Paul (IND)"	3	2	66.67		1	33.33		3	
+		"PRIDE, Jo (DEM)"	111	70	63.06		41	36.94		111	
+		"MANFIELD, William ()"	2	2	100.00		0	0.00		2	
+		"DRUMMOND, Michelle (GRN)"	4	4	100.00		0	0.00		4	
+		"PIECHNICK, Daniel (HAN)"	32	17	53.13		15	46.88		32	
+		"KING, Jack (IND)"	5	4	80.00		1	20.00		5	
+		Total	157	331	45.59		395	54.41		726	
+
+	Tonsley Park										
+			1st Prefs	567	59.68		383	40.32		950	
+		"STARLING, Paul (IND)"	13	9	69.23		4	30.77		13	
+		"PRIDE, Jo (DEM)"	208	149	71.63		59	28.37		208	
+		"MANFIELD, William ()"	3	2	66.67		1	33.33		3	
+		"DRUMMOND, Michelle (GRN)"	17	13	76.47		4	23.53		17	
+		"PIECHNICK, Daniel (HAN)"	58	36	62.07		22	37.93		58	
+		"KING, Jack (IND)"	5	3	60.00		2	40.00		5	
+		Total	304	779	62.12		475	37.88		1254	
+
+	Warradale										
+			1st Prefs	854	38.56		1361	61.44		2215	
+		"STARLING, Paul (IND)"	22	14	63.64		8	36.36		22	
+		"PRIDE, Jo (DEM)"	483	314	65.01		169	34.99		483	
+		"MANFIELD, William ()"	6	4	66.67		2	33.33		6	
+		"DRUMMOND, Michelle (GRN)"	62	43	69.35		19	30.65		62	
+		"PIECHNICK, Daniel (HAN)"	107	75	70.09		32	29.91		107	
+		"KING, Jack (IND)"	18	12	66.67		6	33.33		18	
+		Total	698	1316	45.18		1597	54.82		2913	
+
+	Westbourne Park										
+			1st Prefs	461	34.82		863	65.18		1324	
+		"STARLING, Paul (IND)"	16	9	56.25		7	43.75		16	
+		"PRIDE, Jo (DEM)"	366	247	67.49		119	32.51		366	
+		"MANFIELD, William ()"	3	0	0.00		3	100.00		3	
+		"DRUMMOND, Michelle (GRN)"	72	60	83.33		12	16.67		72	
+		"PIECHNICK, Daniel (HAN)"	23	9	39.13		14	60.87		23	
+		"KING, Jack (IND)"	6	2	33.33		4	66.67		6	
+		Total	486	788	43.54		1022	56.46		1810	
+
+	West Brighton										
+			1st Prefs	304	24.50		937	75.50		1241	
+		"STARLING, Paul (IND)"	6	3	50.00		3	50.00		6	
+		"PRIDE, Jo (DEM)"	241	155	64.32		86	35.68		241	
+		"MANFIELD, William ()"	5	1	20.00		4	80.00		5	
+		"DRUMMOND, Michelle (GRN)"	37	27	72.97		10	27.03		37	
+		"PIECHNICK, Daniel (HAN)"	26	13	50.00		13	50.00		26	
+		"KING, Jack (IND)"	7	4	57.14		3	42.86		7	
+		Total	322	507	32.44		1056	67.56		1563	
+
+	Special Hospitals										
+			1st Prefs	165	30.67		373	69.33		538	
+		"STARLING, Paul (IND)"	5	4	80.00		1	20.00		5	
+		"PRIDE, Jo (DEM)"	31	14	45.16		17	54.84		31	
+		"MANFIELD, William ()"	1	1	100.00		0	0.00		1	
+		"DRUMMOND, Michelle (GRN)"	3	1	33.33		2	66.67		3	
+		"PIECHNICK, Daniel (HAN)"	11	6	54.55		5	45.45		11	
+		"KING, Jack (IND)"	4	1	25.00		3	75.00		4	
+		Total	55	192	32.38		401	67.62		593	
+
+	Total Ordinary										
+			1st Prefs	18073	34.93		33674	65.07		51747	
+		"STARLING, Paul (IND)"	370	192	51.89		178	48.11		370	
+		"PRIDE, Jo (DEM)"	13842	8996	64.99		4846	35.01		13842	
+		"MANFIELD, William ()"	120	66	55.00		54	45.00		120	
+		"DRUMMOND, Michelle (GRN)"	2065	1559	75.50		506	24.50		2065	
+		"PIECHNICK, Daniel (HAN)"	1846	1031	55.85		815	44.15		1846	
+		"KING, Jack (IND)"	385	188	48.83		197	51.17		385	
+		Total	18628	30105	42.78		40270	57.22		70375	
+
+	ABSENT										
+			1st Prefs	1213	37.12		2055	62.88		3268	
+		"STARLING, Paul (IND)"	60	38	63.33		22	36.67		60	
+		"PRIDE, Jo (DEM)"	1066	670	62.85		396	37.15		1066	
+		"MANFIELD, William ()"	20	14	70.00		6	30.00		20	
+		"DRUMMOND, Michelle (GRN)"	241	182	75.52		59	24.48		241	
+		"PIECHNICK, Daniel (HAN)"	101	41	40.59		60	59.41		101	
+		"KING, Jack (IND)"	38	18	47.37		20	52.63		38	
+		Total	1526	2176	45.39		2618	54.61		4794	
+
+	POSTAL										
+			1st Prefs	756	29.82		1779	70.18		2535	
+		"STARLING, Paul (IND)"	15	8	53.33		7	46.67		15	
+		"PRIDE, Jo (DEM)"	347	211	60.81		136	39.19		347	
+		"MANFIELD, William ()"	5	2	40.00		3	60.00		5	
+		"DRUMMOND, Michelle (GRN)"	64	45	70.31		19	29.69		64	
+		"PIECHNICK, Daniel (HAN)"	97	46	47.42		51	52.58		97	
+		"KING, Jack (IND)"	5	1	20.00		4	80.00		5	
+		Total	533	1069	34.84		1999	65.16		3068	
+
+	PRE_POLL										
+			1st Prefs	839	33.89		1637	66.11		2476	
+		"STARLING, Paul (IND)"	19	9	47.37		10	52.63		19	
+		"PRIDE, Jo (DEM)"	616	403	65.42		213	34.58		616	
+		"MANFIELD, William ()"	6	3	50.00		3	50.00		6	
+		"DRUMMOND, Michelle (GRN)"	134	95	70.90		39	29.10		134	
+		"PIECHNICK, Daniel (HAN)"	97	57	58.76		40	41.24		97	
+		"KING, Jack (IND)"	11	5	45.45		6	54.55		11	
+		Total	883	1411	42.01		1948	57.99		3359	
+
+	PROVISIONAL										
+			1st Prefs	95	45.67		113	54.33		208	
+		"STARLING, Paul (IND)"	4	3	75.00		1	25.00		4	
+		"PRIDE, Jo (DEM)"	80	53	66.25		27	33.75		80	
+		"MANFIELD, William ()"	3	3	100.00		0	0.00		3	
+		"DRUMMOND, Michelle (GRN)"	12	9	75.00		3	25.00		12	
+		"PIECHNICK, Daniel (HAN)"	10	7	70.00		3	30.00		10	
+		"KING, Jack (IND)"	2	2	100.00		0	0.00		2	
+		Total	111	172	53.92		147	46.08		319	
+
+	Division Summary										
+			1st Prefs	20976	34.82		39258	65.18		60234	
+		"STARLING, Paul (IND)"	468	250	53.42		218	46.58		468	
+		"PRIDE, Jo (DEM)"	15951	10333	64.78		5618	35.22		15951	
+		"MANFIELD, William ()"	154	88	57.14		66	42.86		154	
+		"DRUMMOND, Michelle (GRN)"	2516	1890	75.12		626	24.88		2516	
+		"PIECHNICK, Daniel (HAN)"	2151	1182	54.95		969	45.05		2151	
+		"KING, Jack (IND)"	441	214	48.53		227	51.47		441	
+		Total	21681	34933	42.65		46982	57.35		81915	

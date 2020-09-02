@@ -1,0 +1,199 @@
+General Information: Election 2001 - National	
+Enrolment Statistics	
+By Division	
+
+National Summary	
+State	Enrolment
+New South Wales	4227937
+Victoria	3234874
+Queensland	2336698
+Western Australia	1206422
+South Australia	1039025
+Tasmania	331675
+Australian Capital Territory	221184
+Northern Territory	111022
+National Total	12708837
+
+New South Wales	
+Division	Enrolment
+Banks	83122
+Barton	84752
+Bennelong	86896
+Berowra	85766
+Blaxland	82779
+Bradfield	89832
+Calare	85310
+Charlton	83459
+Chifley	83474
+Cook	82150
+Cowper	79982
+Cunningham	81540
+Dobell	82002
+Eden-Monaro	85815
+Farrer	84423
+Fowler	82745
+Gilmore	83909
+Grayndler	86146
+Greenway	85876
+Gwydir	84602
+Hughes	85741
+Hume	85640
+Hunter	84649
+Kingsford Smith	86647
+Lindsay	81618
+Lowe	83707
+Lyne	86901
+Macarthur	80127
+Mackellar	86505
+Macquarie	86364
+Mitchell	86647
+Newcastle	89198
+New England	84941
+North Sydney	88755
+Page	82272
+Parkes	83036
+Parramatta	87286
+Paterson	82782
+Prospect	86641
+Reid	77031
+Richmond	81312
+Riverina	87399
+Robertson	84366
+Shortland	86261
+Sydney	86143
+Throsby	84412
+Warringah	85405
+Watson	81961
+Wentworth	86457
+Werriwa	83153
+State Total	4227937
+
+Victoria	
+Division	Enrolment
+Aston	90211
+Ballarat	85877
+Batman	89998
+Bendigo	88150
+Bruce	85447
+Burke	88943
+Calwell	98330
+Casey	85278
+Chisholm	86680
+Corangamite	85955
+Corio	85836
+Deakin	85208
+Dunkley	85129
+Flinders	91403
+Gellibrand	86496
+Gippsland	83845
+Goldstein	89948
+Higgins	88043
+Holt	88172
+Hotham	89090
+Indi	85758
+Isaacs	82675
+Jagajaga	88073
+Kooyong	87128
+Lalor	89277
+La Trobe	88269
+McEwen	89021
+McMillan	85551
+Mallee	81774
+Maribyrnong	83750
+Melbourne	95848
+Melbourne Ports	89113
+Menzies	84613
+Murray	85651
+Scullin	88866
+Wannon	82915
+Wills	88553
+State Total	3234874
+
+Queensland	
+Division	Enrolment
+Blair	76853
+Bowman	87122
+Brisbane	95781
+Capricornia	81499
+Dawson	87405
+Dickson	88001
+Fadden	86004
+Fairfax	84217
+Fisher	85315
+Forde	86672
+Griffith	92367
+Groom	84838
+Herbert	90904
+Hinkler	81566
+Kennedy	84739
+Leichhardt	85689
+Lilley	87642
+Longman	83408
+McPherson	94653
+Maranoa	84022
+Moncrieff	89483
+Moreton	89254
+Oxley	84787
+Petrie	89711
+Rankin	85204
+Ryan	88171
+Wide Bay	81391
+State Total	2336698
+
+Western Australia	
+Division	Enrolment
+Brand	78366
+Canning	76632
+Cowan	79648
+Curtin	82561
+Forrest	82248
+Fremantle	80927
+Hasluck	78418
+Kalgoorlie	82534
+Moore	74103
+O'Connor	83118
+Pearce	77880
+Perth	82049
+Stirling	85975
+Swan	78991
+Tangney	82972
+State Total	1206422
+
+South Australia	
+Division	Enrolment
+Adelaide	86538
+Barker	87836
+Bonython	85484
+Boothby	89617
+Grey	85745
+Hindmarsh	84806
+Kingston	85398
+Makin	88248
+Mayo	86319
+Port Adelaide	86297
+Sturt	86359
+Wakefield	86378
+State Total	1039025
+
+Tasmania	
+Division	Enrolment
+Bass	65927
+Braddon	67749
+Denison	67938
+Franklin	67119
+Lyons	62942
+State Total	331675
+
+Australian Capital Territory	
+Division	Enrolment
+Canberra	108959
+Fraser	112225
+Territory Total	221184
+
+Northern Territory	
+Division	Enrolment
+Lingiari	57077
+Solomon	53945
+Territory Total	111022
+	
+National Total	12708837

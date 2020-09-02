@@ -1,0 +1,417 @@
+House of Representatives - 2001 Election: New South Wales											
+Two Candidate Preferred Preference Flow Result											
+By Polling Place by Division											
+											
+Reid (77031)											
+		Candidate		"YUSUF, Irfan"		               	"FERGUSON, Laurie"		           	Total	
+				LP		                         	ALP		                        		
+				Votes	%	                     	Votes	%	                     		
+	Auburn										
+			1st Prefs	177	22.13		623	77.88		800	
+		"CHAMAS, Habib (UNI)"	34	17	50.00		17	50.00		34	
+		"ARCHER, Adrian Peter (DEM)"	38	25	65.79		13	34.21		38	
+		"MAXWELL, Steve (GRN)"	28	15	53.57		13	46.43		28	
+		"LEDERMANN, Uwe (CTA)"	11	7	63.64		4	36.36		11	
+		"MACDONALD, Lisa ()"	22	10	45.45		12	54.55		22	
+		"O'CONNOR, Shane (HAN)"	17	10	58.82		7	41.18		17	
+		Total	150	261	27.47		689	72.53		950	
+
+	Auburn East										
+			1st Prefs	143	28.83		353	71.17		496	
+		"CHAMAS, Habib (UNI)"	20	6	30.00		14	70.00		20	
+		"ARCHER, Adrian Peter (DEM)"	28	10	35.71		18	64.29		28	
+		"MAXWELL, Steve (GRN)"	20	7	35.00		13	65.00		20	
+		"LEDERMANN, Uwe (CTA)"	20	12	60.00		8	40.00		20	
+		"MACDONALD, Lisa ()"	10	7	70.00		3	30.00		10	
+		"O'CONNOR, Shane (HAN)"	36	21	58.33		15	41.67		36	
+		Total	134	206	32.70		424	67.30		630	
+
+	Auburn Hospital										
+			1st Prefs	137	22.24		479	77.76		616	
+		"CHAMAS, Habib (UNI)"	40	19	47.50		21	52.50		40	
+		"ARCHER, Adrian Peter (DEM)"	23	11	47.83		12	52.17		23	
+		"MAXWELL, Steve (GRN)"	28	7	25.00		21	75.00		28	
+		"LEDERMANN, Uwe (CTA)"	12	9	75.00		3	25.00		12	
+		"MACDONALD, Lisa ()"	8	3	37.50		5	62.50		8	
+		"O'CONNOR, Shane (HAN)"	24	16	66.67		8	33.33		24	
+		Total	135	202	26.90		549	73.10		751	
+
+	Auburn North										
+			1st Prefs	231	17.16		1115	82.84		1346	
+		"CHAMAS, Habib (UNI)"	96	37	38.54		59	61.46		96	
+		"ARCHER, Adrian Peter (DEM)"	45	14	31.11		31	68.89		45	
+		"MAXWELL, Steve (GRN)"	43	9	20.93		34	79.07		43	
+		"LEDERMANN, Uwe (CTA)"	11	4	36.36		7	63.64		11	
+		"MACDONALD, Lisa ()"	16	4	25.00		12	75.00		16	
+		"O'CONNOR, Shane (HAN)"	30	21	70.00		9	30.00		30	
+		Total	241	320	20.16		1267	79.84		1587	
+
+	Auburn West										
+			1st Prefs	442	20.71		1692	79.29		2134	
+		"CHAMAS, Habib (UNI)"	184	89	48.37		95	51.63		184	
+		"ARCHER, Adrian Peter (DEM)"	66	25	37.88		41	62.12		66	
+		"MAXWELL, Steve (GRN)"	91	25	27.47		66	72.53		91	
+		"LEDERMANN, Uwe (CTA)"	35	19	54.29		16	45.71		35	
+		"MACDONALD, Lisa ()"	46	14	30.43		32	69.57		46	
+		"O'CONNOR, Shane (HAN)"	131	69	52.67		62	47.33		131	
+		Total	553	683	25.42		2004	74.58		2687	
+
+	Berala										
+			1st Prefs	519	20.45		2019	79.55		2538	
+		"CHAMAS, Habib (UNI)"	194	73	37.63		121	62.37		194	
+		"ARCHER, Adrian Peter (DEM)"	101	42	41.58		59	58.42		101	
+		"MAXWELL, Steve (GRN)"	88	34	38.64		54	61.36		88	
+		"LEDERMANN, Uwe (CTA)"	59	40	67.80		19	32.20		59	
+		"MACDONALD, Lisa ()"	53	20	37.74		33	62.26		53	
+		"O'CONNOR, Shane (HAN)"	134	73	54.48		61	45.52		134	
+		Total	629	801	25.29		2366	74.71		3167	
+
+	Blaxcell										
+			1st Prefs	716	20.87		2715	79.13		3431	
+		"CHAMAS, Habib (UNI)"	204	147	72.06		57	27.94		204	
+		"ARCHER, Adrian Peter (DEM)"	85	38	44.71		47	55.29		85	
+		"MAXWELL, Steve (GRN)"	87	27	31.03		60	68.97		87	
+		"LEDERMANN, Uwe (CTA)"	112	86	76.79		26	23.21		112	
+		"MACDONALD, Lisa ()"	84	27	32.14		57	67.86		84	
+		"O'CONNOR, Shane (HAN)"	243	167	68.72		76	31.28		243	
+		Total	815	1208	28.45		3038	71.55		4246	
+
+	Cardinal Gilroy Village										
+			1st Prefs	134	41.10		192	58.90		326	
+		"CHAMAS, Habib (UNI)"	15	9	60.00		6	40.00		15	
+		"ARCHER, Adrian Peter (DEM)"	8	4	50.00		4	50.00		8	
+		"MAXWELL, Steve (GRN)"	5	2	40.00		3	60.00		5	
+		"LEDERMANN, Uwe (CTA)"	9	5	55.56		4	44.44		9	
+		"MACDONALD, Lisa ()"	3	3	100.00		0	0.00		3	
+		"O'CONNOR, Shane (HAN)"	25	21	84.00		4	16.00		25	
+		Total	65	178	45.52		213	54.48		391	
+
+	Fowler Road										
+			1st Prefs	703	36.13		1243	63.87		1946	
+		"CHAMAS, Habib (UNI)"	86	60	69.77		26	30.23		86	
+		"ARCHER, Adrian Peter (DEM)"	80	27	33.75		53	66.25		80	
+		"MAXWELL, Steve (GRN)"	60	20	33.33		40	66.67		60	
+		"LEDERMANN, Uwe (CTA)"	59	44	74.58		15	25.42		59	
+		"MACDONALD, Lisa ()"	32	9	28.13		23	71.88		32	
+		"O'CONNOR, Shane (HAN)"	190	127	66.84		63	33.16		190	
+		Total	507	990	40.36		1463	59.64		2453	
+
+	Granville										
+			1st Prefs	506	22.13		1780	77.87		2286	
+		"CHAMAS, Habib (UNI)"	176	87	49.43		89	50.57		176	
+		"ARCHER, Adrian Peter (DEM)"	78	26	33.33		52	66.67		78	
+		"MAXWELL, Steve (GRN)"	91	29	31.87		62	68.13		91	
+		"LEDERMANN, Uwe (CTA)"	87	51	58.62		36	41.38		87	
+		"MACDONALD, Lisa ()"	48	20	41.67		28	58.33		48	
+		"O'CONNOR, Shane (HAN)"	91	54	59.34		37	40.66		91	
+		Total	571	773	27.06		2084	72.94		2857	
+
+	Granville North (Reid)										
+			1st Prefs	141	27.12		379	72.88		520	
+		"CHAMAS, Habib (UNI)"	33	17	51.52		16	48.48		33	
+		"ARCHER, Adrian Peter (DEM)"	19	8	42.11		11	57.89		19	
+		"MAXWELL, Steve (GRN)"	17	12	70.59		5	29.41		17	
+		"LEDERMANN, Uwe (CTA)"	14	9	64.29		5	35.71		14	
+		"MACDONALD, Lisa ()"	6	3	50.00		3	50.00		6	
+		"O'CONNOR, Shane (HAN)"	20	12	60.00		8	40.00		20	
+		Total	109	202	32.11		427	67.89		629	
+
+	Granville South										
+			1st Prefs	372	28.48		934	71.52		1306	
+		"CHAMAS, Habib (UNI)"	93	55	59.14		38	40.86		93	
+		"ARCHER, Adrian Peter (DEM)"	49	21	42.86		28	57.14		49	
+		"MAXWELL, Steve (GRN)"	39	14	35.90		25	64.10		39	
+		"LEDERMANN, Uwe (CTA)"	30	15	50.00		15	50.00		30	
+		"MACDONALD, Lisa ()"	20	10	50.00		10	50.00		20	
+		"O'CONNOR, Shane (HAN)"	96	55	57.29		41	42.71		96	
+		Total	327	542	33.19		1091	66.81		1633	
+
+	Guildford										
+			1st Prefs	444	29.66		1053	70.34		1497	
+		"CHAMAS, Habib (UNI)"	90	53	58.89		37	41.11		90	
+		"ARCHER, Adrian Peter (DEM)"	60	18	30.00		42	70.00		60	
+		"MAXWELL, Steve (GRN)"	51	17	33.33		34	66.67		51	
+		"LEDERMANN, Uwe (CTA)"	59	38	64.41		21	35.59		59	
+		"MACDONALD, Lisa ()"	26	16	61.54		10	38.46		26	
+		"O'CONNOR, Shane (HAN)"	103	65	63.11		38	36.89		103	
+		Total	389	651	34.52		1235	65.48		1886	
+
+	Guildford East										
+			1st Prefs	439	31.49		955	68.51		1394	
+		"CHAMAS, Habib (UNI)"	85	60	70.59		25	29.41		85	
+		"ARCHER, Adrian Peter (DEM)"	58	22	37.93		36	62.07		58	
+		"MAXWELL, Steve (GRN)"	45	20	44.44		25	55.56		45	
+		"LEDERMANN, Uwe (CTA)"	62	47	75.81		15	24.19		62	
+		"MACDONALD, Lisa ()"	23	12	52.17		11	47.83		23	
+		"O'CONNOR, Shane (HAN)"	109	59	54.13		50	45.87		109	
+		Total	382	659	37.11		1117	62.89		1776	
+
+	Guildford West										
+			1st Prefs	665	35.56		1205	64.44		1870	
+		"CHAMAS, Habib (UNI)"	55	41	74.55		14	25.45		55	
+		"ARCHER, Adrian Peter (DEM)"	82	33	40.24		49	59.76		82	
+		"MAXWELL, Steve (GRN)"	61	19	31.15		42	68.85		61	
+		"LEDERMANN, Uwe (CTA)"	47	30	63.83		17	36.17		47	
+		"MACDONALD, Lisa ()"	38	18	47.37		20	52.63		38	
+		"O'CONNOR, Shane (HAN)"	301	215	71.43		86	28.57		301	
+		Total	584	1021	41.61		1433	58.39		2454	
+
+	Hilltop Road										
+			1st Prefs	983	36.64		1700	63.36		2683	
+		"CHAMAS, Habib (UNI)"	147	105	71.43		42	28.57		147	
+		"ARCHER, Adrian Peter (DEM)"	115	40	34.78		75	65.22		115	
+		"MAXWELL, Steve (GRN)"	89	35	39.33		54	60.67		89	
+		"LEDERMANN, Uwe (CTA)"	107	76	71.03		31	28.97		107	
+		"MACDONALD, Lisa ()"	51	25	49.02		26	50.98		51	
+		"O'CONNOR, Shane (HAN)"	254	174	68.50		80	31.50		254	
+		Total	763	1438	41.73		2008	58.27		3446	
+
+	Hyde Park										
+			1st Prefs	477	29.70		1129	70.30		1606	
+		"CHAMAS, Habib (UNI)"	86	40	46.51		46	53.49		86	
+		"ARCHER, Adrian Peter (DEM)"	101	47	46.53		54	53.47		101	
+		"MAXWELL, Steve (GRN)"	60	23	38.33		37	61.67		60	
+		"LEDERMANN, Uwe (CTA)"	60	40	66.67		20	33.33		60	
+		"MACDONALD, Lisa ()"	25	10	40.00		15	60.00		25	
+		"O'CONNOR, Shane (HAN)"	111	65	58.56		46	41.44		111	
+		Total	443	702	34.26		1347	65.74		2049	
+
+	Lidcombe										
+			1st Prefs	772	24.45		2385	75.55		3157	
+		"CHAMAS, Habib (UNI)"	249	95	38.15		154	61.85		249	
+		"ARCHER, Adrian Peter (DEM)"	167	68	40.72		99	59.28		167	
+		"MAXWELL, Steve (GRN)"	148	47	31.76		101	68.24		148	
+		"LEDERMANN, Uwe (CTA)"	57	41	71.93		16	28.07		57	
+		"MACDONALD, Lisa ()"	47	20	42.55		27	57.45		47	
+		"O'CONNOR, Shane (HAN)"	189	125	66.14		64	33.86		189	
+		Total	857	1168	29.10		2846	70.90		4014	
+
+	Lidcombe South										
+			1st Prefs	291	26.22		819	73.78		1110	
+		"CHAMAS, Habib (UNI)"	85	35	41.18		50	58.82		85	
+		"ARCHER, Adrian Peter (DEM)"	34	13	38.24		21	61.76		34	
+		"MAXWELL, Steve (GRN)"	33	15	45.45		18	54.55		33	
+		"LEDERMANN, Uwe (CTA)"	27	16	59.26		11	40.74		27	
+		"MACDONALD, Lisa ()"	18	10	55.56		8	44.44		18	
+		"O'CONNOR, Shane (HAN)"	69	34	49.28		35	50.72		69	
+		Total	266	414	30.09		962	69.91		1376	
+
+	Merrylands										
+			1st Prefs	385	29.78		908	70.22		1293	
+		"CHAMAS, Habib (UNI)"	74	57	77.03		17	22.97		74	
+		"ARCHER, Adrian Peter (DEM)"	61	31	50.82		30	49.18		61	
+		"MAXWELL, Steve (GRN)"	45	20	44.44		25	55.56		45	
+		"LEDERMANN, Uwe (CTA)"	53	40	75.47		13	24.53		53	
+		"MACDONALD, Lisa ()"	31	9	29.03		22	70.97		31	
+		"O'CONNOR, Shane (HAN)"	74	45	60.81		29	39.19		74	
+		Total	338	587	35.99		1044	64.01		1631	
+
+	Merrylands East										
+			1st Prefs	471	32.91		960	67.09		1431	
+		"CHAMAS, Habib (UNI)"	65	36	55.38		29	44.62		65	
+		"ARCHER, Adrian Peter (DEM)"	48	15	31.25		33	68.75		48	
+		"MAXWELL, Steve (GRN)"	48	18	37.50		30	62.50		48	
+		"LEDERMANN, Uwe (CTA)"	44	34	77.27		10	22.73		44	
+		"MACDONALD, Lisa ()"	26	16	61.54		10	38.46		26	
+		"O'CONNOR, Shane (HAN)"	88	57	64.77		31	35.23		88	
+		Total	319	647	36.97		1103	63.03		1750	
+
+	Merrylands North										
+			1st Prefs	511	31.54		1109	68.46		1620	
+		"CHAMAS, Habib (UNI)"	78	48	61.54		30	38.46		78	
+		"ARCHER, Adrian Peter (DEM)"	72	36	50.00		36	50.00		72	
+		"MAXWELL, Steve (GRN)"	54	18	33.33		36	66.67		54	
+		"LEDERMANN, Uwe (CTA)"	44	26	59.09		18	40.91		44	
+		"MACDONALD, Lisa ()"	16	12	75.00		4	25.00		16	
+		"O'CONNOR, Shane (HAN)"	83	47	56.63		36	43.37		83	
+		Total	347	698	35.49		1269	64.51		1967	
+
+	Merrylands West										
+			1st Prefs	126	32.47		262	67.53		388	
+		"CHAMAS, Habib (UNI)"	13	11	84.62		2	15.38		13	
+		"ARCHER, Adrian Peter (DEM)"	18	4	22.22		14	77.78		18	
+		"MAXWELL, Steve (GRN)"	20	12	60.00		8	40.00		20	
+		"LEDERMANN, Uwe (CTA)"	11	11	100.00		0	0.00		11	
+		"MACDONALD, Lisa ()"	7	5	71.43		2	28.57		7	
+		"O'CONNOR, Shane (HAN)"	45	21	46.67		24	53.33		45	
+		Total	114	190	37.85		312	62.15		502	
+
+	Monterey Street										
+			1st Prefs	83	34.02		161	65.98		244	
+		"CHAMAS, Habib (UNI)"	12	8	66.67		4	33.33		12	
+		"ARCHER, Adrian Peter (DEM)"	6	3	50.00		3	50.00		6	
+		"MAXWELL, Steve (GRN)"	9	6	66.67		3	33.33		9	
+		"LEDERMANN, Uwe (CTA)"	5	2	40.00		3	60.00		5	
+		"MACDONALD, Lisa ()"	5	3	60.00		2	40.00		5	
+		"O'CONNOR, Shane (HAN)"	19	13	68.42		6	31.58		19	
+		Total	56	118	39.33		182	60.67		300	
+
+	Old Guildford										
+			1st Prefs	211	29.59		502	70.41		713	
+		"CHAMAS, Habib (UNI)"	35	25	71.43		10	28.57		35	
+		"ARCHER, Adrian Peter (DEM)"	29	13	44.83		16	55.17		29	
+		"MAXWELL, Steve (GRN)"	13	7	53.85		6	46.15		13	
+		"LEDERMANN, Uwe (CTA)"	22	13	59.09		9	40.91		22	
+		"MACDONALD, Lisa ()"	12	6	50.00		6	50.00		12	
+		"O'CONNOR, Shane (HAN)"	44	28	63.64		16	36.36		44	
+		Total	155	303	34.91		565	65.09		868	
+
+	Rawson										
+			1st Prefs	223	29.89		523	70.11		746	
+		"CHAMAS, Habib (UNI)"	25	16	64.00		9	36.00		25	
+		"ARCHER, Adrian Peter (DEM)"	24	14	58.33		10	41.67		24	
+		"MAXWELL, Steve (GRN)"	24	7	29.17		17	70.83		24	
+		"LEDERMANN, Uwe (CTA)"	14	10	71.43		4	28.57		14	
+		"MACDONALD, Lisa ()"	8	5	62.50		3	37.50		8	
+		"O'CONNOR, Shane (HAN)"	83	54	65.06		29	34.94		83	
+		Total	178	329	35.61		595	64.39		924	
+
+	Regents Park										
+			1st Prefs	246	23.27		811	76.73		1057	
+		"CHAMAS, Habib (UNI)"	54	17	31.48		37	68.52		54	
+		"ARCHER, Adrian Peter (DEM)"	48	17	35.42		31	64.58		48	
+		"MAXWELL, Steve (GRN)"	26	8	30.77		18	69.23		26	
+		"LEDERMANN, Uwe (CTA)"	44	29	65.91		15	34.09		44	
+		"MACDONALD, Lisa ()"	13	6	46.15		7	53.85		13	
+		"O'CONNOR, Shane (HAN)"	75	43	57.33		32	42.67		75	
+		Total	260	366	27.79		951	72.21		1317	
+
+	Sherwood Grange										
+			1st Prefs	447	41.01		643	58.99		1090	
+		"CHAMAS, Habib (UNI)"	41	26	63.41		15	36.59		41	
+		"ARCHER, Adrian Peter (DEM)"	50	24	48.00		26	52.00		50	
+		"MAXWELL, Steve (GRN)"	34	15	44.12		19	55.88		34	
+		"LEDERMANN, Uwe (CTA)"	37	23	62.16		14	37.84		37	
+		"MACDONALD, Lisa ()"	13	5	38.46		8	61.54		13	
+		"O'CONNOR, Shane (HAN)"	88	40	45.45		48	54.55		88	
+		Total	263	580	42.87		773	57.13		1353	
+
+	Silverwater										
+			1st Prefs	255	31.52		554	68.48		809	
+		"CHAMAS, Habib (UNI)"	41	25	60.98		16	39.02		41	
+		"ARCHER, Adrian Peter (DEM)"	38	16	42.11		22	57.89		38	
+		"MAXWELL, Steve (GRN)"	37	7	18.92		30	81.08		37	
+		"LEDERMANN, Uwe (CTA)"	10	7	70.00		3	30.00		10	
+		"MACDONALD, Lisa ()"	14	8	57.14		6	42.86		14	
+		"O'CONNOR, Shane (HAN)"	39	18	46.15		21	53.85		39	
+		Total	179	336	34.01		652	65.99		988	
+
+	Sydney (Reid)										
+			1st Prefs	33	39.29		51	60.71		84	
+		"CHAMAS, Habib (UNI)"	0	0	0.00		0	0.00		0	
+		"ARCHER, Adrian Peter (DEM)"	10	3	30.00		7	70.00		10	
+		"MAXWELL, Steve (GRN)"	4	2	50.00		2	50.00		4	
+		"LEDERMANN, Uwe (CTA)"	3	2	66.67		1	33.33		3	
+		"MACDONALD, Lisa ()"	5	3	60.00		2	40.00		5	
+		"O'CONNOR, Shane (HAN)"	2	0	0.00		2	100.00		2	
+		Total	24	43	39.81		65	60.19		108	
+
+	Trinity Auburn										
+			1st Prefs	599	22.86		2021	77.14		2620	
+		"CHAMAS, Habib (UNI)"	174	71	40.80		103	59.20		174	
+		"ARCHER, Adrian Peter (DEM)"	81	35	43.21		46	56.79		81	
+		"MAXWELL, Steve (GRN)"	151	32	21.19		119	78.81		151	
+		"LEDERMANN, Uwe (CTA)"	58	35	60.34		23	39.66		58	
+		"MACDONALD, Lisa ()"	43	17	39.53		26	60.47		43	
+		"O'CONNOR, Shane (HAN)"	73	37	50.68		36	49.32		73	
+		Total	580	826	25.81		2374	74.19		3200	
+
+	Wentworthville South										
+			1st Prefs	190	38.93		298	61.07		488	
+		"CHAMAS, Habib (UNI)"	16	10	62.50		6	37.50		16	
+		"ARCHER, Adrian Peter (DEM)"	25	13	52.00		12	48.00		25	
+		"MAXWELL, Steve (GRN)"	11	6	54.55		5	45.45		11	
+		"LEDERMANN, Uwe (CTA)"	24	19	79.17		5	20.83		24	
+		"MACDONALD, Lisa ()"	12	6	50.00		6	50.00		12	
+		"O'CONNOR, Shane (HAN)"	49	32	65.31		17	34.69		49	
+		Total	137	276	44.16		349	55.84		625	
+
+	Yennora (Reid)										
+			1st Prefs	108	22.59		370	77.41		478	
+		"CHAMAS, Habib (UNI)"	47	32	68.09		15	31.91		47	
+		"ARCHER, Adrian Peter (DEM)"	17	12	70.59		5	29.41		17	
+		"MAXWELL, Steve (GRN)"	20	11	55.00		9	45.00		20	
+		"LEDERMANN, Uwe (CTA)"	11	7	63.64		4	36.36		11	
+		"MACDONALD, Lisa ()"	6	4	66.67		2	33.33		6	
+		"O'CONNOR, Shane (HAN)"	32	20	62.50		12	37.50		32	
+		Total	133	194	31.75		417	68.25		611	
+
+	Prison Mobiles										
+			1st Prefs	0	0.00		1	100.00		1	
+		"CHAMAS, Habib (UNI)"	1	1	100.00		0	0.00		1	
+		"ARCHER, Adrian Peter (DEM)"	0	0	0.00		0	0.00		0	
+		"MAXWELL, Steve (GRN)"	0	0	0.00		0	0.00		0	
+		"LEDERMANN, Uwe (CTA)"	0	0	0.00		0	0.00		0	
+		"MACDONALD, Lisa ()"	0	0	0.00		0	0.00		0	
+		"O'CONNOR, Shane (HAN)"	0	0	0.00		0	0.00		0	
+		Total	1	1	50.00		1	50.00		2	
+
+	Special Hospitals										
+			1st Prefs	41	36.28		72	63.72		113	
+		"CHAMAS, Habib (UNI)"	12	9	75.00		3	25.00		12	
+		"ARCHER, Adrian Peter (DEM)"	4	1	25.00		3	75.00		4	
+		"MAXWELL, Steve (GRN)"	1	1	100.00		0	0.00		1	
+		"LEDERMANN, Uwe (CTA)"	2	0	0.00		2	100.00		2	
+		"MACDONALD, Lisa ()"	2	2	100.00		0	0.00		2	
+		"O'CONNOR, Shane (HAN)"	6	1	16.67		5	83.33		6	
+		Total	27	55	39.29		85	60.71		140	
+
+	Total Ordinary										
+			1st Prefs	12221	27.63		32016	72.37		44237	
+		"CHAMAS, Habib (UNI)"	2660	1437	54.02		1223	45.98		2660	
+		"ARCHER, Adrian Peter (DEM)"	1768	729	41.23		1039	58.77		1768	
+		"MAXWELL, Steve (GRN)"	1581	547	34.60		1034	65.40		1581	
+		"LEDERMANN, Uwe (CTA)"	1260	847	67.22		413	32.78		1260	
+		"MACDONALD, Lisa ()"	789	348	44.11		441	55.89		789	
+		"O'CONNOR, Shane (HAN)"	2973	1839	61.86		1134	38.14		2973	
+		Total	11031	17968	32.51		37300	67.49		55268	
+
+	ABSENT										
+			1st Prefs	1033	35.09		1911	64.91		2944	
+		"CHAMAS, Habib (UNI)"	249	174	69.88		75	30.12		249	
+		"ARCHER, Adrian Peter (DEM)"	260	113	43.46		147	56.54		260	
+		"MAXWELL, Steve (GRN)"	223	78	34.98		145	65.02		223	
+		"LEDERMANN, Uwe (CTA)"	143	91	63.64		52	36.36		143	
+		"MACDONALD, Lisa ()"	87	44	50.57		43	49.43		87	
+		"O'CONNOR, Shane (HAN)"	229	120	52.40		109	47.60		229	
+		Total	1191	1653	39.98		2482	60.02		4135	
+
+	POSTAL										
+			1st Prefs	625	32.84		1278	67.16		1903	
+		"CHAMAS, Habib (UNI)"	38	24	63.16		14	36.84		38	
+		"ARCHER, Adrian Peter (DEM)"	51	29	56.86		22	43.14		51	
+		"MAXWELL, Steve (GRN)"	40	13	32.50		27	67.50		40	
+		"LEDERMANN, Uwe (CTA)"	48	34	70.83		14	29.17		48	
+		"MACDONALD, Lisa ()"	13	4	30.77		9	69.23		13	
+		"O'CONNOR, Shane (HAN)"	173	91	52.60		82	47.40		173	
+		Total	363	820	36.19		1446	63.81		2266	
+
+	PRE_POLL										
+			1st Prefs	440	28.57		1100	71.43		1540	
+		"CHAMAS, Habib (UNI)"	89	56	62.92		33	37.08		89	
+		"ARCHER, Adrian Peter (DEM)"	96	44	45.83		52	54.17		96	
+		"MAXWELL, Steve (GRN)"	68	22	32.35		46	67.65		68	
+		"LEDERMANN, Uwe (CTA)"	45	30	66.67		15	33.33		45	
+		"MACDONALD, Lisa ()"	21	5	23.81		16	76.19		21	
+		"O'CONNOR, Shane (HAN)"	94	52	55.32		42	44.68		94	
+		Total	413	649	33.23		1304	66.77		1953	
+
+	PROVISIONAL										
+			1st Prefs	45	21.03		169	78.97		214	
+		"CHAMAS, Habib (UNI)"	20	16	80.00		4	20.00		20	
+		"ARCHER, Adrian Peter (DEM)"	8	3	37.50		5	62.50		8	
+		"MAXWELL, Steve (GRN)"	8	3	37.50		5	62.50		8	
+		"LEDERMANN, Uwe (CTA)"	6	2	33.33		4	66.67		6	
+		"MACDONALD, Lisa ()"	6	2	33.33		4	66.67		6	
+		"O'CONNOR, Shane (HAN)"	7	4	57.14		3	42.86		7	
+		Total	55	75	27.88		194	72.12		269	
+
+	Division Summary										
+			1st Prefs	14364	28.25		36474	71.75		50838	
+		"CHAMAS, Habib (UNI)"	3056	1707	55.86		1349	44.14		3056	
+		"ARCHER, Adrian Peter (DEM)"	2183	918	42.05		1265	57.95		2183	
+		"MAXWELL, Steve (GRN)"	1920	663	34.53		1257	65.47		1920	
+		"LEDERMANN, Uwe (CTA)"	1502	1004	66.84		498	33.16		1502	
+		"MACDONALD, Lisa ()"	916	403	44.00		513	56.00		916	
+		"O'CONNOR, Shane (HAN)"	3476	2106	60.59		1370	39.41		3476	
+		Total	13053	21165	33.13		42726	66.87		63891	

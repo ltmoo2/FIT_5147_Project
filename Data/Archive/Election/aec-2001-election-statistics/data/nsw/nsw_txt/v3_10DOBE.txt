@@ -1,0 +1,455 @@
+House of Representatives - 2001 Election: New South Wales											
+Two Candidate Preferred Preference Flow Result 											
+By Polling Place											
+											
+Dobell (82002)											
+		Candidate		"LEE, Michael"		               	"TICEHURST, Ken"		             	Total	
+				ALP		                        	LP		                         		
+				Votes	%	                     	Votes	%	                     		
+	Bateau Bay Central										
+			1st Prefs	345	44.12		437	55.88		782	
+		"HENNIG, Luke (CTA)"	12	1	8.33		11	91.67		12	
+		"KER, Samantha (GRN)"	9	8	88.89		1	11.11		9	
+		"FALCONER, Ron (HAN)"	27	5	18.52		22	81.48		27	
+		"HASTIE, Carolyn (DEM)"	21	14	66.67		7	33.33		21	
+		Total	69	373	43.83		478	56.17		851	
+
+	Bateau Bay East										
+			1st Prefs	829	49.29		853	50.71		1682	
+		"HENNIG, Luke (CTA)"	40	14	35.00		26	65.00		40	
+		"KER, Samantha (GRN)"	59	40	67.80		19	32.20		59	
+		"FALCONER, Ron (HAN)"	99	25	25.25		74	74.75		99	
+		"HASTIE, Carolyn (DEM)"	99	76	76.77		23	23.23		99	
+		Total	297	984	49.72		995	50.28		1979	
+
+	Bateau Bay South										
+			1st Prefs	557	52.50		504	47.50		1061	
+		"HENNIG, Luke (CTA)"	15	5	33.33		10	66.67		15	
+		"KER, Samantha (GRN)"	12	8	66.67		4	33.33		12	
+		"FALCONER, Ron (HAN)"	27	8	29.63		19	70.37		27	
+		"HASTIE, Carolyn (DEM)"	44	32	72.73		12	27.27		44	
+		Total	98	610	52.63		549	47.37		1159	
+
+	Bateau Bay West										
+			1st Prefs	282	76.63		86	23.37		368	
+		"HENNIG, Luke (CTA)"	5	1	20.00		4	80.00		5	
+		"KER, Samantha (GRN)"	11	9	81.82		2	18.18		11	
+		"FALCONER, Ron (HAN)"	14	5	35.71		9	64.29		14	
+		"HASTIE, Carolyn (DEM)"	11	10	90.91		1	9.09		11	
+		Total	41	307	75.06		102	24.94		409	
+
+	Berkeley Vale										
+			1st Prefs	1178	50.15		1171	49.85		2349	
+		"HENNIG, Luke (CTA)"	71	19	26.76		52	73.24		71	
+		"KER, Samantha (GRN)"	53	40	75.47		13	24.53		53	
+		"FALCONER, Ron (HAN)"	135	47	34.81		88	65.19		135	
+		"HASTIE, Carolyn (DEM)"	128	92	71.88		36	28.13		128	
+		Total	387	1376	50.29		1360	49.71		2736	
+
+	Berkeley Vale North										
+			1st Prefs	583	52.48		528	47.52		1111	
+		"HENNIG, Luke (CTA)"	18	5	27.78		13	72.22		18	
+		"KER, Samantha (GRN)"	21	16	76.19		5	23.81		21	
+		"FALCONER, Ron (HAN)"	53	16	30.19		37	69.81		53	
+		"HASTIE, Carolyn (DEM)"	50	37	74.00		13	26.00		50	
+		Total	142	657	52.43		596	47.57		1253	
+
+	Blue Haven										
+			1st Prefs	1025	56.41		792	43.59		1817	
+		"HENNIG, Luke (CTA)"	21	10	47.62		11	52.38		21	
+		"KER, Samantha (GRN)"	48	31	64.58		17	35.42		48	
+		"FALCONER, Ron (HAN)"	105	27	25.71		78	74.29		105	
+		"HASTIE, Carolyn (DEM)"	48	31	64.58		17	35.42		48	
+		Total	222	1124	55.13		915	44.87		2039	
+
+	Chittaway Bay										
+			1st Prefs	1201	51.79		1118	48.21		2319	
+		"HENNIG, Luke (CTA)"	39	12	30.77		27	69.23		39	
+		"KER, Samantha (GRN)"	61	47	77.05		14	22.95		61	
+		"FALCONER, Ron (HAN)"	126	40	31.75		86	68.25		126	
+		"HASTIE, Carolyn (DEM)"	140	106	75.71		34	24.29		140	
+		Total	366	1406	52.36		1279	47.64		2685	
+
+	Chittaway Point										
+			1st Prefs	151	41.83		210	58.17		361	
+		"HENNIG, Luke (CTA)"	3	2	66.67		1	33.33		3	
+		"KER, Samantha (GRN)"	6	3	50.00		3	50.00		6	
+		"FALCONER, Ron (HAN)"	21	9	42.86		12	57.14		21	
+		"HASTIE, Carolyn (DEM)"	13	6	46.15		7	53.85		13	
+		Total	43	171	42.33		233	57.67		404	
+
+	Dooralong										
+			1st Prefs	37	32.46		77	67.54		114	
+		"HENNIG, Luke (CTA)"	1	0	0.00		1	100.00		1	
+		"KER, Samantha (GRN)"	6	6	100.00		0	0.00		6	
+		"FALCONER, Ron (HAN)"	10	3	30.00		7	70.00		10	
+		"HASTIE, Carolyn (DEM)"	6	5	83.33		1	16.67		6	
+		Total	23	51	37.23		86	62.77		137	
+
+	Erina Heights (Dobell)										
+			1st Prefs	188	28.27		477	71.73		665	
+		"HENNIG, Luke (CTA)"	22	6	27.27		16	72.73		22	
+		"KER, Samantha (GRN)"	23	14	60.87		9	39.13		23	
+		"FALCONER, Ron (HAN)"	12	1	8.33		11	91.67		12	
+		"HASTIE, Carolyn (DEM)"	62	43	69.35		19	30.65		62	
+		Total	119	252	32.14		532	67.86		784	
+
+	Forresters Beach										
+			1st Prefs	413	44.17		522	55.83		935	
+		"HENNIG, Luke (CTA)"	26	8	30.77		18	69.23		26	
+		"KER, Samantha (GRN)"	39	22	56.41		17	43.59		39	
+		"FALCONER, Ron (HAN)"	54	11	20.37		43	79.63		54	
+		"HASTIE, Carolyn (DEM)"	64	46	71.88		18	28.13		64	
+		Total	183	500	44.72		618	55.28		1118	
+
+	Gorokan Central										
+			1st Prefs	589	62.53		353	37.47		942	
+		"HENNIG, Luke (CTA)"	25	10	40.00		15	60.00		25	
+		"KER, Samantha (GRN)"	14	10	71.43		4	28.57		14	
+		"FALCONER, Ron (HAN)"	64	20	31.25		44	68.75		64	
+		"HASTIE, Carolyn (DEM)"	24	16	66.67		8	33.33		24	
+		Total	127	645	60.34		424	39.66		1069	
+
+	Hamlyn Terrace										
+			1st Prefs	107	41.15		153	58.85		260	
+		"HENNIG, Luke (CTA)"	4	3	75.00		1	25.00		4	
+		"KER, Samantha (GRN)"	2	2	100.00		0	0.00		2	
+		"FALCONER, Ron (HAN)"	13	4	30.77		9	69.23		13	
+		"HASTIE, Carolyn (DEM)"	7	6	85.71		1	14.29		7	
+		Total	26	122	42.66		164	57.34		286	
+
+	Holgate										
+			1st Prefs	196	33.50		389	66.50		585	
+		"HENNIG, Luke (CTA)"	6	1	16.67		5	83.33		6	
+		"KER, Samantha (GRN)"	26	20	76.92		6	23.08		26	
+		"FALCONER, Ron (HAN)"	24	12	50.00		12	50.00		24	
+		"HASTIE, Carolyn (DEM)"	31	17	54.84		14	45.16		31	
+		Total	87	246	36.61		426	63.39		672	
+
+	Jilliby										
+			1st Prefs	154	37.65		255	62.35		409	
+		"HENNIG, Luke (CTA)"	5	0	0.00		5	100.00		5	
+		"KER, Samantha (GRN)"	19	13	68.42		6	31.58		19	
+		"FALCONER, Ron (HAN)"	17	5	29.41		12	70.59		17	
+		"HASTIE, Carolyn (DEM)"	11	8	72.73		3	27.27		11	
+		Total	52	180	39.05		281	60.95		461	
+
+	Kanwal										
+			1st Prefs	1349	55.65		1075	44.35		2424	
+		"HENNIG, Luke (CTA)"	80	19	23.75		61	76.25		80	
+		"KER, Samantha (GRN)"	55	30	54.55		25	45.45		55	
+		"FALCONER, Ron (HAN)"	101	52	51.49		49	48.51		101	
+		"HASTIE, Carolyn (DEM)"	105	82	78.10		23	21.90		105	
+		Total	341	1532	55.41		1233	44.59		2765	
+
+	Killarney Vale										
+			1st Prefs	744	53.91		636	46.09		1380	
+		"HENNIG, Luke (CTA)"	17	6	35.29		11	64.71		17	
+		"KER, Samantha (GRN)"	33	19	57.58		14	42.42		33	
+		"FALCONER, Ron (HAN)"	32	19	59.38		13	40.63		32	
+		"HASTIE, Carolyn (DEM)"	56	35	62.50		21	37.50		56	
+		Total	138	823	54.22		695	45.78		1518	
+
+	Killarney Vale South										
+			1st Prefs	1609	53.72		1386	46.28		2995	
+		"HENNIG, Luke (CTA)"	44	19	43.18		25	56.82		44	
+		"KER, Samantha (GRN)"	82	59	71.95		23	28.05		82	
+		"FALCONER, Ron (HAN)"	151	46	30.46		105	69.54		151	
+		"HASTIE, Carolyn (DEM)"	113	82	72.57		31	27.43		113	
+		Total	390	1815	53.62		1570	46.38		3385	
+
+	Kulnura										
+			1st Prefs	74	28.46		186	71.54		260	
+		"HENNIG, Luke (CTA)"	12	6	50.00		6	50.00		12	
+		"KER, Samantha (GRN)"	13	9	69.23		4	30.77		13	
+		"FALCONER, Ron (HAN)"	35	8	22.86		27	77.14		35	
+		"HASTIE, Carolyn (DEM)"	13	7	53.85		6	46.15		13	
+		Total	73	104	31.23		229	68.77		333	
+
+	Lisarow										
+			1st Prefs	618	40.71		900	59.29		1518	
+		"HENNIG, Luke (CTA)"	63	8	12.70		55	87.30		63	
+		"KER, Samantha (GRN)"	67	45	67.16		22	32.84		67	
+		"FALCONER, Ron (HAN)"	57	23	40.35		34	59.65		57	
+		"HASTIE, Carolyn (DEM)"	107	78	72.90		29	27.10		107	
+		Total	294	772	42.60		1040	57.40		1812	
+
+	Long Jetty										
+			1st Prefs	756	55.34		610	44.66		1366	
+		"HENNIG, Luke (CTA)"	4	3	75.00		1	25.00		4	
+		"KER, Samantha (GRN)"	23	15	65.22		8	34.78		23	
+		"FALCONER, Ron (HAN)"	87	36	41.38		51	58.62		87	
+		"HASTIE, Carolyn (DEM)"	37	26	70.27		11	29.73		37	
+		Total	151	836	55.11		681	44.89		1517	
+
+	Long Jetty East										
+			1st Prefs	540	52.38		491	47.62		1031	
+		"HENNIG, Luke (CTA)"	9	0	0.00		9	100.00		9	
+		"KER, Samantha (GRN)"	24	13	54.17		11	45.83		24	
+		"FALCONER, Ron (HAN)"	41	13	31.71		28	68.29		41	
+		"HASTIE, Carolyn (DEM)"	30	18	60.00		12	40.00		30	
+		Total	104	584	51.45		551	48.55		1135	
+
+	Mardi										
+			1st Prefs	312	44.89		383	55.11		695	
+		"HENNIG, Luke (CTA)"	21	5	23.81		16	76.19		21	
+		"KER, Samantha (GRN)"	15	10	66.67		5	33.33		15	
+		"FALCONER, Ron (HAN)"	40	15	37.50		25	62.50		40	
+		"HASTIE, Carolyn (DEM)"	37	25	67.57		12	32.43		37	
+		Total	113	367	45.42		441	54.58		808	
+
+	Narara										
+			1st Prefs	392	48.04		424	51.96		816	
+		"HENNIG, Luke (CTA)"	27	5	18.52		22	81.48		27	
+		"KER, Samantha (GRN)"	36	25	69.44		11	30.56		36	
+		"FALCONER, Ron (HAN)"	66	21	31.82		45	68.18		66	
+		"HASTIE, Carolyn (DEM)"	52	40	76.92		12	23.08		52	
+		Total	181	483	48.45		514	51.55		997	
+
+	Niagara Park (Dobell)										
+			1st Prefs	1131	48.83		1185	51.17		2316	
+		"HENNIG, Luke (CTA)"	112	20	17.86		92	82.14		112	
+		"KER, Samantha (GRN)"	97	68	70.10		29	29.90		97	
+		"FALCONER, Ron (HAN)"	126	38	30.16		88	69.84		126	
+		"HASTIE, Carolyn (DEM)"	150	104	69.33		46	30.67		150	
+		Total	485	1361	48.59		1440	51.41		2801	
+
+	Ourimbah										
+			1st Prefs	699	41.31		993	58.69		1692	
+		"HENNIG, Luke (CTA)"	59	10	16.95		49	83.05		59	
+		"KER, Samantha (GRN)"	66	52	78.79		14	21.21		66	
+		"FALCONER, Ron (HAN)"	81	22	27.16		59	72.84		81	
+		"HASTIE, Carolyn (DEM)"	100	69	69.00		31	31.00		100	
+		Total	306	852	42.64		1146	57.36		1998	
+
+	Shelly Beach										
+			1st Prefs	1101	49.77		1111	50.23		2212	
+		"HENNIG, Luke (CTA)"	18	4	22.22		14	77.78		18	
+		"KER, Samantha (GRN)"	80	54	67.50		26	32.50		80	
+		"FALCONER, Ron (HAN)"	98	34	34.69		64	65.31		98	
+		"HASTIE, Carolyn (DEM)"	92	57	61.96		35	38.04		92	
+		Total	288	1250	50.00		1250	50.00		2500	
+
+	Sydney (Dobell)										
+			1st Prefs	22	51.16		21	48.84		43	
+		"HENNIG, Luke (CTA)"	0	0	0.00		0	0.00		0	
+		"KER, Samantha (GRN)"	6	5	83.33		1	16.67		6	
+		"FALCONER, Ron (HAN)"	1	1	100.00		0	0.00		1	
+		"HASTIE, Carolyn (DEM)"	4	2	50.00		2	50.00		4	
+		Total	11	30	55.56		24	44.44		54	
+
+	Tacoma										
+			1st Prefs	263	58.06		190	41.94		453	
+		"HENNIG, Luke (CTA)"	7	1	14.29		6	85.71		7	
+		"KER, Samantha (GRN)"	12	5	41.67		7	58.33		12	
+		"FALCONER, Ron (HAN)"	23	12	52.17		11	47.83		23	
+		"HASTIE, Carolyn (DEM)"	22	12	54.55		10	45.45		22	
+		Total	64	293	56.67		224	43.33		517	
+
+	Terrigal (Dobell)										
+			1st Prefs	180	39.39		277	60.61		457	
+		"HENNIG, Luke (CTA)"	16	4	25.00		12	75.00		16	
+		"KER, Samantha (GRN)"	44	27	61.36		17	38.64		44	
+		"FALCONER, Ron (HAN)"	25	7	28.00		18	72.00		25	
+		"HASTIE, Carolyn (DEM)"	35	22	62.86		13	37.14		35	
+		Total	120	240	41.59		337	58.41		577	
+
+	Terrigal Lagoon										
+			1st Prefs	372	37.01		633	62.99		1005	
+		"HENNIG, Luke (CTA)"	15	2	13.33		13	86.67		15	
+		"KER, Samantha (GRN)"	33	18	54.55		15	45.45		33	
+		"FALCONER, Ron (HAN)"	19	3	15.79		16	84.21		19	
+		"HASTIE, Carolyn (DEM)"	33	22	66.67		11	33.33		33	
+		Total	100	417	37.74		688	62.26		1105	
+
+	The Entrance										
+			1st Prefs	900	54.74		744	45.26		1644	
+		"HENNIG, Luke (CTA)"	18	7	38.89		11	61.11		18	
+		"KER, Samantha (GRN)"	39	26	66.67		13	33.33		39	
+		"FALCONER, Ron (HAN)"	66	18	27.27		48	72.73		66	
+		"HASTIE, Carolyn (DEM)"	52	37	71.15		15	28.85		52	
+		Total	175	988	54.32		831	45.68		1819	
+
+	The Entrance North										
+			1st Prefs	319	55.57		255	44.43		574	
+		"HENNIG, Luke (CTA)"	4	1	25.00		3	75.00		4	
+		"KER, Samantha (GRN)"	20	18	90.00		2	10.00		20	
+		"FALCONER, Ron (HAN)"	35	12	34.29		23	65.71		35	
+		"HASTIE, Carolyn (DEM)"	16	11	68.75		5	31.25		16	
+		Total	75	361	55.62		288	44.38		649	
+
+	Tuggerah										
+			1st Prefs	382	47.75		418	52.25		800	
+		"HENNIG, Luke (CTA)"	18	6	33.33		12	66.67		18	
+		"KER, Samantha (GRN)"	26	18	69.23		8	30.77		26	
+		"FALCONER, Ron (HAN)"	23	11	47.83		12	52.17		23	
+		"HASTIE, Carolyn (DEM)"	67	54	80.60		13	19.40		67	
+		Total	134	471	50.43		463	49.57		934	
+
+	Tuggerawong										
+			1st Prefs	246	56.04		193	43.96		439	
+		"HENNIG, Luke (CTA)"	9	3	33.33		6	66.67		9	
+		"KER, Samantha (GRN)"	6	3	50.00		3	50.00		6	
+		"FALCONER, Ron (HAN)"	16	8	50.00		8	50.00		16	
+		"HASTIE, Carolyn (DEM)"	16	8	50.00		8	50.00		16	
+		Total	47	268	55.14		218	44.86		486	
+
+	Tumbi Umbi										
+			1st Prefs	426	46.61		488	53.39		914	
+		"HENNIG, Luke (CTA)"	9	1	11.11		8	88.89		9	
+		"KER, Samantha (GRN)"	13	6	46.15		7	53.85		13	
+		"FALCONER, Ron (HAN)"	56	16	28.57		40	71.43		56	
+		"HASTIE, Carolyn (DEM)"	28	16	57.14		12	42.86		28	
+		Total	106	465	45.59		555	54.41		1020	
+
+	Valley View										
+			1st Prefs	219	46.50		252	53.50		471	
+		"HENNIG, Luke (CTA)"	14	2	14.29		12	85.71		14	
+		"KER, Samantha (GRN)"	18	15	83.33		3	16.67		18	
+		"FALCONER, Ron (HAN)"	8	2	25.00		6	75.00		8	
+		"HASTIE, Carolyn (DEM)"	20	16	80.00		4	20.00		20	
+		Total	60	254	47.83		277	52.17		531	
+
+	Wamberal										
+			1st Prefs	718	36.93		1226	63.07		1944	
+		"HENNIG, Luke (CTA)"	28	7	25.00		21	75.00		28	
+		"KER, Samantha (GRN)"	68	45	66.18		23	33.82		68	
+		"FALCONER, Ron (HAN)"	70	21	30.00		49	70.00		70	
+		"HASTIE, Carolyn (DEM)"	117	89	76.07		28	23.93		117	
+		Total	283	880	39.52		1347	60.48		2227	
+
+	Wamberal North										
+			1st Prefs	295	36.37		516	63.63		811	
+		"HENNIG, Luke (CTA)"	23	6	26.09		17	73.91		23	
+		"KER, Samantha (GRN)"	46	30	65.22		16	34.78		46	
+		"FALCONER, Ron (HAN)"	38	12	31.58		26	68.42		38	
+		"HASTIE, Carolyn (DEM)"	56	44	78.57		12	21.43		56	
+		Total	163	387	39.73		587	60.27		974	
+
+	Warnervale										
+			1st Prefs	587	51.49		553	48.51		1140	
+		"HENNIG, Luke (CTA)"	22	4	18.18		18	81.82		22	
+		"KER, Samantha (GRN)"	32	17	53.13		15	46.88		32	
+		"FALCONER, Ron (HAN)"	97	16	16.49		81	83.51		97	
+		"HASTIE, Carolyn (DEM)"	69	45	65.22		24	34.78		69	
+		Total	220	669	49.19		691	50.81		1360	
+
+	Watanobbi										
+			1st Prefs	679	63.52		390	36.48		1069	
+		"HENNIG, Luke (CTA)"	27	13	48.15		14	51.85		27	
+		"KER, Samantha (GRN)"	44	32	72.73		12	27.27		44	
+		"FALCONER, Ron (HAN)"	59	16	27.12		43	72.88		59	
+		"HASTIE, Carolyn (DEM)"	49	37	75.51		12	24.49		49	
+		Total	179	777	62.26		471	37.74		1248	
+
+	Wyoming (Dobell)										
+			1st Prefs	1063	47.99		1152	52.01		2215	
+		"HENNIG, Luke (CTA)"	64	22	34.38		42	65.63		64	
+		"KER, Samantha (GRN)"	88	67	76.14		21	23.86		88	
+		"FALCONER, Ron (HAN)"	87	34	39.08		53	60.92		87	
+		"HASTIE, Carolyn (DEM)"	99	67	67.68		32	32.32		99	
+		Total	338	1253	49.08		1300	50.92		2553	
+
+	Wyoming Central										
+			1st Prefs	781	45.65		930	54.35		1711	
+		"HENNIG, Luke (CTA)"	56	14	25.00		42	75.00		56	
+		"KER, Samantha (GRN)"	73	53	72.60		20	27.40		73	
+		"FALCONER, Ron (HAN)"	79	26	32.91		53	67.09		79	
+		"HASTIE, Carolyn (DEM)"	121	82	67.77		39	32.23		121	
+		Total	329	956	46.86		1084	53.14		2040	
+
+	Wyong										
+			1st Prefs	845	52.94		751	47.06		1596	
+		"HENNIG, Luke (CTA)"	40	9	22.50		31	77.50		40	
+		"KER, Samantha (GRN)"	50	34	68.00		16	32.00		50	
+		"FALCONER, Ron (HAN)"	94	32	34.04		62	65.96		94	
+		"HASTIE, Carolyn (DEM)"	65	39	60.00		26	40.00		65	
+		Total	249	959	51.98		886	48.02		1845	
+
+	Wyongah										
+			1st Prefs	473	57.26		353	42.74		826	
+		"HENNIG, Luke (CTA)"	22	6	27.27		16	72.73		22	
+		"KER, Samantha (GRN)"	22	11	50.00		11	50.00		22	
+		"FALCONER, Ron (HAN)"	54	25	46.30		29	53.70		54	
+		"HASTIE, Carolyn (DEM)"	26	21	80.77		5	19.23		26	
+		Total	124	536	56.42		414	43.58		950	
+
+	Wyong Creek										
+			1st Prefs	43	29.05		105	70.95		148	
+		"HENNIG, Luke (CTA)"	2	2	100.00		0	0.00		2	
+		"KER, Samantha (GRN)"	7	4	57.14		3	42.86		7	
+		"FALCONER, Ron (HAN)"	13	3	23.08		10	76.92		13	
+		"HASTIE, Carolyn (DEM)"	10	6	60.00		4	40.00		10	
+		Total	32	58	32.22		122	67.78		180	
+
+	Wyong East										
+			1st Prefs	247	49.50		252	50.50		499	
+		"HENNIG, Luke (CTA)"	18	2	11.11		16	88.89		18	
+		"KER, Samantha (GRN)"	22	15	68.18		7	31.82		22	
+		"FALCONER, Ron (HAN)"	10	5	50.00		5	50.00		10	
+		"HASTIE, Carolyn (DEM)"	17	11	64.71		6	35.29		17	
+		Total	67	280	49.47		286	50.53		566	
+
+	Yarramalong										
+			1st Prefs	65	34.95		121	65.05		186	
+		"HENNIG, Luke (CTA)"	0	0	0.00		0	0.00		0	
+		"KER, Samantha (GRN)"	15	10	66.67		5	33.33		15	
+		"FALCONER, Ron (HAN)"	14	6	42.86		8	57.14		14	
+		"HASTIE, Carolyn (DEM)"	12	8	66.67		4	33.33		12	
+		Total	41	89	39.21		138	60.79		227	
+
+	Special Hospitals										
+			1st Prefs	173	48.60		183	51.40		356	
+		"HENNIG, Luke (CTA)"	2	0	0.00		2	100.00		2	
+		"KER, Samantha (GRN)"	3	2	66.67		1	33.33		3	
+		"FALCONER, Ron (HAN)"	5	4	80.00		1	20.00		5	
+		"HASTIE, Carolyn (DEM)"	4	3	75.00		1	25.00		4	
+		Total	14	182	49.19		188	50.81		370	
+
+	Total Ordinary										
+			1st Prefs	26458	49.21		27308	50.79		53766	
+		"HENNIG, Luke (CTA)"	1193	314	26.32		879	73.68		1193	
+		"KER, Samantha (GRN)"	1687	1149	68.11		538	31.89		1687	
+		"FALCONER, Ron (HAN)"	2608	855	32.78		1753	67.22		2608	
+		"HASTIE, Carolyn (DEM)"	2589	1820	70.30		769	29.70		2589	
+		Total	8077	30596	49.47		31247	50.53		61843	
+
+	ABSENT										
+			1st Prefs	2303	51.36		2181	48.64		4484	
+		"HENNIG, Luke (CTA)"	131	41	31.30		90	68.70		131	
+		"KER, Samantha (GRN)"	343	231	67.35		112	32.65		343	
+		"FALCONER, Ron (HAN)"	281	132	46.98		149	53.02		281	
+		"HASTIE, Carolyn (DEM)"	294	194	65.99		100	34.01		294	
+		Total	1049	2901	52.43		2632	47.57		5533	
+
+	POSTAL										
+			1st Prefs	1095	45.47		1313	54.53		2408	
+		"HENNIG, Luke (CTA)"	32	10	31.25		22	68.75		32	
+		"KER, Samantha (GRN)"	47	31	65.96		16	34.04		47	
+		"FALCONER, Ron (HAN)"	117	52	44.44		65	55.56		117	
+		"HASTIE, Carolyn (DEM)"	81	50	61.73		31	38.27		81	
+		Total	277	1238	46.11		1447	53.89		2685	
+
+	PRE_POLL										
+			1st Prefs	1762	49.25		1816	50.75		3578	
+		"HENNIG, Luke (CTA)"	59	16	27.12		43	72.88		59	
+		"KER, Samantha (GRN)"	103	65	63.11		38	36.89		103	
+		"FALCONER, Ron (HAN)"	205	85	41.46		120	58.54		205	
+		"HASTIE, Carolyn (DEM)"	154	98	63.64		56	36.36		154	
+		Total	521	2026	49.43		2073	50.57		4099	
+
+	PROVISIONAL										
+			1st Prefs	206	59.03		143	40.97		349	
+		"HENNIG, Luke (CTA)"	5	3	60.00		2	40.00		5	
+		"KER, Samantha (GRN)"	20	10	50.00		10	50.00		20	
+		"FALCONER, Ron (HAN)"	12	6	50.00		6	50.00		12	
+		"HASTIE, Carolyn (DEM)"	24	19	79.17		5	20.83		24	
+		Total	61	244	59.51		166	40.49		410	
+
+	Division Summary										
+			1st Prefs	31824	49.27		32761	50.73		64585	
+		"HENNIG, Luke (CTA)"	1420	384	27.04		1036	72.96		1420	
+		"KER, Samantha (GRN)"	2200	1486	67.55		714	32.45		2200	
+		"FALCONER, Ron (HAN)"	3223	1130	35.06		2093	64.94		3223	
+		"HASTIE, Carolyn (DEM)"	3142	2181	69.41		961	30.59		3142	
+		Total	9985	37005	49.62		37565	50.38		74570	

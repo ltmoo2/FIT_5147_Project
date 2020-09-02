@@ -1,0 +1,214 @@
+House of Representatives - 1996 Election			
+Informality Statistics			
+By Division			
+			
+			
+National Summary			
+Division		Informal %	Swing
+New South Wales		3.62	0.52
+Victoria		2.93	0.10
+Queensland		2.56	-0.06
+Western Australia		3.16	0.64
+South Australia		4.08	0.02
+Tasmania		2.35	-0.38
+Australian Capital Territory		2.82	-0.53
+Northern Territory 		3.39	0.29
+National Average		3.20	0.23
+			
+			
+New South Wales			
+Division		Informal %	Swing
+Banks		4.25	0.85
+Barton		4.29	0.25
+Bennelong		3.82	1.04
+Berowra		2.81	0.26
+Blaxland		6.62	1.59
+Bradfield		2.93	0.38
+Calare		2.23	0.40
+Charlton		3.45	0.22
+Chifley		5.26	0.50
+Cook		2.48	-0.01
+Cowper		2.30	0.13
+Cunningham		3.61	0.27
+Dobell		2.94	0.87
+Eden-Monaro		2.99	0.53
+Farrer		3.41	0.63
+Fowler		8.07	2.87
+Gilmore		2.35	0.18
+Grayndler		5.44	0.86
+Greenway		5.30	1.55
+Gwydir		2.54	-0.17
+Hughes		2.73	0.12
+Hume		2.60	0.48
+Hunter		2.66	0.30
+Kingsford-Smith		5.05	0.70
+Lindsay		3.58	0.45
+Lowe		5.23	0.85
+Lyne		2.51	0.44
+Macarthur		3.52	0.64
+Mackellar		3.29	0.29
+Macquarie		3.94	1.44
+Mitchell		2.98	0.67
+Newcastle		2.84	-0.11
+New England		2.29	0.17
+North Sydney		2.55	0.51
+Page		1.95	-0.11
+Parkes		2.88	0.41
+Parramatta		3.86	0.95
+Paterson		2.26	-0.11
+Prospect		5.77	0.15
+Reid		5.35	0.48
+Richmond		2.09	-0.98
+Riverina		3.23	0.89
+Robertson		2.82	0.58
+Shortland		2.80	0.25
+Sydney		4.52	1.28
+Throsby		3.88	-0.34
+Warringah		2.89	0.51
+Watson		5.12	0.06
+Wentworth		3.45	0.55
+Werriwa		5.09	1.09
+New South Wales Average		3.62	0.52
+			
+			
+			
+Victoria			
+Division		Informal %	Swing
+Aston		2.40	-0.16
+Ballarat		2.11	-0.17
+Batman		5.08	0.65
+Bendigo		2.05	-0.13
+Bruce		2.96	-0.13
+Burke		2.96	0.40
+Calwell		3.76	0.23
+Casey		2.76	0.25
+Chisholm		2.56	0.01
+Corangamite		2.22	-0.22
+Corio		3.03	0.11
+Deakin		2.87	0.20
+Dunkley		2.49	0.26
+Flinders		2.85	0.40
+Gellibrand		5.43	1.37
+Gippsland		2.55	0.47
+Goldstein		2.28	-0.20
+Higgins		2.02	-0.52
+Holt		4.54	1.15
+Hotham		2.98	-0.02
+Indi		2.31	0.10
+Isaacs		2.80	0.19
+Jagajaga		2.57	-0.36
+Kooyong		2.00	-0.47
+Lalor		3.40	0.10
+La Trobe		2.53	0.16
+McEwen		2.55	-0.08
+McMillan		2.71	0.32
+Mallee		2.60	0.18
+Maribyrnong		4.59	1.01
+Melbourne		3.37	-0.31
+Melbourne Ports		2.76	-0.16
+Menzies		2.47	-0.27
+Murray		2.67	0.20
+Scullin		3.54	-0.38
+Wannon		2.00	-0.54
+Wills		3.65	0.11
+Victorian Average		2.93	0.10
+
+
+
+Queensland			
+Division		Informal %	Swing
+Bowman		2.18	-0.37
+Brisbane		2.41	-0.56
+Capricornia		2.17	-0.42
+Dawson		2.24	-0.52
+Dickson		2.43	0.30
+Fadden		2.43	-0.14
+Fairfax		2.24	-0.23
+Fisher		2.55	0.21
+Forde		2.74	0.05
+Griffith		2.41	-0.17
+Groom		2.29	-0.13
+Herbert		2.58	0.06
+Hinkler		2.41	0.26
+Kennedy		2.87	-0.13
+Leichhardt		2.88	-0.41
+Lilley		2.04	-0.45
+Longman		2.67	0.33
+McPherson		2.82	0.23
+Maranoa		2.98	0.12
+Moncrieff		3.11	0.52
+Moreton		2.84	0.10
+Oxley		2.85	-0.47
+Petrie		2.49	-0.06
+Rankin		3.39	0.52
+Ryan		1.74	-0.55
+Wide Bay		2.91	0.60
+Queensland Average		2.56	-0.06
+
+
+
+Western Australia			
+Division		Informal %	Swing
+Brand		3.36	0.89
+Canning		3.61	1.00
+Cowan		3.65	1.16
+Curtin		2.03	0.04
+Forrest		2.65	0.25
+Fremantle		3.50	0.53
+Kalgoorlie		2.77	0.19
+Moore		2.44	0.59
+O'Connor		3.08	0.35
+Pearce		3.07	0.99
+Perth		3.83	0.28
+Stirling		3.73	1.20
+Swan		3.55	0.60
+Tangney		2.94	0.92
+Western Australian Average		3.16	0.64
+			
+			
+			
+South Australia			
+Division		Informal %	Swing
+Adelaide		4.69	0.55
+Barker		3.42	-0.15
+Bonython		4.85	-0.40
+Boothby		2.73	0.10
+Grey		3.46	-0.66
+Hindmarsh		4.09	-0.80
+Kingston		4.49	0.94
+Makin		5.00	1.36
+Mayo		3.11	-0.25
+Port Adelaide		5.56	0.30
+Sturt		3.84	-0.60
+Wakefield		3.80	-0.15
+South Australian Average		4.08	0.02
+
+
+
+Tasmania			
+Division		Informal %	Swing
+Bass		2.09	-0.75
+Braddon		2.58	-0.16
+Denison		2.14	-0.47
+Franklin		2.26	-0.33
+Lyons		2.67	-0.21
+Tasmanian Average		2.35	-0.38
+
+
+
+Australian Capital Territory			
+Division		Informal %	Swing
+Canberra		2.67	-0.70
+Fraser		3.26	-0.55
+Namadgi		2.57	-0.33
+Australian Capital Territory Average		2.82	-0.53
+
+
+
+Northern Territory			
+Division		Informal %	Swing
+Northern Territory		3.39	0.29
+Northern Territory Average		3.39	0.29
+
+
+National Average		3.20	0.23

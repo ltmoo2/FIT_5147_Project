@@ -1,0 +1,956 @@
+House of Representatives - 2001 Election: Victoria												
+Two Candidate Preferred Preference Flow Result												
+By Polling Place by Division												
+Wannon (82915)												
+		Candidate		                  	"HAWKER, David"		              	"MORROW, Richard"			Total	
+				                           	LP		                         	ALP				
+				                           	Votes	%	                     	Votes	%			
+	Allansford											
+			1st Prefs		434	68.45		200	31.55		634	
+		"MCDONALD, Leigh (IND)"	9		8	88.89		1	11.11		9	
+		"PACKER, Amanda Elise (DEM)"	24		10	41.67		14	58.33		24	
+		"O'BRIEN, Robert (IND)"	17		7	41.18		10	58.82		17	
+		"BLAIR, Gillian (GRN)"	38		7	18.42		31	81.58		38	
+		"WITNEY, Ricky (LEF)"	8		4	50.00		4	50.00		8	
+		"SCHMIDT, Olive (HAN)"	20		10	50.00		10	50.00		20	
+		Total	116		480	64.00		270	36.00		750	
+
+	Ararat										
+			1st Prefs		1154	43.42		1504	56.58		2658
+		"MCDONALD, Leigh (IND)"	73		37	50.68		36	49.32		73
+		"PACKER, Amanda Elise (DEM)"	63		22	34.92		41	65.08		63
+		"O'BRIEN, Robert (IND)"	13		4	30.77		9	69.23		13
+		"BLAIR, Gillian (GRN)"	69		32	46.38		37	53.62		69
+		"WITNEY, Ricky (LEF)"	38		21	55.26		17	44.74		38
+		"SCHMIDT, Olive (HAN)"	88		49	55.68		39	44.32		88
+		Total	344		1319	43.94		1683	56.06		3002
+
+	Ararat West										
+			1st Prefs		729	49.63		740	50.37		1469
+		"MCDONALD, Leigh (IND)"	22		12	54.55		10	45.45		22
+		"PACKER, Amanda Elise (DEM)"	76		37	48.68		39	51.32		76
+		"O'BRIEN, Robert (IND)"	9		7	77.78		2	22.22		9
+		"BLAIR, Gillian (GRN)"	54		17	31.48		37	68.52		54
+		"WITNEY, Ricky (LEF)"	12		5	41.67		7	58.33		12
+		"SCHMIDT, Olive (HAN)"	27		22	81.48		5	18.52		27
+		Total	200		829	49.67		840	50.33		1669
+
+	Balmoral										
+			1st Prefs		154	57.46		114	42.54		268
+		"MCDONALD, Leigh (IND)"	12		8	66.67		4	33.33		12
+		"PACKER, Amanda Elise (DEM)"	14		5	35.71		9	64.29		14
+		"O'BRIEN, Robert (IND)"	3		2	66.67		1	33.33		3
+		"BLAIR, Gillian (GRN)"	8		1	12.50		7	87.50		8
+		"WITNEY, Ricky (LEF)"	7		4	57.14		3	42.86		7
+		"SCHMIDT, Olive (HAN)"	9		6	66.67		3	33.33		9
+		Total	53		180	56.07		141	43.93		321
+
+	Beaufort										
+			1st Prefs		530	52.74		475	47.26		1005
+		"MCDONALD, Leigh (IND)"	14		9	64.29		5	35.71		14
+		"PACKER, Amanda Elise (DEM)"	49		31	63.27		18	36.73		49
+		"O'BRIEN, Robert (IND)"	1		1	100.00		0	0.00		1
+		"BLAIR, Gillian (GRN)"	28		14	50.00		14	50.00		28
+		"WITNEY, Ricky (LEF)"	10		7	70.00		3	30.00		10
+		"SCHMIDT, Olive (HAN)"	49		27	55.10		22	44.90		49
+		Total	151		619	53.55		537	46.45		1156
+
+	Bolwarra										
+			1st Prefs		251	57.18		188	42.82		439
+		"MCDONALD, Leigh (IND)"	9		4	44.44		5	55.56		9
+		"PACKER, Amanda Elise (DEM)"	14		7	50.00		7	50.00		14
+		"O'BRIEN, Robert (IND)"	7		3	42.86		4	57.14		7
+		"BLAIR, Gillian (GRN)"	12		3	25.00		9	75.00		12
+		"WITNEY, Ricky (LEF)"	4		3	75.00		1	25.00		4
+		"SCHMIDT, Olive (HAN)"	15		9	60.00		6	40.00		15
+		Total	61		280	56.00		220	44.00		500
+
+	Branxholme										
+			1st Prefs		126	66.32		64	33.68		190
+		"MCDONALD, Leigh (IND)"	10		6	60.00		4	40.00		10
+		"PACKER, Amanda Elise (DEM)"	7		5	71.43		2	28.57		7
+		"O'BRIEN, Robert (IND)"	4		4	100.00		0	0.00		4
+		"BLAIR, Gillian (GRN)"	6		1	16.67		5	83.33		6
+		"WITNEY, Ricky (LEF)"	2		1	50.00		1	50.00		2
+		"SCHMIDT, Olive (HAN)"	9		6	66.67		3	33.33		9
+		Total	38		149	65.35		79	34.65		228
+
+	Buangor										
+			1st Prefs		88	65.19		47	34.81		135
+		"MCDONALD, Leigh (IND)"	2		2	100.00		0	0.00		2
+		"PACKER, Amanda Elise (DEM)"	5		3	60.00		2	40.00		5
+		"O'BRIEN, Robert (IND)"	0		0	0.00		0	0.00		0
+		"BLAIR, Gillian (GRN)"	2		0	0.00		2	100.00		2
+		"WITNEY, Ricky (LEF)"	1		0	0.00		1	100.00		1
+		"SCHMIDT, Olive (HAN)"	6		4	66.67		2	33.33		6
+		Total	16		97	64.24		54	35.76		151
+
+	Byaduk										
+			1st Prefs		72	82.76		15	17.24		87
+		"MCDONALD, Leigh (IND)"	12		7	58.33		5	41.67		12
+		"PACKER, Amanda Elise (DEM)"	2		2	100.00		0	0.00		2
+		"O'BRIEN, Robert (IND)"	0		0	0.00		0	0.00		0
+		"BLAIR, Gillian (GRN)"	4		2	50.00		2	50.00		4
+		"WITNEY, Ricky (LEF)"	0		0	0.00		0	0.00		0
+		"SCHMIDT, Olive (HAN)"	5		5	100.00		0	0.00		5
+		Total	23		88	80.00		22	20.00		110
+
+	Camperdown										
+			1st Prefs		1414	65.37		749	34.63		2163
+		"MCDONALD, Leigh (IND)"	44		32	72.73		12	27.27		44
+		"PACKER, Amanda Elise (DEM)"	115		65	56.52		50	43.48		115
+		"O'BRIEN, Robert (IND)"	21		11	52.38		10	47.62		21
+		"BLAIR, Gillian (GRN)"	94		38	40.43		56	59.57		94
+		"WITNEY, Ricky (LEF)"	36		19	52.78		17	47.22		36
+		"SCHMIDT, Olive (HAN)"	44		26	59.09		18	40.91		44
+		Total	354		1605	63.77		912	36.23		2517
+
+	Cape Clear										
+			1st Prefs		116	57.14		87	42.86		203
+		"MCDONALD, Leigh (IND)"	2		2	100.00		0	0.00		2
+		"PACKER, Amanda Elise (DEM)"	5		3	60.00		2	40.00		5
+		"O'BRIEN, Robert (IND)"	2		2	100.00		0	0.00		2
+		"BLAIR, Gillian (GRN)"	2		1	50.00		1	50.00		2
+		"WITNEY, Ricky (LEF)"	1		0	0.00		1	100.00		1
+		"SCHMIDT, Olive (HAN)"	12		6	50.00		6	50.00		12
+		Total	24		130	57.27		97	42.73		227
+
+	Caramut										
+			1st Prefs		125	68.31		58	31.69		183
+		"MCDONALD, Leigh (IND)"	5		4	80.00		1	20.00		5
+		"PACKER, Amanda Elise (DEM)"	4		4	100.00		0	0.00		4
+		"O'BRIEN, Robert (IND)"	0		0	0.00		0	0.00		0
+		"BLAIR, Gillian (GRN)"	7		5	71.43		2	28.57		7
+		"WITNEY, Ricky (LEF)"	3		0	0.00		3	100.00		3
+		"SCHMIDT, Olive (HAN)"	12		7	58.33		5	41.67		12
+		Total	31		145	67.76		69	32.24		214
+
+	Carpendeit										
+			1st Prefs		98	75.97		31	24.03		129
+		"MCDONALD, Leigh (IND)"	5		4	80.00		1	20.00		5
+		"PACKER, Amanda Elise (DEM)"	2		2	100.00		0	0.00		2
+		"O'BRIEN, Robert (IND)"	1		1	100.00		0	0.00		1
+		"BLAIR, Gillian (GRN)"	5		2	40.00		3	60.00		5
+		"WITNEY, Ricky (LEF)"	0		0	0.00		0	0.00		0
+		"SCHMIDT, Olive (HAN)"	10		9	90.00		1	10.00		10
+		Total	23		116	76.32		36	23.68		152
+
+	Casterton										
+			1st Prefs		854	59.18		589	40.82		1443
+		"MCDONALD, Leigh (IND)"	45		32	71.11		13	28.89		45
+		"PACKER, Amanda Elise (DEM)"	37		18	48.65		19	51.35		37
+		"O'BRIEN, Robert (IND)"	11		6	54.55		5	45.45		11
+		"BLAIR, Gillian (GRN)"	32		9	28.13		23	71.88		32
+		"WITNEY, Ricky (LEF)"	15		8	53.33		7	46.67		15
+		"SCHMIDT, Olive (HAN)"	47		32	68.09		15	31.91		47
+		Total	187		959	58.83		671	41.17		1630
+
+	Cavendish										
+			1st Prefs		214	74.83		72	25.17		286
+		"MCDONALD, Leigh (IND)"	15		9	60.00		6	40.00		15
+		"PACKER, Amanda Elise (DEM)"	2		1	50.00		1	50.00		2
+		"O'BRIEN, Robert (IND)"	5		4	80.00		1	20.00		5
+		"BLAIR, Gillian (GRN)"	8		5	62.50		3	37.50		8
+		"WITNEY, Ricky (LEF)"	6		3	50.00		3	50.00		6
+		"SCHMIDT, Olive (HAN)"	10		9	90.00		1	10.00		10
+		Total	46		245	73.80		87	26.20		332
+
+	Cobden										
+			1st Prefs		966	73.91		341	26.09		1307
+		"MCDONALD, Leigh (IND)"	20		16	80.00		4	20.00		20
+		"PACKER, Amanda Elise (DEM)"	29		17	58.62		12	41.38		29
+		"O'BRIEN, Robert (IND)"	11		10	90.91		1	9.09		11
+		"BLAIR, Gillian (GRN)"	37		17	45.95		20	54.05		37
+		"WITNEY, Ricky (LEF)"	17		10	58.82		7	41.18		17
+		"SCHMIDT, Olive (HAN)"	39		24	61.54		15	38.46		39
+		Total	153		1060	72.60		400	27.40		1460
+
+	Coleraine										
+			1st Prefs		453	54.71		375	45.29		828
+		"MCDONALD, Leigh (IND)"	28		20	71.43		8	28.57		28
+		"PACKER, Amanda Elise (DEM)"	18		8	44.44		10	55.56		18
+		"O'BRIEN, Robert (IND)"	4		1	25.00		3	75.00		4
+		"BLAIR, Gillian (GRN)"	19		8	42.11		11	57.89		19
+		"WITNEY, Ricky (LEF)"	11		5	45.45		6	54.55		11
+		"SCHMIDT, Olive (HAN)"	23		17	73.91		6	26.09		23
+		Total	103		512	54.99		419	45.01		931
+
+	Condah										
+			1st Prefs		101	71.13		41	28.87		142
+		"MCDONALD, Leigh (IND)"	8		5	62.50		3	37.50		8
+		"PACKER, Amanda Elise (DEM)"	0		0	0.00		0	0.00		0
+		"O'BRIEN, Robert (IND)"	1		1	100.00		0	0.00		1
+		"BLAIR, Gillian (GRN)"	2		0	0.00		2	100.00		2
+		"WITNEY, Ricky (LEF)"	2		2	100.00		0	0.00		2
+		"SCHMIDT, Olive (HAN)"	6		3	50.00		3	50.00		6
+		Total	19		112	69.57		49	30.43		161
+
+	Dartmoor										
+			1st Prefs		167	58.39		119	41.61		286
+		"MCDONALD, Leigh (IND)"	7		7	100.00		0	0.00		7
+		"PACKER, Amanda Elise (DEM)"	7		4	57.14		3	42.86		7
+		"O'BRIEN, Robert (IND)"	0		0	0.00		0	0.00		0
+		"BLAIR, Gillian (GRN)"	6		2	33.33		4	66.67		6
+		"WITNEY, Ricky (LEF)"	3		2	66.67		1	33.33		3
+		"SCHMIDT, Olive (HAN)"	26		14	53.85		12	46.15		26
+		Total	49		196	58.51		139	41.49		335
+
+	Dergholm										
+			1st Prefs		73	82.02		16	17.98		89
+		"MCDONALD, Leigh (IND)"	2		2	100.00		0	0.00		2
+		"PACKER, Amanda Elise (DEM)"	3		2	66.67		1	33.33		3
+		"O'BRIEN, Robert (IND)"	0		0	0.00		0	0.00		0
+		"BLAIR, Gillian (GRN)"	0		0	0.00		0	0.00		0
+		"WITNEY, Ricky (LEF)"	0		0	0.00		0	0.00		0
+		"SCHMIDT, Olive (HAN)"	6		2	33.33		4	66.67		6
+		Total	11		79	79.00		21	21.00		100
+
+	Derrinallum										
+			1st Prefs		256	70.91		105	29.09		361
+		"MCDONALD, Leigh (IND)"	6		5	83.33		1	16.67		6
+		"PACKER, Amanda Elise (DEM)"	6		5	83.33		1	16.67		6
+		"O'BRIEN, Robert (IND)"	2		0	0.00		2	100.00		2
+		"BLAIR, Gillian (GRN)"	12		9	75.00		3	25.00		12
+		"WITNEY, Ricky (LEF)"	6		2	33.33		4	66.67		6
+		"SCHMIDT, Olive (HAN)"	16		11	68.75		5	31.25		16
+		Total	48		288	70.42		121	29.58		409
+
+	Dunkeld										
+			1st Prefs		273	70.36		115	29.64		388
+		"MCDONALD, Leigh (IND)"	25		15	60.00		10	40.00		25
+		"PACKER, Amanda Elise (DEM)"	19		7	36.84		12	63.16		19
+		"O'BRIEN, Robert (IND)"	4		2	50.00		2	50.00		4
+		"BLAIR, Gillian (GRN)"	19		2	10.53		17	89.47		19
+		"WITNEY, Ricky (LEF)"	2		1	50.00		1	50.00		2
+		"SCHMIDT, Olive (HAN)"	14		9	64.29		5	35.71		14
+		Total	83		309	65.61		162	34.39		471
+
+	Ecklin South										
+			1st Prefs		198	91.67		18	8.33		216
+		"MCDONALD, Leigh (IND)"	5		4	80.00		1	20.00		5
+		"PACKER, Amanda Elise (DEM)"	2		0	0.00		2	100.00		2
+		"O'BRIEN, Robert (IND)"	3		3	100.00		0	0.00		3
+		"BLAIR, Gillian (GRN)"	3		1	33.33		2	66.67		3
+		"WITNEY, Ricky (LEF)"	2		2	100.00		0	0.00		2
+		"SCHMIDT, Olive (HAN)"	9		5	55.56		4	44.44		9
+		Total	24		213	88.75		27	11.25		240
+
+	Elmhurst										
+			1st Prefs		71	63.96		40	36.04		111
+		"MCDONALD, Leigh (IND)"	7		6	85.71		1	14.29		7
+		"PACKER, Amanda Elise (DEM)"	1		1	100.00		0	0.00		1
+		"O'BRIEN, Robert (IND)"	1		1	100.00		0	0.00		1
+		"BLAIR, Gillian (GRN)"	2		2	100.00		0	0.00		2
+		"WITNEY, Ricky (LEF)"	1		1	100.00		0	0.00		1
+		"SCHMIDT, Olive (HAN)"	4		0	0.00		4	100.00		4
+		Total	16		82	64.57		45	35.43		127
+
+	Glenthompson										
+			1st Prefs		121	62.37		73	37.63		194
+		"MCDONALD, Leigh (IND)"	8		6	75.00		2	25.00		8
+		"PACKER, Amanda Elise (DEM)"	3		0	0.00		3	100.00		3
+		"O'BRIEN, Robert (IND)"	1		1	100.00		0	0.00		1
+		"BLAIR, Gillian (GRN)"	6		3	50.00		3	50.00		6
+		"WITNEY, Ricky (LEF)"	3		3	100.00		0	0.00		3
+		"SCHMIDT, Olive (HAN)"	6		4	66.67		2	33.33		6
+		Total	27		138	62.44		83	37.56		221
+
+	Hamilton										
+			1st Prefs		1569	57.47		1161	42.53		2730
+		"MCDONALD, Leigh (IND)"	146		96	65.75		50	34.25		146
+		"PACKER, Amanda Elise (DEM)"	92		48	52.17		44	47.83		92
+		"O'BRIEN, Robert (IND)"	29		13	44.83		16	55.17		29
+		"BLAIR, Gillian (GRN)"	86		36	41.86		50	58.14		86
+		"WITNEY, Ricky (LEF)"	45		23	51.11		22	48.89		45
+		"SCHMIDT, Olive (HAN)"	77		52	67.53		25	32.47		77
+		Total	475		1837	57.32		1368	42.68		3205
+
+	Hamilton Central										
+			1st Prefs		180	67.92		85	32.08		265
+		"MCDONALD, Leigh (IND)"	6		4	66.67		2	33.33		6
+		"PACKER, Amanda Elise (DEM)"	10		5	50.00		5	50.00		10
+		"O'BRIEN, Robert (IND)"	2		2	100.00		0	0.00		2
+		"BLAIR, Gillian (GRN)"	12		5	41.67		7	58.33		12
+		"WITNEY, Ricky (LEF)"	0		0	0.00		0	0.00		0
+		"SCHMIDT, Olive (HAN)"	4		3	75.00		1	25.00		4
+		Total	34		199	66.56		100	33.44		299
+
+	Hamilton East										
+			1st Prefs		309	55.68		246	44.32		555
+		"MCDONALD, Leigh (IND)"	33		22	66.67		11	33.33		33
+		"PACKER, Amanda Elise (DEM)"	14		2	14.29		12	85.71		14
+		"O'BRIEN, Robert (IND)"	3		1	33.33		2	66.67		3
+		"BLAIR, Gillian (GRN)"	12		4	33.33		8	66.67		12
+		"WITNEY, Ricky (LEF)"	3		2	66.67		1	33.33		3
+		"SCHMIDT, Olive (HAN)"	17		11	64.71		6	35.29		17
+		Total	82		351	55.10		286	44.90		637
+
+	Hamilton North										
+			1st Prefs		207	53.63		179	46.37		386
+		"MCDONALD, Leigh (IND)"	40		24	60.00		16	40.00		40
+		"PACKER, Amanda Elise (DEM)"	20		8	40.00		12	60.00		20
+		"O'BRIEN, Robert (IND)"	5		4	80.00		1	20.00		5
+		"BLAIR, Gillian (GRN)"	7		3	42.86		4	57.14		7
+		"WITNEY, Ricky (LEF)"	6		4	66.67		2	33.33		6
+		"SCHMIDT, Olive (HAN)"	12		10	83.33		2	16.67		12
+		Total	90		260	54.62		216	45.38		476
+
+	Hawkesdale										
+			1st Prefs		210	76.09		66	23.91		276
+		"MCDONALD, Leigh (IND)"	7		5	71.43		2	28.57		7
+		"PACKER, Amanda Elise (DEM)"	4		2	50.00		2	50.00		4
+		"O'BRIEN, Robert (IND)"	4		2	50.00		2	50.00		4
+		"BLAIR, Gillian (GRN)"	10		0	0.00		10	100.00		10
+		"WITNEY, Ricky (LEF)"	11		7	63.64		4	36.36		11
+		"SCHMIDT, Olive (HAN)"	13		7	53.85		6	46.15		13
+		Total	49		233	71.69		92	28.31		325
+
+	Heywood										
+			1st Prefs		654	60.39		429	39.61		1083
+		"MCDONALD, Leigh (IND)"	57		29	50.88		28	49.12		57
+		"PACKER, Amanda Elise (DEM)"	19		10	52.63		9	47.37		19
+		"O'BRIEN, Robert (IND)"	8		3	37.50		5	62.50		8
+		"BLAIR, Gillian (GRN)"	16		7	43.75		9	56.25		16
+		"WITNEY, Ricky (LEF)"	20		12	60.00		8	40.00		20
+		"SCHMIDT, Olive (HAN)"	36		21	58.33		15	41.67		36
+		Total	156		736	59.40		503	40.60		1239
+
+	Kennedy Street										
+			1st Prefs		602	46.59		690	53.41		1292
+		"MCDONALD, Leigh (IND)"	34		22	64.71		12	35.29		34
+		"PACKER, Amanda Elise (DEM)"	40		21	52.50		19	47.50		40
+		"O'BRIEN, Robert (IND)"	9		6	66.67		3	33.33		9
+		"BLAIR, Gillian (GRN)"	55		10	18.18		45	81.82		55
+		"WITNEY, Ricky (LEF)"	16		7	43.75		9	56.25		16
+		"SCHMIDT, Olive (HAN)"	46		31	67.39		15	32.61		46
+		Total	200		699	46.85		793	53.15		1492
+
+	Kings College										
+			1st Prefs		809	68.44		373	31.56		1182
+		"MCDONALD, Leigh (IND)"	17		13	76.47		4	23.53		17
+		"PACKER, Amanda Elise (DEM)"	30		14	46.67		16	53.33		30
+		"O'BRIEN, Robert (IND)"	22		14	63.64		8	36.36		22
+		"BLAIR, Gillian (GRN)"	56		19	33.93		37	66.07		56
+		"WITNEY, Ricky (LEF)"	18		10	55.56		8	44.44		18
+		"SCHMIDT, Olive (HAN)"	26		15	57.69		11	42.31		26
+		Total	169		894	66.17		457	33.83		1351
+
+	Koroit										
+			1st Prefs		760	62.40		458	37.60		1218
+		"MCDONALD, Leigh (IND)"	23		18	78.26		5	21.74		23
+		"PACKER, Amanda Elise (DEM)"	50		24	48.00		26	52.00		50
+		"O'BRIEN, Robert (IND)"	18		5	27.78		13	72.22		18
+		"BLAIR, Gillian (GRN)"	66		13	19.70		53	80.30		66
+		"WITNEY, Ricky (LEF)"	51		25	49.02		26	50.98		51
+		"SCHMIDT, Olive (HAN)"	40		22	55.00		18	45.00		40
+		Total	248		867	59.14		599	40.86		1466
+
+	Lake Bolac										
+			1st Prefs		221	75.17		73	24.83		294
+		"MCDONALD, Leigh (IND)"	9		6	66.67		3	33.33		9
+		"PACKER, Amanda Elise (DEM)"	3		1	33.33		2	66.67		3
+		"O'BRIEN, Robert (IND)"	1		0	0.00		1	100.00		1
+		"BLAIR, Gillian (GRN)"	4		2	50.00		2	50.00		4
+		"WITNEY, Ricky (LEF)"	2		0	0.00		2	100.00		2
+		"SCHMIDT, Olive (HAN)"	10		6	60.00		4	40.00		10
+		Total	29		236	73.07		87	26.93		323
+
+	Linton										
+			1st Prefs		138	44.23		174	55.77		312
+		"MCDONALD, Leigh (IND)"	7		3	42.86		4	57.14		7
+		"PACKER, Amanda Elise (DEM)"	11		3	27.27		8	72.73		11
+		"O'BRIEN, Robert (IND)"	2		1	50.00		1	50.00		2
+		"BLAIR, Gillian (GRN)"	10		3	30.00		7	70.00		10
+		"WITNEY, Ricky (LEF)"	6		1	16.67		5	83.33		6
+		"SCHMIDT, Olive (HAN)"	12		5	41.67		7	58.33		12
+		Total	48		154	42.78		206	57.22		360
+
+	Lismore										
+			1st Prefs		280	76.71		85	23.29		365
+		"MCDONALD, Leigh (IND)"	7		5	71.43		2	28.57		7
+		"PACKER, Amanda Elise (DEM)"	7		2	28.57		5	71.43		7
+		"O'BRIEN, Robert (IND)"	2		1	50.00		1	50.00		2
+		"BLAIR, Gillian (GRN)"	9		4	44.44		5	55.56		9
+		"WITNEY, Ricky (LEF)"	9		8	88.89		1	11.11		9
+		"SCHMIDT, Olive (HAN)"	16		13	81.25		3	18.75		16
+		Total	50		313	75.42		102	24.58		415
+
+	Macarthur										
+			1st Prefs		255	68.92		115	31.08		370
+		"MCDONALD, Leigh (IND)"	21		15	71.43		6	28.57		21
+		"PACKER, Amanda Elise (DEM)"	7		4	57.14		3	42.86		7
+		"O'BRIEN, Robert (IND)"	6		3	50.00		3	50.00		6
+		"BLAIR, Gillian (GRN)"	6		3	50.00		3	50.00		6
+		"WITNEY, Ricky (LEF)"	16		12	75.00		4	25.00		16
+		"SCHMIDT, Olive (HAN)"	16		12	75.00		4	25.00		16
+		Total	72		304	68.78		138	31.22		442
+
+	Mailors Flat										
+			1st Prefs		303	76.13		95	23.87		398
+		"MCDONALD, Leigh (IND)"	9		5	55.56		4	44.44		9
+		"PACKER, Amanda Elise (DEM)"	11		3	27.27		8	72.73		11
+		"O'BRIEN, Robert (IND)"	6		4	66.67		2	33.33		6
+		"BLAIR, Gillian (GRN)"	11		8	72.73		3	27.27		11
+		"WITNEY, Ricky (LEF)"	8		6	75.00		2	25.00		8
+		"SCHMIDT, Olive (HAN)"	10		8	80.00		2	20.00		10
+		Total	55		337	74.39		116	25.61		453
+
+	Melbourne (Wannon)										
+			1st Prefs		39	61.90		24	38.10		63
+		"MCDONALD, Leigh (IND)"	0		0	0.00		0	0.00		0
+		"PACKER, Amanda Elise (DEM)"	7		5	71.43		2	28.57		7
+		"O'BRIEN, Robert (IND)"	1		0	0.00		1	100.00		1
+		"BLAIR, Gillian (GRN)"	3		1	33.33		2	66.67		3
+		"WITNEY, Ricky (LEF)"	2		2	100.00		0	0.00		2
+		"SCHMIDT, Olive (HAN)"	0		0	0.00		0	0.00		0
+		Total	13		47	61.84		29	38.16		76
+
+	Merino										
+			1st Prefs		135	60.00		90	40.00		225
+		"MCDONALD, Leigh (IND)"	39		20	51.28		19	48.72		39
+		"PACKER, Amanda Elise (DEM)"	6		1	16.67		5	83.33		6
+		"O'BRIEN, Robert (IND)"	3		3	100.00		0	0.00		3
+		"BLAIR, Gillian (GRN)"	5		0	0.00		5	100.00		5
+		"WITNEY, Ricky (LEF)"	2		1	50.00		1	50.00		2
+		"SCHMIDT, Olive (HAN)"	9		6	66.67		3	33.33		9
+		Total	64		166	57.44		123	42.56		289
+
+	Merrivale										
+			1st Prefs		333	54.41		279	45.59		612
+		"MCDONALD, Leigh (IND)"	11		8	72.73		3	27.27		11
+		"PACKER, Amanda Elise (DEM)"	22		8	36.36		14	63.64		22
+		"O'BRIEN, Robert (IND)"	15		4	26.67		11	73.33		15
+		"BLAIR, Gillian (GRN)"	35		11	31.43		24	68.57		35
+		"WITNEY, Ricky (LEF)"	19		11	57.89		8	42.11		19
+		"SCHMIDT, Olive (HAN)"	22		14	63.64		8	36.36		22
+		Total	124		389	52.85		347	47.15		736
+
+	Mortlake										
+			1st Prefs		583	65.73		304	34.27		887
+		"MCDONALD, Leigh (IND)"	12		7	58.33		5	41.67		12
+		"PACKER, Amanda Elise (DEM)"	22		7	31.82		15	68.18		22
+		"O'BRIEN, Robert (IND)"	15		4	26.67		11	73.33		15
+		"BLAIR, Gillian (GRN)"	19		11	57.89		8	42.11		19
+		"WITNEY, Ricky (LEF)"	23		13	56.52		10	43.48		23
+		"SCHMIDT, Olive (HAN)"	14		7	50.00		7	50.00		14
+		Total	105		632	63.71		360	36.29		992
+
+	Moyston										
+			1st Prefs		104	58.43		74	41.57		178
+		"MCDONALD, Leigh (IND)"	4		2	50.00		2	50.00		4
+		"PACKER, Amanda Elise (DEM)"	3		1	33.33		2	66.67		3
+		"O'BRIEN, Robert (IND)"	2		1	50.00		1	50.00		2
+		"BLAIR, Gillian (GRN)"	13		5	38.46		8	61.54		13
+		"WITNEY, Ricky (LEF)"	8		5	62.50		3	37.50		8
+		"SCHMIDT, Olive (HAN)"	10		8	80.00		2	20.00		10
+		Total	40		126	57.80		92	42.20		218
+
+	Naringal										
+			1st Prefs		141	83.43		28	16.57		169
+		"MCDONALD, Leigh (IND)"	4		2	50.00		2	50.00		4
+		"PACKER, Amanda Elise (DEM)"	1		1	100.00		0	0.00		1
+		"O'BRIEN, Robert (IND)"	4		2	50.00		2	50.00		4
+		"BLAIR, Gillian (GRN)"	4		2	50.00		2	50.00		4
+		"WITNEY, Ricky (LEF)"	2		1	50.00		1	50.00		2
+		"SCHMIDT, Olive (HAN)"	6		5	83.33		1	16.67		6
+		Total	21		154	81.05		36	18.95		190
+
+	Narrawong										
+			1st Prefs		124	57.94		90	42.06		214
+		"MCDONALD, Leigh (IND)"	4		3	75.00		1	25.00		4
+		"PACKER, Amanda Elise (DEM)"	5		2	40.00		3	60.00		5
+		"O'BRIEN, Robert (IND)"	5		2	40.00		3	60.00		5
+		"BLAIR, Gillian (GRN)"	13		3	23.08		10	76.92		13
+		"WITNEY, Ricky (LEF)"	0		0	0.00		0	0.00		0
+		"SCHMIDT, Olive (HAN)"	10		7	70.00		3	30.00		10
+		Total	37		141	56.18		110	43.82		251
+
+	Nelson										
+			1st Prefs		85	64.39		47	35.61		132
+		"MCDONALD, Leigh (IND)"	2		2	100.00		0	0.00		2
+		"PACKER, Amanda Elise (DEM)"	7		3	42.86		4	57.14		7
+		"O'BRIEN, Robert (IND)"	0		0	0.00		0	0.00		0
+		"BLAIR, Gillian (GRN)"	5		2	40.00		3	60.00		5
+		"WITNEY, Ricky (LEF)"	1		1	100.00		0	0.00		1
+		"SCHMIDT, Olive (HAN)"	18		8	44.44		10	55.56		18
+		Total	33		101	61.21		64	38.79		165
+
+	Noorat										
+			1st Prefs		316	78.61		86	21.39		402
+		"MCDONALD, Leigh (IND)"	3		2	66.67		1	33.33		3
+		"PACKER, Amanda Elise (DEM)"	8		4	50.00		4	50.00		8
+		"O'BRIEN, Robert (IND)"	4		4	100.00		0	0.00		4
+		"BLAIR, Gillian (GRN)"	14		3	21.43		11	78.57		14
+		"WITNEY, Ricky (LEF)"	4		3	75.00		1	25.00		4
+		"SCHMIDT, Olive (HAN)"	6		2	33.33		4	66.67		6
+		Total	39		334	75.74		107	24.26		441
+
+	Nullawarre										
+			1st Prefs		296	86.30		47	13.70		343
+		"MCDONALD, Leigh (IND)"	6		3	50.00		3	50.00		6
+		"PACKER, Amanda Elise (DEM)"	4		4	100.00		0	0.00		4
+		"O'BRIEN, Robert (IND)"	5		2	40.00		3	60.00		5
+		"BLAIR, Gillian (GRN)"	12		1	8.33		11	91.67		12
+		"WITNEY, Ricky (LEF)"	8		7	87.50		1	12.50		8
+		"SCHMIDT, Olive (HAN)"	11		7	63.64		4	36.36		11
+		Total	46		320	82.26		69	17.74		389
+
+	Orford										
+			1st Prefs		72	78.26		20	21.74		92
+		"MCDONALD, Leigh (IND)"	2		2	100.00		0	0.00		2
+		"PACKER, Amanda Elise (DEM)"	4		1	25.00		3	75.00		4
+		"O'BRIEN, Robert (IND)"	2		2	100.00		0	0.00		2
+		"BLAIR, Gillian (GRN)"	1		0	0.00		1	100.00		1
+		"WITNEY, Ricky (LEF)"	2		0	0.00		2	100.00		2
+		"SCHMIDT, Olive (HAN)"	7		2	28.57		5	71.43		7
+		Total	18		79	71.82		31	28.18		110
+
+	Panmure										
+			1st Prefs		262	79.64		67	20.36		329
+		"MCDONALD, Leigh (IND)"	7		3	42.86		4	57.14		7
+		"PACKER, Amanda Elise (DEM)"	7		3	42.86		4	57.14		7
+		"O'BRIEN, Robert (IND)"	8		5	62.50		3	37.50		8
+		"BLAIR, Gillian (GRN)"	12		7	58.33		5	41.67		12
+		"WITNEY, Ricky (LEF)"	12		8	66.67		4	33.33		12
+		"SCHMIDT, Olive (HAN)"	8		7	87.50		1	12.50		8
+		Total	54		295	77.02		88	22.98		383
+
+	Patterson Park										
+			1st Prefs		645	48.61		682	51.39		1327
+		"MCDONALD, Leigh (IND)"	78		51	65.38		27	34.62		78
+		"PACKER, Amanda Elise (DEM)"	38		14	36.84		24	63.16		38
+		"O'BRIEN, Robert (IND)"	16		8	50.00		8	50.00		16
+		"BLAIR, Gillian (GRN)"	33		9	27.27		24	72.73		33
+		"WITNEY, Ricky (LEF)"	13		5	38.46		8	61.54		13
+		"SCHMIDT, Olive (HAN)"	38		26	68.42		12	31.58		38
+		Total	216		758	49.13		785	50.87		1543
+
+	Penshurst										
+			1st Prefs		249	57.77		182	42.23		431
+		"MCDONALD, Leigh (IND)"	17		12	70.59		5	29.41		17
+		"PACKER, Amanda Elise (DEM)"	11		6	54.55		5	45.45		11
+		"O'BRIEN, Robert (IND)"	9		4	44.44		5	55.56		9
+		"BLAIR, Gillian (GRN)"	10		5	50.00		5	50.00		10
+		"WITNEY, Ricky (LEF)"	10		8	80.00		2	20.00		10
+		"SCHMIDT, Olive (HAN)"	22		10	45.45		12	54.55		22
+		Total	79		294	57.65		216	42.35		510
+
+	Peterborough										
+			1st Prefs		98	71.01		40	28.99		138
+		"MCDONALD, Leigh (IND)"	0		0	0.00		0	0.00		0
+		"PACKER, Amanda Elise (DEM)"	3		2	66.67		1	33.33		3
+		"O'BRIEN, Robert (IND)"	1		1	100.00		0	0.00		1
+		"BLAIR, Gillian (GRN)"	8		2	25.00		6	75.00		8
+		"WITNEY, Ricky (LEF)"	1		0	0.00		1	100.00		1
+		"SCHMIDT, Olive (HAN)"	7		5	71.43		2	28.57		7
+		Total	20		108	68.35		50	31.65		158
+
+	Pirron Yallock (Wannon)										
+			1st Prefs		71	71.00		29	29.00		100
+		"MCDONALD, Leigh (IND)"	2		1	50.00		1	50.00		2
+		"PACKER, Amanda Elise (DEM)"	4		3	75.00		1	25.00		4
+		"O'BRIEN, Robert (IND)"	2		2	100.00		0	0.00		2
+		"BLAIR, Gillian (GRN)"	6		0	0.00		6	100.00		6
+		"WITNEY, Ricky (LEF)"	3		2	66.67		1	33.33		3
+		"SCHMIDT, Olive (HAN)"	11		4	36.36		7	63.64		11
+		Total	28		83	64.84		45	35.16		128
+
+	Pomonal										
+			1st Prefs		83	49.70		84	50.30		167
+		"MCDONALD, Leigh (IND)"	2		2	100.00		0	0.00		2
+		"PACKER, Amanda Elise (DEM)"	10		6	60.00		4	40.00		10
+		"O'BRIEN, Robert (IND)"	0		0	0.00		0	0.00		0
+		"BLAIR, Gillian (GRN)"	23		6	26.09		17	73.91		23
+		"WITNEY, Ricky (LEF)"	2		2	100.00		0	0.00		2
+		"SCHMIDT, Olive (HAN)"	10		7	70.00		3	30.00		10
+		Total	47		106	49.53		108	50.47		214
+
+	Port Campbell										
+			1st Prefs		197	68.64		90	31.36		287
+		"MCDONALD, Leigh (IND)"	4		3	75.00		1	25.00		4
+		"PACKER, Amanda Elise (DEM)"	8		4	50.00		4	50.00		8
+		"O'BRIEN, Robert (IND)"	5		4	80.00		1	20.00		5
+		"BLAIR, Gillian (GRN)"	16		5	31.25		11	68.75		16
+		"WITNEY, Ricky (LEF)"	4		1	25.00		3	75.00		4
+		"SCHMIDT, Olive (HAN)"	5		4	80.00		1	20.00		5
+		Total	42		218	66.26		111	33.74		329
+
+	Port Fairy										
+			1st Prefs		895	56.40		692	43.60		1587
+		"MCDONALD, Leigh (IND)"	23		18	78.26		5	21.74		23
+		"PACKER, Amanda Elise (DEM)"	56		25	44.64		31	55.36		56
+		"O'BRIEN, Robert (IND)"	27		9	33.33		18	66.67		27
+		"BLAIR, Gillian (GRN)"	118		30	25.42		88	74.58		118
+		"WITNEY, Ricky (LEF)"	29		19	65.52		10	34.48		29
+		"SCHMIDT, Olive (HAN)"	43		27	62.79		16	37.21		43
+		Total	296		1023	54.33		860	45.67		1883
+
+	Portland Central										
+			1st Prefs		1077	52.69		967	47.31		2044
+		"MCDONALD, Leigh (IND)"	43		32	74.42		11	25.58		43
+		"PACKER, Amanda Elise (DEM)"	93		38	40.86		55	59.14		93
+		"O'BRIEN, Robert (IND)"	14		8	57.14		6	42.86		14
+		"BLAIR, Gillian (GRN)"	104		34	32.69		70	67.31		104
+		"WITNEY, Ricky (LEF)"	35		20	57.14		15	42.86		35
+		"SCHMIDT, Olive (HAN)"	49		28	57.14		21	42.86		49
+		Total	338		1237	51.93		1145	48.07		2382
+
+	Portland North										
+			1st Prefs		171	63.10		100	36.90		271
+		"MCDONALD, Leigh (IND)"	15		6	40.00		9	60.00		15
+		"PACKER, Amanda Elise (DEM)"	11		5	45.45		6	54.55		11
+		"O'BRIEN, Robert (IND)"	5		1	20.00		4	80.00		5
+		"BLAIR, Gillian (GRN)"	10		3	30.00		7	70.00		10
+		"WITNEY, Ricky (LEF)"	4		3	75.00		1	25.00		4
+		"SCHMIDT, Olive (HAN)"	11		7	63.64		4	36.36		11
+		Total	56		196	59.94		131	40.06		327
+
+	Portland South										
+			1st Prefs		697	49.29		717	50.71		1414
+		"MCDONALD, Leigh (IND)"	29		17	58.62		12	41.38		29
+		"PACKER, Amanda Elise (DEM)"	44		16	36.36		28	63.64		44
+		"O'BRIEN, Robert (IND)"	11		5	45.45		6	54.55		11
+		"BLAIR, Gillian (GRN)"	33		16	48.48		17	51.52		33
+		"WITNEY, Ricky (LEF)"	21		12	57.14		9	42.86		21
+		"SCHMIDT, Olive (HAN)"	32		27	84.38		5	15.63		32
+		Total	170		790	49.87		794	50.13		1584
+
+	Purnim										
+			1st Prefs		168	69.42		74	30.58		242
+		"MCDONALD, Leigh (IND)"	5		2	40.00		3	60.00		5
+		"PACKER, Amanda Elise (DEM)"	6		3	50.00		3	50.00		6
+		"O'BRIEN, Robert (IND)"	5		2	40.00		3	60.00		5
+		"BLAIR, Gillian (GRN)"	7		3	42.86		4	57.14		7
+		"WITNEY, Ricky (LEF)"	2		1	50.00		1	50.00		2
+		"SCHMIDT, Olive (HAN)"	10		8	80.00		2	20.00		10
+		Total	35		187	67.51		90	32.49		277
+
+	Scotts Creek										
+			1st Prefs		141	92.16		12	7.84		153
+		"MCDONALD, Leigh (IND)"	1		1	100.00		0	0.00		1
+		"PACKER, Amanda Elise (DEM)"	2		1	50.00		1	50.00		2
+		"O'BRIEN, Robert (IND)"	1		1	100.00		0	0.00		1
+		"BLAIR, Gillian (GRN)"	2		1	50.00		1	50.00		2
+		"WITNEY, Ricky (LEF)"	4		3	75.00		1	25.00		4
+		"SCHMIDT, Olive (HAN)"	6		4	66.67		2	33.33		6
+		Total	16		152	89.94		17	10.06		169
+
+	Simpson (Wannon)										
+			1st Prefs		326	89.56		38	10.44		364
+		"MCDONALD, Leigh (IND)"	4		4	100.00		0	0.00		4
+		"PACKER, Amanda Elise (DEM)"	4		4	100.00		0	0.00		4
+		"O'BRIEN, Robert (IND)"	8		2	25.00		6	75.00		8
+		"BLAIR, Gillian (GRN)"	4		2	50.00		2	50.00		4
+		"WITNEY, Ricky (LEF)"	5		3	60.00		2	40.00		5
+		"SCHMIDT, Olive (HAN)"	12		11	91.67		1	8.33		12
+		Total	37		352	87.78		49	12.22		401
+
+	Skipton										
+			1st Prefs		281	69.04		126	30.96		407
+		"MCDONALD, Leigh (IND)"	11		9	81.82		2	18.18		11
+		"PACKER, Amanda Elise (DEM)"	9		3	33.33		6	66.67		9
+		"O'BRIEN, Robert (IND)"	2		2	100.00		0	0.00		2
+		"BLAIR, Gillian (GRN)"	7		4	57.14		3	42.86		7
+		"WITNEY, Ricky (LEF)"	4		2	50.00		2	50.00		4
+		"SCHMIDT, Olive (HAN)"	7		4	57.14		3	42.86		7
+		Total	40		305	68.23		142	31.77		447
+
+	Smythesdale										
+			1st Prefs		297	43.42		387	56.58		684
+		"MCDONALD, Leigh (IND)"	17		7	41.18		10	58.82		17
+		"PACKER, Amanda Elise (DEM)"	25		10	40.00		15	60.00		25
+		"O'BRIEN, Robert (IND)"	4		4	100.00		0	0.00		4
+		"BLAIR, Gillian (GRN)"	27		5	18.52		22	81.48		27
+		"WITNEY, Ricky (LEF)"	8		3	37.50		5	62.50		8
+		"SCHMIDT, Olive (HAN)"	20		9	45.00		11	55.00		20
+		Total	101		335	42.68		450	57.32		785
+
+	Snake Valley										
+			1st Prefs		196	46.78		223	53.22		419
+		"MCDONALD, Leigh (IND)"	10		7	70.00		3	30.00		10
+		"PACKER, Amanda Elise (DEM)"	17		6	35.29		11	64.71		17
+		"O'BRIEN, Robert (IND)"	3		0	0.00		3	100.00		3
+		"BLAIR, Gillian (GRN)"	13		2	15.38		11	84.62		13
+		"WITNEY, Ricky (LEF)"	5		3	60.00		2	40.00		5
+		"SCHMIDT, Olive (HAN)"	16		10	62.50		6	37.50		16
+		Total	64		224	46.38		259	53.62		483
+
+	Streatham										
+			1st Prefs		152	83.98		29	16.02		181
+		"MCDONALD, Leigh (IND)"	4		3	75.00		1	25.00		4
+		"PACKER, Amanda Elise (DEM)"	3		3	100.00		0	0.00		3
+		"O'BRIEN, Robert (IND)"	1		1	100.00		0	0.00		1
+		"BLAIR, Gillian (GRN)"	1		0	0.00		1	100.00		1
+		"WITNEY, Ricky (LEF)"	3		2	66.67		1	33.33		3
+		"SCHMIDT, Olive (HAN)"	5		2	40.00		3	60.00		5
+		Total	17		163	82.32		35	17.68		198
+
+	Tarrington										
+			1st Prefs		156	79.59		40	20.41		196
+		"MCDONALD, Leigh (IND)"	18		14	77.78		4	22.22		18
+		"PACKER, Amanda Elise (DEM)"	7		3	42.86		4	57.14		7
+		"O'BRIEN, Robert (IND)"	6		2	33.33		4	66.67		6
+		"BLAIR, Gillian (GRN)"	8		2	25.00		6	75.00		8
+		"WITNEY, Ricky (LEF)"	3		2	66.67		1	33.33		3
+		"SCHMIDT, Olive (HAN)"	13		10	76.92		3	23.08		13
+		Total	55		189	75.30		62	24.70		251
+
+	Tatyoon										
+			1st Prefs		108	81.20		25	18.80		133
+		"MCDONALD, Leigh (IND)"	2		1	50.00		1	50.00		2
+		"PACKER, Amanda Elise (DEM)"	2		0	0.00		2	100.00		2
+		"O'BRIEN, Robert (IND)"	0		0	0.00		0	0.00		0
+		"BLAIR, Gillian (GRN)"	2		1	50.00		1	50.00		2
+		"WITNEY, Ricky (LEF)"	4		3	75.00		1	25.00		4
+		"SCHMIDT, Olive (HAN)"	6		5	83.33		1	16.67		6
+		Total	16		118	79.19		31	20.81		149
+
+	Terang										
+			1st Prefs		848	65.74		442	34.26		1290
+		"MCDONALD, Leigh (IND)"	25		20	80.00		5	20.00		25
+		"PACKER, Amanda Elise (DEM)"	35		21	60.00		14	40.00		35
+		"O'BRIEN, Robert (IND)"	24		12	50.00		12	50.00		24
+		"BLAIR, Gillian (GRN)"	39		14	35.90		25	64.10		39
+		"WITNEY, Ricky (LEF)"	28		19	67.86		9	32.14		28
+		"SCHMIDT, Olive (HAN)"	33		19	57.58		14	42.42		33
+		Total	184		953	64.65		521	35.35		1474
+
+	Timboon										
+			1st Prefs		669	77.79		191	22.21		860
+		"MCDONALD, Leigh (IND)"	6		2	33.33		4	66.67		6
+		"PACKER, Amanda Elise (DEM)"	25		10	40.00		15	60.00		25
+		"O'BRIEN, Robert (IND)"	3		3	100.00		0	0.00		3
+		"BLAIR, Gillian (GRN)"	64		14	21.88		50	78.13		64
+		"WITNEY, Ricky (LEF)"	13		7	53.85		6	46.15		13
+		"SCHMIDT, Olive (HAN)"	29		20	68.97		9	31.03		29
+		Total	140		725	72.50		275	27.50		1000
+
+	Tower Square										
+			1st Prefs		435	60.33		286	39.67		721
+		"MCDONALD, Leigh (IND)"	14		9	64.29		5	35.71		14
+		"PACKER, Amanda Elise (DEM)"	12		6	50.00		6	50.00		12
+		"O'BRIEN, Robert (IND)"	24		10	41.67		14	58.33		24
+		"BLAIR, Gillian (GRN)"	23		12	52.17		11	47.83		23
+		"WITNEY, Ricky (LEF)"	8		5	62.50		3	37.50		8
+		"SCHMIDT, Olive (HAN)"	22		15	68.18		7	31.82		22
+		Total	103		492	59.71		332	40.29		824
+
+	Tyrendarra										
+			1st Prefs		99	80.49		24	19.51		123
+		"MCDONALD, Leigh (IND)"	4		2	50.00		2	50.00		4
+		"PACKER, Amanda Elise (DEM)"	7		4	57.14		3	42.86		7
+		"O'BRIEN, Robert (IND)"	0		0	0.00		0	0.00		0
+		"BLAIR, Gillian (GRN)"	3		0	0.00		3	100.00		3
+		"WITNEY, Ricky (LEF)"	3		3	100.00		0	0.00		3
+		"SCHMIDT, Olive (HAN)"	11		7	63.64		4	36.36		11
+		Total	28		115	76.16		36	23.84		151
+
+	Wangoom										
+			1st Prefs		145	78.38		40	21.62		185
+		"MCDONALD, Leigh (IND)"	3		3	100.00		0	0.00		3
+		"PACKER, Amanda Elise (DEM)"	8		5	62.50		3	37.50		8
+		"O'BRIEN, Robert (IND)"	4		3	75.00		1	25.00		4
+		"BLAIR, Gillian (GRN)"	12		6	50.00		6	50.00		12
+		"WITNEY, Ricky (LEF)"	5		4	80.00		1	20.00		5
+		"SCHMIDT, Olive (HAN)"	4		3	75.00		1	25.00		4
+		Total	36		169	76.47		52	23.53		221
+
+	Warrnambool										
+			1st Prefs		2142	60.05		1425	39.95		3567
+		"MCDONALD, Leigh (IND)"	71		56	78.87		15	21.13		71
+		"PACKER, Amanda Elise (DEM)"	110		44	40.00		66	60.00		110
+		"O'BRIEN, Robert (IND)"	88		33	37.50		55	62.50		88
+		"BLAIR, Gillian (GRN)"	213		50	23.47		163	76.53		213
+		"WITNEY, Ricky (LEF)"	70		42	60.00		28	40.00		70
+		"SCHMIDT, Olive (HAN)"	110		55	50.00		55	50.00		110
+		Total	662		2422	57.27		1807	42.73		4229
+
+	Warrnambool East										
+			1st Prefs		1028	57.40		763	42.60		1791
+		"MCDONALD, Leigh (IND)"	21		14	66.67		7	33.33		21
+		"PACKER, Amanda Elise (DEM)"	71		35	49.30		36	50.70		71
+		"O'BRIEN, Robert (IND)"	45		17	37.78		28	62.22		45
+		"BLAIR, Gillian (GRN)"	145		52	35.86		93	64.14		145
+		"WITNEY, Ricky (LEF)"	42		20	47.62		22	52.38		42
+		"SCHMIDT, Olive (HAN)"	42		22	52.38		20	47.62		42
+		Total	366		1188	55.08		969	44.92		2157
+
+	Warrnambool Hospital										
+			1st Prefs		153	50.83		148	49.17		301
+		"MCDONALD, Leigh (IND)"	3		2	66.67		1	33.33		3
+		"PACKER, Amanda Elise (DEM)"	16		7	43.75		9	56.25		16
+		"O'BRIEN, Robert (IND)"	9		6	66.67		3	33.33		9
+		"BLAIR, Gillian (GRN)"	22		8	36.36		14	63.64		22
+		"WITNEY, Ricky (LEF)"	2		1	50.00		1	50.00		2
+		"SCHMIDT, Olive (HAN)"	4		4	100.00		0	0.00		4
+		Total	56		181	50.70		176	49.30		357
+
+	Warrnambool North										
+			1st Prefs		674	58.05		487	41.95		1161
+		"MCDONALD, Leigh (IND)"	21		13	61.90		8	38.10		21
+		"PACKER, Amanda Elise (DEM)"	45		18	40.00		27	60.00		45
+		"O'BRIEN, Robert (IND)"	26		13	50.00		13	50.00		26
+		"BLAIR, Gillian (GRN)"	74		17	22.97		57	77.03		74
+		"WITNEY, Ricky (LEF)"	35		20	57.14		15	42.86		35
+		"SCHMIDT, Olive (HAN)"	24		12	50.00		12	50.00		24
+		Total	225		767	55.34		619	44.66		1386
+
+	Warrnambool SDS										
+			1st Prefs		530	53.16		467	46.84		997
+		"MCDONALD, Leigh (IND)"	15		10	66.67		5	33.33		15
+		"PACKER, Amanda Elise (DEM)"	26		12	46.15		14	53.85		26
+		"O'BRIEN, Robert (IND)"	25		11	44.00		14	56.00		25
+		"BLAIR, Gillian (GRN)"	54		7	12.96		47	87.04		54
+		"WITNEY, Ricky (LEF)"	17		11	64.71		6	35.29		17
+		"SCHMIDT, Olive (HAN)"	18		9	50.00		9	50.00		18
+		Total	155		590	51.22		562	48.78		1152
+
+	Warrnambool South										
+			1st Prefs		226	55.67		180	44.33		406
+		"MCDONALD, Leigh (IND)"	3		2	66.67		1	33.33		3
+		"PACKER, Amanda Elise (DEM)"	10		2	20.00		8	80.00		10
+		"O'BRIEN, Robert (IND)"	12		3	25.00		9	75.00		12
+		"BLAIR, Gillian (GRN)"	16		3	18.75		13	81.25		16
+		"WITNEY, Ricky (LEF)"	13		5	38.46		8	61.54		13
+		"SCHMIDT, Olive (HAN)"	13		6	46.15		7	53.85		13
+		Total	67		247	52.22		226	47.78		473
+
+	Warrnambool West										
+			1st Prefs		1166	59.31		800	40.69		1966
+		"MCDONALD, Leigh (IND)"	24		18	75.00		6	25.00		24
+		"PACKER, Amanda Elise (DEM)"	77		33	42.86		44	57.14		77
+		"O'BRIEN, Robert (IND)"	30		7	23.33		23	76.67		30
+		"BLAIR, Gillian (GRN)"	55		21	38.18		34	61.82		55
+		"WITNEY, Ricky (LEF)"	36		26	72.22		10	27.78		36
+		"SCHMIDT, Olive (HAN)"	63		38	60.32		25	39.68		63
+		Total	285		1309	58.15		942	41.85		2251
+
+	Willaura										
+			1st Prefs		234	71.34		94	28.66		328
+		"MCDONALD, Leigh (IND)"	4		1	25.00		3	75.00		4
+		"PACKER, Amanda Elise (DEM)"	8		5	62.50		3	37.50		8
+		"O'BRIEN, Robert (IND)"	7		6	85.71		1	14.29		7
+		"BLAIR, Gillian (GRN)"	10		5	50.00		5	50.00		10
+		"WITNEY, Ricky (LEF)"	0		0	0.00		0	0.00		0
+		"SCHMIDT, Olive (HAN)"	15		11	73.33		4	26.67		15
+		Total	44		262	70.43		110	29.57		372
+
+	Wiridjil (Wannon)										
+			1st Prefs		83	93.26		6	6.74		89
+		"MCDONALD, Leigh (IND)"	2		1	50.00		1	50.00		2
+		"PACKER, Amanda Elise (DEM)"	1		0	0.00		1	100.00		1
+		"O'BRIEN, Robert (IND)"	0		0	0.00		0	0.00		0
+		"BLAIR, Gillian (GRN)"	2		2	100.00		0	0.00		2
+		"WITNEY, Ricky (LEF)"	2		2	100.00		0	0.00		2
+		"SCHMIDT, Olive (HAN)"	2		2	100.00		0	0.00		2
+		Total	9		90	91.84		8	8.16		98
+
+	Woodford										
+			1st Prefs		241	71.09		98	28.91		339
+		"MCDONALD, Leigh (IND)"	9		8	88.89		1	11.11		9
+		"PACKER, Amanda Elise (DEM)"	7		1	14.29		6	85.71		7
+		"O'BRIEN, Robert (IND)"	3		0	0.00		3	100.00		3
+		"BLAIR, Gillian (GRN)"	19		6	31.58		13	68.42		19
+		"WITNEY, Ricky (LEF)"	10		5	50.00		5	50.00		10
+		"SCHMIDT, Olive (HAN)"	8		4	50.00		4	50.00		8
+		Total	56		265	67.09		130	32.91		395
+
+	Woolsthorpe										
+			1st Prefs		192	71.11		78	28.89		270
+		"MCDONALD, Leigh (IND)"	10		7	70.00		3	30.00		10
+		"PACKER, Amanda Elise (DEM)"	5		4	80.00		1	20.00		5
+		"O'BRIEN, Robert (IND)"	5		2	40.00		3	60.00		5
+		"BLAIR, Gillian (GRN)"	16		7	43.75		9	56.25		16
+		"WITNEY, Ricky (LEF)"	6		4	66.67		2	33.33		6
+		"SCHMIDT, Olive (HAN)"	7		5	71.43		2	28.57		7
+		Total	49		221	69.28		98	30.72		319
+
+	Woorndoo										
+			1st Prefs		48	90.57		5	9.43		53
+		"MCDONALD, Leigh (IND)"	0		0	0.00		0	0.00		0
+		"PACKER, Amanda Elise (DEM)"	1		0	0.00		1	100.00		1
+		"O'BRIEN, Robert (IND)"	0		0	0.00		0	0.00		0
+		"BLAIR, Gillian (GRN)"	4		2	50.00		2	50.00		4
+		"WITNEY, Ricky (LEF)"	1		0	0.00		1	100.00		1
+		"SCHMIDT, Olive (HAN)"	1		1	100.00		0	0.00		1
+		Total	7		51	85.00		9	15.00		60
+
+	Yambuk										
+			1st Prefs		132	81.99		29	18.01		161
+		"MCDONALD, Leigh (IND)"	5		1	20.00		4	80.00		5
+		"PACKER, Amanda Elise (DEM)"	8		5	62.50		3	37.50		8
+		"O'BRIEN, Robert (IND)"	2		0	0.00		2	100.00		2
+		"BLAIR, Gillian (GRN)"	9		1	11.11		8	88.89		9
+		"WITNEY, Ricky (LEF)"	12		9	75.00		3	25.00		12
+		"SCHMIDT, Olive (HAN)"	12		5	41.67		7	58.33		12
+		Total	48		153	73.21		56	26.79		209
+
+	Special Hospitals										
+			1st Prefs		173	62.68		103	37.32		276
+		"MCDONALD, Leigh (IND)"	6		6	100.00		0	0.00		6
+		"PACKER, Amanda Elise (DEM)"	0		0	0.00		0	0.00		0
+		"O'BRIEN, Robert (IND)"	0		0	0.00		0	0.00		0
+		"BLAIR, Gillian (GRN)"	0		0	0.00		0	0.00		0
+		"WITNEY, Ricky (LEF)"	0		0	0.00		0	0.00		0
+		"SCHMIDT, Olive (HAN)"	1		1	100.00		0	0.00		1
+		Total	7		180	63.60		103	36.40		283
+
+	Total Ordinary										
+			1st Prefs		33251	60.44		21764	39.56		55015
+		"MCDONALD, Leigh (IND)"	1436		948	66.02		488	33.98		1436
+		"PACKER, Amanda Elise (DEM)"	1746		810	46.39		936	53.61		1746
+		"O'BRIEN, Robert (IND)"	729		341	46.78		388	53.22		729
+		"BLAIR, Gillian (GRN)"	2183		701	32.11		1482	67.89		2183
+		"WITNEY, Ricky (LEF)"	947		549	57.97		398	42.03		947
+		"SCHMIDT, Olive (HAN)"	1710		1052	61.52		658	38.48		1710
+		Total	8751		37652	59.05		26114	40.95		63766
+
+	ABSENT										
+			1st Prefs		1942	62.30		1175	37.70		3117
+		"MCDONALD, Leigh (IND)"	121		84	69.42		37	30.58		121
+		"PACKER, Amanda Elise (DEM)"	283		128	45.23		155	54.77		283
+		"O'BRIEN, Robert (IND)"	56		25	44.64		31	55.36		56
+		"BLAIR, Gillian (GRN)"	282		94	33.33		188	66.67		282
+		"WITNEY, Ricky (LEF)"	115		67	58.26		48	41.74		115
+		"SCHMIDT, Olive (HAN)"	117		76	64.96		41	35.04		117
+		Total	974		2416	59.06		1675	40.94		4091
+
+	POSTAL										
+			1st Prefs		2678	69.79		1159	30.21		3837
+		"MCDONALD, Leigh (IND)"	90		59	65.56		31	34.44		90
+		"PACKER, Amanda Elise (DEM)"	104		45	43.27		59	56.73		104
+		"O'BRIEN, Robert (IND)"	23		12	52.17		11	47.83		23
+		"BLAIR, Gillian (GRN)"	85		27	31.76		58	68.24		85
+		"WITNEY, Ricky (LEF)"	54		28	51.85		26	48.15		54
+		"SCHMIDT, Olive (HAN)"	180		114	63.33		66	36.67		180
+		Total	536		2963	67.76		1410	32.24		4373
+
+	PRE_POLL										
+			1st Prefs		2305	62.30		1395	37.70		3700
+		"MCDONALD, Leigh (IND)"	98		71	72.45		27	27.55		98
+		"PACKER, Amanda Elise (DEM)"	146		59	40.41		87	59.59		146
+		"O'BRIEN, Robert (IND)"	59		36	61.02		23	38.98		59
+		"BLAIR, Gillian (GRN)"	188		68	36.17		120	63.83		188
+		"WITNEY, Ricky (LEF)"	64		38	59.38		26	40.63		64
+		"SCHMIDT, Olive (HAN)"	120		76	63.33		44	36.67		120
+		Total	675		2653	60.64		1722	39.36		4375
+
+	PROVISIONAL										
+			1st Prefs		190	54.91		156	45.09		346
+		"MCDONALD, Leigh (IND)"	13		10	76.92		3	23.08		13
+		"PACKER, Amanda Elise (DEM)"	15		7	46.67		8	53.33		15
+		"O'BRIEN, Robert (IND)"	9		3	33.33		6	66.67		9
+		"BLAIR, Gillian (GRN)"	27		12	44.44		15	55.56		27
+		"WITNEY, Ricky (LEF)"	16		10	62.50		6	37.50		16
+		"SCHMIDT, Olive (HAN)"	10		5	50.00		5	50.00		10	
+		Total	90		237	54.36		199	45.64		436	
+
+	Division Summary											
+			1st Prefs		40366	61.15		25649	38.85		66015	
+		"MCDONALD, Leigh (IND)"	1758		1172	66.67		586	33.33		1758	
+		"PACKER, Amanda Elise (DEM)"	2294		1049	45.73		1245	54.27		2294	
+		"O'BRIEN, Robert (IND)"	876		417	47.60		459	52.40		876	
+		"BLAIR, Gillian (GRN)"	2765		902	32.62		1863	67.38		2765	
+		"WITNEY, Ricky (LEF)"	1196		692	57.86		504	42.14		1196	
+		"SCHMIDT, Olive (HAN)"	2137		1323	61.91		814	38.09		2137	
+		Total	11026		45921	59.61		31120	40.39		77041	

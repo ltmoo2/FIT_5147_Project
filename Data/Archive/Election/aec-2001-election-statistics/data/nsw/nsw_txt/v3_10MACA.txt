@@ -1,0 +1,517 @@
+House of Representatives - 2001 Election: New South Wales 											
+Two Candidate Preferred Preference Flow Result											
+By Polling Place by Division											
+											
+Macarthur (80127)											
+		Candidate		"OATES, Meg"		                 	"FARMER, Pat"		                	Total	
+				ALP		                        	LP		                         		
+				Votes	%	                     	Votes	%	                     		
+	Airds										
+			1st Prefs	565	68.24		263	31.76		828	
+		"WATKINS, Len (HAN)"	51	38	74.51		13	25.49		51	
+		"SANDERS, Eric (NCP)"	7	3	42.86		4	57.14		7	
+		"LANTRY, Jasmine (DEM)"	15	9	60.00		6	40.00		15	
+		"KNOWLES, Gregory John (IND)"	8	3	37.50		5	62.50		8	
+		"SHEPPARD, Elwyn (CTA)"	14	6	42.86		8	57.14		14	
+		"HUNT, Geraldine (GRN)"	27	22	81.48		5	18.52		27	
+		Total	122	646	68.00		304	32.00		950	
+
+	Airds North										
+			1st Prefs	460	78.77		124	21.23		584	
+		"WATKINS, Len (HAN)"	19	13	68.42		6	31.58		19	
+		"SANDERS, Eric (NCP)"	2	1	50.00		1	50.00		2	
+		"LANTRY, Jasmine (DEM)"	9	5	55.56		4	44.44		9	
+		"KNOWLES, Gregory John (IND)"	9	4	44.44		5	55.56		9	
+		"SHEPPARD, Elwyn (CTA)"	8	3	37.50		5	62.50		8	
+		"HUNT, Geraldine (GRN)"	18	14	77.78		4	22.22		18	
+		Total	65	500	77.04		149	22.96		649	
+
+	Ambarvale										
+			1st Prefs	1382	44.42		1729	55.58		3111	
+		"WATKINS, Len (HAN)"	200	68	34.00		132	66.00		200	
+		"SANDERS, Eric (NCP)"	9	6	66.67		3	33.33		9	
+		"LANTRY, Jasmine (DEM)"	83	45	54.22		38	45.78		83	
+		"KNOWLES, Gregory John (IND)"	25	10	40.00		15	60.00		25	
+		"SHEPPARD, Elwyn (CTA)"	57	22	38.60		35	61.40		57	
+		"HUNT, Geraldine (GRN)"	103	75	72.82		28	27.18		103	
+		Total	477	1608	44.82		1980	55.18		3588	
+
+	Ambarvale West										
+			1st Prefs	866	48.98		902	51.02		1768	
+		"WATKINS, Len (HAN)"	99	56	56.57		43	43.43		99	
+		"SANDERS, Eric (NCP)"	10	3	30.00		7	70.00		10	
+		"LANTRY, Jasmine (DEM)"	31	18	58.06		13	41.94		31	
+		"KNOWLES, Gregory John (IND)"	21	8	38.10		13	61.90		21	
+		"SHEPPARD, Elwyn (CTA)"	25	11	44.00		14	56.00		25	
+		"HUNT, Geraldine (GRN)"	73	60	82.19		13	17.81		73	
+		Total	259	1022	50.42		1005	49.58		2027	
+
+	Austral (Macarthur)										
+			1st Prefs	52	35.86		93	64.14		145	
+		"WATKINS, Len (HAN)"	11	6	54.55		5	45.45		11	
+		"SANDERS, Eric (NCP)"	2	2	100.00		0	0.00		2	
+		"LANTRY, Jasmine (DEM)"	2	2	100.00		0	0.00		2	
+		"KNOWLES, Gregory John (IND)"	3	0	0.00		3	100.00		3	
+		"SHEPPARD, Elwyn (CTA)"	9	1	11.11		8	88.89		9	
+		"HUNT, Geraldine (GRN)"	3	2	66.67		1	33.33		3	
+		Total	30	65	37.14		110	62.86		175	
+
+	Badgerys Creek										
+			1st Prefs	78	45.35		94	54.65		172	
+		"WATKINS, Len (HAN)"	20	10	50.00		10	50.00		20	
+		"SANDERS, Eric (NCP)"	1	1	100.00		0	0.00		1	
+		"LANTRY, Jasmine (DEM)"	4	3	75.00		1	25.00		4	
+		"KNOWLES, Gregory John (IND)"	8	6	75.00		2	25.00		8	
+		"SHEPPARD, Elwyn (CTA)"	7	1	14.29		6	85.71		7	
+		"HUNT, Geraldine (GRN)"	8	3	37.50		5	62.50		8	
+		Total	48	102	46.36		118	53.64		220	
+
+	Blairmount										
+			1st Prefs	416	54.10		353	45.90		769	
+		"WATKINS, Len (HAN)"	31	20	64.52		11	35.48		31	
+		"SANDERS, Eric (NCP)"	1	1	100.00		0	0.00		1	
+		"LANTRY, Jasmine (DEM)"	16	10	62.50		6	37.50		16	
+		"KNOWLES, Gregory John (IND)"	4	3	75.00		1	25.00		4	
+		"SHEPPARD, Elwyn (CTA)"	17	8	47.06		9	52.94		17	
+		"HUNT, Geraldine (GRN)"	12	5	41.67		7	58.33		12	
+		Total	81	463	54.47		387	45.53		850	
+
+	Bradbury										
+			1st Prefs	1349	41.15		1929	58.85		3278	
+		"WATKINS, Len (HAN)"	212	77	36.32		135	63.68		212	
+		"SANDERS, Eric (NCP)"	19	9	47.37		10	52.63		19	
+		"LANTRY, Jasmine (DEM)"	119	67	56.30		52	43.70		119	
+		"KNOWLES, Gregory John (IND)"	81	49	60.49		32	39.51		81	
+		"SHEPPARD, Elwyn (CTA)"	73	12	16.44		61	83.56		73	
+		"HUNT, Geraldine (GRN)"	108	76	70.37		32	29.63		108	
+		Total	612	1639	42.13		2251	57.87		3890	
+
+	Bradbury South										
+			1st Prefs	758	51.18		723	48.82		1481	
+		"WATKINS, Len (HAN)"	94	53	56.38		41	43.62		94	
+		"SANDERS, Eric (NCP)"	4	2	50.00		2	50.00		4	
+		"LANTRY, Jasmine (DEM)"	33	22	66.67		11	33.33		33	
+		"KNOWLES, Gregory John (IND)"	17	7	41.18		10	58.82		17	
+		"SHEPPARD, Elwyn (CTA)"	18	3	16.67		15	83.33		18	
+		"HUNT, Geraldine (GRN)"	48	37	77.08		11	22.92		48	
+		Total	214	882	52.04		813	47.96		1695	
+
+	Bringelly										
+			1st Prefs	281	27.58		738	72.42		1019	
+		"WATKINS, Len (HAN)"	84	40	47.62		44	52.38		84	
+		"SANDERS, Eric (NCP)"	0	0	0.00		0	0.00		0	
+		"LANTRY, Jasmine (DEM)"	22	12	54.55		10	45.45		22	
+		"KNOWLES, Gregory John (IND)"	14	7	50.00		7	50.00		14	
+		"SHEPPARD, Elwyn (CTA)"	8	5	62.50		3	37.50		8	
+		"HUNT, Geraldine (GRN)"	29	18	62.07		11	37.93		29	
+		Total	157	363	30.87		813	69.13		1176	
+
+	Camden										
+			1st Prefs	337	23.65		1088	76.35		1425	
+		"WATKINS, Len (HAN)"	51	18	35.29		33	64.71		51	
+		"SANDERS, Eric (NCP)"	1	0	0.00		1	100.00		1	
+		"LANTRY, Jasmine (DEM)"	41	22	53.66		19	46.34		41	
+		"KNOWLES, Gregory John (IND)"	10	7	70.00		3	30.00		10	
+		"SHEPPARD, Elwyn (CTA)"	20	0	0.00		20	100.00		20	
+		"HUNT, Geraldine (GRN)"	48	41	85.42		7	14.58		48	
+		Total	171	425	26.63		1171	73.37		1596	
+
+	Camden Downs										
+			1st Prefs	277	30.95		618	69.05		895	
+		"WATKINS, Len (HAN)"	38	22	57.89		16	42.11		38	
+		"SANDERS, Eric (NCP)"	0	0	0.00		0	0.00		0	
+		"LANTRY, Jasmine (DEM)"	26	16	61.54		10	38.46		26	
+		"KNOWLES, Gregory John (IND)"	3	0	0.00		3	100.00		3	
+		"SHEPPARD, Elwyn (CTA)"	20	3	15.00		17	85.00		20	
+		"HUNT, Geraldine (GRN)"	43	29	67.44		14	32.56		43	
+		Total	130	347	33.85		678	66.15		1025	
+
+	Camden East										
+			1st Prefs	415	31.20		915	68.80		1330	
+		"WATKINS, Len (HAN)"	61	36	59.02		25	40.98		61	
+		"SANDERS, Eric (NCP)"	5	5	100.00		0	0.00		5	
+		"LANTRY, Jasmine (DEM)"	44	30	68.18		14	31.82		44	
+		"KNOWLES, Gregory John (IND)"	5	2	40.00		3	60.00		5	
+		"SHEPPARD, Elwyn (CTA)"	41	4	9.76		37	90.24		41	
+		"HUNT, Geraldine (GRN)"	67	55	82.09		12	17.91		67	
+		Total	223	547	35.22		1006	64.78		1553	
+
+	Camden Hospital										
+			1st Prefs	51	31.88		109	68.13		160	
+		"WATKINS, Len (HAN)"	11	5	45.45		6	54.55		11	
+		"SANDERS, Eric (NCP)"	0	0	0.00		0	0.00		0	
+		"LANTRY, Jasmine (DEM)"	5	2	40.00		3	60.00		5	
+		"KNOWLES, Gregory John (IND)"	0	0	0.00		0	0.00		0	
+		"SHEPPARD, Elwyn (CTA)"	0	0	0.00		0	0.00		0	
+		"HUNT, Geraldine (GRN)"	7	5	71.43		2	28.57		7	
+		Total	23	63	34.43		120	65.57		183	
+
+	Camden South										
+			1st Prefs	623	29.21		1510	70.79		2133	
+		"WATKINS, Len (HAN)"	98	42	42.86		56	57.14		98	
+		"SANDERS, Eric (NCP)"	4	3	75.00		1	25.00		4	
+		"LANTRY, Jasmine (DEM)"	73	39	53.42		34	46.58		73	
+		"KNOWLES, Gregory John (IND)"	23	12	52.17		11	47.83		23	
+		"SHEPPARD, Elwyn (CTA)"	49	6	12.24		43	87.76		49	
+		"HUNT, Geraldine (GRN)"	79	54	68.35		25	31.65		79	
+		Total	326	779	31.68		1680	68.32		2459	
+
+	Campbelltown										
+			1st Prefs	900	51.31		854	48.69		1754	
+		"WATKINS, Len (HAN)"	91	44	48.35		47	51.65		91	
+		"SANDERS, Eric (NCP)"	5	1	20.00		4	80.00		5	
+		"LANTRY, Jasmine (DEM)"	44	35	79.55		9	20.45		44	
+		"KNOWLES, Gregory John (IND)"	20	11	55.00		9	45.00		20	
+		"SHEPPARD, Elwyn (CTA)"	38	8	21.05		30	78.95		38	
+		"HUNT, Geraldine (GRN)"	80	59	73.75		21	26.25		80	
+		Total	278	1058	52.07		974	47.93		2032	
+
+	Campbelltown East										
+			1st Prefs	917	47.22		1025	52.78		1942	
+		"WATKINS, Len (HAN)"	177	68	38.42		109	61.58		177	
+		"SANDERS, Eric (NCP)"	6	1	16.67		5	83.33		6	
+		"LANTRY, Jasmine (DEM)"	48	23	47.92		25	52.08		48	
+		"KNOWLES, Gregory John (IND)"	15	9	60.00		6	40.00		15	
+		"SHEPPARD, Elwyn (CTA)"	20	6	30.00		14	70.00		20	
+		"HUNT, Geraldine (GRN)"	99	79	79.80		20	20.20		99	
+		Total	365	1103	47.81		1204	52.19		2307	
+
+	Campbelltown North										
+			1st Prefs	329	46.08		385	53.92		714	
+		"WATKINS, Len (HAN)"	49	27	55.10		22	44.90		49	
+		"SANDERS, Eric (NCP)"	3	3	100.00		0	0.00		3	
+		"LANTRY, Jasmine (DEM)"	12	8	66.67		4	33.33		12	
+		"KNOWLES, Gregory John (IND)"	4	3	75.00		1	25.00		4	
+		"SHEPPARD, Elwyn (CTA)"	8	1	12.50		7	87.50		8	
+		"HUNT, Geraldine (GRN)"	29	22	75.86		7	24.14		29	
+		Total	105	393	47.99		426	52.01		819	
+
+	Carrington Hospital										
+			1st Prefs	103	21.78		370	78.22		473	
+		"WATKINS, Len (HAN)"	12	3	25.00		9	75.00		12	
+		"SANDERS, Eric (NCP)"	0	0	0.00		0	0.00		0	
+		"LANTRY, Jasmine (DEM)"	4	2	50.00		2	50.00		4	
+		"KNOWLES, Gregory John (IND)"	1	0	0.00		1	100.00		1	
+		"SHEPPARD, Elwyn (CTA)"	3	0	0.00		3	100.00		3	
+		"HUNT, Geraldine (GRN)"	10	8	80.00		2	20.00		10	
+		Total	30	116	23.06		387	76.94		503	
+
+	Catherine Field										
+			1st Prefs	195	27.70		509	72.30		704	
+		"WATKINS, Len (HAN)"	40	20	50.00		20	50.00		40	
+		"SANDERS, Eric (NCP)"	1	0	0.00		1	100.00		1	
+		"LANTRY, Jasmine (DEM)"	10	6	60.00		4	40.00		10	
+		"KNOWLES, Gregory John (IND)"	4	2	50.00		2	50.00		4	
+		"SHEPPARD, Elwyn (CTA)"	6	3	50.00		3	50.00		6	
+		"HUNT, Geraldine (GRN)"	20	14	70.00		6	30.00		20	
+		Total	81	240	30.57		545	69.43		785	
+
+	Cawdor (Macarthur)										
+			1st Prefs	26	25.00		78	75.00		104	
+		"WATKINS, Len (HAN)"	1	0	0.00		1	100.00		1	
+		"SANDERS, Eric (NCP)"	0	0	0.00		0	0.00		0	
+		"LANTRY, Jasmine (DEM)"	2	2	100.00		0	0.00		2	
+		"KNOWLES, Gregory John (IND)"	1	0	0.00		1	100.00		1	
+		"SHEPPARD, Elwyn (CTA)"	2	0	0.00		2	100.00		2	
+		"HUNT, Geraldine (GRN)"	4	1	25.00		3	75.00		4	
+		Total	10	29	25.44		85	74.56		114	
+
+	Claymore										
+			1st Prefs	631	70.98		258	29.02		889	
+		"WATKINS, Len (HAN)"	40	26	65.00		14	35.00		40	
+		"SANDERS, Eric (NCP)"	5	3	60.00		2	40.00		5	
+		"LANTRY, Jasmine (DEM)"	17	12	70.59		5	29.41		17	
+		"KNOWLES, Gregory John (IND)"	3	2	66.67		1	33.33		3	
+		"SHEPPARD, Elwyn (CTA)"	5	1	20.00		4	80.00		5	
+		"HUNT, Geraldine (GRN)"	17	13	76.47		4	23.53		17	
+		Total	87	688	70.49		288	29.51		976	
+
+	Cobbitty (Macarthur)										
+			1st Prefs	94	17.25		451	82.75		545	
+		"WATKINS, Len (HAN)"	22	9	40.91		13	59.09		22	
+		"SANDERS, Eric (NCP)"	2	2	100.00		0	0.00		2	
+		"LANTRY, Jasmine (DEM)"	11	3	27.27		8	72.73		11	
+		"KNOWLES, Gregory John (IND)"	1	1	100.00		0	0.00		1	
+		"SHEPPARD, Elwyn (CTA)"	13	2	15.38		11	84.62		13	
+		"HUNT, Geraldine (GRN)"	18	16	88.89		2	11.11		18	
+		Total	67	127	20.75		485	79.25		612	
+
+	Currans Hill										
+			1st Prefs	668	40.96		963	59.04		1631	
+		"WATKINS, Len (HAN)"	90	44	48.89		46	51.11		90	
+		"SANDERS, Eric (NCP)"	7	3	42.86		4	57.14		7	
+		"LANTRY, Jasmine (DEM)"	37	17	45.95		20	54.05		37	
+		"KNOWLES, Gregory John (IND)"	23	17	73.91		6	26.09		23	
+		"SHEPPARD, Elwyn (CTA)"	20	6	30.00		14	70.00		20	
+		"HUNT, Geraldine (GRN)"	50	34	68.00		16	32.00		50	
+		Total	227	789	42.47		1069	57.53		1858	
+
+	Eagle Vale										
+			1st Prefs	865	52.97		768	47.03		1633	
+		"WATKINS, Len (HAN)"	69	38	55.07		31	44.93		69	
+		"SANDERS, Eric (NCP)"	9	5	55.56		4	44.44		9	
+		"LANTRY, Jasmine (DEM)"	24	19	79.17		5	20.83		24	
+		"KNOWLES, Gregory John (IND)"	19	13	68.42		6	31.58		19	
+		"SHEPPARD, Elwyn (CTA)"	30	14	46.67		16	53.33		30	
+		"HUNT, Geraldine (GRN)"	31	19	61.29		12	38.71		31	
+		Total	182	973	53.61		842	46.39		1815	
+
+	Eschol Park										
+			1st Prefs	933	44.05		1185	55.95		2118	
+		"WATKINS, Len (HAN)"	98	55	56.12		43	43.88		98	
+		"SANDERS, Eric (NCP)"	7	4	57.14		3	42.86		7	
+		"LANTRY, Jasmine (DEM)"	54	36	66.67		18	33.33		54	
+		"KNOWLES, Gregory John (IND)"	17	8	47.06		9	52.94		17	
+		"SHEPPARD, Elwyn (CTA)"	21	7	33.33		14	66.67		21	
+		"HUNT, Geraldine (GRN)"	42	26	61.90		16	38.10		42	
+		Total	239	1069	45.35		1288	54.65		2357	
+
+	Harrington Park										
+			1st Prefs	294	26.42		819	73.58		1113	
+		"WATKINS, Len (HAN)"	22	14	63.64		8	36.36		22	
+		"SANDERS, Eric (NCP)"	1	1	100.00		0	0.00		1	
+		"LANTRY, Jasmine (DEM)"	19	15	78.95		4	21.05		19	
+		"KNOWLES, Gregory John (IND)"	13	4	30.77		9	69.23		13	
+		"SHEPPARD, Elwyn (CTA)"	4	2	50.00		2	50.00		4	
+		"HUNT, Geraldine (GRN)"	30	21	70.00		9	30.00		30	
+		Total	89	351	29.20		851	70.80		1202	
+
+	Kentlyn										
+			1st Prefs	192	27.08		517	72.92		709	
+		"WATKINS, Len (HAN)"	52	19	36.54		33	63.46		52	
+		"SANDERS, Eric (NCP)"	0	0	0.00		0	0.00		0	
+		"LANTRY, Jasmine (DEM)"	18	11	61.11		7	38.89		18	
+		"KNOWLES, Gregory John (IND)"	4	3	75.00		1	25.00		4	
+		"SHEPPARD, Elwyn (CTA)"	11	2	18.18		9	81.82		11	
+		"HUNT, Geraldine (GRN)"	23	13	56.52		10	43.48		23	
+		Total	108	240	29.38		577	70.62		817	
+
+	Leppington										
+			1st Prefs	322	34.70		606	65.30		928	
+		"WATKINS, Len (HAN)"	53	34	64.15		19	35.85		53	
+		"SANDERS, Eric (NCP)"	3	2	66.67		1	33.33		3	
+		"LANTRY, Jasmine (DEM)"	16	8	50.00		8	50.00		16	
+		"KNOWLES, Gregory John (IND)"	7	3	42.86		4	57.14		7	
+		"SHEPPARD, Elwyn (CTA)"	8	3	37.50		5	62.50		8	
+		"HUNT, Geraldine (GRN)"	42	28	66.67		14	33.33		42	
+		Total	129	400	37.84		657	62.16		1057	
+
+	Leumeah (Macarthur)										
+			1st Prefs	757	53.65		654	46.35		1411	
+		"WATKINS, Len (HAN)"	141	59	41.84		82	58.16		141	
+		"SANDERS, Eric (NCP)"	7	3	42.86		4	57.14		7	
+		"LANTRY, Jasmine (DEM)"	30	19	63.33		11	36.67		30	
+		"KNOWLES, Gregory John (IND)"	31	23	74.19		8	25.81		31	
+		"SHEPPARD, Elwyn (CTA)"	25	10	40.00		15	60.00		25	
+		"HUNT, Geraldine (GRN)"	66	50	75.76		16	24.24		66	
+		Total	300	921	53.83		790	46.17		1711	
+
+	Leumeah North (Macarthur)										
+			1st Prefs	233	42.21		319	57.79		552	
+		"WATKINS, Len (HAN)"	38	25	65.79		13	34.21		38	
+		"SANDERS, Eric (NCP)"	1	1	100.00		0	0.00		1	
+		"LANTRY, Jasmine (DEM)"	13	9	69.23		4	30.77		13	
+		"KNOWLES, Gregory John (IND)"	1	1	100.00		0	0.00		1	
+		"SHEPPARD, Elwyn (CTA)"	20	5	25.00		15	75.00		20	
+		"HUNT, Geraldine (GRN)"	11	8	72.73		3	27.27		11	
+		Total	84	282	44.34		354	55.66		636	
+
+	Luddenham										
+			1st Prefs	60	20.48		233	79.52		293	
+		"WATKINS, Len (HAN)"	24	8	33.33		16	66.67		24	
+		"SANDERS, Eric (NCP)"	0	0	0.00		0	0.00		0	
+		"LANTRY, Jasmine (DEM)"	5	1	20.00		4	80.00		5	
+		"KNOWLES, Gregory John (IND)"	5	3	60.00		2	40.00		5	
+		"SHEPPARD, Elwyn (CTA)"	5	1	20.00		4	80.00		5	
+		"HUNT, Geraldine (GRN)"	7	4	57.14		3	42.86		7	
+		Total	46	77	22.71		262	77.29		339	
+
+	Menangle (Macarthur)										
+			1st Prefs	59	25.76		170	74.24		229	
+		"WATKINS, Len (HAN)"	12	4	33.33		8	66.67		12	
+		"SANDERS, Eric (NCP)"	0	0	0.00		0	0.00		0	
+		"LANTRY, Jasmine (DEM)"	2	1	50.00		1	50.00		2	
+		"KNOWLES, Gregory John (IND)"	1	0	0.00		1	100.00		1	
+		"SHEPPARD, Elwyn (CTA)"	0	0	0.00		0	0.00		0	
+		"HUNT, Geraldine (GRN)"	4	3	75.00		1	25.00		4	
+		Total	19	67	27.02		181	72.98		248	
+
+	Mount Annan										
+			1st Prefs	798	34.00		1549	66.00		2347	
+		"WATKINS, Len (HAN)"	107	54	50.47		53	49.53		107	
+		"SANDERS, Eric (NCP)"	6	2	33.33		4	66.67		6	
+		"LANTRY, Jasmine (DEM)"	59	40	67.80		19	32.20		59	
+		"KNOWLES, Gregory John (IND)"	36	24	66.67		12	33.33		36	
+		"SHEPPARD, Elwyn (CTA)"	40	11	27.50		29	72.50		40	
+		"HUNT, Geraldine (GRN)"	88	64	72.73		24	27.27		88	
+		Total	336	993	37.01		1690	62.99		2683	
+
+	Narellan										
+			1st Prefs	642	33.84		1255	66.16		1897	
+		"WATKINS, Len (HAN)"	90	43	47.78		47	52.22		90	
+		"SANDERS, Eric (NCP)"	3	2	66.67		1	33.33		3	
+		"LANTRY, Jasmine (DEM)"	39	18	46.15		21	53.85		39	
+		"KNOWLES, Gregory John (IND)"	24	12	50.00		12	50.00		24	
+		"SHEPPARD, Elwyn (CTA)"	23	5	21.74		18	78.26		23	
+		"HUNT, Geraldine (GRN)"	72	53	73.61		19	26.39		72	
+		Total	251	775	36.08		1373	63.92		2148	
+
+	Narellan Vale										
+			1st Prefs	1106	34.36		2113	65.64		3219	
+		"WATKINS, Len (HAN)"	192	70	36.46		122	63.54		192	
+		"SANDERS, Eric (NCP)"	5	3	60.00		2	40.00		5	
+		"LANTRY, Jasmine (DEM)"	71	48	67.61		23	32.39		71	
+		"KNOWLES, Gregory John (IND)"	29	12	41.38		17	58.62		29	
+		"SHEPPARD, Elwyn (CTA)"	32	9	28.13		23	71.88		32	
+		"HUNT, Geraldine (GRN)"	83	63	75.90		20	24.10		83	
+		Total	412	1311	36.11		2320	63.89		3631	
+
+	Robert Townson (Macarthur)										
+			1st Prefs	166	46.76		189	53.24		355	
+		"WATKINS, Len (HAN)"	25	17	68.00		8	32.00		25	
+		"SANDERS, Eric (NCP)"	1	0	0.00		1	100.00		1	
+		"LANTRY, Jasmine (DEM)"	11	10	90.91		1	9.09		11	
+		"KNOWLES, Gregory John (IND)"	4	1	25.00		3	75.00		4	
+		"SHEPPARD, Elwyn (CTA)"	12	1	8.33		11	91.67		12	
+		"HUNT, Geraldine (GRN)"	10	5	50.00		5	50.00		10	
+		Total	63	200	47.85		218	52.15		418	
+
+	Rosemeadow										
+			1st Prefs	1449	54.87		1192	45.13		2641	
+		"WATKINS, Len (HAN)"	137	87	63.50		50	36.50		137	
+		"SANDERS, Eric (NCP)"	13	7	53.85		6	46.15		13	
+		"LANTRY, Jasmine (DEM)"	73	39	53.42		34	46.58		73	
+		"KNOWLES, Gregory John (IND)"	36	23	63.89		13	36.11		36	
+		"SHEPPARD, Elwyn (CTA)"	36	14	38.89		22	61.11		36	
+		"HUNT, Geraldine (GRN)"	77	52	67.53		25	32.47		77	
+		Total	372	1671	55.46		1342	44.54		3013	
+
+	Rossmore										
+			1st Prefs	310	31.03		689	68.97		999	
+		"WATKINS, Len (HAN)"	58	28	48.28		30	51.72		58	
+		"SANDERS, Eric (NCP)"	5	4	80.00		1	20.00		5	
+		"LANTRY, Jasmine (DEM)"	17	9	52.94		8	47.06		17	
+		"KNOWLES, Gregory John (IND)"	13	7	53.85		6	46.15		13	
+		"SHEPPARD, Elwyn (CTA)"	6	3	50.00		3	50.00		6	
+		"HUNT, Geraldine (GRN)"	40	27	67.50		13	32.50		40	
+		Total	139	388	34.09		750	65.91		1138	
+
+	Ruse										
+			1st Prefs	1094	43.66		1412	56.34		2506	
+		"WATKINS, Len (HAN)"	178	78	43.82		100	56.18		178	
+		"SANDERS, Eric (NCP)"	6	0	0.00		6	100.00		6	
+		"LANTRY, Jasmine (DEM)"	79	47	59.49		32	40.51		79	
+		"KNOWLES, Gregory John (IND)"	39	29	74.36		10	25.64		39	
+		"SHEPPARD, Elwyn (CTA)"	59	16	27.12		43	72.88		59	
+		"HUNT, Geraldine (GRN)"	75	44	58.67		31	41.33		75	
+		Total	436	1308	44.46		1634	55.54		2942	
+
+	St Helens Park										
+			1st Prefs	528	51.31		501	48.69		1029	
+		"WATKINS, Len (HAN)"	47	27	57.45		20	42.55		47	
+		"SANDERS, Eric (NCP)"	2	1	50.00		1	50.00		2	
+		"LANTRY, Jasmine (DEM)"	21	13	61.90		8	38.10		21	
+		"KNOWLES, Gregory John (IND)"	13	8	61.54		5	38.46		13	
+		"SHEPPARD, Elwyn (CTA)"	22	12	54.55		10	45.45		22	
+		"HUNT, Geraldine (GRN)"	44	29	65.91		15	34.09		44	
+		Total	149	618	52.46		560	47.54		1178	
+
+	Sydney (Macarthur)										
+			1st Prefs	25	37.88		41	62.12		66	
+		"WATKINS, Len (HAN)"	2	2	100.00		0	0.00		2	
+		"SANDERS, Eric (NCP)"	0	0	0.00		0	0.00		0	
+		"LANTRY, Jasmine (DEM)"	10	7	70.00		3	30.00		10	
+		"KNOWLES, Gregory John (IND)"	2	0	0.00		2	100.00		2	
+		"SHEPPARD, Elwyn (CTA)"	1	1	100.00		0	0.00		1	
+		"HUNT, Geraldine (GRN)"	3	3	100.00		0	0.00		3	
+		Total	18	38	45.24		46	54.76		84	
+
+	Wedderburn										
+			1st Prefs	55	21.15		205	78.85		260	
+		"WATKINS, Len (HAN)"	21	8	38.10		13	61.90		21	
+		"SANDERS, Eric (NCP)"	0	0	0.00		0	0.00		0	
+		"LANTRY, Jasmine (DEM)"	2	1	50.00		1	50.00		2	
+		"KNOWLES, Gregory John (IND)"	1	0	0.00		1	100.00		1	
+		"SHEPPARD, Elwyn (CTA)"	4	1	25.00		3	75.00		4	
+		"HUNT, Geraldine (GRN)"	18	12	66.67		6	33.33		18	
+		Total	46	77	25.16		229	74.84		306	
+
+	Woodbine										
+			1st Prefs	584	44.08		741	55.92		1325	
+		"WATKINS, Len (HAN)"	74	45	60.81		29	39.19		74	
+		"SANDERS, Eric (NCP)"	9	3	33.33		6	66.67		9	
+		"LANTRY, Jasmine (DEM)"	20	8	40.00		12	60.00		20	
+		"KNOWLES, Gregory John (IND)"	23	17	73.91		6	26.09		23	
+		"SHEPPARD, Elwyn (CTA)"	28	4	14.29		24	85.71		28	
+		"HUNT, Geraldine (GRN)"	42	32	76.19		10	23.81		42	
+		Total	196	693	45.56		828	54.44		1521	
+
+	Special Hospitals										
+			1st Prefs	12	57.14		9	42.86		21	
+		"WATKINS, Len (HAN)"	4	3	75.00		1	25.00		4	
+		"SANDERS, Eric (NCP)"	0	0	0.00		0	0.00		0	
+		"LANTRY, Jasmine (DEM)"	1	0	0.00		1	100.00		1	
+		"KNOWLES, Gregory John (IND)"	0	0	0.00		0	0.00		0	
+		"SHEPPARD, Elwyn (CTA)"	2	2	100.00		0	0.00		2	
+		"HUNT, Geraldine (GRN)"	1	1	100.00		0	0.00		1	
+		Total	8	18	62.07		11	37.93		29	
+
+	Total Ordinary										
+			1st Prefs	22257	41.60		31248	58.40		53505	
+		"WATKINS, Len (HAN)"	3046	1463	48.03		1583	51.97		3046	
+		"SANDERS, Eric (NCP)"	172	87	50.58		85	49.42		172	
+		"LANTRY, Jasmine (DEM)"	1292	769	59.52		523	40.48		1292	
+		"KNOWLES, Gregory John (IND)"	621	354	57.00		267	43.00		621	
+		"SHEPPARD, Elwyn (CTA)"	870	235	27.01		635	72.99		870	
+		"HUNT, Geraldine (GRN)"	1809	1299	71.81		510	28.19		1809	
+		Total	7810	26464	43.16		34851	56.84		61315	
+
+	ABSENT										
+			1st Prefs	1539	42.83		2054	57.17		3593	
+		"WATKINS, Len (HAN)"	361	212	58.73		149	41.27		361	
+		"SANDERS, Eric (NCP)"	42	23	54.76		19	45.24		42	
+		"LANTRY, Jasmine (DEM)"	145	85	58.62		60	41.38		145	
+		"KNOWLES, Gregory John (IND)"	80	49	61.25		31	38.75		80	
+		"SHEPPARD, Elwyn (CTA)"	98	28	28.57		70	71.43		98	
+		"HUNT, Geraldine (GRN)"	249	150	60.24		99	39.76		249	
+		Total	975	2086	45.67		2482	54.33		4568	
+
+	POSTAL										
+			1st Prefs	659	35.72		1186	64.28		1845	
+		"WATKINS, Len (HAN)"	100	53	53.00		47	47.00		100	
+		"SANDERS, Eric (NCP)"	6	2	33.33		4	66.67		6	
+		"LANTRY, Jasmine (DEM)"	52	31	59.62		21	40.38		52	
+		"KNOWLES, Gregory John (IND)"	14	7	50.00		7	50.00		14	
+		"SHEPPARD, Elwyn (CTA)"	35	9	25.71		26	74.29		35	
+		"HUNT, Geraldine (GRN)"	38	20	52.63		18	47.37		38	
+		Total	245	781	37.37		1309	62.63		2090	
+
+	PRE_POLL										
+			1st Prefs	1046	39.07		1631	60.93		2677	
+		"WATKINS, Len (HAN)"	221	95	42.99		126	57.01		221	
+		"SANDERS, Eric (NCP)"	12	8	66.67		4	33.33		12	
+		"LANTRY, Jasmine (DEM)"	58	29	50.00		29	50.00		58	
+		"KNOWLES, Gregory John (IND)"	39	22	56.41		17	43.59		39	
+		"SHEPPARD, Elwyn (CTA)"	46	15	32.61		31	67.39		46	
+		"HUNT, Geraldine (GRN)"	68	40	58.82		28	41.18		68	
+		Total	444	1255	40.21		1866	59.79		3121	
+
+	PROVISIONAL										
+			1st Prefs	174	43.18		229	56.82		403	
+		"WATKINS, Len (HAN)"	31	22	70.97		9	29.03		31	
+		"SANDERS, Eric (NCP)"	4	1	25.00		3	75.00		4	
+		"LANTRY, Jasmine (DEM)"	8	3	37.50		5	62.50		8	
+		"KNOWLES, Gregory John (IND)"	3	1	33.33		2	66.67		3	
+		"SHEPPARD, Elwyn (CTA)"	3	1	33.33		2	66.67		3	
+		"HUNT, Geraldine (GRN)"	19	10	52.63		9	47.37		19	
+		Total	68	212	45.01		259	54.99		471	
+
+	Division Summary										
+			1st Prefs	25675	41.40		36348	58.60		62023	
+		"WATKINS, Len (HAN)"	3759	1845	49.08		1914	50.92		3759	
+		"SANDERS, Eric (NCP)"	236	121	51.27		115	48.73		236	
+		"LANTRY, Jasmine (DEM)"	1555	917	58.97		638	41.03		1555	
+		"KNOWLES, Gregory John (IND)"	757	433	57.20		324	42.80		757	
+		"SHEPPARD, Elwyn (CTA)"	1052	288	27.38		764	72.62		1052	
+		"HUNT, Geraldine (GRN)"	2183	1519	69.58		664	30.42		2183	
+		Total	9542	30798	43.04		40767	56.96		71565	

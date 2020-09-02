@@ -1,0 +1,214 @@
+Senate - 1998 Election		
+Turnout		
+By Division		
+		
+National Summary		
+State		Turnout %
+New South Wales		95.30
+Victoria		95.89
+Queensland		94.45
+Western Australia		95.11
+South Australia		96.08
+Tasmania		96.35
+Australian Capital Territory		95.92
+Northern Territory		90.33
+National Average		95.34
+		
+		
+New South Wales		
+Division		Turnout %
+Banks		95.40
+Barton		95.03
+Bennelong		95.38
+Berowra		95.60
+Blaxland		94.73
+Bradfield		94.84
+Calare		96.25
+Charlton		96.40
+Chifley		95.13
+Cook		95.38
+Cowper		95.25
+Cunningham		95.41
+Dobell		95.83
+Eden-Monaro		95.87
+Farrer		95.65
+Fowler		94.62
+Gilmore		96.32
+Grayndler		93.42
+Greenway		95.24
+Gwydir		95.55
+Hughes		96.47
+Hume		96.26
+Hunter		96.52
+Kingsford-Smith		94.33
+Lindsay		96.32
+Lowe		95.49
+Lyne		96.30
+Macarthur		95.81
+Mackellar		94.98
+Macquarie		95.55
+Mitchell		95.97
+Newcastle		96.36
+New England		95.14
+North Sydney		93.71
+Page		96.08
+Parkes		95.09
+Parramatta		95.51
+Paterson		96.81
+Prospect		95.66
+Reid		93.65
+Richmond		94.99
+Riverina		95.90
+Robertson		95.88
+Shortland		96.48
+Sydney		91.64
+Throsby		95.81
+Warringah		94.16
+Watson		93.82
+Wentworth		92.54
+Werriwa		94.99
+New South Wales Average		95.30
+		
+		
+
+Victoria		
+Division		Turnout %
+Aston		96.88
+Ballarat		96.77
+Batman		94.55
+Bendigo		97.03
+Bruce		96.38
+Burke		96.44
+Calwell		95.57
+Casey		96.38
+Chisholm		95.91
+Corangamite		96.12
+Corio		96.15
+Deakin		96.20
+Dunkley		96.29
+Flinders		96.54
+Gellibrand		94.12
+Gippsland		96.06
+Goldstein		95.32
+Higgins		94.53
+Holt		95.79
+Hotham		95.61
+Indi		96.08
+Isaacs		96.61
+Jagajaga		96.25
+Kooyong		95.44
+Lalor		96.75
+La Trobe		96.37
+McEwen		96.62
+McMillan		96.61
+Mallee		96.06
+Maribyrnong		95.79
+Melbourne		93.73
+Melbourne Ports		93.02
+Menzies		96.02
+Murray		96.13
+Scullin		96.34
+Wannon		97.03
+Wills		94.89
+Victorian Average		95.89
+		
+		
+
+Queensland		
+Division		Turnout %
+Blair		95.47
+Bowman		94.93
+Brisbane		93.27
+Capricornia		95.26
+Dawson		95.06
+Dickson		95.92
+Fadden		93.99
+Fairfax		94.05
+Fisher		94.31
+Forde		93.62
+Griffith		94.70
+Groom		95.19
+Herbert		94.84
+Hinkler		95.41
+Kennedy		93.41
+Leichhardt		92.30
+Lilley		94.66
+Longman		94.84
+McPherson		94.05
+Maranoa		94.40
+Moncrieff		93.10
+Moreton		94.61
+Oxley		94.89
+Petrie		94.83
+Rankin		93.33
+Ryan		94.77
+Wide Bay		95.07
+Queensland Average		94.45
+		
+		
+
+Western Australia		
+Division		Turnout %
+Brand		95.84
+Canning		95.65
+Cowan		96.65
+Curtin		94.86
+Forrest		96.20
+Fremantle		95.15
+Kalgoorlie		87.51
+Moore		96.02
+O'Connor		95.83
+Pearce		95.71
+Perth		94.91
+Stirling		95.93
+Swan		95.50
+Tangney		96.00
+Western Australian Average		95.11
+		
+		
+
+South Australia		
+Division		Turnout %
+Adelaide		95.13
+Barker		96.81
+Bonython		96.09
+Boothby		96.26
+Grey		94.87
+Hindmarsh		96.21
+Kingston		96.56
+Makin		96.68
+Mayo		96.34
+Port Adelaide		95.99
+Sturt		95.70
+Wakefield		96.18
+South Australian Average		96.08
+		
+		
+		
+Tasmania		
+Division		Turnout %
+Bass		96.17
+Braddon		96.64
+Denison		95.66
+Franklin		96.37
+Lyons		96.94
+Tasmanian Average		96.35
+		
+		
+		
+Australian Capital Territory		
+Division		Turnout %
+Canberra		96.15
+Fraser		95.68
+Australian Capital Territory Average		95.92
+		
+		
+
+Northern Territory		
+Division		Turnout %
+Northern Territory		90.33	
+Northern Territory Average		90.33	
+
+
+			
+			

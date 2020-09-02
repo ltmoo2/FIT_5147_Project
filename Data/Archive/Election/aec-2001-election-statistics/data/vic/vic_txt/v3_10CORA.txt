@@ -1,0 +1,636 @@
+House of Representatives - 2001 Election: Victoria												
+Two Candidate Preferred Preference Flow Result												
+By Polling Place by Division												
+Corangamite (85955)												
+		Candidate		                  	"MCARTHUR, Stewart"		          	"BJORK-BILLINGS, Michael"		    	Total	
+				                           	LP		                         	ALP		                        		
+				                           	Votes	%	                     	Votes	%	                     		
+	Aireys Inlet											
+			1st Prefs		199	49.87		200	50.13		399	
+		"HILLS, Graham (HAN)"	14		10	71.43		4	28.57		14	
+		"STRAUSS, Nigel (LFF)"	26		22	84.62		4	15.38		26	
+		"HODGE, Robyn (DEM)"	39		13	33.33		26	66.67		39	
+		"LYGO, Iain (GRN)"	130		16	12.31		114	87.69		130	
+		"ARUNDELL, Simon (IND)"	6		1	16.67		5	83.33		6	
+		Total	215		261	42.51		353	57.49		614	
+
+	Alvie										
+			1st Prefs		100	75.19		33	24.81		133
+		"HILLS, Graham (HAN)"	13		8	61.54		5	38.46		13
+		"STRAUSS, Nigel (LFF)"	3		3	100.00		0	0.00		3
+		"HODGE, Robyn (DEM)"	6		3	50.00		3	50.00		6
+		"LYGO, Iain (GRN)"	2		0	0.00		2	100.00		2
+		"ARUNDELL, Simon (IND)"	14		10	71.43		4	28.57		14
+		Total	38		124	72.51		47	27.49		171
+
+	Anglesea										
+			1st Prefs		630	57.01		475	42.99		1105
+		"HILLS, Graham (HAN)"	29		20	68.97		9	31.03		29
+		"STRAUSS, Nigel (LFF)"	39		27	69.23		12	30.77		39
+		"HODGE, Robyn (DEM)"	116		48	41.38		68	58.62		116
+		"LYGO, Iain (GRN)"	172		27	15.70		145	84.30		172
+		"ARUNDELL, Simon (IND)"	12		7	58.33		5	41.67		12
+		Total	368		759	51.53		714	48.47		1473
+
+	Apollo Bay										
+			1st Prefs		470	60.65		305	39.35		775
+		"HILLS, Graham (HAN)"	26		17	65.38		9	34.62		26
+		"STRAUSS, Nigel (LFF)"	104		66	63.46		38	36.54		104
+		"HODGE, Robyn (DEM)"	48		15	31.25		33	68.75		48
+		"LYGO, Iain (GRN)"	159		23	14.47		136	85.53		159
+		"ARUNDELL, Simon (IND)"	17		11	64.71		6	35.29		17
+		Total	354		602	53.32		527	46.68		1129
+
+	Bannockburn										
+			1st Prefs		661	58.03		478	41.97		1139
+		"HILLS, Graham (HAN)"	40		23	57.50		17	42.50		40
+		"STRAUSS, Nigel (LFF)"	8		6	75.00		2	25.00		8
+		"HODGE, Robyn (DEM)"	103		55	53.40		48	46.60		103
+		"LYGO, Iain (GRN)"	83		16	19.28		67	80.72		83
+		"ARUNDELL, Simon (IND)"	13		5	38.46		8	61.54		13
+		Total	247		766	55.27		620	44.73		1386
+
+	Barongarook										
+			1st Prefs		67	60.91		43	39.09		110
+		"HILLS, Graham (HAN)"	3		1	33.33		2	66.67		3
+		"STRAUSS, Nigel (LFF)"	3		2	66.67		1	33.33		3
+		"HODGE, Robyn (DEM)"	4		2	50.00		2	50.00		4
+		"LYGO, Iain (GRN)"	5		1	20.00		4	80.00		5
+		"ARUNDELL, Simon (IND)"	9		5	55.56		4	44.44		9
+		Total	24		78	58.21		56	41.79		134
+
+	Barwon Heads										
+			1st Prefs		618	50.00		618	50.00		1236
+		"HILLS, Graham (HAN)"	33		17	51.52		16	48.48		33
+		"STRAUSS, Nigel (LFF)"	24		9	37.50		15	62.50		24
+		"HODGE, Robyn (DEM)"	139		66	47.48		73	52.52		139
+		"LYGO, Iain (GRN)"	173		35	20.23		138	79.77		173
+		"ARUNDELL, Simon (IND)"	13		7	53.85		6	46.15		13
+		Total	382		752	46.48		866	53.52		1618
+
+	Beeac										
+			1st Prefs		205	67.66		98	32.34		303
+		"HILLS, Graham (HAN)"	17		7	41.18		10	58.82		17
+		"STRAUSS, Nigel (LFF)"	1		1	100.00		0	0.00		1
+		"HODGE, Robyn (DEM)"	4		3	75.00		1	25.00		4
+		"LYGO, Iain (GRN)"	9		2	22.22		7	77.78		9
+		"ARUNDELL, Simon (IND)"	12		6	50.00		6	50.00		12
+		Total	43		224	64.74		122	35.26		346
+
+	Bellbrae										
+			1st Prefs		242	54.63		201	45.37		443
+		"HILLS, Graham (HAN)"	1		1	100.00		0	0.00		1
+		"STRAUSS, Nigel (LFF)"	14		6	42.86		8	57.14		14
+		"HODGE, Robyn (DEM)"	33		13	39.39		20	60.61		33
+		"LYGO, Iain (GRN)"	72		13	18.06		59	81.94		72
+		"ARUNDELL, Simon (IND)"	8		5	62.50		3	37.50		8
+		Total	128		280	49.04		291	50.96		571
+
+	Belmont										
+			1st Prefs		969	58.41		690	41.59		1659
+		"HILLS, Graham (HAN)"	36		24	66.67		12	33.33		36
+		"STRAUSS, Nigel (LFF)"	32		16	50.00		16	50.00		32
+		"HODGE, Robyn (DEM)"	131		65	49.62		66	50.38		131
+		"LYGO, Iain (GRN)"	128		22	17.19		106	82.81		128
+		"ARUNDELL, Simon (IND)"	26		18	69.23		8	30.77		26
+		Total	353		1114	55.37		898	44.63		2012
+
+	Belmont North										
+			1st Prefs		988	54.80		815	45.20		1803
+		"HILLS, Graham (HAN)"	32		23	71.88		9	28.13		32
+		"STRAUSS, Nigel (LFF)"	71		58	81.69		13	18.31		71
+		"HODGE, Robyn (DEM)"	184		74	40.22		110	59.78		184
+		"LYGO, Iain (GRN)"	138		23	16.67		115	83.33		138
+		"ARUNDELL, Simon (IND)"	21		12	57.14		9	42.86		21
+		Total	446		1178	52.38		1071	47.62		2249
+
+	Birregurra										
+			1st Prefs		288	60.00		192	40.00		480
+		"HILLS, Graham (HAN)"	17		9	52.94		8	47.06		17
+		"STRAUSS, Nigel (LFF)"	10		10	100.00		0	0.00		10
+		"HODGE, Robyn (DEM)"	15		9	60.00		6	40.00		15
+		"LYGO, Iain (GRN)"	34		5	14.71		29	85.29		34
+		"ARUNDELL, Simon (IND)"	14		9	64.29		5	35.71		14
+		Total	90		330	57.89		240	42.11		570
+
+	Carlisle River										
+			1st Prefs		64	80.00		16	20.00		80
+		"HILLS, Graham (HAN)"	3		2	66.67		1	33.33		3
+		"STRAUSS, Nigel (LFF)"	3		2	66.67		1	33.33		3
+		"HODGE, Robyn (DEM)"	4		2	50.00		2	50.00		4
+		"LYGO, Iain (GRN)"	4		3	75.00		1	25.00		4
+		"ARUNDELL, Simon (IND)"	3		2	66.67		1	33.33		3
+		Total	17		75	77.32		22	22.68		97
+
+	Ceres										
+			1st Prefs		352	73.18		129	26.82		481
+		"HILLS, Graham (HAN)"	8		5	62.50		3	37.50		8
+		"STRAUSS, Nigel (LFF)"	24		16	66.67		8	33.33		24
+		"HODGE, Robyn (DEM)"	30		17	56.67		13	43.33		30
+		"LYGO, Iain (GRN)"	26		9	34.62		17	65.38		26
+		"ARUNDELL, Simon (IND)"	12		5	41.67		7	58.33		12
+		Total	100		404	69.54		177	30.46		581
+
+	Colac										
+			1st Prefs		871	61.21		552	38.79		1423
+		"HILLS, Graham (HAN)"	55		39	70.91		16	29.09		55
+		"STRAUSS, Nigel (LFF)"	22		15	68.18		7	31.82		22
+		"HODGE, Robyn (DEM)"	56		26	46.43		30	53.57		56
+		"LYGO, Iain (GRN)"	64		14	21.88		50	78.13		64
+		"ARUNDELL, Simon (IND)"	71		31	43.66		40	56.34		71
+		Total	268		996	58.90		695	41.10		1691
+
+	Colac East										
+			1st Prefs		1077	65.00		580	35.00		1657
+		"HILLS, Graham (HAN)"	78		42	53.85		36	46.15		78
+		"STRAUSS, Nigel (LFF)"	30		21	70.00		9	30.00		30
+		"HODGE, Robyn (DEM)"	95		51	53.68		44	46.32		95
+		"LYGO, Iain (GRN)"	71		16	22.54		55	77.46		71
+		"ARUNDELL, Simon (IND)"	75		41	54.67		34	45.33		75
+		Total	349		1248	62.21		758	37.79		2006
+
+	Colac West										
+			1st Prefs		1059	65.25		564	34.75		1623
+		"HILLS, Graham (HAN)"	68		47	69.12		21	30.88		68
+		"STRAUSS, Nigel (LFF)"	33		21	63.64		12	36.36		33
+		"HODGE, Robyn (DEM)"	82		42	51.22		40	48.78		82
+		"LYGO, Iain (GRN)"	64		12	18.75		52	81.25		64
+		"ARUNDELL, Simon (IND)"	84		49	58.33		35	41.67		84
+		Total	331		1230	62.95		724	37.05		1954
+
+	Collendina										
+			1st Prefs		1318	52.74		1181	47.26		2499
+		"HILLS, Graham (HAN)"	58		40	68.97		18	31.03		58
+		"STRAUSS, Nigel (LFF)"	85		59	69.41		26	30.59		85
+		"HODGE, Robyn (DEM)"	243		117	48.15		126	51.85		243
+		"LYGO, Iain (GRN)"	220		45	20.45		175	79.55		220
+		"ARUNDELL, Simon (IND)"	30		14	46.67		16	53.33		30
+		Total	636		1593	50.81		1542	49.19		3135
+
+	Connewarre										
+			1st Prefs		110	52.38		100	47.62		210
+		"HILLS, Graham (HAN)"	9		7	77.78		2	22.22		9
+		"STRAUSS, Nigel (LFF)"	2		2	100.00		0	0.00		2
+		"HODGE, Robyn (DEM)"	11		4	36.36		7	63.64		11
+		"LYGO, Iain (GRN)"	20		4	20.00		16	80.00		20
+		"ARUNDELL, Simon (IND)"	3		1	33.33		2	66.67		3
+		Total	45		128	50.20		127	49.80		255
+
+	Cororooke										
+			1st Prefs		223	65.78		116	34.22		339
+		"HILLS, Graham (HAN)"	18		15	83.33		3	16.67		18
+		"STRAUSS, Nigel (LFF)"	4		3	75.00		1	25.00		4
+		"HODGE, Robyn (DEM)"	22		14	63.64		8	36.36		22
+		"LYGO, Iain (GRN)"	18		3	16.67		15	83.33		18
+		"ARUNDELL, Simon (IND)"	25		15	60.00		10	40.00		25
+		Total	87		273	64.08		153	35.92		426
+
+	Cressy										
+			1st Prefs		95	74.80		32	25.20		127
+		"HILLS, Graham (HAN)"	8		3	37.50		5	62.50		8
+		"STRAUSS, Nigel (LFF)"	1		1	100.00		0	0.00		1
+		"HODGE, Robyn (DEM)"	4		0	0.00		4	100.00		4
+		"LYGO, Iain (GRN)"	0		0	0.00		0	0.00		0
+		"ARUNDELL, Simon (IND)"	4		4	100.00		0	0.00		4
+		Total	17		103	71.53		41	28.47		144
+
+	Deans Marsh										
+			1st Prefs		103	56.91		78	43.09		181
+		"HILLS, Graham (HAN)"	13		11	84.62		2	15.38		13
+		"STRAUSS, Nigel (LFF)"	10		7	70.00		3	30.00		10
+		"HODGE, Robyn (DEM)"	14		6	42.86		8	57.14		14
+		"LYGO, Iain (GRN)"	26		2	7.69		24	92.31		26
+		"ARUNDELL, Simon (IND)"	8		1	12.50		7	87.50		8
+		Total	71		130	51.59		122	48.41		252
+
+	Dereel										
+			1st Prefs		72	37.89		118	62.11		190
+		"HILLS, Graham (HAN)"	24		15	62.50		9	37.50		24
+		"STRAUSS, Nigel (LFF)"	2		1	50.00		1	50.00		2
+		"HODGE, Robyn (DEM)"	16		5	31.25		11	68.75		16
+		"LYGO, Iain (GRN)"	11		2	18.18		9	81.82		11
+		"ARUNDELL, Simon (IND)"	5		3	60.00		2	40.00		5
+		Total	58		98	39.52		150	60.48		248
+
+	Drysdale (Corangamite)										
+			1st Prefs		422	66.46		213	33.54		635
+		"HILLS, Graham (HAN)"	25		16	64.00		9	36.00		25
+		"STRAUSS, Nigel (LFF)"	6		6	100.00		0	0.00		6
+		"HODGE, Robyn (DEM)"	49		24	48.98		25	51.02		49
+		"LYGO, Iain (GRN)"	44		6	13.64		38	86.36		44
+		"ARUNDELL, Simon (IND)"	7		5	71.43		2	28.57		7
+		Total	131		479	62.53		287	37.47		766
+
+	Elliminyt										
+			1st Prefs		820	68.22		382	31.78		1202
+		"HILLS, Graham (HAN)"	45		30	66.67		15	33.33		45
+		"STRAUSS, Nigel (LFF)"	20		13	65.00		7	35.00		20
+		"HODGE, Robyn (DEM)"	48		21	43.75		27	56.25		48
+		"LYGO, Iain (GRN)"	48		8	16.67		40	83.33		48
+		"ARUNDELL, Simon (IND)"	65		45	69.23		20	30.77		65
+		Total	226		937	65.62		491	34.38		1428
+
+	Forrest										
+			1st Prefs		111	62.01		68	37.99		179
+		"HILLS, Graham (HAN)"	15		10	66.67		5	33.33		15
+		"STRAUSS, Nigel (LFF)"	8		4	50.00		4	50.00		8
+		"HODGE, Robyn (DEM)"	12		4	33.33		8	66.67		12
+		"LYGO, Iain (GRN)"	46		5	10.87		41	89.13		46
+		"ARUNDELL, Simon (IND)"	13		9	69.23		4	30.77		13
+		Total	94		143	52.38		130	47.62		273
+
+	Freshwater Creek										
+			1st Prefs		114	76.51		35	23.49		149
+		"HILLS, Graham (HAN)"	4		3	75.00		1	25.00		4
+		"STRAUSS, Nigel (LFF)"	4		4	100.00		0	0.00		4
+		"HODGE, Robyn (DEM)"	12		7	58.33		5	41.67		12
+		"LYGO, Iain (GRN)"	9		2	22.22		7	77.78		9
+		"ARUNDELL, Simon (IND)"	5		3	60.00		2	40.00		5
+		Total	34		133	72.68		50	27.32		183
+
+	Fyansford										
+			1st Prefs		111	73.03		41	26.97		152
+		"HILLS, Graham (HAN)"	5		4	80.00		1	20.00		5
+		"STRAUSS, Nigel (LFF)"	4		1	25.00		3	75.00		4
+		"HODGE, Robyn (DEM)"	12		5	41.67		7	58.33		12
+		"LYGO, Iain (GRN)"	14		4	28.57		10	71.43		14
+		"ARUNDELL, Simon (IND)"	0		0	0.00		0	0.00		0
+		Total	35		125	66.84		62	33.16		187
+
+	Gellibrand River										
+			1st Prefs		107	56.61		82	43.39		189
+		"HILLS, Graham (HAN)"	11		5	45.45		6	54.55		11
+		"STRAUSS, Nigel (LFF)"	9		6	66.67		3	33.33		9
+		"HODGE, Robyn (DEM)"	11		8	72.73		3	27.27		11
+		"LYGO, Iain (GRN)"	30		2	6.67		28	93.33		30
+		"ARUNDELL, Simon (IND)"	11		6	54.55		5	45.45		11
+		Total	72		134	51.34		127	48.66		261
+
+	Grovedale										
+			1st Prefs		1616	53.69		1394	46.31		3010
+		"HILLS, Graham (HAN)"	73		39	53.42		34	46.58		73
+		"STRAUSS, Nigel (LFF)"	117		71	60.68		46	39.32		117
+		"HODGE, Robyn (DEM)"	251		107	42.63		144	57.37		251
+		"LYGO, Iain (GRN)"	140		34	24.29		106	75.71		140
+		"ARUNDELL, Simon (IND)"	55		25	45.45		30	54.55		55
+		Total	636		1892	51.89		1754	48.11		3646
+
+	Grovedale East										
+			1st Prefs		635	55.70		505	44.30		1140
+		"HILLS, Graham (HAN)"	28		21	75.00		7	25.00		28
+		"STRAUSS, Nigel (LFF)"	73		44	60.27		29	39.73		73
+		"HODGE, Robyn (DEM)"	65		33	50.77		32	49.23		65
+		"LYGO, Iain (GRN)"	46		11	23.91		35	76.09		46
+		"ARUNDELL, Simon (IND)"	16		9	56.25		7	43.75		16
+		Total	228		753	55.04		615	44.96		1368
+
+	Highton										
+			1st Prefs		1474	64.25		820	35.75		2294
+		"HILLS, Graham (HAN)"	40		30	75.00		10	25.00		40
+		"STRAUSS, Nigel (LFF)"	108		67	62.04		41	37.96		108
+		"HODGE, Robyn (DEM)"	197		89	45.18		108	54.82		197
+		"LYGO, Iain (GRN)"	116		22	18.97		94	81.03		116
+		"ARUNDELL, Simon (IND)"	19		7	36.84		12	63.16		19
+		Total	480		1689	60.89		1085	39.11		2774
+
+	Highton North										
+			1st Prefs		1641	65.46		866	34.54		2507
+		"HILLS, Graham (HAN)"	50		38	76.00		12	24.00		50
+		"STRAUSS, Nigel (LFF)"	150		113	75.33		37	24.67		150
+		"HODGE, Robyn (DEM)"	207		106	51.21		101	48.79		207
+		"LYGO, Iain (GRN)"	192		30	15.63		162	84.38		192
+		"ARUNDELL, Simon (IND)"	38		22	57.89		16	42.11		38
+		Total	637		1950	62.02		1194	37.98		3144
+
+	Highton South										
+			1st Prefs		1132	57.14		849	42.86		1981
+		"HILLS, Graham (HAN)"	53		37	69.81		16	30.19		53
+		"STRAUSS, Nigel (LFF)"	32		24	75.00		8	25.00		32
+		"HODGE, Robyn (DEM)"	237		113	47.68		124	52.32		237
+		"LYGO, Iain (GRN)"	102		26	25.49		76	74.51		102
+		"ARUNDELL, Simon (IND)"	25		15	60.00		10	40.00		25
+		Total	449		1347	55.43		1083	44.57		2430
+
+	Inverleigh										
+			1st Prefs		297	61.62		185	38.38		482
+		"HILLS, Graham (HAN)"	23		14	60.87		9	39.13		23
+		"STRAUSS, Nigel (LFF)"	9		7	77.78		2	22.22		9
+		"HODGE, Robyn (DEM)"	25		11	44.00		14	56.00		25
+		"LYGO, Iain (GRN)"	41		5	12.20		36	87.80		41
+		"ARUNDELL, Simon (IND)"	13		3	23.08		10	76.92		13
+		Total	111		337	56.83		256	43.17		593
+
+	Irrewillipe										
+			1st Prefs		99	89.19		12	10.81		111
+		"HILLS, Graham (HAN)"	6		4	66.67		2	33.33		6
+		"STRAUSS, Nigel (LFF)"	3		1	33.33		2	66.67		3
+		"HODGE, Robyn (DEM)"	9		3	33.33		6	66.67		9
+		"LYGO, Iain (GRN)"	4		1	25.00		3	75.00		4
+		"ARUNDELL, Simon (IND)"	10		5	50.00		5	50.00		10
+		Total	32		113	79.02		30	20.98		143
+
+	Lavers Hill										
+			1st Prefs		67	59.29		46	40.71		113
+		"HILLS, Graham (HAN)"	10		7	70.00		3	30.00		10
+		"STRAUSS, Nigel (LFF)"	6		3	50.00		3	50.00		6
+		"HODGE, Robyn (DEM)"	4		4	100.00		0	0.00		4
+		"LYGO, Iain (GRN)"	40		6	15.00		34	85.00		40
+		"ARUNDELL, Simon (IND)"	7		4	57.14		3	42.86		7
+		Total	67		91	50.56		89	49.44		180
+
+	Lethbridge										
+			1st Prefs		177	50.43		174	49.57		351
+		"HILLS, Graham (HAN)"	21		15	71.43		6	28.57		21
+		"STRAUSS, Nigel (LFF)"	6		5	83.33		1	16.67		6
+		"HODGE, Robyn (DEM)"	17		6	35.29		11	64.71		17
+		"LYGO, Iain (GRN)"	19		4	21.05		15	78.95		19
+		"ARUNDELL, Simon (IND)"	8		4	50.00		4	50.00		8
+		Total	71		211	50.00		211	50.00		422
+
+	Lorne										
+			1st Prefs		317	53.82		272	46.18		589
+		"HILLS, Graham (HAN)"	12		7	58.33		5	41.67		12
+		"STRAUSS, Nigel (LFF)"	37		24	64.86		13	35.14		37
+		"HODGE, Robyn (DEM)"	37		15	40.54		22	59.46		37
+		"LYGO, Iain (GRN)"	112		22	19.64		90	80.36		112
+		"ARUNDELL, Simon (IND)"	11		4	36.36		7	63.64		11
+		Total	209		389	48.75		409	51.25		798
+
+	Mandama										
+			1st Prefs		1237	53.11		1092	46.89		2329
+		"HILLS, Graham (HAN)"	57		31	54.39		26	45.61		57
+		"STRAUSS, Nigel (LFF)"	55		36	65.45		19	34.55		55
+		"HODGE, Robyn (DEM)"	208		105	50.48		103	49.52		208
+		"LYGO, Iain (GRN)"	76		23	30.26		53	69.74		76
+		"ARUNDELL, Simon (IND)"	33		14	42.42		19	57.58		33
+		Total	429		1446	52.43		1312	47.57		2758
+
+	Melbourne (Corangamite)										
+			1st Prefs		29	60.42		19	39.58		48
+		"HILLS, Graham (HAN)"	2		1	50.00		1	50.00		2
+		"STRAUSS, Nigel (LFF)"	1		1	100.00		0	0.00		1
+		"HODGE, Robyn (DEM)"	7		1	14.29		6	85.71		7
+		"LYGO, Iain (GRN)"	5		0	0.00		5	100.00		5
+		"ARUNDELL, Simon (IND)"	2		0	0.00		2	100.00		2
+		Total	17		32	49.23		33	50.77		65
+
+	Meredith										
+			1st Prefs		227	58.21		163	41.79		390
+		"HILLS, Graham (HAN)"	20		17	85.00		3	15.00		20
+		"STRAUSS, Nigel (LFF)"	6		1	16.67		5	83.33		6
+		"HODGE, Robyn (DEM)"	20		8	40.00		12	60.00		20
+		"LYGO, Iain (GRN)"	25		8	32.00		17	68.00		25
+		"ARUNDELL, Simon (IND)"	11		6	54.55		5	45.45		11
+		Total	82		267	56.57		205	43.43		472
+
+	Moriac										
+			1st Prefs		458	68.56		210	31.44		668
+		"HILLS, Graham (HAN)"	21		12	57.14		9	42.86		21
+		"STRAUSS, Nigel (LFF)"	9		7	77.78		2	22.22		9
+		"HODGE, Robyn (DEM)"	50		15	30.00		35	70.00		50
+		"LYGO, Iain (GRN)"	39		15	38.46		24	61.54		39
+		"ARUNDELL, Simon (IND)"	13		5	38.46		8	61.54		13
+		Total	132		512	64.00		288	36.00		800
+
+	Mount Duneed										
+			1st Prefs		232	61.70		144	38.30		376
+		"HILLS, Graham (HAN)"	16		11	68.75		5	31.25		16
+		"STRAUSS, Nigel (LFF)"	8		5	62.50		3	37.50		8
+		"HODGE, Robyn (DEM)"	20		7	35.00		13	65.00		20
+		"LYGO, Iain (GRN)"	22		10	45.45		12	54.55		22
+		"ARUNDELL, Simon (IND)"	12		6	50.00		6	50.00		12
+		Total	78		271	59.69		183	40.31		454
+
+	Oberon										
+			1st Prefs		708	48.79		743	51.21		1451
+		"HILLS, Graham (HAN)"	41		25	60.98		16	39.02		41
+		"STRAUSS, Nigel (LFF)"	62		40	64.52		22	35.48		62
+		"HODGE, Robyn (DEM)"	166		82	49.40		84	50.60		166
+		"LYGO, Iain (GRN)"	82		20	24.39		62	75.61		82
+		"ARUNDELL, Simon (IND)"	22		10	45.45		12	54.55		22
+		Total	373		885	48.52		939	51.48		1824
+
+	Oberon South										
+			1st Prefs		672	53.04		595	46.96		1267
+		"HILLS, Graham (HAN)"	38		22	57.89		16	42.11		38
+		"STRAUSS, Nigel (LFF)"	27		22	81.48		5	18.52		27
+		"HODGE, Robyn (DEM)"	90		40	44.44		50	55.56		90
+		"LYGO, Iain (GRN)"	72		14	19.44		58	80.56		72
+		"ARUNDELL, Simon (IND)"	30		23	76.67		7	23.33		30
+		Total	257		793	52.03		731	47.97		1524
+
+	Ocean Grove										
+			1st Prefs		1224	55.49		982	44.51		2206
+		"HILLS, Graham (HAN)"	41		27	65.85		14	34.15		41
+		"STRAUSS, Nigel (LFF)"	51		36	70.59		15	29.41		51
+		"HODGE, Robyn (DEM)"	255		109	42.75		146	57.25		255
+		"LYGO, Iain (GRN)"	222		28	12.61		194	87.39		222
+		"ARUNDELL, Simon (IND)"	21		4	19.05		17	80.95		21
+		Total	590		1428	51.07		1368	48.93		2796
+
+	Pirron Yallock (Corangamite)										
+			1st Prefs		103	81.10		24	18.90		127
+		"HILLS, Graham (HAN)"	6		5	83.33		1	16.67		6
+		"STRAUSS, Nigel (LFF)"	1		1	100.00		0	0.00		1
+		"HODGE, Robyn (DEM)"	6		3	50.00		3	50.00		6
+		"LYGO, Iain (GRN)"	5		1	20.00		4	80.00		5
+		"ARUNDELL, Simon (IND)"	13		12	92.31		1	7.69		13
+		Total	31		125	79.11		33	20.89		158
+
+	Point Lonsdale										
+			1st Prefs		911	66.59		457	33.41		1368
+		"HILLS, Graham (HAN)"	30		22	73.33		8	26.67		30
+		"STRAUSS, Nigel (LFF)"	62		43	69.35		19	30.65		62
+		"HODGE, Robyn (DEM)"	88		34	38.64		54	61.36		88
+		"LYGO, Iain (GRN)"	125		19	15.20		106	84.80		125
+		"ARUNDELL, Simon (IND)"	19		6	31.58		13	68.42		19
+		Total	324		1035	61.17		657	38.83		1692
+
+	Portarlington										
+			1st Prefs		927	50.46		910	49.54		1837
+		"HILLS, Graham (HAN)"	58		42	72.41		16	27.59		58
+		"STRAUSS, Nigel (LFF)"	74		46	62.16		28	37.84		74
+		"HODGE, Robyn (DEM)"	105		50	47.62		55	52.38		105
+		"LYGO, Iain (GRN)"	64		10	15.63		54	84.38		64
+		"ARUNDELL, Simon (IND)"	18		3	16.67		15	83.33		18
+		Total	319		1078	50.00		1078	50.00		2156
+
+	Queenscliff										
+			1st Prefs		358	55.76		284	44.24		642
+		"HILLS, Graham (HAN)"	15		10	66.67		5	33.33		15
+		"STRAUSS, Nigel (LFF)"	14		6	42.86		8	57.14		14
+		"HODGE, Robyn (DEM)"	49		23	46.94		26	53.06		49
+		"LYGO, Iain (GRN)"	87		4	4.60		83	95.40		87
+		"ARUNDELL, Simon (IND)"	1		0	0.00		1	100.00		1
+		Total	166		401	49.63		407	50.37		808
+
+	Rokewood										
+			1st Prefs		120	68.57		55	31.43		175
+		"HILLS, Graham (HAN)"	5		3	60.00		2	40.00		5
+		"STRAUSS, Nigel (LFF)"	1		1	100.00		0	0.00		1
+		"HODGE, Robyn (DEM)"	9		6	66.67		3	33.33		9
+		"LYGO, Iain (GRN)"	5		1	20.00		4	80.00		5
+		"ARUNDELL, Simon (IND)"	4		2	50.00		2	50.00		4
+		Total	24		133	66.83		66	33.17		199
+
+	St Leonards										
+			1st Prefs		514	46.26		597	53.74		1111
+		"HILLS, Graham (HAN)"	45		29	64.44		16	35.56		45
+		"STRAUSS, Nigel (LFF)"	22		13	59.09		9	40.91		22
+		"HODGE, Robyn (DEM)"	32		10	31.25		22	68.75		32
+		"LYGO, Iain (GRN)"	34		4	11.76		30	88.24		34
+		"ARUNDELL, Simon (IND)"	9		1	11.11		8	88.89		9
+		Total	142		571	45.57		682	54.43		1253
+
+	Shelford										
+			1st Prefs		106	76.81		32	23.19		138
+		"HILLS, Graham (HAN)"	5		2	40.00		3	60.00		5
+		"STRAUSS, Nigel (LFF)"	3		1	33.33		2	66.67		3
+		"HODGE, Robyn (DEM)"	6		4	66.67		2	33.33		6
+		"LYGO, Iain (GRN)"	12		1	8.33		11	91.67		12
+		"ARUNDELL, Simon (IND)"	4		2	50.00		2	50.00		4
+		Total	30		116	69.05		52	30.95		168
+
+	Simpson (Corangamite)										
+			1st Prefs		153	92.73		12	7.27		165
+		"HILLS, Graham (HAN)"	10		7	70.00		3	30.00		10
+		"STRAUSS, Nigel (LFF)"	2		2	100.00		0	0.00		2
+		"HODGE, Robyn (DEM)"	1		1	100.00		0	0.00		1
+		"LYGO, Iain (GRN)"	3		1	33.33		2	66.67		3
+		"ARUNDELL, Simon (IND)"	3		1	33.33		2	66.67		3
+		Total	19		165	89.67		19	10.33		184
+
+	Teesdale										
+			1st Prefs		212	43.80		272	56.20		484
+		"HILLS, Graham (HAN)"	20		10	50.00		10	50.00		20
+		"STRAUSS, Nigel (LFF)"	7		6	85.71		1	14.29		7
+		"HODGE, Robyn (DEM)"	39		15	38.46		24	61.54		39
+		"LYGO, Iain (GRN)"	53		6	11.32		47	88.68		53
+		"ARUNDELL, Simon (IND)"	8		5	62.50		3	37.50		8
+		Total	127		254	41.57		357	58.43		611
+
+	Torquay										
+			1st Prefs		1106	56.23		861	43.77		1967
+		"HILLS, Graham (HAN)"	36		28	77.78		8	22.22		36
+		"STRAUSS, Nigel (LFF)"	71		45	63.38		26	36.62		71
+		"HODGE, Robyn (DEM)"	181		92	50.83		89	49.17		181
+		"LYGO, Iain (GRN)"	283		42	14.84		241	85.16		283
+		"ARUNDELL, Simon (IND)"	14		6	42.86		8	57.14		14
+		Total	585		1319	51.68		1233	48.32		2552
+
+	Torquay North										
+			1st Prefs		724	52.77		648	47.23		1372
+		"HILLS, Graham (HAN)"	22		17	77.27		5	22.73		22
+		"STRAUSS, Nigel (LFF)"	22		17	77.27		5	22.73		22
+		"HODGE, Robyn (DEM)"	161		68	42.24		93	57.76		161
+		"LYGO, Iain (GRN)"	277		38	13.72		239	86.28		277
+		"ARUNDELL, Simon (IND)"	14		8	57.14		6	42.86		14
+		Total	496		872	46.68		996	53.32		1868
+
+	Wallington										
+			1st Prefs		406	65.70		212	34.30		618
+		"HILLS, Graham (HAN)"	14		12	85.71		2	14.29		14
+		"STRAUSS, Nigel (LFF)"	13		9	69.23		4	30.77		13
+		"HODGE, Robyn (DEM)"	45		21	46.67		24	53.33		45
+		"LYGO, Iain (GRN)"	34		12	35.29		22	64.71		34
+		"ARUNDELL, Simon (IND)"	6		4	66.67		2	33.33		6
+		Total	112		464	63.56		266	36.44		730
+
+	Warrion										
+			1st Prefs		98	75.38		32	24.62		130
+		"HILLS, Graham (HAN)"	7		6	85.71		1	14.29		7
+		"STRAUSS, Nigel (LFF)"	3		2	66.67		1	33.33		3
+		"HODGE, Robyn (DEM)"	2		1	50.00		1	50.00		2
+		"LYGO, Iain (GRN)"	1		0	0.00		1	100.00		1
+		"ARUNDELL, Simon (IND)"	8		4	50.00		4	50.00		8
+		Total	21		111	73.51		40	26.49		151
+
+	Winchelsea										
+			1st Prefs		492	52.68		442	47.32		934
+		"HILLS, Graham (HAN)"	49		29	59.18		20	40.82		49
+		"STRAUSS, Nigel (LFF)"	9		7	77.78		2	22.22		9
+		"HODGE, Robyn (DEM)"	39		16	41.03		23	58.97		39
+		"LYGO, Iain (GRN)"	53		11	20.75		42	79.25		53
+		"ARUNDELL, Simon (IND)"	15		5	33.33		10	66.67		15
+		Total	165		560	50.96		539	49.04		1099
+
+	Wiridjil (Corangamite)										
+			1st Prefs		76	87.36		11	12.64		87
+		"HILLS, Graham (HAN)"	3		3	100.00		0	0.00		3
+		"STRAUSS, Nigel (LFF)"	0		0	0.00		0	0.00		0
+		"HODGE, Robyn (DEM)"	2		0	0.00		2	100.00		2
+		"LYGO, Iain (GRN)"	1		1	100.00		0	0.00		1
+		"ARUNDELL, Simon (IND)"	0		0	0.00		0	0.00		0
+		Total	6		80	86.02		13	13.98		93
+
+	Wurdi Boluc										
+			1st Prefs		76	57.14		57	42.86		133
+		"HILLS, Graham (HAN)"	5		4	80.00		1	20.00		5
+		"STRAUSS, Nigel (LFF)"	1		0	0.00		1	100.00		1
+		"HODGE, Robyn (DEM)"	4		2	50.00		2	50.00		4
+		"LYGO, Iain (GRN)"	7		1	14.29		6	85.71		7
+		"ARUNDELL, Simon (IND)"	5		2	40.00		3	60.00		5
+		Total	22		85	54.84		70	45.16		155
+
+	Special Hospitals										
+			1st Prefs		126	72.00		49	28.00		175
+		"HILLS, Graham (HAN)"	8		6	75.00		2	25.00		8
+		"STRAUSS, Nigel (LFF)"	3		3	100.00		0	0.00		3
+		"HODGE, Robyn (DEM)"	3		1	33.33		2	66.67		3
+		"LYGO, Iain (GRN)"	0		0	0.00		0	0.00		0
+		"ARUNDELL, Simon (IND)"	2		1	50.00		1	50.00		2
+		Total	16		137	71.73		54	28.27		191
+
+	Total Ordinary										
+			1st Prefs		31216	58.16		22461	41.84		53677
+		"HILLS, Graham (HAN)"	1598		1047	65.52		551	34.48		1598
+		"STRAUSS, Nigel (LFF)"	1670		1117	66.89		553	33.11		1670
+		"HODGE, Robyn (DEM)"	4180		1920	45.93		2260	54.07		4180
+		"LYGO, Iain (GRN)"	4219		751	17.80		3468	82.20		4219
+		"ARUNDELL, Simon (IND)"	1075		558	51.91		517	48.09		1075
+		Total	12742		36609	55.12		29810	44.88		66419
+
+	ABSENT										
+			1st Prefs		1972	57.36		1466	42.64		3438
+		"HILLS, Graham (HAN)"	137		93	67.88		44	32.12		137
+		"STRAUSS, Nigel (LFF)"	145		110	75.86		35	24.14		145
+		"HODGE, Robyn (DEM)"	441		169	38.32		272	61.68		441
+		"LYGO, Iain (GRN)"	478		171	35.77		307	64.23		478
+		"ARUNDELL, Simon (IND)"	101		52	51.49		49	48.51		101
+		Total	1302		2567	54.16		2173	45.84		4740
+
+	POSTAL										
+			1st Prefs		2407	69.97		1033	30.03		3440
+		"HILLS, Graham (HAN)"	111		63	56.76		48	43.24		111
+		"STRAUSS, Nigel (LFF)"	58		43	74.14		15	25.86		58
+		"HODGE, Robyn (DEM)"	185		66	35.68		119	64.32		185
+		"LYGO, Iain (GRN)"	138		36	26.09		102	73.91		138
+		"ARUNDELL, Simon (IND)"	65		33	50.77		32	49.23		65
+		Total	557		2648	66.25		1349	33.75		3997
+
+	PRE_POLL										
+			1st Prefs		2131	59.43		1455	40.57		3586
+		"HILLS, Graham (HAN)"	128		76	59.38		52	40.63		128
+		"STRAUSS, Nigel (LFF)"	72		49	68.06		23	31.94		72
+		"HODGE, Robyn (DEM)"	270		107	39.63		163	60.37		270
+		"LYGO, Iain (GRN)"	217		51	23.50		166	76.50		217
+		"ARUNDELL, Simon (IND)"	78		39	50.00		39	50.00		78
+		Total	765		2453	56.38		1898	43.62		4351
+
+	PROVISIONAL										
+			1st Prefs		203	56.86		154	43.14		357
+		"HILLS, Graham (HAN)"	9		5	55.56		4	44.44		9
+		"STRAUSS, Nigel (LFF)"	15		10	66.67		5	33.33		15
+		"HODGE, Robyn (DEM)"	53		23	43.40		30	56.60		53
+		"LYGO, Iain (GRN)"	44		8	18.18		36	81.82		44	
+		"ARUNDELL, Simon (IND)"	7		3	42.86		4	57.14		7	
+		Total	128		252	51.96		233	48.04		485	
+
+	Division Summary											
+			1st Prefs		37929	58.81		26569	41.19		64498	
+		"HILLS, Graham (HAN)"	1983		1284	64.75		699	35.25		1983	
+		"STRAUSS, Nigel (LFF)"	1960		1329	67.81		631	32.19		1960	
+		"HODGE, Robyn (DEM)"	5129		2285	44.55		2844	55.45		5129	
+		"LYGO, Iain (GRN)"	5096		1017	19.96		4079	80.04		5096	
+		"ARUNDELL, Simon (IND)"	1326		685	51.66		641	48.34		1326	
+		Total	15494		44529	55.67		35463	44.33		79992	

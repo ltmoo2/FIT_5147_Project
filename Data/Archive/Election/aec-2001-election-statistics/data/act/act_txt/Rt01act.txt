@@ -1,0 +1,120 @@
+Senate - 2001 Election : Australian Capital Territory				
+Registered Group Voting Tickets				
+				
+Group A - Australian Democrats				
+			Preferences	
+Ticket	Party/Group Name 	Candidate Name	Ticket No#1	Ticket No#2
+Group A	Australian Democrats	"SIEVERS, W."	1	1
+ 	 	"DUNDAS, R.J."	2	2
+Group B	Christian Democratic Party (Fred Nile Group)	"McCLURE, I."	6	6
+ 	 	"JANES, T."	7	7
+Group C	Australian Greens	"CORR, G."	3	3
+ 	 	"FAHEY, F."	4	4
+Group D	Australian Labor Party	"LUNDY, K."	9	11
+ 	 	"POKE, R."	10	12
+Group E	Liberal Party	"REID, M."	11	9
+ 	 	"HANLON, B."	12	10
+Group F	Pauline Hanson's One Nation	"TARLINTON, D."	13	13
+ 	 	"TARLINTON, T."	14	14
+Ungrouped	Citizens Electoral Council of Australia	"ARNOLD, J.T.A."	8	8
+	Indpendent	"HELM, K."	5	5
+				
+				
+Group B - Christian Democratic Party (Fred Nile Group)				
+				
+Ticket	Party/Group Name 	Candidate Name	Preferences 	
+Group A	Australian Democrats	"SIEVERS, W."	9	
+ 	 	"DUNDAS, R.J."	10	
+Group B	Christian Democratic Party (Fred Nile Group)	"McCLURE, I."	1	
+ 	 	"JANES, T."	2	
+Group C	Australian Greens	"CORR, G."	11	
+ 	 	"FAHEY, F."	12	
+Group D	Australian Labor Party	"LUNDY, K."	5	
+ 	 	"POKE, R."	6	
+Group E	Liberal Party	"REID, M."	3	
+ 	 	"HANLON, B."	4	
+Group F	Pauline Hanson's One Nation	"TARLINTON, D."	7	
+ 	 	"TARLINTON, T."	8	
+Ungrouped	Citizens Electoral Council of Australia	"ARNOLD, J.T.A."	13	
+	Indpendent	"HELM, K."	14	
+				
+				
+Group C - Australian Greens				
+				
+Ticket	Party/Group Name 	Candidate Name	Preferences 	
+Group A	Australian Democrats	"SIEVERS, W."	5	
+ 	 	"DUNDAS, R.J."	4	
+Group B	Christian Democratic Party (Fred Nile Group)	"McCLURE, I."	10	
+ 	 	"JANES, T."	11	
+Group C	Australian Greens	"CORR, G."	1	
+ 	 	"FAHEY, F."	2	
+Group D	Australian Labor Party	"LUNDY, K."	6	
+ 	 	"POKE, R."	7	
+Group E	Liberal Party	"REID, M."	9	
+ 	 	"HANLON, B."	8	
+Group F	Pauline Hanson's One Nation	"TARLINTON, D."	13	
+ 	 	"TARLINTON, T."	14	
+Ungrouped	Citizens Electoral Council of Australia	"ARNOLD, J.T.A."	12	
+	Indpendent	"HELM, K."	3	
+				
+				
+Group D - Australian Labor Party				
+				
+Ticket	Party/Group Name 	Candidate Name	Preferences 	
+Group A	Australian Democrats	"SIEVERS, W."	4	
+ 	 	"DUNDAS, R.J."	5	
+Group B	Christian Democratic Party (Fred Nile Group)	"McCLURE, I."	8	
+ 	 	"JANES, T."	9	
+Group C	Australian Greens	"CORR, G."	6	
+ 	 	"FAHEY, F."	7	
+Group D	Australian Labor Party	"LUNDY, K."	1	
+ 	 	"POKE, R."	2	
+Group E	Liberal Party	"REID, M."	10	
+ 	 	"HANLON, B."	11	
+Group F	Pauline Hanson's One Nation	"TARLINTON, D."	13	
+ 	 	"TARLINTON, T."	14	
+Ungrouped	Citizens Electoral Council of Australia	"ARNOLD, J.T.A."	12	
+	Indpendent	"HELM, K."	3	
+				
+				
+Group E - Liberal Party				
+				
+Ticket	Party/Group Name 	Candidate Name	Preferences 	
+Group A	Australian Democrats	"SIEVERS, W."	9	
+ 	 	"DUNDAS, R.J."	8	
+Group B	Christian Democratic Party (Fred Nile Group)	"McCLURE, I."	4	
+ 	 	"JANES, T."	3	
+Group C	Australian Greens	"CORR, G."	11	
+ 	 	"FAHEY, F."	10	
+Group D	Australian Labor Party	"LUNDY, K."	7	
+ 	 	"POKE, R."	6	
+Group E	Liberal Party	"REID, M."	1	
+ 	 	"HANLON, B."	2	
+Group F	Pauline Hanson's One Nation	"TARLINTON, D."	13	
+ 	 	"TARLINTON, T."	14	
+Ungrouped	Citizens Electoral Council of Australia	"ARNOLD, J.T.A."	12	
+	Indpendent	"HELM, K."	5	
+				
+				
+Group F - Pauline Hanson's One Nation				
+				
+Ticket	Party/Group Name 	Candidate Name	Preferences 	
+Group A	Australian Democrats	"SIEVERS, W."	7	
+ 	 	"DUNDAS, R.J."	8	
+Group B	Christian Democratic Party (Fred Nile Group)	"McCLURE, I."	5	
+ 	 	"JANES, T."	6	
+Group C	Australian Greens	"CORR, G."	11	
+ 	 	"FAHEY, F."	12	
+Group D	Australian Labor Party	"LUNDY, K."	9	
+ 	 	"POKE, R."	10	
+Group E	Liberal Party	"REID, M."	14	
+ 	 	"HANLON, B."	13	
+Group F	Pauline Hanson's One Nation	"TARLINTON, D."	1	
+ 	 	"TARLINTON, T."	2	
+Ungrouped	Citizens Electoral Council of Australia	"ARNOLD, J.T.A."	4	
+	Indpendent	"HELM, K."	3	
+				
+				
+				
+				
+				

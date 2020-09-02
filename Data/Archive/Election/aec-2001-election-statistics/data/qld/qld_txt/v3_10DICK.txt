@@ -1,0 +1,436 @@
+House of Representatives - 2001 Election: Queensland												
+Two Candidate Preferred Preference Flow Result 												
+By Polling Place												
+Dickson (88001)												
+												
+		Candidate		                  	"KERNOT, Cheryl"		             	"DUTTON, Peter"			Total	
+				                           	ALP		                        	LP				
+				                           	Votes	%	                     	Votes	%			
+	Albany Creek											
+			1st Prefs		1213	37.22		2046	62.78		3259	
+		"HYLAND, Terry (IND)"	47		24	51.06		23	48.94		47	
+		"TURNER, Shayne (DEM)"	168		92	54.76		76	45.24		168	
+		"KIMLIN, Gary (ORP)"	31		15	48.39		16	51.61		31	
+		"WHITNEY, Wayne (HAN)"	124		52	41.94		72	58.06		124	
+		"KRAMER, Paul (GRN)"	87		60	68.97		27	31.03		87	
+		"KESSELS, Colin (IND)"	225		98	43.56		127	56.44		225	
+		"BARNES, J F (IND)"	8		3	37.50		5	62.50		8
+		Total	690		1557	39.43		2392	60.57		3949
+
+	Albany Creek South										
+			1st Prefs		1091	30.87		2443	69.13		3534
+		"HYLAND, Terry (IND)"	41		23	56.10		18	43.90		41
+		"TURNER, Shayne (DEM)"	228		136	59.65		92	40.35		228
+		"KIMLIN, Gary (ORP)"	33		8	24.24		25	75.76		33
+		"WHITNEY, Wayne (HAN)"	75		23	30.67		52	69.33		75
+		"KRAMER, Paul (GRN)"	73		41	56.16		32	43.84		73
+		"KESSELS, Colin (IND)"	257		99	38.52		158	61.48		257
+		"BARNES, J F (IND)"	9		2	22.22		7	77.78		9
+		Total	716		1423	33.48		2827	66.52		4250
+
+	Arana Hills										
+			1st Prefs		611	45.13		743	54.87		1354
+		"HYLAND, Terry (IND)"	27		17	62.96		10	37.04		27
+		"TURNER, Shayne (DEM)"	129		89	68.99		40	31.01		129
+		"KIMLIN, Gary (ORP)"	12		4	33.33		8	66.67		12
+		"WHITNEY, Wayne (HAN)"	37		13	35.14		24	64.86		37
+		"KRAMER, Paul (GRN)"	58		43	74.14		15	25.86		58
+		"KESSELS, Colin (IND)"	110		48	43.64		62	56.36		110
+		"BARNES, J F (IND)"	5		1	20.00		4	80.00		5
+		Total	378		826	47.69		906	52.31		1732
+
+	Bray Park										
+			1st Prefs		1786	53.86		1530	46.14		3316
+		"HYLAND, Terry (IND)"	104		61	58.65		43	41.35		104
+		"TURNER, Shayne (DEM)"	224		142	63.39		82	36.61		224
+		"KIMLIN, Gary (ORP)"	20		7	35.00		13	65.00		20
+		"WHITNEY, Wayne (HAN)"	144		57	39.58		87	60.42		144
+		"KRAMER, Paul (GRN)"	82		44	53.66		38	46.34		82
+		"KESSELS, Colin (IND)"	301		142	47.18		159	52.82		301
+		"BARNES, J F (IND)"	23		13	56.52		10	43.48		23
+		Total	898		2252	53.44		1962	46.56		4214
+
+	Brisbane City (Dickson)										
+			1st Prefs		66	42.58		89	57.42		155
+		"HYLAND, Terry (IND)"	4		3	75.00		1	25.00		4
+		"TURNER, Shayne (DEM)"	13		9	69.23		4	30.77		13
+		"KIMLIN, Gary (ORP)"	1		0	0.00		1	100.00		1
+		"WHITNEY, Wayne (HAN)"	5		1	20.00		4	80.00		5
+		"KRAMER, Paul (GRN)"	12		8	66.67		4	33.33		12
+		"KESSELS, Colin (IND)"	17		11	64.71		6	35.29		17
+		"BARNES, J F (IND)"	3		0	0.00		3	100.00		3
+		Total	55		98	46.67		112	53.33		210
+
+	Closeburn										
+			1st Prefs		143	28.77		354	71.23		497
+		"HYLAND, Terry (IND)"	7		5	71.43		2	28.57		7
+		"TURNER, Shayne (DEM)"	24		11	45.83		13	54.17		24
+		"KIMLIN, Gary (ORP)"	2		2	100.00		0	0.00		2
+		"WHITNEY, Wayne (HAN)"	19		5	26.32		14	73.68		19
+		"KRAMER, Paul (GRN)"	62		38	61.29		24	38.71		62
+		"KESSELS, Colin (IND)"	39		9	23.08		30	76.92		39
+		"BARNES, J F (IND)"	2		1	50.00		1	50.00		2
+		Total	155		214	32.82		438	67.18		652
+
+	Dakabin										
+			1st Prefs		299	47.24		334	52.76		633
+		"HYLAND, Terry (IND)"	7		2	28.57		5	71.43		7
+		"TURNER, Shayne (DEM)"	43		28	65.12		15	34.88		43
+		"KIMLIN, Gary (ORP)"	6		1	16.67		5	83.33		6
+		"WHITNEY, Wayne (HAN)"	37		17	45.95		20	54.05		37
+		"KRAMER, Paul (GRN)"	30		17	56.67		13	43.33		30
+		"KESSELS, Colin (IND)"	83		31	37.35		52	62.65		83
+		"BARNES, J F (IND)"	2		1	50.00		1	50.00		2
+		Total	208		396	47.09		445	52.91		841
+
+	Dayboro										
+			1st Prefs		359	31.66		775	68.34		1134
+		"HYLAND, Terry (IND)"	19		8	42.11		11	57.89		19
+		"TURNER, Shayne (DEM)"	47		26	55.32		21	44.68		47
+		"KIMLIN, Gary (ORP)"	10		5	50.00		5	50.00		10
+		"WHITNEY, Wayne (HAN)"	58		17	29.31		41	70.69		58
+		"KRAMER, Paul (GRN)"	130		86	66.15		44	33.85		130
+		"KESSELS, Colin (IND)"	108		51	47.22		57	52.78		108
+		"BARNES, J F (IND)"	5		3	60.00		2	40.00		5
+		Total	377		555	36.73		956	63.27		1511
+
+	Eatons Hill										
+			1st Prefs		988	30.64		2237	69.36		3225
+		"HYLAND, Terry (IND)"	30		17	56.67		13	43.33		30
+		"TURNER, Shayne (DEM)"	233		139	59.66		94	40.34		233
+		"KIMLIN, Gary (ORP)"	18		10	55.56		8	44.44		18
+		"WHITNEY, Wayne (HAN)"	83		32	38.55		51	61.45		83
+		"KRAMER, Paul (GRN)"	146		84	57.53		62	42.47		146
+		"KESSELS, Colin (IND)"	295		98	33.22		197	66.78		295
+		"BARNES, J F (IND)"	10		5	50.00		5	50.00		10
+		Total	815		1373	33.99		2667	66.01		4040
+
+	Everton Hills										
+			1st Prefs		858	39.69		1304	60.31		2162
+		"HYLAND, Terry (IND)"	44		18	40.91		26	59.09		44
+		"TURNER, Shayne (DEM)"	186		119	63.98		67	36.02		186
+		"KIMLIN, Gary (ORP)"	17		7	41.18		10	58.82		17
+		"WHITNEY, Wayne (HAN)"	73		17	23.29		56	76.71		73
+		"KRAMER, Paul (GRN)"	81		50	61.73		31	38.27		81
+		"KESSELS, Colin (IND)"	182		72	39.56		110	60.44		182
+		"BARNES, J F (IND)"	11		5	45.45		6	54.55		11
+		Total	594		1146	41.58		1610	58.42		2756
+
+	Everton Park (Dickson)										
+			1st Prefs		366	43.99		466	56.01		832
+		"HYLAND, Terry (IND)"	16		10	62.50		6	37.50		16
+		"TURNER, Shayne (DEM)"	49		36	73.47		13	26.53		49
+		"KIMLIN, Gary (ORP)"	3		2	66.67		1	33.33		3
+		"WHITNEY, Wayne (HAN)"	30		14	46.67		16	53.33		30
+		"KRAMER, Paul (GRN)"	22		13	59.09		9	40.91		22
+		"KESSELS, Colin (IND)"	57		29	50.88		28	49.12		57
+		"BARNES, J F (IND)"	2		1	50.00		1	50.00		2
+		Total	179		471	46.59		540	53.41		1011
+
+	Everton Park North (Dickson)										
+			1st Prefs		369	41.32		524	58.68		893
+		"HYLAND, Terry (IND)"	11		6	54.55		5	45.45		11
+		"TURNER, Shayne (DEM)"	68		45	66.18		23	33.82		68
+		"KIMLIN, Gary (ORP)"	7		3	42.86		4	57.14		7
+		"WHITNEY, Wayne (HAN)"	21		7	33.33		14	66.67		21
+		"KRAMER, Paul (GRN)"	40		30	75.00		10	25.00		40
+		"KESSELS, Colin (IND)"	77		28	36.36		49	63.64		77
+		"BARNES, J F (IND)"	6		3	50.00		3	50.00		6
+		Total	230		491	43.72		632	56.28		1123
+
+	Ferny Grove (Dickson)										
+			1st Prefs		1092	39.24		1691	60.76		2783
+		"HYLAND, Terry (IND)"	47		19	40.43		28	59.57		47
+		"TURNER, Shayne (DEM)"	237		149	62.87		88	37.13		237
+		"KIMLIN, Gary (ORP)"	17		4	23.53		13	76.47		17
+		"WHITNEY, Wayne (HAN)"	73		24	32.88		49	67.12		73
+		"KRAMER, Paul (GRN)"	118		73	61.86		45	38.14		118
+		"KESSELS, Colin (IND)"	228		98	42.98		130	57.02		228
+		"BARNES, J F (IND)"	7		0	0.00		7	100.00		7
+		Total	727		1459	41.57		2051	58.43		3510
+
+	Ferny Hills										
+			1st Prefs		904	42.64		1216	57.36		2120
+		"HYLAND, Terry (IND)"	46		28	60.87		18	39.13		46
+		"TURNER, Shayne (DEM)"	187		62	33.16		125	66.84		187
+		"KIMLIN, Gary (ORP)"	30		11	36.67		19	63.33		30
+		"WHITNEY, Wayne (HAN)"	70		32	45.71		38	54.29		70
+		"KRAMER, Paul (GRN)"	115		80	69.57		35	30.43		115
+		"KESSELS, Colin (IND)"	213		97	45.54		116	54.46		213
+		"BARNES, J F (IND)"	12		5	41.67		7	58.33		12
+		Total	673		1219	43.64		1574	56.36		2793
+
+	Ferny Hills North										
+			1st Prefs		1005	39.43		1544	60.57		2549
+		"HYLAND, Terry (IND)"	50		25	50.00		25	50.00		50
+		"TURNER, Shayne (DEM)"	202		145	71.78		57	28.22		202
+		"KIMLIN, Gary (ORP)"	14		9	64.29		5	35.71		14
+		"WHITNEY, Wayne (HAN)"	63		24	38.10		39	61.90		63
+		"KRAMER, Paul (GRN)"	116		83	71.55		33	28.45		116
+		"KESSELS, Colin (IND)"	242		101	41.74		141	58.26		242
+		"BARNES, J F (IND)"	10		6	60.00		4	40.00		10
+		Total	697		1398	43.07		1848	56.93		3246
+
+	Grovely (Dickson)										
+			1st Prefs		667	45.97		784	54.03		1451
+		"HYLAND, Terry (IND)"	46		28	60.87		18	39.13		46
+		"TURNER, Shayne (DEM)"	93		50	53.76		43	46.24		93
+		"KIMLIN, Gary (ORP)"	9		1	11.11		8	88.89		9
+		"WHITNEY, Wayne (HAN)"	54		14	25.93		40	74.07		54
+		"KRAMER, Paul (GRN)"	67		42	62.69		25	37.31		67
+		"KESSELS, Colin (IND)"	109		56	51.38		53	48.62		109
+		"BARNES, J F (IND)"	6		4	66.67		2	33.33		6
+		Total	384		862	46.98		973	53.02		1835
+
+	Kallangur										
+			1st Prefs		1919	55.11		1563	44.89		3482
+		"HYLAND, Terry (IND)"	95		53	55.79		42	44.21		95
+		"TURNER, Shayne (DEM)"	156		114	73.08		42	26.92		156
+		"KIMLIN, Gary (ORP)"	53		20	37.74		33	62.26		53
+		"WHITNEY, Wayne (HAN)"	237		95	40.08		142	59.92		237
+		"KRAMER, Paul (GRN)"	112		73	65.18		39	34.82		112
+		"KESSELS, Colin (IND)"	277		117	42.24		160	57.76		277
+		"BARNES, J F (IND)"	21		9	42.86		12	57.14		21
+		Total	951		2400	54.14		2033	45.86		4433
+
+	Kallangur East										
+			1st Prefs		569	54.40		477	45.60		1046
+		"HYLAND, Terry (IND)"	31		20	64.52		11	35.48		31
+		"TURNER, Shayne (DEM)"	66		38	57.58		28	42.42		66
+		"KIMLIN, Gary (ORP)"	9		3	33.33		6	66.67		9
+		"WHITNEY, Wayne (HAN)"	56		27	48.21		29	51.79		56
+		"KRAMER, Paul (GRN)"	39		26	66.67		13	33.33		39
+		"KESSELS, Colin (IND)"	127		59	46.46		68	53.54		127
+		"BARNES, J F (IND)"	7		2	28.57		5	71.43		7
+		Total	335		744	53.87		637	46.13		1381
+
+	Kallangur West										
+			1st Prefs		277	51.97		256	48.03		533
+		"HYLAND, Terry (IND)"	14		10	71.43		4	28.57		14
+		"TURNER, Shayne (DEM)"	29		19	65.52		10	34.48		29
+		"KIMLIN, Gary (ORP)"	7		1	14.29		6	85.71		7
+		"WHITNEY, Wayne (HAN)"	37		13	35.14		24	64.86		37
+		"KRAMER, Paul (GRN)"	21		12	57.14		9	42.86		21
+		"KESSELS, Colin (IND)"	75		42	56.00		33	44.00		75
+		"BARNES, J F (IND)"	5		1	20.00		4	80.00		5
+		Total	188		375	52.01		346	47.99		721
+
+	Keperra (Dickson)										
+			1st Prefs		146	39.35		225	60.65		371
+		"HYLAND, Terry (IND)"	6		3	50.00		3	50.00		6
+		"TURNER, Shayne (DEM)"	18		9	50.00		9	50.00		18
+		"KIMLIN, Gary (ORP)"	2		1	50.00		1	50.00		2
+		"WHITNEY, Wayne (HAN)"	14		3	21.43		11	78.57		14
+		"KRAMER, Paul (GRN)"	18		14	77.78		4	22.22		18
+		"KESSELS, Colin (IND)"	18		9	50.00		9	50.00		18
+		"BARNES, J F (IND)"	2		2	100.00		0	0.00		2
+		Total	78		187	41.65		262	58.35		449
+
+	Kurwongbah										
+			1st Prefs		779	45.19		945	54.81		1724
+		"HYLAND, Terry (IND)"	31		19	61.29		12	38.71		31
+		"TURNER, Shayne (DEM)"	142		91	64.08		51	35.92		142
+		"KIMLIN, Gary (ORP)"	8		6	75.00		2	25.00		8
+		"WHITNEY, Wayne (HAN)"	68		29	42.65		39	57.35		68
+		"KRAMER, Paul (GRN)"	73		42	57.53		31	42.47		73
+		"KESSELS, Colin (IND)"	217		92	42.40		125	57.60		217
+		"BARNES, J F (IND)"	10		5	50.00		5	50.00		10
+		Total	549		1063	46.77		1210	53.23		2273
+
+	Lawnton										
+			1st Prefs		1216	54.77		1004	45.23		2220
+		"HYLAND, Terry (IND)"	54		33	61.11		21	38.89		54
+		"TURNER, Shayne (DEM)"	159		105	66.04		54	33.96		159
+		"KIMLIN, Gary (ORP)"	13		5	38.46		8	61.54		13
+		"WHITNEY, Wayne (HAN)"	134		49	36.57		85	63.43		134
+		"KRAMER, Paul (GRN)"	81		49	60.49		32	39.51		81
+		"KESSELS, Colin (IND)"	175		82	46.86		93	53.14		175
+		"BARNES, J F (IND)"	14		3	21.43		11	78.57		14
+		Total	630		1542	54.11		1308	45.89		2850
+
+	Mitchelton (Dickson)										
+			1st Prefs		146	49.16		151	50.84		297
+		"HYLAND, Terry (IND)"	7		3	42.86		4	57.14		7
+		"TURNER, Shayne (DEM)"	34		24	70.59		10	29.41		34
+		"KIMLIN, Gary (ORP)"	2		1	50.00		1	50.00		2
+		"WHITNEY, Wayne (HAN)"	19		9	47.37		10	52.63		19
+		"KRAMER, Paul (GRN)"	30		19	63.33		11	36.67		30
+		"KESSELS, Colin (IND)"	15		6	40.00		9	60.00		15
+		"BARNES, J F (IND)"	0		0	0.00		0	0.00		0
+		Total	107		208	51.49		196	48.51		404
+
+	Mount Nebo										
+			1st Prefs		93	54.39		78	45.61		171
+		"HYLAND, Terry (IND)"	0		0	0.00		0	0.00		0
+		"TURNER, Shayne (DEM)"	24		17	70.83		7	29.17		24
+		"KIMLIN, Gary (ORP)"	1		0	0.00		1	100.00		1
+		"WHITNEY, Wayne (HAN)"	11		2	18.18		9	81.82		11
+		"KRAMER, Paul (GRN)"	83		66	79.52		17	20.48		83
+		"KESSELS, Colin (IND)"	17		4	23.53		13	76.47		17
+		"BARNES, J F (IND)"	1		0	0.00		1	100.00		1
+		Total	137		182	59.09		126	40.91		308
+
+	Murrumba Downs										
+			1st Prefs		935	39.37		1440	60.63		2375
+		"HYLAND, Terry (IND)"	25		14	56.00		11	44.00		25
+		"TURNER, Shayne (DEM)"	99		62	62.63		37	37.37		99
+		"KIMLIN, Gary (ORP)"	11		7	63.64		4	36.36		11
+		"WHITNEY, Wayne (HAN)"	88		41	46.59		47	53.41		88
+		"KRAMER, Paul (GRN)"	54		34	62.96		20	37.04		54
+		"KESSELS, Colin (IND)"	225		84	37.33		141	62.67		225
+		"BARNES, J F (IND)"	12		4	33.33		8	66.67		12
+		Total	514		1181	40.88		1708	59.12		2889
+
+	Oxford Park (Dickson)										
+			1st Prefs		358	54.41		300	45.59		658
+		"HYLAND, Terry (IND)"	14		6	42.86		8	57.14		14
+		"TURNER, Shayne (DEM)"	42		31	73.81		11	26.19		42
+		"KIMLIN, Gary (ORP)"	5		3	60.00		2	40.00		5
+		"WHITNEY, Wayne (HAN)"	27		11	40.74		16	59.26		27
+		"KRAMER, Paul (GRN)"	22		14	63.64		8	36.36		22
+		"KESSELS, Colin (IND)"	23		11	47.83		12	52.17		23
+		"BARNES, J F (IND)"	3		3	100.00		0	0.00		3
+		Total	136		437	55.04		357	44.96		794
+
+	Petrie										
+			1st Prefs		919	42.61		1238	57.39		2157
+		"HYLAND, Terry (IND)"	37		24	64.86		13	35.14		37
+		"TURNER, Shayne (DEM)"	163		105	64.42		58	35.58		163
+		"KIMLIN, Gary (ORP)"	11		5	45.45		6	54.55		11
+		"WHITNEY, Wayne (HAN)"	110		42	38.18		68	61.82		110
+		"KRAMER, Paul (GRN)"	91		63	69.23		28	30.77		91
+		"KESSELS, Colin (IND)"	252		92	36.51		160	63.49		252
+		"BARNES, J F (IND)"	8		3	37.50		5	62.50		8
+		Total	672		1253	44.29		1576	55.71		2829
+
+	Samford										
+			1st Prefs		706	25.97		2012	74.03		2718
+		"HYLAND, Terry (IND)"	39		17	43.59		22	56.41		39
+		"TURNER, Shayne (DEM)"	194		128	65.98		66	34.02		194
+		"KIMLIN, Gary (ORP)"	7		4	57.14		3	42.86		7
+		"WHITNEY, Wayne (HAN)"	67		21	31.34		46	68.66		67
+		"KRAMER, Paul (GRN)"	250		180	72.00		70	28.00		250
+		"KESSELS, Colin (IND)"	275		111	40.36		164	59.64		275
+		"BARNES, J F (IND)"	6		3	50.00		3	50.00		6
+		Total	838		1170	32.90		2386	67.10		3556
+
+	Strathpine										
+			1st Prefs		762	49.71		771	50.29		1533
+		"HYLAND, Terry (IND)"	39		23	58.97		16	41.03		39
+		"TURNER, Shayne (DEM)"	79		41	51.90		38	48.10		79
+		"KIMLIN, Gary (ORP)"	8		4	50.00		4	50.00		8
+		"WHITNEY, Wayne (HAN)"	63		24	38.10		39	61.90		63
+		"KRAMER, Paul (GRN)"	82		59	71.95		23	28.05		82
+		"KESSELS, Colin (IND)"	139		62	44.60		77	55.40		139
+		"BARNES, J F (IND)"	8		3	37.50		5	62.50		8
+		Total	418		978	50.13		973	49.87		1951
+
+	Strathpine East										
+			1st Prefs		516	51.81		480	48.19		996
+		"HYLAND, Terry (IND)"	18		10	55.56		8	44.44		18
+		"TURNER, Shayne (DEM)"	63		46	73.02		17	26.98		63
+		"KIMLIN, Gary (ORP)"	1		1	100.00		0	0.00		1
+		"WHITNEY, Wayne (HAN)"	38		17	44.74		21	55.26		38
+		"KRAMER, Paul (GRN)"	21		13	61.90		8	38.10		21
+		"KESSELS, Colin (IND)"	102		40	39.22		62	60.78		102
+		"BARNES, J F (IND)"	2		1	50.00		1	50.00		2
+		Total	245		644	51.89		597	48.11		1241
+
+	Strathpine West										
+			1st Prefs		764	51.62		716	48.38		1480
+		"HYLAND, Terry (IND)"	32		21	65.63		11	34.38		32
+		"TURNER, Shayne (DEM)"	127		83	65.35		44	34.65		127
+		"KIMLIN, Gary (ORP)"	13		6	46.15		7	53.85		13
+		"WHITNEY, Wayne (HAN)"	76		25	32.89		51	67.11		76
+		"KRAMER, Paul (GRN)"	60		44	73.33		16	26.67		60
+		"KESSELS, Colin (IND)"	95		40	42.11		55	57.89		95
+		"BARNES, J F (IND)"	11		6	54.55		5	45.45		11
+		Total	414		989	52.22		905	47.78		1894
+
+	Warner										
+			1st Prefs		673	37.66		1114	62.34		1787
+		"HYLAND, Terry (IND)"	32		20	62.50		12	37.50		32
+		"TURNER, Shayne (DEM)"	104		60	57.69		44	42.31		104
+		"KIMLIN, Gary (ORP)"	10		6	60.00		4	40.00		10
+		"WHITNEY, Wayne (HAN)"	64		19	29.69		45	70.31		64
+		"KRAMER, Paul (GRN)"	60		39	65.00		21	35.00		60
+		"KESSELS, Colin (IND)"	189		78	41.27		111	58.73		189
+		"BARNES, J F (IND)"	9		4	44.44		5	55.56		9
+		Total	468		899	39.87		1356	60.13		2255
+
+	Special Hospitals										
+			1st Prefs		80	27.78		208	72.22		288
+		"HYLAND, Terry (IND)"	8		5	62.50		3	37.50		8
+		"TURNER, Shayne (DEM)"	8		4	50.00		4	50.00		8
+		"KIMLIN, Gary (ORP)"	0		0	0.00		0	0.00		0
+		"WHITNEY, Wayne (HAN)"	2		1	50.00		1	50.00		2
+		"KRAMER, Paul (GRN)"	2		1	50.00		1	50.00		2
+		"KESSELS, Colin (IND)"	6		3	50.00		3	50.00		6
+		"BARNES, J F (IND)"	0		0	0.00		0	0.00		0
+		Total	26		94	29.94		220	70.06		314
+
+	Total Ordinary										
+			1st Prefs		22675	42.20		31058	57.80		53733
+		"HYLAND, Terry (IND)"	1028		575	55.93		453	44.07		1028
+		"TURNER, Shayne (DEM)"	3638		2255	61.98		1383	38.02		3638
+		"KIMLIN, Gary (ORP)"	391		162	41.43		229	58.57		391
+		"WHITNEY, Wayne (HAN)"	2077		777	37.41		1300	62.59		2077
+		"KRAMER, Paul (GRN)"	2338		1540	65.87		798	34.13		2338
+		"KESSELS, Colin (IND)"	4770		2000	41.93		2770	58.07		4770
+		"BARNES, J F (IND)"	240		102	42.50		138	57.50		240
+		Total	14482		30086	44.10		38129	55.90		68215
+
+	ABSENT										
+			1st Prefs		1571	43.63		2030	56.37		3601
+		"HYLAND, Terry (IND)"	109		65	59.63		44	40.37		109
+		"TURNER, Shayne (DEM)"	333		200	60.06		133	39.94		333
+		"KIMLIN, Gary (ORP)"	56		30	53.57		26	46.43		56
+		"WHITNEY, Wayne (HAN)"	216		72	33.33		144	66.67		216
+		"KRAMER, Paul (GRN)"	273		171	62.64		102	37.36		273
+		"KESSELS, Colin (IND)"	207		73	35.27		134	64.73		207
+		"BARNES, J F (IND)"	38		15	39.47		23	60.53		38
+		Total	1232		2197	45.46		2636	54.54		4833
+
+	POSTAL										
+			1st Prefs		1255	41.12		1797	58.88		3052
+		"HYLAND, Terry (IND)"	23		14	60.87		9	39.13		23
+		"TURNER, Shayne (DEM)"	152		92	60.53		60	39.47		152
+		"KIMLIN, Gary (ORP)"	12		4	33.33		8	66.67		12
+		"WHITNEY, Wayne (HAN)"	164		50	30.49		114	69.51		164
+		"KRAMER, Paul (GRN)"	67		41	61.19		26	38.81		67
+		"KESSELS, Colin (IND)"	104		36	34.62		68	65.38		104
+		"BARNES, J F (IND)"	13		5	38.46		8	61.54		13
+		Total	535		1497	41.73		2090	58.27		3587
+
+	PRE_POLL										
+			1st Prefs		938	40.21		1395	59.79		2333
+		"HYLAND, Terry (IND)"	49		23	46.94		26	53.06		49
+		"TURNER, Shayne (DEM)"	156		95	60.90		61	39.10		156
+		"KIMLIN, Gary (ORP)"	22		9	40.91		13	59.09		22
+		"WHITNEY, Wayne (HAN)"	101		30	29.70		71	70.30		101
+		"KRAMER, Paul (GRN)"	109		70	64.22		39	35.78		109
+		"KESSELS, Colin (IND)"	107		40	37.38		67	62.62		107
+		"BARNES, J F (IND)"	13		5	38.46		8	61.54		13
+		Total	557		1210	41.87		1680	58.13		2890
+
+	PROVISIONAL										
+			1st Prefs		118	51.75		110	48.25		228
+		"HYLAND, Terry (IND)"	11		7	63.64		4	36.36		11
+		"TURNER, Shayne (DEM)"	17		12	70.59		5	29.41		17
+		"KIMLIN, Gary (ORP)"	4		2	50.00		2	50.00		4
+		"WHITNEY, Wayne (HAN)"	17		5	29.41		12	70.59		17
+		"KRAMER, Paul (GRN)"	25		15	60.00		10	40.00		25
+		"KESSELS, Colin (IND)"	15		6	40.00		9	60.00		15
+		"BARNES, J F (IND)"	1		0	0.00		1	100.00		1
+		Total	90		165	51.89		153	48.11		318
+
+	Division Summary										
+			1st Prefs		26557	42.19		36390	57.81		62947
+		"HYLAND, Terry (IND)"	1220		684	56.07		536	43.93		1220
+		"TURNER, Shayne (DEM)"	4296		2654	61.78		1642	38.22		4296
+		"KIMLIN, Gary (ORP)"	485		207	42.68		278	57.32		485
+		"WHITNEY, Wayne (HAN)"	2575		934	36.27		1641	63.73		2575
+		"KRAMER, Paul (GRN)"	2812		1837	65.33		975	34.67		2812	
+		"KESSELS, Colin (IND)"	5203		2155	41.42		3048	58.58		5203	
+		"BARNES, J F (IND)"	305		127	41.64		178	58.36		305	
+		Total	16896		35155	44.03		44688	55.97		79843	
