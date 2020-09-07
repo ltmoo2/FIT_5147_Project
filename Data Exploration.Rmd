@@ -13,6 +13,13 @@ library(ggplot2)
 library(readxl)
 library(maptools)
 library(rgdal)
+library(RColorBrewer)
+library(broom)
+library(gridExtra)
+library(tidycat)
+library(kableExtra)
+library(MASS)
+library(olsrr)
 ```
 
 ```{r tabluar}
@@ -50,21 +57,332 @@ Division_data <- left_join(TPP, Pop) %>%
   left_join(Education) %>%
   mutate("Preferred" = ifelse(PartyAb == "ALP", "Labour", "Liberal"))
 
+Division_data <- Division_data %>%
+  mutate(DivisionNm = case_when(
+    DivisionNm == "O'Connor" ~ "O'connor",
+    DivisionNm == "Eden-Monaro" ~ "Eden-monaro",
+    DivisionNm == "McEwen" ~ "Mcewen",
+    DivisionNm == "McMahon" ~ "Mcmahon",
+    DivisionNm == "McPherson" ~ "Mcpherson",
+    TRUE ~ DivisionNm
+  ))
+
          
-Division_data %>%
-  group_by(Preferred) %>%
-  summarise(Average = mean(`Couple with children`))
+write_csv(Division_data, "Data/Division_data.csv")
 ```
 
 ```{r shape}
 Divisions <- readOGR("data/COM_ELB_region.shp")
-fort_Divisions <- fortify(Divisions)
+```
 
-fort_Divisions
+```{r Average Size of Seat}
+Combined_data <- Division_data %>%
+left_join(Divisions@data, by = c("DivisionNm" = "Elect_div"))
+```
 
-ggplot(Divisions, aes(x=long, y=lat, group = group)) +
-  geom_path()
+```{r}
+Combined_data %>%
+  ggplot(aes(x = Preferred, y = Swing, fill = Preferred)) +
+  geom_violin() +
+  theme_bw() +
+  scale_fill_manual(values=c("#e15759", "#4e79a7")) +
+  labs(x = "Two Party Preferred Winner", y = "Swing Percentage") +
+  ggtitle("Swing change for each party") +
+  facet_wrap(~ State, ncol = 4)
+```
 
-Divisions <- readShapeSpatial("data/COM_ELB_region")
+```{r functions}
+density.plot <- function(data, stat, bins) {
+  p <- data %>%
+    ggplot(aes(x = stat,
+               y = ..density..)) +
+    geom_histogram(bins = bins,
+                 colour = "blue",
+                 fill = "blue",
+                 alpha = 0.2) +
+  geom_density(fill = "light blue",
+               colour = "blue",
+               alpha = 0.5) +
+  labs(y = "", x = "") +
+  theme_bw()
+  
+  p
+}
+
+chloro.map <- function(fill) {
+  p <- ggplot() +
+  geom_polygon(data = fort_Divisions, aes(fill = fill, x = long, y = lat, group = group)) +
+  theme_void() +
+  coord_map() +
+  theme(legend.position = "bottom")
+  
+  p
+}
+```
+
+
+```{r ages}
+Av_age <- Combined_data %>%
+  select(DivisionNm, Population, `0-17`:`80+`) %>%
+  mutate(`0-17` = round(`0-17`*Population), digits = 0,
+         `18-34` = round(`18-34`*Population), digits = 0,
+         `35-49` = round(`35-49`*Population), digits = 0,
+         `50-64` = round(`50-64`*Population), digits = 0,
+         `65-79` = round(`65-79`*Population), digits = 0,
+         `80+` = round(`80+`*Population), digits = 0) %>%
+  pivot_longer(cols = `0-17`:`80+`, names_to = "Agegroup", values_to = "Freq") %>%
+  mutate(Agegroup = as.numeric(case_when(
+    Agegroup == "0-17" ~ "8.5",
+    Agegroup == "18-34" ~ "26",
+    Agegroup == "35-49" ~ "42",
+    Agegroup == "50-64" ~ "57",
+    Agegroup == "65-79" ~ "72",
+    Agegroup == "80+" ~ "81.4"
+  ))) 
+
+Av_age <- Av_age %>%
+  mutate(AgegroupFreq = Agegroup*Freq) %>%
+  group_by(DivisionNm) %>%
+  summarise("Average Age" = sum(AgegroupFreq)/sum(Freq))
+
+
+density.plot(Av_age, Av_age$`Average Age`, 20) +
+  labs(x = "Average Age")
+
+fort_Divisions <- tidy(Divisions, region = "Elect_div") %>%
+  left_join(Av_age, by = c("id" = "DivisionNm"))
+
+ggplot() +
+  geom_polygon(data = fort_Divisions, aes(fill = `Average Age`, x = long, y = lat, group = group)) +
+  theme_void() +
+  coord_map() +
+  scale_fill_distiller(palette = "YlOrRd", direction = 1) +
+  theme(legend.position = "bottom")
+```
+
+```{r family}
+Av_family <- Combined_data %>%
+  select(DivisionNm, `Couple without children`:`Other family`) %>%
+  pivot_longer(cols = `Couple without children`:`Other family`, names_to = "family", values_to = "frequency") %>%
+  group_by(DivisionNm) %>%
+  arrange(frequency) %>%
+  top_n(1, frequency)
+
+Av_family %>%
+  ggplot(aes(x = family)) +
+  stat_count(width = 1,
+             colour = "blue",
+                 fill = "blue",
+                 alpha = 0.2) +
+  theme_bw()
+
+fort_Divisions <- fort_Divisions %>%
+  left_join(Av_family, by = c("id" = "DivisionNm"))
+
+ggplot() +
+  geom_polygon(data = fort_Divisions, aes(fill = family, x = long, y = lat, group = group)) +
+  theme_void() +
+  coord_map() +
+  theme(legend.position = "bottom") +
+  scale_fill_brewer(palette = "Set1", direction = -1)+
+  theme(legend.title = element_blank())
+```
+
+```{r income}
+Av_income <- Combined_data %>%
+  select(DivisionNm, `Median weekly household income`)
+
+density.plot(Av_income, Av_income$`Median weekly household income`, 20) +
+  labs(x = "Median weekly household income")
+
+
+fort_Divisions <- fort_Divisions %>%
+  left_join(Av_income, by = c("id" = "DivisionNm"))
+
+ggplot() +
+  geom_polygon(data = fort_Divisions, aes(fill = `Median weekly household income`, x = long, y = lat, group = group)) +
+  theme_void() +
+  coord_map() +
+  scale_fill_distiller(palette = "YlOrRd", direction = 1) +
+  theme(legend.position = "bottom")
+```
+
+```{r Diversity}
+Av_diversity <- Combined_data %>%
+  select(DivisionNm, "Proportion born overseas" = Overseas)
+
+density.plot(Av_diversity, Av_diversity$`Proportion born overseas`, 20) +
+  labs(x = "Proportion born overseas")
+
+fort_Divisions <- fort_Divisions %>%
+  left_join(Av_diversity, by = c("id" = "DivisionNm"))
+
+ggplot() +
+  geom_polygon(data = fort_Divisions, aes(fill = `Proportion born overseas`, x = long, y = lat, group = group)) +
+  theme_void() +
+  coord_map() +
+  scale_fill_distiller(palette = "YlOrRd", direction = 1) +
+  theme(legend.position = "bottom")
+```
+
+```{r engagement}
+Av_Engagement <- Combined_data %>%
+  mutate(Engaged = 1 - `Not engaged`) %>%
+  select(DivisionNm, Engaged) 
+
+density.plot(Av_Engagement, Av_Engagement$Engaged, 20) +
+  labs(x = "Proportion engaged")
+
+fort_Divisions <- fort_Divisions %>%
+  left_join(Av_Engagement, by = c("id" = "DivisionNm"))
+
+ggplot() +
+  geom_polygon(data = fort_Divisions, aes(fill = Engaged, x = long, y = lat, group = group)) +
+  theme_void() +
+  coord_map() +
+  scale_fill_distiller(palette = "YlOrRd", direction = 1) +
+  theme(legend.position = "bottom")
+```
+
+```{r Education}
+Av_Education <- Combined_data %>%
+  select(DivisionNm, `Cert III or higher`)
+
+density.plot(Av_Education, Av_Education$`Cert III or higher`, 20) +
+  labs(x = "Proportion with Certificate III or higher qualification")
+
+fort_Divisions <- fort_Divisions %>%
+  left_join(Av_Education, by = c("id" = "DivisionNm"))
+
+ggplot() +
+  geom_polygon(data = fort_Divisions, aes(fill = `Cert III or higher`, x = long, y = lat, group = group)) +
+  theme_void() +
+  coord_map() +
+  scale_fill_distiller(palette = "YlOrRd", direction = 1) +
+  theme(legend.position = "bottom")
+
+```
+
+```{r Occupation}
+Av_Occupation <- Combined_data %>%
+  select(DivisionNm, Managers:`Not stated`) %>%
+  rename("Administrators" = `Clerical and Administrative Workers`) %>%
+  pivot_longer(-DivisionNm, names_to = "Occupation", values_to = "Percentage") %>%
+  group_by(DivisionNm) %>%
+  arrange(Percentage) %>%
+  top_n(1, Percentage)
+
+Av_Occupation %>%
+  ggplot(aes(x = Occupation)) +
+  stat_count(width = 1,
+             colour = "blue",
+                 fill = "blue",
+                 alpha = 0.2) +
+  theme_bw() +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+  
+
+fort_Divisions <- fort_Divisions %>%
+  left_join(Av_Occupation, by = c("id" = "DivisionNm"))
+
+ggplot() +
+  geom_polygon(data = fort_Divisions, aes(fill = Occupation, x = long, y = lat, group = group)) +
+  theme_void() +
+  coord_map() +
+  scale_fill_brewer(palette = "Set1", direction = -1) +
+  theme(legend.position = "bottom") +
+  theme(legend.title = element_blank())
+```
+```{r models}
+Model_data <- TPP %>%
+  left_join(Av_age) %>%
+  left_join(Av_diversity) %>%
+  left_join(Av_Education) %>%
+  left_join(Av_Engagement) %>%
+  left_join(Av_family) %>%
+  left_join(Av_income) %>%
+  left_join(Av_Occupation) %>%
+  dplyr::select(StateAb, `Liberal/National Coalition Percentage`, `Average Age`:family, `Median weekly household income`:Occupation)
+
+Model_data <- Model_data %>%
+  mutate(StateAb = as.factor(StateAb),
+         family = as.factor(family),
+         Occupation = as.factor(Occupation))
+
+Overall_model <- lm(`Liberal/National Coalition Percentage` ~ StateAb + `Average Age` + `Proportion born overseas` + `Cert III or higher` + Engaged + family + `Median weekly household income` + Occupation, data = Model_data)
+
+options(scipen = 999)
+tidy(Overall_model) %>%
+  kable(digits = 5) %>%
+  kable_styling(bootstrap_options = c("striped", "bordered"))
+
+Step_model <- stepAIC(Overall_model, direction = "both", trace = FALSE)
+
+tidy(Step_model) %>%
+  kable(digits = 5) %>%
+  kable_styling(bootstrap_options = c("striped", "bordered"))
+```
+
+```{r modelcomparison}
+bind_rows(glance(Overall_model),
+          glance(Step_model),
+          .id = "Model") %>%
+  mutate(Model = case_when(
+    Model == "1" ~ "Overall model",
+    Model == "2" ~ "Stepwise model"
+  )) %>%
+  dplyr::select(Model, 'r.squared', 'adj.r.squared', AIC, BIC, deviance) %>%
+  kable(digits = 5) %>%
+  kable_styling(bootstrap_options = c("striped", "bordered"))
+
+```
+```{r modelplot}
+augment(Step_model) %>%
+  ggplot(aes(sample = .resid)) +
+  geom_qq(color = "#e15759",
+          alpha = 0.5) +
+  geom_qq_line(color = "#4e79a7",
+               size = 1) +
+  theme_bw()
+```
+```{r equation}
+tidy(Step_model)
+
+regEq <- function(lmObj, dig) {
+    gsub(":", "*", 
+        paste0(
+            names(lmObj$model)[1]," = ",
+            paste0(
+                c(round(lmObj$coef[1], dig), round(sign(lmObj$coef[-1])*lmObj$coef[-1], dig)),
+                c("", rep("*", length(lmObj$coef)-1)),
+                paste0(c("", names(lmObj$coef)[-1]), c(ifelse(sign(lmObj$coef)[-1]==1," + "," - "), "")),
+                collapse=""
+            )
+        )
+    )
+}
+
+regEq(Step_model, 14)
+```
+
+
+```{r leaflettest}
+library(leaflet)
+
+Av_Age <- Av_age %>%
+  rename("Average" = `Average Age`)
+
+colours <- Av_Age$Average[match(Divisions$Elect_div, Av_Age$DivisionNm)]
+
+cpal <- colorNumeric("YlOrRd", colours)
+
+
+
+leaflet(Divisions) %>%
+  addTiles() %>%
+  addPolygons(stroke = FALSE,
+              smoothFactor = 0.2,
+              fillOpacity = 1,
+              color = ~cpal(colours))
 ```
 
