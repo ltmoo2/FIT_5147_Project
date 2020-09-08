@@ -72,7 +72,7 @@ write_csv(Division_data, "Data/Division_data.csv")
 ```
 
 ```{r shape}
-Divisions <- readOGR("data/COM_ELB_region.shp")
+Divisions <- readOGR("Data/COM_ELB_region.shp")
 ```
 
 ```{r Average Size of Seat}
@@ -123,16 +123,14 @@ chloro.map <- function(fill) {
 
 ```{r ages}
 Av_age <- Combined_data %>%
-  select(DivisionNm, Population, `0-17`:`80+`) %>%
-  mutate(`0-17` = round(`0-17`*Population), digits = 0,
-         `18-34` = round(`18-34`*Population), digits = 0,
+  select(DivisionNm, Population, `18-34`:`80+`) %>%
+  mutate(`18-34` = round(`18-34`*Population), digits = 0,
          `35-49` = round(`35-49`*Population), digits = 0,
          `50-64` = round(`50-64`*Population), digits = 0,
          `65-79` = round(`65-79`*Population), digits = 0,
          `80+` = round(`80+`*Population), digits = 0) %>%
-  pivot_longer(cols = `0-17`:`80+`, names_to = "Agegroup", values_to = "Freq") %>%
+  pivot_longer(cols = `18-34`:`80+`, names_to = "Agegroup", values_to = "Freq") %>%
   mutate(Agegroup = as.numeric(case_when(
-    Agegroup == "0-17" ~ "8.5",
     Agegroup == "18-34" ~ "26",
     Agegroup == "35-49" ~ "42",
     Agegroup == "50-64" ~ "57",
@@ -143,17 +141,17 @@ Av_age <- Combined_data %>%
 Av_age <- Av_age %>%
   mutate(AgegroupFreq = Agegroup*Freq) %>%
   group_by(DivisionNm) %>%
-  summarise("Average Age" = sum(AgegroupFreq)/sum(Freq))
+  summarise("Voter Age" = sum(AgegroupFreq)/sum(Freq))
 
 
-density.plot(Av_age, Av_age$`Average Age`, 20) +
+density.plot(Av_age, Av_age$`Voter Age`, 20) +
   labs(x = "Average Age")
 
 fort_Divisions <- tidy(Divisions, region = "Elect_div") %>%
   left_join(Av_age, by = c("id" = "DivisionNm"))
 
 ggplot() +
-  geom_polygon(data = fort_Divisions, aes(fill = `Average Age`, x = long, y = lat, group = group)) +
+  geom_polygon(data = fort_Divisions, aes(fill = `Voter Age`, x = long, y = lat, group = group)) +
   theme_void() +
   coord_map() +
   scale_fill_distiller(palette = "YlOrRd", direction = 1) +
@@ -293,6 +291,8 @@ ggplot() +
   theme(legend.position = "bottom") +
   theme(legend.title = element_blank())
 ```
+
+
 ```{r models}
 Model_data <- TPP %>%
   left_join(Av_age) %>%
@@ -336,6 +336,7 @@ bind_rows(glance(Overall_model),
   kable_styling(bootstrap_options = c("striped", "bordered"))
 
 ```
+
 ```{r modelplot}
 augment(Step_model) %>%
   ggplot(aes(sample = .resid)) +
@@ -345,6 +346,7 @@ augment(Step_model) %>%
                size = 1) +
   theme_bw()
 ```
+
 ```{r equation}
 tidy(Step_model)
 

@@ -1,0 +1,262 @@
+---
+title: "Age Test"
+author: "Lachlan Moody"
+date: "07/09/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+install.packages("gpclib")
+
+library(maptools)
+
+library(tidyverse)
+library(ggplot2)
+library(readxl)
+library(rgdal)
+library(RColorBrewer)
+library(broom)
+library(gridExtra)
+library(tidycat)
+library(kableExtra)
+library(MASS)
+library(olsrr)
+library(mapproj)
+```
+
+```{r}
+df <- "data/HouseTppByDivisionDownload-24310.csv"
+
+xl <- "data/commonwealth electorate data.xls"
+
+TPP <- read_csv(df, skip = 1)
+
+Pop <- read_excel(xl, sheet = 2, col_names = c("DivisionNm", "Population"), skip = 7, n_max = 151)
+
+Age <- read_excel(xl, sheet = 3, col_names = c("DivisionNm", "0-17", "18-34", "35-49", "50-64", "65-79", "80+"), skip = 7, n_max = 151)
+
+
+Family <- read_excel(xl, sheet = 4, col_names = c("DivisionNm", "Couple without children", "Couple with children", "One parent family", "Other family"), skip = 7, n_max = 151)
+
+Income <- read_excel(xl, sheet = 5, col_names = c("DivisionNm", "Median weekly household income", "Median weekly rent", "Medain monthly mortgage repayments", "blank", "Owned outright", "Owned with a mortgage", "Rented", "Other tenure type", "Tenure type not stated"), skip = 8, n_max = 151) %>%
+  dplyr::select(-blank)
+
+Diversity <- read_excel(xl, sheet = 6, col_names = c("DivisionNm", "Aboriginal/TSI", "Overseas", "Recent Migrant", "LOTE spoken at home"), skip = 7, n_max = 151)
+
+Engagement <- read_excel(xl, sheet = 7, col_names = c("DivisionNm", "Fully engaged", "Partially engaged", "At least partially engaged", "Not engaged", "Engagement status undertermined"), skip = 7, n_max = 151)
+
+Occupation <- read_excel(xl, sheet = 8, col_names = c("DivisionNm","Managers",	"Professionals",	"Technicians and Trades Workers",	"Community and Personal Service Workers",	"Clerical and Administrative Workers",	"Sales Workers",	"Machinery Operators and Drivers",	"Labourers",	"Inadequately described",	"Not stated"), skip = 7, n_max = 151)
+
+Education <- read_excel(xl, sheet = 9, col_names = c("DivisionNm", "Year 12 equivalent", "Cert III or higher"), skip = 7, n_max = 151)
+
+Division_data <- left_join(TPP, Pop) %>%
+  left_join(Age) %>%
+  left_join(Family) %>%
+  left_join(Income) %>%
+  left_join(Diversity) %>%
+  left_join(Engagement) %>%
+  left_join(Occupation) %>%
+  left_join(Education) %>%
+  mutate("Preferred" = ifelse(PartyAb == "ALP", "Labour", "Liberal"))
+
+Division_data <- Division_data %>%
+  mutate(DivisionNm = case_when(
+    DivisionNm == "O'Connor" ~ "O'connor",
+    DivisionNm == "Eden-Monaro" ~ "Eden-monaro",
+    DivisionNm == "McEwen" ~ "Mcewen",
+    DivisionNm == "McMahon" ~ "Mcmahon",
+    DivisionNm == "McPherson" ~ "Mcpherson",
+    TRUE ~ DivisionNm
+  ))
+
+Divisions <- readOGR("data/COM_ELB_region.shp")
+
+Combined_data <- Division_data %>%
+left_join(Divisions@data, by = c("DivisionNm" = "Elect_div"))
+```
+
+```{r}
+Av_age <- Combined_data %>%
+  dplyr::select(DivisionNm, Population, `18-34`:`80+`) %>%
+  mutate(`18-34` = round(`18-34`*Population), digits = 0,
+         `35-49` = round(`35-49`*Population), digits = 0,
+         `50-64` = round(`50-64`*Population), digits = 0,
+         `65-79` = round(`65-79`*Population), digits = 0,
+         `80+` = round(`80+`*Population), digits = 0) %>%
+  pivot_longer(cols = `18-34`:`80+`, names_to = "Agegroup", values_to = "Freq") %>%
+  mutate(Agegroup = as.numeric(case_when(
+    Agegroup == "18-34" ~ "26",
+    Agegroup == "35-49" ~ "42",
+    Agegroup == "50-64" ~ "57",
+    Agegroup == "65-79" ~ "72",
+    Agegroup == "80+" ~ "81.4"
+  ))) 
+
+Av_age <- Av_age %>%
+  mutate(AgegroupFreq = Agegroup*Freq) %>%
+  group_by(DivisionNm) %>%
+  summarise("Voter Age" = sum(AgegroupFreq)/sum(Freq))
+
+Av_family <- Combined_data %>%
+  dplyr::select(DivisionNm, `Couple without children`:`Other family`) %>%
+  pivot_longer(cols = `Couple without children`:`Other family`, names_to = "family", values_to = "frequency") %>%
+  group_by(DivisionNm) %>%
+  arrange(frequency) %>%
+  top_n(1, frequency)
+
+Av_income <- Combined_data %>%
+  dplyr::select(DivisionNm, `Median weekly household income`)
+
+Av_diversity <- Combined_data %>%
+  dplyr::select(DivisionNm, "Proportion born overseas" = Overseas)
+
+Av_Engagement <- Combined_data %>%
+  mutate(Engaged = 1 - `Not engaged`) %>%
+  dplyr::select(DivisionNm, Engaged) 
+
+Av_Education <- Combined_data %>%
+  dplyr::select(DivisionNm, `Cert III or higher`)
+
+Av_Occupation <- Combined_data %>%
+  dplyr::select(DivisionNm, Managers:`Not stated`) %>%
+  rename("Administrators" = `Clerical and Administrative Workers`) %>%
+  pivot_longer(-DivisionNm, names_to = "Occupation", values_to = "Percentage") %>%
+  group_by(DivisionNm) %>%
+  arrange(Percentage) %>%
+  top_n(1, Percentage)
+```
+
+
+
+```{r}
+Model_data <- TPP %>%
+  left_join(Av_age) %>%
+  left_join(Av_diversity) %>%
+  left_join(Av_Education) %>%
+  left_join(Av_Engagement) %>%
+  left_join(Av_family) %>%
+  left_join(Av_income) %>%
+  left_join(Av_Occupation) %>%
+  dplyr::select(DivisionNm, StateAb, `Liberal/National Coalition Percentage`, `Voter Age`:family, `Median weekly household income`:Occupation)
+
+Model_data <- Model_data %>%
+  mutate(StateAb = as.factor(StateAb),
+         family = as.factor(family),
+         Occupation = as.factor(Occupation))
+
+
+Overall_model <- lm(`Liberal/National Coalition Percentage` ~ StateAb + `Voter Age` + `Proportion born overseas` + `Cert III or higher` + Engaged + family + `Median weekly household income` + Occupation, data = Model_data)
+
+Step_model <- stepAIC(Overall_model, direction = "both", trace = FALSE)
+
+bind_rows(glance(Overall_model),
+          glance(Step_model),
+          .id = "Model") %>%
+  mutate(Model = case_when(
+    Model == "1" ~ "Overall model",
+    Model == "2" ~ "Stepwise model"
+  )) %>%
+  dplyr::select(Model, 'r.squared', 'adj.r.squared', AIC, BIC, deviance) %>%
+  kable(digits = 5) %>%
+  kable_styling(bootstrap_options = c("striped", "bordered"))
+
+options(scipen = 999)
+tidy(Overall_model) %>%
+  kable(digits = 5) %>%
+  kable_styling(bootstrap_options = c("striped", "bordered"))
+
+Step_model <- stepAIC(Overall_model, direction = "both", trace = FALSE)
+
+tidy(Step_model) %>%
+  kable(digits = 5) %>%
+  kable_styling(bootstrap_options = c("striped", "bordered"))
+
+Model_data %>%
+  filter(DivisionNm == "La Trobe")
+
+Step_aug <- augment(Step_model)
+
+Step_aug %>%
+  ggplot(aes(x = .fitted, y = .resid)) +
+  geom_point(color = "#e15759",
+          alpha = 0.5) +
+  geom_hline(yintercept = 0, 
+             color = "#4e79a7",
+             size = 1) +
+  theme_bw()
+```
+
+
+```{r modeltest}
+test_model <- Combined_data %>%
+  dplyr::select(StateAb, `Liberal/National Coalition Percentage`, `0-17`:`Cert III or higher`)
+
+test_model_lm <- lm(`Liberal/National Coalition Percentage`~., data = test_model)
+
+
+
+test_step <- stepAIC(test_model_lm, direction = "both", trace = FALSE)
+
+tidy(test_step)
+
+glance(test_step)
+
+augs <- augment(test_step)
+
+write_csv(augs, "Data/fits.csv")
+
+augs %>%
+  ggplot(aes(x = .fitted, y = .resid)) +
+  geom_point(color = "#e15759",
+          alpha = 0.5) +
+  geom_hline(yintercept = 0, 
+             color = "#4e79a7",
+             size = 1) +
+  theme_bw()
+```
+
+
+```{r}
+augment(Step_model) %>%
+  ggplot(aes(sample = .resid)) +
+  geom_qq(color = "#e15759",
+          alpha = 0.5) +
+  geom_qq_line(color = "#4e79a7",
+               size = 1) +
+  theme_bw()
+```
+
+```{r shape}
+Map <- readOGR("Data/COM_ELB_region.shp")
+
+fort_Divisions <- tidy(Map, region = "Elect_div") %>%
+  left_join(Av_age, by = c("id" = "DivisionNm"))
+
+ggplot() +
+  geom_polygon(data = fort_Divisions, aes(fill = `Voter Age`, x = long, y = lat, group = group)) +
+  theme_void() +
+  coord_map() +
+  scale_fill_distiller(palette = "YlOrRd", direction = 1) +
+  theme(legend.position = "bottom")
+```
+
+```{r equation}
+tidy(Step_model)
+
+regEq <- function(lmObj, dig) {
+    gsub(":", "*", 
+        paste0(
+            names(lmObj$model)[1]," = ",
+            paste0(
+                c(round(lmObj$coef[1], dig), round(sign(lmObj$coef[-1])*lmObj$coef[-1], dig)),
+                c("", rep("*", length(lmObj$coef)-1)),
+                paste0(c("", names(lmObj$coef)[-1]), c(ifelse(sign(lmObj$coef)[-1]==1," + "," - "), "")),
+                collapse=""
+            )
+        )
+    )
+}
+
+regEq(Step_model, 13)
+```
