@@ -73,6 +73,8 @@ write_csv(Division_data, "Data/Division_data.csv")
 
 ```{r shape}
 Divisions <- readOGR("Data/COM_ELB_region.shp")
+
+
 ```
 
 ```{r Average Size of Seat}
